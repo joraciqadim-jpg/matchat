@@ -147,6 +147,14 @@
     ]
   },
   {
+    "tournament": "Swedish Superettan - Week 13",
+    "match": "Varberg v Landskrona",
+    "time": "17:00",
+    "channels": [
+      "📺 TV4 Fotboll HD_مشفرة [Thor 0.8W 10872 V 25000]"
+    ]
+  },
+  {
     "tournament": "FIFA WORLD CUP 2026 - Group J, Round 2",
     "match": "Argentina v Austria",
     "time": "17:00",
@@ -250,6 +258,14 @@
       "📺 Zap Viva Internacional HD_مفتوحة [Eutelsat 10.0E 12734 V 4000]",
       "📺 Zor TV Uzbekistan_مشفرة [NSS 57.0E 11610 H 20200]",
       "📺 Zor TV Uzbekistan_مشفرة [MonacoSat 52.0E 10887 H 30000]"
+    ]
+  },
+  {
+    "tournament": "Swedish Superettan - Week 13",
+    "match": "Orebro v Sandviken",
+    "time": "17:05",
+    "channels": [
+      "📺 TV12 Sverige HD_مشفرة [Thor 0.8W 10872 V 25000]"
     ]
   },
   {
