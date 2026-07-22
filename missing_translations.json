@@ -1,4 +1,258 @@
 {
-   "Friendly Club Match": "مباريات ودية - أندية",
-
+  "Aberdeen": {
+    "en": "Aberdeen",
+    "ar": "أبردين"
+  },
+  "Albania": {
+    "en": "Albania",
+    "ar": "ألبانيا"
+  },
+  "Anyang": {
+    "en": "Anyang",
+    "ar": "آنيانغ"
+  },
+  "Arezzo": {
+    "en": "Arezzo",
+    "ar": "أريتسو"
+  },
+  "Azerbaijan": {
+    "en": "Azerbaijan",
+    "ar": "أذربيجان"
+  },
+  "Belarus": {
+    "en": "Belarus",
+    "ar": "بيلاروسيا"
+  },
+  "Bodø/Glimt": {
+    "en": "Bodø/Glimt",
+    "ar": "بودو/غليمت"
+  },
+  "Brazil": {
+    "en": "Brazil",
+    "ar": "البرازيل"
+  },
+  "Brazilian Série A": {
+    "en": "Brazilian Série A",
+    "ar": "الدوري البرازيلي"
+  },
+  "Bucheon 1995": {
+    "en": "Bucheon 1995",
+    "ar": "بو تشيون 1995"
+  },
+  "Bulgaria": {
+    "en": "Bulgaria",
+    "ar": "بلغاريا"
+  },
+  "CONMEBOL Copa Sudamericana": {
+    "en": "CONMEBOL Copa Sudamericana",
+    "ar": "كوبا سود أمريكا"
+  },
+  "CSKA 1948 Sofia": {
+    "en": "CSKA 1948 Sofia",
+    "ar": "سي إس كيه إيه 1948 صوفيا"
+  },
+  "Celje": {
+    "en": "Celje",
+    "ar": "سيليه"
+  },
+  "Colombia": {
+    "en": "Colombia",
+    "ar": "كولومبيا"
+  },
+  "Coritiba": {
+    "en": "Coritiba",
+    "ar": "كوريتيبا"
+  },
+  "Cyprus": {
+    "en": "Cyprus",
+    "ar": "قبرص"
+  },
+  "Dynamo Minsk": {
+    "en": "Dynamo Minsk",
+    "ar": "دينامو مينسك"
+  },
+  "Egnatia": {
+    "en": "Egnatia",
+    "ar": "إغناتيا"
+  },
+  "FC Porto": {
+    "en": "FC Porto",
+    "ar": "إف سي بورتو"
+  },
+  "Friendly Club Match": {
+    "en": "Friendly Club Match",
+    "ar": "مباراة ودية للأندية"
+  },
+  "Gil Vicente": {
+    "en": "Gil Vicente",
+    "ar": "جيل فيسنتي"
+  },
+  "HamKam": {
+    "en": "HamKam",
+    "ar": "هام كام"
+  },
+  "Independiente Medellín": {
+    "en": "Independiente Medellín",
+    "ar": "إنديبندينتي ميديلين"
+  },
+  "Italy": {
+    "en": "Italy",
+    "ar": "إيطاليا"
+  },
+  "Kairat Almaty": {
+    "en": "Kairat Almaty",
+    "ar": "كايرات ألماتي"
+  },
+  "Kazstan": {
+    "en": "Kazakhstan",
+    "ar": "كازاخستان"
+  },
+  "Koreasouth": {
+    "en": "South Korea",
+    "ar": "كوريا الجنوبية"
+  },
+  "Las Palmas": {
+    "en": "Las Palmas",
+    "ar": "لاس بالماس"
+  },
+  "Latvia": {
+    "en": "Latvia",
+    "ar": "لاتفيا"
+  },
+  "Levski Sofia": {
+    "en": "Levski Sofia",
+    "ar": "ليفسكي صوفيا"
+  },
+  "Lillestrøm": {
+    "en": "Lillestrøm",
+    "ar": "ليلستروم"
+  },
+  "Napoli": {
+    "en": "Napoli",
+    "ar": "نابولي"
+  },
+  "Neftchi": {
+    "en": "Neftchi",
+    "ar": "نفتشي"
+  },
+  "Northmacedonia": {
+    "en": "North Macedonia",
+    "ar": "مقدونيا الشمالية"
+  },
+  "Norway": {
+    "en": "Norway",
+    "ar": "النرويج"
+  },
+  "Norwegian Eliteserien": {
+    "en": "Norwegian Eliteserien",
+    "ar": "الدوري النرويجي الممتاز"
+  },
+  "Omonia Nicosia": {
+    "en": "Omonia Nicosia",
+    "ar": "أومونيا نيقوسيا"
+  },
+  "Orlando Pirates": {
+    "en": "Orlando Pirates",
+    "ar": "أورلاندو بايرتس"
+  },
+  "Palmeiras": {
+    "en": "Palmeiras",
+    "ar": "بالميراس"
+  },
+  "Portugal": {
+    "en": "Portugal",
+    "ar": "البرتغال"
+  },
+  "Queen of the South": {
+    "en": "Queen of the South",
+    "ar": "ملكة الجنوب"
+  },
+  "Riga FC": {
+    "en": "Riga FC",
+    "ar": "ريغا إف سي"
+  },
+  "Romania": {
+    "en": "Romania",
+    "ar": "رومانيا"
+  },
+  "Santos": {
+    "en": "Santos",
+    "ar": "سانتوس"
+  },
+  "Scotland": {
+    "en": "Scotland",
+    "ar": "اسكتلندا"
+  },
+  "Scottish League Cup": {
+    "en": "Scottish League Cup",
+    "ar": "كأس الدوري الاسكتلندي"
+  },
+  "Serbia": {
+    "en": "Serbia",
+    "ar": "صربيا"
+  },
+  "Slovakia": {
+    "en": "Slovakia",
+    "ar": "سلوفاكيا"
+  },
+  "Slovenia": {
+    "en": "Slovenia",
+    "ar": "سلوفينيا"
+  },
+  "South Korean K-League": {
+    "en": "South Korean K-League",
+    "ar": "الدوري الكوري الجنوبي"
+  },
+  "Southafrica": {
+    "en": "South Africa",
+    "ar": "جنوب أفريقيا"
+  },
+  "Spain": {
+    "en": "Spain",
+    "ar": "إسبانيا"
+  },
+  "Spartak Trnava": {
+    "en": "Spartak Trnava",
+    "ar": "سبارتاك ترنافا"
+  },
+  "Sporting Braga": {
+    "en": "Sporting Braga",
+    "ar": "سبورتينغ براغا"
+  },
+  "UEFA Champions League": {
+    "en": "UEFA Champions League",
+    "ar": "دوري أبطال أوروبا"
+  },
+  "UEFA Conference League": {
+    "en": "UEFA Conference League",
+    "ar": "الدوري الأوروبي للمؤتمر"
+  },
+  "Universidad Central": {
+    "en": "Universidad Central",
+    "ar": "جامعة سنترال"
+  },
+  "Universitatea Craiova": {
+    "en": "Universitatea Craiova",
+    "ar": "جامعة كرايوفا"
+  },
+  "Vardar Skopje": {
+    "en": "Vardar Skopje",
+    "ar": "فاردار سكوبي"
+  },
+  "Vasco da Gama": {
+    "en": "Vasco da Gama",
+    "ar": "فاسكو دا غاما"
+  },
+  "Venezuela": {
+    "en": "Venezuela",
+    "ar": "فنزويلا"
+  },
+  "Viking": {
+    "en": "Viking",
+    "ar": "فايكينغ"
+  },
+  "Zeleznicar": {
+    "en": "Zeleznicar",
+    "ar": "زيليزنيتشار"
+  }
 }
