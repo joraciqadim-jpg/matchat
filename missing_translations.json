@@ -17,9 +17,17 @@
   "Altai FC": "ألتاي",
   "Aluminij": "ألوميني",
   "Andorra": "أندورا",
+  "Anyang": {
+    "en": "Anyang",
+    "ar": "أنيانغ"
+  },
   "Ararat-Armenia": "أرارات أرمينيا",
   "Arbroath": "أربروث",
   "Arda": "أردا",
+  "Arezzo": {
+    "en": "Arezzo",
+    "ar": "أريتسو"
+  },
   "Argentina": "الأرجنتين",
   "Argentinean Cup": "كأس الأرجنتين",
   "Argentinean Cup (Copa Argentina)": "كأس الأرجنتين",
@@ -80,7 +88,15 @@
   "Chicago Red Stars": "شيكاغو ريد ستارز",
   "China": "الصين",
   "Chinese Super League": "الدوري الصيني الممتاز",
+  "Colombia": {
+    "en": "Colombia",
+    "ar": "كولومبيا"
+  },
   "Congodr": "كونغودر",
+  "Coritiba": {
+    "en": "Coritiba",
+    "ar": "كوريتيبا"
+  },
   "Cork City": "كورك سيتي",
   "Corvinul Hunedoara": "كورفينول هونيدوارا",
   "Cracovia": "كراكوفيا",
@@ -116,6 +132,10 @@
   "Estonia": "إستونيا",
   "Estonian Meistriliiga": "دوري إستونيا الممتاز",
   "Estudiantes LP": "إستوديانتيس لابلاتا",
+  "FC Porto": {
+    "en": "FC Porto",
+    "ar": "إف سي بورتو"
+  },
   "FC Seoul": "إف سي سيؤول",
   "FCSB": "ف سي إس بي",
   "FIFA WORLD CUP 2026": "كأس العالم لكرة القدم 2026",
@@ -142,6 +162,10 @@
   "German Regional Cup": "كأس ألمانيا الإقليمي",
   "German Regional Cup - Bayern": "كأس ألمانيا الإقليمي - بايرن",
   "Germany": "ألمانيا",
+  "Gil Vicente": {
+    "en": "Gil Vicente",
+    "ar": "جيل فيسنتي"
+  },
   "Gimnasia La Plata": "جمناسيا لابلاتا",
   "Greece": "اليونان",
   "Groningen": "خرونينغن",
@@ -164,6 +188,10 @@
   "Iberia 1999": "إيبريا 1999",
   "Iceland": "آيسلندا",
   "Incheon United": "إنشيون يونايتد",
+  "Independiente Medellín": {
+    "en": "Independiente Medellín",
+    "ar": "إنديبندينتي ميديلين"
+  },
   "Independiente RM": "إنديبندينتي آر إم",
   "Ireland": "أيرلندا",
   "Irish FAI Cup": "كأس الاتحاد الأيرلندي",
@@ -191,6 +219,10 @@
   "KÍ Klaksvík": "كي آي كلاكسفيك",
   "LASK Linz": "لاسك لينتس",
   "Larne": "لارن",
+  "Las Palmas": {
+    "en": "Las Palmas",
+    "ar": "لاس بالماس"
+  },
   "Latvia": "لاتفيا",
   "Lech Poznan": "ليخ بوزنان",
   "Leuven": "لوفان",
@@ -226,6 +258,10 @@
   },
   "Nacional Montevideo": "ناسيونال مونتيفيديو",
   "Nafta 1903": "نافتا 1903",
+  "Napoli": {
+    "en": "Napoli",
+    "ar": "نابولي"
+  },
   "National Womens Soccer League": "الدوري الامريكي للسيدات",
   "National Womens Soccer League (NWSL)": "الدوري الامريكي للسيدات",
   "Neftchi": "نفتشي",
@@ -250,6 +286,10 @@
   "Osijek": "أوسييك",
   "Oster": "أوستر",
   "Otelul Galati": "أوتيلول جالاتي",
+  "Palmeiras": {
+    "en": "Palmeiras",
+    "ar": "بالميراس"
+  },
   "Panetolikos": "بانيتوليكوس",
   "Partizan Belgrade": "بارتيزان بلجراد",
   "Petrocub": "بيتروكوب",
@@ -262,6 +302,10 @@
   "Portugal": "البرتغال",
   "Pyunik": "بيونيك",
   "Qarabagh": "قاراباغ",
+  "Queen of the South": {
+    "en": "Queen Of The South",
+    "ar": "ملكة الجنوب"
+  },
   "Queen's Park": "كوينز بارك",
   "Radnicki 1923": "رادنيتشكي 1923",
   "Radnicki Nis": "رادنيتشكي نيش",
@@ -271,6 +315,10 @@
   "Rapid Bucharest": "رابيد بوخارست",
   "Real Betis": "ريال بيتيس",
   "Red Star Belgrade": "نجم أحمر بلغراد",
+  "Riga FC": {
+    "en": "Riga FC",
+    "ar": "ريغا إف سي"
+  },
   "Rijeka": "رييكا",
   "River Plate": "ريفر بليت",
   "Romania": "رومانيا",
@@ -321,6 +369,10 @@
   },
   "Spain": "إسبانيا",
   "Spartak Moscow": "سبارتاك موسكو",
+  "Spartak Trnava": {
+    "en": "Spartak Trnava",
+    "ar": "سبارتاك ترنافا"
+  },
   "Spartak Varna": "سبارتاك فارنا",
   "Sportfreunde Lotte": "سبورتفروند لوت",
   "Sporting Braga": "سبورتينغ براغا",
@@ -350,6 +402,10 @@
   "UTA Arad": "يوتا أراد",
   "Ukraine": "أوكرانيا",
   "Ulsan Horang-i": "أولسان هوارنج",
+  "Universidad Central": {
+    "en": "Universidad Central",
+    "ar": "جامعة سنترال"
+  },
   "Universitatea Cluj": "يونيفرسيتاتيا كلوج",
   "Universitatea Craiova": "يونيفرسيتاتيا كرايوفا",
   "Uraguay": "أوروغواي",
@@ -357,7 +413,19 @@
   "Usa": "الولايات المتحدة الأمريكية",
   "Utah Royals": "يوتا رويالز",
   "Vardar Skopje": "فاردار سكوبي",
+  "Vasco da Gama": {
+    "en": "Vasco Da Gama",
+    "ar": "فاسكو دا غاما"
+  },
+  "Venezuela": {
+    "en": "Venezuela",
+    "ar": "فنزويلا"
+  },
   "Vestri": "فيستري",
+  "Viking": {
+    "en": "Viking",
+    "ar": "فايكنج"
+  },
   "Villarreal": "فياريال",
   "Vitebsk": "فيتيبسك",
   "Vitesse Arnhem": "فيتيسه أرنهيم",
