@@ -1,4 +1,8 @@
 {
+  "ARKA Gdynia": {
+    "en": "ARKA Gdynia",
+    "ar": "أركا غدينيا"
+  },
   "Alashkert": {
     "en": "Alashkert",
     "ar": "ألاشكرت"
@@ -15,6 +19,14 @@
     "en": "Anderlecht",
     "ar": "اندريه ليهت"
   },
+  "Antwerp": {
+    "en": "Antwerp",
+    "ar": "أنتويرب"
+  },
+  "Arda": {
+    "en": "Arda",
+    "ar": "أردا"
+  },
   "Argentina": {
     "en": "Argentina",
     "ar": "الأرجنتين"
@@ -23,9 +35,17 @@
     "en": "Argentine Primera División - Clausura",
     "ar": "الدوري الأرجنتيني كلاوسورا"
   },
+  "Arges": {
+    "en": "Arges",
+    "ar": "أرجيس"
+  },
   "Armenia": {
     "en": "Armenia",
     "ar": "أرمينيا"
+  },
+  "Arsemi": {
+    "en": "Arsemi",
+    "ar": "أرسيمي"
   },
   "Atlético Paranaense": {
     "en": "Atlético Paranaense",
@@ -47,6 +67,10 @@
     "en": "Azerbaijan",
     "ar": "أذربيجان"
   },
+  "Baltika": {
+    "en": "Baltika",
+    "ar": "بالتيكا"
+  },
   "Belarus": {
     "en": "Belarus",
     "ar": "بيلاروسيا"
@@ -63,9 +87,17 @@
     "en": "Benfica",
     "ar": "بنفيكا"
   },
+  "Beroe": {
+    "en": "Beroe",
+    "ar": "بيراو"
+  },
   "Besiktas": {
     "en": "Besiktas",
     "ar": "بيشكتاش"
+  },
+  "Boca Juniors": {
+    "en": "Boca Juniors",
+    "ar": "بوكا جونيورز"
   },
   "Bolivia": {
     "en": "Bolivia",
@@ -82,6 +114,10 @@
   "Bosnia": {
     "en": "Bosnia And Herzegovina",
     "ar": "البوسنة والهرسك"
+  },
+  "Bournemouth": {
+    "en": "Bournemouth",
+    "ar": "بورنموث"
   },
   "Bragantino": {
     "en": "Bragantino",
@@ -107,6 +143,14 @@
     "en": "Bulgaria",
     "ar": "بلغاريا"
   },
+  "Bulgarian First League": {
+    "en": "Bulgarian First League",
+    "ar": "الدوري البلغاري الأول"
+  },
+  "Bulgarian Second League": {
+    "en": "Bulgarian Second League",
+    "ar": "الدوري البلغاري الثاني"
+  },
   "CFR Cluj": {
     "en": "CFR Cluj",
     "ar": "كلوج"
@@ -115,17 +159,33 @@
     "en": "CONMEBOL Copa Sudamericana",
     "ar": "كوبا سود أمريكا"
   },
+  "CSKA Moscow": {
+    "en": "CSKA Moscow",
+    "ar": "سيسكا موسكو"
+  },
   "CSKA Sofia": {
     "en": "CSKA Sofia",
     "ar": "سيسكا صوفيا"
+  },
+  "Caracas": {
+    "en": "Caracas",
+    "ar": "كاراكاس"
   },
   "Chapecoense": {
     "en": "Chapecoense",
     "ar": "شابيكوينسي"
   },
+  "Chile": {
+    "en": "Chile",
+    "ar": "تشيلي"
+  },
   "Cienciano": {
     "en": "Cienciano",
     "ar": "سيينسيانو"
+  },
+  "Colombia": {
+    "en": "Colombia",
+    "ar": "كولومبيا"
   },
   "Corinthians": {
     "en": "Corinthians",
@@ -147,6 +207,10 @@
     "en": "Czechia",
     "ar": "التشيك"
   },
+  "Danish Superliga": {
+    "en": "Danish Superliga",
+    "ar": "الدوري الدنماركي الممتاز"
+  },
   "Debrecen": {
     "en": "Debrecen",
     "ar": "ديبريسين"
@@ -167,9 +231,17 @@
     "en": "Dinamo Tbilisi",
     "ar": "دينامو تبليسي"
   },
+  "Dundalk": {
+    "en": "Dundalk",
+    "ar": "دندالك"
+  },
   "Dynamo Kyiv": {
     "en": "Dynamo Kyiv",
     "ar": "دينامو كييف"
+  },
+  "England": {
+    "en": "England",
+    "ar": "إنجلترا"
   },
   "Estonia": {
     "en": "Estonia",
@@ -203,6 +275,14 @@
     "en": "Georgia",
     "ar": "جورجيا"
   },
+  "Germany": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+  },
+  "Gimnasia La Plata": {
+    "en": "Gimnasia La Plata",
+    "ar": "جمناسيا لابلاتا"
+  },
   "Gorica": {
     "en": "Gorica",
     "ar": "غوريكا"
@@ -223,6 +303,10 @@
     "en": "Hammarby",
     "ar": "هاماربي"
   },
+  "Hebar 1918": {
+    "en": "Hebar 1918",
+    "ar": "هيبار 1918"
+  },
   "Holland": {
     "en": "Netherlands",
     "ar": "هولندا"
@@ -231,6 +315,10 @@
     "en": "Hungary",
     "ar": "المجر"
   },
+  "Independiente Santa Fé": {
+    "en": "Independiente Santa Fé",
+    "ar": "إنديبندينتي سانتا في"
+  },
   "Internacional": {
     "en": "Internacional",
     "ar": "إنترناسيونال"
@@ -238,6 +326,14 @@
   "Ireland": {
     "en": "Ireland",
     "ar": "أيرلندا"
+  },
+  "Irish Premier Division": {
+    "en": "Irish Premier Division",
+    "ar": "الدوري الأيرلندي الممتاز"
+  },
+  "Italy": {
+    "en": "Italy",
+    "ar": "إيطاليا"
   },
   "Jablonec": {
     "en": "Jablonec",
@@ -255,6 +351,10 @@
     "en": "Latvia",
     "ar": "لاتفيا"
   },
+  "Legia Warsaw": {
+    "en": "Legia Warsaw",
+    "ar": "ليغيا وارسو"
+  },
   "Lithuania": {
     "en": "Lithuania",
     "ar": "ليتوانيا"
@@ -271,6 +371,10 @@
     "en": "MSK Zilina",
     "ar": "زيلينا"
   },
+  "Manchester United": {
+    "en": "Manchester United",
+    "ar": "مانشستر يونايتد"
+  },
   "Midtjylland": {
     "en": "Midtjylland",
     "ar": "ميدتيولند"
@@ -283,6 +387,14 @@
     "en": "Montenegro",
     "ar": "الجبل الأسود"
   },
+  "NEOM SC": {
+    "en": "NEOM SC",
+    "ar": "نيوم"
+  },
+  "North Macedonian First League": {
+    "en": "North Macedonian First League",
+    "ar": "الدوري المقدوني الأول"
+  },
   "Northmacedonia": {
     "en": "North Macedonia",
     "ar": "مقدونيا الشمالية"
@@ -290,6 +402,34 @@
   "Norway": {
     "en": "Norway",
     "ar": "النرويج"
+  },
+  "O'Higgins": {
+    "en": "O'Higgins",
+    "ar": "أوهيجينز"
+  },
+  "OB Odense": {
+    "en": "OB Odense",
+    "ar": "أوبي أودنس"
+  },
+  "Odra Opole": {
+    "en": "Odra Opole",
+    "ar": "أودرا أوبول"
+  },
+  "Olympiacos": {
+    "en": "Olympiacos",
+    "ar": "أولمبياكوس"
+  },
+  "Orgryte": {
+    "en": "Orgryte",
+    "ar": "أورغريتي"
+  },
+  "Orlando Pirates": {
+    "en": "Orlando Pirates",
+    "ar": "أورلاندو بايرتس"
+  },
+  "Otelul Galati": {
+    "en": "Otelul Galati",
+    "ar": "أوتيلول جالاتي"
   },
   "PAOK Thessaloniki": {
     "en": "PAOK Thessaloniki",
@@ -327,9 +467,25 @@
     "en": "Petrocub",
     "ar": "بيتروكوب"
   },
+  "Petrolul": {
+    "en": "Petrolul",
+    "ar": "بيترولول"
+  },
+  "Pogon Szczecin": {
+    "en": "Pogon Szczecin",
+    "ar": "بوجون شتشين"
+  },
   "Poland": {
     "en": "Poland",
     "ar": "بولندا"
+  },
+  "Polish 1. Liga": {
+    "en": "Polish 1. Liga",
+    "ar": "الدوري البولندي الدرجة الأولى"
+  },
+  "Polish Ekstraklasa": {
+    "en": "Polish Ekstraklasa",
+    "ar": "الدوري البولندي الممتاز"
   },
   "Portugal": {
     "en": "Portugal",
@@ -343,6 +499,14 @@
     "en": "Qarabagh",
     "ar": "قاراباغ"
   },
+  "Racing Club": {
+    "en": "Racing Club",
+    "ar": "راسينغ كلوب"
+  },
+  "Radomiak Radom": {
+    "en": "Radomiak Radom",
+    "ar": "رادومياك رادوم"
+  },
   "Remo": {
     "en": "Remo",
     "ar": "ريمو"
@@ -355,9 +519,29 @@
     "en": "Romania",
     "ar": "رومانيا"
   },
+  "Romanian Superliga": {
+    "en": "Romanian Superliga",
+    "ar": "الدوري الروماني الممتاز"
+  },
   "Rosario Central": {
     "en": "Rosario Central",
     "ar": "روساريو سنترال"
+  },
+  "Rosenborg": {
+    "en": "Rosenborg",
+    "ar": "روسينبورغ"
+  },
+  "Russia": {
+    "en": "Russia",
+    "ar": "روسيا"
+  },
+  "Russian Premier League": {
+    "en": "Russian Premier League",
+    "ar": "الدوري الروسي الممتاز"
+  },
+  "Saudiarabia": {
+    "en": "Saudi Arabia",
+    "ar": "السعودية"
   },
   "Serbia": {
     "en": "Serbia",
@@ -371,6 +555,10 @@
     "en": "Shkëndija",
     "ar": "شكنديا"
   },
+  "Slavia Sofia": {
+    "en": "Slavia Sofia",
+    "ar": "سلافيا صوفيا"
+  },
   "Slovakia": {
     "en": "Slovakia",
     "ar": "سلوفاكيا"
@@ -378,6 +566,10 @@
   "Slovenia": {
     "en": "Slovenia",
     "ar": "سلوفينيا"
+  },
+  "Southafrica": {
+    "en": "South Africa",
+    "ar": "جنوب أفريقيا"
   },
   "Sporting Cristal": {
     "en": "Sporting Cristal",
@@ -387,13 +579,33 @@
     "en": "St Gallen",
     "ar": "سانت غالن"
   },
+  "St Patrick's Athletic": {
+    "en": "St Patrick's Athletic",
+    "ar": "سانت باتريك أثليتيك"
+  },
+  "St Pauli": {
+    "en": "St Pauli",
+    "ar": "باولي"
+  },
   "Sutjeska": {
     "en": "Sutjeska",
     "ar": "سوتيسكا"
   },
+  "Swansea City": {
+    "en": "Swansea City",
+    "ar": "سوانزي سيتي"
+  },
   "Sweden": {
     "en": "Sweden",
     "ar": "السويد"
+  },
+  "Swedish Allsvenskan": {
+    "en": "Swedish Allsvenskan",
+    "ar": "الدوري السويدي الممتاز"
+  },
+  "Swiss Challenge League": {
+    "en": "Swiss Challenge League",
+    "ar": "الدوري السويسري"
   },
   "Switzerland": {
     "en": "Switzerland",
@@ -402,6 +614,10 @@
   "São Paulo": {
     "en": "São Paulo",
     "ar": "سان باولو"
+  },
+  "Tikveš": {
+    "en": "Tikveš",
+    "ar": "تيكفاش"
   },
   "Tobol": {
     "en": "Tobol",
@@ -427,6 +643,14 @@
     "en": "UNA Strassen",
     "ar": "يونا شتراسين"
   },
+  "UTA Arad": {
+    "en": "UTA Arad",
+    "ar": "يوتا أراد"
+  },
+  "Udinese": {
+    "en": "Udinese",
+    "ar": "أودينيزي"
+  },
   "Ukraine": {
     "en": "Ukraine",
     "ar": "أوكرانيا"
@@ -439,9 +663,37 @@
     "en": "Varaždin",
     "ar": "فاراجدين"
   },
+  "Venezuela": {
+    "en": "Venezuela",
+    "ar": "فنزويلا"
+  },
+  "Viborg": {
+    "en": "Viborg",
+    "ar": "فيبورغ"
+  },
   "Vojvodina": {
     "en": "Vojvodina",
     "ar": "فويفودينا"
+  },
+  "Västerås SK": {
+    "en": "Västerås SK",
+    "ar": "فاستراس"
+  },
+  "Wales": {
+    "en": "Wales",
+    "ar": "ويلز"
+  },
+  "Wieczysta Kraków": {
+    "en": "Wieczysta Kraków",
+    "ar": "فيتشستا كراكوف"
+  },
+  "Winterthur": {
+    "en": "Winterthur",
+    "ar": "فينترتور"
+  },
+  "Yverdon Sport": {
+    "en": "Yverdon Sport",
+    "ar": "إيفر سبورت"
   },
   "Zalgiris": {
     "en": "Zalgiris",
