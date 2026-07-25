@@ -1,65 +1,69 @@
-{
-  "AC Milan": {
-    "en": "AC Milan",
-    "ar": "ميلان"
+dard Liège",
+    "ar": "ستاندارد لييج"
   },
-  "AGF Aarhus": {
-    "en": "AGF Aarhus",
-    "ar": "أغف آرهوس"
+  "Struga": {
+    "en": "Struga",
+    "ar": "ستروغا"
   },
-  "AZ Alkmaar": {
-    "en": "AZ Alkmaar",
-    "ar": "ألكمار"
+  "Sunderland": {
+    "en": "Sunderland",
+    "ar": "سندرلاند"
   },
-  "Akron": {
-    "en": "Akron",
-    "ar": "آكرون"
+  "Sweden": {
+    "en": "Sweden",
+    "ar": "السويد"
   },
-  "Argentina": {
-    "en": "Argentina",
-    "ar": "الأرجنتين"
+  "Swedish Allsvenskan": {
+    "en": "Swedish Allsvenskan",
+    "ar": "الدوري السويدي الممتاز"
   },
-  "Argentinean Primera División - Clausura": {
-    "en": "Argentine Primera División - Clausura",
-    "ar": "الدوري الأرجنتيني الممتاز - كلاوسورا"
+  "Swedish Damallsvenskan": {
+    "en": "Swedish Women's League",
+    "ar": "الدوري السويدي للسيدات"
   },
-  "Aston Villa": {
-    "en": "Aston Villa",
-    "ar": "أستون فيلا"
+  "Swiss Super League": {
+    "en": "Swiss Super League",
+    "ar": "الدوري السويسري الممتاز"
   },
-  "Atlético Nacional": {
-    "en": "Atlético Nacional",
-    "ar": "أتلتيكو ناسيونال"
+  "Switzerland": {
+    "en": "Switzerland",
+    "ar": "سويسرا"
   },
-  "Atlético Paranaense": {
-    "en": "Atlético Paranaense",
-    "ar": "أتلتيكو باراناينسي"
+  "Thun": {
+    "en": "Thun",
+    "ar": "تون"
   },
-  "Barracas Central": {
-    "en": "Barracas Central",
-    "ar": "باراكاس سينترال"
+  "Torino": {
+    "en": "Torino",
+    "ar": "تورينو"
   },
-  "Bayer Leverkusen": {
-    "en": "Bayer Leverkusen",
-    "ar": "باير ليفركوزن"
+  "Torreense": {
+    "en": "Torreense",
+    "ar": "تورينسي"
   },
-  "Belgium": {
-    "en": "Belgium",
-    "ar": "بلجيكا"
+  "Turkey": {
+    "en": "Turkey",
+    "ar": "تركيا"
   },
-  "Bolton Wanderers": {
-    "en": "Bolton Wanderers",
-    "ar": "بولتون واندررز"
+  "Universitatea Craiova": {
+    "en": "Universitatea Craiova",
+    "ar": "جامعة كرايوفا"
   },
-  "Borussia Dortmund": {
-    "en": "Borussia Dortmund",
-    "ar": "بوروسيا دورتموند"
+  "Usa": {
+    "en": "United States",
+    "ar": "الولايات المتحدة"
   },
-  "Boston Legacy": {
-    "en": "Boston Legacy",
-    "ar": "بوسطن ليجاسي"
+  "VSG Altglienicke": {
+    "en": "VSG Altglienicke",
+    "ar": "فيسجي ألتغليينيك"
   },
-  "Botev Vratsa": {
+  "Vardar Skopje": {
+    "en": "Vardar Skopje",
+    "ar": "فاردار سكوبي"
+  },
+  "Vasco da Gama": {
+    "en": "Vasco da Gama",
+    "ar": "فاسكو دا غ: {
     "en": "Botev Vratsa",
     "ar": "بوتيف فراتسا"
   },
@@ -241,11 +245,11 @@
   },
   "Friendly Club Match": {
     "en": "Friendly Club Match",
-    "ar": "مباراة ودية بين الأندية"
+    "ar": "مباريات ودية - الأندية"
   },
   "German Regionalliga: Nordost": {
     "en": "German Regionalliga: Nordost",
-    "ar": "الدوري الألماني الدرجة الرابعة نورد أوست"
+    "ar": "الدوري الألماني 4 - نورد أوست"
   },
   "Germany": {
     "en": "Germany",
@@ -277,7 +281,7 @@
   },
   "IMT Novi Belgrade": {
     "en": "IMT Novi Belgrade",
-    "ar": "إي إم تي نوفي بلغراد"
+    "ar": "نوفي بلغراد"
   },
   "Internacional": {
     "en": "Internacional",
@@ -392,8 +396,8 @@
     "ar": "ن جيرسي/ن يورك غوثام"
   },
   "National Womens Soccer League (NWSL)": {
-    "en": "National Women's Soccer League",
-    "ar": "الدوري الوطني لكرة القدم للسيدات"
+    "en": "National Women's Soccer League (NWSL)",
+    "ar": "الدوري الأمريكي للسيدات"
   },
   "North Macedonian First League": {
     "en": "North Macedonian First League",
@@ -405,7 +409,7 @@
   },
   "OFK Belgrade": {
     "en": "OFK Belgrade",
-    "ar": "أو إف كي بلغراد"
+    "ar": "أفك بلغراد"
   },
   "Olimpija": {
     "en": "Olimpija",
@@ -572,72 +576,7 @@
     "ar": "سبورتنغ لشبونة"
   },
   "Standard Liège": {
-    "en": "Standard Liège",
-    "ar": "ستاندارد لييج"
-  },
-  "Struga": {
-    "en": "Struga",
-    "ar": "ستروغا"
-  },
-  "Sunderland": {
-    "en": "Sunderland",
-    "ar": "سندرلاند"
-  },
-  "Sweden": {
-    "en": "Sweden",
-    "ar": "السويد"
-  },
-  "Swedish Allsvenskan": {
-    "en": "Swedish Allsvenskan",
-    "ar": "الدوري السويدي الممتاز"
-  },
-  "Swedish Damallsvenskan": {
-    "en": "Swedish Women's League",
-    "ar": "الدوري السويدي للسيدات"
-  },
-  "Swiss Super League": {
-    "en": "Swiss Super League",
-    "ar": "الدوري السويسري الممتاز"
-  },
-  "Switzerland": {
-    "en": "Switzerland",
-    "ar": "سويسرا"
-  },
-  "Thun": {
-    "en": "Thun",
-    "ar": "تون"
-  },
-  "Torino": {
-    "en": "Torino",
-    "ar": "تورينو"
-  },
-  "Torreense": {
-    "en": "Torreense",
-    "ar": "تورينسي"
-  },
-  "Turkey": {
-    "en": "Turkey",
-    "ar": "تركيا"
-  },
-  "Universitatea Craiova": {
-    "en": "Universitatea Craiova",
-    "ar": "يونيفرسيتاتيا كرايوفا"
-  },
-  "Usa": {
-    "en": "United States",
-    "ar": "الولايات المتحدة"
-  },
-  "VSG Altglienicke": {
-    "en": "VSG Altglienicke",
-    "ar": "فيس جي ألتغليينيك"
-  },
-  "Vardar Skopje": {
-    "en": "Vardar Skopje",
-    "ar": "فاردار سكوبي"
-  },
-  "Vasco da Gama": {
-    "en": "Vasco da Gama",
-    "ar": "فاسكو دا غاما"
+    "en": "Stanاما"
   },
   "Vendsyssel": {
     "en": "Vendsyssel",
