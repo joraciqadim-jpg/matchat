@@ -1,4 +1,244 @@
 {
+  "Argentina": {
+    "en": "Argentina",
+    "ar": "الأرجنتين"
+  },
+  "Argentinean Primera División - Clausura": {
+    "en": "Argentine Primera División - Clausura",
+    "ar": "الدوري الأرجنتيني - كلاوسورا"
+  },
+  "Aston Villa": {
+    "en": "Aston Villa FC",
+    "ar": "استون فيلا"
+  },
+  "Atlético Nacional": {
+    "en": "Atlético Nacional",
+    "ar": "أتلتيكو ناسيونال"
+  },
+  "Atlético Paranaense": {
+    "en": "Atlético Paranaense",
+    "ar": "أتلتيكو باراناينسي"
+  },
+  "Barracas Central": {
+    "en": "Barracas Central",
+    "ar": "باراكاس سينترال"
+  },
+  "Boston Legacy": {
+    "en": "Boston Legacy",
+    "ar": "بوسطن ليجاسي"
+  },
+  "Boyacá Chicó": {
+    "en": "Boyacá Chicó",
+    "ar": "بوياكا شيكو"
+  },
+  "Brazil": {
+    "en": "Brazil",
+    "ar": "البرازيل"
+  },
+  "Brazilian Série A": {
+    "en": "Brazilian Série A",
+    "ar": "الدوري البرازيلي"
+  },
+  "Brinje Grosuplje": {
+    "en": "Brinje Grosuplje",
+    "ar": "برينيه غروشوبلي"
+  },
+  "Bulgarian First League": {
+    "en": "Bulgarian First League",
+    "ar": "الدوري البلغاري الممتاز"
+  },
+  "Chapecoense": {
+    "en": "Chapecoense",
+    "ar": "شابيكوينسي"
+  },
+  "Chinese Super League": {
+    "en": "Chinese Super League",
+    "ar": "الدوري الصيني الممتاز"
+  },
+  "Colombian Primera A - Clausura": {
+    "en": "Colombian Primera A - Clausura",
+    "ar": "الدوري الكولومبي - كلاوسورا"
+  },
+  "Cracovia": {
+    "en": "Cracovia",
+    "ar": "كراكوفيا"
+  },
+  "Czech LIGA": {
+    "en": "Czech First League",
+    "ar": "الدوري التشيكي الممتاز"
+  },
+  "Danish 1. Division": {
+    "en": "Danish 1. Division",
+    "ar": "الدوري الدانماركي الدرجة الأولى"
+  },
+  "Danish A-Liga Women": {
+    "en": "Danish A-Liga Women",
+    "ar": "الدوري الدانماركي للسيدات"
+  },
+  "Danish Superliga": {
+    "en": "Danish Superliga",
+    "ar": "الدوري الدانماركي الممتاز"
+  },
+  "FC Porto": {
+    "en": "FC Porto",
+    "ar": "بورتو"
+  },
+  "France": {
+    "en": "France",
+    "ar": "فرنسا"
+  },
+  "German Regionalliga: Nordost": {
+    "en": "German Regionalliga: Nordost",
+    "ar": "الدوري الألماني الدرجة الرابعة نورداست"
+  },
+  "Internacional": {
+    "en": "Internacional",
+    "ar": "إنترناسيونال"
+  },
+  "Kansas City": {
+    "en": "Kansas City",
+    "ar": "كانساس سيتي"
+  },
+  "Lech Poznan": {
+    "en": "Lech Poznan",
+    "ar": "ليخ بوزنان"
+  },
+  "Leeds United": {
+    "en": "Leeds United FC",
+    "ar": "ليدز يونايتد"
+  },
+  "Levski Sofia": {
+    "en": "Levski Sofia",
+    "ar": "ليفسكي صوفيا"
+  },
+  "Liverpool": {
+    "en": "Liverpool FC",
+    "ar": "ليفرپول"
+  },
+  "Luzern": {
+    "en": "Luzern",
+    "ar": "لون"
+  },
+  "Maribor": {
+    "en": "Maribor",
+    "ar": "ماريبور"
+  },
+  "Michalovce": {
+    "en": "Michalovce",
+    "ar": "ميكالوفسي"
+  },
+  "Mirassol": {
+    "en": "Mirassol",
+    "ar": "ميراسول"
+  },
+  "Monaco": {
+    "en": "Monaco",
+    "ar": "موناكو"
+  },
+  "National Womens Soccer League (NWSL)": {
+    "en": "National Women's Soccer League (NWSL)",
+    "ar": "الدوري الوطني لكرة القدم للسيدات"
+  },
+  "North Macedonian First League": {
+    "en": "North Macedonian First League",
+    "ar": "الدوري المقدوني الدرجة الأولى"
+  },
+  "Podbrezová": {
+    "en": "Podbrezová",
+    "ar": "بودبريزوفا"
+  },
+  "Polish 2. Liga": {
+    "en": "Polish 2. Liga",
+    "ar": "الدوري البولندي الدرجة الثانية"
+  },
+  "Polish Ekstraklasa": {
+    "en": "Polish Ekstraklasa",
+    "ar": "الدوري البولندي الممتاز"
+  },
+  "River Plate": {
+    "en": "River Plate",
+    "ar": "ريفر بليت"
+  },
+  "Romanian Superliga": {
+    "en": "Romanian Superliga",
+    "ar": "الدوري الروماني الممتاز"
+  },
+  "Russian FNL 2A": {
+    "en": "Russian FNL 2A",
+    "ar": "الدوري الروسي الدرجة الثالثة"
+  },
+  "Russian Premier League": {
+    "en": "Russian Premier League",
+    "ar": "الدوري الروسي الممتاز"
+  },
+  "Santos": {
+    "en": "Santos FC",
+    "ar": "سانتوس"
+  },
+  "Serbian Super League": {
+    "en": "Serbian Super League",
+    "ar": "الدوري الصربي الممتاز"
+  },
+  "Slovak Super Liga": {
+    "en": "Slovak Super Liga",
+    "ar": "الدوري السلوفاكي الممتاز"
+  },
+  "Slovakia": {
+    "en": "Slovakia",
+    "ar": "سلوفاكيا"
+  },
+  "Slovenian Prva Liga": {
+    "en": "Slovenian Prva Liga",
+    "ar": "الدوري السلوفيني الممتاز"
+  },
+  "South Korean K-League": {
+    "en": "South Korean K-League",
+    "ar": "الدوري الكوري"
+  },
+  "Sporting Lisbon": {
+    "en": "Sporting CP",
+    "ar": "سبورتينغ لشبونة"
+  },
+  "Sunderland": {
+    "en": "Sunderland AFC",
+    "ar": "سندرلاند"
+  },
+  "Swedish Allsvenskan": {
+    "en": "Swedish Allsvenskan",
+    "ar": "الدوري السويدي الممتاز"
+  },
+  "Swedish Damallsvenskan": {
+    "en": "Swedish Damallsvenskan",
+    "ar": "الدوري السويدي للسيدات"
+  },
+  "Swiss Super League": {
+    "en": "Swiss Super League",
+    "ar": "الدوري السويسري الممتاز"
+  },
+  "Switzerland": {
+    "en": "Switzerland",
+    "ar": "سويسرا"
+  },
+  "Thun": {
+    "en": "Thun",
+    "ar": "ثون"
+  },
+  "Vasco da Gama": {
+    "en": "Vasco da Gama",
+    "ar": "فاسكو دا غاما"
+  },
+  "Wales": {
+    "en": "Wales",
+    "ar": "ويلز"
+  },
+  "Wrexham": {
+    "en": "Wrexham AFC",
+    "ar": "وريكسام"
+  },
+  "Zemun": {
+    "en": "Zemun",
+    "ar": "زيمون"
+  },
   "ac milan": {
     "en": "AC Milan",
     "ar": "إيه سي ميلان"
