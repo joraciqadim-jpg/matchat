@@ -1,12 +1,4 @@
 {
-  "Napoli": {
-    "en": "Napoli",
-    "ar": "نابولي"
-  },
-  "Carrarese": {
-    "en": "Carrarese",
-    "ar": "كاراريسي"
-  },
   "AEK Athens": {
     "en": "AEK Athens",
     "ar": "ايك اثينا"
@@ -78,6 +70,10 @@
   "Burnley": {
     "en": "Burnley",
     "ar": "بيرنلي"
+  },
+  "Carrarese": {
+    "en": "Carrarese",
+    "ar": "كاراريسي"
   },
   "Ceuta": {
     "en": "Ceuta",
@@ -247,12 +243,16 @@
     "en": "Nafta 1903",
     "ar": "نافتا 1903"
   },
+  "Napoli": {
+    "en": "Napoli",
+    "ar": "نابولي"
+  },
   "National Women's Soccer League (NWSL)": {
     "en": "National Women's Soccer League",
     "ar": "الدوري الوطني لكرة القدم للسيدات"
   },
   "National Womens Soccer League (NWSL)": {
-    "en": "National Women's Soccer League (NWSL)",
+    "en": "National Women's Soccer League",
     "ar": "الدوري الوطني لكرة القدم للسيدات"
   },
   "Neman Grodno": {
