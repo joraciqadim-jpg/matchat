@@ -1,4 +1,276 @@
 {
+  "Racing Louisville": {
+    "en": "Racing Louisville",
+    "ar": "راسينغ لويفيل"
+  },
+  "Bragantino": {
+    "en": "Bragantino",
+    "ar": "براغانتينو"
+  },
+  "Sporting Cristal": {
+    "en": "Sporting Cristal",
+    "ar": "سبورتينغ كريستال"
+  },
+  "Peru": {
+    "en": "Peru",
+    "ar": "بيرو"
+  },
+  "Vitória Bahia": {
+    "en": "Vitória Bahia",
+    "ar": "فيتوريا باهيا"
+  },
+  "Cienciano": {
+    "en": "Cienciano",
+    "ar": "سيينسيانو"
+  },
+  "Lanús": {
+    "en": "Lanús",
+    "ar": "لانيوس"
+  },
+  "Utah Royals": {
+    "en": "Utah Royals",
+    "ar": "يوتا رويالز"
+  },
+  "Tobol": {
+    "en": "Tobol",
+    "ar": "توبول"
+  },
+  "Panevežys": {
+    "en": "Panevežys",
+    "ar": "بانيفيزيس"
+  },
+  "Al Sadd": {
+    "en": "Al Sadd",
+    "ar": "السد"
+  },
+  "Qatar": {
+    "en": "Qatar",
+    "ar": "قطر"
+  },
+  "Rottach-Egern": {
+    "en": "Rottach-Egern",
+    "ar": "روتاخ إيجيرن"
+  },
+  "Bayern Munich": {
+    "en": "Bayern Munich",
+    "ar": "بايرن ميونخ"
+  },
+  "Noah": {
+    "en": "Noah",
+    "ar": "نواه"
+  },
+  "Zimbru Chisinau": {
+    "en": "Zimbru Chisinau",
+    "ar": "زيمبرو كيشيناو"
+  },
+  "Armenia": {
+    "en": "Armenia",
+    "ar": "أرمينيا"
+  },
+  "Moldova": {
+    "en": "Moldova",
+    "ar": "مولدوفا"
+  },
+  "Pyunik": {
+    "en": "Pyunik",
+    "ar": "بيونيك"
+  },
+  "Debrecen": {
+    "en": "Debrecen",
+    "ar": "ديبريسين"
+  },
+  "Hungary": {
+    "en": "Hungary",
+    "ar": "المجر"
+  },
+  "Zira": {
+    "en": "Zira",
+    "ar": "زي"
+  },
+  "Paide Linnameeskond": {
+    "en": "Paide Linnameeskond",
+    "ar": "بايدي ليناميسكوند"
+  },
+  "Estonia": {
+    "en": "Estonia",
+    "ar": "إستونيا"
+  },
+  "Jablonec": {
+    "en": "Jablonec",
+    "ar": "يابلونيتس"
+  },
+  "Varaždin": {
+    "en": "Varaždin",
+    "ar": "فاراجدين"
+  },
+  "HB Tórshavn": {
+    "en": "HB Tórshavn",
+    "ar": "إتش بي توشافن"
+  },
+  "Motherwell": {
+    "en": "Motherwell",
+    "ar": "مذرويل"
+  },
+  "Brann": {
+    "en": "Brann",
+    "ar": "بران"
+  },
+  "UEFA Europa League": {
+    "en": "UEFA Europa League",
+    "ar": "دوري أوروبا"
+  },
+  "Besiktas": {
+    "en": "Besiktas",
+    "ar": "بيشكتاش"
+  },
+  "Dynamo Minsk": {
+    "en": "Dynamo Minsk",
+    "ar": "دينامو مينسك"
+  },
+  "Neftchi": {
+    "en": "Neftchi",
+    "ar": "نفتشي"
+  },
+  "Petrocub": {
+    "en": "Petrocub",
+    "ar": "بيتروكوب"
+  },
+  "Borac Banja Luka": {
+    "en": "Borac Banja Luka",
+    "ar": "بوراتش بانيا لوكا"
+  },
+  "Bosnia": {
+    "en": "Bosnia",
+    "ar": "البوسنة"
+  },
+  "Zalgiris": {
+    "en": "Zalgiris",
+    "ar": "زالغيريس"
+  },
+  "Dinamo Tbilisi": {
+    "en": "Dinamo Tbilisi",
+    "ar": "دينامو تبليسي"
+  },
+  "FC 10 Moscow": {
+    "en": "FC 10 Moscow",
+    "ar": "10 موسكو"
+  },
+  "Kosmos Khimki": {
+    "en": "Kosmos Khimki",
+    "ar": "كوزموس خيمكي"
+  },
+  "Valletta": {
+    "en": "Valletta",
+    "ar": "فاليتا"
+  },
+  "Malta": {
+    "en": "Malta",
+    "ar": "مالطا"
+  },
+  "Derry City": {
+    "en": "Derry City",
+    "ar": "ديري سيتي"
+  },
+  "Rijeka": {
+    "en": "Rijeka",
+    "ar": "رييكا"
+  },
+  "Ireland": {
+    "en": "Ireland",
+    "ar": "أيرلندا"
+  },
+  "PAOK Thessaloniki": {
+    "en": "PAOK Thessaloniki",
+    "ar": "باوك سالونيكي"
+  },
+  "Dynamo Kyiv": {
+    "en": "Dynamo Kyiv",
+    "ar": "دينامو كييف"
+  },
+  "Qarabagh": {
+    "en": "Qarabagh",
+    "ar": "قاراباغ"
+  },
+  "UNA Strassen": {
+    "en": "UNA Strassen",
+    "ar": "يونا شتراسن"
+  },
+  "Luxembourg": {
+    "en": "Luxembourg",
+    "ar": "لوكسمبورغ"
+  },
+  "Alashkert": {
+    "en": "Alashkert",
+    "ar": "ألاشكيرت"
+  },
+  "Anderlecht": {
+    "en": "Anderlecht",
+    "ar": "اندريه ليه"
+  },
+  "Ferencváros": {
+    "en": "Ferencváros",
+    "ar": "فيرينتسفاروش"
+  },
+  "Twente": {
+    "en": "Twente",
+    "ar": "تتي"
+  },
+  "Zrinjski": {
+    "en": "Zrinjski",
+    "ar": "زرينيسكي"
+  },
+  "Valur Reykjavík": {
+    "en": "Valur Reykjavík",
+    "ar": "فالور ريكيافيك"
+  },
+  "Iceland": {
+    "en": "Iceland",
+    "ar": "آيسلندا"
+  },
+  "MSK Zilina": {
+    "en": "MSK Zilina",
+    "ar": "إم إس كي زيلينا"
+  },
+  "Benfica": {
+    "en": "Benfica",
+    "ar": "بنينفيكا"
+  },
+  "Sporting Braga": {
+    "en": "Sporting Braga",
+    "ar": "سبورتينغ براغا"
+  },
+  "Zeleznicar": {
+    "en": "Zeleznicar",
+    "ar": "زيليزنيتشار"
+  },
+  "Dinamo City": {
+    "en": "Dinamo City",
+    "ar": "دينامو سيتي"
+  },
+  "Aluminij": {
+    "en": "Aluminij",
+    "ar": "ألوميني"
+  },
+  "Sutjeska": {
+    "en": "Sutjeska",
+    "ar": "سوتيسكا"
+  },
+  "ML Vitebsk": {
+    "en": "ML Vitebsk",
+    "ar": "إم إل فيتيبسك"
+  },
+  "Montenegro": {
+    "en": "Montenegro",
+    "ar": "الجبل الأسود"
+  },
+  "Bolívar": {
+    "en": "Bolívar",
+    "ar": "بوليفار"
+  },
+  "Bolivia": {
+    "en": "Bolivia",
+    "ar": "بوليفيا"
+  },
   "Rosario Central": {
     "en": "Rosario Central",
     "ar": "روساريو سنترال"
