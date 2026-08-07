@@ -1,4 +1,224 @@
 {
+  "Aston Villa": {
+    "en": "Aston Villa",
+    "ar": "أستون فيلا"
+  },
+  "North Macedonian First League": {
+    "en": "North Macedonian First League",
+    "ar": "الدوري المقدوني الشمالي الممتاز"
+  },
+  "Shkëndija Haraçinë": {
+    "en": "Shkëndija Haraçinë",
+    "ar": "شكينديا هاراتشيني"
+  },
+  "Sileks": {
+    "en": "Sileks",
+    "ar": "سيليكس"
+  },
+  "Macedoniafyr": {
+    "en": "North Macedonia",
+    "ar": "مقدونيا الشمالية"
+  },
+  "Northmacedonia": {
+    "en": "North Macedonia",
+    "ar": "مقدونيا الشمالية"
+  },
+  "Slovenian 2. SNL": {
+    "en": "Slovenian 2. SNL",
+    "ar": "الدوري السلوفيني الدرجة 2"
+  },
+  "Beltinci": {
+    "en": "Beltinci",
+    "ar": "بلتينتسي"
+  },
+  "Rudar Velenje": {
+    "en": "Rudar Velenje",
+    "ar": "رودار فيلينيه"
+  },
+  "Marek Dupnitsa": {
+    "en": "Marek Dupnitsa",
+    "ar": "ماريك دوبنيتسا"
+  },
+  "Vysocina Jihlava": {
+    "en": "Vysocina Jihlava",
+    "ar": "فيسوتشينا ييهلافا"
+  },
+  "Pribram": {
+    "en": "Pribram",
+    "ar": "بريبرام"
+  },
+  "Slavia Mozyr": {
+    "en": "Slavia Mozyr",
+    "ar": "سلافيا موزير"
+  },
+  "Dnepr Mogilev": {
+    "en": "Dnepr Mogilev",
+    "ar": "دنيبر موغيليف"
+  },
+  "German 3. Liga": {
+    "en": "German 3. Liga",
+    "ar": "الدوري الألماني الدرجة 3"
+  },
+  "Waldhof Mannheim": {
+    "en": "Waldhof Mannheim",
+    "ar": "فالدهاوف مانهايم"
+  },
+  "Fortuna Düsseldorf": {
+    "en": "Fortuna Düsseldorf",
+    "ar": "فورتونا دوسلدورف"
+  },
+  "Sochi": {
+    "en": "Sochi",
+    "ar": "سوتشي"
+  },
+  "GIF Sundsvall": {
+    "en": "GIF Sundsvall",
+    "ar": "جيف سوندسفال"
+  },
+  "Bosnia-Herzegovina Premier Liga": {
+    "en": "Bosnia-Herzegovina Premier Liga",
+    "ar": "الدوري البوسني الممتاز"
+  },
+  "Zeljeznicar": {
+    "en": "Zeljeznicar",
+    "ar": "جيلييزنيتشار"
+  },
+  "BSK Banja Luka": {
+    "en": "BSK Banja Luka",
+    "ar": "بي إس كي بانيا لوكا"
+  },
+  "Mornar": {
+    "en": "Mornar",
+    "ar": "مورناَر"
+  },
+  "Arsenal Tivat": {
+    "en": "Arsenal Tivat",
+    "ar": "أرسنال تيفات"
+  },
+  "Dutch Eredivisie": {
+    "en": "Dutch Eredivisie",
+    "ar": "الدوري الهولندي الممتاز"
+  },
+  "Cambuur-Leeuwarden": {
+    "en": "Cambuur-Leeuwarden",
+    "ar": "كامبور ليوواردن"
+  },
+  "Excelsior": {
+    "en": "Excelsior",
+    "ar": "إكسلسيور"
+  },
+  "Dutch Eerste Divisie": {
+    "en": "Dutch Eerste Divisie",
+    "ar": "الدوري الهولندي الدرجة 2"
+  },
+  "Vitesse Arnhem": {
+    "en": "Vitesse Arnhem",
+    "ar": "فيتيس أرنهيم"
+  },
+  "RKC Waalwijk": {
+    "en": "RKC Waalwijk",
+    "ar": "آر كي سي فالفيك"
+  },
+  "Swiss Challenge League": {
+    "en": "Swiss Challenge League",
+    "ar": "الدوري السويسري الدرجة 2"
+  },
+  "Aarau": {
+    "en": "Aarau",
+    "ar": "أراو"
+  },
+  "Stade Nyonnais": {
+    "en": "Stade Nyonnais",
+    "ar": "ستاد نيون"
+  },
+  "German 2. Bundesliga": {
+    "en": "German 2. Bundesliga",
+    "ar": "الدوري الألماني الدرجة 2"
+  },
+  "Bochum": {
+    "en": "Bochum",
+    "ar": "بوخوم"
+  },
+  "Hertha Berlin": {
+    "en": "Hertha Berlin",
+    "ar": "هيرتا برلين"
+  },
+  "Wisla Plock": {
+    "en": "Wisla Plock",
+    "ar": "فيسلا بلوك"
+  },
+  "Polonia Warsaw": {
+    "en": "Polonia Warsaw",
+    "ar": "بولونيا وارسو"
+  },
+  "Scottish Championship": {
+    "en": "Scottish Championship",
+    "ar": "الدوري الإسكتلندي الدرجة 2"
+  },
+  "Partick Thistle": {
+    "en": "Partick Thistle",
+    "ar": "بارتيك ثيسل"
+  },
+  "Livingston": {
+    "en": "Livingston",
+    "ar": "ليفينغستون"
+  },
+  "Türkiye 1. Lig": {
+    "en": "Türkiye 1. Lig",
+    "ar": "الدوري التركي الدرجة 2"
+  },
+  "Boluspor": {
+    "en": "Boluspor",
+    "ar": "بولوسبور"
+  },
+  "Manisa FK": {
+    "en": "Manisa FK",
+    "ar": "مانيسا"
+  },
+  "Wolves": {
+    "en": "Wolverhampton Wanderers",
+    "ar": "وولفرهامبتون واندررز"
+  },
+  "Port Vale": {
+    "en": "Port Vale",
+    "ar": "بورت فايل"
+  },
+  "Middlesbrough": {
+    "en": "Middlesbrough",
+    "ar": "ميدلزبره"
+  },
+  "Portuguese Liga 3": {
+    "en": "Portuguese Liga 3",
+    "ar": "الدوري البرتغالي الدرجة 3"
+  },
+  "Paredes": {
+    "en": "Paredes",
+    "ar": "باريديس"
+  },
+  "Vitória Guimarães II": {
+    "en": "Vitória Guimarães 2",
+    "ar": "فيتوريا غيمارايش 2"
+  },
+  "Irish Premier Division": {
+    "en": "Irish Premier Division",
+    "ar": "الدوري الأيرلندي الممتاز"
+  },
+  "Dundalk": {
+    "en": "Dundalk",
+    "ar": "دوندالك"
+  },
+  "Portuguese Liga 1": {
+    "en": "Portuguese Liga 1",
+    "ar": "الدوري البرتغالي الممتاز"
+  },
+  "Estoril": {
+    "en": "Estoril",
+    "ar": "إستوريل"
+  },
+  "Famalicão": {
+    "en": "Famalicão",
+    "ar": "فاماليكاو"
+  },
   "Tre Fiori": {
     "en": "Tre Fiori",
     "ar": "تري فيوري"
