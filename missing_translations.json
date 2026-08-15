@@ -1,4 +1,312 @@
 {
+  "Llaneros": {
+    "en": "Llaneros",
+    "ar": "يانيروس"
+  },
+  "NJ/NY Gotham": {
+    "en": "NJ/NY Gotham",
+    "ar": "غوثام نيوجيرسي/نيويورك"
+  },
+  "Targu Mures": {
+    "en": "Târgu Mureș",
+    "ar": "تارغو موريش"
+  },
+  "Czech 1. Liga Women": {
+    "en": "Czech Women's First League",
+    "ar": "الدوري التشيكي الممتاز للسيدات"
+  },
+  "Daejeon Citizen": {
+    "en": "Daejeon Citizen",
+    "ar": "دايجون سيتيزن"
+  },
+  "Chelyabinsk": {
+    "en": "Chelyabinsk",
+    "ar": "تشيليابينسك"
+  },
+  "Uppsala": {
+    "en": "Uppsala",
+    "ar": "أوبسالا"
+  },
+  "Preston N.E.": {
+    "en": "Preston North End",
+    "ar": "بريستون نورث إند"
+  },
+  "English League One": {
+    "en": "English League One",
+    "ar": "الدوري الإنجليزي الدرجة 1"
+  },
+  "Preußen Münster": {
+    "en": "Preußen Münster",
+    "ar": "بروسين مونستر"
+  },
+  "TSV Havelse": {
+    "en": "TSV Havelse",
+    "ar": "هافلسه"
+  },
+  "Rot-Weiss Erfurt": {
+    "en": "Rot-Weiss Erfurt",
+    "ar": "روت فايس إرفورت"
+  },
+  "Magdeburg II": {
+    "en": "Magdeburg 2",
+    "ar": "ماغديبورغ 2"
+  },
+  "Naftan": {
+    "en": "Naftan",
+    "ar": "نافتان"
+  },
+  "Real Sociedad": {
+    "en": "Real Sociedad",
+    "ar": "ريال سوسيداد"
+  },
+  "Bologna": {
+    "en": "Bologna",
+    "ar": "بولونيا"
+  },
+  "German W/Cup (DFB-Pokal Frauen)": {
+    "en": "German Women's Cup (DFB-Pokal)",
+    "ar": "كأس ألمانيا للسيدات"
+  },
+  "Afumati": {
+    "en": "Afumați",
+    "ar": "أفوماتس"
+  },
+  "Mönchengladbach": {
+    "en": "Mönchengladbach",
+    "ar": "مونشنغلادباخ"
+  },
+  "RB Leipzig": {
+    "en": "RB Leipzig",
+    "ar": "لايبزيغ"
+  },
+  "Elversberg": {
+    "en": "Elversberg",
+    "ar": "إلفرسبرغ"
+  },
+  "Lorient": {
+    "en": "Lorient",
+    "ar": "لوريان"
+  },
+  "Brentford": {
+    "en": "Brentford",
+    "ar": "برينتفورد"
+  },
+  "Eintracht Frankfurt": {
+    "en": "Eintracht Frankfurt",
+    "ar": "آينتراخت فرانكفورت"
+  },
+  "Hoffenheim": {
+    "en": "Hoffenheim",
+    "ar": "هوفنهايم"
+  },
+  "English League Two": {
+    "en": "English League Two",
+    "ar": "الدوري الإنجليزي الدرجة 2"
+  },
+  "York City": {
+    "en": "York City",
+    "ar": "يورك سيتي"
+  },
+  "Bristol Rovers": {
+    "en": "Bristol Rovers",
+    "ar": "بريستول روفرز"
+  },
+  "HB Køge": {
+    "en": "HB Køge",
+    "ar": "إتش بي كوغيه"
+  },
+  "Hvidovre": {
+    "en": "Hvidovre",
+    "ar": "فيدوفره"
+  },
+  "Hønefoss": {
+    "en": "Hønefoss",
+    "ar": "هونفوس"
+  },
+  "Lille": {
+    "en": "Lille",
+    "ar": "ليل"
+  },
+  "Strømsgodset": {
+    "en": "Strømsgodset",
+    "ar": "سترومسغودست"
+  },
+  "Chemnitz": {
+    "en": "Chemnitz",
+    "ar": "كيمنتس"
+  },
+  "Erzgebirge Aue": {
+    "en": "Erzgebirge Aue",
+    "ar": "إرتسغيبرغه آوه"
+  },
+  "Araz": {
+    "en": "Araz",
+    "ar": "أراز"
+  },
+  "Imishli": {
+    "en": "Imishli",
+    "ar": "إميشلي"
+  },
+  "FC Oss": {
+    "en": "Oss",
+    "ar": "أوس"
+  },
+  "Sandviken": {
+    "en": "Sandviken",
+    "ar": "سانفيكن"
+  },
+  "Andorra": {
+    "en": "Andorra",
+    "ar": "أندورا"
+  },
+  "Ceuta": {
+    "en": "Ceuta",
+    "ar": "سبتة"
+  },
+  "Fulham": {
+    "en": "Fulham",
+    "ar": "فولهام"
+  },
+  "Kasimpasa": {
+    "en": "Kasımpaşa",
+    "ar": "قاسم باشا"
+  },
+  "Konyaspor": {
+    "en": "Konyaspor",
+    "ar": "قونيا سبور"
+  },
+  "Caykur Rizespor": {
+    "en": "Çaykur Rizespor",
+    "ar": "تشايكور ريزه سبور"
+  },
+  "Al Taawoun": {
+    "en": "Al Taawoun",
+    "ar": "التعاون"
+  },
+  "Al Khaleej": {
+    "en": "Al Khaleej",
+    "ar": "الخليج"
+  },
+  "Cymru Premier": {
+    "en": "Cymru Premier",
+    "ar": "الدوري الويلزي الممتاز"
+  },
+  "Caernarfon Town": {
+    "en": "Caernarfon Town",
+    "ar": "كارنارفون تاون"
+  },
+  "Colwyn Bay": {
+    "en": "Colwyn Bay",
+    "ar": "كولوين باي"
+  },
+  "Padova": {
+    "en": "Padova",
+    "ar": "بادوفا"
+  },
+  "Dundee United": {
+    "en": "Dundee United",
+    "ar": "دندي يونايتد"
+  },
+  "Kapaz": {
+    "en": "Kapaz",
+    "ar": "كباز"
+  },
+  "CAF African Women's Cup of Nations": {
+    "en": "CAF Women's Africa Cup of Nations",
+    "ar": "كأس الأمم الأفريقية للسيدات"
+  },
+  "Morocco": {
+    "en": "Morocco",
+    "ar": "المغرب"
+  },
+  "Algeria": {
+    "en": "Algeria",
+    "ar": "الجزائر"
+  },
+  "Real Oviedo": {
+    "en": "Real Oviedo",
+    "ar": "ريال أوفييدو"
+  },
+  "Granada": {
+    "en": "Granada",
+    "ar": "غرناطة"
+  },
+  "Cádiz": {
+    "en": "Cádiz",
+    "ar": "قادش"
+  },
+  "Celta Vigo II": {
+    "en": "Celta Vigo 2",
+    "ar": "سيلتا فيغو 2"
+  },
+  "Spanish La Liga (Primera)": {
+    "en": "Spanish La Liga",
+    "ar": "الدوري الإسباني الممتاز"
+  },
+  "Alavés": {
+    "en": "Alavés",
+    "ar": "ألافيس"
+  },
+  "German Womens Super Cup": {
+    "en": "German Women's Super Cup",
+    "ar": "كأس السوبر الألماني للسيدات"
+  },
+  "Al Fateh": {
+    "en": "Al Fateh",
+    "ar": "الفتح"
+  },
+  "Al Kholood": {
+    "en": "Al Kholood",
+    "ar": "الخلود"
+  },
+  "Otrant-Olympic": {
+    "en": "Otrant-Olympic",
+    "ar": "أوترانت أولمبيك"
+  },
+  "Gençlerbirligi": {
+    "en": "Gençlerbirliği",
+    "ar": "غنتشلربيرليغي"
+  },
+  "Podbrezová": {
+    "en": "Podbrezová",
+    "ar": "بودبريزوفا"
+  },
+  "Gaziantep": {
+    "en": "Gaziantep",
+    "ar": "غازي عنتاب"
+  },
+  "Alanyaspor": {
+    "en": "Alanyaspor",
+    "ar": "ألانيا سبور"
+  },
+  "Venezia": {
+    "en": "Venezia",
+    "ar": "فينيتسيا"
+  },
+  "Modena": {
+    "en": "Modena",
+    "ar": "مودينا"
+  },
+  "Salernitana": {
+    "en": "Salernitana",
+    "ar": "ساليرنيتانا"
+  },
+  "Scafatese": {
+    "en": "Scafatese",
+    "ar": "سكافاتيسي"
+  },
+  "Carrarese": {
+    "en": "Carrarese",
+    "ar": "كاراريزي"
+  },
+  "Real Valladolid": {
+    "en": "Real Valladolid",
+    "ar": "ريال بلد الوليد"
+  },
+  "Gimnasia La Plata": {
+    "en": "Gimnasia La Plata",
+    "ar": "جيمناسيا لا بلاتا"
+  },
   "Cienciano": {
     "en": "Cienciano",
     "ar": "سينسيانو"
