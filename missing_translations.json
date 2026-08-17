@@ -1,4 +1,320 @@
 {
+  "National Womens Soccer League (NWSL)": {
+    "en": "National Women's Soccer League (NWSL)",
+    "ar": "الدوري الوطني الأمريكي لكرة القدم للسيدات"
+  },
+  "North Carolina Courage": {
+    "en": "North Carolina Courage",
+    "ar": "نورث كارولاينا كورج"
+  },
+  "Houston Dash": {
+    "en": "Houston Dash",
+    "ar": "هيوستن داش"
+  },
+  "Usa": {
+    "en": "USA",
+    "ar": "الولايات المتحدة"
+  },
+  "Angel City": {
+    "en": "Angel City",
+    "ar": "أنجل سيتي"
+  },
+  "Washington Spirit": {
+    "en": "Washington Spirit",
+    "ar": "واشنطن سبيريت"
+  },
+  "Romanian Superliga": {
+    "en": "Romanian SuperLiga",
+    "ar": "الدوري الروماني الممتاز"
+  },
+  "Universitatea Cluj": {
+    "en": "Universitatea Cluj",
+    "ar": "يونيفرسيتاتيا كلوج"
+  },
+  "UTA Arad": {
+    "en": "UTA Arad",
+    "ar": "يوتا أراد"
+  },
+  "Romania": {
+    "en": "Romania",
+    "ar": "رومانيا"
+  },
+  "Azerbaijan Premier League": {
+    "en": "Azerbaijan Premier League",
+    "ar": "الدوري الأذربيجاني الممتاز"
+  },
+  "Qarabagh": {
+    "en": "Qarabag",
+    "ar": "قره باغ"
+  },
+  "Azerbaijan": {
+    "en": "Azerbaijan",
+    "ar": "أذربيجان"
+  },
+  "Italian Cup (Coppa Italia)": {
+    "en": "Italian Cup (Coppa Italia)",
+    "ar": "كأس إيطاليا"
+  },
+  "Italy": {
+    "en": "Italy",
+    "ar": "إيطاليا"
+  },
+  "Friendly Club Match": {
+    "en": "Friendly Club Match",
+    "ar": "مباراة ودية للأندية"
+  },
+  "Juventus": {
+    "en": "Juventus",
+    "ar": "يوفنتوس"
+  },
+  "Bulgarian First League": {
+    "en": "Bulgarian First League",
+    "ar": "الدوري البلغاري الممتاز"
+  },
+  "Spartak Varna": {
+    "en": "Spartak Varna",
+    "ar": "سبارتاك فارنا"
+  },
+  "Septemvri Sofia": {
+    "en": "Septemvri Sofia",
+    "ar": "سبتمفري صوفيا"
+  },
+  "Bulgaria": {
+    "en": "Bulgaria",
+    "ar": "بلغاريا"
+  },
+  "Russian FNL": {
+    "en": "Russian First League",
+    "ar": "الدوري الروسي الدرجة 2"
+  },
+  "Russia": {
+    "en": "Russia",
+    "ar": "روسيا"
+  },
+  "Swedish Allsvenskan": {
+    "en": "Swedish Allsvenskan",
+    "ar": "الدوري السويدي الممتاز"
+  },
+  "BK Häcken": {
+    "en": "BK Häcken",
+    "ar": "هاكن"
+  },
+  "Halmstad": {
+    "en": "Halmstad",
+    "ar": "هالمستاد"
+  },
+  "Sweden": {
+    "en": "Sweden",
+    "ar": "السويد"
+  },
+  "Spanish La Liga 2": {
+    "en": "Spanish La Liga 2",
+    "ar": "الدوري الإسباني الدرجة 2"
+  },
+  "Spain": {
+    "en": "Spain",
+    "ar": "إسبانيا"
+  },
+  "Danish Superliga": {
+    "en": "Danish Superliga",
+    "ar": "الدوري الدنماركي الممتاز"
+  },
+  "Brøndby": {
+    "en": "Brøndby",
+    "ar": "بروندبي"
+  },
+  "SønderjyskE": {
+    "en": "Sønderjyske",
+    "ar": "سوندرييسكه"
+  },
+  "Denmark": {
+    "en": "Denmark",
+    "ar": "الدنمارك"
+  },
+  "Portuguese Liga 2": {
+    "en": "Portuguese Liga 2",
+    "ar": "الدوري البرتغالي الدرجة 2"
+  },
+  "Felgueiras": {
+    "en": "Felgueiras",
+    "ar": "فيلغيراس"
+  },
+  "AVS Futebol": {
+    "en": "AVS Futebol",
+    "ar": "آ في إس"
+  },
+  "Portugal": {
+    "en": "Portugal",
+    "ar": "البرتغال"
+  },
+  "Polish 1. Liga": {
+    "en": "Polish 1. Liga",
+    "ar": "الدوري البولندي الدرجة 2"
+  },
+  "ARKA Gdynia": {
+    "en": "Arka Gdynia",
+    "ar": "أركا غدينيا"
+  },
+  "Poland": {
+    "en": "Poland",
+    "ar": "بولندا"
+  },
+  "Serbian Super League": {
+    "en": "Serbian Super League",
+    "ar": "الدوري الصربي الممتاز"
+  },
+  "Novi Pazar": {
+    "en": "Novi Pazar",
+    "ar": "نوفي بازار"
+  },
+  "Vojvodina": {
+    "en": "Vojvodina",
+    "ar": "فويفودينا"
+  },
+  "Serbia": {
+    "en": "Serbia",
+    "ar": "صربيا"
+  },
+  "Montenegrin First League": {
+    "en": "Montenegrin First League",
+    "ar": "الدوري المونتينيغري الممتاز"
+  },
+  "Decic Tuzi": {
+    "en": "Dečić Tuzi",
+    "ar": "ديشيتش توزي"
+  },
+  "Bokelj": {
+    "en": "Bokelj",
+    "ar": "بوكلي"
+  },
+  "Montenegro": {
+    "en": "Montenegro",
+    "ar": "الجبل الأسود"
+  },
+  "Dutch Eerste Divisie": {
+    "en": "Dutch Eerste Divisie",
+    "ar": "الدوري الهولندي الدرجة 2"
+  },
+  "De Graafschap": {
+    "en": "De Graafschap",
+    "ar": "دي غرافشاب"
+  },
+  "AZ Youths": {
+    "en": "AZ Youths",
+    "ar": "ألكمار للشباب"
+  },
+  "Holland": {
+    "en": "Netherlands",
+    "ar": "هولندا"
+  },
+  "Arda": {
+    "en": "Arda",
+    "ar": "أردا"
+  },
+  "Lokomotiv Sofia": {
+    "en": "Lokomotiv Sofia",
+    "ar": "لوكوموتيف صوفيا"
+  },
+  "FCSB": {
+    "en": "FCSB",
+    "ar": "ستيوا بوخاريست"
+  },
+  "Botosani": {
+    "en": "Botoșani",
+    "ar": "بوتوشاني"
+  },
+  "Türkiye 1. Lig": {
+    "en": "Turkish 1. Lig",
+    "ar": "الدوري التركي الدرجة 2"
+  },
+  "Batman Petrolspor": {
+    "en": "Batman Petrolspor",
+    "ar": "بطمان بيترولسبور"
+  },
+  "Boluspor": {
+    "en": "Boluspor",
+    "ar": "بولوسبور"
+  },
+  "Turkey": {
+    "en": "Türkiye",
+    "ar": "تركيا"
+  },
+  "Türkiye Süper Lig": {
+    "en": "Turkish Süper Lig",
+    "ar": "الدوري التركي الممتاز"
+  },
+  "Spanish La Liga (Primera)": {
+    "en": "Spanish La Liga",
+    "ar": "الدوري الإسباني الممتاز"
+  },
+  "English Championship": {
+    "en": "English Championship",
+    "ar": "الدوري الإنجليزي الدرجة 2"
+  },
+  "Cardiff City": {
+    "en": "Cardiff City",
+    "ar": "كارديف سيتي"
+  },
+  "Wrexham": {
+    "en": "Wrexham",
+    "ar": "ريكسهام"
+  },
+  "England": {
+    "en": "England",
+    "ar": "إنجلترا"
+  },
+  "Portuguese Liga 1": {
+    "en": "Portuguese Liga 1",
+    "ar": "الدوري البرتغالي الممتاز"
+  },
+  "Casa Pia": {
+    "en": "Casa Pia",
+    "ar": "كازا بيا"
+  },
+  "Benfica": {
+    "en": "Benfica",
+    "ar": "بنفيكا"
+  },
+  "Palermo": {
+    "en": "Palermo",
+    "ar": "باليرمو"
+  },
+  "Almería": {
+    "en": "Almería",
+    "ar": "ألميريا"
+  },
+  "Argentinean Primera División - Clausura": {
+    "en": "Argentine Primera División - Clausura",
+    "ar": "الدوري الأرجنتيني الممتاز - كلاوسورا"
+  },
+  "Lanús": {
+    "en": "Lanús",
+    "ar": "لانوس"
+  },
+  "Independiente": {
+    "en": "Independiente",
+    "ar": "إنديبندينتي"
+  },
+  "Argentina": {
+    "en": "Argentina",
+    "ar": "الأرجنتين"
+  },
+  "Brazilian Série A": {
+    "en": "Brazilian Serie A",
+    "ar": "الدوري البرازيلي الممتاز"
+  },
+  "Internacional": {
+    "en": "Internacional",
+    "ar": "إنترناسيونال"
+  },
+  "Remo": {
+    "en": "Remo",
+    "ar": "ريمو"
+  },
+  "Brazil": {
+    "en": "Brazil",
+    "ar": "البرازيل"
+  },
   "Puszcza Niepolomice": {
     "en": "Puszcza Niepołomice",
     "ar": "بوشتشا نيبولوميتسه"
