@@ -1,4 +1,228 @@
 {
+  "Poli Timisoara": {
+    "en": "Poli Timișoara",
+    "ar": "بولي تيميشوارا"
+  },
+  "Tekstilshchik": {
+    "en": "Tekstilshchik",
+    "ar": "تيكستيلشيك"
+  },
+  "Augsburg": {
+    "en": "Augsburg",
+    "ar": "أوغسبورغ"
+  },
+  "ASA Aarhus": {
+    "en": "ASA Aarhus",
+    "ar": "آسا آرهوس"
+  },
+  "Hull City": {
+    "en": "Hull City",
+    "ar": "هال سيتي"
+  },
+  "Russian Womens Cup": {
+    "en": "Russian Women's Cup",
+    "ar": "كأس روسيا للسيدات"
+  },
+  "Hansa Lüneburg": {
+    "en": "Hansa Lüneburg",
+    "ar": "هانزا لونيبورغ"
+  },
+  "Hemelingen": {
+    "en": "Hemelingen",
+    "ar": "هملينغن"
+  },
+  "Viktoria Cologne": {
+    "en": "Viktoria Cologne",
+    "ar": "فيكتوريا كولونيا"
+  },
+  "Crystal Palace": {
+    "en": "Crystal Palace",
+    "ar": "كريستال بالاس"
+  },
+  "Slovan Liberec": {
+    "en": "Slovan Liberec",
+    "ar": "سلوفان ليبيريتس"
+  },
+  "Al Duhail": {
+    "en": "Al Duhail",
+    "ar": "الدحيل"
+  },
+  "Al Sailiya": {
+    "en": "Al Sailiya",
+    "ar": "السيلية"
+  },
+  "Segesta Sisak": {
+    "en": "Segesta Sisak",
+    "ar": "سيغستا سيساك"
+  },
+  "Orijent": {
+    "en": "Orijent",
+    "ar": "أوريينت"
+  },
+  "NAC Breda": {
+    "en": "NAC Breda",
+    "ar": "ناك بريدا"
+  },
+  "Artis Brno": {
+    "en": "Artis Brno",
+    "ar": "أرتيس برنو"
+  },
+  "Volgar Astrakhan": {
+    "en": "Volgar Astrakhan",
+    "ar": "فولغار أستراخان"
+  },
+  "Rodina Moscow II": {
+    "en": "Rodina Moscow 2",
+    "ar": "رودينا موسكو 2"
+  },
+  "Auxerre": {
+    "en": "Auxerre",
+    "ar": "أوكسير"
+  },
+  "Ospitaletto": {
+    "en": "Ospitaletto",
+    "ar": "أوسبيتاليتو"
+  },
+  "Lumezzane": {
+    "en": "Lumezzane",
+    "ar": "لوميتسانه"
+  },
+  "Guidonia Montecelio": {
+    "en": "Guidonia Montecelio",
+    "ar": "غويدونيا مونتيتشيليو"
+  },
+  "Gubbio": {
+    "en": "Gubbio",
+    "ar": "غوبيو"
+  },
+  "Cittadella": {
+    "en": "Cittadella",
+    "ar": "تشيتاديللا"
+  },
+  "Pergolettese": {
+    "en": "Pergolettese",
+    "ar": "بيرغوليتزي"
+  },
+  "Novara": {
+    "en": "Novara",
+    "ar": "نوفارا"
+  },
+  "Eintracht Trier": {
+    "en": "Eintracht Trier",
+    "ar": "آينتراخت ترير"
+  },
+  "Italian Serie A": {
+    "en": "Italian Serie A",
+    "ar": "الدوري الإيطالي الممتاز"
+  },
+  "Al Sadd": {
+    "en": "Al Sadd",
+    "ar": "السد"
+  },
+  "AB Copenhagen": {
+    "en": "AB Copenhagen",
+    "ar": "إيه بي كوبنهاغن"
+  },
+  "Greek Super League 1": {
+    "en": "Greek Super League 1",
+    "ar": "الدوري اليوناني الممتاز"
+  },
+  "Iraklis 1908": {
+    "en": "Iraklis 1908",
+    "ar": "إيراكليس 1908"
+  },
+  "Bohemians 1905": {
+    "en": "Bohemians 1905",
+    "ar": "بوهيميانز 1905"
+  },
+  "Numancia": {
+    "en": "Numancia",
+    "ar": "نومانسيا"
+  },
+  "Mladost DG": {
+    "en": "Mladost DG",
+    "ar": "ملادوست دي جي"
+  },
+  "German Super Cup": {
+    "en": "German Super Cup",
+    "ar": "كأس السوبر الألماني"
+  },
+  "Atromitos": {
+    "en": "Atromitos",
+    "ar": "أتروميتوس"
+  },
+  "Toulouse": {
+    "en": "Toulouse",
+    "ar": "تولوز"
+  },
+  "Troyes": {
+    "en": "Troyes",
+    "ar": "تروا"
+  },
+  "Paris FC": {
+    "en": "Paris FC",
+    "ar": "باريس"
+  },
+  "Nice": {
+    "en": "Nice",
+    "ar": "نيس"
+  },
+  "Le Mans": {
+    "en": "Le Mans",
+    "ar": "لو مان"
+  },
+  "Brest": {
+    "en": "Brest",
+    "ar": "بريست"
+  },
+  "Giana Erminio": {
+    "en": "Giana Erminio",
+    "ar": "جيانا إيرمينيو"
+  },
+  "AlbinoLeffe": {
+    "en": "AlbinoLeffe",
+    "ar": "ألبينوليفي"
+  },
+  "Audace Cerignola": {
+    "en": "Audace Cerignola",
+    "ar": "أوداتشي تشيرينيولا"
+  },
+  "Cosenza": {
+    "en": "Cosenza",
+    "ar": "كوزنسا"
+  },
+  "Lecco": {
+    "en": "Lecco",
+    "ar": "ليكو"
+  },
+  "Arzignano": {
+    "en": "Arzignano",
+    "ar": "أرتسيغنانو"
+  },
+  "Casertana": {
+    "en": "Casertana",
+    "ar": "كازيرتانا"
+  },
+  "Barletta": {
+    "en": "Barletta",
+    "ar": "باريتا"
+  },
+  "Pescara": {
+    "en": "Pescara",
+    "ar": "بيسكارا"
+  },
+  "Vis Pesaro": {
+    "en": "Vis Pesaro",
+    "ar": "فيس بيسارو"
+  },
+  "Bucaramanga": {
+    "en": "Bucaramanga",
+    "ar": "بوكارامانغا"
+  },
+  "Seattle Reign": {
+    "en": "Seattle Reign",
+    "ar": "سياتل رين"
+  },
   "Alcione Milano": {
     "en": "Alcione Milano",
     "ar": "ألتشيوني ميلانو"
