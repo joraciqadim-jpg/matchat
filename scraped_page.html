@@ -1,119 +1,862 @@
-<!DOCTYPE html>
-<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<!doctype html>
+<html lang="en">
 <head>
-
-<title>liveonsat.com | 502: Bad gateway</title>
-<meta charset="UTF-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
-<meta name="robots" content="noindex, nofollow" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
-<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>TV Guide</title>
+<link rel="icon" href="/static/img/logo.png?v=202604151500" type="image/png">
+<link rel="icon" href="/favicon-32.png?v=202604151500" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png?v=202604151500">
+<style>
+html { color-scheme: light; }
+html[data-theme="dark"] { color-scheme: dark; }
+:root {
+  --sch-bg: #ece7df;
+  --sch-bg-secondary: #f7f2e9;
+  --sch-body-bg:
+    radial-gradient(circle at top left, rgba(255,138,61,.16), transparent 28%),
+    radial-gradient(circle at top right, rgba(15,157,138,.12), transparent 26%),
+    linear-gradient(180deg, #f7f2e9 0%, #f3eee6 45%, #ece7df 100%);
+  --sch-surface: rgba(255,255,255,.92);
+  --sch-border: rgba(16,34,51,.10);
+  --sch-text: #102233;
+  --sch-muted: #8e96a0;
+  --sch-accent: #a58c88;
+  --sch-row: rgba(255,255,255,.52);
+  --sch-row-border: rgba(16,34,51,.08);
+  --sch-telegram-bg: rgba(34,158,217,.08);
+  --sch-telegram-border: rgba(34,158,217,.18);
+  --sch-shadow: 0 12px 28px rgba(10,29,44,.06);
+}
+html[data-theme="dark"] {
+  --sch-bg: #020409;
+  --sch-bg-secondary: #07131e;
+  --sch-body-bg:
+    radial-gradient(circle at top left, rgba(255,138,61,.18), transparent 28%),
+    radial-gradient(circle at top right, rgba(15,157,138,.14), transparent 24%),
+    linear-gradient(180deg, #11181f 0%, #0c1218 46%, #0a0f14 100%);
+  --sch-surface: rgba(255,255,255,.05);
+  --sch-border: rgba(255,255,255,.12);
+  --sch-text: #eafcff;
+  --sch-muted: rgba(234,252,255,.7);
+  --sch-accent: #00ffd5;
+  --sch-row: rgba(255,255,255,.045);
+  --sch-row-border: rgba(255,255,255,.08);
+  --sch-telegram-bg: rgba(34,158,217,.12);
+  --sch-telegram-border: rgba(34,158,217,.32);
+  --sch-shadow: 0 18px 48px rgba(0,0,0,.45);
+}
+*, *::before, *::after { box-sizing: border-box; }
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: var(--sch-body-bg);
+  color: var(--sch-text);
+  font-family: system-ui, "Segoe UI", Arial, sans-serif;
+  font-size: 14px;
+}
+a { color: inherit; text-decoration: none; }
+button { font: inherit; }
+.sch-theme-toggle {
+  position: fixed; top: 16px; right: 16px; z-index: 20; transition: opacity .25s;
+  display: inline-flex; align-items: center; gap: 8px;
+  padding: 8px 12px; border-radius: 999px;
+  border: 1px solid var(--sch-border);
+  background: var(--sch-surface); color: var(--sch-text);
+  box-shadow: var(--sch-shadow); font-size: 13px;
+  cursor: pointer;
+}
+.sch-toggle-track {
+  width: 36px; height: 20px; border-radius: 10px;
+  background: rgba(128,128,128,.35);
+  position: relative; flex-shrink: 0;
+  transition: background .25s;
+}
+html[data-theme="dark"] .sch-toggle-track { background: var(--sch-accent); }
+.sch-toggle-thumb {
+  position: absolute; top: 2px; left: 2px;
+  width: 16px; height: 16px; border-radius: 50%;
+  background: rgba(255,255,255,.85);
+  transition: transform .25s, background .25s;
+}
+html[data-theme="dark"] .sch-toggle-thumb { transform: translateX(16px); background: #020409; }
+.sch-wrap {
+  max-width: 1120px; margin: 28px auto 0;
+  padding: 0 16px 48px;
+  display: flex; flex-direction: column; gap: 18px;
+}
+.sch-page-back { display:flex; justify-content:center; margin-top: 8px; }
+.sch-back-btn {
+  display:inline-flex; align-items:center; gap:10px;
+  padding:10px 16px; border-radius:999px;
+  border:1px solid var(--sch-border);
+  background:var(--sch-surface); color:var(--sch-text);
+  box-shadow: var(--sch-shadow);
+  font-size:14px; font-weight:800;
+}
+.sch-back-btn:hover { color: var(--sch-accent); border-color: var(--sch-accent); }
+.sch-back-btn-arrow { font-size:15px; line-height:1; }
+.sch-sport-switcher {
+  display:flex; justify-content:center; gap:10px; flex-wrap:wrap;
+}
+.sch-sport-tab {
+  display:inline-flex; align-items:center; justify-content:center;
+  min-width:120px; padding:10px 18px; border-radius:999px;
+  border:1px solid var(--sch-border); background:var(--sch-surface);
+  color:var(--sch-muted); font-size:14px; font-weight:800; cursor:pointer;
+  box-shadow: var(--sch-shadow);
+}
+.sch-sport-icon { display:inline-flex; align-items:center; justify-content:center; margin-right:8px; flex-shrink:0; }
+html[data-sofascore-lang='ar'] .sch-sport-icon { margin-right:0; margin-left:8px; }
+.sch-sport-tab.is-active {
+  color: var(--sch-accent);
+  border-color: rgba(0,255,213,.26);
+  background: rgba(0,255,213,.08);
+}
+.sch-sport-section { display:none; }
+.sch-sport-section.is-active { display:block; }
+.sch-leagues-grid {
+  column-count: 2;
+  column-gap: 30px;
+}
+.sch-page-telegram { display: flex; justify-content: center; margin-top: 10px; }
+.sch-telegram-btn {
+  display: inline-flex; align-items: center; gap: 10px;
+  padding: 10px 16px; border-radius: 999px;
+  background: var(--sch-telegram-bg); border: 1px solid var(--sch-telegram-border);
+  color: #229ed9; font-size: 14px; font-weight: 800;
+  box-shadow: var(--sch-shadow);
+}
+html[data-theme="dark"] .sch-telegram-btn { color: #229ed9; }
+.sch-telegram-btn svg { width: 18px; height: 18px; flex-shrink: 0; }
+.sch-date-block { display: flex; flex-direction: column; align-items: center; gap: 4px; margin-bottom: 6px; }
+.sch-day { font-size: clamp(28px, 4vw, 42px); font-weight: 900; letter-spacing: .08em; text-transform: uppercase; color: var(--sch-accent); }
+.sch-date { font-size: clamp(18px, 2vw, 24px); font-weight: 700; color: var(--sch-text); }
+.sch-league { background: var(--sch-surface); border: 1px solid var(--sch-border); border-radius: 14px; overflow: hidden; box-shadow: var(--sch-shadow); box-shadow: 0 18px 34px rgba(0,0,0,.16); display:inline-block; width:100%; margin:0 0 30px; break-inside:avoid; vertical-align:top; }
+html[data-theme="light"] .sch-league { box-shadow: 0 18px 34px rgba(10,29,44,.08); }
+.sch-league-hdr { width:100%; display: flex; align-items: center; justify-content: space-between; gap: 16px; padding: 14px 16px 12px; border:0; border-bottom: 1px solid var(--sch-row-border); background:transparent; color:inherit; cursor:pointer; text-align:left; }
+.sch-league-left { display: flex; align-items: center; gap: 10px; font-size: 15px; font-weight: 800; min-width: 0; }
+.sch-league-right { display: flex; align-items: center; justify-content: flex-end; gap: 10px; flex-wrap: wrap; }
+.sch-league-right-header { gap: 4px; flex-wrap: nowrap; }
+.sch-league-caret { font-size: 18px; font-weight: 700; color: var(--sch-accent); transition: transform .18s ease; }
+.sch-league.collapsed .sch-league-caret { transform: rotate(-90deg); }
+.sch-league-body { display:block; padding: 12px; }
+.sch-league.collapsed .sch-league-body { display:none; }
+.sch-icon-box { width: 28px; height: 28px; display: inline-flex; align-items: center; justify-content: center; overflow: hidden; flex-shrink: 0; border-radius: 8px; background: rgba(255,255,255,.12); border: 1px solid rgba(255,255,255,.18); }
+html[data-theme="light"] .sch-icon-box { background: rgba(255,255,255,.68); border-color: rgba(16,34,51,.08); }
+.sch-icon-box.sch-icon-box-standard-logo { background: rgba(255,255,255,.18); border-color: rgba(255,255,255,.28); }
+html[data-theme="dark"] .sch-icon-box.sch-icon-box-standard-logo { background: #ffffff; border-color: rgba(255,255,255,.96); box-shadow: 0 10px 22px rgba(0,0,0,.28); }
+.sch-icon-box.sch-icon-box-white-logo { background: rgba(255,255,255,.12); border-color: rgba(255,255,255,.18); }
+html[data-theme="light"] .sch-icon-box.sch-icon-box-white-logo { background: #132433; border-color: rgba(16,34,51,.72); box-shadow: 0 10px 22px rgba(10,29,44,.16); }
+.sch-icon-box img { width: calc(100% - 6px); height: calc(100% - 6px); object-fit: contain; padding: 0; }
+html[data-theme="dark"] .sch-icon-box.sch-icon-box-standard-logo img { width: calc(100% - 6px); height: calc(100% - 6px); }
+html[data-theme="light"] .sch-icon-box.sch-icon-box-white-logo img { width: calc(100% - 6px); height: calc(100% - 6px); }
+.sch-competition-flag { width: 14px; height: 14px; display: inline-flex; align-items: center; justify-content: center; border-radius: 999px; overflow: hidden; flex-shrink: 0; border: 1px solid rgba(255,255,255,.16); background: rgba(255,255,255,.06); }
+html[data-theme="light"] .sch-competition-flag { border-color: rgba(16,34,51,.12); background: rgba(255,255,255,.68); }
+.sch-competition-flag img { width: 100%; height: 100%; object-fit: cover; }
+.sch-match { background: rgba(255,255,255,.035); border: 1px solid var(--sch-row-border); border-radius: 16px; overflow: hidden; box-shadow: 0 10px 24px rgba(0,0,0,.14); }
+html[data-theme="light"] .sch-match { background: rgba(255,255,255,.82); box-shadow: 0 10px 24px rgba(10,29,44,.08); }
+.sch-match + .sch-match { margin-top: 24px; }
+.sch-match[data-match-card] { cursor:pointer; transition: transform .18s ease, box-shadow .18s ease; }
+.sch-match[data-match-card]:hover { transform: translateY(-1px); box-shadow: 0 16px 28px rgba(0,0,0,.16); }
+.sch-match[data-match-card]:focus-visible { outline:2px solid var(--sch-accent); outline-offset:-2px; }
+.sch-match-shell { display: grid; grid-template-columns: 96px minmax(0, 1fr); gap: 12px; padding: 14px 16px 12px; background: linear-gradient(180deg, rgba(255,255,255,.03), rgba(255,255,255,.015)); }
+html[data-theme="light"] .sch-match-shell { background: linear-gradient(180deg, rgba(16,34,51,.02), rgba(16,34,51,.01)); }
+.sch-time-col { display: flex; flex-direction: column; align-items: center; gap: 4px; }
+.sch-time { font-size: 18px; font-weight: 500; color: var(--sch-muted); line-height: 1.1; white-space: nowrap; }
+html[data-theme="dark"] .sch-time { font-weight: 800; color: var(--sch-accent); }
+.sch-next-day { font-size: 10px; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; color: #ffd280; background: rgba(255,210,128,.12); border: 1px solid rgba(255,210,128,.28); border-radius: 999px; padding: 3px 8px; white-space: nowrap; }
+.sch-match-main { display: flex; flex-direction: column; gap: 8px; min-width: 0; width: 100%; }
+.sch-teams { display: flex; flex-direction: column; gap: 4px; width: 100%; text-align: left; }
+.sch-team-line { display:flex; align-items:center; gap:8px; font-size: 17px; font-weight: 800; line-height: 1.1; overflow-wrap: anywhere; text-align: left; }
+.sch-team-line span { min-width:0; }
+.sch-team-icon { width: 22px; height: 22px; display:inline-flex; align-items:center; justify-content:center; flex-shrink:0; }
+.sch-team-icon img { width:100%; height:100%; object-fit:contain; }
+.sch-team-country { width: 18px; height: 18px; display:inline-flex; align-items:center; justify-content:center; flex-shrink:0; border-radius:4px; overflow:hidden; }
+.sch-team-country-edge-home { margin-right:auto; }
+.sch-team-country-edge-away { margin-left:auto; }
+.sch-team-country img { width:100%; height:100%; object-fit:contain; }
+.sch-meta-row { display: flex; flex-wrap: wrap; gap: 6px 12px; justify-content: flex-start; align-self: stretch; width: 100%; margin-left: 0; padding-left: 0; }
+.sch-subline { display: inline-flex; align-items: center; gap: 6px; font-size: 12px; font-weight: 700; color: var(--sch-muted); }
+.sch-subline-muted { font-weight: 600; }
+.sch-inline-icon { width: 18px; height: 18px; display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; overflow: hidden; background: rgba(255,255,255,.9); border: 1px solid var(--sch-border); }
+.sch-match-meta { display: flex; align-items: center; gap: 16px; padding: 2px 16px 10px; flex-wrap: wrap; }
+.sch-subline-main { display: inline-flex; flex-direction: column; align-items: center; gap: 4px; }
+.sch-inline-icon-main {
+  width: 88px;
+  height: 44px;
+  border-radius: 0;
+  background: transparent;
+  border: none;
+  justify-content: center;
+}
+.sch-inline-icon-main img { padding: 0; }
+.sch-inline-icon img { width: 100%; height: 100%; object-fit: contain; padding: 2px; }
+.sch-channels { background: var(--sch-row); border-top: 1px solid var(--sch-row-border); }
+.sch-sat-block { border-top: 1px solid var(--sch-row-border); }
+.sch-sat-block-even { background: rgba(255,255,255,.02); }
+.sch-sat-block-odd { background: rgba(255,255,255,.065); }
+html[data-theme="light"] .sch-sat-block-even { background: rgba(16,34,51,.025); }
+html[data-theme="light"] .sch-sat-block-odd { background: rgba(16,34,51,.055); }
+.sch-sat-group { width: 100%; display:flex; align-items:center; justify-content:space-between; gap:12px; padding: 10px 16px 8px; border:0; background:transparent; color: var(--sch-accent); cursor:pointer; text-align:left; }
+.sch-sat-group-label { font-size: 15px; font-weight: 900; letter-spacing: .08em; text-transform: uppercase; }
+.sch-sat-group-caret { font-size: 18px; transition: transform .18s ease; }
+.sch-sat-block.collapsed .sch-sat-group-caret { transform: rotate(-90deg); }
+.sch-sat-group-body { display:block; }
+.sch-sat-block.collapsed .sch-sat-group-body { display:none; }
+.sch-sat-block-static .sch-sat-group { cursor: default; }
+.sch-ch-more { padding: 8px 16px; text-align: center; font-size: 11px; font-weight: 700; color: var(--sch-accent); opacity: .75; border-top: 1px solid var(--sch-row-border); cursor: pointer; }
+.sch-ch-more:hover { opacity: 1; }
+.sch-ch-row, .sch-empty-row { display: flex; align-items: center; gap: 12px; padding: 10px 16px; border-top: 1px solid var(--sch-row-border); font-size: 13px; }
+.sch-ch-left { display: flex; flex-direction: column; align-items: center; flex-shrink: 0; gap: 4px; }
+.sch-ch-brand { display: grid; grid-template-columns: 56px 18px; align-items: center; justify-content: center; column-gap: 6px; flex-shrink: 0; min-height: 56px; }
+.sch-ch-name { display: flex; align-items: center; justify-content: center; gap: 8px; flex-wrap: wrap; text-align: center; }
+.sch-ch-name strong { overflow-wrap: anywhere; font-size: 13px; font-weight: 700; color: var(--sch-text); }
+.sch-channel-link { color: var(--sch-text); text-decoration: underline; text-decoration-color: rgba(0,255,213,.35); text-underline-offset: 2px; }
+.sch-channel-link:hover { color: var(--sch-accent); }
+.sch-channel-link-online { font-weight: 800; color: var(--sch-accent); text-decoration: none; }
+.sch-online-badge { display: inline-flex; align-items: center; padding: 2px 8px; border-radius: 999px; background: rgba(0,255,213,.12); border: 1px solid rgba(0,255,213,.24); color: var(--sch-accent); font-size: 10px; font-weight: 800; letter-spacing: .3px; }
+.sch-cband-badge { display: inline-flex; align-items: center; padding: 2px 8px; border-radius: 999px; background: rgba(255,215,64,.12); border: 1px solid rgba(255,215,64,.28); color: #ffd45d; font-size: 10px; font-weight: 800; letter-spacing: .2px; }
+.sch-ch-commentator { font-size: 11px; font-weight: 600; color: var(--sch-muted); text-align: center; overflow-wrap: anywhere; }
+.sch-ch-commentator-solo { font-size: 12px; font-weight: 600; color: var(--sch-muted); padding: 2px 0; }
+.sch-row-icon { display: inline-flex; align-items: center; justify-content: center; border-radius: 6px; overflow: hidden; flex-shrink: 0; background: rgba(255,255,255,.9); border: 1px solid var(--sch-border); }
+html[data-theme="dark"] .sch-row-icon { background: rgba(255,255,255,.10); }
+.sch-row-icon.sch-row-icon-channel { width: 56px; height: 56px; background: transparent; border: none; border-radius: 0; box-shadow: none; }
+html[data-theme="dark"] .sch-row-icon.sch-row-icon-channel { background: transparent; border: none; box-shadow: none; }
+.sch-row-icon-country { width: 18px; height: 18px; justify-self: center; align-self: center; }
+.sch-row-icon img { width: 100%; height: 100%; object-fit: contain; padding: 2px; }
+.sch-row-icon.sch-row-icon-channel img { padding: 0; }
+.sch-row-country-code { font-size: 10px; font-weight: 800; color: var(--sch-muted); }
+.sch-ch-right { display: flex; flex-direction: column; gap: 3px; flex: 1; min-width: 0; color: var(--sch-muted); font-weight: 600; font-size: 12px; }
+html[data-theme="dark"] .sch-ch-right { color: var(--sch-text); }
+.sch-ch-coverage { display: flex; flex-direction: column; align-items: flex-end; width: 100%; }
+.sch-ch-sat-name { display: block; width: 100%; overflow-wrap: anywhere; text-align: right; margin-bottom: 2px; }
+.sch-ch-tp { display: block; text-align: right; font-size: 11px; font-weight: 700; color: var(--sch-accent); white-space: nowrap; direction: ltr; unicode-bidi: isolate; }
+.sch-ch-online { font-size:11px; font-weight:700; color:var(--sch-accent); opacity:.75; text-align:right; align-self:flex-end; }
+.sch-ch-tp-row { display: flex; justify-content: flex-end; align-items: center; gap: 6px; width: 100%; }
+.sch-beam-flag { display:inline-flex; align-items:center; gap:4px; color:#d53030; font-weight:800; font-size: 11px; flex-shrink: 0; direction: rtl; unicode-bidi: isolate; text-align: right; }
+.sch-beam-flag-icon { display:inline-flex; align-items:center; justify-content:center; }
+.sch-beam-flag-text { display:inline-block; }
+.sch-empty-state, .sch-empty-row { color: var(--sch-muted); }
+.sch-empty-state { background: var(--sch-surface); border: 1px solid var(--sch-border); border-radius: 14px; padding: 24px; text-align: center; box-shadow: var(--sch-shadow); }
+.sch-modal[hidden] { display:none; }
+.sch-modal { position:fixed; inset:0; z-index:60; display:flex; align-items:center; justify-content:center; padding:20px; }
+.sch-modal-backdrop { position:absolute; inset:0; background:rgba(2,4,9,.72); backdrop-filter: blur(4px); }
+.sch-modal-card { position:relative; z-index:1; width:min(760px, 100%); max-height:calc(100vh - 40px); overflow:auto; background:var(--sch-bg-secondary); border:1px solid var(--sch-border); border-radius:18px; box-shadow:0 28px 60px rgba(0,0,0,.35); padding:16px; }
+.sch-modal-close { position:sticky; top:0; margin-left:auto; display:flex; align-items:center; justify-content:center; width:36px; height:36px; border-radius:999px; border:1px solid var(--sch-border); background:var(--sch-surface); color:var(--sch-text); cursor:pointer; z-index:2; }
+.sch-modal-league-hdr { display:flex; align-items:center; gap:10px; padding:14px 20px 12px; font-size:16px; font-weight:800; color:var(--sch-text); border-bottom:1px solid var(--sch-border); margin-bottom:12px; }
+.sch-modal-league-icon { width:36px; height:36px; }
+.sch-modal-body .sch-match { margin:0; border-top:none; border-radius:14px; overflow:hidden; background:var(--sch-surface); border:1px solid var(--sch-border); box-shadow:var(--sch-shadow); }
+.sch-modal-body .sch-match-shell { padding-top:16px; }
+.sch-modal-body .sch-channels { border-top:1px solid var(--sch-row-border); border-radius:0 0 14px 14px; }
+@media (max-width: 860px) { .sch-leagues-grid { column-count: 1; column-gap: 18px; } .sch-league { margin-bottom: 18px; } }
+@media (max-width: 640px) {
+  .sch-wrap { padding-inline: 12px; }
+  .sch-leagues-grid { column-count: 1; column-gap: 18px; }
+  .sch-telegram-btn { padding: 9px 13px; font-size: 13px; }
+  .sch-day { font-size: 24px; }
+  .sch-date { font-size: 16px; }
+  .sch-league { border-radius: 12px; }
+  .sch-league-hdr { padding: 12px 14px 10px; }
+  .sch-league-left { font-size: 14px; }
+  .sch-icon-box { width: 24px; height: 24px; }
+  .sch-match + .sch-match { margin-top: 14px; }
+  .sch-match-shell { grid-template-columns: 88px minmax(0, 1fr); gap: 10px; padding: 10px 14px 8px; }
+  .sch-time { font-size: 15px; }
+  .sch-team-line { font-size: 15px; }
+  .sch-team-icon { width: 18px; height: 18px; }
+  .sch-meta-row { gap: 4px 10px; margin-left: 0; }
+  .sch-subline { font-size: 11px; }
+  .sch-ch-row { padding: 8px 12px; font-size: 12px; gap: 8px; }
+  .sch-ch-left { gap: 3px; }
+  .sch-ch-name strong { font-size: 12px; }
+  .sch-theme-toggle { position: fixed; top: 12px; right: 12px; z-index: 20; padding: 6px 10px; font-size: 12px; gap: 6px; }
+  .sch-toggle-track { width: 30px; height: 17px; border-radius: 9px; }
+  .sch-toggle-thumb { width: 13px; height: 13px; }
+  html[data-theme="dark"] .sch-toggle-thumb { transform: translateX(13px); }
+}
+.sch-theme-toggle{display:none !important;}.sch-wrap,.sch-modal,.sch-settings-menu,.sch-page-back,.sch-back-btn,.sch-league,.sch-match,.sch-sport-tab{font-family:'Trebuchet MS','Arial Nova','Segoe UI',Tahoma,Arial,sans-serif;}html[data-sofascore-lang='ar'] .sch-wrap,html[data-sofascore-lang='ar'] .sch-modal,html[data-sofascore-lang='ar'] .sch-settings-menu,html[data-sofascore-lang='ar'] .sch-page-back,html[data-sofascore-lang='ar'] .sch-back-btn,html[data-sofascore-lang='ar'] .sch-league,html[data-sofascore-lang='ar'] .sch-match,html[data-sofascore-lang='ar'] .sch-sport-tab{font-family:Tahoma,'Segoe UI',Arial,sans-serif;}.sch-page-back{display:none !important;}.sch-livefeed-header-shell{position:relative;overflow:visible;container-type:inline-size;padding:18px 16px 4px;background:transparent;border-bottom:1px solid rgba(255,255,255,.08);box-shadow:none;backdrop-filter:none;}.sch-livefeed-header-grid{position:relative;z-index:1;width:min(760px,100%);margin:0 auto;display:grid;grid-template-columns:auto minmax(0,1fr);gap:14px;align-items:center;}.sch-livefeed-brand-lockup{display:inline-flex;align-items:center;min-width:0;text-decoration:none;width:min(320px,48vw);height:74px;flex:0 0 auto;}.sch-livefeed-brand-logo{display:block;width:100%;height:100%;max-width:none;object-fit:contain;object-position:left center;background:transparent;filter:none;transform-origin:left center;}.sch-livefeed-header-side{display:flex;align-items:center;justify-content:flex-end;flex:1 1 auto;min-width:0;}.sch-livefeed-header-actions{display:flex;align-items:center;justify-content:flex-end;gap:4px;flex-wrap:wrap;margin-left:auto;}.sch-livefeed-header-action,.sch-livefeed-header-shell .sch-settings-toggle{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:46px;padding:0 16px;border-radius:16px;border:1px solid var(--sch-border);background:var(--sch-surface);color:var(--sch-text);box-shadow:none;text-decoration:none;white-space:nowrap;transition:border-color .18s ease,background .18s ease,transform .18s ease,color .18s ease,box-shadow .18s ease;}.sch-livefeed-header-action svg,.sch-livefeed-header-shell .sch-settings-toggle svg{width:18px;height:18px;flex:0 0 auto;}.sch-livefeed-header-action-copy{display:inline-flex;align-items:center;gap:6px;font-size:15px;font-weight:800;white-space:nowrap;}.sch-livefeed-header-action strong{font-size:15px;font-weight:800;}.sch-livefeed-header-live{color:#229ed9;}.sch-livefeed-header-action:hover,.sch-livefeed-header-shell .sch-settings-toggle:hover{transform:none;border-color:rgba(96,229,208,.16);background:rgba(28,34,49,.58);color:#f3f7ff;}html[data-theme='dark'] .sch-livefeed-header-action,html[data-theme='dark'] .sch-livefeed-header-shell .sch-settings-toggle{background:rgba(16,23,30,.88);border-color:rgba(235,240,245,.10);color:#eef3f8;}html[data-theme='dark'] .sch-livefeed-header-live{color:#229ed9;}.sch-livefeed-header-shell .sch-settings-wrap{margin-left:0;gap:8px;}.sch-livefeed-header-shell .sch-settings-toggle{width:46px;height:46px;padding:0;border-radius:14px;}.sch-livefeed-header-shell .sch-settings-toggle:active{transform:scale(.94);}.sch-livefeed-header-shell .sch-settings-toggle[aria-expanded='true']{border-color:rgba(96,229,208,.26);background:rgba(28,34,49,.72);color:#f8fbff;box-shadow:0 0 0 1px rgba(96,229,208,.08);}.sch-livefeed-header-shell .sch-settings-toggle[aria-expanded='true'] svg{transform:rotate(90deg);}.sch-livefeed-header-shell .sch-settings-menu{top:calc(100% + 8px);right:0;}html[data-theme='light'] .sch-livefeed-header-shell{background:transparent;border-bottom-color:rgba(16,34,51,.08);}html[data-theme='light'] .sch-livefeed-header-action,html[data-theme='light'] .sch-livefeed-header-shell .sch-settings-toggle{background:rgba(255,252,246,.88);border-color:rgba(40,53,63,.10);color:#14202b;}html[data-theme='light'] .sch-livefeed-header-live{color:#229ed9;}html[data-theme='light'] .sch-livefeed-header-action:hover,html[data-theme='light'] .sch-livefeed-header-shell .sch-settings-toggle:hover{border-color:rgba(40,53,63,.16);background:#fffdf8;color:#14202b;}html[data-theme='light'] .sch-livefeed-header-live:hover{color:#229ed9;}@media (max-width: 760px), (pointer: coarse){.sch-livefeed-header-shell{padding:24px 12px 4px;}.sch-livefeed-header-grid{display:block;width:100%;min-height:56px;}.sch-livefeed-brand-lockup{width:104px;height:56px;justify-content:flex-start;}.sch-livefeed-brand-logo{object-fit:contain;object-position:left center;}.sch-livefeed-header-side{position:absolute;right:max(0px,calc(100% - 351px));top:50%;transform:translateY(-50%);width:auto;min-width:0;}.sch-livefeed-header-actions{width:auto;justify-content:flex-end;gap:4px;margin-left:0;flex-wrap:nowrap;}.sch-livefeed-header-action{width:auto;height:30px;min-height:30px;padding:0 8px;justify-content:center;border-radius:10px;gap:5px;}.sch-livefeed-header-shell .sch-settings-toggle{width:30px;height:30px;min-height:30px;padding:0;border-radius:10px;}.sch-livefeed-header-action-copy{position:static;width:auto;height:auto;overflow:visible;clip:auto;white-space:nowrap;display:inline-flex;align-items:center;}.sch-livefeed-header-action-copy,.sch-livefeed-header-action strong{font-size:10.5px;}.sch-livefeed-header-action svg,.sch-livefeed-header-shell .sch-settings-toggle svg{width:13px;height:13px;}.sch-wrap{margin-top:16px;}}@container (max-width: 760px){.sch-livefeed-header-grid{display:block;width:100%;min-height:56px;}.sch-livefeed-brand-lockup{width:104px;height:56px;justify-content:flex-start;}.sch-livefeed-brand-logo{object-fit:contain;object-position:left center;}.sch-livefeed-header-side{position:absolute;right:max(0px,calc(100% - 351px));top:50%;transform:translateY(-50%);width:auto;min-width:0;}.sch-livefeed-header-actions{width:auto;justify-content:flex-end;gap:4px;margin-left:0;flex-wrap:nowrap;}.sch-livefeed-header-action{width:auto;height:30px;min-height:30px;padding:0 8px;justify-content:center;border-radius:10px;gap:5px;}.sch-livefeed-header-shell .sch-settings-toggle{width:30px;height:30px;min-height:30px;padding:0;border-radius:10px;}.sch-livefeed-header-action-copy{position:static;width:auto;height:auto;overflow:visible;clip:auto;white-space:nowrap;display:inline-flex;align-items:center;}.sch-livefeed-header-action-copy,.sch-livefeed-header-action strong{font-size:10.5px;}.sch-livefeed-header-action svg,.sch-livefeed-header-shell .sch-settings-toggle svg{width:13px;height:13px;}}.sch-page-back{position:relative;display:flex;align-items:center;justify-content:flex-start;gap:12px;}.sch-settings-wrap{position:relative;z-index:30;display:flex;flex-direction:column;align-items:flex-end;gap:10px;flex-shrink:0;margin-left:auto;}.sch-settings-toggle{width:48px;height:48px;border-radius:999px;border:1px solid var(--sch-border);background:var(--sch-surface);color:var(--sch-text);display:inline-flex;align-items:center;justify-content:center;box-shadow:var(--sch-shadow);cursor:pointer;transition:transform .18s ease,border-color .18s ease,box-shadow .18s ease;}.sch-settings-toggle:hover{transform:translateY(-1px);border-color:rgba(0,255,213,.28);box-shadow:0 14px 26px rgba(0,0,0,.18);}.sch-settings-toggle svg{width:22px;height:22px;}.sch-settings-menu{position:absolute;top:calc(100% + 10px);right:0;width:min(260px,calc(100vw - 32px));padding:14px 14px 12px;border-radius:16px;border:1px solid var(--sch-border);background:rgba(15,24,37,.96);box-shadow:0 20px 40px rgba(0,0,0,.28);backdrop-filter:blur(12px);}html[data-theme='light'] .sch-settings-menu{background:rgba(255,255,255,.96);}.sch-settings-title{font-size:14px;font-weight:900;color:var(--sch-text);margin-bottom:10px;}.sch-settings-section-label{font-size:10px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--sch-muted);margin:0 0 8px;}.sch-settings-divider{height:1px;background:var(--sch-border);margin:10px 0;}.sch-settings-row{display:flex;align-items:center;justify-content:space-between;gap:12px;color:var(--sch-text);font-size:14px;font-weight:800;}.sch-settings-row + .sch-settings-row{margin-top:8px;}.sch-settings-row-toggle{cursor:pointer;}.sch-settings-language-list{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:10px;}.sch-settings-language-option{width:100%;padding:12px 14px;border-radius:12px;border:1px solid transparent;background:rgba(255,255,255,.04);color:var(--sch-text);font-size:14px;font-weight:800;text-align:left;cursor:pointer;transition:border-color .18s ease,background .18s ease,color .18s ease;}html[data-theme='light'] .sch-settings-language-option{background:rgba(16,34,51,.035);}.sch-settings-language-option.is-selected{background:rgba(0,255,213,.18);border-color:rgba(0,255,213,.62);}.sch-settings-language-option:hover{border-color:rgba(0,255,213,.32);}.sch-settings-select{min-width:104px;padding:7px 30px 7px 10px;border-radius:10px;border:1px solid var(--sch-border);background:var(--sch-surface);color:var(--sch-text);font-size:13px;font-weight:800;cursor:pointer;color-scheme:light;}html[data-theme='dark'] .sch-settings-select{background:#243243;color:#f4fbff;border-color:rgba(255,255,255,.18);color-scheme:dark;}.sch-settings-select option{background:#f5f7fb;color:#102233;}html[data-theme='dark'] .sch-settings-select option{background:#243243;color:#f4fbff;}.sch-settings-switch{position:relative;display:inline-flex;align-items:center;}.sch-settings-switch input{position:absolute;opacity:0;pointer-events:none;}.sch-settings-switch-ui{position:relative;display:inline-flex;width:44px;height:24px;border-radius:999px;background:rgba(255,255,255,.16);border:1px solid rgba(255,255,255,.12);transition:background .18s ease,border-color .18s ease;}.sch-settings-switch-ui::after{content:'';position:absolute;top:2px;left:2px;width:18px;height:18px;border-radius:50%;background:#fff;transition:transform .18s ease;box-shadow:0 2px 6px rgba(0,0,0,.24);}.sch-settings-switch input:checked + .sch-settings-switch-ui{background:rgba(0,255,213,.42);border-color:rgba(0,255,213,.36);}.sch-settings-switch input:checked + .sch-settings-switch-ui::after{transform:translateX(20px);background:#7df7e0;}.sch-settings-menu[hidden]{display:none;}.sch-lang-toggle{top:66px;}.sch-i18n-name[dir='rtl']{direction:rtl;text-align:right;font-weight:900 !important;}html[data-sofascore-lang='ar'] .sch-compact-match-head,html[data-livefeed-lang='ar'] .sch-compact-match-head{direction:rtl;}.sch-i18n-name[dir='ltr']{direction:ltr;text-align:left;}.sch-team-line .sch-i18n-name[dir='rtl'],.sch-league-left .sch-i18n-name[dir='rtl'],.sch-sport-tab .sch-i18n-name[dir='rtl'],.sch-day .sch-i18n-name[dir='rtl'],.sch-date .sch-i18n-name[dir='rtl']{font-weight:900 !important;}html[data-sofascore-lang='en'] .sch-lang-toggle .sch-lang-toggle-thumb{transform:translateX(0);}html[data-sofascore-lang='ar'] .sch-lang-toggle .sch-lang-toggle-thumb{transform:translateX(13px);}.sch-match[data-match-card]{cursor:pointer;transition:transform .18s ease,box-shadow .18s ease,border-color .18s ease;}.sch-match[data-match-card]:hover{transform:translateY(-1px);border-color:rgba(0,255,213,.24);box-shadow:0 16px 28px rgba(0,0,0,.16);}.sch-match[data-match-card]:focus-visible{outline:2px solid var(--sch-accent);outline-offset:-2px;}.sch-match-shell{grid-template-columns:1fr;padding:12px 16px 10px;}.sch-compact-match-head{display:grid;grid-template-columns:minmax(0,1fr) auto minmax(0,1fr);align-items:center;gap:12px;}.sch-compact-team{display:flex;align-items:center;gap:8px;font-size:16px;font-weight:800;line-height:1.12;min-width:0;}.sch-compact-team-home{justify-content:flex-end;text-align:right;}.sch-compact-team-away{justify-content:flex-start;text-align:left;}.sch-compact-team .sch-i18n-name{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;white-space:normal;overflow:hidden;text-overflow:ellipsis;overflow-wrap:anywhere;}.sch-compact-team-logo{width:22px;height:22px;display:inline-flex;align-items:center;justify-content:center;flex-shrink:0;}.sch-compact-team-logo img{width:100%;height:100%;object-fit:contain;}.sch-compact-time-wrap{display:flex;flex-direction:column;align-items:center;gap:4px;min-width:82px;}.sch-compact-time-wrap .sch-time{font-size:15px;font-weight:800;color:var(--sch-text);text-align:center;}.sch-compact-time-wrap .sch-next-day{margin:0;font-size:10px;}.sch-channels-compact{border-top:none;padding:0 16px 14px;background:transparent;}.sch-channels-compact .sch-ch-row{padding:0;display:block;background:transparent;border-top:none;}.sch-channels-compact .sch-ch-brand,.sch-channels-compact .sch-ch-right,.sch-channels-compact .sch-row-icon,.sch-channels-compact .sch-ch-name small,.sch-channels-compact .sch-sat-block,.sch-channels-compact .sch-ch-more{display:none !important;}.sch-channels-compact .sch-ch-left{display:flex;flex-direction:column;align-items:center;justify-content:center;min-width:0;}.sch-channels-compact .sch-ch-name{display:block;text-align:center;}.sch-channels-compact .sch-ch-name strong{display:block;font-size:12px;font-weight:800;color:var(--sch-muted);text-align:center;}.sch-channels-compact .sch-ch-commentator{margin-top:2px;font-size:11px;font-weight:700;color:var(--sch-text);text-align:center;}.sch-modal{padding:56px 20px;align-items:flex-start;}.sch-modal-card{width:min(720px,100%);max-height:calc(100vh - 112px);padding:14px 14px 16px;border-radius:20px;margin:0 auto;}.sch-modal-close{top:0;}.sch-modal-body .sch-match-shell{padding:12px 16px 10px;}.sch-modal-body .sch-compact-match-head{display:grid;grid-template-columns:minmax(0,1fr) auto minmax(0,1fr);align-items:center;gap:12px;}.sch-modal-body .sch-compact-team{display:flex;align-items:center;gap:8px;font-size:16px;font-weight:800;line-height:1.12;min-width:0;}.sch-modal-body .sch-compact-team-home{justify-content:flex-end;text-align:right;}.sch-modal-body .sch-compact-team-away{justify-content:flex-start;text-align:left;}.sch-modal-body .sch-compact-team .sch-i18n-name{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;white-space:normal;overflow:hidden;text-overflow:ellipsis;overflow-wrap:anywhere;}.sch-modal-body .sch-compact-team-logo{width:22px;height:22px;display:inline-flex;align-items:center;justify-content:center;flex-shrink:0;}.sch-modal-body .sch-compact-team-logo img{width:100%;height:100%;object-fit:contain;}.sch-modal-body .sch-compact-time-wrap{display:flex;flex-direction:column;align-items:center;gap:4px;min-width:82px;}.sch-modal-body .sch-time{font-size:15px;font-weight:800;color:var(--sch-text);}@media (max-width: 640px){.sch-page-back{gap:10px;align-items:flex-start;}.sch-back-btn{min-width:0;max-width:calc(100vw - 86px);}.sch-settings-wrap{margin-left:0;}.sch-settings-toggle{width:42px;height:42px;}.sch-settings-menu{top:calc(100% + 6px);right:0;width:min(220px,calc(100vw - 24px));padding:12px 12px 10px;border-radius:14px;}.sch-settings-title{font-size:13px;margin-bottom:8px;}.sch-settings-section-label{font-size:9px;margin-bottom:6px;}.sch-settings-row{font-size:13px;gap:10px;}.sch-settings-language-option{padding:10px 12px;font-size:13px;}.sch-match-shell{padding:10px 14px 8px;}.sch-compact-match-head,.sch-modal-body .sch-compact-match-head{gap:8px;align-items:flex-start;}.sch-compact-team,.sch-modal-body .sch-compact-team{font-size:13px;line-height:1.08;align-items:flex-start;}.sch-compact-team .sch-i18n-name,.sch-modal-body .sch-compact-team .sch-i18n-name{white-space:normal;overflow:visible;text-overflow:clip;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow-wrap:anywhere;}.sch-compact-team-logo,.sch-modal-body .sch-compact-team-logo{width:18px;height:18px;margin-top:1px;}.sch-compact-time-wrap,.sch-modal-body .sch-compact-time-wrap{min-width:68px;}.sch-compact-time-wrap .sch-time,.sch-modal-body .sch-time{font-size:13px;}.sch-modal{padding:48px 12px;}.sch-modal-card{max-height:calc(100vh - 96px);}}</style>
 </head>
 <body>
-<div id="cf-wrapper">
-    <div id="cf-error-details" class="p-0">
-        <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">
-            <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">
-                <span class="inline-block">Bad gateway</span>
-                <span class="code-label">Error code 502</span>
-            </h1>
-            <div>
-                Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=liveonsat.com" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.
-            </div>
-            <div class="mt-3">2026-09-02 15:02:10 UTC</div>
-        </header>
-        <div class="my-8 bg-gradient-gray">
-            <div class="w-240 lg:w-full mx-auto">
-                <div class="clearfix md:px-8">
-                    <div id="cf-browser-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
-  <div class="relative mb-10 md:m-0">
-    
-    <span class="cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat"></span>
-    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
-    
+<button id="themeToggle" class="sch-theme-toggle" type="button" role="switch" aria-checked="true"><span class="sch-toggle-track" aria-hidden="true"><span class="sch-toggle-thumb"></span></span><span id="themeToggleLabel">Dark</span></button>
+<div class="sch-wrap">
+  <div class="sch-livefeed-header-shell"><div class="sch-livefeed-header-grid"><a class="sch-livefeed-brand-lockup" href="/" aria-label="Live Feed home"><img src="/static/img/logo.png?v=202604151445" data-logo-dark="/static/img/logo.png?v=202604151445" data-logo-light="/static/img/logo-dark.png?v=202604151445" alt="Live Feed" class="sch-livefeed-brand-logo"></a><div class="sch-livefeed-header-side"><div class="sch-livefeed-header-actions"><a class="sch-livefeed-header-action sch-livefeed-header-live" href="https://t.me/live_sat_feeds" target="_blank" rel="noopener noreferrer"><svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.562 8.248-1.97 9.28c-.144.658-.537.818-1.084.508l-3-2.21-1.448 1.394c-.16.16-.295.295-.604.295l.213-3.053 5.56-5.023c.24-.213-.054-.333-.373-.12l-6.87 4.326-2.963-.924c-.643-.204-.656-.643.136-.953l11.57-4.461c.537-.194 1.006.131.833.94z"/></svg><span class="sch-livefeed-header-action-copy"><strong>Live Feed</strong></span></a><a class="sch-livefeed-header-action sch-livefeed-header-main" href="/"><svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path fill="currentColor" d="M4 4.75A2.75 2.75 0 0 1 6.75 2h3.5A2.75 2.75 0 0 1 13 4.75v3.5A2.75 2.75 0 0 1 10.25 11h-3.5A2.75 2.75 0 0 1 4 8.25v-3.5Zm9 11A2.75 2.75 0 0 1 15.75 13h3.5A2.75 2.75 0 0 1 22 15.75v3.5A2.75 2.75 0 0 1 19.25 22h-3.5A2.75 2.75 0 0 1 13 19.25v-3.5ZM4 15.25A2.25 2.25 0 0 1 6.25 13h4.5A2.25 2.25 0 0 1 13 15.25v4.5A2.25 2.25 0 0 1 10.75 22h-4.5A2.25 2.25 0 0 1 4 19.75v-4.5ZM15 4.75A2.75 2.75 0 0 1 17.75 2h1.5A2.75 2.75 0 0 1 22 4.75v5.5A2.75 2.75 0 0 1 19.25 13h-1.5A2.75 2.75 0 0 1 15 10.25v-5.5Z"/></svg><span class="sch-livefeed-header-action-copy"><strong data-i18n-en="Live Feed" data-i18n-ar="&#1601;&#1610;&#1583;&#1575;&#1578; &#1605;&#1576;&#1575;&#1588;&#1585;&#1577;">Live Feed</strong></span></a><div class="sch-settings-wrap"><button id="scheduleSettingsToggle" class="sch-settings-toggle" type="button" aria-expanded="false" aria-controls="scheduleSettingsMenu" aria-label="Open settings"><svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path fill="currentColor" d="M19.14 12.94c.04-.31.06-.63.06-.94s-.02-.63-.06-.94l2.03-1.58a.5.5 0 0 0 .12-.64l-1.92-3.32a.5.5 0 0 0-.6-.22l-2.39.96a7.05 7.05 0 0 0-1.63-.94l-.36-2.54a.5.5 0 0 0-.5-.42h-3.84a.5.5 0 0 0-.5.42l-.36 2.54c-.58.22-1.13.53-1.63.94l-2.39-.96a.5.5 0 0 0-.6.22L2.55 8.84a.5.5 0 0 0 .12.64l2.03 1.58c-.04.31-.06.63-.06.94s.02.63.06.94L2.67 14.52a.5.5 0 0 0-.12.64l1.92 3.32a.5.5 0 0 0 .6.22l2.39-.96c.5.41 1.05.72 1.63.94l.36 2.54a.5.5 0 0 0 .5.42h3.84a.5.5 0 0 0 .5-.42l.36-2.54c.58-.22 1.13-.53 1.63-.94l2.39.96a.5.5 0 0 0 .6-.22l1.92-3.32a.5.5 0 0 0-.12-.64l-2.03-1.58ZM12 15.5A3.5 3.5 0 1 1 12 8.5a3.5 3.5 0 0 1 0 7Z"/></svg></button><div id="scheduleSettingsMenu" class="sch-settings-menu" hidden><div class="sch-settings-title" data-ui-i18n="settings">Settings</div><div class="sch-settings-section-label" data-ui-i18n="appearance">Appearance</div><label class="sch-settings-row sch-settings-row-toggle" for="scheduleThemeSwitch"><span data-ui-i18n="dark_mode">Dark Mode</span><span class="sch-settings-switch"><input id="scheduleThemeSwitch" type="checkbox"><span class="sch-settings-switch-ui"></span></span></label><div class="sch-settings-divider"></div><div class="sch-settings-section-label" data-ui-i18n="timezone">Timezone</div><select id="scheduleTimezoneSelect" class="sch-settings-select" aria-label="Timezone"></select><div class="sch-settings-divider"></div><div class="sch-settings-section-label" data-ui-i18n="language">Language</div><div class="sch-settings-language-list"><button type="button" class="sch-settings-language-option" data-lang-option="ar">&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;</button><button type="button" class="sch-settings-language-option" data-lang-option="en">English</button></div><select id="sofascoreLangSelect" class="sch-settings-select" aria-label="Language" hidden><option value="en">English</option><option value="ar">العربية</option></select></div></div></div></div></div></div>
+  <div class="sch-page-telegram"><a class="sch-telegram-btn" href="https://t.me/A7SatsV6" target="_blank" rel="noopener noreferrer"><svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.562 8.248-1.97 9.28c-.144.658-.537.818-1.084.508l-3-2.21-1.448 1.394c-.16.16-.295.295-.604.295l.213-3.053 5.56-5.023c.24-.213-.054-.333-.373-.12l-6.87 4.326-2.963-.924c-.643-.204-.656-.643.136-.953l11.57-4.461c.537-.194 1.006.131.833.94z" fill="currentColor"/></svg><span>@A7SatsV6</span></a></div>
+  <section class="sch-date-block" data-server-date-value="2026-09-02" data-server-now="2026-09-02 20:33:53">
+    <div class="sch-day"><span class="sch-i18n-name" data-i18n-en="Wednesday" data-i18n-ar="الأربعاء">Wednesday</span></div>
+    <div class="sch-date"><span class="sch-i18n-name" data-i18n-en="2 September 2026" data-i18n-ar="2 سبتمبر 2026">2 September 2026</span></div>
+  </section>
+  
+  <section class="sch-sport-section is-active" data-sport-section="football"><div class="sch-leagues-grid"><section class="sch-league"><button class="sch-league-hdr" type="button" data-league-toggle aria-expanded="true"><div class="sch-league-left"><span class="sch-icon-box sch-icon-box-standard-logo"><img src="/static/schedule-icons/football/competitions/England/Championship/Championship.png?v=1775553441" alt="Championship" title="Championship"></span><span class="sch-i18n-name" data-i18n-en="Championship" data-i18n-ar="تشامبيونشيب">Championship</span></div><div class="sch-league-right sch-league-right-header"><span class="sch-competition-flag" title="England"><img src="/static/schedule-icons/countries/England.png?v=1773420482" alt="England"></span><span class="sch-league-caret" aria-hidden="true">&#9662;</span></div></button><div class="sch-league-body" data-league-body><article class="sch-match" data-league-title="Championship" data-league-title-ar="تشامبيونشيب" data-league-icon="/static/schedule-icons/football/competitions/England/Championship/Championship.png?v=1775553441" data-full-channels="&quot;&lt;div class=\&quot;sch-channels\&quot;&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/BS1.svg?v=1774809244\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Qatar.png?v=1773420535\&quot; alt=\&quot;Qatar\&quot; title=\&quot;Qatar\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Bein Sport 1&lt;/strong&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-commentator\&quot;&gt;\ud83c\udfa4 \u0646\u0648\u0641\u0644 \u0628\u0627\u0634\u064a&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;div class=\&quot;sch-ch-sat-name\&quot;&gt;Badrsat 26.0E&lt;/div&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;10810 H 27500&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;div class=\&quot;sch-ch-sat-name\&quot;&gt;Nilesat 7.0W&lt;/div&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;11013 H 27500&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;section class=\&quot;sch-sat-block sch-sat-block-even\&quot;&gt;&lt;button class=\&quot;sch-sat-group\&quot; type=\&quot;button\&quot; data-sat-toggle aria-expanded=\&quot;true\&quot; data-target=\&quot;satgrp-0-56107\&quot;&gt;&lt;span class=\&quot;sch-sat-group-label\&quot;&gt;Hotbird 13.0E&lt;/span&gt;&lt;span class=\&quot;sch-sat-group-caret\&quot; aria-hidden=\&quot;true\&quot;&gt;\u25be&lt;/span&gt;&lt;/button&gt;&lt;div class=\&quot;sch-sat-group-body\&quot; id=\&quot;satgrp-0-56107\&quot;&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/cosmotesport3hd.png?v=1773541532\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Greece.png?v=1773420491\&quot; alt=\&quot;Greece\&quot; title=\&quot;Greece\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Cosmote Sport 3&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;div class=\&quot;sch-ch-tp-row\&quot;&gt;&lt;span class=\&quot;sch-beam-flag\&quot; dir=\&quot;rtl\&quot;&gt;&lt;span class=\&quot;sch-beam-flag-icon\&quot;&gt;\ud83d\udea9&lt;/span&gt;&lt;span class=\&quot;sch-beam-flag-text\&quot;&gt;\u062d\u0632\u0645\u0629 \u0636\u064a\u0642\u0629&lt;/span&gt;&lt;/span&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;12169 H 30000&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/diemasport2hd.png?v=1773705439\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Bulgaria.png?v=1773420466\&quot; alt=\&quot;Bulgaria\&quot; title=\&quot;Bulgaria\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Diema Sport 2&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;div class=\&quot;sch-ch-tp-row\&quot;&gt;&lt;span class=\&quot;sch-beam-flag\&quot; dir=\&quot;rtl\&quot;&gt;&lt;span class=\&quot;sch-beam-flag-icon\&quot;&gt;\ud83d\udea9&lt;/span&gt;&lt;span class=\&quot;sch-beam-flag-text\&quot;&gt;\u062d\u0632\u0645\u0629 \u0636\u064a\u0642\u0629&lt;/span&gt;&lt;/span&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;12673 V 30000&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=\&quot;sch-sat-block sch-sat-block-odd\&quot;&gt;&lt;button class=\&quot;sch-sat-group\&quot; type=\&quot;button\&quot; data-sat-toggle aria-expanded=\&quot;true\&quot; data-target=\&quot;satgrp-1-78598\&quot;&gt;&lt;span class=\&quot;sch-sat-group-label\&quot;&gt;Eutelsat 16.0E&lt;/span&gt;&lt;span class=\&quot;sch-sat-group-caret\&quot; aria-hidden=\&quot;true\&quot;&gt;\u25be&lt;/span&gt;&lt;/button&gt;&lt;div class=\&quot;sch-sat-group-body\&quot; id=\&quot;satgrp-1-78598\&quot;&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/arenasportpremium3.png?v=1773460711\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Serbia.png?v=1773420544\&quot; alt=\&quot;Serbia\&quot; title=\&quot;Serbia\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Arena Premium 3 SRB&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;10721 H 30000&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/arenasportpremium4.png?v=1773460712\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Bosnia-and-Herzegovina.png?v=1773420463\&quot; alt=\&quot;Bosnia and Herzegovina\&quot; title=\&quot;Bosnia and Herzegovina\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Arena Premium 4 BIH&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;11471 H 30000&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/arenasport1.png?v=1773460704\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Croatia.png?v=1773420475\&quot; alt=\&quot;Croatia\&quot; title=\&quot;Croatia\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Arena Sport 1 HRV&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;11678 H 30000&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/arenasport1.png?v=1773460704\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Slovenia.png?v=1773420546\&quot; alt=\&quot;Slovenia\&quot; title=\&quot;Slovenia\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Arena Sport 1 SLO&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;11678 V 30000&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/Super_Sport_2.png?v=1773714543\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Albania.png?v=1773420451\&quot; alt=\&quot;Albania\&quot; title=\&quot;Albania\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Super Sport 2&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;10845 H 30000&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=\&quot;sch-sat-block sch-sat-block-even\&quot;&gt;&lt;button class=\&quot;sch-sat-group\&quot; type=\&quot;button\&quot; data-sat-toggle aria-expanded=\&quot;true\&quot; data-target=\&quot;satgrp-2-65679\&quot;&gt;&lt;span class=\&quot;sch-sat-group-label\&quot;&gt;Hispasat 30W&lt;/span&gt;&lt;span class=\&quot;sch-sat-group-caret\&quot; aria-hidden=\&quot;true\&quot;&gt;\u25be&lt;/span&gt;&lt;/button&gt;&lt;div class=\&quot;sch-sat-group-body\&quot; id=\&quot;satgrp-2-65679\&quot;&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/Sport_TV_3.webp?v=1773718187\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Portugal.png?v=1773420534\&quot; alt=\&quot;Portugal\&quot; title=\&quot;Portugal\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Sport TV 3&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;12360 H 27500&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=\&quot;sch-sat-block sch-sat-block-odd\&quot;&gt;&lt;button class=\&quot;sch-sat-group\&quot; type=\&quot;button\&quot; data-sat-toggle aria-expanded=\&quot;true\&quot; data-target=\&quot;satgrp-3-9657\&quot;&gt;&lt;span class=\&quot;sch-sat-group-label\&quot;&gt;Amos 4.0W&lt;/span&gt;&lt;span class=\&quot;sch-sat-group-caret\&quot; aria-hidden=\&quot;true\&quot;&gt;\u25be&lt;/span&gt;&lt;/button&gt;&lt;div class=\&quot;sch-sat-group-body\&quot; id=\&quot;satgrp-3-9657\&quot;&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/sport_2.png?v=1773719393\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Israel.png?v=1773803006\&quot; alt=\&quot;Israel\&quot; title=\&quot;Israel\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Sport 2 [Amos]&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;11259 V 30000&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=\&quot;sch-sat-block sch-sat-block-even\&quot;&gt;&lt;button class=\&quot;sch-sat-group\&quot; type=\&quot;button\&quot; data-sat-toggle aria-expanded=\&quot;true\&quot; data-target=\&quot;satgrp-4-75758\&quot;&gt;&lt;span class=\&quot;sch-sat-group-label\&quot;&gt;Thor 0.8W&lt;/span&gt;&lt;span class=\&quot;sch-sat-group-caret\&quot; aria-hidden=\&quot;true\&quot;&gt;\u25be&lt;/span&gt;&lt;/button&gt;&lt;div class=\&quot;sch-sat-group-body\&quot; id=\&quot;satgrp-4-75758\&quot;&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/Match_4.png?v=1773889532\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Hungary.png?v=1773420497\&quot; alt=\&quot;Hungary\&quot; title=\&quot;Hungary\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Match 4&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;12188 V 28000&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/Nova_Sport_3_CZ.svg?v=1774149278\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Czech-Republic.png?v=1773420477\&quot; alt=\&quot;Czech Republic\&quot; title=\&quot;Czech Republic\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Nova Sport 3 CZ&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;12245 H 30000&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/V_Sport_1.png?v=1774508486\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Norway.png?v=1773420528\&quot; alt=\&quot;Norway\&quot; title=\&quot;Norway\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;V Sport 1&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;10809 H 25000&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=\&quot;sch-sat-block sch-sat-block-odd\&quot;&gt;&lt;button class=\&quot;sch-sat-group\&quot; type=\&quot;button\&quot; data-sat-toggle aria-expanded=\&quot;true\&quot; data-target=\&quot;satgrp-5-32864\&quot;&gt;&lt;span class=\&quot;sch-sat-group-label\&quot;&gt;Eutelsat 23.5E&lt;/span&gt;&lt;span class=\&quot;sch-sat-group-caret\&quot; aria-hidden=\&quot;true\&quot;&gt;\u25be&lt;/span&gt;&lt;/button&gt;&lt;div class=\&quot;sch-sat-group-body\&quot; id=\&quot;satgrp-5-32864\&quot;&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/Nova_Sport_3_CZ.svg?v=1774149278\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Czech-Republic.png?v=1773420477\&quot; alt=\&quot;Czech Republic\&quot; title=\&quot;Czech Republic\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Nova Sport 3 CZ&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;11934 V 29900&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=\&quot;sch-sat-block sch-sat-block-even\&quot;&gt;&lt;button class=\&quot;sch-sat-group\&quot; type=\&quot;button\&quot; data-sat-toggle aria-expanded=\&quot;true\&quot; data-target=\&quot;satgrp-6-73558\&quot;&gt;&lt;span class=\&quot;sch-sat-group-label\&quot;&gt;Astra 28.2E&lt;/span&gt;&lt;span class=\&quot;sch-sat-group-caret\&quot; aria-hidden=\&quot;true\&quot;&gt;\u25be&lt;/span&gt;&lt;/button&gt;&lt;div class=\&quot;sch-sat-group-body\&quot; id=\&quot;satgrp-6-73558\&quot;&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/Sky_Sports_Football.jpg?v=1774663139\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/United-Kingdom.png?v=1773420561\&quot; alt=\&quot;United Kingdom\&quot; title=\&quot;United Kingdom\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Sky Sports Football&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;12012 V 27500&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/Sky_Sports_Main_Event.jpg?v=1774663129\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/United-Kingdom.png?v=1773420561\&quot; alt=\&quot;United Kingdom\&quot; title=\&quot;United Kingdom\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Sky Sports Main Event&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;12012 V 27500&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=\&quot;sch-sat-block sch-sat-block-odd\&quot;&gt;&lt;button class=\&quot;sch-sat-group\&quot; type=\&quot;button\&quot; data-sat-toggle aria-expanded=\&quot;true\&quot; data-target=\&quot;satgrp-7-39032\&quot;&gt;&lt;span class=\&quot;sch-sat-group-label\&quot;&gt;Local&lt;/span&gt;&lt;span class=\&quot;sch-sat-group-caret\&quot; aria-hidden=\&quot;true\&quot;&gt;\u25be&lt;/span&gt;&lt;/button&gt;&lt;div class=\&quot;sch-sat-group-body\&quot; id=\&quot;satgrp-7-39032\&quot;&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/United-States.png?v=1773420562\&quot; alt=\&quot;United States\&quot; title=\&quot;United States\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;CBS Sports Golazo&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-online\&quot;&gt;&lt;span class=\&quot;sch-online-badge sch-local-badge\&quot;&gt;Local&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;/div&gt;&quot;" data-match-card data-server-date="2026-09-02" data-server-time="22:00" data-server-next-day="0" tabindex="0" role="button" aria-label="Open match details"><div class="sch-match-shell"><div class="sch-compact-match-head"><div class="sch-compact-team sch-compact-team-home"><span class="sch-i18n-name" data-i18n-en="Burnley" data-i18n-ar="بيرنلي">Burnley</span><span class="sch-compact-team-logo"><img src="/static/schedule-icons/football/competitions/England/Championship/Burnley.png" alt="Burnley" title="Burnley"></span></div><div class="sch-compact-time-wrap"><div class="sch-time">10:00 PM</div><div class="sch-next-day" style="display:none">Next day</div></div><div class="sch-compact-team sch-compact-team-away"><span class="sch-compact-team-logo"><img src="/static/schedule-icons/football/competitions/England/Championship/Middlesbrough.png" alt="Middlesbrough" title="Middlesbrough"></span><span class="sch-i18n-name" data-i18n-en="Middlesbrough" data-i18n-ar="مدلزبره">Middlesbrough</span></div></div></div><div class="sch-channels sch-channels-compact"><div class="sch-ch-row"><div class="sch-ch-left"><div class="sch-ch-brand"><span class="sch-row-icon sch-row-icon-channel"><img src="/static/schedule-icons/channels/BS1.svg?v=1774809244" alt=""></span><span class="sch-row-icon sch-row-icon-country"><img src="/static/schedule-icons/countries/Qatar.png?v=1773420535" alt="Qatar" title="Qatar"></span></div><div class="sch-ch-name"><strong>Bein Sport 1</strong></div><div class="sch-ch-commentator">🎤 نوفل باشي</div></div><div class="sch-ch-right"><div class="sch-ch-coverage"><div class="sch-ch-sat-name">Badrsat 26.0E</div><span class="sch-ch-tp">10810 H 27500</span></div><div class="sch-ch-coverage"><div class="sch-ch-sat-name">Nilesat 7.0W</div><span class="sch-ch-tp">11013 H 27500</span></div></div></div></div></article></div></section>
+<section class="sch-league"><button class="sch-league-hdr" type="button" data-league-toggle aria-expanded="true"><div class="sch-league-left"><span class="sch-icon-box sch-icon-box-standard-logo"><img src="/static/schedule-icons/football/competitions/Italy/Coppa%20Italia/Coppa%20Italia.png?v=1775553461" alt="Coppa Italia" title="Coppa Italia"></span><span class="sch-i18n-name" data-i18n-en="Coppa Italia" data-i18n-ar="كأس إيطاليا">Coppa Italia</span></div><div class="sch-league-right sch-league-right-header"><span class="sch-competition-flag" title="Italy"><img src="/static/schedule-icons/countries/Italy.png?v=1773420501" alt="Italy"></span><span class="sch-league-caret" aria-hidden="true">&#9662;</span></div></button><div class="sch-league-body" data-league-body><article class="sch-match" data-league-title="Coppa Italia" data-league-title-ar="كأس إيطاليا" data-league-icon="/static/schedule-icons/football/competitions/Italy/Coppa%20Italia/Coppa%20Italia.png?v=1775553461" data-full-channels="&quot;&lt;div class=\&quot;sch-channels\&quot;&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/MBC_Shahid.png?v=1775284485\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Saudi-Arabia.png?v=1773420542\&quot; alt=\&quot;Saudi Arabia\&quot; title=\&quot;Saudi Arabia\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;MBC Shahid \u0645\u0646\u0635\u0629 \u0634\u0627\u0647\u062f&lt;/strong&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-commentator\&quot;&gt;\ud83c\udfa4 \u0645\u062d\u0645\u062f \u0623\u0628\u0648 \u0643\u0628\u062f\u0647&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-online\&quot;&gt;&lt;span class=\&quot;sch-online-badge\&quot;&gt;\ud83c\udf10 Online&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;section class=\&quot;sch-sat-block sch-sat-block-even\&quot;&gt;&lt;button class=\&quot;sch-sat-group\&quot; type=\&quot;button\&quot; data-sat-toggle aria-expanded=\&quot;true\&quot; data-target=\&quot;satgrp-0-56107\&quot;&gt;&lt;span class=\&quot;sch-sat-group-label\&quot;&gt;Hotbird 13.0E&lt;/span&gt;&lt;span class=\&quot;sch-sat-group-caret\&quot; aria-hidden=\&quot;true\&quot;&gt;\u25be&lt;/span&gt;&lt;/button&gt;&lt;div class=\&quot;sch-sat-group-body\&quot; id=\&quot;satgrp-0-56107\&quot;&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/Italia_1_logo.svg?v=1776861518\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Italy.png?v=1773420501\&quot; alt=\&quot;Italy\&quot; title=\&quot;Italy\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Italia 1&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;11432 V 29900&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/polsatsport2.png?v=1773460560\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Poland.png?v=1773420534\&quot; alt=\&quot;Poland\&quot; title=\&quot;Poland\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Polsat Sport 2&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;12265 V 27500&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=\&quot;sch-sat-block sch-sat-block-odd\&quot;&gt;&lt;button class=\&quot;sch-sat-group\&quot; type=\&quot;button\&quot; data-sat-toggle aria-expanded=\&quot;true\&quot; data-target=\&quot;satgrp-1-78598\&quot;&gt;&lt;span class=\&quot;sch-sat-group-label\&quot;&gt;Eutelsat 16.0E&lt;/span&gt;&lt;span class=\&quot;sch-sat-group-caret\&quot; aria-hidden=\&quot;true\&quot;&gt;\u25be&lt;/span&gt;&lt;/button&gt;&lt;div class=\&quot;sch-sat-group-body\&quot; id=\&quot;satgrp-1-78598\&quot;&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/arenasportpremium1.png?v=1773460710\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Serbia.png?v=1773420544\&quot; alt=\&quot;Serbia\&quot; title=\&quot;Serbia\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Arena Premium 1 SRB&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;11366 V 30000&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/arenasportpremium2.png?v=1773460711\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Bosnia-and-Herzegovina.png?v=1773420463\&quot; alt=\&quot;Bosnia and Herzegovina\&quot; title=\&quot;Bosnia and Herzegovina\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Arena Premium 2 BIH&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;11595 V 30000&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/arenasport1.png?v=1773460704\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Slovenia.png?v=1773420546\&quot; alt=\&quot;Slovenia\&quot; title=\&quot;Slovenia\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Arena Sport 1 SLO&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;11678 V 30000&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/Arena_Sport_1_SVK.svg?v=1774512490\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Slovakia.png?v=1773420545\&quot; alt=\&quot;Slovakia\&quot; title=\&quot;Slovakia\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Arena Sport 1 SVK&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;11055 V 27500&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/arenasport3.png?v=1773460707\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Croatia.png?v=1773420475\&quot; alt=\&quot;Croatia\&quot; title=\&quot;Croatia\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Arena Sport 3 HRV&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;11512 H 30000&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/Sport_1_CZE.svg?v=1773721578\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Czech-Republic.png?v=1773420477\&quot; alt=\&quot;Czech Republic\&quot; title=\&quot;Czech Republic\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Sport 1 CZE&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;11055 V 27500&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/Tring_Sport_1.svg?v=1773722647\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Albania.png?v=1773420451\&quot; alt=\&quot;Albania\&quot; title=\&quot;Albania\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Tring Sport 1&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;10804 H 29950&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=\&quot;sch-sat-block sch-sat-block-even\&quot;&gt;&lt;button class=\&quot;sch-sat-group\&quot; type=\&quot;button\&quot; data-sat-toggle aria-expanded=\&quot;true\&quot; data-target=\&quot;satgrp-2-94605\&quot;&gt;&lt;span class=\&quot;sch-sat-group-label\&quot;&gt;Astra 19.2E&lt;/span&gt;&lt;span class=\&quot;sch-sat-group-caret\&quot; aria-hidden=\&quot;true\&quot;&gt;\u25be&lt;/span&gt;&lt;/button&gt;&lt;div class=\&quot;sch-sat-group-body\&quot; id=\&quot;satgrp-2-94605\&quot;&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/dazn1.png?v=1773463006\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Germany.png?v=1773420489\&quot; alt=\&quot;Germany\&quot; title=\&quot;Germany\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;DAZN 1 GER&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;div class=\&quot;sch-ch-tp-row\&quot;&gt;&lt;span class=\&quot;sch-beam-flag\&quot; dir=\&quot;rtl\&quot;&gt;&lt;span class=\&quot;sch-beam-flag-icon\&quot;&gt;\ud83d\udea9&lt;/span&gt;&lt;span class=\&quot;sch-beam-flag-text\&quot;&gt;\u062d\u0632\u0645\u0629 \u0636\u064a\u0642\u0629&lt;/span&gt;&lt;/span&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;12382 H 27500&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/dazn1.png?v=1773463006\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Spain.png?v=1773420550\&quot; alt=\&quot;Spain\&quot; title=\&quot;Spain\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;DAZN 1 SPA&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;div class=\&quot;sch-ch-tp-row\&quot;&gt;&lt;span class=\&quot;sch-beam-flag\&quot; dir=\&quot;rtl\&quot;&gt;&lt;span class=\&quot;sch-beam-flag-icon\&quot;&gt;\ud83d\udea9&lt;/span&gt;&lt;span class=\&quot;sch-beam-flag-text\&quot;&gt;\u062d\u0632\u0645\u0629 \u0636\u064a\u0642\u0629&lt;/span&gt;&lt;/span&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;10788 V 22000&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=\&quot;sch-sat-block sch-sat-block-odd\&quot;&gt;&lt;button class=\&quot;sch-sat-group\&quot; type=\&quot;button\&quot; data-sat-toggle aria-expanded=\&quot;true\&quot; data-target=\&quot;satgrp-3-65679\&quot;&gt;&lt;span class=\&quot;sch-sat-group-label\&quot;&gt;Hispasat 30W&lt;/span&gt;&lt;span class=\&quot;sch-sat-group-caret\&quot; aria-hidden=\&quot;true\&quot;&gt;\u25be&lt;/span&gt;&lt;/button&gt;&lt;div class=\&quot;sch-sat-group-body\&quot; id=\&quot;satgrp-3-65679\&quot;&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/Sport_TV_1.webp?v=1773718175\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Portugal.png?v=1773420534\&quot; alt=\&quot;Portugal\&quot; title=\&quot;Portugal\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Sport TV 1&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;12360 H 27500&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=\&quot;sch-sat-block sch-sat-block-even\&quot;&gt;&lt;button class=\&quot;sch-sat-group\&quot; type=\&quot;button\&quot; data-sat-toggle aria-expanded=\&quot;true\&quot; data-target=\&quot;satgrp-4-9657\&quot;&gt;&lt;span class=\&quot;sch-sat-group-label\&quot;&gt;Amos 4.0W&lt;/span&gt;&lt;span class=\&quot;sch-sat-group-caret\&quot; aria-hidden=\&quot;true\&quot;&gt;\u25be&lt;/span&gt;&lt;/button&gt;&lt;div class=\&quot;sch-sat-group-body\&quot; id=\&quot;satgrp-4-9657\&quot;&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/sport_2.png?v=1773719393\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Israel.png?v=1773803006\&quot; alt=\&quot;Israel\&quot; title=\&quot;Israel\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Sport 2 [Amos]&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;11259 V 30000&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=\&quot;sch-sat-block sch-sat-block-odd\&quot;&gt;&lt;button class=\&quot;sch-sat-group\&quot; type=\&quot;button\&quot; data-sat-toggle aria-expanded=\&quot;true\&quot; data-target=\&quot;satgrp-5-75758\&quot;&gt;&lt;span class=\&quot;sch-sat-group-label\&quot;&gt;Thor 0.8W&lt;/span&gt;&lt;span class=\&quot;sch-sat-group-caret\&quot; aria-hidden=\&quot;true\&quot;&gt;\u25be&lt;/span&gt;&lt;/button&gt;&lt;div class=\&quot;sch-sat-group-body\&quot; id=\&quot;satgrp-5-75758\&quot;&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/Arena_4.webp?v=1774148278\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Hungary.png?v=1773420497\&quot; alt=\&quot;Hungary\&quot; title=\&quot;Hungary\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Arena 4&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;12265 V 28000&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/Arena_Sport_1_SVK.svg?v=1774512490\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Slovakia.png?v=1773420545\&quot; alt=\&quot;Slovakia\&quot; title=\&quot;Slovakia\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Arena Sport 1 SVK&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;12456 V 30000&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/PremierSport1.png?v=1777222063\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Czech-Republic.png?v=1773420477\&quot; alt=\&quot;Czech Republic\&quot; title=\&quot;Czech Republic\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Premier Sport 1&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;12245 H 30000&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/Sport_1_CZE.svg?v=1773721578\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Czech-Republic.png?v=1773420477\&quot; alt=\&quot;Czech Republic\&quot; title=\&quot;Czech Republic\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Sport 1 CZE&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;12149 V 30000&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=\&quot;sch-sat-block sch-sat-block-even\&quot;&gt;&lt;button class=\&quot;sch-sat-group\&quot; type=\&quot;button\&quot; data-sat-toggle aria-expanded=\&quot;true\&quot; data-target=\&quot;satgrp-6-70792\&quot;&gt;&lt;span class=\&quot;sch-sat-group-label\&quot;&gt;BulgariaSat 1.9E&lt;/span&gt;&lt;span class=\&quot;sch-sat-group-caret\&quot; aria-hidden=\&quot;true\&quot;&gt;\u25be&lt;/span&gt;&lt;/button&gt;&lt;div class=\&quot;sch-sat-group-body\&quot; id=\&quot;satgrp-6-70792\&quot;&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/maxsport3hd.png?v=1773804004\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Bulgaria.png?v=1773420466\&quot; alt=\&quot;Bulgaria\&quot; title=\&quot;Bulgaria\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Max Sport 3&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;12303 H 30000&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=\&quot;sch-sat-block sch-sat-block-odd\&quot;&gt;&lt;button class=\&quot;sch-sat-group\&quot; type=\&quot;button\&quot; data-sat-toggle aria-expanded=\&quot;true\&quot; data-target=\&quot;satgrp-7-32864\&quot;&gt;&lt;span class=\&quot;sch-sat-group-label\&quot;&gt;Eutelsat 23.5E&lt;/span&gt;&lt;span class=\&quot;sch-sat-group-caret\&quot; aria-hidden=\&quot;true\&quot;&gt;\u25be&lt;/span&gt;&lt;/button&gt;&lt;div class=\&quot;sch-sat-group-body\&quot; id=\&quot;satgrp-7-32864\&quot;&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/Arena_Sport_1_SVK.svg?v=1774512490\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Slovakia.png?v=1773420545\&quot; alt=\&quot;Slovakia\&quot; title=\&quot;Slovakia\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Arena Sport 1 SVK&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;12012 V 29900&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/Sport_1_CZE.svg?v=1773721578\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Czech-Republic.png?v=1773420477\&quot; alt=\&quot;Czech Republic\&quot; title=\&quot;Czech Republic\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Sport 1 CZE&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;12070 H 27500&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=\&quot;sch-sat-block sch-sat-block-even\&quot;&gt;&lt;button class=\&quot;sch-sat-group\&quot; type=\&quot;button\&quot; data-sat-toggle aria-expanded=\&quot;true\&quot; data-target=\&quot;satgrp-8-73558\&quot;&gt;&lt;span class=\&quot;sch-sat-group-label\&quot;&gt;Astra 28.2E&lt;/span&gt;&lt;span class=\&quot;sch-sat-group-caret\&quot; aria-hidden=\&quot;true\&quot;&gt;\u25be&lt;/span&gt;&lt;/button&gt;&lt;div class=\&quot;sch-sat-group-body\&quot; id=\&quot;satgrp-8-73558\&quot;&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/Premier_Sports_1.svg?v=1774235126\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Ireland.png?v=1773420499\&quot; alt=\&quot;Ireland\&quot; title=\&quot;Ireland\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Premier Sports 1&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;12188 H 27500&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/Premier_Sports_1.svg?v=1774235126\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/United-Kingdom.png?v=1773420561\&quot; alt=\&quot;United Kingdom\&quot; title=\&quot;United Kingdom\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Premier Sports 1 UK&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;11671 H 23000&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=\&quot;sch-sat-block sch-sat-block-odd\&quot;&gt;&lt;button class=\&quot;sch-sat-group\&quot; type=\&quot;button\&quot; data-sat-toggle aria-expanded=\&quot;true\&quot; data-target=\&quot;satgrp-9-85870\&quot;&gt;&lt;span class=\&quot;sch-sat-group-label\&quot;&gt;Eutelsat 80.0E&lt;/span&gt;&lt;span class=\&quot;sch-sat-group-caret\&quot; aria-hidden=\&quot;true\&quot;&gt;\u25be&lt;/span&gt;&lt;/button&gt;&lt;div class=\&quot;sch-sat-group-body\&quot; id=\&quot;satgrp-9-85870\&quot;&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/Match_Futbol_1.svg?v=1773893863\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Russia.png?v=1773420537\&quot; alt=\&quot;Russia\&quot; title=\&quot;Russia\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Match! Futbol 1&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;11044 V 45000&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=\&quot;sch-sat-block sch-sat-block-even\&quot;&gt;&lt;button class=\&quot;sch-sat-group\&quot; type=\&quot;button\&quot; data-sat-toggle aria-expanded=\&quot;true\&quot; data-target=\&quot;satgrp-10-82555\&quot;&gt;&lt;span class=\&quot;sch-sat-group-label\&quot;&gt;SES 108.3E&lt;/span&gt;&lt;span class=\&quot;sch-sat-group-caret\&quot; aria-hidden=\&quot;true\&quot;&gt;\u25be&lt;/span&gt;&lt;/button&gt;&lt;div class=\&quot;sch-sat-group-body\&quot; id=\&quot;satgrp-10-82555\&quot;&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/Unite8_Sports_1.webp?v=1781060851\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/India.png?v=1773420497\&quot; alt=\&quot;India\&quot; title=\&quot;India\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Unite8 Sports 1&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;11640 H 30000&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;12711 H 44900&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=\&quot;sch-sat-block sch-sat-block-odd\&quot;&gt;&lt;button class=\&quot;sch-sat-group\&quot; type=\&quot;button\&quot; data-sat-toggle aria-expanded=\&quot;true\&quot; data-target=\&quot;satgrp-11-39032\&quot;&gt;&lt;span class=\&quot;sch-sat-group-label\&quot;&gt;Local&lt;/span&gt;&lt;span class=\&quot;sch-sat-group-caret\&quot; aria-hidden=\&quot;true\&quot;&gt;\u25be&lt;/span&gt;&lt;/button&gt;&lt;div class=\&quot;sch-sat-group-body\&quot; id=\&quot;satgrp-11-39032\&quot;&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/United-States.png?v=1773420562\&quot; alt=\&quot;United States\&quot; title=\&quot;United States\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;CBS Sports Golazo&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-online\&quot;&gt;&lt;span class=\&quot;sch-online-badge sch-local-badge\&quot;&gt;Local&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;/div&gt;&quot;" data-match-card data-server-date="2026-09-02" data-server-time="19:00" data-server-next-day="0" tabindex="0" role="button" aria-label="Open match details"><div class="sch-match-shell"><div class="sch-compact-match-head"><div class="sch-compact-team sch-compact-team-home"><span class="sch-i18n-name" data-i18n-en="Udinese" data-i18n-ar="أودينيزي">Udinese</span><span class="sch-compact-team-logo"><img src="/static/schedule-icons/football/competitions/Italy/Coppa%20Italia/Udinese.png" alt="Udinese" title="Udinese"></span></div><div class="sch-compact-time-wrap"><div class="sch-time">7:00 PM</div><div class="sch-next-day" style="display:none">Next day</div></div><div class="sch-compact-team sch-compact-team-away"><span class="sch-compact-team-logo"><img src="/static/schedule-icons/football/competitions/Italy/Coppa%20Italia/Venezia.png" alt="Venezia" title="Venezia"></span><span class="sch-i18n-name" data-i18n-en="Venezia" data-i18n-ar="فينيسيا">Venezia</span></div></div></div><div class="sch-channels sch-channels-compact"><div class="sch-ch-row"><div class="sch-ch-left"><div class="sch-ch-brand"><span class="sch-row-icon sch-row-icon-channel"><img src="/static/schedule-icons/channels/MBC_Shahid.png?v=1775284485" alt=""></span><span class="sch-row-icon sch-row-icon-country"><img src="/static/schedule-icons/countries/Saudi-Arabia.png?v=1773420542" alt="Saudi Arabia" title="Saudi Arabia"></span></div><div class="sch-ch-name"><strong>MBC Shahid منصة شاهد</strong></div><div class="sch-ch-commentator">🎤 محمد أبو كبده</div></div><div class="sch-ch-right"><div class="sch-ch-online"><span class="sch-online-badge">🌐 Online</span></div></div></div></div></article></div></section>
+<section class="sch-league"><button class="sch-league-hdr" type="button" data-league-toggle aria-expanded="true"><div class="sch-league-left"><span class="sch-icon-box sch-icon-box-standard-logo"><img src="/static/schedule-icons/football/competitions/Germany/DFB%20Pokal/DFB%20Pokal.png?v=1775553458" alt="DFB Pokal" title="DFB Pokal"></span><span class="sch-i18n-name" data-i18n-en="Dfb Pokal" data-i18n-ar="كأس ألمانيا">Dfb Pokal</span></div><div class="sch-league-right sch-league-right-header"><span class="sch-competition-flag" title="Germany"><img src="/static/schedule-icons/countries/Germany.png?v=1773420489" alt="Germany"></span><span class="sch-league-caret" aria-hidden="true">&#9662;</span></div></button><div class="sch-league-body" data-league-body><article class="sch-match" data-league-title="Dfb Pokal" data-league-title-ar="كأس ألمانيا" data-league-icon="/static/schedule-icons/football/competitions/Germany/DFB%20Pokal/DFB%20Pokal.png?v=1775553458" data-full-channels="&quot;&lt;div class=\&quot;sch-channels\&quot;&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/AbuDhabi1.png?v=1777995789\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/United-Arab-Emirates.png?v=1773420561\&quot; alt=\&quot;United Arab Emirates\&quot; title=\&quot;United Arab Emirates\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Abu Dhabi Sports 1&lt;/strong&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-commentator\&quot;&gt;\ud83c\udfa4 \u0623\u062d\u0645\u062f \u0627\u0644\u062d\u0648\u0633\u0646\u064a&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;div class=\&quot;sch-ch-sat-name\&quot;&gt;Badrsat 26.0E&lt;/div&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;11804 H 30000&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;div class=\&quot;sch-ch-sat-name\&quot;&gt;Nilesat 7.0W&lt;/div&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;11411 H 30000&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;section class=\&quot;sch-sat-block sch-sat-block-even\&quot;&gt;&lt;button class=\&quot;sch-sat-group\&quot; type=\&quot;button\&quot; data-sat-toggle aria-expanded=\&quot;true\&quot; data-target=\&quot;satgrp-0-56107\&quot;&gt;&lt;span class=\&quot;sch-sat-group-label\&quot;&gt;Hotbird 13.0E&lt;/span&gt;&lt;span class=\&quot;sch-sat-group-caret\&quot; aria-hidden=\&quot;true\&quot;&gt;\u25be&lt;/span&gt;&lt;/button&gt;&lt;div class=\&quot;sch-sat-group-body\&quot; id=\&quot;satgrp-0-56107\&quot;&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/elevensports1-thiwunuchu.png?v=1773460625\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Poland.png?v=1773420534\&quot; alt=\&quot;Poland\&quot; title=\&quot;Poland\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Eleven Sports 1&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;10796 V 27500&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/elevensports14k.png?v=1773460625\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Poland.png?v=1773420534\&quot; alt=\&quot;Poland\&quot; title=\&quot;Poland\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Eleven Sports 1 4K&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;11117 V 27500&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=\&quot;sch-sat-block sch-sat-block-odd\&quot;&gt;&lt;button class=\&quot;sch-sat-group\&quot; type=\&quot;button\&quot; data-sat-toggle aria-expanded=\&quot;true\&quot; data-target=\&quot;satgrp-1-78598\&quot;&gt;&lt;span class=\&quot;sch-sat-group-label\&quot;&gt;Eutelsat 16.0E&lt;/span&gt;&lt;span class=\&quot;sch-sat-group-caret\&quot; aria-hidden=\&quot;true\&quot;&gt;\u25be&lt;/span&gt;&lt;/button&gt;&lt;div class=\&quot;sch-sat-group-body\&quot; id=\&quot;satgrp-1-78598\&quot;&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/arenasportpremium1.png?v=1773460710\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Serbia.png?v=1773420544\&quot; alt=\&quot;Serbia\&quot; title=\&quot;Serbia\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Arena Premium 1 SRB&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;11366 V 30000&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/arenasportpremium2.png?v=1773460711\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Bosnia-and-Herzegovina.png?v=1773420463\&quot; alt=\&quot;Bosnia and Herzegovina\&quot; title=\&quot;Bosnia and Herzegovina\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Arena Premium 2 BIH&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;11595 V 30000&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/Nova_Sport_1_CZ.svg?v=1774149260\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Czech-Republic.png?v=1773420477\&quot; alt=\&quot;Czech Republic\&quot; title=\&quot;Czech Republic\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Nova Sport 1 CZ&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;11055 V 27500&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=\&quot;sch-sat-block sch-sat-block-even\&quot;&gt;&lt;button class=\&quot;sch-sat-group\&quot; type=\&quot;button\&quot; data-sat-toggle aria-expanded=\&quot;true\&quot; data-target=\&quot;satgrp-2-94605\&quot;&gt;&lt;span class=\&quot;sch-sat-group-label\&quot;&gt;Astra 19.2E&lt;/span&gt;&lt;span class=\&quot;sch-sat-group-caret\&quot; aria-hidden=\&quot;true\&quot;&gt;\u25be&lt;/span&gt;&lt;/button&gt;&lt;div class=\&quot;sch-sat-group-body\&quot; id=\&quot;satgrp-2-94605\&quot;&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/Das_Erste.png?v=1774842622\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Germany.png?v=1773420489\&quot; alt=\&quot;Germany\&quot; title=\&quot;Germany\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Das Erste&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;div class=\&quot;sch-ch-tp-row\&quot;&gt;&lt;span class=\&quot;sch-beam-flag\&quot; dir=\&quot;rtl\&quot;&gt;&lt;span class=\&quot;sch-beam-flag-icon\&quot;&gt;\ud83d\udea9&lt;/span&gt;&lt;span class=\&quot;sch-beam-flag-text\&quot;&gt;\u062d\u0632\u0645\u0629 \u0636\u064a\u0642\u0629&lt;/span&gt;&lt;/span&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;11494 H 22000&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/skysportmix.png?v=1773460753\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Germany.png?v=1773420489\&quot; alt=\&quot;Germany\&quot; title=\&quot;Germany\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Sky Sport Mix Ger&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;div class=\&quot;sch-ch-tp-row\&quot;&gt;&lt;span class=\&quot;sch-beam-flag\&quot; dir=\&quot;rtl\&quot;&gt;&lt;span class=\&quot;sch-beam-flag-icon\&quot;&gt;\ud83d\udea9&lt;/span&gt;&lt;span class=\&quot;sch-beam-flag-text\&quot;&gt;\u062d\u0632\u0645\u0629 \u0636\u064a\u0642\u0629&lt;/span&gt;&lt;/span&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;11758 H 27500&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=\&quot;sch-sat-block sch-sat-block-odd\&quot;&gt;&lt;button class=\&quot;sch-sat-group\&quot; type=\&quot;button\&quot; data-sat-toggle aria-expanded=\&quot;true\&quot; data-target=\&quot;satgrp-3-65679\&quot;&gt;&lt;span class=\&quot;sch-sat-group-label\&quot;&gt;Hispasat 30W&lt;/span&gt;&lt;span class=\&quot;sch-sat-group-caret\&quot; aria-hidden=\&quot;true\&quot;&gt;\u25be&lt;/span&gt;&lt;/button&gt;&lt;div class=\&quot;sch-sat-group-body\&quot; id=\&quot;satgrp-3-65679\&quot;&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/dazn1.png?v=1773463006\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Portugal.png?v=1773420534\&quot; alt=\&quot;Portugal\&quot; title=\&quot;Portugal\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;DAZN 1 POR&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;12399 H 27500&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=\&quot;sch-sat-block sch-sat-block-even\&quot;&gt;&lt;button class=\&quot;sch-sat-group\&quot; type=\&quot;button\&quot; data-sat-toggle aria-expanded=\&quot;true\&quot; data-target=\&quot;satgrp-4-9657\&quot;&gt;&lt;span class=\&quot;sch-sat-group-label\&quot;&gt;Amos 4.0W&lt;/span&gt;&lt;span class=\&quot;sch-sat-group-caret\&quot; aria-hidden=\&quot;true\&quot;&gt;\u25be&lt;/span&gt;&lt;/button&gt;&lt;div class=\&quot;sch-sat-group-body\&quot; id=\&quot;satgrp-4-9657\&quot;&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/sport_1.png?v=1773719387\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Israel.png?v=1773803006\&quot; alt=\&quot;Israel\&quot; title=\&quot;Israel\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Sport 1 [Amos]&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;11259 V 30000&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=\&quot;sch-sat-block sch-sat-block-odd\&quot;&gt;&lt;button class=\&quot;sch-sat-group\&quot; type=\&quot;button\&quot; data-sat-toggle aria-expanded=\&quot;true\&quot; data-target=\&quot;satgrp-5-75758\&quot;&gt;&lt;span class=\&quot;sch-sat-group-label\&quot;&gt;Thor 0.8W&lt;/span&gt;&lt;span class=\&quot;sch-sat-group-caret\&quot; aria-hidden=\&quot;true\&quot;&gt;\u25be&lt;/span&gt;&lt;/button&gt;&lt;div class=\&quot;sch-sat-group-body\&quot; id=\&quot;satgrp-5-75758\&quot;&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/Digi_Sport_2.webp?v=1774510818\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Romania.png?v=1773420537\&quot; alt=\&quot;Romania\&quot; title=\&quot;Romania\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Digi Sport 2&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;11823 H 30000&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/Nova_Sport_1_CZ.svg?v=1774149260\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Czech-Republic.png?v=1773420477\&quot; alt=\&quot;Czech Republic\&quot; title=\&quot;Czech Republic\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Nova Sport 1 CZ&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;12456 V 30000&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/Sport_2_CZE.svg?v=1773721584\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Hungary.png?v=1773420497\&quot; alt=\&quot;Hungary\&quot; title=\&quot;Hungary\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Sport 2 HD HUN&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;12111 V 30000&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=\&quot;sch-sat-block sch-sat-block-even\&quot;&gt;&lt;button class=\&quot;sch-sat-group\&quot; type=\&quot;button\&quot; data-sat-toggle aria-expanded=\&quot;true\&quot; data-target=\&quot;satgrp-6-32864\&quot;&gt;&lt;span class=\&quot;sch-sat-group-label\&quot;&gt;Eutelsat 23.5E&lt;/span&gt;&lt;span class=\&quot;sch-sat-group-caret\&quot; aria-hidden=\&quot;true\&quot;&gt;\u25be&lt;/span&gt;&lt;/button&gt;&lt;div class=\&quot;sch-sat-group-body\&quot; id=\&quot;satgrp-6-32864\&quot;&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/Nova_Sport_1_CZ.svg?v=1774149260\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Czech-Republic.png?v=1773420477\&quot; alt=\&quot;Czech Republic\&quot; title=\&quot;Czech Republic\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Nova Sport 1 CZ&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;12266 H 29900&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/Ziggo_Sport_2.png?v=1773863551\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Netherlands.png?v=1773420523\&quot; alt=\&quot;Netherlands\&quot; title=\&quot;Netherlands\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Ziggo Sport 2&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;12129 V 29900&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=\&quot;sch-sat-block sch-sat-block-odd\&quot;&gt;&lt;button class=\&quot;sch-sat-group\&quot; type=\&quot;button\&quot; data-sat-toggle aria-expanded=\&quot;true\&quot; data-target=\&quot;satgrp-7-73558\&quot;&gt;&lt;span class=\&quot;sch-sat-group-label\&quot;&gt;Astra 28.2E&lt;/span&gt;&lt;span class=\&quot;sch-sat-group-caret\&quot; aria-hidden=\&quot;true\&quot;&gt;\u25be&lt;/span&gt;&lt;/button&gt;&lt;div class=\&quot;sch-sat-group-body\&quot; id=\&quot;satgrp-7-73558\&quot;&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/Premier_Sports_2.svg?v=1774235130\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Ireland.png?v=1773420499\&quot; alt=\&quot;Ireland\&quot; title=\&quot;Ireland\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Premier Sports 2&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;12188 H 27500&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=\&quot;sch-sat-block sch-sat-block-even\&quot;&gt;&lt;button class=\&quot;sch-sat-group\&quot; type=\&quot;button\&quot; data-sat-toggle aria-expanded=\&quot;true\&quot; data-target=\&quot;satgrp-8-85412\&quot;&gt;&lt;span class=\&quot;sch-sat-group-label\&quot;&gt;Eutelsat 36.0E&lt;/span&gt;&lt;span class=\&quot;sch-sat-group-caret\&quot; aria-hidden=\&quot;true\&quot;&gt;\u25be&lt;/span&gt;&lt;/button&gt;&lt;div class=\&quot;sch-sat-group-body\&quot; id=\&quot;satgrp-8-85412\&quot;&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/ESPN.svg?v=1773874801\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/South-Africa.png?v=1773420548\&quot; alt=\&quot;South Africa\&quot; title=\&quot;South Africa\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;ESPN South Africa&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;12476 H 27500&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;11263 V 30000&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/sportytv.jpeg?v=1778548897\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Nigeria.png?v=1773420526\&quot; alt=\&quot;Nigeria\&quot; title=\&quot;Nigeria\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Sporty TV&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;12265 V 27500&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=\&quot;sch-sat-block sch-sat-block-odd\&quot;&gt;&lt;button class=\&quot;sch-sat-group\&quot; type=\&quot;button\&quot; data-sat-toggle aria-expanded=\&quot;true\&quot; data-target=\&quot;satgrp-9-55338\&quot;&gt;&lt;span class=\&quot;sch-sat-group-label\&quot;&gt;Turkmen\u00c4lem 52.0E&lt;/span&gt;&lt;span class=\&quot;sch-sat-group-caret\&quot; aria-hidden=\&quot;true\&quot;&gt;\u25be&lt;/span&gt;&lt;/button&gt;&lt;div class=\&quot;sch-sat-group-body\&quot; id=\&quot;satgrp-9-55338\&quot;&gt;&lt;div class=\&quot;sch-ch-row\&quot;&gt;&lt;div class=\&quot;sch-ch-left\&quot;&gt;&lt;div class=\&quot;sch-ch-brand\&quot;&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-channel\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/channels/Persiana_Sports_1.png?v=1773806720\&quot; alt=\&quot;\&quot;&gt;&lt;/span&gt;&lt;span class=\&quot;sch-row-icon sch-row-icon-country\&quot;&gt;&lt;img src=\&quot;/static/schedule-icons/countries/Iran.png?v=1773420498\&quot; alt=\&quot;Iran\&quot; title=\&quot;Iran\&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-name\&quot;&gt;&lt;strong&gt;Persiana Sports 1&lt;/strong&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\&quot;sch-ch-right\&quot;&gt;&lt;div class=\&quot;sch-ch-coverage\&quot;&gt;&lt;span class=\&quot;sch-ch-tp\&quot;&gt;11343 H 27500&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;/div&gt;&quot;" data-match-card data-server-date="2026-09-02" data-server-time="21:45" data-server-next-day="0" tabindex="0" role="button" aria-label="Open match details"><div class="sch-match-shell"><div class="sch-compact-match-head"><div class="sch-compact-team sch-compact-team-home"><span class="sch-i18n-name" data-i18n-en="Osnabrück" data-i18n-ar="أوسنابروك">Osnabrück</span><span class="sch-compact-team-logo"><img src="/static/schedule-icons/football/competitions/Germany/DFB%20Pokal/Osnabr%C3%BCck.png" alt="Osnabrück" title="Osnabrück"></span></div><div class="sch-compact-time-wrap"><div class="sch-time">9:45 PM</div><div class="sch-next-day" style="display:none">Next day</div></div><div class="sch-compact-team sch-compact-team-away"><span class="sch-compact-team-logo"><img src="/static/schedule-icons/football/competitions/Germany/DFB%20Pokal/Bayern.png" alt="Bayern" title="Bayern"></span><span class="sch-i18n-name" data-i18n-en="Bayern" data-i18n-ar="بايرن">Bayern</span></div></div></div><div class="sch-channels sch-channels-compact"><div class="sch-ch-row"><div class="sch-ch-left"><div class="sch-ch-brand"><span class="sch-row-icon sch-row-icon-channel"><img src="/static/schedule-icons/channels/AbuDhabi1.png?v=1777995789" alt=""></span><span class="sch-row-icon sch-row-icon-country"><img src="/static/schedule-icons/countries/United-Arab-Emirates.png?v=1773420561" alt="United Arab Emirates" title="United Arab Emirates"></span></div><div class="sch-ch-name"><strong>Abu Dhabi Sports 1</strong></div><div class="sch-ch-commentator">🎤 أحمد الحوسني</div></div><div class="sch-ch-right"><div class="sch-ch-coverage"><div class="sch-ch-sat-name">Badrsat 26.0E</div><span class="sch-ch-tp">11804 H 30000</span></div><div class="sch-ch-coverage"><div class="sch-ch-sat-name">Nilesat 7.0W</div><span class="sch-ch-tp">11411 H 30000</span></div></div></div></div></article></div></section></div></section>
+</div>
+<div id="matchModal" class="sch-modal" hidden>
+  <div class="sch-modal-backdrop" data-close-modal></div>
+  <div class="sch-modal-card" role="dialog" aria-modal="true" aria-label="Match details">
+    <button id="matchModalClose" class="sch-modal-close" type="button" aria-label="Close">×</button>
+    <div id="matchModalBody" class="sch-modal-body"></div>
   </div>
-  <span class="md:block w-full truncate">You</span>
-  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
-  
-    Browser
-  
-  </h3>
-  
-  <span class="leading-1.3 text-2xl text-green-success">Working</span>
-  
 </div>
-                    <div id="cf-cloudflare-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
-  <div class="relative mb-10 md:m-0">
-    <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&#38;utm_campaign=liveonsat.com" target="_blank" rel="noopener noreferrer">
-    <span class="cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat"></span>
-    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
-    </a>
-  </div>
-  <span class="md:block w-full truncate">São Paulo</span>
-  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
-  <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&utm_campaign=liveonsat.com" target="_blank" rel="noopener noreferrer">
-    Cloudflare
-  </a>
-  </h3>
-  
-  <span class="leading-1.3 text-2xl text-green-success">Working</span>
-  
-</div>
-                    <div id="cf-host-status" class="cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
-  <div class="relative mb-10 md:m-0">
-    
-    <span class="cf-icon-server block md:hidden h-20 bg-center bg-no-repeat"></span>
-    <span class="cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
-    
-  </div>
-  <span class="md:block w-full truncate">liveonsat.com</span>
-  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
-  
-    Host
-  
-  </h3>
-  
-  <span class="leading-1.3 text-2xl text-red-error">Error</span>
-  
-</div>
-                </div>
-            </div>
-        </div>
+<script>
+(() => {
+  const root = document.documentElement;
+  const key = 'schedule-theme';
+  const toggle = document.getElementById('themeToggle');
+  const label = document.getElementById('themeToggleLabel');
+  const modal = document.getElementById('matchModal');
+  const modalBody = document.getElementById('matchModalBody');
+  const modalClose = document.getElementById('matchModalClose');
 
-        <div class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
-            <div class="clearfix">
-                <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">
-                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>
-                    <p>The web server reported a bad gateway error.</p>
-                </div>
-                <div class="w-1/2 md:w-full float-left leading-relaxed">
-                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>
-                    <p class="mb-6">Please try again in a few minutes.</p>
-                </div>
-            </div>
-        </div>
+  function applyTheme(theme) {
+    root.setAttribute('data-theme', theme);
+    if (label) {
+      label.textContent = 'Dark';
+    }
+    if (toggle) {
+      toggle.setAttribute('aria-checked', theme === 'dark' ? 'true' : 'false');
+      toggle.setAttribute('aria-label', theme === 'dark' ? 'Dark mode — click for day mode' : 'Day mode — click for dark mode');
+    }
+  }
 
-        <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
-    <p class="text-13">
-      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">a34d64e37d0b60aa</strong></span>
-      <span class="cf-footer-separator sm:hidden">&bull;</span>
-      <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
-        Your IP:
-        <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-        <span class="hidden" id="cf-footer-ip">95.164.33.48</span>
-        <span class="cf-footer-separator sm:hidden">&bull;</span>
-      </span>
-      <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_502&#38;utm_campaign=liveonsat.com" id="brand_link" target="_blank">Cloudflare</a></span>
-      
-    </p>
-    <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
-  </div><!-- /.error-footer -->
+  let theme = 'dark';
+  try {
+    const stored = localStorage.getItem(key);
+    if (stored === 'light' || stored === 'dark') {
+      theme = stored;
+    }
+  } catch (err) {
+    theme = 'dark';
+  }
 
-    </div>
-</div>
+  applyTheme(theme);
+
+  if (toggle) {
+    toggle.addEventListener('click', () => {
+      const next = root.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+      try {
+        localStorage.setItem(key, next);
+      } catch (err) {
+        // Ignore storage errors and keep the session-only toggle working.
+      }
+      applyTheme(next);
+    });
+  }
+
+  document.querySelectorAll('[data-league-toggle]').forEach((button) => {
+    button.addEventListener('click', () => {
+      const league = button.closest('.sch-league');
+      if (!league) return;
+      const collapsed = league.classList.toggle('collapsed');
+      button.setAttribute('aria-expanded', collapsed ? 'false' : 'true');
+    });
+  });
+  const sportTabs = Array.from(document.querySelectorAll('[data-sport-tab]'));
+  function setSportTab(sport) {
+    document.querySelectorAll('[data-sport-section]').forEach((section) => {
+      section.classList.toggle('is-active', section.getAttribute('data-sport-section') === sport);
+    });
+    sportTabs.forEach((tab) => {
+      const active = tab.getAttribute('data-sport-tab') === sport;
+      tab.classList.toggle('is-active', active);
+      tab.setAttribute('aria-selected', active ? 'true' : 'false');
+    });
+  }
+  if (sportTabs.length) {
+    const defaultSport = sportTabs[0].getAttribute('data-sport-tab') || 'football';
+    setSportTab(defaultSport);
+    sportTabs.forEach((tab) => {
+      tab.addEventListener('click', () => setSportTab(tab.getAttribute('data-sport-tab') || 'football'));
+    });
+  } else {
+    document.querySelectorAll('[data-sport-section]').forEach((section) => section.classList.add('is-active'));
+  }
+  document.addEventListener('click', (event) => {
+    const button = event.target.closest('[data-sat-toggle]');
+    if (!button) return;
+    event.stopPropagation();
+    const block = button.closest('.sch-sat-block');
+    if (!block) return;
+    const collapsed = block.classList.toggle('collapsed');
+    button.setAttribute('aria-expanded', collapsed ? 'false' : 'true');
+  });
+
+  (function() {
+    window.addEventListener('scroll', function() {
+      const tog = document.getElementById('themeToggle');
+      if (!tog) return;
+      const hidden = window.scrollY > 60;
+      tog.style.opacity = hidden ? '0' : '1';
+      tog.style.pointerEvents = hidden ? 'none' : '';
+    }, {passive: true});
+  })();
+
+  function openMatchModal(matchEl) {
+    if (!modal || !modalBody || !matchEl) return;
+    const currentLang = document.documentElement.getAttribute('data-sofascore-lang') === 'en' ? 'en' : 'ar';
+    const leagueTitle = currentLang === 'ar' ? (matchEl.dataset.leagueTitleAr || matchEl.dataset.leagueTitle || '') : (matchEl.dataset.leagueTitle || '');
+    const leagueIcon = matchEl.dataset.leagueIcon || '';
+    let header = '';
+    if (leagueTitle || leagueIcon) {
+      const iconHtml = leagueIcon ? `<span class="sch-icon-box sch-modal-league-icon"><img src="${leagueIcon}" alt=""></span>` : '';
+      header = `<div class="sch-modal-league-hdr">${iconHtml}<span>${leagueTitle}</span></div>`;
+    }
+    modalBody.innerHTML = header + matchEl.outerHTML;
+    const cloned = modalBody.querySelector('[data-match-card]');
+    if (cloned) {
+      cloned.removeAttribute('tabindex');
+      cloned.removeAttribute('role');
+      cloned.removeAttribute('aria-label');
+      cloned.removeAttribute('data-match-card');
+      const fullChannels = cloned.dataset.fullChannels;
+      if (fullChannels) {
+        const existing = cloned.querySelector('.sch-channels');
+        const tmp = document.createElement('div');
+        tmp.innerHTML = JSON.parse(fullChannels);
+        const replacement = tmp.firstElementChild;
+        if (existing && replacement) existing.replaceWith(replacement);
+        else if (replacement) cloned.appendChild(replacement);
+        cloned.removeAttribute('data-full-channels');
+      }
+    }
+    modal.hidden = false;
+    document.body.style.overflow = 'hidden';
+    if (toggle) toggle.style.zIndex = '10';
+  }
+
+  function closeMatchModal() {
+    if (!modal) return;
+    modal.hidden = true;
+    if (modalBody) modalBody.innerHTML = '';
+    document.body.style.overflow = '';
+    if (toggle) toggle.style.zIndex = '';
+  }
+
+  document.querySelectorAll('[data-match-card]').forEach((match) => {
+    match.addEventListener('click', () => openMatchModal(match));
+    match.addEventListener('keydown', (event) => {
+      if (event.key === 'Enter' || event.key === ' ') {
+        event.preventDefault();
+        openMatchModal(match);
+      }
+    });
+  });
+
+  if (modalClose) modalClose.addEventListener('click', closeMatchModal);
+  document.querySelectorAll('[data-close-modal]').forEach((el) => el.addEventListener('click', closeMatchModal));
+  document.addEventListener('keydown', (event) => {
+    if (event.key === 'Escape' && modal && !modal.hidden) {
+      closeMatchModal();
+    }
+  });
+})();
+</script>
+
+<script>
+(() => {
+  const root = document.documentElement;
+  const button = document.getElementById('sofascoreLangToggle');
+  if (!button) return;
+  const storageKey = 'liveFeedLang';
+  function currentLanguage() {
+    return root.getAttribute('data-sofascore-lang') === 'ar' ? 'ar' : 'en';
+  }
+  function applyLanguage(lang) {
+    const next = lang === 'ar' ? 'ar' : 'en';
+    root.setAttribute('data-sofascore-lang', next);
+    document.querySelectorAll('.sch-i18n-name').forEach((node) => {
+      const english = node.getAttribute('data-i18n-en') || node.textContent || '';
+      const arabic = node.getAttribute('data-i18n-ar') || '';
+      const value = next === 'ar' && arabic ? arabic : english;
+      node.textContent = value;
+      node.setAttribute('dir', next === 'ar' && arabic ? 'rtl' : 'ltr');
+    });
+    button.textContent = next === 'ar' ? 'English' : 'العربية';
+    if (!button.querySelector('.sch-toggle-track')) {
+      button.innerHTML = '<span class="sch-toggle-track" aria-hidden="true"><span class="sch-toggle-thumb sch-lang-toggle-thumb"></span></span><span id="sofascoreLangToggleLabel"></span>';
+    }
+    const runtimeLabel = document.getElementById('sofascoreLangToggleLabel');
+    if (runtimeLabel) runtimeLabel.textContent = next === 'ar' ? 'English' : 'العربية';
+    const toggleLabel = document.getElementById('sofascoreLangToggleLabel');
+    if (toggleLabel) toggleLabel.textContent = next === 'ar' ? 'English' : 'العربية';
+    button.setAttribute('aria-checked', next === 'ar' ? 'true' : 'false');
+    try {
+      localStorage.setItem(storageKey, next);
+    } catch (err) {}
+  }
+  let initial = 'en';
+  try {
+    const saved = localStorage.getItem(storageKey);
+    if (saved === 'en' || saved === 'ar') initial = saved;
+  } catch (err) {}
+  applyLanguage(initial);
+  button.addEventListener('click', () => {
+    applyLanguage(currentLanguage() === 'ar' ? 'en' : 'ar');
+  });
+})();
+</script>
+
+<script>
+(() => {
+  const root = document.documentElement;
+  const select = document.getElementById('sofascoreLangSelect');
+  if (!select) return;
+  const storageKey = 'liveFeedLang';
+  const timezoneKey = 'liveFeedTimezoneOffset';
+  const timezoneSelect = document.getElementById('scheduleTimezoneSelect');
+  const serverOffset = 3;
+  const uiTranslations = {
+    en: {
+      settings: 'Settings',
+      appearance: 'Appearance',
+      dark_mode: 'Dark Mode',
+      timezone: 'Timezone',
+      language: 'Language',
+      back: 'Back to Live Feed',
+      no_matches: 'No matches scheduled yet.',
+      yesterday: 'Yesterday',
+      next_day: 'Next day',
+      football: 'Football',
+      basketball: 'Basketball',
+      tennis: 'Tennis',
+    },
+    ar: {
+      settings: 'الإعدادات',
+      appearance: 'المظهر',
+      dark_mode: 'الوضع الداكن',
+      timezone: 'المنطقة الزمنية',
+      language: 'اللغة',
+      back: 'العودة للصفحة الرئيسية',
+      no_matches: 'لا توجد مباريات مجدولة بعد.',
+      yesterday: 'أمس',
+      next_day: 'اليوم التالي',
+      football: 'كرة القدم',
+      basketball: 'كرة السلة',
+      tennis: 'التنس',
+    }
+  };
+  const weekdaysEn = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
+  const weekdaysAr = ['الأحد','الاثنين','الثلاثاء','الأربعاء','الخميس','الجمعة','السبت'];
+  const monthsEn = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+  const monthsAr = ['يناير','فبراير','مارس','أبريل','مايو','يونيو','يوليو','أغسطس','سبتمبر','أكتوبر','نوفمبر','ديسمبر'];
+  function readCookie(name) {
+    return document.cookie.split(';').map((part) => part.trim()).find((part) => part.startsWith(name + '='))?.split('=').slice(1).join('=') || '';
+  }
+  function writeCookie(name, value) {
+    document.cookie = name + '=' + encodeURIComponent(value) + '; path=/; max-age=31536000; SameSite=Lax';
+  }
+  function formatOffset(offset) {
+    const sign = offset >= 0 ? '+' : '-';
+    const abs = Math.abs(offset);
+    const hours = Math.floor(abs);
+    const mins = Math.round((abs - hours) * 60);
+    return 'UTC' + sign + String(hours).padStart(2, '0') + ':' + String(mins).padStart(2, '0');
+  }
+  function populateTimezoneSelect() {
+    if (!timezoneSelect || timezoneSelect.options.length) return;
+    for (let offset = -12; offset <= 14; offset += 0.5) {
+      const option = document.createElement('option');
+      option.value = String(offset);
+      option.textContent = formatOffset(offset);
+      timezoneSelect.appendChild(option);
+    }
+  }
+  function initialTimezoneOffset() {
+    try {
+      const stored = localStorage.getItem(timezoneKey) || decodeURIComponent(readCookie(timezoneKey));
+      if (stored !== '' && Number.isFinite(Number(stored))) return Number(stored);
+    } catch (err) {}
+    const browserTimezone = Intl.DateTimeFormat().resolvedOptions().timeZone || '';
+    const browserTimezoneOffset = offsetFromTimezoneName(browserTimezone);
+    if (browserTimezoneOffset !== null) return browserTimezoneOffset;
+    return Math.max(-12, Math.min(14, Math.round((-new Date().getTimezoneOffset() / 60) * 2) / 2));
+  }
+  function initialLanguage() {
+    try {
+      const stored = localStorage.getItem(storageKey) || decodeURIComponent(readCookie(storageKey));
+      if (stored === 'ar' || stored === 'en') return stored;
+    } catch (err) {}
+    const preferred = ((navigator.languages && navigator.languages[0]) || navigator.language || '').toLowerCase();
+    return preferred.startsWith('ar') ? 'ar' : 'en';
+  }
+  function offsetFromTimezoneName(timezone) {
+    try {
+      const parts = new Intl.DateTimeFormat('en-US', { timeZone: timezone, timeZoneName: 'shortOffset', hour: '2-digit', minute: '2-digit' }).formatToParts(new Date());
+      const label = (parts.find((part) => part.type === 'timeZoneName') || {}).value || '';
+      const match = label.match(/GMT([+-]\d{1,2})(?::(\d{2}))?/);
+      if (!match) return null;
+      return Number(match[1]) + (Number(match[2] || 0) / 60) * (Number(match[1]) < 0 ? -1 : 1);
+    } catch (err) {
+      return null;
+    }
+  }
+  function parseServerDateTime(dateText, timeText) {
+    const d = String(dateText || '').match(/^(\d{4})-(\d{2})-(\d{2})/);
+    const t = String(timeText || '').match(/^(\d{1,2}):(\d{2})/);
+    if (!d || !t) return null;
+    return Date.UTC(Number(d[1]), Number(d[2]) - 1, Number(d[3]), Number(t[1]) - serverOffset, Number(t[2]), 0);
+  }
+  function parseServerTimestamp(value) {
+    const m = String(value || '').match(/^(\d{4})-(\d{2})-(\d{2})\s+(\d{2}):(\d{2})/);
+    if (!m) return null;
+    return Date.UTC(Number(m[1]), Number(m[2]) - 1, Number(m[3]), Number(m[4]) - serverOffset, Number(m[5]), 0);
+  }
+  function shiftedDate(ms, offset) {
+    return new Date(ms + offset * 3600000);
+  }
+  function isoFromShifted(date) {
+    return date.getUTCFullYear() + '-' + String(date.getUTCMonth() + 1).padStart(2, '0') + '-' + String(date.getUTCDate()).padStart(2, '0');
+  }
+  function dayDiffFromIso(matchIso, pageIso) {
+    const matchMs = Date.parse(matchIso + 'T00:00:00Z');
+    const pageMs = Date.parse(pageIso + 'T00:00:00Z');
+    if (!Number.isFinite(matchMs) || !Number.isFinite(pageMs)) return 0;
+    return Math.round((matchMs - pageMs) / 86400000);
+  }
+  function displayTime(date) {
+    let hour = date.getUTCHours();
+    const minute = String(date.getUTCMinutes()).padStart(2, '0');
+    const suffix = hour >= 12 ? 'PM' : 'AM';
+    hour = hour % 12 || 12;
+    return hour + ':' + minute + ' ' + suffix;
+  }
+  function updateLeagueVisibility() {
+    document.querySelectorAll('.sch-league').forEach((league) => {
+      const hasVisible = Array.from(league.querySelectorAll('[data-match-card]')).some((match) => match.style.display !== 'none');
+      league.style.display = hasVisible ? '' : 'none';
+    });
+    document.querySelectorAll('[data-sport-section]').forEach((section) => {
+      const hasVisible = Array.from(section.querySelectorAll('.sch-league')).some((league) => league.style.display !== 'none');
+      section.style.display = hasVisible ? '' : 'none';
+      section.classList.toggle('is-timezone-empty', !hasVisible);
+    });
+  }
+  function applyTimezone(offset) {
+    const next = Number.isFinite(Number(offset)) ? Number(offset) : serverOffset;
+    root.setAttribute('data-timezone-offset', String(next));
+    if (timezoneSelect) timezoneSelect.value = String(next);
+    try { localStorage.setItem(timezoneKey, String(next)); } catch (err) {}
+    writeCookie(timezoneKey, String(next));
+    const dateBlock = document.querySelector('.sch-date-block[data-server-now]');
+    let pageIso = '';
+    if (dateBlock) {
+      const pageMs = parseServerTimestamp(dateBlock.getAttribute('data-server-now'));
+      if (pageMs !== null) {
+        const localPage = shiftedDate(pageMs, next);
+        pageIso = isoFromShifted(localPage);
+        const dayEn = weekdaysEn[localPage.getUTCDay()];
+        const dayAr = weekdaysAr[localPage.getUTCDay()];
+        const dateEn = localPage.getUTCDate() + ' ' + monthsEn[localPage.getUTCMonth()] + ' ' + localPage.getUTCFullYear();
+        const dateAr = localPage.getUTCDate() + ' ' + monthsAr[localPage.getUTCMonth()] + ' ' + localPage.getUTCFullYear();
+        const dayNode = dateBlock.querySelector('.sch-day .sch-i18n-name');
+        const dateNode = dateBlock.querySelector('.sch-date .sch-i18n-name');
+        if (dayNode) { dayNode.setAttribute('data-i18n-en', dayEn); dayNode.setAttribute('data-i18n-ar', dayAr); }
+        if (dateNode) { dateNode.setAttribute('data-i18n-en', dateEn); dateNode.setAttribute('data-i18n-ar', dateAr); }
+      }
+    }
+    document.querySelectorAll('[data-match-card][data-server-date][data-server-time]').forEach((match) => {
+      const ms = parseServerDateTime(match.getAttribute('data-server-date'), match.getAttribute('data-server-time'));
+      if (ms === null) return;
+      const localMatch = shiftedDate(ms, next);
+      const matchIso = isoFromShifted(localMatch);
+      const timeText = displayTime(localMatch);
+      match.querySelectorAll('.sch-time').forEach((node) => { node.textContent = timeText; });
+      const nextDayNode = match.querySelector('.sch-next-day');
+      const dayDiff = pageIso ? dayDiffFromIso(matchIso, pageIso) : 0;
+      const shouldShow = !pageIso || dayDiff >= -1;
+      const statusKey = dayDiff < 0 ? 'yesterday' : (dayDiff > 0 ? 'next_day' : '');
+      match.style.display = shouldShow ? '' : 'none';
+      if (nextDayNode) {
+        if (statusKey) {
+          nextDayNode.style.display = '';
+          nextDayNode.setAttribute('data-day-status', statusKey);
+        } else {
+          nextDayNode.style.display = 'none';
+          nextDayNode.removeAttribute('data-day-status');
+        }
+      }
+    });
+    updateLeagueVisibility();
+    applyUiTranslations(root.getAttribute('data-sofascore-lang') === 'ar' ? 'ar' : 'en');
+  }
+  function applyUiTranslations(lang) {
+    const dict = uiTranslations[lang] || uiTranslations.en;
+    document.querySelectorAll('[data-ui-i18n]').forEach((node) => {
+      const key = node.getAttribute('data-ui-i18n') || '';
+      if (dict[key]) node.textContent = dict[key];
+    });
+    document.querySelectorAll('[data-i18n-en]').forEach((node) => {
+      const english = node.getAttribute('data-i18n-en') || node.textContent || '';
+      const arabic = node.getAttribute('data-i18n-ar') || '';
+      node.innerHTML = lang === 'ar' && arabic ? arabic : english;
+      node.setAttribute('dir', lang === 'ar' && arabic ? 'rtl' : 'ltr');
+    });
+    document.querySelectorAll('.sch-back-btn span:last-child').forEach((node) => {
+      node.textContent = dict.back;
+    });
+    document.querySelectorAll('.sch-next-day').forEach((node) => {
+      const key = node.getAttribute('data-day-status') || 'next_day';
+      node.textContent = dict[key] || dict.next_day;
+    });
+    document.querySelectorAll('.sch-empty-state').forEach((node) => {
+      if ((node.textContent || '').trim() === '' || node.hasAttribute('data-empty-state') || /matches scheduled/i.test(node.textContent)) {
+        node.textContent = dict.no_matches;
+        node.setAttribute('data-empty-state', '1');
+      }
+    });
+    document.querySelectorAll('[data-sport-tab]').forEach((tab) => {
+      const sport = tab.getAttribute('data-sport-tab') || '';
+      const label = tab.querySelector('.sch-i18n-name');
+      if (!label) return;
+      if (lang === 'ar') label.setAttribute('dir', 'rtl');
+      if (dict[sport]) {
+        label.setAttribute('data-i18n-en', uiTranslations.en[sport]);
+        label.setAttribute('data-i18n-ar', uiTranslations.ar[sport]);
+      }
+    });
+  }
+  function applyLanguage(lang) {
+    const next = lang === 'ar' ? 'ar' : 'en';
+    root.setAttribute('data-sofascore-lang', next);
+    root.setAttribute('data-livefeed-lang', next);
+    select.value = next;
+    document.querySelectorAll('.sch-i18n-name').forEach((node) => {
+      const english = node.getAttribute('data-i18n-en') || node.textContent || '';
+      const arabic = node.getAttribute('data-i18n-ar') || '';
+      const value = next === 'ar' && arabic ? arabic : english;
+      node.textContent = value;
+      node.setAttribute('dir', next === 'ar' && arabic ? 'rtl' : 'ltr');
+    });
+    applyUiTranslations(next);
+    try {
+      localStorage.setItem(storageKey, next);
+    } catch (err) {}
+    writeCookie(storageKey, next);
+  }
+  populateTimezoneSelect();
+  let initial = initialLanguage();
+  const initialOffset = initialTimezoneOffset();
+  applyLanguage(initial);
+  applyTimezone(initialOffset);
+  select.addEventListener('change', () => applyLanguage(select.value));
+  if (timezoneSelect) timezoneSelect.addEventListener('change', () => applyTimezone(Number(timezoneSelect.value)));
+})();
+</script>
+
+<script>
+(() => {
+  const root = document.documentElement;
+  const menu = document.getElementById('scheduleSettingsMenu');
+  const button = document.getElementById('scheduleSettingsToggle');
+  const themeSwitch = document.getElementById('scheduleThemeSwitch');
+  const langSelect = document.getElementById('sofascoreLangSelect');
+  const langOptions = Array.from(document.querySelectorAll('[data-lang-option]'));
+  const storageKey = 'liveFeedTheme';
+  const legacyStorageKey = 'schedule-theme';
+  if (!menu || !button) return;
+  function readCookie(name) {
+    return document.cookie.split(';').map((part) => part.trim()).find((part) => part.startsWith(name + '='))?.split('=').slice(1).join('=') || '';
+  }
+  function writeCookie(name, value) {
+    document.cookie = name + '=' + encodeURIComponent(value) + '; path=/; max-age=31536000; SameSite=Lax';
+  }
+
+  function closeMenu() {
+    menu.hidden = true;
+    button.setAttribute('aria-expanded', 'false');
+  }
+
+  function openMenu() {
+    menu.hidden = false;
+    button.setAttribute('aria-expanded', 'true');
+  }
+
+  function syncThemeSwitch() {
+    if (!themeSwitch) return;
+    themeSwitch.checked = root.getAttribute('data-theme') !== 'light';
+  }
+
+  function applyTheme(theme) {
+    const next = theme === 'light' ? 'light' : 'dark';
+    root.setAttribute('data-theme', next);
+    try {
+      localStorage.setItem(storageKey, next);
+      localStorage.setItem(legacyStorageKey, next);
+    } catch (err) {}
+    writeCookie(storageKey, next);
+    writeCookie(legacyStorageKey, next);
+    syncThemeSwitch();
+    syncBrandLogo();
+  }
+
+  function syncBrandLogo() {
+    const logo = document.querySelector('.sch-livefeed-brand-logo');
+    if (!logo) return;
+    const darkSrc = logo.getAttribute('data-logo-dark') || logo.getAttribute('src') || '';
+    const lightSrc = logo.getAttribute('data-logo-light') || darkSrc;
+    logo.setAttribute('src', root.getAttribute('data-theme') === 'light' ? lightSrc : darkSrc);
+  }
+
+  function syncLanguageUi() {
+    const value = langSelect ? langSelect.value : 'en';
+    langOptions.forEach((option) => {
+      const active = option.getAttribute('data-lang-option') === value;
+      option.classList.toggle('is-selected', active);
+      option.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+  }
+
+  let initialTheme = root.getAttribute('data-theme') === 'light' ? 'light' : 'dark';
+  try {
+    const stored = localStorage.getItem(storageKey) || localStorage.getItem(legacyStorageKey) || decodeURIComponent(readCookie(storageKey)) || decodeURIComponent(readCookie(legacyStorageKey)) || initialTheme;
+    if (stored === 'light' || stored === 'dark') initialTheme = stored;
+  } catch (err) {}
+  applyTheme(initialTheme);
+  syncLanguageUi();
+
+  button.addEventListener('click', (event) => {
+    event.stopPropagation();
+    if (menu.hidden) openMenu();
+    else closeMenu();
+  });
+
+  document.addEventListener('click', (event) => {
+    if (menu.hidden) return;
+    if (menu.contains(event.target) || button.contains(event.target)) return;
+    closeMenu();
+  });
+
+  document.addEventListener('keydown', (event) => {
+    if (event.key === 'Escape') closeMenu();
+  });
+
+  if (themeSwitch) {
+    themeSwitch.addEventListener('change', () => {
+      applyTheme(themeSwitch.checked ? 'dark' : 'light');
+    });
+  }
+
+  if (langSelect) {
+    langSelect.addEventListener('change', () => {
+      window.requestAnimationFrame(() => {
+        syncThemeSwitch();
+        syncLanguageUi();
+      });
+    });
+  }
+
+  langOptions.forEach((option) => {
+    option.addEventListener('click', (event) => {
+      event.stopPropagation();
+      if (!langSelect) return;
+      langSelect.value = option.getAttribute('data-lang-option') || 'en';
+      langSelect.dispatchEvent(new Event('change', { bubbles: true }));
+      syncLanguageUi();
+    });
+  });
+})();
+</script>
+
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v3d52b47920f24c319d37e2661827c42b1787588026925" integrity="sha512-d9sL6GJLXn6fInD1+TVXhTcQOsmxeHfmHAvwGDIxp5TO+uo1fiWW7mHomMj4MLRlCsJDTqXzWLHJFFlPCEIj/A==" data-cf-beacon='{"version":"2024.11.0","token":"292f7c3d7e4d46f793156852d724631e","r":1}' crossorigin="anonymous"></script>
 </body>
 </html>
