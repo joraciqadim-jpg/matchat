@@ -2,44 +2,37 @@
   "matches": [
     {
       "tournamentEn": "🇸🇦 Saudi Pro League",
-      "tournamentAr": "🇸🇦 الدوري السعودي الممتاز",
+      "tournamentAr": "🇸🇦 الدوري السعودي للمحترفين",
       "matchEn": "Al-Fayha v Al-Kholood",
       "matchAr": "الفيحاء × الخلود",
       "time": "18:55",
       "channels": [
-        "📺 Thmanyah 2 _مشفرة [Badrsat 26.0E 11919 H 27500]",
-        "📺 Spiler TV 1 _مشفرة [Thor 0.8W 12130 H 28000]"
+        "📺 Thmanyah 2 _مشفرة [Badrsat 26.0E 11919 H 27500]"
       ]
     },
     {
       "tournamentEn": "🇸🇦 Saudi Pro League",
-      "tournamentAr": "🇸🇦 الدوري السعودي الممتاز",
+      "tournamentAr": "🇸🇦 الدوري السعودي للمحترفين",
       "matchEn": "Neom v Al-Khaleej",
       "matchAr": "نيوم × الخليج",
       "time": "19:30",
       "channels": [
-        "📺 Thmanyah 3 _مشفرة [Badrsat 26.0E 11919 H 27500]",
-        "📺 M+ Liga de Campeones _مشفرة [Astra 19.2E 11259 V 22000]",
-        "📺 M+ Vamos _مشفرة [Astra 19.2E 10818 V 22000]",
-        "📺 Sport TV 4 _مشفرة [Hispasat 30W 12360 H 27500]"
+        "📺 Thmanyah 3 _مشفرة [Badrsat 26.0E 11919 H 27500]"
       ]
     },
     {
       "tournamentEn": "🇸🇦 Saudi Pro League",
-      "tournamentAr": "🇸🇦 الدوري السعودي الممتاز",
+      "tournamentAr": "🇸🇦 الدوري السعودي للمحترفين",
       "matchEn": "Al-Diriyah v Al-Qadsiah",
       "matchAr": "الدرعية × القادسية",
       "time": "21:00",
       "channels": [
-        "📺 Como TV تطبيق _اونلاين [Online]",
         "📺 Thmanyah 1 _مشفرة [Badrsat 26.0E 11919 H 27500]",
         "📺 Sport TV 3 _مشفرة [Hispasat 30W 12360 H 27500]",
         "📺 Spiler TV 1 _مشفرة [Thor 0.8W 12130 H 28000]",
         "📺 Sportitalia HD _مشفرة [Eutelsat 9.0E 12341 V 31400]",
         "📺 ESPN South Africa _مشفرة [Eutelsat 36.0E 12476 H 27500]",
-        "📺 HT Spor _مشفرة [Turksat 42.0E 11837 V 30000]",
-        "📺 FOX Deportes _اونلاين [Local]",
-        "📺 SporTV _اونلاين [Local]"
+        "📺 HT Spor _مشفرة [Turksat 42.0E 11837 V 30000]"
       ]
     },
     {
@@ -49,7 +42,6 @@
       "matchAr": "باليرمو × مانتوفا",
       "time": "19:00",
       "channels": [
-        "📺 MBC Shahid منصة شاهد _اونلاين [Online]",
         "📺 Italia 1 _مشفرة [Hotbird 13.0E 11432 V 29900]",
         "📺 Arena Premium 1 SRB _مشفرة [Eutelsat 16.0E 11366 V 30000]",
         "📺 Arena Premium 2 BIH _مشفرة [Eutelsat 16.0E 11595 V 30000]",
@@ -64,8 +56,7 @@
         "📺 Premier Sports 1 _مشفرة [Astra 28.2E 12188 H 27500]",
         "📺 Premier Sports 1 UK _مشفرة [Astra 28.2E 11671 H 23000]",
         "📺 Match! Futbol 1 _مشفرة [Eutelsat 80.0E 11044 V 45000]",
-        "📺 Unite8 Sports 1 _مشفرة [SES 108.3E 11640 H 30000]",
-        "📺 CBS Sports Golazo _اونلاين [Local]"
+        "📺 Unite8 Sports 1 _مشفرة [SES 108.3E 11640 H 30000]"
       ]
     },
     {
@@ -75,8 +66,8 @@
       "matchAr": "كالياري × فيرونا",
       "time": "22:00",
       "channels": [
-        "📺 MBC Shahid منصة شاهد _اونلاين [Online]",
-        "📺 MBC Action _مشفرة [Badrsat 26.0E 11270 V 27500 | Nilesat 7.0W 11471 V 27500]",
+        "📺 MBC Action _مشفرة [Badrsat 26.0E 11270 V 27500]",
+        "📺 MBC Action _مشفرة [Nilesat 7.0W 11471 V 27500]",
         "📺 Italia 1 _مشفرة [Hotbird 13.0E 11432 V 29900]",
         "📺 Nova Sports Prime _مشفرة [Hotbird 13.0E 11804 V 30000]",
         "📺 Polsat Sport 2 _مشفرة [Hotbird 13.0E 12265 V 27500]",
@@ -93,8 +84,7 @@
         "📺 Ziggo Sport _مشفرة [Eutelsat 23.5E 12129 V 29900]",
         "📺 Ziggo Sport 2 _مشفرة [Eutelsat 23.5E 12129 V 29900]",
         "📺 TRT Spor _مشفرة [Turksat 42.0E 11054 V 30000]",
-        "📺 Match! Futbol 1 _مشفرة [Eutelsat 80.0E 11044 V 45000]",
-        "📺 CBS Sports Golazo _اونلاين [Local]"
+        "📺 Match! Futbol 1 _مشفرة [Eutelsat 80.0E 11044 V 45000]"
       ]
     },
     {
@@ -104,7 +94,8 @@
       "matchAr": "تولوز × ليل",
       "time": "21:45",
       "channels": [
-        "📺 Bein Sport 1 _مشفرة [Badrsat 26.0E 10810 H 27500 | Nilesat 7.0W 11013 H 27500]",
+        "📺 Bein Sport 1 _مشفرة [Badrsat 26.0E 10810 H 27500]",
+        "📺 Bein Sport 1 _مشفرة [Nilesat 7.0W 11013 H 27500]",
         "📺 Diema Sport 2 _مشفرة [Hotbird 13.0E 12673 V 30000]",
         "📺 Eleven Sports 1 _مشفرة [Hotbird 13.0E 10796 V 27500]",
         "📺 Eleven Sports 1 4K _مشفرة [Hotbird 13.0E 11117 V 27500]",
@@ -112,15 +103,15 @@
         "📺 Arena Premium 1 SLO _مشفرة [Eutelsat 16.0E 11678 V 30000]",
         "📺 Arena Premium 3 SRB _مشفرة [Eutelsat 16.0E 10721 H 30000]",
         "📺 Arena Sport 2 HRV _مشفرة [Eutelsat 16.0E 11554 V 30000]",
-        "📺 Nova Sport 1 CZ _مشفرة [Eutelsat 16.0E 11055 V 27500 | Thor 0.8W 12456 V 30000 | Eutelsat 23.5E 12266 H 29900]",
+        "📺 Nova Sport 1 CZ _مشفرة [Eutelsat 16.0E 11055 V 27500]",
+        "📺 Nova Sport 1 CZ _مشفرة [Thor 0.8W 12456 V 30000]",
+        "📺 Nova Sport 1 CZ _مشفرة [Eutelsat 23.5E 12266 H 29900]",
         "📺 Super Sport 3 _مشفرة [Eutelsat 16.0E 10845 H 30000]",
         "📺 DAZN 1 GER _مشفرة [Astra 19.2E 12382 H 27500]",
         "📺 Sport TV 1 _مشفرة [Hispasat 30W 12360 H 27500]",
         "📺 5 Plus [Amos] _مشفرة [Amos 4.0W 11259 V 30000]",
         "📺 SuperSport Football _مشفرة [Eutelsat 36.0E 12341 V 27500]",
-        "📺 Persiana Sports 2 _مشفرة [TurkmenÄlem 52.0E 11343 H 27500]",
-        "📺 Amazon Prime Video منصة امازون _اونلاين [Online]",
-        "📺 CazéTV _اونلاين [Online]"
+        "📺 Persiana Sports 2 _مشفرة [TurkmenÄlem 52.0E 11343 H 27500]"
       ]
     },
     {
@@ -130,16 +121,13 @@
       "matchAr": "هيبرنيان × هارتس",
       "time": "21:45",
       "channels": [
-        "📺 Bein Sport 2 _مشفرة [Badrsat 26.0E 10810 H 27500 | Nilesat 7.0W 11013 H 27500]",
-        "📺 Como TV تطبيق _اونلاين [Online]",
         "📺 Sharjah Sports _مشفرة [Nilesat 7.0W 11013 V 27500]",
         "📺 Cosmote Sport 1 _مشفرة [Hotbird 13.0E 12130 H 30000]",
-        "📺 Cosmote Sport 3 _مشفرة [Hotbird 13.0E 12169 H 30000]",
         "📺 Arena Premium 4 BIH _مشفرة [Eutelsat 16.0E 11471 H 30000]",
-        "📺 Arena Sport 1x2 _مشفرة [Eutelsat 16.0E 11366 V 30000 | Eutelsat 23.5E 12402 V 30000]",
+        "📺 Arena Sport 1x2 _مشفرة [Eutelsat 16.0E 11366 V 30000]",
+        "📺 Arena Sport 1x2 _مشفرة [Eutelsat 23.5E 12402 V 30000]",
         "📺 Arena Sport 4 HRV _مشفرة [Eutelsat 16.0E 11554 V 30000]",
         "📺 Sportdigital Fussball _مشفرة [Astra 19.2E 11186 V 22000]",
-        "📺 Sport TV 1 _مشفرة [Hispasat 30W 12360 H 27500]",
         "📺 Sport TV 5 _مشفرة [Hispasat 30W 12360 H 27500]",
         "📺 5 Live [Amos] _مشفرة [Amos 4.0W 11259 V 30000]",
         "📺 Digi Sport 4 _مشفرة [Thor 0.8W 12687 H 27500]",
@@ -149,6 +137,42 @@
         "📺 Sky Sports Football _مشفرة [Astra 28.2E 12012 V 27500]",
         "📺 Sky Sports Main Event _مشفرة [Astra 28.2E 12012 V 27500]",
         "📺 S Sport _مشفرة [Turksat 42.0E 11853 H 25000]"
+      ]
+    },
+    {
+      "tournamentEn": "🏁 LaLiga",
+      "tournamentAr": "🏁 الدوري الإسباني",
+      "matchEn": "Real Sociedad v Celta",
+      "matchAr": "ريال سوسيداد × سيلتا",
+      "time": "22:00",
+      "channels": [
+        "📺 Bein Sport 2 _مشفرة [Badrsat 26.0E 10810 H 27500]",
+        "📺 Bein Sport 2 _مشفرة [Nilesat 7.0W 11013 H 27500]",
+        "📺 Canal+ Sport _مشفرة [Hotbird 13.0E 11278 V 27500]",
+        "📺 CANAL+ Sport 6 _مشفرة [Hotbird 13.0E 11449 H 27500]",
+        "📺 Arena Premium 1 SRB _مشفرة [Eutelsat 16.0E 11366 V 30000]",
+        "📺 Arena Premium 3 BIH _مشفرة [Eutelsat 16.0E 11231 V 42000]",
+        "📺 Sport Klub 1 HRV _مشفرة [Eutelsat 16.0E 11471 H 30000]",
+        "📺 Sport Klub 1 SLO _مشفرة [Eutelsat 16.0E 11471 H 30000]",
+        "📺 Super Sport 2 _مشفرة [Eutelsat 16.0E 10845 H 30000]",
+        "📺 M+ LaLiga _مشفرة [Astra 19.2E 10818 V 22000]",
+        "📺 DAZN 1 POR _مشفرة [Hispasat 30W 12399 H 27500]",
+        "📺 One HD _مشفرة [Amos 4.0W 11259 V 30000]",
+        "📺 Digi Sport 2 _مشفرة [Thor 0.8W 11823 H 30000]",
+        "📺 Nova Sport 4 CZ _مشفرة [Thor 0.8W 11977 H 30000]",
+        "📺 Nova Sport 4 CZ _مشفرة [Eutelsat 23.5E 11934 V 29900]",
+        "📺 Prima Sport 2 _مشفرة [Thor 0.8W 12723 H 27500]",
+        "📺 Prima Sport 2 _مشفرة [Hellas Sat 39.0E 12290 V 30000]",
+        "📺 Spiler TV 2 _مشفرة [Thor 0.8W 11727 V 28000]",
+        "📺 Max Sport 4 _مشفرة [BulgariaSat 1.9E 12303 H 30000]",
+        "📺 Premier Sports 2 _مشفرة [Astra 28.2E 12188 H 27500]",
+        "📺 SuperSport LaLiga _مشفرة [Eutelsat 36.0E 12169 H 27500]",
+        "📺 Idman TV _مشفرة [Azerspace 46.0E 11175 H 30000]",
+        "📺 Persiana Sports 1 _مشفرة [TurkmenÄlem 52.0E 11343 H 27500]",
+        "📺 AF Sports _مشفرة [Al Yah 52.5E 11938 H 27500]",
+        "📺 Varzish TV _مشفرة [Al Yah 52.5E 11785 H 27500]",
+        "📺 Fast Sports _مشفرة [Eutelsat 70.5E 11050 H 17670]",
+        "📺 Match! Futbol 2 _مشفرة [Eutelsat 80.0E 11044 V 45000]"
       ]
     }
   ]
