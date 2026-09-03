@@ -2,7 +2,7 @@
   "matches": [
     {
       "tournamentEn": "🇸🇦 Saudi Pro League",
-      "tournamentAr": "🇸🇦 الدوري السعودي للمحترفين",
+      "tournamentAr": "🇸🇦 الدوري السعودي الممتاز",
       "matchEn": "Al-Fayha v Al-Kholood",
       "matchAr": "الفيحاء × الخلود",
       "time": "18:55",
@@ -12,7 +12,7 @@
     },
     {
       "tournamentEn": "🇸🇦 Saudi Pro League",
-      "tournamentAr": "🇸🇦 الدوري السعودي للمحترفين",
+      "tournamentAr": "🇸🇦 الدوري السعودي الممتاز",
       "matchEn": "Neom v Al-Khaleej",
       "matchAr": "نيوم × الخليج",
       "time": "19:30",
@@ -22,7 +22,7 @@
     },
     {
       "tournamentEn": "🇸🇦 Saudi Pro League",
-      "tournamentAr": "🇸🇦 الدوري السعودي للمحترفين",
+      "tournamentAr": "🇸🇦 الدوري السعودي الممتاز",
       "matchEn": "Al-Diriyah v Al-Qadsiah",
       "matchAr": "الدرعية × القادسية",
       "time": "21:00",
@@ -140,7 +140,7 @@
     },
     {
       "tournamentEn": "🏁 LaLiga",
-      "tournamentAr": "🏁 الدوري الإسباني",
+      "tournamentAr": "🏁 الدوري الإسباني الممتاز",
       "matchEn": "Real Sociedad v Celta",
       "matchAr": "ريال سوسيداد × سيلتا",
       "time": "22:00",
@@ -172,17 +172,6 @@
         "📺 Varzish TV _مشفرة [Al Yah 52.5E 11785 H 27500]",
         "📺 Fast Sports _مشفرة [Eutelsat 70.5E 11050 H 17670]",
         "📺 Match! Futbol 2 _مشفرة [Eutelsat 80.0E 11044 V 45000]"
-      ]
-    },
-    {
-      "tournamentEn": "🏆 Copa do Brasil",
-      "tournamentAr": "🏆 كأس البرازيل",
-      "matchEn": "Santos v Palmeiras",
-      "matchAr": "سانتوس × بالميراس",
-      "time": "03:30",
-      "channels": [
-        "📺 One HD _مشفرة [Amos 4.0W 11259 V 30000]",
-        "📺 Premier Sports 2 _مشفرة [Astra 28.2E 12188 H 27500]"
       ]
     },
     {
