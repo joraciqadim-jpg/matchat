@@ -1,8 +1,8 @@
 {
   "matches": [
     {
-      "tournamentEn": "LaLiga",
-      "tournamentAr": "الدوري الإسباني الممتاز",
+      "tournamentEn": "🇪🇸 LaLiga",
+      "tournamentAr": "🇪🇸 الدوري الإسباني الممتاز",
       "matchEn": "Real Sociedad v Celta",
       "matchAr": "ريال سوسيداد × سيلتا",
       "time": "22:00",
@@ -37,8 +37,8 @@
       ]
     },
     {
-      "tournamentEn": "Saudi Pro League",
-      "tournamentAr": "الدوري السعودي الممتاز",
+      "tournamentEn": "🇸🇦 Saudi Pro League",
+      "tournamentAr": "🇸🇦 الدوري السعودي للمحترفين",
       "matchEn": "Al-Fayha v Al-Kholood",
       "matchAr": "الفيحاء × الخلود",
       "time": "18:55",
@@ -47,8 +47,8 @@
       ]
     },
     {
-      "tournamentEn": "Saudi Pro League",
-      "tournamentAr": "الدوري السعودي الممتاز",
+      "tournamentEn": "🇸🇦 Saudi Pro League",
+      "tournamentAr": "🇸🇦 الدوري السعودي للمحترفين",
       "matchEn": "Neom v Al-Khaleej",
       "matchAr": "نيوم × الخليج",
       "time": "19:30",
@@ -57,8 +57,8 @@
       ]
     },
     {
-      "tournamentEn": "Saudi Pro League",
-      "tournamentAr": "الدوري السعودي الممتاز",
+      "tournamentEn": "🇸🇦 Saudi Pro League",
+      "tournamentAr": "🇸🇦 الدوري السعودي للمحترفين",
       "matchEn": "Al-Diriyah v Al-Qadsiah",
       "matchAr": "الدرعية × القادسية",
       "time": "21:00",
@@ -123,8 +123,8 @@
       ]
     },
     {
-      "tournamentEn": "Ligue 1",
-      "tournamentAr": "الدوري الفرنسي الممتاز",
+      "tournamentEn": "🇫🇷 Ligue 1",
+      "tournamentAr": "🇫🇷 الدوري الفرنسي الممتاز",
       "matchEn": "Toulouse v Lille",
       "matchAr": "تولوز × ليل",
       "time": "21:45",
@@ -150,8 +150,8 @@
       ]
     },
     {
-      "tournamentEn": "🏴 Scottish Premiership",
-      "tournamentAr": "🏴 الدوري الإسكتلندي الممتاز",
+      "tournamentEn": "🏴󠁧󠁢󠁣󠁴󠁿 Scottish Premiership",
+      "tournamentAr": "🏴󠁧󠁢󠁣󠁴󠁿 الدوري الاسكتلندي الممتاز",
       "matchEn": "Hibernian v Hearts",
       "matchAr": "هيبرنيان × هارتس",
       "time": "21:45",
