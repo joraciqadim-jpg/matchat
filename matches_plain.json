@@ -37,8 +37,35 @@
       ]
     },
     {
+      "tournamentEn": "🇫🇷 Ligue 1",
+      "tournamentAr": "🇫🇷 الدوري الفرنسي الممتاز",
+      "matchEn": "Toulouse v Lille",
+      "matchAr": "تولوز × ليل",
+      "time": "18:45",
+      "channels": [
+        "📺 Bein Sport 1 _عادية [Badrsat 26.0E 10810 H 27500]",
+        "📺 Bein Sport 1 _عادية [Nilesat 7.0W 11013 H 27500]",
+        "📺 Diema Sport 2 _عادية [Hotbird 13.0E 12673 V 30000]",
+        "📺 Eleven Sports 1 _عادية [Hotbird 13.0E 10796 V 27500]",
+        "📺 Eleven Sports 1 4K _عادية [Hotbird 13.0E 11117 V 27500]",
+        "📺 Arena Premium 1 BIH _عادية [Eutelsat 16.0E 11595 V 30000]",
+        "📺 Arena Premium 1 SLO _عادية [Eutelsat 16.0E 11678 V 30000]",
+        "📺 Arena Premium 3 SRB _عادية [Eutelsat 16.0E 10721 H 30000]",
+        "📺 Arena Sport 2 HRV _عادية [Eutelsat 16.0E 11554 V 30000]",
+        "📺 Nova Sport 1 CZ _عادية [Eutelsat 16.0E 11055 V 27500]",
+        "📺 Nova Sport 1 CZ _عادية [Thor 0.8W 12456 V 30000]",
+        "📺 Nova Sport 1 CZ _عادية [Eutelsat 23.5E 12266 H 29900]",
+        "📺 Super Sport 3 _عادية [Eutelsat 16.0E 10845 H 30000]",
+        "📺 DAZN 1 GER _عادية [Astra 19.2E 12382 H 27500]",
+        "📺 Sport TV 1 _عادية [Hispasat 30W 12360 H 27500]",
+        "📺 5 Plus [Amos] _عادية [Amos 4.0W 11259 V 30000]",
+        "📺 SuperSport Football _عادية [Eutelsat 36.0E 12341 V 27500]",
+        "📺 Persiana Sports 2 _عادية [TurkmenÄlem 52.0E 11343 H 27500]"
+      ]
+    },
+    {
       "tournamentEn": "🇸🇦 Saudi Pro League",
-      "tournamentAr": "🇸🇦 الدوري السعودي للمحترفين",
+      "tournamentAr": "🇸🇦 الدوري السعودي الممتاز",
       "matchEn": "Al-Fayha v Al-Kholood",
       "matchAr": "الفيحاء × الخلود",
       "time": "15:55",
@@ -48,7 +75,7 @@
     },
     {
       "tournamentEn": "🇸🇦 Saudi Pro League",
-      "tournamentAr": "🇸🇦 الدوري السعودي للمحترفين",
+      "tournamentAr": "🇸🇦 الدوري السعودي الممتاز",
       "matchEn": "Neom v Al-Khaleej",
       "matchAr": "نيوم × الخليج",
       "time": "16:30",
@@ -58,7 +85,7 @@
     },
     {
       "tournamentEn": "🇸🇦 Saudi Pro League",
-      "tournamentAr": "🇸🇦 الدوري السعودي للمحترفين",
+      "tournamentAr": "🇸🇦 الدوري السعودي الممتاز",
       "matchEn": "Al-Diriyah v Al-Qadsiah",
       "matchAr": "الدرعية × القادسية",
       "time": "18:00",
@@ -123,35 +150,8 @@
       ]
     },
     {
-      "tournamentEn": "🇫🇷 Ligue 1",
-      "tournamentAr": "🇫🇷 الدوري الفرنسي الممتاز",
-      "matchEn": "Toulouse v Lille",
-      "matchAr": "تولوز × ليل",
-      "time": "18:45",
-      "channels": [
-        "📺 Bein Sport 1 _عادية [Badrsat 26.0E 10810 H 27500]",
-        "📺 Bein Sport 1 _عادية [Nilesat 7.0W 11013 H 27500]",
-        "📺 Diema Sport 2 _عادية [Hotbird 13.0E 12673 V 30000]",
-        "📺 Eleven Sports 1 _عادية [Hotbird 13.0E 10796 V 27500]",
-        "📺 Eleven Sports 1 4K _عادية [Hotbird 13.0E 11117 V 27500]",
-        "📺 Arena Premium 1 BIH _عادية [Eutelsat 16.0E 11595 V 30000]",
-        "📺 Arena Premium 1 SLO _عادية [Eutelsat 16.0E 11678 V 30000]",
-        "📺 Arena Premium 3 SRB _عادية [Eutelsat 16.0E 10721 H 30000]",
-        "📺 Arena Sport 2 HRV _عادية [Eutelsat 16.0E 11554 V 30000]",
-        "📺 Nova Sport 1 CZ _عادية [Eutelsat 16.0E 11055 V 27500]",
-        "📺 Nova Sport 1 CZ _عادية [Thor 0.8W 12456 V 30000]",
-        "📺 Nova Sport 1 CZ _عادية [Eutelsat 23.5E 12266 H 29900]",
-        "📺 Super Sport 3 _عادية [Eutelsat 16.0E 10845 H 30000]",
-        "📺 DAZN 1 GER _عادية [Astra 19.2E 12382 H 27500]",
-        "📺 Sport TV 1 _عادية [Hispasat 30W 12360 H 27500]",
-        "📺 5 Plus [Amos] _عادية [Amos 4.0W 11259 V 30000]",
-        "📺 SuperSport Football _عادية [Eutelsat 36.0E 12341 V 27500]",
-        "📺 Persiana Sports 2 _عادية [TurkmenÄlem 52.0E 11343 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🏴󠁧󠁢󠁣󠁴󠁿 Scottish Premiership",
-      "tournamentAr": "🏴󠁧󠁢󠁣󠁴󠁿 الدوري الإسكتلندي الممتاز",
+      "tournamentEn": "🏴󠁿󠁧󠁢󠁳󠁣󠁴󠁿 Scottish Premiership",
+      "tournamentAr": "🏴󠁿󠁧󠁢󠁳󠁣󠁴󠁿 الدوري الإسكتلندي الممتاز",
       "matchEn": "Hibernian v Hearts",
       "matchAr": "هيبرنيان × هارتس",
       "time": "18:45",
