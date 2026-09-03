@@ -2,10 +2,10 @@
   "matches": [
     {
       "tournamentEn": "🇪🇸 LaLiga",
-      "tournamentAr": "🇪🇸 الدوري الإسباني",
+      "tournamentAr": "🇪🇸 الدوري الإسباني الممتاز",
       "matchEn": "Real Sociedad v Celta",
       "matchAr": "ريال سوسيداد × سيلتا",
-      "time": "22:00",
+      "time": "19:00",
       "channels": [
         "📺 Bein Sport 2 _عادية [Badrsat 26.0E 10810 H 27500]",
         "📺 Bein Sport 2 _عادية [Nilesat 7.0W 11013 H 27500]",
@@ -38,30 +38,30 @@
     },
     {
       "tournamentEn": "🇸🇦 Saudi Pro League",
-      "tournamentAr": "🇸🇦 الدوري السعودي الممتاز",
+      "tournamentAr": "🇸🇦 الدوري السعودي للمحترفين",
       "matchEn": "Al-Fayha v Al-Kholood",
       "matchAr": "الفيحاء × الخلود",
-      "time": "18:55",
+      "time": "15:55",
       "channels": [
         "📺 Thmanyah 2 _عادية [Badrsat 26.0E 11919 H 27500]"
       ]
     },
     {
       "tournamentEn": "🇸🇦 Saudi Pro League",
-      "tournamentAr": "🇸🇦 الدوري السعودي الممتاز",
+      "tournamentAr": "🇸🇦 الدوري السعودي للمحترفين",
       "matchEn": "Neom v Al-Khaleej",
       "matchAr": "نيوم × الخليج",
-      "time": "19:30",
+      "time": "16:30",
       "channels": [
         "📺 Thmanyah 3 _عادية [Badrsat 26.0E 11919 H 27500]"
       ]
     },
     {
       "tournamentEn": "🇸🇦 Saudi Pro League",
-      "tournamentAr": "🇸🇦 الدوري السعودي الممتاز",
+      "tournamentAr": "🇸🇦 الدوري السعودي للمحترفين",
       "matchEn": "Al-Diriyah v Al-Qadsiah",
       "matchAr": "الدرعية × القادسية",
-      "time": "21:00",
+      "time": "18:00",
       "channels": [
         "📺 Thmanyah 1 _عادية [Badrsat 26.0E 11919 H 27500]",
         "📺 Sport TV 3 _عادية [Hispasat 30W 12360 H 27500]",
@@ -76,7 +76,7 @@
       "tournamentAr": "🏆 كأس إيطاليا",
       "matchEn": "Palermo v Mantova",
       "matchAr": "باليرمو × مانتوفا",
-      "time": "19:00",
+      "time": "16:00",
       "channels": [
         "📺 Italia 1 _عادية [Hotbird 13.0E 11432 V 29900]",
         "📺 Arena Premium 1 SRB _عادية [Eutelsat 16.0E 11366 V 30000]",
@@ -100,7 +100,7 @@
       "tournamentAr": "🏆 كأس إيطاليا",
       "matchEn": "Cagliari v Verona",
       "matchAr": "كالياري × فيرونا",
-      "time": "22:00",
+      "time": "19:00",
       "channels": [
         "📺 MBC Action _عادية [Badrsat 26.0E 11270 V 27500]",
         "📺 MBC Action _عادية [Nilesat 7.0W 11471 V 27500]",
@@ -127,7 +127,7 @@
       "tournamentAr": "🇫🇷 الدوري الفرنسي الممتاز",
       "matchEn": "Toulouse v Lille",
       "matchAr": "تولوز × ليل",
-      "time": "21:45",
+      "time": "18:45",
       "channels": [
         "📺 Bein Sport 1 _عادية [Badrsat 26.0E 10810 H 27500]",
         "📺 Bein Sport 1 _عادية [Nilesat 7.0W 11013 H 27500]",
@@ -151,10 +151,10 @@
     },
     {
       "tournamentEn": "🏴󠁧󠁢󠁣󠁴󠁿 Scottish Premiership",
-      "tournamentAr": "🏴󠁧󠁢󠁣󠁴󠁿 الدوري الاسكتلندي الممتاز",
+      "tournamentAr": "🏴󠁧󠁢󠁣󠁴󠁿 الدوري الإسكتلندي الممتاز",
       "matchEn": "Hibernian v Hearts",
       "matchAr": "هيبرنيان × هارتس",
-      "time": "21:45",
+      "time": "18:45",
       "channels": [
         "📺 Sharjah Sports _عادية [Nilesat 7.0W 11013 V 27500]",
         "📺 Cosmote Sport 1 _عادية [Hotbird 13.0E 12130 H 30000]",
@@ -179,7 +179,7 @@
       "tournamentAr": "🏆 كأس البرازيل",
       "matchEn": "Grêmio v Internacional",
       "matchAr": "غريميو × إنترناسيونال",
-      "time": "02:00",
+      "time": "23:00",
       "channels": [
         "📺 One HD _عادية [Amos 4.0W 11259 V 30000]",
         "📺 Premier Sports 2 _عادية [Astra 28.2E 12188 H 27500]"
