@@ -71,7 +71,6 @@
         "📺 Italia 1 _مشفرة [Hotbird 13.0E 11432 V 29900]",
         "📺 Nova Sports Prime _مشفرة [Hotbird 13.0E 11804 V 30000]",
         "📺 Polsat Sport 2 _مشفرة [Hotbird 13.0E 12265 V 27500]",
-        "📺 Polsat Sport Extra 1 _مشفرة [Hotbird 13.0E 12265 V 27500]",
         "📺 Arena Premium 2 BIH _مشفرة [Eutelsat 16.0E 11595 V 30000]",
         "📺 Arena Premium 2 SRB _مشفرة [Eutelsat 16.0E 11429 V 28330]",
         "📺 Arena Sport 1 HRV _مشفرة [Eutelsat 16.0E 11678 H 30000]",
@@ -173,6 +172,28 @@
         "📺 Varzish TV _مشفرة [Al Yah 52.5E 11785 H 27500]",
         "📺 Fast Sports _مشفرة [Eutelsat 70.5E 11050 H 17670]",
         "📺 Match! Futbol 2 _مشفرة [Eutelsat 80.0E 11044 V 45000]"
+      ]
+    },
+    {
+      "tournamentEn": "🏆 Copa do Brasil",
+      "tournamentAr": "🏆 كأس البرازيل",
+      "matchEn": "Santos v Palmeiras",
+      "matchAr": "سانتوس × بالميراس",
+      "time": "03:30",
+      "channels": [
+        "📺 One HD _مشفرة [Amos 4.0W 11259 V 30000]",
+        "📺 Premier Sports 2 _مشفرة [Astra 28.2E 12188 H 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "🏆 Copa do Brasil",
+      "tournamentAr": "🏆 كأس البرازيل",
+      "matchEn": "Grêmio v Internacional",
+      "matchAr": "غريميو × إنترناسيونال",
+      "time": "02:00",
+      "channels": [
+        "📺 One HD _مشفرة [Amos 4.0W 11259 V 30000]",
+        "📺 Premier Sports 2 _مشفرة [Astra 28.2E 12188 H 27500]"
       ]
     }
   ]
