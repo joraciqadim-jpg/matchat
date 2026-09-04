@@ -14,7 +14,7 @@
       "tournamentEn": "🛡️ CAF Champions League",
       "tournamentAr": "🛡️ دوري أبطال أفريقيا",
       "matchEn": "Saoura (Algeria) v Horoya (Guinea)",
-      "matchAr": "الساورة (الجزائر) × حورويا (غينيا)",
+      "matchAr": "الساورة (الجزائر) × حوريا (غينيا)",
       "time": "18:00",
       "channels": [
         "📺 ENTV Algeria الجزائرية الاولى _عادية [Nilesat 7.0W 11680 H 27500]",
@@ -24,8 +24,8 @@
     {
       "tournamentEn": "🛡️ CAF Champions League",
       "tournamentAr": "🛡️ دوري أبطال أفريقيا",
-      "matchEn": "Al-Swehly (Libya) v KVZ FC (Tanzania)",
-      "matchAr": "السويحلي (ليبيا) × كيه في زد (تنزانيا)",
+      "matchEn": "Swehly (Libya) v KVZ (Tanzania)",
+      "matchAr": "السويحلي (ليبيا) × كي في زد (تنزانيا)",
       "time": "17:00",
       "channels": [
         "📺 Libya Sport TV 1 _عادية [Badrsat 26.0E 12360 V 27500]",
@@ -34,7 +34,7 @@
     },
     {
       "tournamentEn": "🇪🇸 LaLiga",
-      "tournamentAr": "🇪🇸 الدوري الإسباني الممتاز",
+      "tournamentAr": "🇪🇸 الدوري الإسباني",
       "matchEn": "Real Betis v Real Madrid",
       "matchAr": "ريال بيتيس × ريال مدريد",
       "time": "19:00",
@@ -199,8 +199,8 @@
       ]
     },
     {
-      "tournamentEn": "🏁 Premier League",
-      "tournamentAr": "🏁 الدوري الإنجليزي الممتاز",
+      "tournamentEn": "🇬🇧 Premier League",
+      "tournamentAr": "🇬🇧 الدوري الإنجليزي الممتاز",
       "matchEn": "Ipswich v Liverpool",
       "matchAr": "إيبسويتش × ليفربول",
       "time": "19:00",
@@ -227,7 +227,7 @@
       ]
     },
     {
-      "tournamentEn": "🇹🇷 Turkish Super Lig",
+      "tournamentEn": "🇹🇷 Trendyol Süper Lig",
       "tournamentAr": "🇹🇷 الدوري التركي الممتاز",
       "matchEn": "Başakşehir v Galatasaray",
       "matchAr": "باشاك شهير × غلطة سراي",
