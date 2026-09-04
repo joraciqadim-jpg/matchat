@@ -24,7 +24,7 @@
     {
       "tournamentEn": "🛡️ CAF Champions League",
       "tournamentAr": "🛡️ دوري أبطال أفريقيا",
-      "matchEn": "Swehly (Libya) v KVZ (Tanzania)",
+      "matchEn": "Al-Swehly (Libya) v KVZ (Tanzania)",
       "matchAr": "السويحلي (ليبيا) × كي في زد (تنزانيا)",
       "time": "17:00",
       "channels": [
@@ -78,7 +78,7 @@
       ]
     },
     {
-      "tournamentEn": "🇫🇷 Ligue 1",
+      "tournamentEn": "🇫🇷 French Ligue 1",
       "tournamentAr": "🇫🇷 الدوري الفرنسي الممتاز",
       "matchEn": "Lyon v Auxerre",
       "matchAr": "ليون × أوكسير",
@@ -101,9 +101,9 @@
       ]
     },
     {
-      "tournamentEn": "🇫🇷 Ligue 1",
+      "tournamentEn": "🇫🇷 French Ligue 1",
       "tournamentAr": "🇫🇷 الدوري الفرنسي الممتاز",
-      "matchEn": "Paris Saint-Germain v AS Monaco",
+      "matchEn": "PSG v AS Monaco",
       "matchAr": "باريس سان جيرمان × موناكو",
       "time": "19:05",
       "channels": [
@@ -243,6 +243,31 @@
         "📺 Prima Sport 2 _عادية [Thor 0.8W 12723 H 27500]",
         "📺 Prima Sport 2 _عادية [Hellas Sat 39.0E 12290 V 30000]",
         "📺 Match! Futbol 3 _عادية [Eutelsat 80.0E 11044 V 45000]"
+      ]
+    },
+    {
+      "tournamentEn": "🇦🇪 UAE Pro League",
+      "tournamentAr": "🇦🇪 دوري المحترفين الإماراتي",
+      "matchEn": "Kalba v Al-Ain",
+      "matchAr": "كلباء × العين",
+      "time": "13:45",
+      "channels": [
+        "📺 Sharjah Sports _عادية [Nilesat 7.0W 11013 V 27500]",
+        "📺 Abu Dhabi Sports 1 _عادية [Badrsat 26.0E 11804 H 30000]",
+        "📺 Abu Dhabi Sports 1 _عادية [Nilesat 7.0W 11411 H 30000]"
+      ]
+    },
+    {
+      "tournamentEn": "🇦🇪 UAE Pro League",
+      "tournamentAr": "🇦🇪 دوري المحترفين الإماراتي",
+      "matchEn": "Al-Wasl v Khor Fakkan",
+      "matchAr": "الوصل × خورفكان",
+      "time": "16:15",
+      "channels": [
+        "📺 Dubai Sports دبي الرياضية ١ _عادية [Badrsat 26.0E 12130 V 30000]",
+        "📺 Dubai Sports دبي الرياضية ١ _عادية [Nilesat 7.0W 12418 H 30000]",
+        "📺 Abu Dhabi Sports 1 _عادية [Badrsat 26.0E 11804 H 30000]",
+        "📺 Abu Dhabi Sports 1 _عادية [Nilesat 7.0W 11411 H 30000]"
       ]
     }
   ]
