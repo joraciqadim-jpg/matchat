@@ -3,11 +3,33 @@
     {
       "tournamentEn": "🛡️ CAF Champions League",
       "tournamentAr": "🛡️ دوري أبطال أفريقيا",
-      "matchEn": "AS Port (Africa) v Zamalek (Africa)",
-      "matchAr": "إيه إس بورت (أفريقيا) × الزمالك (أفريقيا)",
+      "matchEn": "AS Port (Djibouti) v Zamalek (Egypt)",
+      "matchAr": "بورت (جيبوتي) × الزمالك (مصر)",
       "time": "17:00",
       "channels": [
         "📺 On Sport 1 _عادية [Nilesat 7.0W 11862 V 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "🛡️ CAF Champions League",
+      "tournamentAr": "🛡️ دوري أبطال أفريقيا",
+      "matchEn": "Saoura (Algeria) v Horoya (Guinea)",
+      "matchAr": "الساورة (الجزائر) × حوريا (غينيا)",
+      "time": "18:00",
+      "channels": [
+        "📺 ENTV Algeria الجزائرية الاولى _عادية [Nilesat 7.0W 11680 H 27500]",
+        "📺 ENTV Algeria الجزائرية الاولى _عادية [Badrsat 26.0E 12523 V 30000]"
+      ]
+    },
+    {
+      "tournamentEn": "🛡️ CAF Champions League",
+      "tournamentAr": "🛡️ دوري أبطال أفريقيا",
+      "matchEn": "Al-Swehly (Libya) v KVZ (Tanzania)",
+      "matchAr": "السويحلي (ليبيا) × كي في زد (تنزانيا)",
+      "time": "17:00",
+      "channels": [
+        "📺 Libya Sport TV 1 _عادية [Badrsat 26.0E 12360 V 27500]",
+        "📺 Libya Sport TV 1 _عادية [Nilesat 7.0W 11766 H 27500]"
       ]
     },
     {
@@ -20,7 +42,6 @@
         "📺 Bein Sport 4 _عادية [Badrsat 26.0E 11390 V 27500]",
         "📺 Bein Sport 4 _عادية [Nilesat 7.0W 11054 H 27500]",
         "📺 Eleven Sports 2 _عادية [Hotbird 13.0E 10796 V 27500]",
-        "📺 Nova Sport BUL _عادية [Hotbird 13.0E 12654 H 30000]",
         "📺 Arena Premium 1 SLO _عادية [Eutelsat 16.0E 11678 V 30000]",
         "📺 Arena Premium 3 SRB _عادية [Eutelsat 16.0E 10721 H 30000]",
         "📺 Arena Premium 5 BIH _عادية [Eutelsat 16.0E 11554 H 30000]",
@@ -37,16 +58,13 @@
     {
       "tournamentEn": "🇫🇷 Ligue 1",
       "tournamentAr": "🇫🇷 الدوري الفرنسي الممتاز",
-      "matchEn": "Paris Saint-Germain v Monaco",
+      "matchEn": "Paris Saint-Germain v AS Monaco",
       "matchAr": "باريس سان جيرمان × موناكو",
       "time": "19:05",
       "channels": [
         "📺 Bein Sport 1 _عادية [Badrsat 26.0E 10810 H 27500]",
         "📺 Bein Sport 1 _عادية [Nilesat 7.0W 11013 H 27500]",
-        "📺 Bein Sport 2 _عادية [Badrsat 26.0E 10810 H 27500]",
-        "📺 Bein Sport 2 _عادية [Nilesat 7.0W 11013 H 27500]",
         "📺 Eleven Sports 3 _عادية [Hotbird 13.0E 10796 V 27500]",
-        "📺 Nova Sport BUL _عادية [Hotbird 13.0E 12654 H 30000]",
         "📺 Arena Premium 1 SLO _عادية [Eutelsat 16.0E 11678 V 30000]",
         "📺 Arena Premium 3 SRB _عادية [Eutelsat 16.0E 10721 H 30000]",
         "📺 Arena Premium 5 BIH _عادية [Eutelsat 16.0E 11554 H 30000]",
@@ -59,6 +77,7 @@
         "📺 Nova Sport 4 CZ _عادية [Eutelsat 23.5E 11934 V 29900]",
         "📺 V Sport Football _عادية [Thor 0.8W 10809 V 25000]",
         "📺 SuperSport LaLiga _عادية [Eutelsat 36.0E 12169 H 27500]",
+        "📺 Persiana Sports 2 _عادية [TurkmenÄlem 52.0E 11343 H 27500]",
         "📺 Star Sports Select 2 _عادية [SES 108.3E 11680 H 32700]"
       ]
     },
@@ -69,8 +88,7 @@
       "matchAr": "أبها × الاتفاق",
       "time": "16:00",
       "channels": [
-        "📺 Thmanyah 2 _عادية [Badrsat 26.0E 11919 H 27500]",
-        "📺 Spiler TV 1 _عادية [Thor 0.8W 12130 H 28000]"
+        "📺 Thmanyah 2 _عادية [Badrsat 26.0E 11919 H 27500]"
       ]
     },
     {
@@ -102,7 +120,7 @@
     {
       "tournamentEn": "🏆 Copa do Brasil",
       "tournamentAr": "🏆 كأس البرازيل",
-      "matchEn": "Gremio v Internacional",
+      "matchEn": "Grêmio v Internacional",
       "matchAr": "غريميو × إنترناسيونال",
       "time": "23:00",
       "channels": [
@@ -117,29 +135,24 @@
       "matchAr": "إيبسويتش × ليفربول",
       "time": "19:00",
       "channels": [
-        "📺 Bein Sport 1 _عادية [Badrsat 26.0E 10810 H 27500]",
-        "📺 Bein Sport 1 _عادية [Nilesat 7.0W 11013 H 27500]",
         "📺 Bein Sport 2 _عادية [Badrsat 26.0E 10810 H 27500]",
         "📺 Bein Sport 2 _عادية [Nilesat 7.0W 11013 H 27500]",
         "📺 Canal+ Extra 1 _عادية [Hotbird 13.0E 11278 V 27500]",
-        "📺 Canal+ Extra 3 _عادية [Hotbird 13.0E 11278 V 27500]",
-        "📺 Diema Sport 2 _عادية [Hotbird 13.0E 12673 V 30000]",
-        "📺 Nova Sports Premier League _عادية [Hotbird 13.0E 11804 V 30000]",
-        "📺 Sky Sport Calcio _عادية [Hotbird 13.0E 11958 V 27500]",
         "📺 Arena Premium 1 BIH _عادية [Eutelsat 16.0E 11595 V 30000]",
         "📺 Arena Premium 1 SRB _عادية [Eutelsat 16.0E 11366 V 30000]",
         "📺 Arena Sport 1 HRV _عادية [Eutelsat 16.0E 11678 H 30000]",
         "📺 Arena Sport 1 SLO _عادية [Eutelsat 16.0E 11678 V 30000]",
         "📺 Super Sport 3 _عادية [Eutelsat 16.0E 10845 H 30000]",
         "📺 Sky Sport Premier League _عادية [Astra 19.2E 12032 H 27500]",
-        "📺 DAZN 1 POR _عادية [Hispasat 30W 12399 H 27500]",
         "📺 DAZN 2 POR _عادية [Hispasat 30W 12399 H 27500]",
         "📺 Sport 2 [Amos] _عادية [Amos 4.0W 11259 V 30000]",
         "📺 V Sport Premier League _عادية [Thor 0.8W 10809 H 25000]",
         "📺 V Sport Premium _عادية [Thor 0.8W 10903 V 25000]",
-        "📺 Premier Sports 2 _عادية [Astra 28.2E 12188 H 27500]",
         "📺 Sky Sports Main Event _عادية [Astra 28.2E 12012 V 27500]",
         "📺 SuperSport Premier League _عادية [Eutelsat 36.0E 12169 H 27500]",
+        "📺 AZ TV _عادية [Azerspace 46.0E 11175 V 30000]",
+        "📺 Persiana Sports 3 _عادية [TurkmenÄlem 52.0E 11343 H 27500]",
+        "📺 Star 4K _عادية [SES 108.3E 12281 H 44920]",
         "📺 Star Sports Select 1 _عادية [SES 108.3E 11483 H 29000]"
       ]
     },
@@ -150,15 +163,14 @@
       "matchAr": "جنوى × كومو",
       "time": "18:45",
       "channels": [
-        "📺 Cosmote Sport 2 _عادية [Hotbird 13.0E 11938 H 30000]",
         "📺 Eleven Sports 1 _عادية [Hotbird 13.0E 10796 V 27500]",
+        "📺 Eleven Sports 1 4K _عادية [Hotbird 13.0E 11117 V 27500]",
         "📺 Arena Premium 2 BIH _عادية [Eutelsat 16.0E 11595 V 30000]",
         "📺 Arena Sport 2 SRB _عادية [Eutelsat 16.0E 11429 V 28330]",
-        "📺 Arena Sport 3 HRV _عادية [Eutelsat 16.0E 11512 H 30000]",
-        "📺 Arena Sport 3 SRB _عادية [Eutelsat 16.0E 10721 H 30000]",
         "📺 Arena Sport 8 HRV _عادية [Eutelsat 16.0E 11554 V 30000]",
         "📺 Tring Sport 1 _عادية [Eutelsat 16.0E 10804 H 29950]",
         "📺 Sport TV 2 _عادية [Hispasat 30W 12360 H 27500]",
+        "📺 One 2 HD _عادية [Amos 4.0W 11259 V 30000]",
         "📺 Digi Sport 3 _عادية [Thor 0.8W 12687 H 27500]",
         "📺 TV 2 Sport DNK _عادية [Thor 0.8W 10716 H 25000]",
         "📺 TV 4 Sport Live 1 _عادية [Thor 0.8W 10778 H 25000]",
@@ -176,22 +188,22 @@
       "matchAr": "ريال بيتيس × ريال مدريد",
       "time": "19:00",
       "channels": [
-        "📺 Bein Sport 2 _عادية [Badrsat 26.0E 10810 H 27500]",
-        "📺 Bein Sport 2 _عادية [Nilesat 7.0W 11013 H 27500]",
         "📺 Bein Sport 3 _عادية [Badrsat 26.0E 10810 H 27500]",
         "📺 Bein Sport 3 _عادية [Nilesat 7.0W 12245 V 27500]",
         "📺 Canal+ Sport 2 _عادية [Hotbird 13.0E 11488 H 27500]",
         "📺 CANAL+ Sport 6 _عادية [Hotbird 13.0E 11449 H 27500]",
-        "📺 Cosmote Sport 7 _عادية [Hotbird 13.0E 12130 H 30000]",
         "📺 Arena Premium 2 SRB _عادية [Eutelsat 16.0E 11429 V 28330]",
         "📺 Arena Premium 3 BIH _عادية [Eutelsat 16.0E 11231 V 42000]",
         "📺 Sport Klub 1 HRV _عادية [Eutelsat 16.0E 11471 H 30000]",
         "📺 Sport Klub 2 SLO _عادية [Eutelsat 16.0E 11387 H 32000]",
         "📺 Super Sport 2 _عادية [Eutelsat 16.0E 10845 H 30000]",
         "📺 DAZN 2 GER _عادية [Astra 19.2E 12382 H 27500]",
-        "📺 LaLiga TV Bar _عادية [Astra 19.2E 10818 V 22000]",
         "📺 M+ LaLiga _عادية [Astra 19.2E 10818 V 22000]",
+        "📺 IRIB Varzesh _عادية [Badrsat 26.0E 11881 H 27500]",
+        "📺 IRIB Varzesh _عادية [Eutelsat 40.0E 11640 H 30000]",
+        "📺 IRIB Varzesh _عادية [Thaicom 78.5E 11640 H 30000]",
         "📺 DAZN 1 POR _عادية [Hispasat 30W 12399 H 27500]",
+        "📺 One HD _عادية [Amos 4.0W 11259 V 30000]",
         "📺 Digi Sport 2 _عادية [Thor 0.8W 11823 H 30000]",
         "📺 Nova Sport 5 CZ _عادية [Thor 0.8W 11747 H 30000]",
         "📺 Nova Sport 5 CZ _عادية [Eutelsat 23.5E 11973 V 29900]",
@@ -203,17 +215,17 @@
         "📺 Premier Sports 1 _عادية [Astra 28.2E 12188 H 27500]",
         "📺 Premier Sports 1 UK _عادية [Astra 28.2E 11671 H 23000]",
         "📺 SuperSport LaLiga _عادية [Eutelsat 36.0E 12169 H 27500]",
-        "📺 S Sport _عادية [Turksat 42.0E 11853 H 25000]",
-        "📺 Idman TV _عادية [Azerspace 46.0E 11175 H 30000]",
+        "📺 Persiana Sports 1 _عادية [TurkmenÄlem 52.0E 11343 H 27500]",
         "📺 AF Sports _عادية [Al Yah 52.5E 11938 H 27500]",
+        "📺 Arezo TV _عادية [Al Yah 52.5E 12015 H 27500]",
         "📺 Fast Sports _عادية [Eutelsat 70.5E 11050 H 17670]",
         "📺 Match! Futbol 2 _عادية [Eutelsat 80.0E 11044 V 45000]"
       ]
     },
     {
-      "tournamentEn": "🏁 Trendyol Super Lig",
+      "tournamentEn": "🏁 Trendyol Süper Lig",
       "tournamentAr": "🏁 الدوري التركي الممتاز",
-      "matchEn": "Basaksehir v Galatasaray",
+      "matchEn": "Başakşehir v Galatasaray",
       "matchAr": "باشاك شهير × غلطة سراي",
       "time": "17:00",
       "channels": [
@@ -223,7 +235,6 @@
         "📺 Arena Sport 5 SRB _عادية [Eutelsat 16.0E 11429 V 28330]",
         "📺 Sport Klub 3 HRV _عادية [Eutelsat 16.0E 11387 H 32000]",
         "📺 Super Sport 4 _عادية [Eutelsat 16.0E 10845 H 30000]",
-        "📺 BeIn Sports Max 10 France _عادية [Astra 19.2E 12324 V 29700]",
         "📺 Sport TV 5 _عادية [Hispasat 30W 12360 H 27500]",
         "📺 Prima Sport 2 _عادية [Thor 0.8W 12723 H 27500]",
         "📺 Prima Sport 2 _عادية [Hellas Sat 39.0E 12290 V 30000]",
