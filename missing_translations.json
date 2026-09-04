@@ -1,4 +1,36 @@
 {
+  "newcastle": {
+    "en": "Newcastle United",
+    "ar": "نيوكاسل يونايتد"
+  },
+  "brighton": {
+    "en": "Brighton & Hove Albion",
+    "ar": "برايتون وهوف ألبيون"
+  },
+  "leeds": {
+    "en": "Leeds United",
+    "ar": "ليدز يونايتد"
+  },
+  "man city": {
+    "en": "Manchester City",
+    "ar": "مانشستر سيتي"
+  },
+  "coventry": {
+    "en": "Coventry City",
+    "ar": "كوفنتري سيتي"
+  },
+  "forest": {
+    "en": "Nottingham Forest",
+    "ar": "نوتنغهام فورست"
+  },
+  "tottenham": {
+    "en": "Tottenham Hotspur",
+    "ar": "توتنهام هوتسبير"
+  },
+  "hull": {
+    "en": "Hull City",
+    "ar": "هال سيتي"
+  },
   "english womens super league": {
     "en": "English Women's Super League",
     "ar": "الدوري الإنجليزي الممتاز للسيدات"
