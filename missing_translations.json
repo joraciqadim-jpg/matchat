@@ -20,7 +20,7 @@
     "ar": "بشكتاش"
   },
   "bundesliga": {
-    "en": "Bundesliga",
+    "en": "German Bundesliga",
     "ar": "الدوري الألماني"
   },
   "schalke": {
@@ -28,12 +28,12 @@
     "ar": "شالكه 04"
   },
   "vriendenloterij eredivisie": {
-    "en": "VriendenLoterij Eredivisie",
+    "en": "Dutch Eredivisie",
     "ar": "الدوري الهولندي الممتاز"
   },
   "nec": {
     "en": "NEC Nijmegen",
-    "ar": "إن إي سي نايميخن"
+    "ar": "نايميخن"
   },
   "netherlands": {
     "en": "Netherlands",
@@ -41,7 +41,7 @@
   },
   "psv": {
     "en": "PSV Eindhoven",
-    "ar": "آيندهوفن"
+    "ar": "أيندهوفن"
   },
   "podhale nowy targ": {
     "en": "Podhale Nowy Targ",
@@ -64,7 +64,7 @@
     "ar": "دوردريخت"
   },
   "athletic club": {
-    "en": "Athletic Club",
+    "en": "Athletic Bilbao",
     "ar": "أتلتيك بلباو"
   },
   "atl madrid": {
@@ -72,7 +72,7 @@
     "ar": "أتلتيكو مدريد"
   },
   "r racing club": {
-    "en": "Real Racing Club",
+    "en": "Racing Santander",
     "ar": "راسينغ سانتاندير"
   },
   "deportivo": {
@@ -104,8 +104,8 @@
     "ar": "نيوكاسل يونايتد"
   },
   "brighton": {
-    "en": "Brighton & Hove Albion",
-    "ar": "برايتون وهوف ألبيون"
+    "en": "Brighton",
+    "ar": "برايتون"
   },
   "leeds": {
     "en": "Leeds United",
@@ -196,16 +196,16 @@
     "ar": "دوري البطولة الإنجليزية"
   },
   "coppa italia": {
-    "en": "Coppa Italia",
+    "en": "Italian Cup",
     "ar": "كأس إيطاليا"
   },
   "dfb pokal": {
-    "en": "DFB-Pokal",
+    "en": "German Cup",
     "ar": "كأس ألمانيا"
   },
   "bayern": {
-    "en": "Bayern",
-    "ar": "بايرن"
+    "en": "Bayern Munchen",
+    "ar": "بايرن ميونيخ"
   },
   "amrica mineiro": {
     "en": "América Mineiro",
@@ -216,8 +216,8 @@
     "ar": "ويكند لوزينو"
   },
   "slovenian cup": {
-    "en": "Slovenian Cup (Hervis Cup)",
-    "ar": "كأس سلوفينيا كأس هيرفيس"
+    "en": "Slovenian Cup",
+    "ar": "كأس سلوفينيا"
   },
   "znicz pruszkw": {
     "en": "Znicz Pruszków",
@@ -2160,7 +2160,7 @@
     "ar": "ألباسيتي"
   },
   "copa do brasil": {
-    "en": "Copa do Brasil",
+    "en": "Brasilian Cup",
     "ar": "كأس البرازيل"
   },
   "grmio": {
@@ -2172,8 +2172,8 @@
     "ar": "الدوري الإنجليزي الممتاز"
   },
   "ipswich": {
-    "en": "Ipswich",
-    "ar": "إيبسويتش"
+    "en": "Ipswich Town",
+    "ar": "إيبسويتش تاون"
   },
   "liverpool": {
     "en": "Liverpool",
@@ -2188,7 +2188,7 @@
     "ar": "كومو"
   },
   "psg": {
-    "en": "PSG",
+    "en": "Paris Saint-Germain",
     "ar": "باريس سان جيرمان"
   },
   "as monaco": {
@@ -2197,7 +2197,7 @@
   },
   "laliga": {
     "en": "Spanish La Liga 1",
-    "ar": "الدوري الإسباني"
+    "ar": "الدوري الإسباني الممتاز"
   },
   "real betis": {
     "en": "Real Betis",
@@ -2236,7 +2236,7 @@
     "ar": "كي في زد"
   },
   "trendyol sper lig": {
-    "en": "Trendyol Süper Lig",
+    "en": "Turkish Süper Lig",
     "ar": "الدوري التركي الممتاز"
   },
   "baakehir": {
@@ -2249,7 +2249,7 @@
   },
   "saudi pro league": {
     "en": "Saudi Pro League",
-    "ar": "الدوري السعودي للمحترفين"
+    "ar": "الدوري السعودي"
   },
   "abha": {
     "en": "Abha",
@@ -2277,7 +2277,7 @@
   },
   "uae pro league": {
     "en": "UAE Pro League",
-    "ar": "دوري المحترفين الإماراتي"
+    "ar": "الدوري الإماراتي"
   },
   "kalba": {
     "en": "Kalba",
