@@ -3,42 +3,6 @@
     {
       "tournamentEn": "🇬🇧 English Premier League",
       "tournamentAr": "🇬🇧 الدوري الإنجليزي الممتاز",
-      "matchEn": "Newcastle United v Bournemouth",
-      "matchAr": "نيوكاسل يونايتد × بورنموث",
-      "time": "11:30",
-      "channels": [
-        "📺 Bein Sport 1 [Badrsat 26.0E 10810 H 27500]",
-        "📺 Bein Sport 1 [Nilesat 7.0W 11013 H 27500]",
-        "📺 Canal+ Extra 1 [Hotbird 13.0E 11278 V 27500]",
-        "📺 Arena Premium 1 SLO [Eutelsat 16.0E 11678 V 30000]",
-        "📺 Arena Premium 1 SRB [Eutelsat 16.0E 11366 V 30000]",
-        "📺 Arena Sport 1 BIH [Eutelsat 16.0E 11678 V 30000]",
-        "📺 Arena Sport 1 HRV [Eutelsat 16.0E 11678 H 30000]",
-        "📺 Super Sport 3 [Eutelsat 16.0E 10845 H 30000]",
-        "📺 DAZN 1 SPA [Astra 19.2E 10788 V 22000]",
-        "📺 Sky Sport Premier League [Astra 19.2E 12032 H 27500]",
-        "📺 IRIB Varzesh [Badrsat 26.0E 11881 H 27500]",
-        "📺 IRIB Varzesh [Eutelsat 40.0E 11640 H 30000]",
-        "📺 IRIB Varzesh [Thaicom 78.5E 11640 H 30000]",
-        "📺 DAZN 1 POR [Hispasat 30W 12399 H 27500]",
-        "📺 Sport 1 [Amos] [Amos 4.0W 11259 V 30000]",
-        "📺 Match 4 [Thor 0.8W 12188 V 28000]",
-        "📺 Spiler TV 1 [Thor 0.8W 12130 H 28000]",
-        "📺 V Sport Premier League [Thor 0.8W 10809 H 25000]",
-        "📺 TNT Sports 1 [Astra 28.2E 11582 H 23000]",
-        "📺 SuperSport Premier League [Eutelsat 36.0E 12169 H 27500]",
-        "📺 SuperSport Variety 1 [Eutelsat 36.0E 12169 H 27500]",
-        "📺 Idman TV [Azerspace 46.0E 11175 H 30000]",
-        "📺 Persiana Sports 1 [TurkmenÄlem 52.0E 11343 H 27500]",
-        "📺 Solhsports [TurkmenÄlem 52.0E 10845 V 27500]",
-        "📺 Fast Sports [Eutelsat 70.5E 11050 H 17670]",
-        "📺 Star 4K [SES 108.3E 12281 H 44920]",
-        "📺 Star Sports Select 1 [SES 108.3E 11483 H 29000]"
-      ]
-    },
-    {
-      "tournamentEn": "🇬🇧 English Premier League",
-      "tournamentAr": "🇬🇧 الدوري الإنجليزي الممتاز",
       "matchEn": "Brentford v Sunderland",
       "matchAr": "برينتفورد × سندرلاند",
       "time": "14:00",
@@ -468,30 +432,6 @@
         "📺 Sporty TV [Eutelsat 36.0E 12265 V 27500]",
         "📺 Meraj TV [TurkmenÄlem 52.0E 11221 V 27500]",
         "📺 Persiana Sports 1 [TurkmenÄlem 52.0E 11343 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🇬🇧 English Championship",
-      "tournamentAr": "🇬🇧 دوري البطولة الإنجليزية",
-      "matchEn": "Preston North End v Blackburn Rovers",
-      "matchAr": "بريستون نورث إند × بلاكبيرن روفرز",
-      "time": "11:30",
-      "channels": [
-        "📺 Bein Sport 2 [Badrsat 26.0E 10810 H 27500]",
-        "📺 Bein Sport 2 [Nilesat 7.0W 11013 H 27500]",
-        "📺 Cosmote Sport 2 [Hotbird 13.0E 11938 H 30000]",
-        "📺 Nova Sport BUL [Hotbird 13.0E 12654 H 30000]",
-        "📺 Arena Premium 2 SRB [Eutelsat 16.0E 11429 V 28330]",
-        "📺 Arena Sport 3 HRV [Eutelsat 16.0E 11512 H 30000]",
-        "📺 Sport 2 [Amos] [Amos 4.0W 11259 V 30000]",
-        "📺 Match 4 [Thor 0.8W 12188 V 28000]",
-        "📺 V Sport 2 [Thor 0.8W 10809 V 25000]",
-        "📺 V Sport Premium [Thor 0.8W 10903 V 25000]",
-        "📺 Sky Sports Football [Astra 28.2E 12012 V 27500]",
-        "📺 Sky Sports Main Event [Astra 28.2E 12012 V 27500]",
-        "📺 ESPN South Africa [Eutelsat 36.0E 12476 H 27500]",
-        "📺 Sporty TV [Eutelsat 36.0E 12265 V 27500]",
-        "📺 SuperSport Football [Eutelsat 36.0E 12341 V 27500]"
       ]
     },
     {
