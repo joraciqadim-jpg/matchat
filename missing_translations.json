@@ -1,1041 +1,1137 @@
 {
-  "National Womens Soccer League (NWSL)": {
+  "serie a": {
+    "en": "Serie A",
+    "ar": "الدوري الإيطالي الممتاز"
+  },
+  "frosinone": {
+    "en": "Frosinone",
+    "ar": "فروزينوني"
+  },
+  "venezia": {
+    "en": "Venezia",
+    "ar": "فينيتسيا"
+  },
+  "parma": {
+    "en": "Parma",
+    "ar": "بارما"
+  },
+  "monza": {
+    "en": "Monza",
+    "ar": "مونزا"
+  },
+  "bologna": {
+    "en": "Bologna",
+    "ar": "بولونيا"
+  },
+  "sassuolo": {
+    "en": "Sassuolo",
+    "ar": "ساسولو"
+  },
+  "juventus": {
+    "en": "Juventus",
+    "ar": "يوفنتوس"
+  },
+  "milan": {
+    "en": "Milan",
+    "ar": "ميلان"
+  },
+  "ligue 1": {
+    "en": "Ligue 1",
+    "ar": "الدوري الفرنسي الممتاز"
+  },
+  "paris": {
+    "en": "Paris",
+    "ar": "باريس"
+  },
+  "laliga": {
+    "en": "LaLiga",
+    "ar": "الدوري الإسباني الممتاز"
+  },
+  "valencia": {
+    "en": "Valencia",
+    "ar": "فالنسيا"
+  },
+  "barcelona": {
+    "en": "Barcelona",
+    "ar": "برشلونة"
+  },
+  "championship": {
+    "en": "Championship",
+    "ar": "دوري البطولة الإنجليزية"
+  },
+  "birmingham": {
+    "en": "Birmingham",
+    "ar": "برمنغهام"
+  },
+  "wolves": {
+    "en": "Wolverhampton Wanderers",
+    "ar": "وولفرهامبتون"
+  },
+  "premier league": {
+    "en": "Premier League",
+    "ar": "الدوري الإنجليزي الممتاز"
+  },
+  "everton": {
+    "en": "Everton",
+    "ar": "إيفرتون"
+  },
+  "man utd": {
+    "en": "Manchester United",
+    "ar": "مانشستر يونايتد"
+  },
+  "arsenal": {
+    "en": "Arsenal",
+    "ar": "أرسنال"
+  },
+  "trendyol sper lig": {
+    "en": "Trendyol Süper Lig",
+    "ar": "الدوري التركي الممتاز"
+  },
+  "trabzonspor": {
+    "en": "Trabzonspor",
+    "ar": "طرابزون سبور"
+  },
+  "genlerbirlii": {
+    "en": "Gençlerbirliği",
+    "ar": "غنتشليربيرليغي"
+  },
+  "national womens soccer league": {
     "en": "National Women's Soccer League (NWSL)",
     "ar": "الدوري الوطني لكرة القدم للسيدات"
   },
-  "Bay WFC": {
+  "bay wfc": {
     "en": "Bay WFC",
     "ar": "باي"
   },
-  "Kansas City": {
+  "kansas city": {
     "en": "Kansas City",
     "ar": "كانساس سيتي"
   },
-  "Usa": {
+  "usa": {
     "en": "USA",
     "ar": "الولايات المتحدة"
   },
-  "Portuguese Liga Next Gen": {
+  "portuguese liga next gen": {
     "en": "Portuguese Liga Next Gen",
     "ar": "الدوري البرتغالي للجيل القادم"
   },
-  "Leixões": {
+  "leixes": {
     "en": "Leixões",
     "ar": "ليشويس"
   },
-  "Sporting Lisbon": {
+  "sporting lisbon": {
     "en": "Sporting Lisbon",
     "ar": "سبورتينغ لشبونة"
   },
-  "Portugal": {
+  "portugal": {
     "en": "Portugal",
     "ar": "البرتغال"
   },
-  "Serbian Superliga Žene": {
+  "serbian superliga ene": {
     "en": "Serbian Women's Super League",
     "ar": "الدوري الصربي الممتاز للسيدات"
   },
-  "Vojvodina": {
+  "vojvodina": {
     "en": "Vojvodina",
     "ar": "فويفودينا"
   },
-  "TSC Backa": {
+  "tsc backa": {
     "en": "TSC Bačka",
     "ar": "تي إس سي باتشكا"
   },
-  "Serbia": {
+  "serbia": {
     "en": "Serbia",
     "ar": "صربيا"
   },
-  "Polish 2. Liga": {
+  "polish 2 liga": {
     "en": "Polish 2. Liga",
     "ar": "الدوري البولندي الدرجة 2"
   },
-  "Podhale Nowy Targ": {
+  "podhale nowy targ": {
     "en": "Podhale Nowy Targ",
     "ar": "بوداله نواي تارج"
   },
-  "Sandecja": {
+  "sandecja": {
     "en": "Sandecja",
     "ar": "سانديتشا"
   },
-  "Poland": {
+  "poland": {
     "en": "Poland",
     "ar": "بولندا"
   },
-  "Portuguese Liga 2": {
+  "portuguese liga 2": {
     "en": "Portuguese Liga 2",
     "ar": "الدوري البرتغالي الدرجة 2"
   },
-  "Tondela": {
+  "tondela": {
     "en": "Tondela",
     "ar": "تونديلا"
   },
-  "FC Porto II": {
+  "fc porto ii": {
     "en": "Porto 2",
     "ar": "بورتو 2"
   },
-  "German 2. Bundesliga": {
+  "german 2 bundesliga": {
     "en": "German 2. Bundesliga",
     "ar": "الدوري الألماني الدرجة 2"
   },
-  "Holstein Kiel": {
+  "holstein kiel": {
     "en": "Holstein Kiel",
     "ar": "هولشتاين كيل"
   },
-  "Nuremberg": {
+  "nuremberg": {
     "en": "Nuremberg",
     "ar": "نورمبرغ"
   },
-  "Germany": {
+  "germany": {
     "en": "Germany",
     "ar": "ألمانيا"
   },
-  "Wolfsburg": {
+  "wolfsburg": {
     "en": "Wolfsburg",
     "ar": "فولفسبورغ"
   },
-  "Energie Cottbus": {
+  "energie cottbus": {
     "en": "Energie Cottbus",
     "ar": "إنرجي كوتبوس"
   },
-  "Kaiserslautern": {
+  "kaiserslautern": {
     "en": "Kaiserslautern",
     "ar": "كايزرسلاوترن"
   },
-  "Darmstadt 98": {
+  "darmstadt 98": {
     "en": "Darmstadt 98",
     "ar": "دارمشتات 98"
   },
-  "Russian Premier League": {
+  "russian premier league": {
     "en": "Russian Premier League",
     "ar": "الدوري الروسي الممتاز"
   },
-  "Kryliya Sovetov": {
+  "kryliya sovetov": {
     "en": "Krylia Sovetov",
     "ar": "كريليا سوفيتوف"
   },
-  "FK Krasnodar": {
+  "fk krasnodar": {
     "en": "Krasnodar",
     "ar": "كراسنودار"
   },
-  "Russia": {
+  "russia": {
     "en": "Russia",
     "ar": "روسيا"
   },
-  "English Premier League": {
+  "english premier league": {
     "en": "English Premier League",
     "ar": "الدوري الإنجليزي الممتاز"
   },
-  "Newcastle United": {
+  "newcastle united": {
     "en": "Newcastle United",
     "ar": "نيوكاسل يونايتد"
   },
-  "Bournemouth": {
+  "bournemouth": {
     "en": "Bournemouth",
     "ar": "بورنموث"
   },
-  "England": {
+  "england": {
     "en": "England",
     "ar": "إنجلترا"
   },
-  "English Championship": {
+  "english championship": {
     "en": "English Championship",
     "ar": "الدوري الإنجليزي الدرجة 2"
   },
-  "Preston N.E.": {
+  "preston ne": {
     "en": "Preston North End",
     "ar": "بريستون نورث إند"
   },
-  "Blackburn Rovers": {
+  "blackburn rovers": {
     "en": "Blackburn Rovers",
     "ar": "بلاكبيرن روفرز"
   },
-  "Lincoln City": {
+  "lincoln city": {
     "en": "Lincoln City",
     "ar": "لينكولن سيتي"
   },
-  "Southampton": {
+  "southampton": {
     "en": "Southampton",
     "ar": "ساوثهامبتون"
   },
-  "Stoke City": {
+  "stoke city": {
     "en": "Stoke City",
     "ar": "ستوك سيتي"
   },
-  "Charlton Athletic": {
+  "charlton athletic": {
     "en": "Charlton Athletic",
     "ar": "تشارلتون أثلتيك"
   },
-  "English FA Cup": {
+  "english fa cup": {
     "en": "English FA Cup",
     "ar": "كأس الاتحاد الإنجليزي"
   },
-  "Knowle": {
+  "knowle": {
     "en": "Knowle",
     "ar": "نول"
   },
-  "Worcester City": {
+  "worcester city": {
     "en": "Worcester City",
     "ar": "وورستر سيتي"
   },
-  "English Womens Super League": {
+  "english womens super league": {
     "en": "English Women's Super League",
     "ar": "الدوري الإنجليزي الممتاز للسيدات"
   },
-  "Chelsea": {
+  "chelsea": {
     "en": "Chelsea",
     "ar": "تشيلسي"
   },
-  "Aston Villa": {
+  "aston villa": {
     "en": "Aston Villa",
     "ar": "أستون فيلا"
   },
-  "Romanian Superliga": {
+  "romanian superliga": {
     "en": "Romanian SuperLiga",
     "ar": "الدوري الروماني الممتاز"
   },
-  "Botosani": {
+  "botosani": {
     "en": "Botoșani",
     "ar": "بوتوشاني"
   },
-  "Sepsi OSK": {
+  "sepsi osk": {
     "en": "Sepsi OSK",
     "ar": "سيبسي أو إس كيه"
   },
-  "Romania": {
+  "romania": {
     "en": "Romania",
     "ar": "رومانيا"
   },
-  "French Ligue 2": {
+  "french ligue 2": {
     "en": "French Ligue 2",
     "ar": "الدوري الفرنسي الدرجة 2"
   },
-  "Reims": {
+  "reims": {
     "en": "Reims",
     "ar": "ريمس"
   },
-  "Guingamp": {
+  "guingamp": {
     "en": "Guingamp",
     "ar": "غانغان"
   },
-  "France": {
+  "france": {
     "en": "France",
     "ar": "فرنسا"
   },
-  "Metz": {
+  "metz": {
     "en": "Metz",
     "ar": "ميتز"
   },
-  "Rodez": {
+  "rodez": {
     "en": "Rodez",
     "ar": "روديز"
   },
-  "German 3. Liga": {
+  "german 3 liga": {
     "en": "German 3. Liga",
     "ar": "الدوري الألماني الدرجة 3"
   },
-  "Hansa Rostock": {
+  "hansa rostock": {
     "en": "Hansa Rostock",
     "ar": "هانزا روستوك"
   },
-  "Wehen Wiesbaden": {
+  "wehen wiesbaden": {
     "en": "Wehen Wiesbaden",
     "ar": "فيهن فيسبادن"
   },
-  "Jahn Regensburg": {
+  "jahn regensburg": {
     "en": "Jahn Regensburg",
     "ar": "يان ريغنسبورغ"
   },
-  "Duisburg": {
+  "duisburg": {
     "en": "Duisburg",
     "ar": "دويسبورغ"
   },
-  "Spanish La Liga 2": {
+  "spanish la liga 2": {
     "en": "Spanish La Liga 2",
     "ar": "الدوري الإسباني الدرجة 2"
   },
-  "Real Sociedad II": {
+  "real sociedad ii": {
     "en": "Real Sociedad 2",
     "ar": "ريال سوسيداد 2"
   },
-  "Tenerife": {
+  "tenerife": {
     "en": "Tenerife",
     "ar": "تينيريفي"
   },
-  "Spain": {
+  "spain": {
     "en": "Spain",
     "ar": "إسبانيا"
   },
-  "Polish Ekstraklasa": {
+  "polish ekstraklasa": {
     "en": "Polish Ekstraklasa",
     "ar": "الدوري البولندي الممتاز"
   },
-  "Widzew Lódz": {
+  "widzew ldz": {
     "en": "Widzew Łódź",
     "ar": "فيدزيف وودج"
   },
-  "Radomiak Radom": {
+  "radomiak radom": {
     "en": "Radomiak Radom",
     "ar": "رادومياك رادوم"
   },
-  "Italian Serie A": {
+  "italian serie a": {
     "en": "Italian Serie A",
     "ar": "الدوري الإيطالي الممتاز"
   },
-  "Fiorentina": {
+  "fiorentina": {
     "en": "Fiorentina",
     "ar": "فيورنتينا"
   },
-  "Torino": {
+  "torino": {
     "en": "Torino",
     "ar": "تورينو"
   },
-  "Italy": {
+  "italy": {
     "en": "Italy",
     "ar": "إيطاليا"
   },
-  "Türkiye 1. Lig": {
+  "trkiye 1 lig": {
     "en": "Turkish 1. Lig",
     "ar": "الدوري التركي الدرجة 1"
   },
-  "Bandirmaspor": {
+  "bandirmaspor": {
     "en": "Bandırmaspor",
     "ar": "بانديرماسبور"
   },
-  "Boluspor": {
+  "boluspor": {
     "en": "Boluspor",
     "ar": "بولو سبور"
   },
-  "Turkey": {
+  "turkey": {
     "en": "Turkey",
     "ar": "تركيا"
   },
-  "South African Premiership": {
+  "south african premiership": {
     "en": "South African Premiership",
     "ar": "الدوري الجنوب أفريقي الممتاز"
   },
-  "Chippa United": {
+  "chippa united": {
     "en": "Chippa United",
     "ar": "تشِيبا يونايتد"
   },
-  "Milford": {
+  "milford": {
     "en": "Milford",
     "ar": "ميلفورد"
   },
-  "Southafrica": {
+  "southafrica": {
     "en": "South Africa",
     "ar": "جنوب أفريقيا"
   },
-  "Portuguese Liga 3": {
+  "portuguese liga 3": {
     "en": "Portuguese Liga 3",
     "ar": "الدوري البرتغالي الدرجة 3"
   },
-  "Vianense": {
+  "vianense": {
     "en": "Vianense",
     "ar": "فيانينسي"
   },
-  "Paços Ferreira": {
+  "paos ferreira": {
     "en": "Paços de Ferreira",
     "ar": "باكوش دي فيريرا"
   },
-  "Penafiel": {
+  "penafiel": {
     "en": "Penafiel",
     "ar": "بينافييل"
   },
-  "Académica": {
+  "acadmica": {
     "en": "Académica",
     "ar": "أكاديميكا"
   },
-  "German 1. Bundesliga": {
+  "german 1 bundesliga": {
     "en": "German Bundesliga",
     "ar": "الدوري الألماني الممتاز"
   },
-  "Hoffenheim": {
+  "hoffenheim": {
     "en": "Hoffenheim",
     "ar": "هوفنهايم"
   },
-  "Borussia Dortmund": {
+  "borussia dortmund": {
     "en": "Borussia Dortmund",
     "ar": "بوروسيا دورتموند"
   },
-  "Werder Bremen": {
+  "werder bremen": {
     "en": "Werder Bremen",
     "ar": "فيردر بريمن"
   },
-  "RB Leipzig": {
+  "rb leipzig": {
     "en": "RB Leipzig",
     "ar": "لايبزيغ"
   },
-  "Bayer Leverkusen": {
+  "bayer leverkusen": {
     "en": "Bayer Leverkusen",
     "ar": "باير ليفركوزن"
   },
-  "Union Berlin": {
+  "union berlin": {
     "en": "Union Berlin",
     "ar": "يونيون برلين"
   },
-  "Paderborn": {
+  "paderborn": {
     "en": "Paderborn",
     "ar": "بادربورن"
   },
-  "Freiburg": {
+  "freiburg": {
     "en": "Freiburg",
     "ar": "فرايبورغ"
   },
-  "Mönchengladbach": {
+  "mnchengladbach": {
     "en": "Borussia Mönchengladbach",
     "ar": "بوروسيا مونشنغلادباخ"
   },
-  "Elversberg": {
+  "elversberg": {
     "en": "Elversberg",
     "ar": "إلفرسبرغ"
   },
-  "Zenit St Petersburg": {
+  "zenit st petersburg": {
     "en": "Zenit St Petersburg",
     "ar": "زينيت سانت بطرسبورغ"
   },
-  "CSKA Moscow": {
+  "cska moscow": {
     "en": "CSKA Moscow",
     "ar": "سيسكا موسكو"
   },
-  "Nottingham Forest": {
+  "nottingham forest": {
     "en": "Nottingham Forest",
     "ar": "نوتنغهام فورست"
   },
-  "Tottenham Hotspur": {
+  "tottenham hotspur": {
     "en": "Tottenham Hotspur",
     "ar": "توتنهام هوتسبير"
   },
-  "Manchester City": {
+  "manchester city": {
     "en": "Manchester City",
     "ar": "مانشستر سيتي"
   },
-  "Coventry City": {
+  "coventry city": {
     "en": "Coventry City",
     "ar": "كوفنتري سيتي"
   },
-  "Fulham": {
+  "fulham": {
     "en": "Fulham",
     "ar": "فولهام"
   },
-  "Crystal Palace": {
+  "crystal palace": {
     "en": "Crystal Palace",
     "ar": "كريستال بالاس"
   },
-  "Brighton H.A.": {
+  "brighton ha": {
     "en": "Brighton & Hove Albion",
     "ar": "برايتون أند هوف ألبيون"
   },
-  "Leeds United": {
+  "leeds united": {
     "en": "Leeds United",
     "ar": "ليدز يونايتد"
   },
-  "Brentford": {
+  "brentford": {
     "en": "Brentford",
     "ar": "برينتفورد"
   },
-  "Sunderland": {
+  "sunderland": {
     "en": "Sunderland",
     "ar": "سندرلاند"
   },
-  "Burnley": {
+  "burnley": {
     "en": "Burnley",
     "ar": "بيرنلي"
   },
-  "Bristol City": {
+  "bristol city": {
     "en": "Bristol City",
     "ar": "بريستول سيتي"
   },
-  "Serbian 1st League (Prva liga Srbija)": {
+  "serbian 1st league": {
     "en": "Serbian First League",
     "ar": "الدوري الصربي الدرجة 1"
   },
-  "Smederevo": {
+  "smederevo": {
     "en": "Smederevo",
     "ar": "سميديريفو"
   },
-  "Javor Ivanjica": {
+  "javor ivanjica": {
     "en": "Javor Ivanjica",
     "ar": "يافور إيفانيتسا"
   },
-  "Türkiye Süper Lig": {
+  "trkiye sper lig": {
     "en": "Turkish Süper Lig",
     "ar": "الدوري التركي الممتاز"
   },
-  "Erzurumspor": {
+  "erzurumspor": {
     "en": "Erzurumspor",
     "ar": "أرضروم سبور"
   },
-  "Konyaspor": {
+  "konyaspor": {
     "en": "Konyaspor",
     "ar": "قونيا سبور"
   },
-  "Spanish La Liga (Primera)": {
+  "spanish la liga": {
     "en": "Spanish La Liga",
     "ar": "الدوري الإسباني الممتاز"
   },
-  "Athletic Bilbao": {
+  "athletic bilbao": {
     "en": "Athletic Bilbao",
     "ar": "أتلتيك بلباو"
   },
-  "Atlético Madrid": {
+  "atltico madrid": {
     "en": "Atlético Madrid",
     "ar": "أتلتيكو مدريد"
   },
-  "Sporting Gijón": {
+  "sporting gijn": {
     "en": "Sporting Gijón",
     "ar": "سبورتينغ خيخون"
   },
-  "Girona": {
+  "girona": {
     "en": "Girona",
     "ar": "جيرونا"
   },
-  "Dutch Eredivisie": {
+  "dutch eredivisie": {
     "en": "Dutch Eredivisie",
     "ar": "الدوري الهولندي الممتاز"
   },
-  "NEC Nijmegen": {
+  "nec nijmegen": {
     "en": "NEC Nijmegen",
     "ar": "إن إي سي نايميخن"
   },
-  "Feyenoord": {
+  "feyenoord": {
     "en": "Feyenoord",
     "ar": "فينورد"
   },
-  "Holland": {
+  "holland": {
     "en": "Netherlands",
     "ar": "هولندا"
   },
-  "Feirense": {
+  "feirense": {
     "en": "Feirense",
     "ar": "فييرينسي"
   },
-  "Sporting Lisbon II": {
+  "sporting lisbon ii": {
     "en": "Sporting Lisbon 2",
     "ar": "سبورتينغ لشبونة 2"
   },
-  "Benfica II": {
+  "benfica ii": {
     "en": "Benfica 2",
     "ar": "بنفيكا 2"
   },
-  "Torreense": {
+  "torreense": {
     "en": "Torreense",
     "ar": "تورينسي"
   },
-  "UTA Arad": {
+  "uta arad": {
     "en": "UTA Arad",
     "ar": "يوتا أراد"
   },
-  "Csikszereda": {
+  "csikszereda": {
     "en": "Csikszereda",
     "ar": "تشيكسيزيريدا"
   },
-  "Portuguese Liga 1": {
+  "portuguese liga 1": {
     "en": "Portuguese Liga 1",
     "ar": "الدوري البرتغالي الممتاز"
   },
-  "Estrela Amadora": {
+  "estrela amadora": {
     "en": "Estrela Amadora",
     "ar": "إستريلا أمادورا"
   },
-  "Famalicão": {
+  "famalico": {
     "en": "Famalicão",
     "ar": "فاماليكاو"
   },
-  "Dutch Eerste Divisie": {
+  "dutch eerste divisie": {
     "en": "Dutch Eerste Divisie",
     "ar": "الدوري الهولندي الدرجة 2"
   },
-  "Dordrecht": {
+  "dordrecht": {
     "en": "Dordrecht",
     "ar": "دوردريخت"
   },
-  "AZ Youths": {
+  "az youths": {
     "en": "AZ Youth",
     "ar": "ألكمار للشباب"
   },
-  "Irish FAI Cup": {
+  "irish fai cup": {
     "en": "Irish FAI Cup",
     "ar": "كأس الاتحاد الأيرلندي"
   },
-  "St Patrick's Athletic": {
+  "st patrick athletic": {
     "en": "St Patrick's Athletic",
     "ar": "سانت باتريكس أثلتيك"
   },
-  "Bohemians": {
+  "bohemians": {
     "en": "Bohemians",
     "ar": "بوهيميانز"
   },
-  "Ireland": {
+  "ireland": {
     "en": "Ireland",
     "ar": "أيرلندا"
   },
-  "French Ligue 1": {
+  "french ligue 1": {
     "en": "French Ligue 1",
     "ar": "الدوري الفرنسي الممتاز"
   },
-  "Lens": {
+  "lens": {
     "en": "Lens",
     "ar": "لانس"
   },
-  "Lorient": {
+  "lorient": {
     "en": "Lorient",
     "ar": "لوريان"
   },
-  "Italian Womens Serie A Cup": {
+  "italian womens serie a cup": {
     "en": "Italian Women's Serie A Cup",
     "ar": "كأس الدوري الإيطالي الممتاز للسيدات"
   },
-  "Roma": {
+  "roma": {
     "en": "Roma",
     "ar": "روما"
   },
-  "Sekhukhune United": {
+  "sekhukhune united": {
     "en": "Sekhukhune United",
     "ar": "سيخوخونه يونايتد"
   },
-  "TS Galaxy": {
+  "ts galaxy": {
     "en": "TS Galaxy",
     "ar": "تي إس غالاكسي"
   },
-  "Slovenian Prva Liga": {
+  "slovenian prva liga": {
     "en": "Slovenian Prva Liga",
     "ar": "الدوري السلوفيني الممتاز"
   },
-  "Aluminij": {
+  "aluminij": {
     "en": "Aluminij",
     "ar": "ألومينيي"
   },
-  "Bravo": {
+  "bravo": {
     "en": "Bravo",
     "ar": "برافو"
   },
-  "Slovenia": {
+  "slovenia": {
     "en": "Slovenia",
     "ar": "سلوفينيا"
   },
-  "Korona Kielce": {
+  "korona kielce": {
     "en": "Korona Kielce",
     "ar": "كورونا كيلتسه"
   },
-  "Wisla Kraków": {
+  "wisla krakw": {
     "en": "Wisła Kraków",
     "ar": "فيسوا كراكوف"
   },
-  "Saudi Pro League": {
+  "saudi pro league": {
     "en": "Saudi Pro League",
     "ar": "الدوري السعودي للمحترفين"
   },
-  "Al Faisaly": {
+  "al faisaly": {
     "en": "Al Faisaly",
     "ar": "الفيصلي"
   },
-  "Al Hazem": {
+  "al hazem": {
     "en": "Al Hazem",
     "ar": "الحزم"
   },
-  "Saudiarabia": {
+  "saudiarabia": {
     "en": "Saudi Arabia",
     "ar": "السعودية"
   },
-  "Al Taawoun": {
+  "al taawoun": {
     "en": "Al Taawoun",
     "ar": "التعاون"
   },
-  "Al Fateh": {
+  "al fateh": {
     "en": "Al Fateh",
     "ar": "الفتح"
   },
-  "Inter Milan": {
+  "inter milan": {
     "en": "Inter Milan",
     "ar": "إنتر ميلان"
   },
-  "Napoli": {
+  "napoli": {
     "en": "Napoli",
     "ar": "نابولي"
   },
-  "Greek Super League 1": {
+  "greek super league 1": {
     "en": "Greek Super League",
     "ar": "الدوري اليوناني الممتاز"
   },
-  "Volos NFC": {
+  "volos nfc": {
     "en": "Volos",
     "ar": "فولوس"
   },
-  "Olympiacos": {
+  "olympiacos": {
     "en": "Olympiacos",
     "ar": "أولمبياكوس"
   },
-  "Greece": {
+  "greece": {
     "en": "Greece",
     "ar": "اليونان"
   },
-  "Rostov": {
+  "rostov": {
     "en": "Rostov",
     "ar": "روستوف"
   },
-  "Fakel Voronezh": {
+  "fakel voronezh": {
     "en": "Fakel Voronezh",
     "ar": "فكيل فورونيج"
   },
-  "Bulgarian First League": {
+  "bulgarian first league": {
     "en": "Bulgarian First League",
     "ar": "الدوري البلغاري الممتاز"
   },
-  "Spartak Varna": {
+  "spartak varna": {
     "en": "Spartak Varna",
     "ar": "سبارتاك فارنا"
   },
-  "CSKA Sofia": {
+  "cska sofia": {
     "en": "CSKA Sofia",
     "ar": "سيسكا صوفيا"
   },
-  "Bulgaria": {
+  "bulgaria": {
     "en": "Bulgaria",
     "ar": "بلغاريا"
   },
-  "Serbian Super League": {
+  "serbian super league": {
     "en": "Serbian Super League",
     "ar": "الدوري الصربي الممتاز"
   },
-  "Radnik Surdulica": {
+  "radnik surdulica": {
     "en": "Radnik Surdulica",
     "ar": "رادنيك سوردوليتسا"
   },
-  "Cukaricki": {
+  "cukaricki": {
     "en": "Čukarički",
     "ar": "تشوكاريتشكي"
   },
-  "Croatian HNL": {
+  "croatian hnl": {
     "en": "Croatian HNL",
     "ar": "الدوري الكرواتي الممتاز"
   },
-  "Dinamo Zagreb": {
+  "dinamo zagreb": {
     "en": "Dinamo Zagreb",
     "ar": "دينامو زغرب"
   },
-  "Gorica": {
+  "gorica": {
     "en": "Gorica",
     "ar": "غوريتسا"
   },
-  "Croatia": {
+  "croatia": {
     "en": "Croatia",
     "ar": "كرواتيا"
   },
-  "Danish Superliga": {
+  "danish superliga": {
     "en": "Danish Superliga",
     "ar": "الدوري الدنماركي الممتاز"
   },
-  "AGF Aarhus": {
+  "agf aarhus": {
     "en": "AGF Aarhus",
     "ar": "إيه جي إف آرهوس"
   },
-  "Silkeborg": {
+  "silkeborg": {
     "en": "Silkeborg",
     "ar": "سيلكيبورغ"
   },
-  "Denmark": {
+  "denmark": {
     "en": "Denmark",
     "ar": "الدنمارك"
   },
-  "Schalke 04": {
+  "schalke 04": {
     "en": "Schalke 04",
     "ar": "شالكه 04"
   },
-  "Bayern Munich": {
+  "bayern munich": {
     "en": "Bayern Munich",
     "ar": "بايرن ميونيخ"
   },
-  "Rayo Vallecano": {
+  "rayo vallecano": {
     "en": "Rayo Vallecano",
     "ar": "رايو فايكانو"
   },
-  "Racing Santander": {
+  "racing santander": {
     "en": "Racing Santander",
     "ar": "راسينغ سانتاندير"
   },
-  "Hull City": {
+  "hull city": {
     "en": "Hull City",
     "ar": "هال سيتي"
   },
-  "Real Valladolid": {
+  "real valladolid": {
     "en": "Real Valladolid",
     "ar": "ريال بلد الوليد"
   },
-  "Andorra": {
+  "andorra": {
     "en": "Andorra",
     "ar": "أندورا"
   },
-  "Fenerbahçe": {
+  "fenerbahe": {
     "en": "Fenerbahçe",
     "ar": "فنربخشه"
   },
-  "Besiktas": {
+  "besiktas": {
     "en": "Beşiktaş",
     "ar": "بشكتاش"
   },
-  "Marítimo": {
+  "martimo": {
     "en": "Marítimo",
     "ar": "ماريتيمو"
   },
-  "Benfica": {
+  "benfica": {
     "en": "Benfica",
     "ar": "بنفيكا"
   },
-  "Alverca": {
+  "alverca": {
     "en": "Alverca",
     "ar": "ألفيركا"
   },
-  "Sporting Braga": {
+  "sporting braga": {
     "en": "Sporting Braga",
     "ar": "سبورتينغ براغا"
   },
-  "Keçiörengücü": {
+  "keirengc": {
     "en": "Keçiörengücü",
     "ar": "كيشيورينغوجو"
   },
-  "Sariyer": {
+  "sariyer": {
     "en": "Sarıyer",
     "ar": "ساريير"
   },
-  "Pendikspor": {
+  "pendikspor": {
     "en": "Pendikspor",
     "ar": "بنديك سبور"
   },
-  "Umraniyespor": {
+  "umraniyespor": {
     "en": "Ümraniyespor",
     "ar": "أومراني سبور"
   },
-  "Varzim": {
+  "varzim": {
     "en": "Varzim",
     "ar": "فارزيم"
   },
-  "Paredes": {
+  "paredes": {
     "en": "Paredes",
     "ar": "باريديس"
   },
-  "Dinamo Bucharest": {
+  "dinamo bucharest": {
     "en": "Dinamo Bucharest",
     "ar": "دينامو بوخارست"
   },
-  "FCSB": {
+  "fcsb": {
     "en": "FCSB",
     "ar": "ستيوا بوخاريست"
   },
-  "Ajax": {
+  "ajax": {
     "en": "Ajax",
     "ar": "أياكس"
   },
-  "PSV Eindhoven": {
+  "psv eindhoven": {
     "en": "PSV Eindhoven",
     "ar": "آيندهوفن"
   },
-  "Al Ittihad": {
+  "al ittihad": {
     "en": "Al Ittihad",
     "ar": "الاتحاد"
   },
-  "Al Nassr": {
+  "al nassr": {
     "en": "Al Nassr",
     "ar": "النصر"
   },
-  "AEK Athens": {
+  "aek athens": {
     "en": "AEK Athens",
     "ar": "أييك أثينا"
   },
-  "Aris Thessaloniki": {
+  "aris thessaloniki": {
     "en": "Aris Thessaloniki",
     "ar": "أريس سالونيكا"
   },
-  "St Etienne": {
+  "st etienne": {
     "en": "Saint-Étienne",
     "ar": "سانت إيتيان"
   },
-  "Montpellier": {
+  "montpellier": {
     "en": "Montpellier",
     "ar": "مونبلييه"
   },
-  "Mladost Lucani": {
+  "mladost lucani": {
     "en": "Mladost Lučani",
     "ar": "ملادوست لوتشاني"
   },
-  "Radnicki Nis": {
+  "radnicki nis": {
     "en": "Radnički Niš",
     "ar": "رادنيتشكي نيش"
   },
-  "Macva Sabac": {
+  "macva sabac": {
     "en": "Mačva Šabac",
     "ar": "ماتشوا شاباتس"
   },
-  "Radnicki 1923": {
+  "radnicki 1923": {
     "en": "Radnički 1923",
     "ar": "رادنيتشكي 1923"
   },
-  "Olimpija": {
+  "olimpija": {
     "en": "Olimpija",
     "ar": "أولمبيا"
   },
-  "Brinje Grosuplje": {
+  "brinje grosuplje": {
     "en": "Brinje Grosuplje",
     "ar": "برينيه غروسوبليه"
   },
-  "Motor Lublin": {
+  "motor lublin": {
     "en": "Motor Lublin",
     "ar": "موتور لوبلين"
   },
-  "Legia Warsaw": {
+  "legia warsaw": {
     "en": "Legia Warsaw",
     "ar": "ليغيا وارسو"
   },
-  "Levski Sofia": {
+  "levski sofia": {
     "en": "Levski Sofia",
     "ar": "ليفسي صوفيا"
   },
-  "CSKA 1948 Sofia": {
+  "cska 1948 sofia": {
     "en": "CSKA 1948 Sofia",
     "ar": "سيسكا 1948 صوفيا"
   },
-  "Dynamo Dresden": {
+  "dynamo dresden": {
     "en": "Dynamo Dresden",
     "ar": "دينامو دريسدن"
   },
-  "Bochum": {
+  "bochum": {
     "en": "Bochum",
     "ar": "بوخوم"
   },
-  "Atalanta": {
+  "atalanta": {
     "en": "Atalanta",
     "ar": "أتالانتا"
   },
-  "Le Havre": {
+  "le havre": {
     "en": "Le Havre",
     "ar": "لوهافر"
   },
-  "Brest": {
+  "brest": {
     "en": "Brest",
     "ar": "بريست"
   },
-  "Nice": {
+  "nice": {
     "en": "Nice",
     "ar": "نيس"
   },
-  "Le Mans": {
+  "le mans": {
     "en": "Le Mans",
     "ar": "لو مان"
   },
-  "Villarreal": {
+  "villarreal": {
     "en": "Villarreal",
     "ar": "فياريال"
   },
-  "Deportivo A Coruña": {
+  "deportivo a corua": {
     "en": "Deportivo La Coruña",
     "ar": "ديبورتيفو لاكورونيا"
   },
-  "Scottish Premiership": {
+  "scottish premiership": {
     "en": "Scottish Premiership",
     "ar": "الدوري الإسكتلندي الممتاز"
   },
-  "St Mirren": {
+  "st mirren": {
     "en": "St Mirren",
     "ar": "سانت ميرين"
   },
-  "Celtic": {
+  "celtic": {
     "en": "Celtic",
     "ar": "سلتيك"
   },
-  "Scotland": {
+  "scotland": {
     "en": "Scotland",
     "ar": "اسكتلندا"
   },
-  "Brazilian Série A": {
+  "brazilian srie a": {
     "en": "Brazilian Serie A",
     "ar": "الدوري البرازيلي الممتاز"
   },
-  "Bragantino": {
+  "bragantino": {
     "en": "Bragantino",
     "ar": "براغانتينو"
   },
-  "Bahia": {
+  "bahia": {
     "en": "Bahia",
     "ar": "باهيا"
   },
-  "Brazil": {
+  "brazil": {
     "en": "Brazil",
     "ar": "البرازيل"
   },
-  "Swansea City": {
+  "swansea city": {
     "en": "Swansea City",
     "ar": "سوانزي سيتي"
   },
-  "Wrexham": {
+  "wrexham": {
     "en": "Wrexham",
     "ar": "ريكسهام"
   },
-  "Rijeka": {
+  "rijeka": {
     "en": "Rijeka",
     "ar": "رييكا"
   },
-  "Osijek": {
+  "osijek": {
     "en": "Osijek",
     "ar": "أوسييك"
   },
-  "Eldense": {
+  "eldense": {
     "en": "Eldense",
     "ar": "إلدينسي"
   },
-  "Mallorca": {
+  "mallorca": {
     "en": "Mallorca",
     "ar": "مايوركا"
   },
-  "Willem II": {
+  "willem ii": {
     "en": "Willem II",
     "ar": "فيليم 2"
   },
-  "Excelsior": {
+  "excelsior": {
     "en": "Excelsior",
     "ar": "إكسلسيور"
   },
-  "French Féminine Première Ligue": {
+  "french fminine premire ligue": {
     "en": "French Féminine Première Ligue",
     "ar": "الدوري الفرنسي الممتاز للسيدات"
   },
-  "Marseille": {
+  "marseille": {
     "en": "Marseille",
     "ar": "مارسيليا"
   },
-  "Argentinean Primera División - Clausura": {
+  "argentinean primera divisin clausura": {
     "en": "Argentine Primera División - Clausura",
     "ar": "الدوري الأرجنتيني الممتاز - كلاوسورا"
   },
-  "Gimnasia Mendoza": {
+  "gimnasia mendoza": {
     "en": "Gimnasia Mendoza",
     "ar": "خيمناسيا ميندوزا"
   },
-  "Boca Juniors": {
+  "boca juniors": {
     "en": "Boca Juniors",
     "ar": "بوكا جونيورز"
   },
-  "Argentina": {
+  "argentina": {
     "en": "Argentina",
     "ar": "الأرجنتين"
   },
-  "Nacional Madeira": {
+  "nacional madeira": {
     "en": "Nacional Madeira",
     "ar": "ناسيونال ماديرا"
   },
-  "São Paulo": {
+  "so paulo": {
     "en": "São Paulo",
     "ar": "ساو باولو"
   },
-  "Atlético Mineiro": {
+  "atltico mineiro": {
     "en": "Atlético Mineiro",
     "ar": "أتلتيكو مينيرو"
   },
-  "San Lorenzo": {
+  "san lorenzo": {
     "en": "San Lorenzo",
     "ar": "سان لورينزو"
   },
-  "Talleres Córdoba": {
+  "talleres crdoba": {
     "en": "Talleres Córdoba",
     "ar": "تاليريس كوردوبا"
   }
