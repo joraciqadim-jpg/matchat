@@ -1,21 +1,65 @@
 {
-  "Podhale Nowy Targ": {
+  "inter": {
+    "en": "Inter Milan",
+    "ar": "إنتر ميلان"
+  },
+  "preston": {
+    "en": "Preston North End",
+    "ar": "بريستون نورث إند"
+  },
+  "blackburn": {
+    "en": "Blackburn Rovers",
+    "ar": "بلاكبيرن روفرز"
+  },
+  "swansea": {
+    "en": "Swansea City",
+    "ar": "سوانزي سيتي"
+  },
+  "beikta": {
+    "en": "Beşiktaş",
+    "ar": "بشكتاش"
+  },
+  "bundesliga": {
+    "en": "Bundesliga",
+    "ar": "الدوري الألماني"
+  },
+  "schalke": {
+    "en": "Schalke 04",
+    "ar": "شالكه 04"
+  },
+  "vriendenloterij eredivisie": {
+    "en": "VriendenLoterij Eredivisie",
+    "ar": "الدوري الهولندي الممتاز"
+  },
+  "nec": {
+    "en": "NEC Nijmegen",
+    "ar": "إن إي سي نايميخن"
+  },
+  "netherlands": {
+    "en": "Netherlands",
+    "ar": "هولندا"
+  },
+  "psv": {
+    "en": "PSV Eindhoven",
+    "ar": "آيندهوفن"
+  },
+  "podhale nowy targ": {
     "en": "Podhale Nowy Targ",
     "ar": "بودهايله نوي تارغ"
   },
-  "English FA Cup": {
+  "english fa cup": {
     "en": "English FA Cup",
     "ar": "كأس الاتحاد الإنجليزي"
   },
-  "Knowle": {
+  "knowle": {
     "en": "Knowle",
     "ar": "نول"
   },
-  "Worcester City": {
+  "worcester city": {
     "en": "Worcester City",
     "ar": "وورسيستر سيتي"
   },
-  "Dordrecht": {
+  "dordrecht": {
     "en": "Dordrecht",
     "ar": "دوردريخت"
   },
