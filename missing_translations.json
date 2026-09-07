@@ -1,13 +1,53 @@
 {
-  "Chernomorets Burgas": {
+  "aek": {
+    "en": "AEK",
+    "ar": "أيك"
+  },
+  "lask": {
+    "en": "LASK",
+    "ar": "لاسک"
+  },
+  "europe": {
+    "en": "Europe",
+    "ar": "أوروبا"
+  },
+  "club brugge": {
+    "en": "Club Brugge",
+    "ar": "كلوب بروج"
+  },
+  "dortmund": {
+    "en": "Dortmund",
+    "ar": "دورتموند"
+  },
+  "porto": {
+    "en": "Porto",
+    "ar": "بورتو"
+  },
+  "efl cup": {
+    "en": "EFL Cup",
+    "ar": "كأس رابطة الأندية الإنجليزية"
+  },
+  "lincoln": {
+    "en": "Lincoln",
+    "ar": "لينكولن"
+  },
+  "leyton orient": {
+    "en": "Leyton Orient",
+    "ar": "ليتون أورينت"
+  },
+  "bradford": {
+    "en": "Bradford",
+    "ar": "برادفورد"
+  },
+  "chernomorets burgas": {
     "en": "Chernomorets Burgas",
     "ar": "تشيرنوموريتس بورغاس"
   },
-  "Aris Limassol": {
+  "aris limassol": {
     "en": "Aris Limassol",
     "ar": "أريس ليماسول"
   },
-  "Bromley": {
+  "bromley": {
     "en": "Bromley",
     "ar": "بروملي"
   },
