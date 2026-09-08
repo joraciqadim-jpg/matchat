@@ -268,8 +268,28 @@
       ]
     },
     {
-      "tournamentEn": "🏆 EFL Cup",
-      "tournamentAr": "🏆 كأس رابطة الأندية الإنجليزية المحترفة",
+      "tournamentEn": "🇬🇧 English Championship",
+      "tournamentAr": "🇬🇧 دوري البطولة الإنجليزية",
+      "matchEn": "Bolton v West Ham",
+      "matchAr": "بولتون × وست هام",
+      "time": "19:00",
+      "channels": [
+        "📺 BeIn Sports Xtra 4 [Badrsat 26.0E 10810 V 27500]",
+        "📺 BeIn Sports Xtra 4 [Nilesat 7.0W 12188 H 27500]",
+        "📺 Cosmote Sport 8 [Hotbird 13.0E 12130 H 30000]",
+        "📺 Diema Sport 3 [Hotbird 13.0E 12673 V 30000]",
+        "📺 Arena Sport 1 SRB [Eutelsat 16.0E 11366 V 30000]",
+        "📺 Arena Sport 6 HRV [Eutelsat 16.0E 11554 V 30000]",
+        "📺 Super Sport 2 [Eutelsat 16.0E 10845 H 30000]",
+        "📺 Sky Sport Premier League [Astra 19.2E 12032 H 27500]",
+        "📺 Sport TV 2 [Hispasat 30W 12360 H 27500]",
+        "📺 Sport 1 [Amos] [Amos 4.0W 11259 V 30000]",
+        "📺 Sky Sports Football [Astra 28.2E 12012 V 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "🏆 English EFL Cup",
+      "tournamentAr": "🏆 كأس رابطة الأندية الإنجليزية",
       "matchEn": "Bournemouth v Lincoln",
       "matchAr": "بورنموث × لينكولن",
       "time": "18:45",
@@ -282,8 +302,8 @@
       ]
     },
     {
-      "tournamentEn": "🏆 EFL Cup",
-      "tournamentAr": "🏆 كأس رابطة الأندية الإنجليزية المحترفة",
+      "tournamentEn": "🏆 English EFL Cup",
+      "tournamentAr": "🏆 كأس رابطة الأندية الإنجليزية",
       "matchEn": "Crystal Palace v Middlesbrough",
       "matchAr": "كريستال بالاس × ميدلزبره",
       "time": "18:45",
@@ -302,8 +322,8 @@
       ]
     },
     {
-      "tournamentEn": "🏆 EFL Cup",
-      "tournamentAr": "🏆 كأس رابطة الأندية الإنجليزية المحترفة",
+      "tournamentEn": "🏆 English EFL Cup",
+      "tournamentAr": "🏆 كأس رابطة الأندية الإنجليزية",
       "matchEn": "Leyton Orient v Bradford",
       "matchAr": "ليتون أورينت × برادفورد",
       "time": "18:45",
@@ -312,8 +332,8 @@
       ]
     },
     {
-      "tournamentEn": "🏆 EFL Cup",
-      "tournamentAr": "🏆 كأس رابطة الأندية الإنجليزية المحترفة",
+      "tournamentEn": "🏆 English EFL Cup",
+      "tournamentAr": "🏆 كأس رابطة الأندية الإنجليزية",
       "matchEn": "Sunderland v Hull City",
       "matchAr": "سندرلاند × هال سيتي",
       "time": "18:45",
@@ -329,8 +349,8 @@
       ]
     },
     {
-      "tournamentEn": "🏆 EFL Cup",
-      "tournamentAr": "🏆 كأس رابطة الأندية الإنجليزية المحترفة",
+      "tournamentEn": "🏆 English EFL Cup",
+      "tournamentAr": "🏆 كأس رابطة الأندية الإنجليزية",
       "matchEn": "Millwall v Newcastle United",
       "matchAr": "ميلوول × نيوكاسل يونايتد",
       "time": "19:00",
@@ -368,26 +388,6 @@
       "time": "17:00",
       "channels": [
         "📺 On Sport 1 [Nilesat 7.0W 11862 V 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🏁 EFL Championship",
-      "tournamentAr": "🏁 دوري البطولة الإنجليزية",
-      "matchEn": "Bolton v West Ham",
-      "matchAr": "بولتون × وست هام",
-      "time": "19:00",
-      "channels": [
-        "📺 BeIn Sports Xtra 4 [Badrsat 26.0E 10810 V 27500]",
-        "📺 BeIn Sports Xtra 4 [Nilesat 7.0W 12188 H 27500]",
-        "📺 Cosmote Sport 8 [Hotbird 13.0E 12130 H 30000]",
-        "📺 Diema Sport 3 [Hotbird 13.0E 12673 V 30000]",
-        "📺 Arena Sport 1 SRB [Eutelsat 16.0E 11366 V 30000]",
-        "📺 Arena Sport 6 HRV [Eutelsat 16.0E 11554 V 30000]",
-        "📺 Super Sport 2 [Eutelsat 16.0E 10845 H 30000]",
-        "📺 Sky Sport Premier League [Astra 19.2E 12032 H 27500]",
-        "📺 Sport TV 2 [Hispasat 30W 12360 H 27500]",
-        "📺 Sport 1 [Amos] [Amos 4.0W 11259 V 30000]",
-        "📺 Sky Sports Football [Astra 28.2E 12012 V 27500]"
       ]
     }
   ]
