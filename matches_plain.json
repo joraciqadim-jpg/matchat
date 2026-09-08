@@ -1,7 +1,7 @@
 {
   "matches": [
     {
-      "tournamentEn": "🛡️ UEFA Champions League",
+      "tournamentEn": "🛡️ Uefa Champions League",
       "tournamentAr": "🛡️ دوري أبطال أوروبا",
       "matchEn": "AEK (Greece) v LASK (Austria)",
       "matchAr": "أيك (اليونان) × لاسک (النمسا)",
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "tournamentEn": "🛡️ UEFA Champions League",
+      "tournamentEn": "🛡️ Uefa Champions League",
       "tournamentAr": "🛡️ دوري أبطال أوروبا",
       "matchEn": "Club Brugge (Belgium) v Aston Villa (England)",
       "matchAr": "كلوب بروج (بلجيكا) × أستون فيلا (إنجلترا)",
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "tournamentEn": "🛡️ UEFA Champions League",
+      "tournamentEn": "🛡️ Uefa Champions League",
       "tournamentAr": "🛡️ دوري أبطال أوروبا",
       "matchEn": "Dortmund (Germany) v Villarreal (Spain)",
       "matchAr": "دورتموند (ألمانيا) × فياريال (إسبانيا)",
@@ -109,7 +109,7 @@
       ]
     },
     {
-      "tournamentEn": "🛡️ UEFA Champions League",
+      "tournamentEn": "🛡️ Uefa Champions League",
       "tournamentAr": "🛡️ دوري أبطال أوروبا",
       "matchEn": "Porto (Portugal) v Manchester City (England)",
       "matchAr": "بورتو (البرتغال) × مانشستر سيتي (إنجلترا)",
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "tournamentEn": "🛡️ UEFA Champions League",
+      "tournamentEn": "🛡️ Uefa Champions League",
       "tournamentAr": "🛡️ دوري أبطال أوروبا",
       "matchEn": "Lille (France) v Real Betis (Spain)",
       "matchAr": "ليل (فرنسا) × ريال بيتيس (إسبانيا)",
@@ -179,7 +179,7 @@
       ]
     },
     {
-      "tournamentEn": "🛡️ UEFA Champions League",
+      "tournamentEn": "🛡️ Uefa Champions League",
       "tournamentAr": "🛡️ دوري أبطال أوروبا",
       "matchEn": "Real Madrid (Spain) v Inter Milan (Italy)",
       "matchAr": "ريال مدريد (إسبانيا) × إنتر ميلان (إيطاليا)",
@@ -225,28 +225,8 @@
       ]
     },
     {
-      "tournamentEn": "🇬🇧 English Premier League",
-      "tournamentAr": "🇬🇧 الدوري الإنجليزي الممتاز",
-      "matchEn": "Smouha v Cleopatra FC",
-      "matchAr": "سموحة × كليوباترا",
-      "time": "17:00",
-      "channels": [
-        "📺 On Sport MAX [Nilesat 7.0W 11977 V 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🇬🇧 English Premier League",
-      "tournamentAr": "🇬🇧 الدوري الإنجليزي الممتاز",
-      "matchEn": "Zamalek v Abu Qir Fertilizers",
-      "matchAr": "الزمالك × أبو قير للأسمدة",
-      "time": "17:00",
-      "channels": [
-        "📺 On Sport 1 [Nilesat 7.0W 11862 V 27500]"
-      ]
-    },
-    {
       "tournamentEn": "🇸🇦 Saudi Pro League",
-      "tournamentAr": "🇸🇦 الدوري السعودي الممتاز",
+      "tournamentAr": "🇸🇦 دوري روشن السعودي",
       "matchEn": "Al-Ettifaq v Al Faisaly",
       "matchAr": "الاتفاق × الفيصلي",
       "time": "15:30",
@@ -258,7 +238,7 @@
     },
     {
       "tournamentEn": "🇸🇦 Saudi Pro League",
-      "tournamentAr": "🇸🇦 الدوري السعودي الممتاز",
+      "tournamentAr": "🇸🇦 دوري روشن السعودي",
       "matchEn": "Al-Ittihad v Al-Fayha",
       "matchAr": "الاتحاد × الفيحاء",
       "time": "18:00",
@@ -270,7 +250,7 @@
     },
     {
       "tournamentEn": "🇸🇦 Saudi Pro League",
-      "tournamentAr": "🇸🇦 الدوري السعودي الممتاز",
+      "tournamentAr": "🇸🇦 دوري روشن السعودي",
       "matchEn": "Al-Qadsiah v Al-Ahli",
       "matchAr": "القادسية × الأهلي",
       "time": "18:00",
@@ -288,28 +268,8 @@
       ]
     },
     {
-      "tournamentEn": "🇬🇧 English Championship",
-      "tournamentAr": "🇬🇧 دوري البطولة الإنجليزية",
-      "matchEn": "Bolton v West Ham",
-      "matchAr": "بولتون × وست هام",
-      "time": "19:00",
-      "channels": [
-        "📺 BeIn Sports Xtra 4 [Badrsat 26.0E 10810 V 27500]",
-        "📺 BeIn Sports Xtra 4 [Nilesat 7.0W 12188 H 27500]",
-        "📺 Cosmote Sport 8 [Hotbird 13.0E 12130 H 30000]",
-        "📺 Diema Sport 3 [Hotbird 13.0E 12673 V 30000]",
-        "📺 Arena Sport 1 SRB [Eutelsat 16.0E 11366 V 30000]",
-        "📺 Arena Sport 6 HRV [Eutelsat 16.0E 11554 V 30000]",
-        "📺 Super Sport 2 [Eutelsat 16.0E 10845 H 30000]",
-        "📺 Sky Sport Premier League [Astra 19.2E 12032 H 27500]",
-        "📺 Sport TV 2 [Hispasat 30W 12360 H 27500]",
-        "📺 Sport 1 [Amos] [Amos 4.0W 11259 V 30000]",
-        "📺 Sky Sports Football [Astra 28.2E 12012 V 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🏆 EFL Cup",
-      "tournamentAr": "🏆 كأس رابطة الأندية الإنجليزية",
+      "tournamentEn": "🏆 Efl Cup",
+      "tournamentAr": "🏆 كأس رابطة الدوري الإنجليزي",
       "matchEn": "Bournemouth v Lincoln",
       "matchAr": "بورنموث × لينكولن",
       "time": "18:45",
@@ -322,8 +282,8 @@
       ]
     },
     {
-      "tournamentEn": "🏆 EFL Cup",
-      "tournamentAr": "🏆 كأس رابطة الأندية الإنجليزية",
+      "tournamentEn": "🏆 Efl Cup",
+      "tournamentAr": "🏆 كأس رابطة الدوري الإنجليزي",
       "matchEn": "Crystal Palace v Middlesbrough",
       "matchAr": "كريستال بالاس × ميدلزبره",
       "time": "18:45",
@@ -342,8 +302,8 @@
       ]
     },
     {
-      "tournamentEn": "🏆 EFL Cup",
-      "tournamentAr": "🏆 كأس رابطة الأندية الإنجليزية",
+      "tournamentEn": "🏆 Efl Cup",
+      "tournamentAr": "🏆 كأس رابطة الدوري الإنجليزي",
       "matchEn": "Leyton Orient v Bradford",
       "matchAr": "ليتون أورينت × برادفورد",
       "time": "18:45",
@@ -352,8 +312,8 @@
       ]
     },
     {
-      "tournamentEn": "🏆 EFL Cup",
-      "tournamentAr": "🏆 كأس رابطة الأندية الإنجليزية",
+      "tournamentEn": "🏆 Efl Cup",
+      "tournamentAr": "🏆 كأس رابطة الدوري الإنجليزي",
       "matchEn": "Sunderland v Hull City",
       "matchAr": "سندرلاند × هال سيتي",
       "time": "18:45",
@@ -369,8 +329,8 @@
       ]
     },
     {
-      "tournamentEn": "🏆 EFL Cup",
-      "tournamentAr": "🏆 كأس رابطة الأندية الإنجليزية",
+      "tournamentEn": "🏆 Efl Cup",
+      "tournamentAr": "🏆 كأس رابطة الدوري الإنجليزي",
       "matchEn": "Millwall v Newcastle United",
       "matchAr": "ميلوول × نيوكاسل يونايتد",
       "time": "19:00",
@@ -388,6 +348,46 @@
         "📺 Sport 4 [Amos] [Amos 4.0W 11259 V 30000]",
         "📺 V Sport + [Thor 0.8W 10809 V 25000]",
         "📺 Sky Sports Main Event [Astra 28.2E 12012 V 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "🏁 Premier League",
+      "tournamentAr": "🏁 الدوري المصري الممتاز",
+      "matchEn": "Smouha v Cleopatra FC",
+      "matchAr": "سموحة × كليوباترا",
+      "time": "17:00",
+      "channels": [
+        "📺 On Sport MAX [Nilesat 7.0W 11977 V 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "🏁 Premier League",
+      "tournamentAr": "🏁 الدوري المصري الممتاز",
+      "matchEn": "Zamalek v Abu Qir Fertilizers",
+      "matchAr": "الزمالك × أبو قير للأسمدة",
+      "time": "17:00",
+      "channels": [
+        "📺 On Sport 1 [Nilesat 7.0W 11862 V 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "🏁 Championship",
+      "tournamentAr": "🏁 تشامبيونشيب",
+      "matchEn": "Bolton v West Ham",
+      "matchAr": "بولتون × وست هام",
+      "time": "19:00",
+      "channels": [
+        "📺 BeIn Sports Xtra 4 [Badrsat 26.0E 10810 V 27500]",
+        "📺 BeIn Sports Xtra 4 [Nilesat 7.0W 12188 H 27500]",
+        "📺 Cosmote Sport 8 [Hotbird 13.0E 12130 H 30000]",
+        "📺 Diema Sport 3 [Hotbird 13.0E 12673 V 30000]",
+        "📺 Arena Sport 1 SRB [Eutelsat 16.0E 11366 V 30000]",
+        "📺 Arena Sport 6 HRV [Eutelsat 16.0E 11554 V 30000]",
+        "📺 Super Sport 2 [Eutelsat 16.0E 10845 H 30000]",
+        "📺 Sky Sport Premier League [Astra 19.2E 12032 H 27500]",
+        "📺 Sport TV 2 [Hispasat 30W 12360 H 27500]",
+        "📺 Sport 1 [Amos] [Amos 4.0W 11259 V 30000]",
+        "📺 Sky Sports Football [Astra 28.2E 12012 V 27500]"
       ]
     }
   ]
