@@ -1,4 +1,32 @@
 {
+  "charlton": {
+    "en": "Charlton Athletic",
+    "ar": "تشارلتون أثلتيك"
+  },
+  "qpr": {
+    "en": "Queens Park Rangers",
+    "ar": "كوينز بارك رينجرز"
+  },
+  "south america conmebol libertadores": {
+    "en": "CONMEBOL Libertadores",
+    "ar": "كوبا ليبرتادوريس"
+  },
+  "south america": {
+    "en": "South America",
+    "ar": "أمريكا الجنوبية"
+  },
+  "ldu": {
+    "en": "LDU Quito",
+    "ar": "إل دي يو كيتو"
+  },
+  "estudiantes": {
+    "en": "Estudiantes",
+    "ar": "إستوديانتس"
+  },
+  "scotland scottish premiership": {
+    "en": "Scottish Premiership",
+    "ar": "الدوري الاسكتلندي الممتاز"
+  },
   "diriyah": {
     "en": "Diriyah",
     "ar": "الدرعية"
