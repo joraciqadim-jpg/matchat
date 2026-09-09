@@ -127,11 +127,9 @@
         "📺 SuperSport Football Plus [Eutelsat 36.0E 12284 H 27500]",
         "📺 SuperSport Grandstand [Eutelsat 36.0E 12341 V 27500]",
         "📺 SuperSport Máximo 1 [Eutelsat 36.0E 12169 H 27500]",
-        "📺 Ictimai TV [Azerspace 46.0E 11175 H 30000]",
         "📺 Meraj TV [TurkmenÄlem 52.0E 11221 V 27500]",
         "📺 Persiana Sports 2 [TurkmenÄlem 52.0E 11343 H 27500]",
         "📺 QazSport [KazSat-3 58.5E 12657 V 45000]",
-        "📺 Sony Sports Ten 1 [SES 108.3E 11483 H 29000]",
         "📺 Sony Sports Ten 5 [SES 108.3E 11483 H 29000]"
       ]
     },
@@ -299,23 +297,14 @@
       "matchAr": "تشارلتون أثلتيك × كوينز بارك رينجرز",
       "time": "19:00",
       "channels": [
-        "📺 Bein Sport 2 [Badrsat 26.0E 10810 H 27500]",
-        "📺 Bein Sport 2 [Nilesat 7.0W 11013 H 27500]",
         "📺 BeIn Sports Xtra 1 [Badrsat 26.0E 10850 H 27500]",
         "📺 BeIn Sports Xtra 1 [Nilesat 7.0W 12188 H 27500]",
         "📺 Cosmote Sport 8 [Hotbird 13.0E 12130 H 30000]",
         "📺 Diema Sport 3 [Hotbird 13.0E 12673 V 30000]",
         "📺 Arena Sport 1 SRB [Eutelsat 16.0E 11366 V 30000]",
-        "📺 Arena Sport 3 HRV [Eutelsat 16.0E 11512 H 30000]",
-        "📺 Arena Sport 3 SRB [Eutelsat 16.0E 10721 H 30000]",
         "📺 Arena Sport 6 HRV [Eutelsat 16.0E 11554 V 30000]",
-        "📺 BeIn Sports Max 5 France [Astra 19.2E 12324 V 29700]",
-        "📺 BeIn Sports Max 6 France [Astra 19.2E 12324 V 29700]",
-        "📺 Sport TV 3 [Hispasat 30W 12360 H 27500]",
         "📺 Sport TV 6 [Hispasat 30W 12360 H 27500]",
-        "📺 V Sport 3 [Thor 0.8W 10809 V 25000]",
-        "📺 Sky Sports Football [Astra 28.2E 12012 V 27500]",
-        "📺 Sky Sports+ ( Arena سابقا ) [Astra 28.2E 12226 H 27500]"
+        "📺 V Sport 3 [Thor 0.8W 10809 V 25000]"
       ]
     },
     {
@@ -367,28 +356,6 @@
     {
       "tournamentEn": "🛡️ CONMEBOL Libertadores",
       "tournamentAr": "🛡️ كوبا ليبرتادوريس",
-      "matchEn": "Fluminense (Brazil) v Platense (Argentina)",
-      "matchAr": "فلومينينسي (البرازيل) × بلاتينسي (الأرجنتين)",
-      "time": "22:00",
-      "channels": [
-        "📺 Bein Sport 2 [Badrsat 26.0E 10810 H 27500]",
-        "📺 Bein Sport 2 [Nilesat 7.0W 11013 H 27500]",
-        "📺 BeIn Sports English 1 [Badrsat 26.0E 10850 V 27500]",
-        "📺 Bein Sport 1 [Badrsat 26.0E 10810 H 27500]",
-        "📺 Bein Sport 1 [Nilesat 7.0W 11013 H 27500]",
-        "📺 ERT 2 [Hotbird 13.0E 12169 H 30000]",
-        "📺 ERT 2 [Hellas-Sat 39.0E 12242 H 13381]",
-        "📺 Arena Premium 1 SRB [Eutelsat 16.0E 11366 V 30000]",
-        "📺 Arena Sport 1 BIH [Eutelsat 16.0E 11678 V 30000]",
-        "📺 Arena Sport 1 HRV [Eutelsat 16.0E 11678 H 30000]",
-        "📺 Sport TV 1 [Hispasat 30W 12360 H 27500]",
-        "📺 Sport 4 [Amos 4.0W 11259 V 30000]",
-        "📺 Max Sport 4 [BulgariaSat 1.9E 12303 H 30000]"
-      ]
-    },
-    {
-      "tournamentEn": "🛡️ CONMEBOL Libertadores",
-      "tournamentAr": "🛡️ كوبا ليبرتادوريس",
       "matchEn": "Palmeiras (Brazil) v LDU Quito (Ecuador)",
       "matchAr": "بالميراس (البرازيل) × إل دي يو كيتو (الإكوادور)",
       "time": "22:00",
@@ -430,19 +397,6 @@
     {
       "tournamentEn": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scottish Premiership",
       "tournamentAr": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 الدوري الاسكتلندي الممتاز",
-      "matchEn": "Rangers v St. Mirren",
-      "matchAr": "رينجرز × سانت ميرين",
-      "time": "18:45",
-      "channels": [
-        "📺 Cosmote Sport 9 [Hotbird 13.0E 12130 H 30000]",
-        "📺 Polsat Sport Extra 2 [Hotbird 13.0E 12265 V 27500]",
-        "📺 Sport TV 3 [Hispasat 30W 12360 H 27500]",
-        "📺 Digi Sport 4 [Thor 0.8W 12687 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scottish Premiership",
-      "tournamentAr": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 الدوري الاسكتلندي الممتاز",
       "matchEn": "St. Johnstone v Celtic",
       "matchAr": "سانت جونستون × سلتيك",
       "time": "19:00",
@@ -463,6 +417,7 @@
       "matchAr": "سانتوس (البرازيل) × أتلتيكو مينيرو (البرازيل)",
       "time": "22:00",
       "channels": [
+        "📺 BeIn Sports English 1 [Badrsat 26.0E 10850 V 27500]",
         "📺 Arena Premium 1 BIH [Eutelsat 16.0E 11595 V 30000]",
         "📺 Arena Premium 2 SRB [Eutelsat 16.0E 11429 V 28330]",
         "📺 Arena Sport 2 HRV [Eutelsat 16.0E 11554 V 30000]",
@@ -470,6 +425,61 @@
         "📺 Sportdigital Fussball [Astra 19.2E 11186 V 22000]",
         "📺 Sport TV 2 [Hispasat 30W 12360 H 27500]",
         "📺 Sport 4 [Amos 4.0W 11259 V 30000]"
+      ]
+    },
+    {
+      "tournamentEn": "🇪🇬 Egyptian Premier League",
+      "tournamentAr": "🇪🇬 الدوري المصري الممتاز",
+      "matchEn": "Modern Sport v Wadi Degla",
+      "matchAr": "مودرن سبورت × وادي دجلة",
+      "time": "14:00",
+      "channels": [
+        "📺 On Sport Plus [Nilesat 7.0W 11977 V 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "🇪🇬 Egyptian Premier League",
+      "tournamentAr": "🇪🇬 الدوري المصري الممتاز",
+      "matchEn": "Pyramids v El Gouna",
+      "matchAr": "بيراميدز × الجونة",
+      "time": "14:00",
+      "channels": [
+        "📺 On Sport MAX [Nilesat 7.0W 11977 V 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "🇪🇬 Egyptian Premier League",
+      "tournamentAr": "🇪🇬 الدوري المصري الممتاز",
+      "matchEn": "Arab Contractors v Al Ahly",
+      "matchAr": "المقاولون العرب × الأهلي",
+      "time": "17:00",
+      "channels": [
+        "📺 On Sport 1 [Nilesat 7.0W 11862 V 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "🇪🇬 Egyptian Premier League",
+      "tournamentAr": "🇪🇬 الدوري المصري الممتاز",
+      "matchEn": "El Sharkia ENPPI v ZED",
+      "matchAr": "الشرقية إنبي × زد",
+      "time": "17:00",
+      "channels": [
+        "📺 On Sport MAX [Nilesat 7.0W 11977 V 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "🇵🇹 Liga Portugal Betclic",
+      "tournamentAr": "🇵🇹 الدوري البرتغالي الممتاز",
+      "matchEn": "Moreirense v Benfica",
+      "matchAr": "موريرينسي × بنفيكا",
+      "time": "19:45",
+      "channels": [
+        "📺 Arena Sport 1 SVK [Eutelsat 16.0E 11055 V 27500]",
+        "📺 Arena Sport 1 SVK [Thor 0.8W 12456 V 30000]",
+        "📺 Arena Sport 1 SVK [Eutelsat 23.5E 12012 V 29900]",
+        "📺 TVI [Hispasat 30W 12130 H 27500]",
+        "📺 Sport 3 [Amos 4.0W 11259 V 30000]",
+        "📺 Match! Futbol 3 [Eutelsat 80.0E 11044 V 45000]"
       ]
     }
   ]
