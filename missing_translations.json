@@ -1,15 +1,67 @@
 {
-  "Boyacá Chicó": {
-    "en": "Boyacá Chicó",
-    "ar": "بوياكا تشيكو"
-  },
-  "Shakhtar Donetsk": {
+  "shakhtar": {
     "en": "Shakhtar Donetsk",
     "ar": "شاختار دونيتسك"
   },
-  "Stevenage": {
+  "leipzig": {
+    "en": "RB Leipzig",
+    "ar": "لايبزيغ"
+  },
+  "slavia praha": {
+    "en": "Slavia Prague",
+    "ar": "سلافيا براغ"
+  },
+  "ind del valle": {
+    "en": "Independiente del Valle",
+    "ar": "إنديبندينتي ديل فايي"
+  },
+  "england league one": {
+    "en": "English League One",
+    "ar": "الدوري الإنجليزي الدرجة 1"
+  },
+  "stevenage": {
     "en": "Stevenage",
-    "ar": "ستيفينيدج"
+    "ar": "ستيفيناج"
+  },
+  "luton": {
+    "en": "Luton",
+    "ar": "لوتون"
+  },
+  "alwakrah": {
+    "en": "Al Wakrah",
+    "ar": "الوكرة"
+  },
+  "al shamal sc": {
+    "en": "Al Shamal",
+    "ar": "الشمال"
+  },
+  "alsailiya": {
+    "en": "Al Sailiya",
+    "ar": "السيلية"
+  },
+  "alsadd": {
+    "en": "Al Sadd",
+    "ar": "السد"
+  },
+  "united arab emirates uae pro league": {
+    "en": "United Arab Emirates Pro League",
+    "ar": "الدوري الإماراتي للمحترفين"
+  },
+  "aljazira": {
+    "en": "Al Jazira",
+    "ar": "الجزيرة"
+  },
+  "alnasr dubai": {
+    "en": "Al Nasr Dubai",
+    "ar": "النصر دبي"
+  },
+  "united": {
+    "en": "United",
+    "ar": "يونايتد"
+  },
+  "shabab alahli": {
+    "en": "Shabab Al Ahli",
+    "ar": "شباب الأهلي"
   },
   "modern sport": {
     "en": "Modern Sport",
