@@ -215,7 +215,7 @@
       "tournamentEn": "🛡️ UEFA Champions League",
       "tournamentAr": "🛡️ دوري أبطال أوروبا",
       "matchEn": "Slavia Prague (Czech Republic) v Lens (France)",
-      "matchAr": "سلافيا براغ (التشيك) × لانس (فرنسا)",
+      "matchAr": "سلافيا براغ (جمهورية التشيك) × لانس (فرنسا)",
       "time": "19:00",
       "channels": [
         "📺 Bein Sport 4 [Badrsat 26.0E 11390 V 27500]",
@@ -287,16 +287,6 @@
     {
       "tournamentEn": "🇶🇦 Qatar Stars League",
       "tournamentAr": "🇶🇦 الدوري القطري",
-      "matchEn": "Al Wakrah v Al Shamal",
-      "matchAr": "الوكرة × الشمال",
-      "time": "14:00",
-      "channels": [
-        "📺 Al Kass Five [Badrsat 26.0E 10770 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🇶🇦 Qatar Stars League",
-      "tournamentAr": "🇶🇦 الدوري القطري",
       "matchEn": "Al Sailiya v Al Sadd",
       "matchAr": "السيلية × السد",
       "time": "16:15",
@@ -305,34 +295,8 @@
       ]
     },
     {
-      "tournamentEn": "🏁 United Arab Emirates Pro League",
-      "tournamentAr": "🏁 الدوري الإماراتي للمحترفين",
-      "matchEn": "Al Jazira v Al Nasr Dubai",
-      "matchAr": "الجزيرة × النصر دبي",
-      "time": "13:40",
-      "channels": [
-        "📺 Dubai Sports 1 [Badrsat 26.0E 12130 V 30000]",
-        "📺 Dubai Sports 1 [Nilesat 7.0W 12418 H 30000]",
-        "📺 Abu Dhabi Sports 1 [Badrsat 26.0E 11804 H 30000]",
-        "📺 Abu Dhabi Sports 1 [Nilesat 7.0W 11411 H 30000]"
-      ]
-    },
-    {
-      "tournamentEn": "🏁 United Arab Emirates Pro League",
-      "tournamentAr": "🏁 الدوري الإماراتي للمحترفين",
-      "matchEn": "United v Shabab Al Ahli",
-      "matchAr": "يونايتد × شباب الأهلي",
-      "time": "13:40",
-      "channels": [
-        "📺 Dubai Sports 2 [Badrsat 26.0E 12130 V 30000]",
-        "📺 Dubai Sports 2 [Nilesat 7.0W 12418 H 30000]",
-        "📺 Abu Dhabi Sports 2 [Badrsat 26.0E 11804 H 30000]",
-        "📺 Abu Dhabi Sports 2 [Nilesat 7.0W 11411 H 30000]"
-      ]
-    },
-    {
-      "tournamentEn": "🏁 United Arab Emirates Pro League",
-      "tournamentAr": "🏁 الدوري الإماراتي للمحترفين",
+      "tournamentEn": "🇦🇪 Emirates Pro League",
+      "tournamentAr": "🇦🇪 الدوري الإماراتي للمحترفين",
       "matchEn": "Al-Ain v Al-Wasl",
       "matchAr": "العين × الوصل",
       "time": "16:15",
@@ -345,8 +309,8 @@
       ]
     },
     {
-      "tournamentEn": "🏁 Iraq Stars League",
-      "tournamentAr": "🏁 دوري نجوم العراق",
+      "tournamentEn": "🇮🇶 Iraq Stars League",
+      "tournamentAr": "🇮🇶 دوري نجوم العراق",
       "matchEn": "Al-Quwa Al-Jawiya v Al-Zawraa",
       "matchAr": "القوة الجوية × الزوراء",
       "time": "17:30",
