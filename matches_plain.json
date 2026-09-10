@@ -215,7 +215,7 @@
       "tournamentEn": "🛡️ UEFA Champions League",
       "tournamentAr": "🛡️ دوري أبطال أوروبا",
       "matchEn": "Slavia Prague (Czech Republic) v Lens (France)",
-      "matchAr": "سلافيا براغ (التشيك) × لانس (فرنسا)",
+      "matchAr": "سلافيا براغ (جمهورية التشيك) × لانس (فرنسا)",
       "time": "19:00",
       "channels": [
         "📺 Bein Sport 4 [Badrsat 26.0E 11390 V 27500]",
@@ -260,25 +260,6 @@
         "📺 Arena Sport 2 SRB [Eutelsat 16.0E 11429 V 28330]",
         "📺 Match 4 [Thor 0.8W 12188 V 28000]",
         "📺 Sky Sports Football [Astra 28.2E 12012 V 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🛡️ CONMEBOL Libertadores",
-      "tournamentAr": "🛡️ كوبا ليبرتادوريس",
-      "matchEn": "Estudiantes (Argentina) v Corinthians (Brazil)",
-      "matchAr": "إستوديانتس (الأرجنتين) × كورينثيانز (البرازيل)",
-      "time": "00:30",
-      "channels": [
-        "📺 Bein Sport 2 [Badrsat 26.0E 10810 H 27500]",
-        "📺 Bein Sport 2 [Nilesat 7.0W 11013 H 27500]",
-        "📺 Polsat Sport 1 [Hotbird 13.0E 12265 V 27500]",
-        "📺 Arena Premium 1 BIH [Eutelsat 16.0E 11595 V 30000]",
-        "📺 Arena Premium 2 SRB [Eutelsat 16.0E 11429 V 28330]",
-        "📺 Arena Sport 2 HRV [Eutelsat 16.0E 11554 V 30000]",
-        "📺 Sport TV 1 [Hispasat 30W 12360 H 27500]",
-        "📺 Sport 3 [Amos 4.0W 11259 V 30000]",
-        "📺 ESPN Netherlands [Eutelsat 23.5E 11739 V 29900]",
-        "📺 Sporty TV [Eutelsat 36.0E 12265 V 27500]"
       ]
     },
     {
