@@ -215,32 +215,6 @@
     {
       "tournamentEn": "🇦🇪 Emirates Pro League",
       "tournamentAr": "🇦🇪 الدوري الإماراتي للمحترفين",
-      "matchEn": "Hatta v Al Dhafra",
-      "matchAr": "حتا × الظفرة",
-      "time": "13:40",
-      "channels": [
-        "📺 Dubai Sports 2 [Nilesat 7.0W 12418 H 30000]",
-        "📺 Abu Dhabi Sports 2 [Nilesat 7.0W 11411 H 30000]",
-        "📺 Dubai Sports 2 [Badrsat 26.0E 12130 V 30000]",
-        "📺 Abu Dhabi Sports 2 [Badrsat 26.0E 11804 H 30000]"
-      ]
-    },
-    {
-      "tournamentEn": "🇦🇪 Emirates Pro League",
-      "tournamentAr": "🇦🇪 الدوري الإماراتي للمحترفين",
-      "matchEn": "Khor Fakkan v Baniyas",
-      "matchAr": "خورفكان × بني ياس",
-      "time": "13:40",
-      "channels": [
-        "📺 Abu Dhabi Sports 1 [Nilesat 7.0W 11411 H 30000]",
-        "📺 Dubai Sports 1 [Nilesat 7.0W 12418 H 30000]",
-        "📺 Abu Dhabi Sports 1 [Badrsat 26.0E 11804 H 30000]",
-        "📺 Dubai Sports 1 [Badrsat 26.0E 12130 V 30000]"
-      ]
-    },
-    {
-      "tournamentEn": "🇦🇪 Emirates Pro League",
-      "tournamentAr": "🇦🇪 الدوري الإماراتي للمحترفين",
       "matchEn": "Ajman v Kalba",
       "matchAr": "عجمان × كلباء",
       "time": "16:15",
@@ -263,16 +237,6 @@
         "📺 Abu Dhabi Sports 1 [Nilesat 7.0W 11411 H 30000]",
         "📺 Dubai Sports 1 [Badrsat 26.0E 12130 V 30000]",
         "📺 Abu Dhabi Sports 1 [Badrsat 26.0E 11804 H 30000]"
-      ]
-    },
-    {
-      "tournamentEn": "🇶🇦 Qatar Stars League",
-      "tournamentAr": "🇶🇦 الدوري القطري",
-      "matchEn": "Al Gharafa v Lusail",
-      "matchAr": "الغرافة × لوسيل",
-      "time": "14:00",
-      "channels": [
-        "📺 Al Kass Five [Badrsat 26.0E 10770 H 27500]"
       ]
     },
     {
