@@ -1,25 +1,69 @@
 {
-  "Opatija": {
-    "en": "Opatija",
-    "ar": "أوباتيا"
+  "spain laliga": {
+    "en": "La Liga",
+    "ar": "الدوري الإسباني الممتاز"
   },
-  "Bilje": {
-    "en": "Bilje",
-    "ar": "بيلية"
+  "italy serie a": {
+    "en": "Serie A",
+    "ar": "الدوري الإيطالي الممتاز"
   },
-  "Étoile Carouge": {
-    "en": "Étoile Carouge",
-    "ar": "إتوال كاروج"
+  "france ligue 1": {
+    "en": "Ligue 1",
+    "ar": "الدوري الفرنسي الممتاز"
   },
-  "Greenock Morton": {
-    "en": "Greenock Morton",
-    "ar": "غرينوك مورتون"
+  "germany bundesliga": {
+    "en": "Bundesliga",
+    "ar": "الدوري الألماني الممتاز"
   },
-  "Boyacá Chicó": {
+  "turkey trendyol sper lig": {
+    "en": "Trendyol Süper Lig",
+    "ar": "الدوري التركي الممتاز"
+  },
+  "hatta": {
+    "en": "Hatta",
+    "ar": "حتا"
+  },
+  "aldhafra": {
+    "en": "Al Dhafra",
+    "ar": "الظفرة"
+  },
+  "baniyas": {
+    "en": "Baniyas",
+    "ar": "بني ياس"
+  },
+  "ajman": {
+    "en": "Ajman",
+    "ar": "عجمان"
+  },
+  "alwahda": {
+    "en": "Al Wahda",
+    "ar": "الوحدة"
+  },
+  "alsharjah": {
+    "en": "Sharjah",
+    "ar": "الشارقة"
+  },
+  "algharafa": {
+    "en": "Al Gharafa",
+    "ar": "الغرافة"
+  },
+  "lusail": {
+    "en": "Lusail",
+    "ar": "لوسيل"
+  },
+  "alrayyan": {
+    "en": "Al Rayyan",
+    "ar": "الريان"
+  },
+  "alahli doha": {
+    "en": "Al Ahli",
+    "ar": "الأهلي"
+  },
+  "boyac chic": {
     "en": "Boyacá Chicó",
     "ar": "بوياكا تشيكو"
   },
-  "Shakhtar Donetsk": {
+  "shakhtar donetsk": {
     "en": "Shakhtar Donetsk",
     "ar": "شاختار دونيتسك"
   },
