@@ -133,20 +133,6 @@
       ]
     },
     {
-      "tournamentEn": "🇸🇦 Saudi Pro League",
-      "tournamentAr": "🇸🇦 الدوري السعودي للمحترفين",
-      "matchEn": "Al-Ahli v Al-Hazem",
-      "matchAr": "الأهلي × الحزم",
-      "time": "18:00",
-      "channels": [
-        "📺 Sport TV 5 [Hispasat 30W 12360 H 27500]",
-        "📺 Spiler TV 1 [Thor 0.8W 12130 H 28000]",
-        "📺 Sport Klub 3 SLO [Eutelsat 16.0E 11231 V 42000]",
-        "📺 Thmanyah 1 [Badrsat 26.0E 11919 H 27500]",
-        "📺 Sporty TV [Eutelsat 36.0E 12265 V 27500]"
-      ]
-    },
-    {
       "tournamentEn": "🇬🇧 English Championship",
       "tournamentAr": "🇬🇧 دوري البطولة الإنجليزية",
       "matchEn": "West Ham v Wrexham",
@@ -169,60 +155,6 @@
         "📺 Sky Sports Main Event [Astra 28.2E 12012 V 27500]",
         "📺 ESPN South Africa [Eutelsat 36.0E 12476 H 27500]",
         "📺 SuperSport Premier League [Eutelsat 36.0E 12169 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🇹🇷 Turkish Süper Lig",
-      "tournamentAr": "🇹🇷 الدوري التركي الممتاز",
-      "matchEn": "Beşiktaş v Erzurumspor",
-      "matchAr": "بشكتاش × أرضروم سبور",
-      "time": "17:00",
-      "channels": [
-        "📺 Bein Sport 1 [Nilesat 7.0W 11013 H 27500]",
-        "📺 Arena Sport 4 SRB [Eutelsat 16.0E 11366 V 30000]",
-        "📺 Sport Klub 4 [Eutelsat 16.0E 11595 V 30000]",
-        "📺 Super Sport 4 [Eutelsat 16.0E 10845 H 30000]",
-        "📺 Bein Sport 1 [Badrsat 26.0E 10810 H 27500]",
-        "📺 ESPN 2 South Africa [Eutelsat 36.0E 12092 H 27500]",
-        "📺 Prima Sport 3 [Hellas-Sat 39.0E 12251 V 30000]",
-        "📺 Match! Futbol 3 [Eutelsat 80.0E 11044 V 45000]"
-      ]
-    },
-    {
-      "tournamentEn": "🇦🇪 Emirates Pro League",
-      "tournamentAr": "🇦🇪 الدوري الإماراتي للمحترفين",
-      "matchEn": "Ajman v Kalba",
-      "matchAr": "عجمان × كلباء",
-      "time": "16:15",
-      "channels": [
-        "📺 Abu Dhabi Sports 2 [Nilesat 7.0W 11411 H 30000]",
-        "📺 Dubai Sports 2 [Nilesat 7.0W 12418 H 30000]",
-        "📺 Abu Dhabi Sports 2 [Badrsat 26.0E 11804 H 30000]",
-        "📺 Dubai Sports 2 [Badrsat 26.0E 12130 V 30000]"
-      ]
-    },
-    {
-      "tournamentEn": "🇦🇪 Emirates Pro League",
-      "tournamentAr": "🇦🇪 الدوري الإماراتي للمحترفين",
-      "matchEn": "Al Wahda v Sharjah",
-      "matchAr": "الوحدة × الشارقة",
-      "time": "16:15",
-      "channels": [
-        "📺 Dubai Sports 1 [Nilesat 7.0W 12418 H 30000]",
-        "📺 Sharjah Sports [Nilesat 7.0W 11013 V 27500]",
-        "📺 Abu Dhabi Sports 1 [Nilesat 7.0W 11411 H 30000]",
-        "📺 Dubai Sports 1 [Badrsat 26.0E 12130 V 30000]",
-        "📺 Abu Dhabi Sports 1 [Badrsat 26.0E 11804 H 30000]"
-      ]
-    },
-    {
-      "tournamentEn": "🇶🇦 Qatar Stars League",
-      "tournamentAr": "🇶🇦 الدوري القطري",
-      "matchEn": "Al Rayyan v Al Ahli",
-      "matchAr": "الريان × الأهلي",
-      "time": "16:15",
-      "channels": [
-        "📺 Al Kass Six [Badrsat 26.0E 10770 H 27500]"
       ]
     }
   ]
