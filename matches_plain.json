@@ -594,6 +594,37 @@
       ]
     },
     {
+      "tournamentEn": "🇦🇷 Argentinean Primera Division - Clausura",
+      "tournamentAr": "🇦🇷 الدوري الأرجنتيني الممتاز",
+      "matchEn": "Atlético Tucumán v River Plate",
+      "matchAr": "أتلتيكو توكومان × ريفر بليت",
+      "time": "20:30",
+      "channels": [
+        "📺 Sport TV 1 [Hispasat 30W 12360 H 27500]",
+        "📺 Dubai Sports 1 [Nilesat 7.0W 12418 H 30000]",
+        "📺 Sport 3 [Amos 4.0W 11259 V 30000]",
+        "📺 Sportitalia HD [Eutelsat 9.0E 12341 V 31400]",
+        "📺 Arena Premium 5 SRB [Eutelsat 16.0E 11429 V 28330]",
+        "📺 Arena Sport 4 HRV [Eutelsat 16.0E 11554 V 30000]",
+        "📺 M+ Liga de Campeones [Astra 19.2E 11259 V 22000]",
+        "📺 Dubai Sports 1 [Badrsat 26.0E 12130 V 30000]",
+        "📺 Premier Sports 1 [Astra 28.2E 12188 H 27500]",
+        "📺 Premier Sports 1 UK [Astra 28.2E 11671 H 23000]",
+        "📺 Sporty TV [Eutelsat 36.0E 12265 V 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "🇧🇷 Brazilian Serie A",
+      "tournamentAr": "🇧🇷 الدوري البرازيلي الممتاز",
+      "matchEn": "Atlético Mineiro v Fluminense",
+      "matchAr": "أتلتيكو مينيرو × فلومينينسي",
+      "time": "19:00",
+      "channels": [
+        "📺 M+ Liga de Campeones 2 [Astra 19.2E 10758 V 22000]",
+        "📺 Match! Futbol 3 [Eutelsat 80.0E 11044 V 45000]"
+      ]
+    },
+    {
       "tournamentEn": "🇧🇷 Brazilian Serie A",
       "tournamentAr": "🇧🇷 الدوري البرازيلي الممتاز",
       "matchEn": "Palmeiras v São Paulo",
@@ -601,11 +632,13 @@
       "time": "21:30",
       "channels": [
         "📺 Canal 11 [Hispasat 30W 12437 H 27500]",
+        "📺 Dubai Sports 2 [Nilesat 7.0W 12418 H 30000]",
         "📺 Sport 4 [Amos 4.0W 11259 V 30000]",
         "📺 Arena Premium 1 BIH [Eutelsat 16.0E 11595 V 30000]",
         "📺 Arena Premium 1 SRB [Eutelsat 16.0E 11366 V 30000]",
         "📺 M+ Liga de Campeones 2 [Astra 19.2E 10758 V 22000]",
         "📺 Sportdigital Fussball [Astra 19.2E 11186 V 22000]",
+        "📺 Dubai Sports 2 [Badrsat 26.0E 12130 V 30000]",
         "📺 Premier Sports 2 [Astra 28.2E 12188 H 27500]",
         "📺 Match! Futbol 3 [Eutelsat 80.0E 11044 V 45000]"
       ]
@@ -629,47 +662,11 @@
       "matchAr": "سانتوس × كروزيرو",
       "time": "00:00",
       "channels": [
-        "📺 Canal 11 [Hispasat 30W 12437 H 27500]",
+        "📺 Dubai Sports 2 [Nilesat 7.0W 12418 H 30000]",
         "📺 Sport 4 [Amos 4.0W 11259 V 30000]",
-        "📺 Arena Premium 1 SRB [Eutelsat 16.0E 11366 V 30000]",
-        "📺 Sportdigital Fussball [Astra 19.2E 11186 V 22000]",
+        "📺 Dubai Sports 2 [Badrsat 26.0E 12130 V 30000]",
         "📺 Premier Sports 2 [Astra 28.2E 12188 H 27500]",
         "📺 Match! Futbol 3 [Eutelsat 80.0E 11044 V 45000]"
-      ]
-    },
-    {
-      "tournamentEn": "🇧🇷 Brazilian Serie A",
-      "tournamentAr": "🇧🇷 الدوري البرازيلي الممتاز",
-      "matchEn": "Mirassol v Vitória",
-      "matchAr": "ميراسول × فيتوريا",
-      "time": "19:00",
-      "channels": [
-        "📺 Canal 11 [Hispasat 30W 12437 H 27500]",
-        "📺 Sport 4 [Amos 4.0W 11259 V 30000]",
-        "📺 Arena Premium 1 SRB [Eutelsat 16.0E 11366 V 30000]",
-        "📺 Sportdigital Fussball [Astra 19.2E 11186 V 22000]"
-      ]
-    },
-    {
-      "tournamentEn": "🇦🇷 Argentinean Primera Division - Clausura",
-      "tournamentAr": "🇦🇷 الدوري الأرجنتيني الممتاز",
-      "matchEn": "Atlético Tucumán v River Plate",
-      "matchAr": "أتلتيكو توكومان × ريفر بليت",
-      "time": "20:30",
-      "channels": [
-        "📺 Sport TV 1 [Hispasat 30W 12360 H 27500]",
-        "📺 Dubai Sports 1 [Nilesat 7.0W 12418 H 30000]",
-        "📺 Sport 2 [Amos 4.0W 11259 V 30000]",
-        "📺 Sport 3 [Amos 4.0W 11259 V 30000]",
-        "📺 Sportitalia HD [Eutelsat 9.0E 12341 V 31400]",
-        "📺 Arena Premium 5 SRB [Eutelsat 16.0E 11429 V 28330]",
-        "📺 Arena Sport 2 HRV [Eutelsat 16.0E 11554 V 30000]",
-        "📺 Arena Sport 4 HRV [Eutelsat 16.0E 11554 V 30000]",
-        "📺 M+ Liga de Campeones [Astra 19.2E 11259 V 22000]",
-        "📺 Dubai Sports 1 [Badrsat 26.0E 12130 V 30000]",
-        "📺 Premier Sports 1 [Astra 28.2E 12188 H 27500]",
-        "📺 Premier Sports 1 UK [Astra 28.2E 11671 H 23000]",
-        "📺 Sporty TV [Eutelsat 36.0E 12265 V 27500]"
       ]
     }
   ]
