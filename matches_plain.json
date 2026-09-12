@@ -556,8 +556,8 @@
       ]
     },
     {
-      "tournamentEn": "🇧🇷 Brazilian Brasileirão Betano",
-      "tournamentAr": "🇧🇷 الدوري البرازيلي الممتاز - براسيليراو بيتانو",
+      "tournamentEn": "🇧🇷 Brazilian Serie A",
+      "tournamentAr": "🇧🇷 الدوري البرازيلي الممتاز",
       "matchEn": "Palmeiras v São Paulo",
       "matchAr": "بالميراس × ساو باولو",
       "time": "21:30",
@@ -573,10 +573,10 @@
       ]
     },
     {
-      "tournamentEn": "🇧🇷 Brazilian Brasileirão Betano",
-      "tournamentAr": "🇧🇷 الدوري البرازيلي الممتاز - براسيليراو بيتانو",
-      "matchEn": "Botafogo v Red Bull Bragantino",
-      "matchAr": "بوتافوغو × ريد بول براغانتينو",
+      "tournamentEn": "🇧🇷 Brazilian Serie A",
+      "tournamentAr": "🇧🇷 الدوري البرازيلي الممتاز",
+      "matchEn": "Botafogo v Bragantino",
+      "matchAr": "بوتافوغو × براغانتينو",
       "time": "23:30",
       "channels": [
         "📺 Canal 11 [Hispasat 30W 12437 H 27500]",
@@ -585,8 +585,8 @@
       ]
     },
     {
-      "tournamentEn": "🇧🇷 Brazilian Brasileirão Betano",
-      "tournamentAr": "🇧🇷 الدوري البرازيلي الممتاز - براسيليراو بيتانو",
+      "tournamentEn": "🇧🇷 Brazilian Serie A",
+      "tournamentAr": "🇧🇷 الدوري البرازيلي الممتاز",
       "matchEn": "Santos v Cruzeiro",
       "matchAr": "سانتوس × كروزيرو",
       "time": "00:00",
@@ -600,8 +600,8 @@
       ]
     },
     {
-      "tournamentEn": "🇧🇷 Brazilian Brasileirão Betano",
-      "tournamentAr": "🇧🇷 الدوري البرازيلي الممتاز - براسيليراو بيتانو",
+      "tournamentEn": "🇧🇷 Brazilian Serie A",
+      "tournamentAr": "🇧🇷 الدوري البرازيلي الممتاز",
       "matchEn": "Mirassol v Vitória",
       "matchAr": "ميراسول × فيتوريا",
       "time": "19:00",
@@ -613,7 +613,7 @@
       ]
     },
     {
-      "tournamentEn": "🏁 Liga Portugal",
+      "tournamentEn": "🏁 Portuguaise Liga 1",
       "tournamentAr": "🏁 الدوري البرتغالي الممتاز",
       "matchEn": "Casa Pia v Porto",
       "matchAr": "كازا بيا × بورتو",
@@ -643,7 +643,7 @@
       "tournamentEn": "🛡️ CAF Confederation Cup",
       "tournamentAr": "🛡️ كأس الكونفدرالية الأفريقية",
       "matchEn": "Al-Ahli Tripoli (Libya) v KMKM (Tanzania)",
-      "matchAr": "الأهلي طرابلس (ليبيا) × كمكم (تنزانيا)",
+      "matchAr": "أهلي طرابلس (ليبيا) × كمكم (تنزانيا)",
       "time": "17:00",
       "channels": [
         "📺 Libya Sport TV 1 [Nilesat 7.0W 11766 H 27500]",
@@ -651,7 +651,7 @@
       ]
     },
     {
-      "tournamentEn": "🇦🇷 Argentine Liga Profesional de Fútbol",
+      "tournamentEn": "🇦🇷 Argentinean Primera Division - Clausura",
       "tournamentAr": "🇦🇷 الدوري الأرجنتيني الممتاز",
       "matchEn": "Atlético Tucumán v River Plate",
       "matchAr": "أتلتيكو توكومان × ريفر بليت",
