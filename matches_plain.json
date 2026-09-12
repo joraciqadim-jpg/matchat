@@ -11,6 +11,27 @@
       ]
     },
     {
+      "tournamentEn": "🛡️ CAF Confederation Cup",
+      "tournamentAr": "🛡️ كأس الكونفدرالية الأفريقية",
+      "matchEn": "ASAS (Djibouti) v ZED (Egypt)",
+      "matchAr": "أساس (جيبوتي) × زد (مصر)",
+      "time": "17:00",
+      "channels": [
+        "📺 On Sport MAX [Nilesat 7.0W 11977 V 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "🛡️ CAF Confederation Cup",
+      "tournamentAr": "🛡️ كأس الكونفدرالية الأفريقية",
+      "matchEn": "Al-Ahli Tripoli (Libya) v KMKM (Tanzania)",
+      "matchAr": "أهلي طرابلس (ليبيا) × كمكم (تنزانيا)",
+      "time": "17:00",
+      "channels": [
+        "📺 Libya Sport TV 1 [Nilesat 7.0W 11766 H 27500]",
+        "📺 Libya Sport TV 1 [Badrsat 26.0E 12360 V 27500]"
+      ]
+    },
+    {
       "tournamentEn": "🇬🇧 English Premier League",
       "tournamentAr": "🇬🇧 الدوري الإنجليزي الممتاز",
       "matchEn": "Aston Villa v Nottingham Forest",
@@ -451,6 +472,23 @@
       ]
     },
     {
+      "tournamentEn": "🇵🇹 Portuguese Liga 1",
+      "tournamentAr": "🇵🇹 الدوري البرتغالي الممتاز",
+      "matchEn": "Casa Pia v Porto",
+      "matchAr": "كازا بيا × بورتو",
+      "time": "17:00",
+      "channels": [
+        "📺 Canal 11 [Hispasat 30W 12437 H 27500]",
+        "📺 Sport TV + [Hispasat 30W 12399 H 27500]",
+        "📺 Sport TV 1 [Hispasat 30W 12360 H 27500]",
+        "📺 Sport 4 [Amos 4.0W 11259 V 30000]",
+        "📺 Eleven Sports 1 [Hotbird 13.0E 10796 V 27500]",
+        "📺 Eleven Sports 1 4K [Hotbird 13.0E 11117 V 27500]",
+        "📺 Sky Sport Arena [Hotbird 13.0E 11996 V 29900]",
+        "📺 BeIn Sports Max 6 France [Astra 19.2E 12324 V 29700]"
+      ]
+    },
+    {
       "tournamentEn": "🇸🇦 Saudi Pro League",
       "tournamentAr": "🇸🇦 الدوري السعودي للمحترفين",
       "matchEn": "Al-Taawoun v Al-Hilal",
@@ -610,44 +648,6 @@
         "📺 Sport 4 [Amos 4.0W 11259 V 30000]",
         "📺 Arena Premium 1 SRB [Eutelsat 16.0E 11366 V 30000]",
         "📺 Sportdigital Fussball [Astra 19.2E 11186 V 22000]"
-      ]
-    },
-    {
-      "tournamentEn": "🏁 Portuguaise Liga 1",
-      "tournamentAr": "🏁 الدوري البرتغالي الممتاز",
-      "matchEn": "Casa Pia v Porto",
-      "matchAr": "كازا بيا × بورتو",
-      "time": "17:00",
-      "channels": [
-        "📺 Canal 11 [Hispasat 30W 12437 H 27500]",
-        "📺 Sport TV + [Hispasat 30W 12399 H 27500]",
-        "📺 Sport TV 1 [Hispasat 30W 12360 H 27500]",
-        "📺 Sport 4 [Amos 4.0W 11259 V 30000]",
-        "📺 Eleven Sports 1 [Hotbird 13.0E 10796 V 27500]",
-        "📺 Eleven Sports 1 4K [Hotbird 13.0E 11117 V 27500]",
-        "📺 Sky Sport Arena [Hotbird 13.0E 11996 V 29900]",
-        "📺 BeIn Sports Max 6 France [Astra 19.2E 12324 V 29700]"
-      ]
-    },
-    {
-      "tournamentEn": "🛡️ CAF Confederation Cup",
-      "tournamentAr": "🛡️ كأس الكونفدرالية الأفريقية",
-      "matchEn": "ASAS (Djibouti) v ZED (Egypt)",
-      "matchAr": "أساس (جيبوتي) × زد (مصر)",
-      "time": "17:00",
-      "channels": [
-        "📺 On Sport MAX [Nilesat 7.0W 11977 V 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🛡️ CAF Confederation Cup",
-      "tournamentAr": "🛡️ كأس الكونفدرالية الأفريقية",
-      "matchEn": "Al-Ahli Tripoli (Libya) v KMKM (Tanzania)",
-      "matchAr": "أهلي طرابلس (ليبيا) × كمكم (تنزانيا)",
-      "time": "17:00",
-      "channels": [
-        "📺 Libya Sport TV 1 [Nilesat 7.0W 11766 H 27500]",
-        "📺 Libya Sport TV 1 [Badrsat 26.0E 12360 V 27500]"
       ]
     },
     {
