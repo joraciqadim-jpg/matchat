@@ -1,17 +1,29 @@
 {
-  "Opatija": {
+  "derby": {
+    "en": "Derby",
+    "ar": "ديربي"
+  },
+  "stoke": {
+    "en": "Stoke",
+    "ar": "ستوك"
+  },
+  "england premier league": {
+    "en": "English Premier League",
+    "ar": "الدوري الإنجليزي الممتاز"
+  },
+  "opatija": {
     "en": "Opatija",
     "ar": "أوباتيا"
   },
-  "Bilje": {
+  "bilje": {
     "en": "Bilje",
     "ar": "بيله"
   },
-  "Étoile Carouge": {
+  "toile carouge": {
     "en": "Étoile Carouge",
     "ar": "إيتوال كاروج"
   },
-  "Greenock Morton": {
+  "greenock morton": {
     "en": "Greenock Morton",
     "ar": "غرينوك مورتون"
   },
