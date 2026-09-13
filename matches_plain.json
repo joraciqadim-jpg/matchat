@@ -89,38 +89,6 @@
     {
       "tournamentEn": "🇪🇸 Spanish La Liga 1",
       "tournamentAr": "🇪🇸 الدوري الإسباني الممتاز",
-      "matchEn": "Celta Vigo v Malaga",
-      "matchAr": "سيلتا فيغو × ملقا",
-      "time": "12:00",
-      "channels": [
-        "📺 DAZN 1 POR [Hispasat 30W 12399 H 27500]",
-        "📺 DAZN 2 POR [Hispasat 30W 12399 H 27500]",
-        "📺 Bein Sport 5 [Nilesat 7.0W 12188 H 27500]",
-        "📺 Digi Sport 2 [Thor 0.8W 11823 H 30000]",
-        "📺 Nova Sport 4 CZ [Thor 0.8W 11977 H 30000]",
-        "📺 Spiler TV 2 [Thor 0.8W 11727 V 28000]",
-        "📺 Max Sport 4 [BulgariaSat 1.9E 12303 H 30000]",
-        "📺 CANAL+ Sport 6 [Hotbird 13.0E 11449 H 27500]",
-        "📺 Arena Premium 3 BIH [Eutelsat 16.0E 11231 V 42000]",
-        "📺 Arena Premium 4 SRB [Eutelsat 16.0E 11366 V 30000]",
-        "📺 Sport Klub 1 HRV [Eutelsat 16.0E 11471 H 30000]",
-        "📺 Sport Klub 2 SLO [Eutelsat 16.0E 11387 H 32000]",
-        "📺 Super Sport 4 [Eutelsat 16.0E 10845 H 30000]",
-        "📺 DAZN LaLiga [Astra 19.2E 10906 V 22000]",
-        "📺 LaLiga TV Bar [Astra 19.2E 10818 V 22000]",
-        "📺 Nova Sport 4 CZ [Eutelsat 23.5E 11934 V 29900]",
-        "📺 Ziggo Sport 2 [Eutelsat 23.5E 12129 V 29900]",
-        "📺 Bein Sport 5 [Badrsat 26.0E 10810 H 27500]",
-        "📺 Premier Sports 2 [Astra 28.2E 12188 H 27500]",
-        "📺 SuperSport LaLiga [Eutelsat 36.0E 12169 H 27500]",
-        "📺 SuperSport Máximo 3 [Eutelsat 36.0E 12169 H 27500]",
-        "📺 AF Sports [Al-Yah 52.5E 11938 H 27500]",
-        "📺 Match! Futbol 2 [Eutelsat 80.0E 11044 V 45000]"
-      ]
-    },
-    {
-      "tournamentEn": "🇪🇸 Spanish La Liga 1",
-      "tournamentAr": "🇪🇸 الدوري الإسباني الممتاز",
       "matchEn": "Levante v Barcelona",
       "matchAr": "ليفانتي × برشلونة",
       "time": "14:15",
@@ -573,56 +541,6 @@
       "time": "18:00",
       "channels": [
         "📺 Thmanyah 1 [Badrsat 26.0E 11919 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🇬🇧 English Championship",
-      "tournamentAr": "🇬🇧 دوري البطولة الإنجليزية",
-      "matchEn": "Sheffield United v Wolverhampton",
-      "matchAr": "شيفيلد يونايتد × وولفرهامبتون",
-      "time": "11:00",
-      "channels": [
-        "📺 Sport TV + [Hispasat 30W 12399 H 27500]",
-        "📺 Bein Sport 2 [Nilesat 7.0W 11013 H 27500]",
-        "📺 Sport 2 [Amos 4.0W 11259 V 30000]",
-        "📺 Nova Sport 3 CZ [Thor 0.8W 12245 H 30000]",
-        "📺 V Sport 2 [Thor 0.8W 10809 V 25000]",
-        "📺 V Sport Premium [Thor 0.8W 10903 V 25000]",
-        "📺 Cosmote Sport 7 [Hotbird 13.0E 12130 H 30000]",
-        "📺 Nova Sport BUL [Hotbird 13.0E 12654 H 30000]",
-        "📺 Arena Premium 1 SLO [Eutelsat 16.0E 11678 V 30000]",
-        "📺 Arena Premium 5 SRB [Eutelsat 16.0E 11429 V 28330]",
-        "📺 Arena Sport 1 BIH [Eutelsat 16.0E 11678 V 30000]",
-        "📺 Arena Sport 3 HRV [Eutelsat 16.0E 11512 H 30000]",
-        "📺 Nova Sport 3 CZ [Eutelsat 23.5E 11934 V 29900]",
-        "📺 Bein Sport 2 [Badrsat 26.0E 10810 H 27500]",
-        "📺 Sky Sports Football [Astra 28.2E 12012 V 27500]",
-        "📺 SuperSport Football [Eutelsat 36.0E 12341 V 27500]",
-        "📺 SuperSport Football Plus [Eutelsat 36.0E 12284 H 27500]",
-        "📺 SuperSport Máximo 360 [Eutelsat 36.0E 12380 V 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🏆 Scottish League Cup",
-      "tournamentAr": "🏆 كأس الرابطة الإسكتلندية",
-      "matchEn": "Rangers v Celtic",
-      "matchAr": "رينجرز × سلتيك",
-      "time": "11:00",
-      "channels": [
-        "📺 Sport TV 3 [Hispasat 30W 12360 H 27500]",
-        "📺 Sharjah Sports [Nilesat 7.0W 11013 V 27500]",
-        "📺 Digi Sport 3 [Thor 0.8W 12687 H 27500]",
-        "📺 Match 4 [Thor 0.8W 12188 V 28000]",
-        "📺 Cosmote Sport 3 [Hotbird 13.0E 12169 H 30000]",
-        "📺 Polsat Sport 3 [Hotbird 13.0E 12284 H 27500]",
-        "📺 Arena Premium 1 BIH [Eutelsat 16.0E 11595 V 30000]",
-        "📺 Arena Premium 1 SRB [Eutelsat 16.0E 11366 V 30000]",
-        "📺 Super Sport 2 [Eutelsat 16.0E 10845 H 30000]",
-        "📺 Sportdigital Fussball [Astra 19.2E 11186 V 22000]",
-        "📺 Premier Sports 1 [Astra 28.2E 12188 H 27500]",
-        "📺 Premier Sports 1 UK [Astra 28.2E 11671 H 23000]",
-        "📺 ESPN 2 South Africa [Eutelsat 36.0E 12092 H 27500]",
-        "📺 Persiana Sports 1 [TurkmenÄlem 52.0E 11343 H 27500]"
       ]
     },
     {
