@@ -125,67 +125,6 @@
     {
       "tournamentEn": "🇮🇹 Italian Serie A",
       "tournamentAr": "🇮🇹 الدوري الإيطالي الممتاز",
-      "matchEn": "Como v Parma",
-      "matchAr": "كومو × بارما",
-      "time": "16:30",
-      "channels": [
-        "📺 Sport TV 3 [Hispasat 30W 12360 H 27500]",
-        "📺 Digi Sport 3 [Thor 0.8W 12687 H 27500]",
-        "📺 TV 4 Sport Live 3 [Thor 0.8W 10778 H 25000]",
-        "📺 Max Sport 2 [BulgariaSat 1.9E 12322 V 30000]",
-        "📺 Cosmote Sport 3 [Hotbird 13.0E 12169 H 30000]",
-        "📺 DAZN 2 ITA [Hotbird 13.0E 12073 V 29900]",
-        "📺 Eleven Sports 2 [Hotbird 13.0E 10796 V 27500]",
-        "📺 Arena Premium 2 BIH [Eutelsat 16.0E 11595 V 30000]",
-        "📺 Arena Premium 3 SRB [Eutelsat 16.0E 10721 H 30000]",
-        "📺 Arena Sport 3 HRV [Eutelsat 16.0E 11512 H 30000]",
-        "📺 Tring Sport 2 [Eutelsat 16.0E 10804 H 29950]",
-        "📺 SuperSport Football Plus [Eutelsat 36.0E 12284 H 27500]",
-        "📺 SuperSport Máximo 1 [Eutelsat 36.0E 12169 H 27500]",
-        "📺 Match! Futbol 3 [Eutelsat 80.0E 11044 V 45000]"
-      ]
-    },
-    {
-      "tournamentEn": "🇮🇹 Italian Serie A",
-      "tournamentAr": "🇮🇹 الدوري الإيطالي الممتاز",
-      "matchEn": "Torino v Roma",
-      "matchAr": "تورينو × روما",
-      "time": "16:30",
-      "channels": [
-        "📺 Sport TV 1 [Hispasat 30W 12360 H 27500]",
-        "📺 One 2 HD [Amos 4.0W 11259 V 30000]",
-        "📺 Sport 1 CZE [Thor 0.8W 12149 V 30000]",
-        "📺 Digi Sport 2 [Thor 0.8W 11823 H 30000]",
-        "📺 Match 4 [Thor 0.8W 12188 V 28000]",
-        "📺 Premier Sport 1 [Thor 0.8W 12245 H 30000]",
-        "📺 Prima Sport 2 [Thor 0.8W 12723 H 27500]",
-        "📺 TV 4 Sport Live 2 [Thor 0.8W 10778 H 25000]",
-        "📺 Max Sport 3 [BulgariaSat 1.9E 12303 H 30000]",
-        "📺 Cosmote Sport 2 [Hotbird 13.0E 11938 H 30000]",
-        "📺 DAZN 1 ITA [Hotbird 13.0E 11843 V 29900]",
-        "📺 Eleven Sports 1 [Hotbird 13.0E 10796 V 27500]",
-        "📺 Eleven Sports 1 4K [Hotbird 13.0E 11117 V 27500]",
-        "📺 Polsat Sport Extra 1 [Hotbird 13.0E 12265 V 27500]",
-        "📺 Arena Premium 1 SLO [Eutelsat 16.0E 11678 V 30000]",
-        "📺 Arena Premium 2 BIH [Eutelsat 16.0E 11595 V 30000]",
-        "📺 Arena Premium 2 SRB [Eutelsat 16.0E 11429 V 28330]",
-        "📺 Arena Sport 1 HRV [Eutelsat 16.0E 11678 H 30000]",
-        "📺 Sport 1 CZE [Eutelsat 16.0E 11055 V 27500]",
-        "📺 Tring Sport 1 [Eutelsat 16.0E 10804 H 29950]",
-        "📺 Sport 1 CZE [Eutelsat 23.5E 12070 H 27500]",
-        "📺 Ziggo Sport 2 [Eutelsat 23.5E 12129 V 29900]",
-        "📺 IRIB Varzesh [Badrsat 26.0E 11881 H 27500]",
-        "📺 SuperSport Football [Eutelsat 36.0E 12341 V 27500]",
-        "📺 Prima Sport 2 [Hellas-Sat 39.0E 12290 V 30000]",
-        "📺 IRIB Varzesh [Eutelsat 40.0E 11640 H 30000]",
-        "📺 Fast Sports [Eutelsat 70.5E 11050 H 17670]",
-        "📺 IRIB Varzesh [Thaicom 78.5E 11640 H 30000]",
-        "📺 Match! Futbol 1 [Eutelsat 80.0E 11044 V 45000]"
-      ]
-    },
-    {
-      "tournamentEn": "🇮🇹 Italian Serie A",
-      "tournamentAr": "🇮🇹 الدوري الإيطالي الممتاز",
       "matchEn": "Inter Milan v Udinese",
       "matchAr": "إنتر ميلان × أودينيزي",
       "time": "18:45",
@@ -228,26 +167,6 @@
         "📺 Fast Sports [Eutelsat 70.5E 11050 H 17670]",
         "📺 IRIB Varzesh [Thaicom 78.5E 11640 H 30000]",
         "📺 Match! Futbol 1 [Eutelsat 80.0E 11044 V 45000]"
-      ]
-    },
-    {
-      "tournamentEn": "🇹🇷 Turkish Süper Lig",
-      "tournamentAr": "🇹🇷 الدوري التركي الممتاز",
-      "matchEn": "Gaziantep v Fenerbahçe",
-      "matchAr": "غازي عنتاب × فنربخشة",
-      "time": "17:00",
-      "channels": [
-        "📺 Sport TV 4 [Hispasat 30W 12360 H 27500]",
-        "📺 Bein Sport 6 [Nilesat 7.0W 11054 H 27500]",
-        "📺 Sport 1 [Amos 4.0W 11259 V 30000]",
-        "📺 Arena Sport 2 SRB [Eutelsat 16.0E 11429 V 28330]",
-        "📺 Sport Klub 2 SLO [Eutelsat 16.0E 11387 H 32000]",
-        "📺 Sport Klub 3 HRV [Eutelsat 16.0E 11387 H 32000]",
-        "📺 Super Sport 4 [Eutelsat 16.0E 10845 H 30000]",
-        "📺 Bein Sport 6 [Badrsat 26.0E 11390 V 27500]",
-        "📺 ESPN South Africa [Eutelsat 36.0E 12476 H 27500]",
-        "📺 Prima Sport 4 [Hellas-Sat 39.0E 12290 V 30000]",
-        "📺 Match! Futbol 3 [Eutelsat 80.0E 11044 V 45000]"
       ]
     }
   ]
