@@ -3,30 +3,6 @@
     {
       "tournamentEn": "🛡️ AFC Champions League Elite",
       "tournamentAr": "🛡️ دوري أبطال آسيا للنخبة",
-      "matchEn": "Al-Ain (UAE) v Al-Nassr (Saudi Arabia)",
-      "matchAr": "العين (الإمارات) × النصر (السعودية)",
-      "time": "16:00",
-      "channels": [
-        "📺 Canal 11 [Hispasat 30W 12437 H 27500]",
-        "📺 Bein Sport 1 [Nilesat 7.0W 11013 H 27500]",
-        "📺 Sport 6 [Amos 4.0W 11259 V 30000]",
-        "📺 Diema Sport 3 [Hotbird 13.0E 12673 V 30000]",
-        "📺 Sport Klub 3 HRV [Eutelsat 16.0E 11387 H 32000]",
-        "📺 Sportdigital 1+ [Astra 19.2E 11186 V 22000]",
-        "📺 ESPN Netherlands [Eutelsat 23.5E 11739 V 29900]",
-        "📺 Bein Sport 1 [Badrsat 26.0E 10810 H 27500]",
-        "📺 Al Kass Five [Badrsat 26.0E 10770 H 27500]",
-        "📺 IRIB Varzesh [Badrsat 26.0E 11881 H 27500]",
-        "📺 Sporty TV [Eutelsat 36.0E 12265 V 27500]",
-        "📺 IRIB Varzesh [Eutelsat 40.0E 11640 H 30000]",
-        "📺 Persiana Sports 2 [TurkmenÄlem 52.0E 11343 H 27500]",
-        "📺 Varzish TV [Al-Yah 52.5E 11785 H 27500]",
-        "📺 IRIB Varzesh [Thaicom 78.5E 11640 H 30000]"
-      ]
-    },
-    {
-      "tournamentEn": "🛡️ AFC Champions League Elite",
-      "tournamentAr": "🛡️ دوري أبطال آسيا للنخبة",
       "matchEn": "Al-Hilal (Saudi Arabia) v Al Gharafa (Qatar)",
       "matchAr": "الهلال (السعودية) × الغرافة (قطر)",
       "time": "18:15",
@@ -165,29 +141,6 @@
         "📺 Fast Sports [Eutelsat 70.5E 11050 H 17670]",
         "📺 TV 3 [Thaicom 78.5E 11640 H 30000]",
         "📺 Match! Futbol 2 [Eutelsat 80.0E 11044 V 45000]"
-      ]
-    },
-    {
-      "tournamentEn": "🏆 Coppa Italia",
-      "tournamentAr": "🏆 كأس إيطاليا",
-      "matchEn": "Genoa v Südtirol",
-      "matchAr": "جنوى × سودتيرول",
-      "time": "16:00",
-      "channels": [
-        "📺 Sport TV 2 [Hispasat 30W 12360 H 27500]",
-        "📺 Sport 3 [Amos 4.0W 11259 V 30000]",
-        "📺 Arena 4 [Thor 0.8W 12265 V 28000]",
-        "📺 Max Sport 3 [BulgariaSat 1.9E 12303 H 30000]",
-        "📺 Italia 1 [Hotbird 13.0E 11432 V 29900]",
-        "📺 Nova Sports Prime [Hotbird 13.0E 11804 V 30000]",
-        "📺 Arena Premium 2 BIH [Eutelsat 16.0E 11595 V 30000]",
-        "📺 Arena Premium 3 SRB [Eutelsat 16.0E 10721 H 30000]",
-        "📺 Arena Sport 1 HRV [Eutelsat 16.0E 11678 H 30000]",
-        "📺 Tring Sport 1 [Eutelsat 16.0E 10804 H 29950]",
-        "📺 DAZN 2 GER [Astra 19.2E 12382 H 27500]",
-        "📺 Premier Sports 2 [Astra 28.2E 12188 H 27500]",
-        "📺 Match! Futbol 1 [Eutelsat 80.0E 11044 V 45000]",
-        "📺 Unite8 Sports 1 [SES 108.3E 11640 H 30000]"
       ]
     },
     {
