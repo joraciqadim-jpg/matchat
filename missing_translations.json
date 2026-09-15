@@ -1,101 +1,145 @@
 {
-  "Kyoto Sanga": {
-    "en": "Kyoto Sanga",
-    "ar": "كيوتو سانغا"
+  "daejeon hana": {
+    "en": "Daejeon Hana Citizen",
+    "ar": "دايجون هانا سيتيزن"
   },
-  "Ratchaburi": {
-    "en": "Ratchaburi",
-    "ar": "راتشابوري"
-  },
-  "Thailand": {
-    "en": "Thailand",
-    "ar": "تايلاند"
-  },
-  "Kashima Antlers": {
+  "kashima": {
     "en": "Kashima Antlers",
     "ar": "كاشيما أنتلرز"
   },
-  "Newcastle Jets": {
-    "en": "Newcastle Jets",
-    "ar": "نيوكاسل جيتس"
+  "port": {
+    "en": "Port",
+    "ar": "بورت"
   },
-  "Beijing Guoan": {
+  "guoan": {
     "en": "Beijing Guoan",
     "ar": "بكين غوان"
   },
-  "Buriram United": {
+  "jdt": {
+    "en": "Johor Darul Ta'zim",
+    "ar": "جوهور دار التعظيم"
+  },
+  "buriram": {
     "en": "Buriram United",
     "ar": "بوريرام يونايتد"
   },
-  "AFC Champions League 2 - Group Stage": {
+  "peterborough utd": {
+    "en": "Peterborough United",
+    "ar": "بيتربورو يونايتد"
+  },
+  "asia afc champions league two": {
+    "en": "AFC Champions League Two",
+    "ar": "دوري أبطال آسيا 2"
+  },
+  "italy coppa italia": {
+    "en": "Coppa Italia",
+    "ar": "كأس إيطاليا"
+  },
+  "vasco": {
+    "en": "Vasco da Gama",
+    "ar": "فاسكو دا غاما"
+  },
+  "santa fe": {
+    "en": "Independiente Santa Fe",
+    "ar": "إنديبندينتي سانتا في"
+  },
+  "kyoto sanga": {
+    "en": "Kyoto Sanga",
+    "ar": "كيوتو سانغا"
+  },
+  "ratchaburi": {
+    "en": "Ratchaburi",
+    "ar": "راتشابوري"
+  },
+  "thailand": {
+    "en": "Thailand",
+    "ar": "تايلاند"
+  },
+  "kashima antlers": {
+    "en": "Kashima Antlers",
+    "ar": "كاشيما أنتلرز"
+  },
+  "newcastle jets": {
+    "en": "Newcastle Jets",
+    "ar": "نيوكاسل جيتس"
+  },
+  "beijing guoan": {
+    "en": "Beijing Guoan",
+    "ar": "بكين غوان"
+  },
+  "buriram united": {
+    "en": "Buriram United",
+    "ar": "بوريرام يونايتد"
+  },
+  "afc champions league 2 group stage": {
     "en": "AFC Champions League Two - Group Stage",
     "ar": "دوري أبطال آسيا 2 - دور المجموعات"
   },
-  "Arkadag": {
+  "arkadag": {
     "en": "Arkadag",
     "ar": "أركاداغ"
   },
-  "Muharraq": {
+  "muharraq": {
     "en": "Muharraq",
     "ar": "المحرق"
   },
-  "Turkmenistan": {
+  "turkmenistan": {
     "en": "Turkmenistan",
     "ar": "تركمانستان"
   },
-  "Bahrain": {
+  "bahrain": {
     "en": "Bahrain",
     "ar": "البحرين"
   },
-  "Gol Gohar": {
+  "gol gohar": {
     "en": "Gol Gohar",
     "ar": "غل گهر"
   },
-  "Al Ain": {
+  "al ain": {
     "en": "Al Ain",
     "ar": "العين"
   },
-  "SüdTirol": {
+  "sdtirol": {
     "en": "Südtirol",
     "ar": "سودتيرول"
   },
-  "Jezero": {
+  "jezero": {
     "en": "Jezero",
     "ar": "جيزيرو"
   },
-  "Reading": {
+  "reading": {
     "en": "Reading",
     "ar": "ريدينغ"
   },
-  "Apollon Kalamarias": {
+  "apollon kalamarias": {
     "en": "Apollon Kalamarias",
     "ar": "أبولون كالاماريا"
   },
-  "Air Force Club": {
+  "air force club": {
     "en": "Air Force Club",
     "ar": "القوة الجوية"
   },
-  "Chornomorets": {
+  "chornomorets": {
     "en": "Chornomorets",
     "ar": "تشورنوموريتس"
   },
-  "Shabab Al Ahli": {
+  "shabab al ahli": {
     "en": "Shabab Al Ahli",
     "ar": "شباب الأهلي"
   },
-  "Tractor Sazi": {
+  "tractor sazi": {
     "en": "Tractor Sazi",
     "ar": "تراكتور سازي"
   },
-  "Iran": {
+  "iran": {
     "en": "Iran",
     "ar": "إيران"
   },
-  "Esteghlal Tehran": {
+  "esteghlal tehran": {
     "en": "Esteghlal Tehran",
     "ar": "استقلال طهران"
   },
-  "Al Wasl": {
+  "al wasl": {
     "en": "Al Wasl",
     "ar": "الوصل"
   },
