@@ -3,25 +3,6 @@
     {
       "tournamentEn": "🛡️ CONMEBOL Libertadores",
       "tournamentAr": "🛡️ كوبا ليبرتادوريس",
-      "matchEn": "LDU Quito (Ecuador) v Palmeiras (Brazil)",
-      "matchAr": "إل دي يو كيتو (الإكوادور) × بالميراس (البرازيل)",
-      "time": "22:00",
-      "channels": [
-        "📺 Sport TV 1 [Hispasat 30W 12360 H 27500]",
-        "📺 Bein Sport 4 [Nilesat 7.0W 11054 H 27500]",
-        "📺 Sport 3 [Amos 4.0W 11259 V 30000]",
-        "📺 Max Sport 4 [BulgariaSat 1.9E 12303 H 30000]",
-        "📺 Polsat Sport 2 [Hotbird 13.0E 12265 V 27500]",
-        "📺 Arena Premium 2 SRB [Eutelsat 16.0E 11429 V 28330]",
-        "📺 Arena Sport 1 HRV [Eutelsat 16.0E 11678 H 30000]",
-        "📺 M+ Liga de Campeones 2 [Astra 19.2E 10758 V 22000]",
-        "📺 M+ Vamos [Astra 19.2E 10818 V 22000]",
-        "📺 Bein Sport 4 [Badrsat 26.0E 11390 V 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🛡️ CONMEBOL Libertadores",
-      "tournamentAr": "🛡️ كوبا ليبرتادوريس",
       "matchEn": "Corinthians (Brazil) v Estudiantes (Argentina)",
       "matchAr": "كورينثيانز (البرازيل) × إستوديانتس (الأرجنتين)",
       "time": "00:30",
@@ -37,26 +18,6 @@
         "📺 ESPN Netherlands [Eutelsat 23.5E 11739 V 29900]",
         "📺 Bein Sport 3 [Badrsat 26.0E 10810 H 27500]",
         "📺 Sporty TV [Eutelsat 36.0E 12265 V 27500]",
-        "📺 ERT 2 [Hellas-Sat 39.0E 12242 H 13381]"
-      ]
-    },
-    {
-      "tournamentEn": "🛡️ CONMEBOL Sudamericana",
-      "tournamentAr": "🛡️ كأس سودأمريكانا",
-      "matchEn": "Atlético Mineiro (Brazil) v Santos (Brazil)",
-      "matchAr": "أتلتيكو مينيرو (البرازيل) × سانتوس (البرازيل)",
-      "time": "22:00",
-      "channels": [
-        "📺 Sport TV 2 [Hispasat 30W 12360 H 27500]",
-        "📺 Bein Sport 3 [Nilesat 7.0W 12245 V 27500]",
-        "📺 Sport 2 [Amos 4.0W 11259 V 30000]",
-        "📺 ERT 2 [Hotbird 13.0E 12169 H 30000]",
-        "📺 Arena Premium 1 SRB [Eutelsat 16.0E 11366 V 30000]",
-        "📺 Arena Sport 1 BIH [Eutelsat 16.0E 11678 V 30000]",
-        "📺 Arena Sport 2 HRV [Eutelsat 16.0E 11554 V 30000]",
-        "📺 M+ Liga de Campeones 3 [Astra 19.2E 10758 V 22000]",
-        "📺 Sportdigital Fussball [Astra 19.2E 11186 V 22000]",
-        "📺 Bein Sport 3 [Badrsat 26.0E 10810 H 27500]",
         "📺 ERT 2 [Hellas-Sat 39.0E 12242 H 13381]"
       ]
     },
