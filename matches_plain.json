@@ -1,6 +1,18 @@
 {
   "matches": [
     {
+      "tournamentEn": "🛡️ FIFA Intercontinental Cup",
+      "tournamentAr": "🛡️ كأس القارات للأندية",
+      "matchEn": "Al Ahli (Egypt) v Mamelodi Sundowns (South Africa)",
+      "matchAr": "الأهلي (مصر) × ماميلودي صنداونز (جنوب أفريقيا)",
+      "time": "13:00",
+      "channels": [
+        "📺 MBC Action [Nilesat 7.0W 11471 V 27500]",
+        "📺 MBC Action [Badrsat 26.0E 11270 V 27500]",
+        "📺 Unite8 Sports 1 [SES 108.3E 11640 H 30000]"
+      ]
+    },
+    {
       "tournamentEn": "🇬🇧 English Premier League",
       "tournamentAr": "🇬🇧 الدوري الإنجليزي الممتاز",
       "matchEn": "Brentford v Chelsea",
@@ -314,39 +326,6 @@
       ]
     },
     {
-      "tournamentEn": "🇩🇪 German Bundesliga",
-      "tournamentAr": "🇩🇪 الدوري الألماني الممتاز",
-      "matchEn": "Bayern Munchen v Union Berlin",
-      "matchAr": "بايرن ميونيخ × يونيون برلين",
-      "time": "18:30",
-      "channels": [
-        "📺 DAZN 2 POR [Hispasat 30W 12399 H 27500]",
-        "📺 MBC Action [Nilesat 7.0W 11471 V 27500]",
-        "📺 Sport 1 [Amos 4.0W 11259 V 30000]",
-        "📺 Arena 4 [Thor 0.8W 12265 V 28000]",
-        "📺 Digi Sport 2 [Thor 0.8W 11823 H 30000]",
-        "📺 Nova Sport 3 CZ [Thor 0.8W 12245 H 30000]",
-        "📺 Prima Sport 2 [Thor 0.8W 12723 H 27500]",
-        "📺 V Sport 1 [Thor 0.8W 10809 H 25000]",
-        "📺 V Sport Football [Thor 0.8W 10809 V 25000]",
-        "📺 Diema Sport 3 [Hotbird 13.0E 12673 V 30000]",
-        "📺 Eleven Sports 1 [Hotbird 13.0E 10796 V 27500]",
-        "📺 Eleven Sports 1 4K [Hotbird 13.0E 11117 V 27500]",
-        "📺 Nova Sports Prime [Hotbird 13.0E 11804 V 30000]",
-        "📺 Sky Sport Arena [Hotbird 13.0E 11996 V 29900]",
-        "📺 Arena Premium 3 SRB [Eutelsat 16.0E 10721 H 30000]",
-        "📺 Arena Premium 4 BIH [Eutelsat 16.0E 11471 H 30000]",
-        "📺 Sport Klub 1 HRV [Eutelsat 16.0E 11471 H 30000]",
-        "📺 Tring Sport 3 [Eutelsat 16.0E 10804 H 29950]",
-        "📺 Sky Sport Bundesliga [Astra 19.2E 12304 H 27500]",
-        "📺 Sky Sport Top Event [Astra 19.2E 11914 H 27500]",
-        "📺 Nova Sport 3 CZ [Eutelsat 23.5E 11934 V 29900]",
-        "📺 MBC Action [Badrsat 26.0E 11270 V 27500]",
-        "📺 Prima Sport 2 [Hellas-Sat 39.0E 12290 V 30000]",
-        "📺 Persiana Sports 1 [TurkmenÄlem 52.0E 11343 H 27500]"
-      ]
-    },
-    {
       "tournamentEn": "🇫🇷 French Ligue 1",
       "tournamentAr": "🇫🇷 الدوري الفرنسي الممتاز",
       "matchEn": "AS Monaco v Lens",
@@ -646,18 +625,6 @@
         "📺 Bein Sport 2 [Badrsat 26.0E 10810 H 27500]",
         "📺 Bein Sport 6 [Badrsat 26.0E 11390 V 27500]",
         "📺 ESPN South Africa [Eutelsat 36.0E 12476 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🏆 FIFA Intercontinental Cup",
-      "tournamentAr": "🏆 كأس القارات للأندية",
-      "matchEn": "Al Ahli v Mamelodi Sundowns",
-      "matchAr": "الأهلي × ماميلودي صنداونز",
-      "time": "13:00",
-      "channels": [
-        "📺 MBC Action [Nilesat 7.0W 11471 V 27500]",
-        "📺 MBC Action [Badrsat 26.0E 11270 V 27500]",
-        "📺 Unite8 Sports 1 [SES 108.3E 11640 H 30000]"
       ]
     }
   ]
