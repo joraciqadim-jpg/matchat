@@ -3,54 +3,14 @@
     {
       "tournamentEn": "🛡️ FIFA Intercontinental Cup",
       "tournamentAr": "🛡️ كأس القارات للأندية",
-      "matchEn": "Al Ahli (Egypt) v Mamelodi Sundowns (South Africa)",
-      "matchAr": "الأهلي (مصر) × ماميلودي صنداونز (جنوب أفريقيا)",
+      "matchEn": "Al Ahli (Saudi Arabia) v Mamelodi Sundowns (South Africa)",
+      "matchAr": "الأهلي (السعودية) × ماميلودي صنداونز (جنوب أفريقيا)",
       "time": "13:00",
       "channels": [
         "📺 MBC Action [Nilesat 7.0W 11471 V 27500]",
         "📺 MBC Action [Badrsat 26.0E 11270 V 27500]",
         "📺 Persiana Sports 2 [TurkmenÄlem 52.0E 11343 H 27500]",
         "📺 Unite8 Sports 1 [SES 108.3E 11640 H 30000]"
-      ]
-    },
-    {
-      "tournamentEn": "🇬🇧 English Premier League",
-      "tournamentAr": "🇬🇧 الدوري الإنجليزي الممتاز",
-      "matchEn": "Tottenham Hotspur v Aston Villa",
-      "matchAr": "توتنهام هوتسبير × أستون فيلا",
-      "time": "11:30",
-      "channels": [
-        "📺 DAZN 1 POR [Hispasat 30W 12399 H 27500]",
-        "📺 Bein Sport 1 [Nilesat 7.0W 11013 H 27500]",
-        "📺 Sport 1 [Amos 4.0W 11259 V 30000]",
-        "📺 Digi Sport 2 [Thor 0.8W 11823 H 30000]",
-        "📺 Spiler TV 1 [Thor 0.8W 12130 H 28000]",
-        "📺 V Sport Premier League [Thor 0.8W 10809 H 25000]",
-        "📺 Canal+ Extra 1 [Hotbird 13.0E 10719 V 27500]",
-        "📺 Diema Sport 2 [Hotbird 13.0E 12673 V 30000]",
-        "📺 Nova Sports Premier League [Hotbird 13.0E 11804 V 30000]",
-        "📺 Sky Sport Calcio [Hotbird 13.0E 11958 V 27500]",
-        "📺 Arena Premium 1 BIH [Eutelsat 16.0E 11595 V 30000]",
-        "📺 Arena Premium 2 SRB [Eutelsat 16.0E 11429 V 28330]",
-        "📺 Arena Sport 1 HRV [Eutelsat 16.0E 11678 H 30000]",
-        "📺 Arena Sport 1 SLO [Eutelsat 16.0E 11678 V 30000]",
-        "📺 Super Sport 3 [Eutelsat 16.0E 10845 H 30000]",
-        "📺 DAZN 1 SPA [Astra 19.2E 10788 V 22000]",
-        "📺 Sky Sport Premier League [Astra 19.2E 12032 H 27500]",
-        "📺 Bein Sport 1 [Badrsat 26.0E 10810 H 27500]",
-        "📺 IRIB Varzesh [Badrsat 26.0E 11881 H 27500]",
-        "📺 TNT Sports 1 [Astra 28.2E 11582 H 23000]",
-        "📺 SuperSport Máximo 1 [Eutelsat 36.0E 12169 H 27500]",
-        "📺 SuperSport Máximo 2 [Eutelsat 36.0E 12169 H 27500]",
-        "📺 SuperSport Premier League [Eutelsat 36.0E 12169 H 27500]",
-        "📺 Prima Sport 4 [Hellas-Sat 39.0E 12290 V 30000]",
-        "📺 IRIB Varzesh [Eutelsat 40.0E 11640 H 30000]",
-        "📺 Idman TV [Azerspace 46.0E 11175 H 30000]",
-        "📺 Persiana Sports 1 [TurkmenÄlem 52.0E 11343 H 27500]",
-        "📺 GEM Sport [Al-Yah 52.5E 12034 V 27500]",
-        "📺 IRIB Varzesh [Thaicom 78.5E 11640 H 30000]",
-        "📺 Star 4K [SES 108.3E 12281 H 44920]",
-        "📺 Star Sports Select 1 [SES 108.3E 11483 H 29000]"
       ]
     },
     {
@@ -423,36 +383,6 @@
         "📺 Persiana Sports 2 [TurkmenÄlem 52.0E 11343 H 27500]",
         "📺 Match! Futbol 1 [Eutelsat 80.0E 11044 V 45000]",
         "📺 Unite8 Sports 1 [SES 108.3E 11640 H 30000]"
-      ]
-    },
-    {
-      "tournamentEn": "🇬🇧 English Championship",
-      "tournamentAr": "🇬🇧 دوري البطولة الإنجليزية",
-      "matchEn": "Millwall v West Ham",
-      "matchAr": "ميلوول × وست هام",
-      "time": "11:30",
-      "channels": [
-        "📺 Sport TV 1 [Hispasat 30W 12360 H 27500]",
-        "📺 Bein Sport 3 [Nilesat 7.0W 12245 V 27500]",
-        "📺 Sport 4 [Amos 4.0W 11259 V 30000]",
-        "📺 Nova Sport 3 CZ [Thor 0.8W 12245 H 30000]",
-        "📺 V Sport 1 [Thor 0.8W 10809 H 25000]",
-        "📺 V Sport Premium [Thor 0.8W 10903 V 25000]",
-        "📺 Cosmote Sport 3 [Hotbird 13.0E 12169 H 30000]",
-        "📺 Diema Sport 3 [Hotbird 13.0E 12673 V 30000]",
-        "📺 Arena Premium 1 SLO [Eutelsat 16.0E 11678 V 30000]",
-        "📺 Arena Premium 1 SRB [Eutelsat 16.0E 11366 V 30000]",
-        "📺 Arena Sport 1 BIH [Eutelsat 16.0E 11678 V 30000]",
-        "📺 Arena Sport 3 HRV [Eutelsat 16.0E 11512 H 30000]",
-        "📺 Sky Sport 8 [Astra 19.2E 11798 H 27500]",
-        "📺 Nova Sport 3 CZ [Eutelsat 23.5E 11934 V 29900]",
-        "📺 Bein Sport 3 [Badrsat 26.0E 10810 H 27500]",
-        "📺 BBC One Northern Ireland [Astra 28.2E 10847 V 23000]",
-        "📺 Sky Sports Football [Astra 28.2E 12012 V 27500]",
-        "📺 Sky Sports Main Event [Astra 28.2E 12012 V 27500]",
-        "📺 ESPN South Africa [Eutelsat 36.0E 12476 H 27500]",
-        "📺 SuperSport Máximo 360 [Eutelsat 36.0E 12380 V 27500]",
-        "📺 Fast Sports [Eutelsat 70.5E 11050 H 17670]"
       ]
     },
     {
