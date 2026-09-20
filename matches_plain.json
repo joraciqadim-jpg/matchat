@@ -406,6 +406,25 @@
       ]
     },
     {
+      "tournamentEn": "🇵🇹 Portuguese Liga 1",
+      "tournamentAr": "🇵🇹 الدوري البرتغالي الممتاز",
+      "matchEn": "Porto v Benfica",
+      "matchAr": "بورتو × بنفيكا",
+      "time": "19:30",
+      "channels": [
+        "📺 Sport TV + [Hispasat 30W 12399 H 27500]",
+        "📺 Sport TV 1 [Hispasat 30W 12360 H 27500]",
+        "📺 Arena Sport 1 SVK [Thor 0.8W 12456 V 30000]",
+        "📺 Digi Sport 2 [Thor 0.8W 11823 H 30000]",
+        "📺 TV 4 Sportkanalen [Thor 0.8W 10778 H 25000]",
+        "📺 Eleven Sports 1 [Hotbird 13.0E 10796 V 27500]",
+        "📺 Eleven Sports 1 4K [Hotbird 13.0E 11117 V 27500]",
+        "📺 Arena Sport 1 SVK [Eutelsat 16.0E 11055 V 27500]",
+        "📺 BeIn Sports 1 France [Astra 19.2E 12168 V 29700]",
+        "📺 Arena Sport 1 SVK [Astra 23.5E 12012 V 29900]"
+      ]
+    },
+    {
       "tournamentEn": "🇬🇧 English Championship",
       "tournamentAr": "🇬🇧 دوري البطولة الإنجليزية",
       "matchEn": "Wolverhampton v West Bromwich Albion",
