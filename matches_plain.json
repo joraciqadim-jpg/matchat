@@ -89,22 +89,6 @@
     {
       "tournamentEn": "🇦🇷 Argentinean Primera Division - Clausura",
       "tournamentAr": "🇦🇷 الدوري الأرجنتيني الممتاز",
-      "matchEn": "San Lorenzo v Boca Juniors",
-      "matchAr": "سان لورينزو × بوكا جونيورز",
-      "time": "17:45",
-      "channels": [
-        "📺 Sport TV 5 [Hispasat 30W 12360 H 27500]",
-        "📺 Dubai Sports 2 [Nilesat 7.0W 12418 H 30000]",
-        "📺 Sportitalia HD [Eutelsat 9.0E 12341 V 31400]",
-        "📺 Arena Sport 2 SRB [Eutelsat 16.0E 11429 V 28330]",
-        "📺 Arena Sport 3 HRV [Eutelsat 16.0E 11512 H 30000]",
-        "📺 M+ Liga de Campeones [Astra 19.2E 11259 V 22000]",
-        "📺 Dubai Sports 2 [Badrsat 26.0E 12130 V 30000]"
-      ]
-    },
-    {
-      "tournamentEn": "🇦🇷 Argentinean Primera Division - Clausura",
-      "tournamentAr": "🇦🇷 الدوري الأرجنتيني الممتاز",
       "matchEn": "Rosario Central v Argentinos Juniors",
       "matchAr": "روزاريو سنترال × أرجنتينوس جونيورز",
       "time": "20:00",
@@ -155,23 +139,6 @@
       "matchAr": "أتلتيكو باراناينسي × باهيا",
       "time": "22:30",
       "channels": [
-        "📺 Match! Futbol 3 [Eutelsat 80.0E 11044 V 45000]"
-      ]
-    },
-    {
-      "tournamentEn": "🇹🇷 Turkish Süper Lig",
-      "tournamentAr": "🇹🇷 الدوري التركي الممتاز",
-      "matchEn": "Amed v Beşiktaş",
-      "matchAr": "آمد × بشكتاش",
-      "time": "17:00",
-      "channels": [
-        "📺 Bein Sport 6 [Nilesat 7.0W 11054 H 27500]",
-        "📺 Arena Sport 3 SRB [Eutelsat 16.0E 10721 H 30000]",
-        "📺 Sport Klub 4 [Eutelsat 16.0E 11595 V 30000]",
-        "📺 Super Sport 4 [Eutelsat 16.0E 10845 H 30000]",
-        "📺 Bein Sport 6 [Badrsat 26.0E 11390 V 27500]",
-        "📺 ESPN 2 South Africa [Eutelsat 36.0E 12092 H 27500]",
-        "📺 Prima Sport 4 [Hellas-Sat 39.0E 12290 V 30000]",
         "📺 Match! Futbol 3 [Eutelsat 80.0E 11044 V 45000]"
       ]
     },
