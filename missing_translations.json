@@ -1,13 +1,25 @@
 {
-  "Dubocica": {
+  "asian games": {
+    "en": "Asian Games",
+    "ar": "دورة الألعاب الآسيوية"
+  },
+  "philippines": {
+    "en": "Philippines",
+    "ar": "الفلبين"
+  },
+  "south korea": {
+    "en": "South Korea",
+    "ar": "كوريا الجنوبية"
+  },
+  "dubocica": {
     "en": "Dubocica",
     "ar": "دوبوتشيتسا"
   },
-  "PAS Pyrgos 1968": {
+  "pas pyrgos 1968": {
     "en": "PAS Pyrgos 1968",
     "ar": "باس بيرغوس 1968"
   },
-  "AEL Larissa": {
+  "ael larissa": {
     "en": "AEL Larissa",
     "ar": "إيل لاريسا"
   },
