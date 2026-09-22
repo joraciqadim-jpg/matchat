@@ -1,16 +1,3 @@
 {
-  "matches": [
-    {
-      "tournamentEn": "🏁 Asian Games",
-      "tournamentAr": "🏁 دورة الألعاب الآسيوية",
-      "matchEn": "South Korea v Saudi Arabia",
-      "matchAr": "كوريا الجنوبية × السعودية",
-      "time": "10:00",
-      "channels": [
-        "📺 Bein Sport 5 [Nilesat 7.0W 12188 H 27500]",
-        "📺 Bein Sport 5 [Badrsat 26.0E 10810 H 27500]",
-        "📺 Persiana Sports 1 [TurkmenÄlem 52.0E 11343 H 27500]"
-      ]
-    }
-  ]
+  "matches": []
 }
