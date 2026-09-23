@@ -139,33 +139,6 @@
     {
       "tournamentEn": "🏆 Gulf Cup",
       "tournamentAr": "🏆 كأس الخليج",
-      "matchEn": "Saudi Arabia v Kuwait",
-      "matchAr": "السعودية × الكويت",
-      "time": "18:00",
-      "channels": [
-        "📺 Sport TV 2 [Hispasat 30W 12360 H 27500]",
-        "📺 1 [Eutelsat 8W 11054 V 27500]",
-        "📺 1 [Nilesat 7.0W 12169 V 27500]",
-        "📺 Al Kass One [Nilesat 7.0W 11919 H 27500]",
-        "📺 Al Kass Two [Nilesat 7.0W 11919 H 27500]",
-        "📺 KSA Sport 1 [Nilesat 7.0W 12284 V 27500]",
-        "📺 MBC 1 [Nilesat 7.0W 11471 V 27500]",
-        "📺 Sportdigital Fussball [Astra 19.2E 11186 V 22000]",
-        "📺 1 [Badrsat 26.0E 12523 H 27500]",
-        "📺 Al Kass One [Badrsat 26.0E 12245 V 27500]",
-        "📺 Al Kass One [Badrsat 26.0E 10770 V 27500]",
-        "📺 Al Kass Two [Badrsat 26.0E 12245 V 27500]",
-        "📺 Al Kass Two [Badrsat 26.0E 10770 V 27500]",
-        "📺 KSA Sport 1 [Badrsat 26.0E 12149 H 27500]",
-        "📺 MBC 1 [Badrsat 26.0E 11270 V 27500]",
-        "📺 Bahrain Sport 1 [Badrsat 26.0E 12226 H 27500]",
-        "📺 Persiana Sports 1 [TurkmenÄlem 52.0E 11343 H 27500]",
-        "📺 KSA Sport 1 [Al Yah 52.5E 11747 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🏆 Gulf Cup",
-      "tournamentAr": "🏆 كأس الخليج",
       "matchEn": "Qatar v Bahrain",
       "matchAr": "قطر × البحرين",
       "time": "18:00",
@@ -188,8 +161,8 @@
     {
       "tournamentEn": "🏆 Africa Cup of Nations Qualification",
       "tournamentAr": "🏆 تصفيات كأس أمم أفريقيا",
-      "matchEn": "Mauritania v Central African Republic",
-      "matchAr": "موريتانيا × جمهورية أفريقيا الوسطى",
+      "matchEn": "Mauritania v Central African",
+      "matchAr": "موريتانيا × أفريقيا الوسطى",
       "time": "16:00",
       "channels": [
         "📺 Bein Sport 2 [Nilesat 7.0W 11013 H 27500]",
