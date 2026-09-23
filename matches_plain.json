@@ -225,6 +225,19 @@
     {
       "tournamentEn": "🏆 Africa Cup of Nations Qualification",
       "tournamentAr": "🏆 تصفيات كأس أمم أفريقيا",
+      "matchEn": "Cameroon v Comoros",
+      "matchAr": "الكاميرون × جزر القمر",
+      "time": "19:00",
+      "channels": [
+        "📺 CRTV Sports HD [Eutelsat 8.0W [C-band] 3832 L 7585]",
+        "📺 Bein Sport 8 [Nilesat 7.0W 11054 H 27500]",
+        "📺 BeIn Sports Max 4 France [Astra 19.2E 12324 V 29700]",
+        "📺 Bein Sport 8 [Badrsat 26.0E 10810 V 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "🏆 Africa Cup of Nations Qualification",
+      "tournamentAr": "🏆 تصفيات كأس أمم أفريقيا",
       "matchEn": "Tunisia v Uganda",
       "matchAr": "تونس × أوغندا",
       "time": "19:00",
