@@ -1,49 +1,61 @@
 {
-  "Leuven": {
+  "asia gulf cup": {
+    "en": "Gulf Cup",
+    "ar": "كأس الخليج"
+  },
+  "kyrgyzstan": {
+    "en": "Kyrgyzstan",
+    "ar": "قيرغيزستان"
+  },
+  "hong kong": {
+    "en": "Hong Kong",
+    "ar": "هونغ كونغ"
+  },
+  "leuven": {
     "en": "Leuven",
     "ar": "لوفن"
   },
-  "FIFA U-20 Women's World Cup": {
+  "fifa women world cup": {
     "en": "FIFA U-20 Women's World Cup",
     "ar": "كأس العالم للسيدات تحت 20 سنة"
   },
-  "UEFA Womens Europa Cup": {
+  "uefa womens europa cup": {
     "en": "UEFA Women's Europa Cup",
     "ar": "كأس أوروبا للسيدات"
   },
-  "Spartak Myjava": {
+  "spartak myjava": {
     "en": "Spartak Myjava",
     "ar": "سبارتاك ميافا"
   },
-  "Arabian Gulf Cup": {
+  "arabian gulf cup": {
     "en": "Arabian Gulf Cup",
     "ar": "كأس الخليج العربي"
   },
-  "Tajikistan": {
+  "tajikistan": {
     "en": "Tajikistan",
     "ar": "طاجيكستان"
   },
-  "North Korea": {
+  "north korea": {
     "en": "North Korea",
     "ar": "كوريا الشمالية"
   },
-  "Koreanorth": {
+  "koreanorth": {
     "en": "North Korea",
     "ar": "كوريا الشمالية"
   },
-  "English League Trophy - Group North": {
+  "english league trophy group north": {
     "en": "English League Trophy - Group North",
     "ar": "كأس الدوري الإنجليزي - المجموعة الشمالية"
   },
-  "Salford City": {
+  "salford city": {
     "en": "Salford City",
     "ar": "سالفورد سيتي"
   },
-  "Scottish Challenge Cup - Group Stage": {
+  "scottish challenge cup group stage": {
     "en": "Scottish Challenge Cup - Group Stage",
     "ar": "كأس التحدي الاسكتلندي - دور المجموعات"
   },
-  "Celtic B": {
+  "celtic b": {
     "en": "Celtic B",
     "ar": "سيلتيك ب"
   },
