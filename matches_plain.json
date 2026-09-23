@@ -162,6 +162,79 @@
         "📺 Persiana Sports 1 [TurkmenÄlem 52.0E 11343 H 27500]",
         "📺 KSA Sport 1 [Al Yah 52.5E 11747 H 27500]"
       ]
+    },
+    {
+      "tournamentEn": "🏆 Gulf Cup",
+      "tournamentAr": "🏆 كأس الخليج",
+      "matchEn": "Qatar v Bahrain",
+      "matchAr": "قطر × البحرين",
+      "time": "18:00",
+      "channels": [
+        "📺 1 [Eutelsat 8W 11054 V 27500]",
+        "📺 1 [Nilesat 7.0W 12169 V 27500]",
+        "📺 Al Kass One [Nilesat 7.0W 11919 H 27500]",
+        "📺 Sharjah Sports [Nilesat 7.0W 11013 V 27500]",
+        "📺 MBC Action [Nilesat 7.0W 11471 V 27500]",
+        "📺 Abu Dhabi Sports 1 [Nilesat 7.0W 11411 H 30000]",
+        "📺 Sportdigital Fussball [Astra 19.2E 11186 V 22000]",
+        "📺 Bahrain Sport 1 [Badrsat 26.0E 12226 H 27500]",
+        "📺 1 [Badrsat 26.0E 12523 H 27500]",
+        "📺 Al Kass One [Badrsat 26.0E 12245 V 27500]",
+        "📺 Al Kass One [Badrsat 26.0E 10770 V 27500]",
+        "📺 MBC Action [Badrsat 26.0E 11270 V 27500]",
+        "📺 Abu Dhabi Sports 1 [Badrsat 26.0E 11804 H 30000]"
+      ]
+    },
+    {
+      "tournamentEn": "🏆 Africa Cup of Nations Qualification",
+      "tournamentAr": "🏆 تصفيات كأس أمم أفريقيا",
+      "matchEn": "Mauritania v Central African Republic",
+      "matchAr": "موريتانيا × جمهورية أفريقيا الوسطى",
+      "time": "16:00",
+      "channels": [
+        "📺 Bein Sport 2 [Nilesat 7.0W 11013 H 27500]",
+        "📺 Bein Sport 2 [Badrsat 26.0E 10810 H 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "🏆 Africa Cup of Nations Qualification",
+      "tournamentAr": "🏆 تصفيات كأس أمم أفريقيا",
+      "matchEn": "Libya v Botswana",
+      "matchAr": "ليبيا × بوتسوانا",
+      "time": "16:00",
+      "channels": [
+        "📺 Bein Sport 1 [Nilesat 7.0W 11013 H 27500]",
+        "📺 Bein Sport 1 [Badrsat 26.0E 10810 H 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "🏆 Africa Cup of Nations Qualification",
+      "tournamentAr": "🏆 تصفيات كأس أمم أفريقيا",
+      "matchEn": "Côte d'Ivoire v Ghana",
+      "matchAr": "ساحل العاج × غانا",
+      "time": "19:00",
+      "channels": [
+        "📺 Sport TV 5 [Hispasat 30W 12360 H 27500]",
+        "📺 Bein Sport 7 [Nilesat 7.0W 12188 H 27500]",
+        "📺 Bein Sport 2 [Nilesat 7.0W 11013 H 27500]",
+        "📺 BeIn Sports 2 France [Astra 19.2E 11856 V 29700]",
+        "📺 Bein Sport 7 [Badrsat 26.0E 10850 V 27500]",
+        "📺 Bein Sport 2 [Badrsat 26.0E 10810 H 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "🏆 Africa Cup of Nations Qualification",
+      "tournamentAr": "🏆 تصفيات كأس أمم أفريقيا",
+      "matchEn": "Tunisia v Uganda",
+      "matchAr": "تونس × أوغندا",
+      "time": "19:00",
+      "channels": [
+        "📺 Bein Sport 1 [Nilesat 7.0W 11013 H 27500]",
+        "📺 Watania 1 HD [Nilesat 7.0W 10873 V 27500]",
+        "📺 BeIn Sports Max 5 France [Astra 19.2E 12324 V 29700]",
+        "📺 Bein Sport 1 [Badrsat 26.0E 10810 H 27500]",
+        "📺 Watania 1 HD [Badrsat 26.0E 12643 H 27500]"
+      ]
     }
   ]
 }
