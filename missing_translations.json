@@ -1,201 +1,209 @@
 {
-  "Tanzania": {
-    "en": "Tanzania",
-    "ar": "تنزانيا"
+  "cabo verde": {
+    "en": "Cape Verde",
+    "ar": "الرأس الأخضر"
   },
-  "Guinea-Bissau": {
-    "en": "Guinea-Bissau",
-    "ar": "غينيا بيساو"
-  },
-  "Guinea": {
-    "en": "Guinea",
-    "ar": "غينيا"
-  },
-  "Niger": {
-    "en": "Niger",
-    "ar": "النيجر"
-  },
-  "Lesotho": {
-    "en": "Lesotho",
-    "ar": "ليسوتو"
-  },
-  "Sudan": {
-    "en": "Sudan",
-    "ar": "السودان"
-  },
-  "Ethiopia": {
-    "en": "Ethiopia",
-    "ar": "إثيوبيا"
-  },
-  "Togo": {
-    "en": "Togo",
-    "ar": "توغو"
-  },
-  "Burundi": {
-    "en": "Burundi",
-    "ar": "بوروندي"
-  },
-  "Gambia": {
-    "en": "Gambia",
-    "ar": "غامبيا"
-  },
-  "Somalia": {
-    "en": "Somalia",
-    "ar": "الصومال"
-  },
-  "Rwanda": {
-    "en": "Rwanda",
-    "ar": "رواندا"
-  },
-  "Liberia": {
-    "en": "Liberia",
-    "ar": "ليبيريا"
-  },
-  "Kazakhstan": {
-    "en": "Kazakhstan",
-    "ar": "كازاخستان"
-  },
-  "Mozambique": {
-    "en": "Mozambique",
-    "ar": "موزمبيق"
-  },
-  "Senegal": {
-    "en": "Senegal",
-    "ar": "السنغال"
-  },
-  "Mladost Ždralovi": {
-    "en": "Mladost Ždralovi",
-    "ar": "ملادوست جدرالوفي"
-  },
-  "UEFA U-21 Championship 2027 Qualifiers": {
-    "en": "2027 UEFA European Under-21 Championship Qualifiers",
-    "ar": "تصفيات بطولة أوروبا تحت 21 سنة 2027"
-  },
-  "Nigeria": {
-    "en": "Nigeria",
-    "ar": "نيجيريا"
-  },
-  "Madagascar": {
-    "en": "Madagascar",
-    "ar": "مدغشقر"
-  },
-  "Northern Ireland": {
-    "en": "Northern Ireland",
-    "ar": "أيرلندا الشمالية"
-  },
-  "South Sudan": {
-    "en": "South Sudan",
-    "ar": "جنوب السودان"
-  },
-  "Sthsudan": {
-    "en": "South Sudan",
-    "ar": "جنوب السودان"
-  },
-  "Türkiye": {
-    "en": "Turkey",
-    "ar": "تركيا"
-  },
-  "Bosnia-Herzegovina": {
+  "bosnia herzegovina": {
     "en": "Bosnia and Herzegovina",
     "ar": "البوسنة والهرسك"
   },
-  "Gabon": {
+  "tanzania": {
+    "en": "Tanzania",
+    "ar": "تنزانيا"
+  },
+  "guineabissau": {
+    "en": "Guinea-Bissau",
+    "ar": "غينيا بيساو"
+  },
+  "guinea": {
+    "en": "Guinea",
+    "ar": "غينيا"
+  },
+  "niger": {
+    "en": "Niger",
+    "ar": "النيجر"
+  },
+  "lesotho": {
+    "en": "Lesotho",
+    "ar": "ليسوتو"
+  },
+  "sudan": {
+    "en": "Sudan",
+    "ar": "السودان"
+  },
+  "ethiopia": {
+    "en": "Ethiopia",
+    "ar": "إثيوبيا"
+  },
+  "togo": {
+    "en": "Togo",
+    "ar": "توغو"
+  },
+  "burundi": {
+    "en": "Burundi",
+    "ar": "بوروندي"
+  },
+  "gambia": {
+    "en": "Gambia",
+    "ar": "غامبيا"
+  },
+  "somalia": {
+    "en": "Somalia",
+    "ar": "الصومال"
+  },
+  "rwanda": {
+    "en": "Rwanda",
+    "ar": "رواندا"
+  },
+  "liberia": {
+    "en": "Liberia",
+    "ar": "ليبيريا"
+  },
+  "kazakhstan": {
+    "en": "Kazakhstan",
+    "ar": "كازاخستان"
+  },
+  "mozambique": {
+    "en": "Mozambique",
+    "ar": "موزمبيق"
+  },
+  "senegal": {
+    "en": "Senegal",
+    "ar": "السنغال"
+  },
+  "mladost dralovi": {
+    "en": "Mladost Ždralovi",
+    "ar": "ملادوست جدرالوفي"
+  },
+  "uefa championship 2027 qualifiers": {
+    "en": "2027 UEFA European Under-21 Championship Qualifiers",
+    "ar": "تصفيات بطولة أوروبا تحت 21 سنة 2027"
+  },
+  "nigeria": {
+    "en": "Nigeria",
+    "ar": "نيجيريا"
+  },
+  "madagascar": {
+    "en": "Madagascar",
+    "ar": "مدغشقر"
+  },
+  "northern ireland": {
+    "en": "Northern Ireland",
+    "ar": "أيرلندا الشمالية"
+  },
+  "south sudan": {
+    "en": "South Sudan",
+    "ar": "جنوب السودان"
+  },
+  "sthsudan": {
+    "en": "South Sudan",
+    "ar": "جنوب السودان"
+  },
+  "trkiye": {
+    "en": "Turkey",
+    "ar": "تركيا"
+  },
+  "bosniaherzegovina": {
+    "en": "Bosnia and Herzegovina",
+    "ar": "البوسنة والهرسك"
+  },
+  "gabon": {
     "en": "Gabon",
     "ar": "الغابون"
   },
-  "Zambia": {
+  "zambia": {
     "en": "Zambia",
     "ar": "زامبيا"
   },
-  "Mali": {
+  "mali": {
     "en": "Mali",
     "ar": "مالي"
   },
-  "Cape Verde": {
+  "cape verde": {
     "en": "Cape Verde",
     "ar": "الرأس الأخضر"
   },
-  "Capeverde": {
+  "capeverde": {
     "en": "Cape Verde",
     "ar": "الرأس الأخضر"
   },
-  "Angola": {
+  "angola": {
     "en": "Angola",
     "ar": "أنغولا"
   },
-  "Namibia": {
+  "namibia": {
     "en": "Namibia",
     "ar": "ناميبيا"
   },
-  "Congo BR": {
+  "congo br": {
     "en": "Congo",
     "ar": "جمهورية الكونغو"
   },
-  "Congobr": {
+  "congobr": {
     "en": "Congo",
     "ar": "جمهورية الكونغو"
   },
-  "Car": {
+  "car": {
     "en": "Central Africa",
     "ar": "أفريقيا الوسطى"
   },
-  "Congo DR": {
+  "congo dr": {
     "en": "Congo",
     "ar": "الكونغو الديمقراطية"
   },
-  "Equatorial Guinea": {
+  "equatorial guinea": {
     "en": "Equatorial Guinea",
     "ar": "غينيا الاستوائية"
   },
-  "Congodr": {
+  "congodr": {
     "en": "Congo",
     "ar": "الكونغو الديمقراطية"
   },
-  "Eqguinea": {
+  "eqguinea": {
     "en": "Equatorial Guinea",
     "ar": "غينيا الاستوائية"
   },
-  "Sierra Leone": {
+  "sierra leone": {
     "en": "Sierra Leone",
     "ar": "سيراليون"
   },
-  "Zimbabwe": {
+  "zimbabwe": {
     "en": "Zimbabwe",
     "ar": "زيمبابوي"
   },
-  "Sierraleone": {
+  "sierraleone": {
     "en": "Sierra Leone",
     "ar": "سيراليون"
   },
-  "Rionegro Águilas": {
+  "rionegro guilas": {
     "en": "Rionegro Águilas",
     "ar": "ريونيغرو أغيلاس"
   },
-  "Yemen": {
+  "yemen": {
     "en": "Yemen",
     "ar": "اليمن"
   },
-  "UEFA Nations League": {
+  "uefa nations league": {
     "en": "UEFA Nations League",
     "ar": "دوري الأمم الأوروبية"
   },
-  "Malta": {
+  "malta": {
     "en": "Malta",
     "ar": "مالطا"
   },
-  "Liechtenstein": {
+  "liechtenstein": {
     "en": "Liechtenstein",
     "ar": "ليختنشتاين"
   },
-  "CAF African Cup of Nations": {
+  "caf african cup of nations": {
     "en": "CAF Africa Cup of Nations",
     "ar": "كأس الأمم الأفريقية"
   },
-  "Ivory Coast": {
+  "ivory coast": {
     "en": "Ivory Coast",
     "ar": "ساحل العاج"
   },
-  "Ivorycoast": {
+  "ivorycoast": {
     "en": "Ivory Coast",
     "ar": "ساحل العاج"
   },
