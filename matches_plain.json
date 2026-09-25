@@ -3,47 +3,6 @@
     {
       "tournamentEn": "🛡️ UEFA Nations League",
       "tournamentAr": "🛡️ دوري الأمم الأوروبية",
-      "matchEn": "Georgia v Northern Ireland",
-      "matchAr": "جورجيا × أيرلندا الشمالية",
-      "time": "16:00",
-      "channels": [
-        "📺 Sport TV 1 [Hispasat 30W 12360 H 27500]",
-        "📺 Bein Sport 2 [Nilesat 7.0W 11013 H 27500]",
-        "📺 Sport 1 [Amos 4.0W 11259 V 30000]",
-        "📺 Sport 2 CZE [Thor 0.8W 12149 V 30000]",
-        "📺 Digi Sport 2 [Thor 0.8W 11823 H 30000]",
-        "📺 Prima Sport 2 [Thor 0.8W 12723 H 27500]",
-        "📺 Spiler TV 2 [Thor 0.8W 11727 V 28000]",
-        "📺 TV 2 Sport Premium [Thor 0.8W 10747 H 25000]",
-        "📺 Diema Sport 3 [Hotbird 13.0E 12673 V 30000]",
-        "📺 Nova Sports Premier League [Hotbird 13.0E 11804 V 30000]",
-        "📺 Polsat Sport 2 [Hotbird 13.0E 12265 V 27500]",
-        "📺 Sky Sport Calcio [Hotbird 13.0E 11958 V 27500]",
-        "📺 Arena Premium 1 BIH [Eutelsat 16.0E 11595 V 30000]",
-        "📺 Arena Premium 2 SRB [Eutelsat 16.0E 11429 V 28330]",
-        "📺 Sport 2 CZE [Eutelsat 16.0E 11094 V 27500]",
-        "📺 Sport Klub 1 HRV [Eutelsat 16.0E 11471 H 30000]",
-        "📺 Sport Klub 1 SLO [Eutelsat 16.0E 11471 H 30000]",
-        "📺 DAZN 1 GER [Astra 19.2E 12382 H 27500]",
-        "📺 Sport 2 CZE [Eutelsat 23.5E 12090 V 29900]",
-        "📺 Ziggo Sport 2 [Eutelsat 23.5E 12129 V 29900]",
-        "📺 Bein Sport 2 [Badrsat 26.0E 10810 H 27500]",
-        "📺 BBC Two [Astra 28.2E 10847 V 23000]",
-        "📺 Premier Sports 2 [Astra 28.2E 12188 H 27500]",
-        "📺 1TV [Eutelsat 36.0E 11221 H 30000]",
-        "📺 SuperSport Máximo 1 [Eutelsat 36.0E 12169 H 27500]",
-        "📺 SuperSport Máximo 2 [Eutelsat 36.0E 12169 H 27500]",
-        "📺 SuperSport Premier League [Eutelsat 36.0E 12169 H 27500]",
-        "📺 Prima Sport 2 [Hellas-Sat 39.0E 12290 V 30000]",
-        "📺 1TV [Azerspace 46.0E 11095 H 30000]",
-        "📺 CBC Sport [Azerspace 46.0E 11175 H 30000]",
-        "📺 Persiana Sports 2 [TurkmenÄlem 52.0E 11343 H 27500]",
-        "📺 Sony Sports Ten 1 [SES 108.3E 11483 H 29000]"
-      ]
-    },
-    {
-      "tournamentEn": "🛡️ UEFA Nations League",
-      "tournamentAr": "🛡️ دوري الأمم الأوروبية",
       "matchEn": "Italy v Belgium",
       "matchAr": "إيطاليا × بلجيكا",
       "time": "18:45",
@@ -206,41 +165,6 @@
         "📺 Antena 1 [Hellas-Sat 39.0E 12328 V 30000]",
         "📺 A Spor [Turksat 42.0E 12054 H 27500]",
         "📺 Persiana Sports 3 [TurkmenÄlem 52.0E 11343 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🏆 Africa Cup of Nations Qualification",
-      "tournamentAr": "🏆 تصفيات كأس أمم أفريقيا",
-      "matchEn": "Malawi v South Sudan",
-      "matchAr": "مالاوي × جنوب السودان",
-      "time": "16:00",
-      "channels": [
-        "📺 BeIn Sports Xtra 3 [Nilesat 7.0W 11054 H 27500]",
-        "📺 BeIn Sports Xtra 3 [Badrsat 26.0E 10810 V 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🏆 Africa Cup of Nations Qualification",
-      "tournamentAr": "🏆 تصفيات كأس أمم أفريقيا",
-      "matchEn": "Sudan v Ethiopia",
-      "matchAr": "السودان × إثيوبيا",
-      "time": "16:00",
-      "channels": [
-        "📺 Bein Sport 1 [Nilesat 7.0W 11013 H 27500]",
-        "📺 Bein Sport 1 [Badrsat 26.0E 10810 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🏆 Africa Cup of Nations Qualification",
-      "tournamentAr": "🏆 تصفيات كأس أمم أفريقيا",
-      "matchEn": "Nigeria v Madagascar",
-      "matchAr": "نيجيريا × مدغشقر",
-      "time": "16:00",
-      "channels": [
-        "📺 Bein Sport 3 [Nilesat 7.0W 12245 V 27500]",
-        "📺 DAZN 2 GER [Astra 19.2E 12382 H 27500]",
-        "📺 Bein Sport 3 [Badrsat 26.0E 10810 H 27500]",
-        "📺 SuperSport LaLiga [Eutelsat 36.0E 12169 H 27500]"
       ]
     },
     {
