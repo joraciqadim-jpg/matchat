@@ -131,13 +131,15 @@
     {
       "tournamentEn": "🏆 Africa Cup of Nations Qualification",
       "tournamentAr": "🏆 تصفيات كأس أمم أفريقيا",
-      "matchEn": "Comoros v Namibia",
-      "matchAr": "جزر القمر × ناميبيا",
-      "time": "12:00",
+      "matchEn": "Mozambique v Sudan",
+      "matchAr": "موزمبيق × السودان",
+      "time": "13:00",
       "channels": [
-        "📺 Bein Sport 9 [Nilesat 7.0W 12188 H 27500]",
-        "📺 5 Live [Amos 4.0W 11259 V 30000]",
-        "📺 Bein Sport 9 [Badrsat 26.0E 10850 V 27500]"
+        "📺 Sport TV 1 [Hispasat 30W 12360 H 27500]",
+        "📺 Bein Sport 5 [Nilesat 7.0W 12188 H 27500]",
+        "📺 Bein Sport 5 [Badrsat 26.0E 10810 H 27500]",
+        "📺 TVM [Eutelsat 36.0E 12399 H 27500]",
+        "📺 Persiana Sports 3 [Turkmenlem 52.0E 11343 H 27500]"
       ]
     },
     {
