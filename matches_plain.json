@@ -1,6 +1,20 @@
 {
   "matches": [
     {
+      "tournamentEn": "🏆 Africa Cup of Nations Qualification",
+      "tournamentAr": "🏆 تصفيات كأس أمم أفريقيا",
+      "matchEn": "Eritrea v South Africa",
+      "matchAr": "إريتريا × جنوب أفريقيا",
+      "time": "16:00",
+      "channels": [
+        "📺 Bein Sport 3 [Nilesat 7.0W 12245 V 27500]",
+        "📺 5 Stars [Amos 4.0W 11259 V 30000]",
+        "📺 Bein Sport 3 [Badrsat 26.0E 10810 H 27500]",
+        "📺 SuperSport Máximo 1 [Eutelsat 36.0E 12169 H 27500]",
+        "📺 SuperSport Máximo 360 [Eutelsat 36.0E 12380 V 27500]"
+      ]
+    },
+    {
       "tournamentEn": "🏆 Gulf Cup",
       "tournamentAr": "🏆 كأس الخليج",
       "matchEn": "Bahrain v Yemen",
