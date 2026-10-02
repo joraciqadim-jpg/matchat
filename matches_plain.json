@@ -14,15 +14,16 @@
         "📺 Diema Sport 2 [Hotbird 13.0E 12673 V 30000]",
         "📺 Nova Sports Extra 2 [Hotbird 13.0E 11804 V 30000]",
         "📺 Polsat Sport Extra 2 [Hotbird 13.0E 12265 V 27500]",
-        "📺 Sky Sport 251 [Hotbird 13.0E 12073 V 29900]",
+        "📺 Sky Sport Uno [Hotbird 13.0E 11958 V 27500]",
         "📺 Arena Sport 4 SRB [Eutelsat 16.0E 11366 V 30000]",
         "📺 Super Sport 3 [Eutelsat 16.0E 10845 H 30000]",
         "📺 Bein Sport 2 [Badrsat 26.0E 10810 H 27500]",
         "📺 SuperSport Football Plus [Eutelsat 36.0E 12284 H 27500]",
         "📺 atv [Turksat 42.0E 12054 H 27500]",
-        "📺 TV 8 TUR [Turksat 42.0E 12356 H 7100]",
         "📺 CBC Sport [Azerspace 46.0E 11175 H 30000]",
-        "📺 QazSport [KazSat 58.5E 12657 V 45000]"
+        "📺 Persiana Sports 2 [Turkmenlem 52.0E 11343 H 27500]",
+        "📺 QazSport [KazSat 58.5E 12657 V 45000]",
+        "📺 Sony Sports Ten 1 [SES 108.3E 11483 H 29000]"
       ]
     },
     {
@@ -59,12 +60,11 @@
         "📺 Sport Klub 1 HRV [Eutelsat 16.0E 11471 H 30000]",
         "📺 Sport Klub 2 SLO [Eutelsat 16.0E 11387 H 32000]",
         "📺 Super Sport 2 [Eutelsat 16.0E 10845 H 30000]",
-        "📺 BeIn Sports 1 France [Astra 19.2E 12168 V 29700]",
         "📺 DAZN 1 GER [Astra 19.2E 12382 H 27500]",
         "📺 La 1 UHD [Astra 19.2E 10729 V 23500]",
         "📺 TVE La 1 [Astra 19.2E 11038 V 22000]",
-        "📺 Sport 1 CZE [Astra 23.5E 12070 H 27500]",
-        "📺 Ziggo Sport 2 [Astra 23.5E 12129 V 29900]",
+        "📺 Sport 1 CZE [Eutelsat 23.5E 12070 H 27500]",
+        "📺 Ziggo Sport 2 [Eutelsat 23.5E 12129 V 29900]",
         "📺 Bein Sport 1 [Badrsat 26.0E 10810 H 27500]",
         "📺 IRIB Varzesh [Badrsat 26.0E 11881 H 27500]",
         "📺 Premier Sports 2 [Astra 28.2E 12188 H 27500]",
@@ -75,7 +75,9 @@
         "📺 IRIB Varzesh [Eutelsat 40.0E 11640 H 30000]",
         "📺 A Spor [Turksat 42.0E 12054 H 27500]",
         "📺 Meraj TV [Turkmenlem 52.0E 11221 V 27500]",
+        "📺 Persiana Sports 1 [Turkmenlem 52.0E 11343 H 27500]",
         "📺 Solhsports [Turkmenlem 52.0E 10845 V 27500]",
+        "📺 Arezo TV [Al-Yah 52.5E 12015 H 27500]",
         "📺 GEM Sport [Al-Yah 52.5E 12034 V 27500]",
         "📺 Fast Sports [Eutelsat 70.5E 11050 H 17670]",
         "📺 IRIB Varzesh [Thaicom 78.5E 11640 H 30000]",
@@ -97,8 +99,9 @@
         "📺 M4 Sport [Eutelsat 9.0E 11958 V 27500]",
         "📺 Nova Sports Extra 3 [Hotbird 13.0E 12169 H 30000]",
         "📺 Polsat Sport Extra 1 [Hotbird 13.0E 12265 V 27500]",
+        "📺 Sky Sport 251 [Hotbird 13.0E 12073 V 29900]",
         "📺 Arena Sport 7 SRB [Eutelsat 16.0E 11366 V 30000]",
-        "📺 M4 Sport [Astra 23.5E 11739 V 29900]",
+        "📺 M4 Sport [Eutelsat 23.5E 11739 V 29900]",
         "📺 Bein Sport 5 [Badrsat 26.0E 10810 H 27500]",
         "📺 1TV [Eutelsat 36.0E 11221 H 30000]",
         "📺 Prima Sport 2 [Hellas-Sat 39.0E 12290 V 30000]",
@@ -112,7 +115,6 @@
       "matchAr": "البوسنة والهرسك × السويد",
       "time": "18:45",
       "channels": [
-        "📺 Sport TV 3 [Hispasat 30W 12360 H 27500]",
         "📺 Sport TV 5 [Hispasat 30W 12360 H 27500]",
         "📺 Bein Sport 3 [Nilesat 7.0W 12245 V 27500]",
         "📺 Sport 3 [Amos 4.0W 11259 V 30000]",
@@ -122,13 +124,80 @@
         "📺 Nova Sport BUL [Hotbird 13.0E 12654 H 30000]",
         "📺 Nova Sports News [Hotbird 13.0E 11938 H 30000]",
         "📺 Polsat Sport Premium 1 [Hotbird 13.0E 11117 V 27500]",
+        "📺 Sky Sport Arena [Hotbird 13.0E 11996 V 29900]",
         "📺 Arena Sport 6 SRB [Eutelsat 16.0E 10721 H 30000]",
         "📺 BHT 1 [Eutelsat 16.0E 11471 H 30000]",
         "📺 Sport Klub 1 SLO [Eutelsat 16.0E 11471 H 30000]",
         "📺 Sport Klub 3 HRV [Eutelsat 16.0E 11387 H 32000]",
         "📺 Super Sport 5 [Eutelsat 16.0E 10804 H 29950]",
         "📺 Bein Sport 3 [Badrsat 26.0E 10810 H 27500]",
-        "📺 SuperSport Football [Eutelsat 36.0E 12341 V 27500]"
+        "📺 SuperSport Football [Eutelsat 36.0E 12341 V 27500]",
+        "📺 Persiana Sports 3 [Turkmenlem 52.0E 11343 H 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "🛡️ UEFA Nations League",
+      "tournamentAr": "🛡️ دوري الأمم الأوروبية",
+      "matchEn": "Ukraine v Northern Ireland",
+      "matchAr": "أوكرانيا × أيرلندا الشمالية",
+      "time": "18:45",
+      "channels": [
+        "📺 Sport TV 6 [Hispasat 30W 12360 H 27500]",
+        "📺 Bein Sport 7 [Nilesat 7.0W 12188 H 27500]",
+        "📺 Nova Sports Premier League [Hotbird 13.0E 11804 V 30000]",
+        "📺 Sky Sport 252 [Hotbird 13.0E 12341 V 29900]",
+        "📺 Megogo Sport [Eutelsat 23.5E 12285 V 30000]",
+        "📺 Bein Sport 7 [Badrsat 26.0E 10850 V 27500]",
+        "📺 BBC Two [Astra 28.2E 10847 V 23000]",
+        "📺 SuperSport LaLiga [Eutelsat 36.0E 12169 H 27500]",
+        "📺 Sony Sports Ten 5 [SES 108.3E 11483 H 29000]"
+      ]
+    },
+    {
+      "tournamentEn": "🛡️ UEFA Nations League",
+      "tournamentAr": "🛡️ دوري الأمم الأوروبية",
+      "matchEn": "Poland v Romania",
+      "matchAr": "بولندا × رومانيا",
+      "time": "18:45",
+      "channels": [
+        "📺 Sport TV 4 [Hispasat 30W 12360 H 27500]",
+        "📺 Bein Sport 4 [Nilesat 7.0W 11054 H 27500]",
+        "📺 Arena 4 [Thor 0.8W 12265 V 28000]",
+        "📺 Diema Sport [Hotbird 13.0E 12673 V 30000]",
+        "📺 Sky Sport 253 [Hotbird 13.0E 12073 V 29900]",
+        "📺 TVP 1 [Hotbird 13.0E 11449 H 27500]",
+        "📺 TVP Sport [Hotbird 13.0E 11449 H 27500]",
+        "📺 Arena Sport 1 BIH [Eutelsat 16.0E 11678 V 30000]",
+        "📺 Arena Sport 8 SRB [Eutelsat 16.0E 11429 V 28330]",
+        "📺 Super Sport 4 [Eutelsat 16.0E 10845 H 30000]",
+        "📺 Bein Sport 4 [Badrsat 26.0E 11390 V 27500]",
+        "📺 Sony Sports Ten 3 [SES 108.3E 12711 H 44900]"
+      ]
+    },
+    {
+      "tournamentEn": "🛡️ UEFA Nations League",
+      "tournamentAr": "🛡️ دوري الأمم الأوروبية",
+      "matchEn": "Faroe Islands v Slovakia",
+      "matchAr": "جزر فارو × سلوفاكيا",
+      "time": "18:45",
+      "channels": [
+        "📺 Bein Sport 6 [Nilesat 7.0W 11054 H 27500]",
+        "📺 Nova Sports Extra 1 [Hotbird 13.0E 12169 H 30000]",
+        "📺 Sky Sport 254 [Hotbird 13.0E 12073 V 29900]",
+        "📺 RTVS Sport [Eutelsat 16.0E 11094 V 27500]",
+        "📺 RTVS Sport [Eutelsat 23.5E 12012 V 29900]",
+        "📺 Bein Sport 6 [Badrsat 26.0E 11390 V 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "✨ International Friendly Games",
+      "tournamentAr": "✨ مباريات ودية دولية",
+      "matchEn": "China v Palestine",
+      "matchAr": "الصين × فلسطين",
+      "time": "11:35",
+      "channels": [
+        "📺 Palestine Sport [Nilesat 7.0W 12646 H 27500]",
+        "📺 Palestine Sport [Badrsat 26.0E 11958 H 27500]"
       ]
     }
   ]
