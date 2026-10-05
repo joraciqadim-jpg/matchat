@@ -1,0 +1,984 @@
+{
+  "get": "fixtures",
+  "parameters": {
+    "live": "all"
+  },
+  "errors": [],
+  "results": 8,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "fixture": {
+        "id": 1493158,
+        "referee": "Yael Falcon Perez",
+        "timezone": "UTC",
+        "date": "2026-10-05T22:00:00+00:00",
+        "timestamp": 1791237600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Estadio Jorge Luis Hirschi",
+          "city": "La Plata"
+        },
+        "status": {
+          "long": "First Half",
+          "short": "1H",
+          "elapsed": 23,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 128,
+        "name": "Liga Profesional Argentina",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/leagues/128.png",
+        "flag": "https://media.api-sports.io/flags/ar.svg",
+        "season": 2026,
+        "round": "Clausura - 11",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 450,
+          "name": "Estudiantes L.P.",
+          "logo": "https://media.api-sports.io/football/teams/450.png",
+          "winner": null
+        },
+        "away": {
+          "id": 1066,
+          "name": "Gimnasia M.",
+          "logo": "https://media.api-sports.io/football/teams/1066.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      },
+      "events": [
+        {
+          "time": {
+            "elapsed": 15,
+            "extra": null
+          },
+          "team": {
+            "id": 450,
+            "name": "Estudiantes L.P.",
+            "logo": "https://media.api-sports.io/football/teams/450.png"
+          },
+          "player": {
+            "id": null,
+            "name": null
+          },
+          "assist": {
+            "id": null,
+            "name": null
+          },
+          "type": "Goal",
+          "detail": "Normal Goal",
+          "comments": null
+        }
+      ]
+    },
+    {
+      "fixture": {
+        "id": 1493166,
+        "referee": "Sebastian Zunino",
+        "timezone": "UTC",
+        "date": "2026-10-05T22:00:00+00:00",
+        "timestamp": 1791237600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 115,
+          "name": "Jose Amalfitani",
+          "city": "Buenos Aires"
+        },
+        "status": {
+          "long": "First Half",
+          "short": "1H",
+          "elapsed": 21,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 128,
+        "name": "Liga Profesional Argentina",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/leagues/128.png",
+        "flag": "https://media.api-sports.io/flags/ar.svg",
+        "season": 2026,
+        "round": "Clausura - 11",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 438,
+          "name": "Velez Sarsfield",
+          "logo": "https://media.api-sports.io/football/teams/438.png",
+          "winner": null
+        },
+        "away": {
+          "id": 1064,
+          "name": "Platense",
+          "logo": "https://media.api-sports.io/football/teams/1064.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 1
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      },
+      "events": [
+        {
+          "time": {
+            "elapsed": 5,
+            "extra": null
+          },
+          "team": {
+            "id": 438,
+            "name": "Velez Sarsfield",
+            "logo": "https://media.api-sports.io/football/teams/438.png"
+          },
+          "player": {
+            "id": 95314,
+            "name": "Ronaldo Martinez"
+          },
+          "assist": {
+            "id": null,
+            "name": null
+          },
+          "type": "Goal",
+          "detail": "Normal Goal",
+          "comments": null
+        },
+        {
+          "time": {
+            "elapsed": 7,
+            "extra": null
+          },
+          "team": {
+            "id": 1064,
+            "name": "Platense",
+            "logo": "https://media.api-sports.io/football/teams/1064.png"
+          },
+          "player": {
+            "id": 5947,
+            "name": "Bautista Merlini"
+          },
+          "assist": {
+            "id": null,
+            "name": null
+          },
+          "type": "Goal",
+          "detail": "Normal Goal",
+          "comments": null
+        },
+        {
+          "time": {
+            "elapsed": 9,
+            "extra": null
+          },
+          "team": {
+            "id": 438,
+            "name": "Velez Sarsfield",
+            "logo": "https://media.api-sports.io/football/teams/438.png"
+          },
+          "player": {
+            "id": 2473,
+            "name": "Manuel Lanzini"
+          },
+          "assist": {
+            "id": 2561,
+            "name": "Diego Valdés"
+          },
+          "type": "subst",
+          "detail": "Substitution 1",
+          "comments": null
+        },
+        {
+          "time": {
+            "elapsed": 14,
+            "extra": null
+          },
+          "team": {
+            "id": 438,
+            "name": "Velez Sarsfield",
+            "logo": "https://media.api-sports.io/football/teams/438.png"
+          },
+          "player": {
+            "id": 654052,
+            "name": "Juan Cruz Policella"
+          },
+          "assist": {
+            "id": 606035,
+            "name": "Simón Escobar"
+          },
+          "type": "subst",
+          "detail": "Substitution 2",
+          "comments": null
+        }
+      ]
+    },
+    {
+      "fixture": {
+        "id": 1499663,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-10-05T22:00:00+00:00",
+        "timestamp": 1791237600,
+        "periods": {
+          "first": 1791237600,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Jose Manuel Moreno Stadium",
+          "city": "Buenos Aires"
+        },
+        "status": {
+          "long": "First Half",
+          "short": "1H",
+          "elapsed": 19,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 131,
+        "name": "Primera B Metropolitana",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/leagues/131.png",
+        "flag": "https://media.api-sports.io/flags/ar.svg",
+        "season": 2026,
+        "round": "Regular Season - 38",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 8383,
+          "name": "Deportivo Merlo",
+          "logo": "https://media.api-sports.io/football/teams/8383.png",
+          "winner": null
+        },
+        "away": {
+          "id": 468,
+          "name": "Brown DE Adrogue",
+          "logo": "https://media.api-sports.io/football/teams/468.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      },
+      "events": [
+        {
+          "time": {
+            "elapsed": 19,
+            "extra": null
+          },
+          "team": {
+            "id": 8383,
+            "name": "Deportivo Merlo",
+            "logo": "https://media.api-sports.io/football/teams/8383.png"
+          },
+          "player": {
+            "id": null,
+            "name": null
+          },
+          "assist": {
+            "id": null,
+            "name": null
+          },
+          "type": "Card",
+          "detail": "Yellow Card",
+          "comments": null
+        }
+      ]
+    },
+    {
+      "fixture": {
+        "id": 1549652,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-10-05T22:00:00+00:00",
+        "timestamp": 1791237600,
+        "periods": {
+          "first": 1791237600,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Estadio Metropolitano de Techo",
+          "city": null
+        },
+        "status": {
+          "long": "First Half",
+          "short": "1H",
+          "elapsed": 22,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 240,
+        "name": "Primera B",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/leagues/240.png",
+        "flag": "https://media.api-sports.io/flags/co.svg",
+        "season": 2026,
+        "round": "Clausura - 12",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 1458,
+          "name": "Bogota FC",
+          "logo": "https://media.api-sports.io/football/teams/1458.png",
+          "winner": null
+        },
+        "away": {
+          "id": 1129,
+          "name": "Envigado",
+          "logo": "https://media.api-sports.io/football/teams/1129.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      },
+      "events": []
+    },
+    {
+      "fixture": {
+        "id": 1632021,
+        "referee": "Mario Alberto Diaz De Vivar",
+        "timezone": "UTC",
+        "date": "2026-10-05T22:15:00+00:00",
+        "timestamp": 1791238500,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 22161,
+          "name": "Estadio General Pablo Rojas",
+          "city": "Asunción"
+        },
+        "status": {
+          "long": "First Half",
+          "short": "1H",
+          "elapsed": 7,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 252,
+        "name": "Division Profesional - Clausura",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/leagues/252.png",
+        "flag": "https://media.api-sports.io/flags/py.svg",
+        "season": 2026,
+        "round": "Clausura - 13",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 1176,
+          "name": "Cerro Porteno",
+          "logo": "https://media.api-sports.io/football/teams/1176.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2140,
+          "name": "2 de Mayo",
+          "logo": "https://media.api-sports.io/football/teams/2140.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      },
+      "events": []
+    },
+    {
+      "fixture": {
+        "id": 1639994,
+        "referee": "Mary Tori Penso",
+        "timezone": "UTC",
+        "date": "2026-10-05T22:00:00+00:00",
+        "timestamp": 1791237600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Stade Pierre-Aliker",
+          "city": "Fort-de-France"
+        },
+        "status": {
+          "long": "First Half",
+          "short": "1H",
+          "elapsed": 21,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 536,
+        "name": "CONCACAF Nations League",
+        "country": "World",
+        "logo": "https://media.api-sports.io/football/leagues/536.png",
+        "flag": null,
+        "season": 2025,
+        "round": "League A - 2",
+        "standings": false
+      },
+      "teams": {
+        "home": {
+          "id": 8117,
+          "name": "Martinique",
+          "logo": "https://media.api-sports.io/football/teams/8117.png",
+          "winner": false
+        },
+        "away": {
+          "id": 5159,
+          "name": "El Salvador",
+          "logo": "https://media.api-sports.io/football/teams/5159.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      },
+      "events": [
+        {
+          "time": {
+            "elapsed": 3,
+            "extra": null
+          },
+          "team": {
+            "id": 5159,
+            "name": "El Salvador",
+            "logo": "https://media.api-sports.io/football/teams/5159.png"
+          },
+          "player": {
+            "id": 313021,
+            "name": "Jefferson valladares"
+          },
+          "assist": {
+            "id": null,
+            "name": "Styven vasquez"
+          },
+          "type": "Goal",
+          "detail": "Normal Goal",
+          "comments": null
+        },
+        {
+          "time": {
+            "elapsed": 9,
+            "extra": null
+          },
+          "team": {
+            "id": 5159,
+            "name": "El Salvador",
+            "logo": "https://media.api-sports.io/football/teams/5159.png"
+          },
+          "player": {
+            "id": null,
+            "name": "josue mauricio saravia cerritos"
+          },
+          "assist": {
+            "id": null,
+            "name": null
+          },
+          "type": "Card",
+          "detail": "Yellow Card",
+          "comments": null
+        }
+      ]
+    },
+    {
+      "fixture": {
+        "id": 1643424,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2026-10-05T22:05:00+00:00",
+        "timestamp": 1791237900,
+        "periods": {
+          "first": 1791237900,
+          "second": null
+        },
+        "venue": {
+          "id": 2240,
+          "name": "Anthony Spaulding Sports Complex",
+          "city": "Kingston"
+        },
+        "status": {
+          "long": "First Half",
+          "short": "1H",
+          "elapsed": 17,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 322,
+        "name": "Premier League",
+        "country": "Jamaica",
+        "logo": "https://media.api-sports.io/football/leagues/322.png",
+        "flag": "https://media.api-sports.io/flags/jm.svg",
+        "season": 2026,
+        "round": "Regular Season - 4",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 20597,
+          "name": "Chapelton",
+          "logo": "https://media.api-sports.io/football/teams/20597.png",
+          "winner": false
+        },
+        "away": {
+          "id": 3447,
+          "name": "Waterhouse",
+          "logo": "https://media.api-sports.io/football/teams/3447.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 2
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      },
+      "events": [
+        {
+          "time": {
+            "elapsed": 9,
+            "extra": null
+          },
+          "team": {
+            "id": 3447,
+            "name": "Waterhouse",
+            "logo": "https://media.api-sports.io/football/teams/3447.png"
+          },
+          "player": {
+            "id": 453423,
+            "name": "S. Knight"
+          },
+          "assist": {
+            "id": null,
+            "name": null
+          },
+          "type": "Goal",
+          "detail": "Normal Goal",
+          "comments": null
+        },
+        {
+          "time": {
+            "elapsed": 15,
+            "extra": null
+          },
+          "team": {
+            "id": 3447,
+            "name": "Waterhouse",
+            "logo": "https://media.api-sports.io/football/teams/3447.png"
+          },
+          "player": {
+            "id": null,
+            "name": null
+          },
+          "assist": {
+            "id": null,
+            "name": null
+          },
+          "type": "Goal",
+          "detail": "Normal Goal",
+          "comments": null
+        }
+      ]
+    },
+    {
+      "fixture": {
+        "id": 1639993,
+        "referee": "Randy Solano",
+        "timezone": "UTC",
+        "date": "2026-10-05T21:00:00+00:00",
+        "timestamp": 1791234000,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 3905,
+          "name": "Hasely Crawford Stadium",
+          "city": "Port of Spain"
+        },
+        "status": {
+          "long": "Second Half",
+          "short": "2H",
+          "elapsed": 64,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 536,
+        "name": "CONCACAF Nations League",
+        "country": "World",
+        "logo": "https://media.api-sports.io/football/leagues/536.png",
+        "flag": null,
+        "season": 2025,
+        "round": "League B - 3",
+        "standings": false
+      },
+      "teams": {
+        "home": {
+          "id": 2388,
+          "name": "Cuba",
+          "logo": "https://media.api-sports.io/football/teams/2388.png",
+          "winner": false
+        },
+        "away": {
+          "id": 5536,
+          "name": "St. Kitts and Nevis",
+          "logo": "https://media.api-sports.io/football/teams/5536.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 1
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      },
+      "events": [
+        {
+          "time": {
+            "elapsed": 16,
+            "extra": null
+          },
+          "team": {
+            "id": 5536,
+            "name": "St. Kitts and Nevis",
+            "logo": "https://media.api-sports.io/football/teams/5536.png"
+          },
+          "player": {
+            "id": null,
+            "name": "Tiquanny·Williams"
+          },
+          "assist": {
+            "id": 395399,
+            "name": "Kyle Kelly"
+          },
+          "type": "Goal",
+          "detail": "Normal Goal",
+          "comments": null
+        },
+        {
+          "time": {
+            "elapsed": 25,
+            "extra": null
+          },
+          "team": {
+            "id": 2388,
+            "name": "Cuba",
+            "logo": "https://media.api-sports.io/football/teams/2388.png"
+          },
+          "player": {
+            "id": 309281,
+            "name": "Yunior Perez"
+          },
+          "assist": {
+            "id": 606278,
+            "name": "Dairon Reyes"
+          },
+          "type": "Goal",
+          "detail": "Normal Goal",
+          "comments": null
+        },
+        {
+          "time": {
+            "elapsed": 26,
+            "extra": null
+          },
+          "team": {
+            "id": 2388,
+            "name": "Cuba",
+            "logo": "https://media.api-sports.io/football/teams/2388.png"
+          },
+          "player": {
+            "id": 475628,
+            "name": "michael camejo"
+          },
+          "assist": {
+            "id": null,
+            "name": null
+          },
+          "type": "Card",
+          "detail": "Yellow Card",
+          "comments": null
+        },
+        {
+          "time": {
+            "elapsed": 55,
+            "extra": null
+          },
+          "team": {
+            "id": 5536,
+            "name": "St. Kitts and Nevis",
+            "logo": "https://media.api-sports.io/football/teams/5536.png"
+          },
+          "player": {
+            "id": null,
+            "name": "yohannes mitchum"
+          },
+          "assist": {
+            "id": 27401,
+            "name": "Harry Panayiotou"
+          },
+          "type": "subst",
+          "detail": "Substitution 1",
+          "comments": null
+        },
+        {
+          "time": {
+            "elapsed": 57,
+            "extra": null
+          },
+          "team": {
+            "id": 5536,
+            "name": "St. Kitts and Nevis",
+            "logo": "https://media.api-sports.io/football/teams/5536.png"
+          },
+          "player": {
+            "id": 310562,
+            "name": "Rico Browne"
+          },
+          "assist": {
+            "id": null,
+            "name": null
+          },
+          "type": "Card",
+          "detail": "Yellow Card",
+          "comments": null
+        },
+        {
+          "time": {
+            "elapsed": 61,
+            "extra": null
+          },
+          "team": {
+            "id": 5536,
+            "name": "St. Kitts and Nevis",
+            "logo": "https://media.api-sports.io/football/teams/5536.png"
+          },
+          "player": {
+            "id": 82072,
+            "name": "omari james sterling"
+          },
+          "assist": {
+            "id": null,
+            "name": "Savi-K Morton"
+          },
+          "type": "subst",
+          "detail": "Substitution 2",
+          "comments": null
+        },
+        {
+          "time": {
+            "elapsed": 61,
+            "extra": null
+          },
+          "team": {
+            "id": 5536,
+            "name": "St. Kitts and Nevis",
+            "logo": "https://media.api-sports.io/football/teams/5536.png"
+          },
+          "player": {
+            "id": 123565,
+            "name": "Theo Wharton"
+          },
+          "assist": {
+            "id": 310562,
+            "name": "nequan browne"
+          },
+          "type": "subst",
+          "detail": "Substitution 3",
+          "comments": null
+        },
+        {
+          "time": {
+            "elapsed": 62,
+            "extra": null
+          },
+          "team": {
+            "id": 5536,
+            "name": "St. Kitts and Nevis",
+            "logo": "https://media.api-sports.io/football/teams/5536.png"
+          },
+          "player": {
+            "id": null,
+            "name": null
+          },
+          "assist": {
+            "id": null,
+            "name": null
+          },
+          "type": "Goal",
+          "detail": "Penalty",
+          "comments": null
+        }
+      ]
+    }
+  ]
+}
