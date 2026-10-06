@@ -78,20 +78,6 @@
       "time": "18:00"
     },
     {
-      "tournamentEn": "🏁 الدوري الجزائري",
-      "tournamentAr": "🏁 الدوري الجزائري",
-      "matchEn": "شبيبة القبائل v مولودية الجزائر",
-      "matchAr": "شبيبة القبائل × مولودية الجزائر",
-      "time": "18:00"
-    },
-    {
-      "tournamentEn": "🏁 الدوري الجزائري",
-      "tournamentAr": "🏁 الدوري الجزائري",
-      "matchEn": "شبيبة الساورة v إتحاد خنشلة",
-      "matchAr": "شبيبة الساورة × إتحاد خنشلة",
-      "time": "18:00"
-    },
-    {
       "tournamentEn": "🏁 تصفيات أمم أفريقيا",
       "tournamentAr": "🏁 تصفيات أمم أفريقيا",
       "matchEn": "Angola v Malawi",
@@ -458,6 +444,13 @@
     {
       "tournamentEn": "🏁 تصفيات أمم أفريقيا تحت 23 سنة",
       "tournamentAr": "🏁 تصفيات أمم أفريقيا تحت 23 سنة",
+      "matchEn": "Sudan v Rwanda",
+      "matchAr": "السودان × رواندا",
+      "time": "13:00"
+    },
+    {
+      "tournamentEn": "🏁 تصفيات أمم أفريقيا تحت 23 سنة",
+      "tournamentAr": "🏁 تصفيات أمم أفريقيا تحت 23 سنة",
       "matchEn": "إسواتيني v Malawi",
       "matchAr": "إسواتيني × مالاوي",
       "time": "13:00"
@@ -475,13 +468,6 @@
       "matchEn": "DR Congo v Mauritania",
       "matchAr": "الكونغو الديمقراطية × موريتانيا",
       "time": "13:00"
-    },
-    {
-      "tournamentEn": "🏁 تصفيات أمم أفريقيا تحت 23 سنة",
-      "tournamentAr": "🏁 تصفيات أمم أفريقيا تحت 23 سنة",
-      "matchEn": "Sudan v Rwanda",
-      "matchAr": "السودان × رواندا",
-      "time": "14:00"
     },
     {
       "tournamentEn": "🏁 تصفيات أمم أفريقيا تحت 23 سنة",
@@ -517,6 +503,13 @@
       "matchEn": "IFK Norrköping (Sweden) v Kalmar (Sweden)",
       "matchAr": "نوركوبينغ (السويد) × كالمار (السويد)",
       "time": "11:00"
+    },
+    {
+      "tournamentEn": "🏁 وديات منتخبات تحت 23",
+      "tournamentAr": "🏁 وديات منتخبات تحت 23",
+      "matchEn": "Australia v South Korea",
+      "matchAr": "أستراليا × كوريا الجنوبية",
+      "time": "02:00"
     },
     {
       "tournamentEn": "🏁 وديات منتخبات تحت 20",
