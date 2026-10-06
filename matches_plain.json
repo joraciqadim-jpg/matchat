@@ -54,8 +54,6 @@
         "📺 Digi Sport 2 [Thor 0.8W 11823 H 30000]",
         "📺 Spiler TV 1 [Thor 0.8W 12130 H 28000]",
         "📺 V Sport Premium [Thor 0.8W 10903 V 25000]",
-        "📺 Diema Sport 2 [Hotbird 13.0E 12673 V 30000]",
-        "📺 Nova Sports Premier League [Hotbird 13.0E 11804 V 30000]",
         "📺 Polsat Sport 2 [Hotbird 13.0E 12265 V 27500]",
         "📺 Sky Sport Uno [Hotbird 13.0E 11958 V 27500]",
         "📺 Arena Premium 2 BIH [Eutelsat 16.0E 11595 V 30000]",
@@ -67,6 +65,7 @@
         "📺 BeIn Sports English 1 [Badrsat 26.0E 10850 V 27500]",
         "📺 Bein Sport 2 [Badrsat 26.0E 10810 H 27500]",
         "📺 BBC One Northern Ireland [Astra 28.2E 10847 V 23000]",
+        "📺 ITV 1 [Astra 28.2E 11386 H 27500]",
         "📺 SuperSport Máximo 2 [Eutelsat 36.0E 12169 H 27500]",
         "📺 SuperSport Premier League [Eutelsat 36.0E 12169 H 27500]",
         "📺 A Spor [Turksat 42.0E 12054 H 27500]",
@@ -121,8 +120,6 @@
         "📺 M4 Sport [Eutelsat 23.5E 11739 V 29900]",
         "📺 Megogo Sport [Eutelsat 23.5E 12285 V 30000]",
         "📺 Bein Sport 6 [Badrsat 26.0E 11390 V 27500]",
-        "📺 SuperSport Football [Eutelsat 36.0E 12341 V 27500]",
-        "📺 SuperSport Máximo 3 [Eutelsat 36.0E 12169 H 27500]",
         "📺 Prima Sport 4 [Hellas-Sat 39.0E 12290 V 30000]",
         "📺 Persiana Sports 3 [Turkmenlem 52.0E 11343 H 27500]",
         "📺 Sony Sports Ten 5 [SES 108.3E 11483 H 29000]"
@@ -135,7 +132,8 @@
       "matchAr": "كوريا الجنوبية × أوزبكستان",
       "time": "11:00",
       "channels": [
-        "📺 Persiana Sports 1 [Turkmenlem 52.0E 11343 H 27500]"
+        "📺 Persiana Sports 1 [Turkmenlem 52.0E 11343 H 27500]",
+        "📺 Futbol TV [NSS 57.0E 11610 H 20200]"
       ]
     },
     {
@@ -145,6 +143,7 @@
       "matchAr": "الصين × طاجيكستان",
       "time": "11:35",
       "channels": [
+        "📺 Futbol [Al-Yah 52.5E 11785 H 27500]",
         "📺 Varzish TV [Al-Yah 52.5E 11785 H 27500]"
       ]
     },
@@ -157,9 +156,9 @@
       "channels": [
         "📺 Sport TV 1 [Hispasat 30W 12360 H 27500]",
         "📺 5 Live [Amos 4.0W 11259 V 30000]",
+        "📺 Arena Premium 2 SRB [Eutelsat 16.0E 11429 V 28330]",
         "📺 Sport TV 1 (Å TV 1) [Eutelsat 16.0E 11231 V 42000]",
         "📺 M+ Vamos [Astra 19.2E 10818 V 22000]",
-        "📺 Sony Sports Ten 1 [SES 108.3E 11483 H 29000]",
         "📺 Sony Sports Ten 2 [SES 108.3E 12711 H 44900]",
         "📺 Sony Sports Ten 3 [SES 108.3E 12711 H 44900]",
         "📺 Sony Sports Ten 4 [SES 108.3E 12341 H 44920]"
@@ -172,7 +171,8 @@
       "matchAr": "روسيا × نيجيريا",
       "time": "16:00",
       "channels": [
-        "📺 Persiana Sports 1 [Turkmenlem 52.0E 11343 H 27500]"
+        "📺 Persiana Sports 1 [Turkmenlem 52.0E 11343 H 27500]",
+        "📺 Match! TV [Eutelsat 80.0E 11044 V 45000]"
       ]
     },
     {
@@ -184,6 +184,7 @@
       "channels": [
         "📺 TV 6 Algeria [Nilesat 7.0W 11680 H 27500]",
         "📺 ENTV Algeria [Nilesat 7.0W 11680 H 27500]",
+        "📺 Télé Sahel [Eutelsat 9.0E 11900 H 27500]",
         "📺 TV 6 Algeria [Badrsat 26.0E 12523 V 30000]",
         "📺 ENTV Algeria [Badrsat 26.0E 12523 V 30000]"
       ]
