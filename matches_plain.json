@@ -59,6 +59,46 @@
       "channels": [
         "📺 Canal 11 [Hispasat 30W 12437 H 27500]"
       ]
+    },
+    {
+      "tournamentEn": "🏆 Egyptian League Cup",
+      "tournamentAr": "🏆 كأس الرابطة المصرية",
+      "matchEn": "Pyramids v Al Qanah",
+      "matchAr": "بيراميدز × القناة",
+      "time": "14:00",
+      "channels": [
+        "📺 On Sport Plus [Nilesat 7.0W 11977 V 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "🏆 Egyptian League Cup",
+      "tournamentAr": "🏆 كأس الرابطة المصرية",
+      "matchEn": "Assiut v Al Ahly",
+      "matchAr": "أسيوط × الأهلي",
+      "time": "14:00",
+      "channels": [
+        "📺 On Sport MAX [Nilesat 7.0W 11977 V 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "🏆 Egyptian League Cup",
+      "tournamentAr": "🏆 كأس الرابطة المصرية",
+      "matchEn": "Zamalek v ZED",
+      "matchAr": "الزمالك × زد",
+      "time": "17:00",
+      "channels": [
+        "📺 On Sport 1 [Nilesat 7.0W 11862 V 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "🏆 Egyptian League Cup",
+      "tournamentAr": "🏆 كأس الرابطة المصرية",
+      "matchEn": "Cleopatra FC v Al Masry",
+      "matchAr": "كليوباترا × المصري",
+      "time": "17:00",
+      "channels": [
+        "📺 On Sport MAX [Nilesat 7.0W 11977 V 27500]"
+      ]
     }
   ]
 }
