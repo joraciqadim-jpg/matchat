@@ -1,4 +1,336 @@
 {
+  "cs constantine": {
+    "en": "CS Constantine",
+    "ar": "النادي القسنطيني"
+  },
+  "us biskra": {
+    "en": "US Biskra",
+    "ar": "إتحاد بسكرة"
+  },
+  "algerian ligue 1": {
+    "en": "Algerian Ligue 1",
+    "ar": "الدوري الجزائري"
+  },
+  "nesr ben aknoun": {
+    "en": "Nesr Ben Aknoun",
+    "ar": "نجم بن عكنون"
+  },
+  "js el biar": {
+    "en": "JS El Biar",
+    "ar": "شبيبة الأبيار"
+  },
+  "cr belouizdad": {
+    "en": "CR Belouizdad",
+    "ar": "شباب بلوزداد"
+  },
+  "usm khenchela": {
+    "en": "USM Khenchela",
+    "ar": "إتحاد خنشلة"
+  },
+  "somaspor": {
+    "en": "Somaspor",
+    "ar": "سوماسبور"
+  },
+  "kestelspor": {
+    "en": "Kestelspor",
+    "ar": "كيستيلسبور"
+  },
+  "turkish cup": {
+    "en": "Turkish Cup",
+    "ar": "كأس تركيا"
+  },
+  "kars 36 spor": {
+    "en": "Kars 36 Spor",
+    "ar": "كارس 36"
+  },
+  "fatsa belediyespor": {
+    "en": "Fatsa Belediyespor",
+    "ar": "فاتسا بيليدي سبور"
+  },
+  "zonguldak komurspor": {
+    "en": "Zonguldak Kömürspor",
+    "ar": "زونجولداك كومورسبور"
+  },
+  "duzcespor": {
+    "en": "Düzcespor",
+    "ar": "دوزجيسبور"
+  },
+  "tokat belediye plevnespor": {
+    "en": "Tokat Belediye Plevnespor",
+    "ar": "توكات بلد بليفنسبور"
+  },
+  "etimesgut belediyespor": {
+    "en": "Etimesgut Belediyespor",
+    "ar": "إتيمسجوت بيليدي سبور"
+  },
+  "pazarspor": {
+    "en": "Pazarspor",
+    "ar": "بازارسبور"
+  },
+  "erbaaspor": {
+    "en": "Erbaaspor",
+    "ar": "إرباسبور"
+  },
+  "hakkari zap spor": {
+    "en": "Hakkari Zap Spor",
+    "ar": "هكاري زابسبور"
+  },
+  "adana demirspor": {
+    "en": "Adana Demirspor",
+    "ar": "أضنة دمير سبور"
+  },
+  "osmaniyespor": {
+    "en": "Osmaniyespor",
+    "ar": "عثمانية سبور"
+  },
+  "yeni mersin idmanyurdu": {
+    "en": "Yeni Mersin İdmanyurdu",
+    "ar": "يني مرسين إدمانيوردو"
+  },
+  "adanaspor": {
+    "en": "Adanaspor",
+    "ar": "أضنة سبور"
+  },
+  "adana adliyespor": {
+    "en": "Adana Adliyespor",
+    "ar": "أضنة أداليتغوجو"
+  },
+  "mazdag fosfatspor": {
+    "en": "Mazıdağı Fosfatspor",
+    "ar": "مازيداجي فوسفاتسبور"
+  },
+  "krsehir belediyespor": {
+    "en": "Kırşehir Belediyespor",
+    "ar": "كيرشهير بيليدييسبور"
+  },
+  "nigde belediyespor": {
+    "en": "Niğde Belediyespor",
+    "ar": "نيغد بيليدي سبور"
+  },
+  "agr 1970": {
+    "en": "Ağrı 1970",
+    "ar": "أغري 1970"
+  },
+  "hatayspor": {
+    "en": "Hatayspor",
+    "ar": "هاتاي سبور"
+  },
+  "karakopru belediyespor": {
+    "en": "Karaköprü Belediyespor",
+    "ar": "كاراكوبرو بيليدي سبور"
+  },
+  "nilufer belediyespor": {
+    "en": "Nilüfer Belediyespor",
+    "ar": "نيلوفر بيليدي"
+  },
+  "usakspor": {
+    "en": "Uşakspor",
+    "ar": "أوتاش أوساكسبور"
+  },
+  "anadolu universitesi": {
+    "en": "Anadolu Üniversitesi",
+    "ar": "أناضولو أونيفرسيتيسي"
+  },
+  "kepezspor": {
+    "en": "Kepezspor",
+    "ar": "كيبيزسبور"
+  },
+  "biga spor": {
+    "en": "Biga Spor",
+    "ar": "بيجاسبور"
+  },
+  "balkesirspor": {
+    "en": "Balıkesirspor",
+    "ar": "باليكيسير سبور"
+  },
+  "efeler 09 spor": {
+    "en": "Efeler 09 Spor",
+    "ar": "إيفلر 09 سبور"
+  },
+  "ayvalkgucu belediyespor": {
+    "en": "Ayvalıkgücü Belediyespor",
+    "ar": "أيفاليكجوجو بيليدي سبور"
+  },
+  "karacabey belediyespor": {
+    "en": "Karacabey Belediyespor",
+    "ar": "كاراكابي بيرليكسبور"
+  },
+  "galata": {
+    "en": "Galata",
+    "ar": "غالاتا"
+  },
+  "kocaelispor": {
+    "en": "Kocaelispor",
+    "ar": "كوجالي سبور"
+  },
+  "yozgat belediyesi bozokspor": {
+    "en": "Yozgat Belediyesi Bozokspor",
+    "ar": "يوزغات بلد بوزوكسبور"
+  },
+  "yldrm belediyespor": {
+    "en": "Yıldırım Belediyespor",
+    "ar": "يلدريم بيليدي سبور"
+  },
+  "yeni amasyaspor": {
+    "en": "Yeni Amasyaspor",
+    "ar": "يني أماسياسبور"
+  },
+  "istanbul sinopspor": {
+    "en": "İstanbul Sinopspor",
+    "ar": "اسطنبول سينوبسبور"
+  },
+  "beykoz ishakl spor": {
+    "en": "Beykoz İshaklı Spor",
+    "ar": "بيكوز اشكالي سبور"
+  },
+  "silivrispor": {
+    "en": "Silivrispor",
+    "ar": "سيليفريسبور"
+  },
+  "kartal bulvarspor": {
+    "en": "Kartal Bulvarspor",
+    "ar": "كارتال بولفارسبور"
+  },
+  "gaziemir genclikspor": {
+    "en": "Gaziemir Gençlikspor",
+    "ar": "غازيمير جينكليكسبر"
+  },
+  "fethiyespor": {
+    "en": "Fethiyespor",
+    "ar": "فتحية سبور"
+  },
+  "karabuk idmanyurdu": {
+    "en": "Karabük İdmanyurdu",
+    "ar": "كارابوك إيدمان يوردو"
+  },
+  "antalya kepezspor": {
+    "en": "Antalya Kepezspor",
+    "ar": "أنطاليا كيبيزسبور"
+  },
+  "yesilyurt belediyespor": {
+    "en": "Yeşilyurt Belediyespor",
+    "ar": "يسليورت بيليديسبور"
+  },
+  "golcuk siirt 56": {
+    "en": "Gölcük Siirt 56",
+    "ar": "غليجك سيرت 56"
+  },
+  "eskisehirspor": {
+    "en": "Eskişehirspor",
+    "ar": "إسكيشهرسبور"
+  },
+  "aksehirspor": {
+    "en": "Akşehirspor",
+    "ar": "أكشيهيرسبور"
+  },
+  "jerash": {
+    "en": "Jerash",
+    "ar": "جرش"
+  },
+  "jordan cup": {
+    "en": "Jordan Cup",
+    "ar": "كأس الأردن"
+  },
+  "mosul": {
+    "en": "Mosul",
+    "ar": "الموصل"
+  },
+  "iraqi premier league": {
+    "en": "Iraqi Premier League",
+    "ar": "الدوري العراقي"
+  },
+  "brazilian serie a": {
+    "en": "Brazilian Série A",
+    "ar": "الدوري البرازيلي"
+  },
+  "chicago fire": {
+    "en": "Chicago Fire",
+    "ar": "شيكاغو فاير"
+  },
+  "antigua and barbuda": {
+    "en": "Antigua and Barbuda",
+    "ar": "أنتيغوا وباربودا"
+  },
+  "aruba": {
+    "en": "Aruba",
+    "ar": "أروبا"
+  },
+  "concacaf nations league": {
+    "en": "CONCACAF Nations League",
+    "ar": "دوري أمم الكونكاكاف"
+  },
+  "french guiana": {
+    "en": "French Guiana",
+    "ar": "غويانا الفرنسية"
+  },
+  "belize": {
+    "en": "Belize",
+    "ar": "بليز"
+  },
+  "international friendlies": {
+    "en": "International Friendlies",
+    "ar": "وديات منتخبات"
+  },
+  "mexico": {
+    "en": "Mexico",
+    "ar": "المكسيك"
+  },
+  "neftchi": {
+    "en": "Neftchi",
+    "ar": "نيفتشي"
+  },
+  "xorazm": {
+    "en": "Xorazm",
+    "ar": "خوارزم"
+  },
+  "uzbekistan super league": {
+    "en": "Uzbekistan Super League",
+    "ar": "الدوري الأوزبكي"
+  },
+  "gijduvon": {
+    "en": "G'ijduvon",
+    "ar": "غنيستان"
+  },
+  "finnish league": {
+    "en": "Finnish League",
+    "ar": "الدوري الفنلندي"
+  },
+  "york united": {
+    "en": "York United",
+    "ar": "يورك يونايتد"
+  },
+  "quebec cup": {
+    "en": "Québec Cup",
+    "ar": "سوبرا دو كيبيك"
+  },
+  "canadian premier league": {
+    "en": "Canadian Premier League",
+    "ar": "الدوري الكندي الممتاز"
+  },
+  "forge fc": {
+    "en": "Forge FC",
+    "ar": "فورج"
+  },
+  "pacific fc": {
+    "en": "Pacific FC",
+    "ar": "باسيفيك"
+  },
+  "womens international friendlies": {
+    "en": "Women's International Friendlies",
+    "ar": "وديات منتخبات سيدات"
+  },
+  "ho chi minh city": {
+    "en": "Ho Chi Minh City",
+    "ar": "هوتشي مينه سيتي"
+  },
+  "asian club championship": {
+    "en": "Asian Club Championship",
+    "ar": "بطولة الأندية الآسيانية"
+  },
+  "borneo": {
+    "en": "Borneo",
+    "ar": "بورنيو"
+  },
   "bonaire": {
     "en": "Bonaire",
     "ar": "بونير"
