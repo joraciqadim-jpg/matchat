@@ -1,39 +1,6 @@
 {
   "matches": [
     {
-      "tournamentEn": "✨ International Friendly Games",
-      "tournamentAr": "✨ مباريات ودية دولية",
-      "matchEn": "Argentina v Bonaire",
-      "matchAr": "الأرجنتين × بونير",
-      "time": "11:00",
-      "channels": [
-        "📺 Sport TV 1 [Hispasat 30W 12360 H 27500]",
-        "📺 5 Sport [Amos 4.0W 11259 V 30000]",
-        "📺 Sport 2 CZE [Thor 0.8W 12149 V 30000]",
-        "📺 Sport 1 HD HUN [Thor 0.8W 12034 V 30000]",
-        "📺 TV 3 Sport [Thor 0.8W 11309 V 25000]",
-        "📺 BTV [Eutelsat 9.0E 11900 H 27500]",
-        "📺 ERT 2 [Hotbird 13.0E 12169 H 30000]",
-        "📺 Sky Sport Calcio [Hotbird 13.0E 11958 V 27500]",
-        "📺 TVP Sport [Hotbird 13.0E 11449 H 27500]",
-        "📺 Sport 2 CZE [Eutelsat 16.0E 11094 V 27500]",
-        "📺 M+ Liga de Campeones [Astra 19.2E 11259 V 22000]",
-        "📺 M+ Vamos 2 [Astra 19.2E 10758 V 22000]",
-        "📺 Sportdigital Fussball [Astra 19.2E 11186 V 22000]",
-        "📺 Sport 2 CZE [Eutelsat 23.5E 12090 V 29900]",
-        "📺 Ziggo Sport [Eutelsat 23.5E 12129 V 29900]",
-        "📺 IRIB Varzesh [Badrsat 26.0E 11881 H 27500]",
-        "📺 Premier Sports 2 [Astra 28.2E 12188 H 27500]",
-        "📺 ERT 2 [Hellas-Sat 39.0E 12242 H 13381]",
-        "📺 IRIB Varzesh [Eutelsat 40.0E 11640 H 30000]",
-        "📺 Persiana Sports 1 [Turkmenlem 52.0E 11343 H 27500]",
-        "📺 Solhsports [Turkmenlem 52.0E 10845 V 27500]",
-        "📺 IRIB Varzesh [Thaicom 78.5E 11640 H 30000]",
-        "📺 Match! Futbol 3 [Eutelsat 80.0E 11044 V 45000]",
-        "📺 Unite8 Sports 1 [SES 108.3E 11640 H 30000]"
-      ]
-    },
-    {
       "tournamentEn": "🇧🇷 Brazilian Serie A",
       "tournamentAr": "🇧🇷 الدوري البرازيلي الممتاز",
       "matchEn": "Internacional v Corinthians",
