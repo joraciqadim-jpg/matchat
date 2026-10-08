@@ -18,46 +18,6 @@
         "📺 Sporty TV [Eutelsat 36.0E 12265 V 27500]",
         "📺 Match! Futbol 3 [Eutelsat 80.0E 11044 V 45000]"
       ]
-    },
-    {
-      "tournamentEn": "🇮🇶 Iraq Stars League",
-      "tournamentAr": "🇮🇶 دوري نجوم العراق",
-      "matchEn": "Talaba v Al-Shorta",
-      "matchAr": "الطلبة × الشرطة",
-      "time": "17:30",
-      "channels": [
-        "📺 Iraqia Sport [Nilesat 7.0W 12563 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🇶🇦 Qatar Stars League",
-      "tournamentAr": "🇶🇦 الدوري القطري",
-      "matchEn": "Al Wakrah v Al Gharafa",
-      "matchAr": "الوكرة × الغرافة",
-      "time": "17:00",
-      "channels": [
-        "📺 Al Kass Six [Badrsat 26.0E 10770 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🏆 Egyptian League Cup",
-      "tournamentAr": "🏆 كأس الرابطة المصرية",
-      "matchEn": "Modern Sport v National Bank",
-      "matchAr": "مودرن سبورت × البنك الأهلي",
-      "time": "17:00",
-      "channels": [
-        "📺 On Sport MAX [Nilesat 7.0W 11977 V 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🏆 Egyptian League Cup",
-      "tournamentAr": "🏆 كأس الرابطة المصرية",
-      "matchEn": "Ghazl El Mahalla v Abu Qir Fertilizers",
-      "matchAr": "غزل المحلة × أبو قير للأسمدة",
-      "time": "17:00",
-      "channels": [
-        "📺 On Sport 1 [Nilesat 7.0W 11862 V 27500]"
-      ]
     }
   ]
 }
