@@ -1011,8 +1011,8 @@
     "en": "Club Africain",
     "ar": "النادي الإفريقي"
   },
-  "taqaddum sakiet eddaier": {
-    "en": "Taqaddum Sakiet Eddaïer",
+  "taqaddum sakiet ezzit": {
+    "en": "Taqaddum Sakiet Ezzit",
     "ar": "تقدم ساقية الداير"
   },
   "cs sfaxien": {
@@ -1063,10 +1063,6 @@
     "en": "Preston North End",
     "ar": "بريستون نورث إيند"
   },
-  "english league one": {
-    "en": "English League One",
-    "ar": "الدوري الإنجليزي الدرجة الثانية"
-  },
   "oxford united": {
     "en": "Oxford United",
     "ar": "أكسفورد يونايتد"
@@ -1107,8 +1103,8 @@
     "en": "Crewe Alexandra",
     "ar": "كرو ألكساندرا"
   },
-  "english league two": {
-    "en": "English League Two",
+  "english league one": {
+    "en": "English League One",
     "ar": "الدوري الإنجليزي الدرجة الثالثة"
   },
   "oldham athletic": {
@@ -1195,8 +1191,8 @@
     "en": "Al-Ramtha",
     "ar": "الرمثا"
   },
-  "alduqrah": {
-    "en": "Al-Duqrah",
+  "dugura": {
+    "en": "Dugura",
     "ar": "دوقرة"
   },
   "alsalt": {
@@ -1255,8 +1251,8 @@
     "en": "Dhofar",
     "ar": "ظفار"
   },
-  "samail": {
-    "en": "Samail",
+  "sahamail": {
+    "en": "Sahamail",
     "ar": "سمائل"
   },
   "bidiya": {
@@ -1275,20 +1271,20 @@
     "en": "Al-Hidd",
     "ar": "الحد"
   },
-  "almanama": {
-    "en": "Al-Manama",
+  "manama club": {
+    "en": "Manama Club",
     "ar": "المنامة"
   },
-  "altaleea": {
-    "en": "Al-Taleea",
+  "altaliah": {
+    "en": "Al-Tali'ah",
     "ar": "الطليعة"
   },
   "alhurriya": {
     "en": "Al-Hurriya",
     "ar": "الحرية"
   },
-  "ahli aleppo": {
-    "en": "Ahli Aleppo",
+  "alahli aleppo": {
+    "en": "Al-Ahli Aleppo",
     "ar": "أهلي حلب"
   },
   "tishreen": {
@@ -1323,8 +1319,8 @@
     "en": "Chengdu Rongcheng",
     "ar": "تشنغدو رونغتشنغ"
   },
-  "tianjin jinmen tiger": {
-    "en": "Tianjin Jinmen Tiger",
+  "tianjin teda": {
+    "en": "Tianjin Teda",
     "ar": "تيانجين تيدا"
   },
   "shanghai shenhua": {
@@ -1355,12 +1351,12 @@
     "en": "OFI Crete",
     "ar": "أوميلوس هراكليوس"
   },
-  "gais": {
-    "en": "GAIS",
+  "gais goteborg": {
+    "en": "GAIS Göteborg",
     "ar": "غايس غوتنبرغ"
   },
-  "mjlner": {
-    "en": "Mjølner",
+  "mallbackens if": {
+    "en": "Mallbackens IF",
     "ar": "ميالبو"
   },
   "degerfors": {
@@ -1455,8 +1451,8 @@
     "en": "Los Angeles FC",
     "ar": "لوس أنجلوس"
   },
-  "deportivo municipal de paracas": {
-    "en": "Deportivo Municipal de Paracas",
+  "sportivo luqueno": {
+    "en": "Sportivo Luqueño",
     "ar": "باراكاس سينترال"
   },
   "central cordoba": {
@@ -1467,12 +1463,12 @@
     "en": "Estudiantes de Río Cuarto",
     "ar": "إستوديانتيس ريو كوارتو"
   },
-  "fc juarez": {
-    "en": "FC Juárez",
+  "juarez": {
+    "en": "Juárez",
     "ar": "خواريز"
   },
-  "club tijuana": {
-    "en": "Club Tijuana",
+  "tijuana": {
+    "en": "Tijuana",
     "ar": "تيخوانا"
   },
   "queretaro": {
@@ -1515,8 +1511,8 @@
     "en": "FC Seoul",
     "ar": "سيئول"
   },
-  "jeju sk fc": {
-    "en": "Jeju SK FC",
+  "jeju united": {
+    "en": "Jeju United",
     "ar": "جيجيو يونايتد"
   },
   "gimcheon sangmu": {
@@ -1543,8 +1539,8 @@
     "en": "Bugesera FC",
     "ar": "بوغيسيرا"
   },
-  "etincelles fc": {
-    "en": "Etincelles FC",
+  "etincelles": {
+    "en": "Etincelles",
     "ar": "إتينسيلس"
   },
   "apr fc": {
@@ -1559,16 +1555,16 @@
     "en": "Najran",
     "ar": "نجران"
   },
-  "alhoda": {
-    "en": "Al-Hoda",
+  "alhuda": {
+    "en": "Al-Huda",
     "ar": "الهدى"
   },
   "aljubail": {
     "en": "Al-Jubail",
     "ar": "الجبيل"
   },
-  "alnujoom": {
-    "en": "Al-Nujoom",
+  "alnojoom": {
+    "en": "Al-Nojoom",
     "ar": "النجوم"
   },
   "alkawkab": {
@@ -1607,8 +1603,8 @@
     "en": "Jubba",
     "ar": "جبة"
   },
-  "alintissar": {
-    "en": "Al-Intissar",
+  "alintisar": {
+    "en": "Al-Intisar",
     "ar": "الإنتصار"
   },
   "saudi youth league": {
@@ -1679,48 +1675,48 @@
     "en": "Belarus",
     "ar": "روسيا البيضاء"
   },
-  "kedia": {
-    "en": "Kedia",
+  "fc kedia": {
+    "en": "FC Kédia",
     "ar": "كيدية"
   },
-  "boumdeid": {
-    "en": "Boumdeid",
+  "pompiers fc": {
+    "en": "Pompiers FC",
     "ar": "بومبير"
   },
   "mauritanian premier league": {
     "en": "Mauritanian Premier League",
     "ar": "الدوري الموريتاني الممتاز"
   },
-  "kaedi": {
-    "en": "Kaédi",
+  "kaedi fc": {
+    "en": "Kaédi FC",
     "ar": "كيهيدي"
   },
-  "army fc": {
-    "en": "Army FC",
+  "asc armee": {
+    "en": "ASC Armée",
     "ar": "الجيش الوطني"
   },
   "tevraghzeina": {
     "en": "Tevragh-Zeina",
     "ar": "تفرغ زينه"
   },
-  "nzidane": {
-    "en": "N'Zidane",
+  "inzeridan": {
+    "en": "Inzeridan",
     "ar": "انزيدان"
   },
-  "fc nouadhibou": {
-    "en": "FC Nouadhibou",
+  "nouadhibou": {
+    "en": "Nouadhibou",
     "ar": "نواذيبو"
   },
-  "nouakchott academy": {
-    "en": "Nouakchott Academy",
+  "nouakchott academie": {
+    "en": "Nouakchott Académie",
     "ar": "نواكشوط أكاديمي"
   },
   "usm oujda": {
     "en": "USM Oujda",
     "ar": "الاتحاد الوجدي"
   },
-  "olympic club de safi": {
-    "en": "Olympic Club de Safi",
+  "olympic safi": {
+    "en": "Olympic Safi",
     "ar": "أولمبيك أسفي"
   },
   "moroccan botola 2": {
@@ -1743,36 +1739,36 @@
     "en": "Stade Marocain",
     "ar": "سطاد المغربي"
   },
-  "ittihad khemisset": {
-    "en": "Ittihad Khémisset",
+  "izk khemisset": {
+    "en": "IZK Khemisset",
     "ar": "اتحاد الخميسات"
   },
   "olympique khouribga": {
     "en": "Olympique Khouribga",
     "ar": "أولمبيك خريبكة"
   },
-  "nrb tougana": {
-    "en": "NRB Tougana",
+  "narb reghaia": {
+    "en": "NARB Reghaïa",
     "ar": "نجم عزازقة"
   },
   "mo bejaia": {
     "en": "MO Béjaïa",
     "ar": "مولودية بجاية"
   },
-  "hilal redeyef": {
-    "en": "Hilal Redeyef",
+  "es rades": {
+    "en": "ES Radès",
     "ar": "هلال الرديف"
   },
-  "as korba": {
-    "en": "AS Korba",
+  "club korba": {
+    "en": "Club Korba",
     "ar": "النادي القربي"
   },
   "tunisian ligue 2": {
     "en": "Tunisian Ligue 2",
     "ar": "الدوري التونسي الدرجة الثانية"
   },
-  "es beni khalled": {
-    "en": "ES Beni Khalled",
+  "es ben khalled": {
+    "en": "ES Ben Khalled",
     "ar": "النجم الرياضي ببني خلاد"
   },
   "sfax railways sports": {
@@ -1791,12 +1787,12 @@
     "en": "Stade Soussien",
     "ar": "الملعب السوسي"
   },
-  "baath bouhajla": {
-    "en": "Baath Bouhajla",
+  "baath bouhjel": {
+    "en": "Baath Bouhjel",
     "ar": "بعث بوحجلة"
   },
-  "as soliman": {
-    "en": "AS Soliman",
+  "es metlaoui": {
+    "en": "ES Métlaoui",
     "ar": "مستقبل سليمان"
   },
   "as megrine": {
@@ -1819,8 +1815,8 @@
     "en": "Ferencváros",
     "ar": "فيرينتسفاروشي"
   },
-  "paksi fc": {
-    "en": "Paksi FC",
+  "paks": {
+    "en": "Paks",
     "ar": "باكسي"
   },
   "budapest honved": {
@@ -2003,24 +1999,24 @@
     "en": "Albanian Super League",
     "ar": "دوري السوبر الألباني"
   },
-  "af elbasani": {
-    "en": "AF Elbasani",
+  "elbasani": {
+    "en": "Elbasani",
     "ar": "البساني"
   },
   "vora": {
     "en": "Vora",
     "ar": "فورا"
   },
-  "kups": {
-    "en": "KuPS",
+  "kizilkum zarafshon": {
+    "en": "Kizilkum Zarafshon",
     "ar": "كويزلكام"
   },
   "surkhon termez": {
     "en": "Surkhon Termez",
     "ar": "سوروخون ترميز"
   },
-  "arema": {
-    "en": "Arema",
+  "arema fc": {
+    "en": "Arema FC",
     "ar": "آريما كرونوس"
   },
   "bhayangkara": {
@@ -2031,8 +2027,8 @@
     "en": "Persita Tangerang",
     "ar": "بيرسيتا"
   },
-  "garudayaksa": {
-    "en": "Garudayaksa",
+  "garda yaksa": {
+    "en": "Garda Yaksa",
     "ar": "غاروداياكسا"
   },
   "pss sleman": {
@@ -2075,8 +2071,8 @@
     "en": "Hoàng Anh Gia Lai",
     "ar": "هوانغ آنه جيا لاي"
   },
-  "shb a nang": {
-    "en": "SHB Đà Nẵng",
+  "da nang": {
+    "en": "Da Nang",
     "ar": "دا نانغ"
   },
   "vietnamese vleague 1": {
@@ -2087,12 +2083,12 @@
     "en": "Hải Phòng",
     "ar": "هاي فونغ"
   },
-  "ong a thanh hoa": {
-    "en": "Đông Á Thanh Hóa",
+  "thanh hoa": {
+    "en": "Thanh Hóa",
     "ar": "ثانه هوا"
   },
-  "thep xanh nam inh": {
-    "en": "Thép Xanh Nam Định",
+  "nam inh": {
+    "en": "Nam Định",
     "ar": "نام دينه"
   },
   "ninh binh": {
@@ -2103,8 +2099,8 @@
     "en": "Borac Banja Luka",
     "ar": "بي إس كيه بانيا لوكا"
   },
-  "turku": {
-    "en": "Turku",
+  "inter turku": {
+    "en": "Inter Turku",
     "ar": "توركو"
   },
   "jaro": {
@@ -2119,8 +2115,8 @@
     "en": "Ilves",
     "ar": "إيلفيس"
   },
-  "krasava eny ypsonas": {
-    "en": "Krasava ENY Ypsonas",
+  "krasava enosis neon ypsonas": {
+    "en": "Krasava Enosis Neon Ypsonas",
     "ar": "كراسافا إيبسوناس"
   },
   "apollon limassol": {
@@ -2139,8 +2135,8 @@
     "en": "Cerro Largo",
     "ar": "سيرو"
   },
-  "wanderers": {
-    "en": "Wanderers",
+  "montevideo wanderers": {
+    "en": "Montevideo Wanderers",
     "ar": "واندررز"
   },
   "boston river": {
@@ -2183,12 +2179,12 @@
     "en": "Waterside Karori",
     "ar": "ووترسايد كاروري"
   },
-  "new zealand womens league": {
-    "en": "New Zealand Women's League",
+  "new zealand womens national league": {
+    "en": "New Zealand Women's National League",
     "ar": "الدوري النيوزيلندي للسيدات"
   },
-  "fencibles united": {
-    "en": "Fencibles United",
+  "vincee united": {
+    "en": "Vincee United",
     "ar": "فينسيبلز يونايتد"
   },
   "wellington united": {
@@ -2203,8 +2199,8 @@
     "en": "Canterbury United",
     "ar": "كانتربري يونايتد"
   },
-  "wellington phoenix women": {
-    "en": "Wellington Phoenix Women",
+  "wellington phoenix reserves": {
+    "en": "Wellington Phoenix Reserves",
     "ar": "ويلينغتون فينيكس ج"
   },
   "west coast rangers": {
