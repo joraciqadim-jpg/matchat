@@ -334,7 +334,7 @@
       "tournamentAr": "🏁 الدوري الأردني",
       "matchEn": "Al Hussein v Al Arabi",
       "matchAr": "الحسين × العربي",
-      "time": "0 - 0 (live)"
+      "time": "1 - 0 (live)"
     },
     {
       "tournamentEn": "🏁 Jordanian Pro League",
@@ -572,7 +572,7 @@
       "tournamentAr": "🏁 الدوري الرواندي الممتاز",
       "matchEn": "AS Kigali v Gicumbi",
       "matchAr": "إيه إس كيغالي × جيكومبي",
-      "time": "0 - 0 (live)"
+      "time": "1 - 0 (live)"
     },
     {
       "tournamentEn": "🏁 Rwandan Premier League",
@@ -614,7 +614,7 @@
       "tournamentAr": "🇸🇦 دوري الدرجة الثانية السعودي",
       "matchEn": "Al-Ghouta v Al Rayyan",
       "matchAr": "الغوطة × الريان",
-      "time": "1 - 2 (live)"
+      "time": "1 - 3 (live)"
     },
     {
       "tournamentEn": "🇸🇦 Saudi Second Division",
@@ -635,7 +635,7 @@
       "tournamentAr": "🏁 الدوري المصري الدرجة الثانية",
       "matchEn": "WE v Mansoura",
       "matchAr": "وي × المنصورة",
-      "time": "0 - 0 (live)"
+      "time": "0 - 1 (done)"
     },
     {
       "tournamentEn": "🏁 Egyptian Second Division",
@@ -649,28 +649,28 @@
       "tournamentAr": "🏁 الدوري المصري الدرجة الثانية",
       "matchEn": "Tima v Pharco",
       "matchAr": "تيم × فاركو",
-      "time": "0 - 2 (live)"
+      "time": "0 - 3 (done)"
     },
     {
       "tournamentEn": "🏁 Egyptian Second Division",
       "tournamentAr": "🏁 الدوري المصري الدرجة الثانية",
       "matchEn": "Ismaily v Tanta",
       "matchAr": "الإسماعيلي × طنطا",
-      "time": "2 - 1 (live)"
+      "time": "2 - 1 (done)"
     },
     {
       "tournamentEn": "🏁 Egyptian Second Division",
       "tournamentAr": "🏁 الدوري المصري الدرجة الثانية",
       "matchEn": "El Entag El Harby v La Viena",
       "matchAr": "الإنتاج الحربي × لاڤيينا",
-      "time": "1 - 0 (live)"
+      "time": "2 - 0 (live)"
     },
     {
       "tournamentEn": "🇩🇿 Algerian Ligue 2",
       "tournamentAr": "🇩🇿 الدوري الجزائري القسم الثاني",
       "matchEn": "MSP Batna v Chabab Beni Thour",
       "matchAr": "مولودية باتنة × شباب بني ثور",
-      "time": "1 - 0 (live)"
+      "time": "1 - 1 (live)"
     },
     {
       "tournamentEn": "🇩🇿 Algerian Ligue 2",
@@ -689,16 +689,9 @@
     {
       "tournamentEn": "🇩🇿 Algerian Ligue 2",
       "tournamentAr": "🇩🇿 الدوري الجزائري القسم الثاني",
-      "matchEn": "Paradou AC v JSM Skikda",
-      "matchAr": "أتليتيك بارادو × شبيبة سكيكدة",
-      "time": "14:00"
-    },
-    {
-      "tournamentEn": "🇩🇿 Algerian Ligue 2",
-      "tournamentAr": "🇩🇿 الدوري الجزائري القسم الثاني",
       "matchEn": "Nedjm Ben Walbane v JSD Jijel",
       "matchAr": "نجم بني والبان × شبيبة جيجل",
-      "time": "0 - 0 (live)"
+      "time": "1 - 0 (live)"
     },
     {
       "tournamentEn": "🇩🇿 Algerian Ligue 2",
@@ -712,7 +705,7 @@
       "tournamentAr": "🇩🇿 الدوري الجزائري القسم الثاني",
       "matchEn": "USM Annaba v US Chaouia",
       "matchAr": "إتحاد عنابة × إتحاد الشاوية",
-      "time": "0 - 0 (live)"
+      "time": "1 - 0 (live)"
     },
     {
       "tournamentEn": "🇩🇿 Algerian Ligue 2",
@@ -726,7 +719,7 @@
       "tournamentAr": "🇩🇿 الدوري الجزائري القسم الثاني",
       "matchEn": "Sidi Mohamed Ben Ali v NA Hussein Dey",
       "matchAr": "سيدي محمد بن علي × نصر حسين داي",
-      "time": "0 - 1 (live)"
+      "time": "1 - 1 (live)"
     },
     {
       "tournamentEn": "🇩🇿 Algerian Ligue 2",
@@ -796,7 +789,7 @@
       "tournamentAr": "🇺🇦 الدوري الأوكراني الممتاز",
       "matchEn": "Feriș v Shakhtar Donetsk",
       "matchAr": "فيريش × شاختار دونيتسك",
-      "time": "0 - 3 (live)"
+      "time": "0 - 3 (done)"
     },
     {
       "tournamentEn": "🇷🇴 Romanian Liga I",
@@ -838,7 +831,7 @@
       "tournamentAr": "🇺🇿 الدوري الأوزبكي",
       "matchEn": "Nasaf v Dinamo Samarqand",
       "matchAr": "ناساف × دينامو سمرقند",
-      "time": "14:30"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🏁 Indonesian Liga 1",
