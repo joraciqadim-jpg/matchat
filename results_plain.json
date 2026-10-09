@@ -425,35 +425,35 @@
       "tournamentAr": "🏁 الدوري السوري",
       "matchEn": "Al-Fidaa Homs v Hutteen",
       "matchAr": "حمص الفداء × حطين",
-      "time": "12:00"
+      "time": "1 - 0 (live)"
     },
     {
       "tournamentEn": "🏁 Syrian Premier League",
       "tournamentAr": "🏁 الدوري السوري",
       "matchEn": "Qamishli Sport v Al Wahda",
       "matchAr": "قامشلي سبورت × الوحدة",
-      "time": "12:00"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🏁 Syrian Premier League",
       "tournamentAr": "🏁 الدوري السوري",
       "matchEn": "Al-Ahli Damascus v Al-Fotuwa",
       "matchAr": "دمشق الأهلي × الفتوة",
-      "time": "12:00"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🏁 Syrian Premier League",
       "tournamentAr": "🏁 الدوري السوري",
       "matchEn": "Al-Nawaeir v Al-Jaish",
       "matchAr": "النواعير × الجيش",
-      "time": "12:00"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🏁 Lebanese Premier League",
       "tournamentAr": "🏁 الدوري اللبناني",
       "matchEn": "Tripoli SC v Al Ahed",
       "matchAr": "طرابلس الرياضي × العهد",
-      "time": "12:00"
+      "time": "1 - 1 (live)"
     },
     {
       "tournamentEn": "🏁 Lebanese Premier League",
@@ -474,21 +474,21 @@
       "tournamentAr": "🇨🇳 الدوري الصيني",
       "matchEn": "Qingdao Jonoon v Beijing Guoan",
       "matchAr": "كينغداو جونون × بكين غوان",
-      "time": "0 - 1 (live)"
+      "time": "0 - 2 (live)"
     },
     {
       "tournamentEn": "🇨🇳 Chinese Super League",
       "tournamentAr": "🇨🇳 الدوري الصيني",
       "matchEn": "Sichuan v Henan",
       "matchAr": "سيشوان × هينان",
-      "time": "0 - 0 (live)"
+      "time": "0 - 1 (live)"
     },
     {
       "tournamentEn": "🇨🇳 Chinese Super League",
       "tournamentAr": "🇨🇳 الدوري الصيني",
       "matchEn": "Zhejiang v Shanghai",
       "matchAr": "تشجيانغ × شنغهاي",
-      "time": "12:00"
+      "time": "1 - 2 (live)"
     },
     {
       "tournamentEn": "🇩🇰 Danish Superliga",
@@ -537,14 +537,14 @@
       "tournamentAr": "🏁 الدوري الياباني",
       "matchEn": "Kashiwa Reysol v Vissel Kobe",
       "matchAr": "كاشيوا ريسول × فيسيل كوبي",
-      "time": "4 - 2 (live)"
+      "time": "4 - 2 (done)"
     },
     {
       "tournamentEn": "🏁 Japanese J1 League",
       "tournamentAr": "🏁 الدوري الياباني",
       "matchEn": "Kashima Antlers v Gamba Osaka",
       "matchAr": "كاشيما انتلرز × غامبا أوساكا",
-      "time": "2 - 0 (live)"
+      "time": "2 - 0 (done)"
     },
     {
       "tournamentEn": "🇰🇷 South Korean K-League",
@@ -586,14 +586,14 @@
       "tournamentAr": "🇸🇦 دوري الدرجة الثانية السعودي",
       "matchEn": "Al-Safa v Afif",
       "matchAr": "الصفا × عفيف",
-      "time": "12:10"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇸🇦 Saudi Second Division",
       "tournamentAr": "🇸🇦 دوري الدرجة الثانية السعودي",
       "matchEn": "Al-Sahel v Al-Taraji",
       "matchAr": "الساحل × الترجي",
-      "time": "12:10"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇸🇦 Saudi Second Division",
@@ -622,13 +622,6 @@
       "matchEn": "Bish v Al Ain",
       "matchAr": "بيش × العين",
       "time": "12:40"
-    },
-    {
-      "tournamentEn": "🇸🇦 Saudi Second Division",
-      "tournamentAr": "🇸🇦 دوري الدرجة الثانية السعودي",
-      "matchEn": "Arar v Mudar",
-      "matchAr": "عرعر × مضر",
-      "time": "12:45"
     },
     {
       "tournamentEn": "🇸🇦 Saudi Second Division",
@@ -859,14 +852,14 @@
       "tournamentAr": "🏁 الدوري الإندونيسي",
       "matchEn": "Adhyaksa v Persebaya Surabaya",
       "matchAr": "أدياكسا × بيرسيبايا سورابايا",
-      "time": "12:00"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🏁 Thai League 1",
       "tournamentAr": "🏁 الدوري التايلندي",
       "matchEn": "Ratchaburi v Sukhothai",
       "matchAr": "راتشابوري × سوكوتاي",
-      "time": "2 - 0 (live)"
+      "time": "3 - 0 (live)"
     },
     {
       "tournamentEn": "🏁 Bosnia and Herzegovina Premier League",
@@ -915,7 +908,7 @@
       "tournamentAr": "✨ وديات منتخبات سيدات",
       "matchEn": "Andorra v Faroe Islands",
       "matchAr": "أندورا × جزر فارو",
-      "time": "0 - 2 (live)"
+      "time": "0 - 5 (done)"
     },
     {
       "tournamentEn": "✨ Women's International Friendlies",
