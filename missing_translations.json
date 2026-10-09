@@ -3,16 +3,16 @@
     "en": "Málaga",
     "ar": "مالقا"
   },
-  "la liga": {
-    "en": "La Liga",
+  "spanish la liga": {
+    "en": "Spanish La Liga",
     "ar": "الدوري الإسباني"
   },
   "saudi pro league": {
     "en": "Saudi Pro League",
     "ar": "دوري روشن السعودي"
   },
-  "ligue 1": {
-    "en": "Ligue 1",
+  "french ligue 1": {
+    "en": "French Ligue 1",
     "ar": "الدوري الفرنسي"
   },
   "moghreb tetouan": {
@@ -59,16 +59,16 @@
     "en": "Heerenveen",
     "ar": "هيرنفين"
   },
-  "eredivisie": {
-    "en": "Eredivisie",
+  "dutch eredivisie": {
+    "en": "Dutch Eredivisie",
     "ar": "الدوري الهولندي"
   },
   "moreirense": {
     "en": "Moreirense",
     "ar": "موريرنسي"
   },
-  "primeira liga": {
-    "en": "Primeira Liga",
+  "portuguese primeira liga": {
+    "en": "Portuguese Primeira Liga",
     "ar": "الدوري البرتغالي"
   },
   "championship": {
@@ -319,8 +319,8 @@
     "en": "Aldosivi",
     "ar": "إلدوسيفي"
   },
-  "argentine primera division": {
-    "en": "Argentine Primera División",
+  "argentinian primera division": {
+    "en": "Argentinian Primera División",
     "ar": "الدوري الأرجنتيني"
   },
   "gimnasia y esgrima la plata": {
@@ -363,8 +363,8 @@
     "en": "Vissel Kobe",
     "ar": "فيسيل كوبي"
   },
-  "j1 league": {
-    "en": "J1 League",
+   "japanese j1 league": {
+    "en": "Japanese J1 League",
     "ar": "الدوري الياباني"
   },
   "kashima antlers": {
@@ -463,16 +463,16 @@
     "en": "Al-Qalaa",
     "ar": "القلعة"
   },
-  "serie b": {
-    "en": "Serie B",
+  "italian serie b": {
+    "en": "Italian Serie B",
     "ar": "الدوري الإيطالي الدرجة الثانية"
   },
   "bologna": {
     "en": "Bologna",
     "ar": "بولون"
   },
-  "ligue 2": {
-    "en": "Ligue 2",
+  "french ligue 2": {
+    "en": "French Ligue 2",
     "ar": "الدوري الفرنسي الدرجة الثانية"
   },
   "pau": {
@@ -503,8 +503,8 @@
     "en": "Eintracht Braunschweig",
     "ar": "آينتراخت براونشفايغ"
   },
-  "2 bundesliga": {
-    "en": "2. Bundesliga",
+  "german 2 bundesliga": {
+    "en": "German 2. Bundesliga",
     "ar": "الدوري الألماني الدرجة الثانية"
   },
   "we": {
@@ -655,8 +655,8 @@
     "en": "AVS",
     "ar": "اي في اس"
   },
-  "liga portugal 2": {
-    "en": "Liga Portugal 2",
+  "portuguese liga 2": {
+    "en": "Portuguese Liga 2",
     "ar": "الدوري البرتغالي الدرجة الثانية"
   },
   "fc volendam": {
@@ -667,8 +667,8 @@
     "en": "Vitesse",
     "ar": "فيتيسه"
   },
-  "eerste divisie": {
-    "en": "Eerste Divisie",
+  "dutch eerste divisie": {
+    "en": "Dutch Eerste Divisie",
     "ar": "الدوري الهولندي الدرجة الأولى"
   },
   "roda jc kerkrade": {
