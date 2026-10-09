@@ -1,11 +1,15 @@
 {
-  "FIFA Womens World Cup 2027 Qualifiers": {
-    "en": "FIFA Women's World Cup 2027 Qualifiers",
-    "ar": "تصفيات كأس العالم للسيدات 2027"
+  "bremen": {
+    "en": "Bremen",
+    "ar": "بريمن"
   },
-  "Veres Rivne": {
-    "en": "Veres Rivne",
-    "ar": "فيريس ريفني"
+  "braga": {
+    "en": "Braga",
+    "ar": "براغا"
+  },
+  "kasmpaa": {
+    "en": "Kasimpasa",
+    "ar": "قاسم باشا"
   },
   "malaga": {
     "en": "Málaga",
@@ -79,7 +83,7 @@
     "en": "Portuguese Liga 1",
     "ar": "الدوري البرتغالي"
   },
-  "English championship": {
+  "english championship": {
     "en": "English Championship",
     "ar": "تشامبيونشيب"
   },
