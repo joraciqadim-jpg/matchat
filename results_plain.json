@@ -43,6 +43,13 @@
       "time": "18:00"
     },
     {
+      "tournamentEn": "🇬🇧 English Championship",
+      "tournamentAr": "🇬🇧 تشامبيونشيب",
+      "matchEn": "West Ham United v Queens Park Rangers",
+      "matchAr": "وست هام يونايتد × كوينز بارك رينجرز",
+      "time": "19:00"
+    },
+    {
       "tournamentEn": "🇧🇷 Brazilian Série A",
       "tournamentAr": "🇧🇷 الدوري البرازيلي",
       "matchEn": "Santos v Flamengo",
@@ -69,6 +76,34 @@
       "matchEn": "Fluminense v Coritiba",
       "matchAr": "فلومينينسي × كوريتيبا",
       "time": "4 - 0 (done)"
+    },
+    {
+      "tournamentEn": "🏁 Argentinean Primera División",
+      "tournamentAr": "🏁 الدوري الأرجنتيني",
+      "matchEn": "Aldosivi v Sarmiento",
+      "matchAr": "إلدوسيفي × سارمينتو",
+      "time": "17:30"
+    },
+    {
+      "tournamentEn": "🏁 Argentinean Primera División",
+      "tournamentAr": "🏁 الدوري الأرجنتيني",
+      "matchEn": "Gimnasia y Esgrima La Plata v Atlético Tucumán",
+      "matchAr": "خيمناسيا لابلاتا × أتلتيكو توكومان",
+      "time": "21:00"
+    },
+    {
+      "tournamentEn": "🏁 Argentinean Primera División",
+      "tournamentAr": "🏁 الدوري الأرجنتيني",
+      "matchEn": "Instituto v Boca Juniors",
+      "matchAr": "إنستيتوتو × بوكا جونيورز",
+      "time": "22:30"
+    },
+    {
+      "tournamentEn": "🏁 Argentinean Primera División",
+      "tournamentAr": "🏁 الدوري الأرجنتيني",
+      "matchEn": "Unión v Defensa y Justicia",
+      "matchAr": "يونيون × ديفينسا جوستيسيا",
+      "time": "00:45"
     },
     {
       "tournamentEn": "🇪🇸 Spanish La Liga",
@@ -251,13 +286,6 @@
       "matchEn": "Galatasaray v Kasımpaşa",
       "matchAr": "غلطة سراي × قاسم باشا",
       "time": "17:00"
-    },
-    {
-      "tournamentEn": "🏁 Championship",
-      "tournamentAr": "🏁 تشامبيونشيب",
-      "matchEn": "West Ham United v Queens Park Rangers",
-      "matchAr": "وست هام يونايتد × كوينز بارك رينجرز",
-      "time": "19:00"
     },
     {
       "tournamentEn": "🏁 Belgian Pro League",
@@ -491,42 +519,14 @@
       "time": "13:30"
     },
     {
-      "tournamentEn": "🏁 Argentinian Primera División",
-      "tournamentAr": "🏁 الدوري الأرجنتيني",
-      "matchEn": "Aldosivi v Sarmiento",
-      "matchAr": "إلدوسيفي × سارمينتو",
-      "time": "17:30"
-    },
-    {
-      "tournamentEn": "🏁 Argentinian Primera División",
-      "tournamentAr": "🏁 الدوري الأرجنتيني",
-      "matchEn": "Gimnasia y Esgrima La Plata v Atlético Tucumán",
-      "matchAr": "خيمناسيا لابلاتا × أتلتيكو توكومان",
-      "time": "21:00"
-    },
-    {
-      "tournamentEn": "🏁 Argentinian Primera División",
-      "tournamentAr": "🏁 الدوري الأرجنتيني",
-      "matchEn": "Instituto v Boca Juniors",
-      "matchAr": "إنستيتوتو × بوكا جونيورز",
-      "time": "22:30"
-    },
-    {
-      "tournamentEn": "🏁 Argentinian Primera División",
-      "tournamentAr": "🏁 الدوري الأرجنتيني",
-      "matchEn": "Unión v Defensa y Justicia",
-      "matchAr": "يونيون × ديفينسا جوستيسيا",
-      "time": "00:45"
-    },
-    {
-      "tournamentEn": "🏁 Liga MX",
+      "tournamentEn": "🏁 Mexican Liga MX",
       "tournamentAr": "🏁 الدوري المكسيكي",
       "matchEn": "Puebla v Club León",
       "matchAr": "بويبلا × كلوب ليون",
       "time": "01:00"
     },
     {
-      "tournamentEn": "🏁 Liga MX",
+      "tournamentEn": "🏁 Mexican Liga MX",
       "tournamentAr": "🏁 الدوري المكسيكي",
       "matchEn": "Tigres UANL v Toluca",
       "matchAr": "تايغرز أونال × تولوكا",
@@ -558,14 +558,14 @@
       "tournamentAr": "🇰🇷 الدوري الكوري الجنوبي",
       "matchEn": "Incheon United v Pohang Steelers",
       "matchAr": "انشيون يونايتد × بوهانغ ستيلرز",
-      "time": "3 - 0 (live)"
+      "time": "3 - 0 (done)"
     },
     {
       "tournamentEn": "🇰🇷 South Korean K-League",
       "tournamentAr": "🇰🇷 الدوري الكوري الجنوبي",
       "matchEn": "Gangwon v Bucheon FC 1995",
       "matchAr": "غانغوون × بوتشون 1995",
-      "time": "2 - 0 (live)"
+      "time": "2 - 0 (done)"
     },
     {
       "tournamentEn": "🏁 Rwandan Premier League",
@@ -771,8 +771,8 @@
       "time": "16:00"
     },
     {
-      "tournamentEn": "🏁 Eliteserien",
-      "tournamentAr": "🏁 الدوري النرويجي",
+      "tournamentEn": "🇳🇴 Norwegian Eliteserien",
+      "tournamentAr": "🇳🇴 الدوري النرويجي",
       "matchEn": "Brann v Viking",
       "matchAr": "بران × فايكنغ",
       "time": "17:00"
@@ -876,8 +876,8 @@
       "time": "16:00"
     },
     {
-      "tournamentEn": "🏁 Veikkausliiga",
-      "tournamentAr": "🏁 الدوري الفنلندي",
+      "tournamentEn": "🇫🇮 Finnish League",
+      "tournamentAr": "🇫🇮 الدوري الفنلندي",
       "matchEn": "SJK Seinäjoki v Lahti",
       "matchAr": "سيناجوكي × لاهتي",
       "time": "15:00"
