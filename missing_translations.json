@@ -3,7 +3,7 @@
     "en": "APIA Leichhardt",
     "ar": "آبيا ليتشهاردت"
   },
-  "kasmpaa": {
+  "kasimpasa": {
     "en": "Kasimpasa",
     "ar": "قاسم باشا"
   },
@@ -19,28 +19,28 @@
     "en": "Málaga",
     "ar": "مالقا"
   },
-  "la liga": {
-    "en": "La Liga",
+  "spanish la liga 1": {
+    "en": "Spanish La Liga 1",
     "ar": "الدوري الإسباني"
   },
   "saudi pro league": {
     "en": "Saudi Pro League",
     "ar": "دوري روشن السعودي"
   },
-  "ligue 1": {
-    "en": "Ligue 1",
+  "french ligue 1": {
+    "en": "French Ligue 1",
     "ar": "الدوري الفرنسي"
   },
-  "moghreb tetouan": {
-    "en": "Moghreb Tétouan",
+  "maghreb tetouan": {
+    "en": "Maghreb Tétouan",
     "ar": "المغرب التطواني"
   },
   "fus rabat": {
     "en": "FUS Rabat",
     "ar": "الفتح الرباطي"
   },
-  "botola pro": {
-    "en": "Botola Pro",
+  Moroccan botola pro": {
+    "en": "Moroccan Botola Pro",
     "ar": "الدوري المغربي"
   },
   "js kabylie": {
@@ -59,8 +59,8 @@
     "en": "CRB Aïn Témouchent",
     "ar": "شباب عين تيموشنت"
   },
-  "super lig": {
-    "en": "Süper Lig",
+  "turkish super lig": {
+    "en": "Turkish Süper Lig",
     "ar": "الدوري التركي"
   },
   "psv eindhoven": {
@@ -71,16 +71,16 @@
     "en": "SC Heerenveen",
     "ar": "هيرنفين"
   },
-  "eredivisie": {
-    "en": "Eredivisie",
+  "dutch eredivisie": {
+    "en": "Dutch Eredivisie",
     "ar": "الدوري الهولندي"
   },
   "moreirense": {
     "en": "Moreirense",
     "ar": "موريرنسي"
   },
-  "primeira liga": {
-    "en": "Primeira Liga",
+  "portuguese primeira liga": {
+    "en": "Portuguese Primeira Liga",
     "ar": "الدوري البرتغالي"
   },
   "efl championship": {
@@ -151,8 +151,8 @@
     "en": "Al-Jolan SC",
     "ar": "الجولان"
   },
-  "kuwaiti premier league": {
-    "en": "Kuwaiti Premier League",
+  "kuwait premier league": {
+    "en": "Kuwait Premier League",
     "ar": "الدوري الكويتي"
   },
   "kazma sc": {
@@ -167,8 +167,8 @@
     "en": "Ibri Club",
     "ar": "عبري"
   },
-  "omani professional league": {
-    "en": "Omani Professional League",
+  "oman professional league": {
+    "en": "Oman Professional League",
     "ar": "الدوري العماني"
   },
   "almsnaa sc": {
@@ -187,8 +187,8 @@
     "en": "Al-Riffa",
     "ar": "الرفاع"
   },
-  "bahraini premier league": {
-    "en": "Bahraini Premier League",
+  "bahrain premier league": {
+    "en": "Bahrain Premier League",
     "ar": "الدوري البحريني"
   },
   "homs alfidaa": {
@@ -319,8 +319,8 @@
     "en": "Aldosivi",
     "ar": "إلدوسيفي"
   },
-  "argentine primera division": {
-    "en": "Argentine Primera División",
+  "argentinian primera division": {
+    "en": "Argentinia Primera División",
     "ar": "الدوري الأرجنتيني"
   },
   "gimnasia la plata": {
@@ -347,8 +347,8 @@
     "en": "Club León",
     "ar": "كلوب ليون"
   },
-  "liga mx": {
-    "en": "Liga MX",
+  "mexican liga mx": {
+    "en": "Mexican Liga MX",
     "ar": "الدوري المكسيكي"
   },
   "tigres uanl": {
@@ -363,8 +363,8 @@
     "en": "Vissel Kobe",
     "ar": "فيسيل كوبي"
   },
-  "j1 league": {
-    "en": "J1 League",
+  "japan j1 league": {
+    "en": "Japan J1 League",
     "ar": "الدوري الياباني"
   },
   "kashima antlers": {
@@ -459,16 +459,16 @@
     "en": "Al-Qalaa",
     "ar": "القلعة"
   },
-  "serie b": {
-    "en": "Serie B",
+  "italian serie b": {
+    "en": "Italian Serie B",
     "ar": "الدوري الإيطالي الدرجة الثانية"
   },
   "bologna": {
     "en": "Bologna",
     "ar": "بولون"
   },
-  "ligue 2": {
-    "en": "Ligue 2",
+  "French ligue 2": {
+    "en": "French Ligue 2",
     "ar": "الدوري الفرنسي الدرجة الثانية"
   },
   "pau fc": {
@@ -515,8 +515,8 @@
     "en": "Kafr El Zayat Financial",
     "ar": "مالية كفر الزيات"
   },
-  "tanta elmahalla": {
-    "en": "Tanta El-Mahalla?",
+  "tim": {
+    "en": "Tim",
     "ar": "تيم"
   },
   "pharco fc": {
@@ -651,8 +651,8 @@
     "en": "AVS Futebol SAD",
     "ar": "اي في اس"
   },
-  "liga portugal 2": {
-    "en": "Liga Portugal 2",
+  "portuguese liga portugal 2": {
+    "en": "Portuguese Liga 2",
     "ar": "الدوري البرتغالي الدرجة الثانية"
   },
   "fc volendam": {
@@ -663,8 +663,8 @@
     "en": "Vitesse",
     "ar": "فيتيسه"
   },
-  "eerste divisie": {
-    "en": "Eerste Divisie",
+  "dutch eerste divisie": {
+    "en": "Dutch Eerste Divisie",
     "ar": "الدوري الهولندي الدرجة الأولى"
   },
   "roda jc kerkrade": {
@@ -679,8 +679,8 @@
     "en": "MVV Maastricht",
     "ar": "آم في في ماستريخت"
   },
-  "jong az": {
-    "en": "Jong AZ",
+  "az alkamar 2": {
+    "en": "AZ Alkamar 2",
     "ar": "إي زد ألكمار ب"
   },
   "jong ajax": {
@@ -699,8 +699,8 @@
     "en": "RKC Waalwijk",
     "ar": "آر كي سي فالفيك"
   },
-  "jong fc utrecht": {
-    "en": "Jong FC Utrecht",
+  "fc utrecht 2": {
+    "en": "FC Utrecht 2",
     "ar": "أوتريخت ب"
   },
   "fc emmen": {
@@ -715,8 +715,8 @@
     "en": "Viking FK",
     "ar": "فايكنغ"
   },
-  "eliteserien": {
-    "en": "Eliteserien",
+  "norwegian eliteserien": {
+    "en": "Norwegian Eliteserien",
     "ar": "الدوري النرويجي"
   },
   "wisa krakow": {
@@ -775,8 +775,8 @@
     "en": "Madura United",
     "ar": "مادورا يونايتد"
   },
-  "liga 1": {
-    "en": "Liga 1",
+  "indonesian liga 1": {
+    "en": "Indonesian Liga 1",
     "ar": "الدوري الإندونيسي"
   },
   "adhyaksa fc": {
@@ -863,8 +863,8 @@
     "en": "Deportes Tolima",
     "ar": "ديبورتيس توليما"
   },
-  "categoria primera a": {
-    "en": "Categoría Primera A",
+  "colombian primera a": {
+    "en": "Colombian Primera A",
     "ar": "الدوري الكولومبي"
   },
   "millonarios": {
@@ -887,7 +887,7 @@
     "en": "Veres Rivne",
     "ar": "فيريس ريفني"
   },
-  "trkiye cup": {
+  "turkish cup": {
     "en": "Turkish Cup",
     "ar": "كأس تركيا"
   },
@@ -1203,8 +1203,8 @@
     "en": "Mosul",
     "ar": "الموصل"
   },
-  "iraqi premier league": {
-    "en": "Iraqi Premier League",
+  "iraq premier league": {
+    "en": "Iraq Premier League",
     "ar": "الدوري العراقي"
   },
   "brazilian serie a": {
