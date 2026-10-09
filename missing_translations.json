@@ -1,4 +1,12 @@
 {
+  "bremen": {
+    "en": "Bremen",
+    "ar": "بريمن"
+  },
+  "braga": {
+    "en": "Braga",
+    "ar": "براغا"
+  },
   "malaga": {
     "en": "Málaga",
     "ar": "مالقا"
@@ -859,43 +867,43 @@
     "en": "Alianza Petrolera",
     "ar": "أليانزا بيتروليرا"
   },
-  "Incheon United": {
+  "incheon united": {
     "en": "Incheon United",
     "ar": "إنتشون يونايتد"
   },
-  "FIFA Womens World Cup 2027 Qualifiers": {
+  "fifa womens world cup 2027 qualifiers": {
     "en": "FIFA Women's World Cup 2027 Qualifiers",
     "ar": "تصفيات كأس العالم للسيدات 2027"
   },
-  "Veres Rivne": {
+  "veres rivne": {
     "en": "Veres Rivne",
     "ar": "فيريس ريفني"
   },
-  "Türkiye Cup": {
+  "trkiye cup": {
     "en": "Turkish Cup",
     "ar": "كأس تركيا"
   },
-  "Erciyes 38": {
+  "erciyes 38": {
     "en": "Erciyes 38",
     "ar": "إرجييس 38"
   },
-  "Kahta 02": {
+  "kahta 02": {
     "en": "Kahta 02",
     "ar": "كاهتا 02"
   },
-  "Denizli Belediyespor": {
+  "denizli belediyespor": {
     "en": "Denizli Belediyespor",
     "ar": "دنيزلي بيليدي سبور"
   },
-  "Serik Belediyespor": {
+  "serik belediyespor": {
     "en": "Serik Belediyespor",
     "ar": "سيريك بيليدي سبور"
   },
-  "Orduspor 1967": {
+  "orduspor 1967": {
     "en": "Orduspor 1967",
     "ar": "أوردوسبور 1967"
   },
-  "Karadeniz Eregli": {
+  "karadeniz eregli": {
     "en": "Karadeniz Ereğli",
     "ar": "كارادينيز إيرغلي"
   },
