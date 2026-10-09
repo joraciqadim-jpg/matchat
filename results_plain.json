@@ -54,7 +54,7 @@
       "tournamentAr": "🇸🇦 دوري روشن السعودي",
       "matchEn": "Al-Fateh v Al Ahli",
       "matchAr": "الفتح × الأهلي",
-      "time": "0 - 1 (live)"
+      "time": "0 - 3 (live)"
     },
     {
       "tournamentEn": "🇸🇦 Saudi Pro League",
@@ -320,7 +320,7 @@
       "tournamentAr": "🇶🇦 الدوري القطري",
       "matchEn": "Qatar SC v Al Rayyan",
       "matchAr": "قطر × الريان",
-      "time": "0 - 2 (live)"
+      "time": "0 - 3 (live)"
     },
     {
       "tournamentEn": "🇶🇦 Qatar Stars League",
@@ -383,7 +383,7 @@
       "tournamentAr": "🏁 الدوري الكويتي",
       "matchEn": "Al-Nassr v Kuwait SC",
       "matchAr": "النصر × الكويت",
-      "time": "0 - 1 (live)"
+      "time": "1 - 2 (live)"
     },
     {
       "tournamentEn": "🏁 Kuwaiti Premier League",
@@ -411,14 +411,14 @@
       "tournamentAr": "🏁 الدوري البحريني",
       "matchEn": "Al-Malkiya v Al-Riffa",
       "matchAr": "المالكية × الرفاع",
-      "time": "16:00"
+      "time": "0 - 1 (live)"
     },
     {
       "tournamentEn": "🏁 Bahraini Premier League",
       "tournamentAr": "🏁 الدوري البحريني",
       "matchEn": "Al Khalidiya v Muharraq",
       "matchAr": "الخالدية × المحرق",
-      "time": "16:00"
+      "time": "0 - 1 (live)"
     },
     {
       "tournamentEn": "🏁 Syrian Premier League",
@@ -663,7 +663,7 @@
       "tournamentAr": "🇩🇿 الدوري الجزائري القسم الثاني",
       "matchEn": "MSP Batna v Chabab Beni Thour",
       "matchAr": "مولودية باتنة × شباب بني ثور",
-      "time": "2 - 1 (live)"
+      "time": "2 - 1 (done)"
     },
     {
       "tournamentEn": "🇩🇿 Algerian Ligue 2",
@@ -684,14 +684,14 @@
       "tournamentAr": "🇩🇿 الدوري الجزائري القسم الثاني",
       "matchEn": "Nedjm Ben Walbane v JSD Jijel",
       "matchAr": "نجم بني والبان × شبيبة جيجل",
-      "time": "2 - 0 (live)"
+      "time": "2 - 0 (done)"
     },
     {
       "tournamentEn": "🇩🇿 Algerian Ligue 2",
       "tournamentAr": "🇩🇿 الدوري الجزائري القسم الثاني",
       "matchEn": "US Nedjla v MO Constantine",
       "matchAr": "إتحاد النزلة × مولودية قسنطينة",
-      "time": "1 - 2 (live)"
+      "time": "2 - 2 (done)"
     },
     {
       "tournamentEn": "🇩🇿 Algerian Ligue 2",
@@ -705,7 +705,7 @@
       "tournamentAr": "🇩🇿 الدوري الجزائري القسم الثاني",
       "matchEn": "ES Mostaganem v GC Mascara",
       "matchAr": "ترجي مستغانم × غالي معسكر",
-      "time": "14:00"
+      "time": "0 - 1 (done)"
     },
     {
       "tournamentEn": "🇩🇿 Algerian Ligue 2",
@@ -719,21 +719,21 @@
       "tournamentAr": "🇩🇿 الدوري الجزائري القسم الثاني",
       "matchEn": "JSM Tiaret v ASM Oran",
       "matchAr": "شبيبة تيارت × جمعية وهران",
-      "time": "0 - 1 (live)"
+      "time": "0 - 1 (done)"
     },
     {
       "tournamentEn": "🇩🇿 Algerian Ligue 2",
       "tournamentAr": "🇩🇿 الدوري الجزائري القسم الثاني",
       "matchEn": "Taghit v WA Mostaganem",
       "matchAr": "تاغيت × وداد مستغانم",
-      "time": "14:00"
+      "time": "1 - 1 (done)"
     },
     {
       "tournamentEn": "🇩🇿 Algerian Ligue 2",
       "tournamentAr": "🇩🇿 الدوري الجزائري القسم الثاني",
       "matchEn": "MC El Bayadh v WA Tlemcen",
       "matchAr": "مولودية البيض × وداد تلمسان",
-      "time": "0 - 0 (live)"
+      "time": "0 - 0 (done)"
     },
     {
       "tournamentEn": "🇩🇿 Algerian Ligue 2",
@@ -747,7 +747,7 @@
       "tournamentAr": "🇭🇷 الدوري الكرواتي الممتاز",
       "matchEn": "Gorica v Rudeš",
       "matchAr": "غوريسا × روديش",
-      "time": "16:00"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇳🇴 Norwegian Eliteserien",
@@ -761,7 +761,7 @@
       "tournamentAr": "🇵🇱 الدوري البولندي الممتاز",
       "matchEn": "Wieczysta Kraków v Wisla Plock",
       "matchAr": "ويكزيستا كراكوف × فيسلا بلوك",
-      "time": "16:00"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇵🇱 Polish Ekstraklasa",
@@ -775,7 +775,7 @@
       "tournamentAr": "🇨🇿 الدوري التشيكي الممتاز",
       "matchEn": "Zlín v Slavia Prague",
       "matchAr": "زلين × سلافيا براغ",
-      "time": "16:00"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇺🇦 Ukrainian Premier League",
@@ -824,7 +824,7 @@
       "tournamentAr": "🇺🇿 الدوري الأوزبكي",
       "matchEn": "Nasaf v Dinamo Samarqand",
       "matchAr": "ناساف × دينامو سمرقند",
-      "time": "0 - 0 (live)"
+      "time": "1 - 1 (live)"
     },
     {
       "tournamentEn": "🏁 Indonesian Liga 1",
@@ -852,7 +852,7 @@
       "tournamentAr": "🏁 دوري البوسنة والهرسك الممتاز",
       "matchEn": "Velež v Široki Brijeg",
       "matchAr": "فيليز × شيروكي برييغ",
-      "time": "16:00"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇫🇮 Finnish League",
@@ -866,7 +866,7 @@
       "tournamentAr": "🇨🇾 الدوري القبرصي",
       "matchEn": "Karmiotissa v Omonia",
       "matchAr": "كارميوتيسا × أومونيا",
-      "time": "16:00"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🏁 Uruguayan Primera División",
@@ -915,7 +915,7 @@
       "tournamentAr": "✨ وديات منتخبات سيدات",
       "matchEn": "Malaysia v Saudi Arabia",
       "matchAr": "ماليزيا × السعودية",
-      "time": "16:00"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "✨ Women's International Friendlies",
