@@ -114,54 +114,6 @@
       ]
     },
     {
-      "tournamentEn": "🇳🇱 Dutch Eredivisie",
-      "tournamentAr": "🇳🇱 الدوري الهولندي الممتاز",
-      "matchEn": "PSV Eindhoven v Heerenveen",
-      "matchAr": "أيندهوفن × هيرينفين",
-      "time": "18:00",
-      "channels": [
-        "📺 DAZN 3 POR [Hispasat 30W 12399 H 27500]",
-        "📺 Dubai Sports 2 [Nilesat 7.0W 12418 H 30000]",
-        "📺 Sport 3 [Amos 4.0W 11259 V 30000]",
-        "📺 Arena Sport 1 SVK [Thor 0.8W 12456 V 30000]",
-        "📺 Nova Sports 1 [Hotbird 13.0E 11804 V 30000]",
-        "📺 Polsat Sport Premium 1 [Hotbird 13.0E 11117 V 27500]",
-        "📺 Arena Sport 1 SVK [Eutelsat 16.0E 11055 V 27500]",
-        "📺 Arena Sport 3 HRV [Eutelsat 16.0E 11512 H 30000]",
-        "📺 Arena Sport 3 SRB [Eutelsat 16.0E 10721 H 30000]",
-        "📺 Super Sport 4 [Eutelsat 16.0E 10845 H 30000]",
-        "📺 Sportdigital Fussball [Astra 19.2E 11186 V 22000]",
-        "📺 Arena Sport 1 SVK [Eutelsat 23.5E 12012 V 29900]",
-        "📺 ESPN 2 Netherlands [Eutelsat 23.5E 11856 V 29900]",
-        "📺 ESPN Netherlands [Eutelsat 23.5E 11739 V 29900]",
-        "📺 Dubai Sports 2 [Badrsat 26.0E 12130 V 30000]"
-      ]
-    },
-    {
-      "tournamentEn": "🇸🇦 Saudi Pro League",
-      "tournamentAr": "🇸🇦 الدوري السعودي للمحترفين",
-      "matchEn": "Al-Nassr v Diriyah",
-      "matchAr": "النصر × الدرعية",
-      "time": "18:00",
-      "channels": [
-        "📺 Sport TV 2 [Hispasat 30W 12360 H 27500]",
-        "📺 Spiler TV 1 [Thor 0.8W 12130 H 28000]",
-        "📺 Max Sport 1 [BulgariaSat 1.9E 12303 H 30000]",
-        "📺 Polsat Sport 3 [Hotbird 13.0E 12284 H 27500]",
-        "📺 Super Sport 5 [Eutelsat 16.0E 10804 H 29950]",
-        "📺 M+ Liga de Campeones [Astra 19.2E 11259 V 22000]",
-        "📺 M+ Vamos [Astra 19.2E 10818 V 22000]",
-        "📺 Thmanyah 1 [Badrsat 26.0E 11919 H 27500]",
-        "📺 ESPN South Africa [Eutelsat 36.0E 12476 H 27500]",
-        "📺 Sporty TV [Eutelsat 36.0E 12265 V 27500]",
-        "📺 Prima Sport 4 [Hellas-Sat 39.0E 12290 V 30000]",
-        "📺 HT Spor [Turksat 42.0E 11837 V 30000]",
-        "📺 Persiana Sports 1 [Turkmenlem 52.0E 11343 H 27500]",
-        "📺 Solhsports [Turkmenlem 52.0E 10845 V 27500]",
-        "📺 Varzish TV [Al-Yah 52.5E 11785 H 27500]"
-      ]
-    },
-    {
       "tournamentEn": "🇬🇧 English Championship",
       "tournamentAr": "🇬🇧 دوري البطولة الإنجليزية",
       "matchEn": "West Ham v Queens Park Rangers",
@@ -189,24 +141,6 @@
         "📺 ESPN 2 South Africa [Eutelsat 36.0E 12092 H 27500]",
         "📺 SuperSport Máximo 1 [Eutelsat 36.0E 12169 H 27500]",
         "📺 SuperSport Premier League [Eutelsat 36.0E 12169 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🇹🇷 Turkish Süper Lig",
-      "tournamentAr": "🇹🇷 الدوري التركي الممتاز",
-      "matchEn": "Galatasaray v Kasimpasa",
-      "matchAr": "غلطة سراي × قاسم باشا",
-      "time": "17:00",
-      "channels": [
-        "📺 Sport TV 4 [Hispasat 30W 12360 H 27500]",
-        "📺 Bein Sport 1 [Nilesat 7.0W 11013 H 27500]",
-        "📺 Sport 2 [Amos 4.0W 11259 V 30000]",
-        "📺 Arena Sport 4 SRB [Eutelsat 16.0E 11366 V 30000]",
-        "📺 Super Sport 3 [Eutelsat 16.0E 10845 H 30000]",
-        "📺 Bein Sport 1 [Badrsat 26.0E 10810 H 27500]",
-        "📺 ESPN 2 South Africa [Eutelsat 36.0E 12092 H 27500]",
-        "📺 Prima Sport 3 [Hellas-Sat 39.0E 12251 V 30000]",
-        "📺 Match! Futbol 3 [Eutelsat 80.0E 11044 V 45000]"
       ]
     }
   ]
