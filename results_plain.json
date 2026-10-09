@@ -5,7 +5,7 @@
       "tournamentAr": "🇪🇸 الدوري الإسباني",
       "matchEn": "Málaga v Espanyol",
       "matchAr": "مالقا × إسبانيول",
-      "time": "19:00"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇩🇪 German Bundesliga",
@@ -68,7 +68,7 @@
       "tournamentAr": "🇬🇧 تشامبيونشيب",
       "matchEn": "West Ham United v Queens Park Rangers",
       "matchAr": "وست هام يونايتد × كوينز بارك رينجرز",
-      "time": "19:00"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇧🇷 Brazilian Série A",
@@ -180,7 +180,7 @@
       "tournamentAr": "🇮🇹 الدوري الإيطالي الدرجة الثانية",
       "matchEn": "Avellino v Sampdoria",
       "matchAr": "أفيلينو × سامبدوريا",
-      "time": "2 - 1 (live)"
+      "time": "4 - 1 (live)"
     },
     {
       "tournamentEn": "🇳🇱 Dutch Eerste Divisie",
@@ -257,7 +257,7 @@
       "tournamentAr": "🏁 الدوري البرتغالي الدرجة الثانية",
       "matchEn": "Penafiel v AVS",
       "matchAr": "بينافيل × اي في اس",
-      "time": "1 - 2 (live)"
+      "time": "1 - 2 (done)"
     },
     {
       "tournamentEn": "🇲🇦 Moroccan League",
@@ -278,14 +278,14 @@
       "tournamentAr": "🇩🇿 الدوري الجزائري",
       "matchEn": "MC Alger v CRB Aïn Témouchent",
       "matchAr": "مولودية الجزائر × شباب عين تيموشنت",
-      "time": "19:00"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇹🇷 Turkish Super Lig",
       "tournamentAr": "🇹🇷 الدوري التركي",
       "matchEn": "Galatasaray v Kasımpaşa",
       "matchAr": "غلطة سراي × قاسم باشا",
-      "time": "2 - 1 (live)"
+      "time": "3 - 1 (done)"
     },
     {
       "tournamentEn": "🏁 Belgian Pro League",
@@ -327,7 +327,7 @@
       "tournamentAr": "🇶🇦 الدوري القطري",
       "matchEn": "Al Sadd v Al Arabi",
       "matchAr": "السد × العربي",
-      "time": "2 - 3 (live)"
+      "time": "2 - 3 (done)"
     },
     {
       "tournamentEn": "🏁 Jordanian Pro League",
@@ -390,7 +390,7 @@
       "tournamentAr": "🏁 الدوري الكويتي",
       "matchEn": "Kazma v Al Arabi",
       "matchAr": "كاظمة × العربي",
-      "time": "1 - 1 (live)"
+      "time": "1 - 1 (done)"
     },
     {
       "tournamentEn": "🏁 Omani Professional League",
@@ -495,14 +495,14 @@
       "tournamentAr": "🇩🇰 الدوري الدنماركي",
       "matchEn": "Nordsjælland v Odense",
       "matchAr": "نوردشيلاند × أودنسه",
-      "time": "0 - 0 (live)"
+      "time": "0 - 0 (done)"
     },
     {
       "tournamentEn": "🇸🇪 Swedish Allsvenskan",
       "tournamentAr": "🇸🇪 الدوري السويدي الممتاز",
       "matchEn": "IFK Göteborg v Västerås",
       "matchAr": "غوتبورغ × فيستيراس",
-      "time": "1 - 0 (live)"
+      "time": "1 - 0 (done)"
     },
     {
       "tournamentEn": "🏁 Persian Gulf Pro League",
@@ -579,7 +579,7 @@
       "tournamentAr": "🏁 الدوري الرواندي الممتاز",
       "matchEn": "Gorilla v Rayon Sports",
       "matchAr": "غوريلا × رايون سبورت",
-      "time": "1 - 0 (live)"
+      "time": "1 - 0 (done)"
     },
     {
       "tournamentEn": "🇸🇦 Saudi Second Division",
@@ -754,7 +754,7 @@
       "tournamentAr": "🇳🇴 الدوري النرويجي",
       "matchEn": "Brann v Viking",
       "matchAr": "بران × فايكنغ",
-      "time": "0 - 2 (live)"
+      "time": "0 - 2 (done)"
     },
     {
       "tournamentEn": "🇵🇱 Polish Ekstraklasa",
@@ -768,7 +768,7 @@
       "tournamentAr": "🇵🇱 الدوري البولندي الممتاز",
       "matchEn": "Raków Częstochowa v Katowice",
       "matchAr": "راكوف تشيستوخوفا × كاتوايس",
-      "time": "0 - 0 (live)"
+      "time": "1 - 1 (live)"
     },
     {
       "tournamentEn": "🇨🇿 Czech Liga",
@@ -922,7 +922,7 @@
       "tournamentAr": "✨ وديات منتخبات سيدات",
       "matchEn": "Malta v Luxembourg",
       "matchAr": "مالطا × لوكسمبورغ",
-      "time": "1 - 0 (live)"
+      "time": "1 - 0 (done)"
     },
     {
       "tournamentEn": "✨ Women's International Friendlies",
@@ -936,7 +936,7 @@
       "tournamentAr": "✨ وديات منتخبات سيدات",
       "matchEn": "Germany v Australia",
       "matchAr": "ألمانيا × أستراليا",
-      "time": "1 - 0 (live)"
+      "time": "2 - 0 (live)"
     },
     {
       "tournamentEn": "✨ Women's International Friendlies",
