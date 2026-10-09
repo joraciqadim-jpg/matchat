@@ -47,14 +47,14 @@
       "tournamentAr": "🇸🇦 دوري روشن السعودي",
       "matchEn": "Al-Kholood v Al-Qadsiah",
       "matchAr": "الخلود × القادسية",
-      "time": "0 - 3 (live)"
+      "time": "0 - 4 (live)"
     },
     {
       "tournamentEn": "🇸🇦 Saudi Pro League",
       "tournamentAr": "🇸🇦 دوري روشن السعودي",
       "matchEn": "Al-Fateh v Al Ahli",
       "matchAr": "الفتح × الأهلي",
-      "time": "0 - 0 (live)"
+      "time": "0 - 1 (live)"
     },
     {
       "tournamentEn": "🇸🇦 Saudi Pro League",
@@ -383,7 +383,7 @@
       "tournamentAr": "🏁 الدوري الكويتي",
       "matchEn": "Al-Nassr v Kuwait SC",
       "matchAr": "النصر × الكويت",
-      "time": "0 - 0 (live)"
+      "time": "0 - 1 (live)"
     },
     {
       "tournamentEn": "🏁 Kuwaiti Premier League",
@@ -460,7 +460,7 @@
       "tournamentAr": "🏁 الدوري اللبناني",
       "matchEn": "Jwaya v Al-Mabarrah",
       "matchAr": "جويا × المبرة",
-      "time": "3 - 0 (live)"
+      "time": "3 - 0 (done)"
     },
     {
       "tournamentEn": "🇷🇺 Russian Premier League",
@@ -509,14 +509,14 @@
       "tournamentAr": "🏁 الدوري الإيراني",
       "matchEn": "Chadormalu Yazd v Kheybar Khorramabad",
       "matchAr": "شادورمالو يزد × خيبر خرم آباد",
-      "time": "1 - 2 (live)"
+      "time": "2 - 2 (done)"
     },
     {
       "tournamentEn": "🏁 Persian Gulf Pro League",
       "tournamentAr": "🏁 الدوري الإيراني",
       "matchEn": "Persepolis v Sanat Naft",
       "matchAr": "برسبوليس × صنعت نفط",
-      "time": "2 - 1 (live)"
+      "time": "3 - 1 (live)"
     },
     {
       "tournamentEn": "🏁 Mexican Liga MX",
@@ -619,16 +619,9 @@
     {
       "tournamentEn": "🇸🇦 Saudi Second Division",
       "tournamentAr": "🇸🇦 دوري الدرجة الثانية السعودي",
-      "matchEn": "Bish v Al Ain",
-      "matchAr": "بيش × العين",
-      "time": "12:40"
-    },
-    {
-      "tournamentEn": "🇸🇦 Saudi Second Division",
-      "tournamentAr": "🇸🇦 دوري الدرجة الثانية السعودي",
       "matchEn": "Al-Qalaa v Hutteen",
       "matchAr": "القلعة × حطين",
-      "time": "12:50"
+      "time": "1 - 3 (done)"
     },
     {
       "tournamentEn": "🏁 Egyptian Second Division",
@@ -691,14 +684,14 @@
       "tournamentAr": "🇩🇿 الدوري الجزائري القسم الثاني",
       "matchEn": "Nedjm Ben Walbane v JSD Jijel",
       "matchAr": "نجم بني والبان × شبيبة جيجل",
-      "time": "1 - 0 (live)"
+      "time": "2 - 0 (live)"
     },
     {
       "tournamentEn": "🇩🇿 Algerian Ligue 2",
       "tournamentAr": "🇩🇿 الدوري الجزائري القسم الثاني",
       "matchEn": "US Nedjla v MO Constantine",
       "matchAr": "إتحاد النزلة × مولودية قسنطينة",
-      "time": "1 - 1 (live)"
+      "time": "1 - 2 (live)"
     },
     {
       "tournamentEn": "🇩🇿 Algerian Ligue 2",
@@ -719,14 +712,14 @@
       "tournamentAr": "🇩🇿 الدوري الجزائري القسم الثاني",
       "matchEn": "Sidi Mohamed Ben Ali v NA Hussein Dey",
       "matchAr": "سيدي محمد بن علي × نصر حسين داي",
-      "time": "1 - 1 (live)"
+      "time": "2 - 2 (live)"
     },
     {
       "tournamentEn": "🇩🇿 Algerian Ligue 2",
       "tournamentAr": "🇩🇿 الدوري الجزائري القسم الثاني",
       "matchEn": "JSM Tiaret v ASM Oran",
       "matchAr": "شبيبة تيارت × جمعية وهران",
-      "time": "0 - 0 (live)"
+      "time": "0 - 1 (live)"
     },
     {
       "tournamentEn": "🇩🇿 Algerian Ligue 2",
@@ -796,7 +789,7 @@
       "tournamentAr": "🇷🇴 الدوري الروماني",
       "matchEn": "Corvinul Hunedoara v Voluntari",
       "matchAr": "كورفينول هونيدوارا × فولونتاري",
-      "time": "1 - 0 (live)"
+      "time": "1 - 1 (live)"
     },
     {
       "tournamentEn": "🇷🇴 Romanian Liga I",
@@ -810,7 +803,7 @@
       "tournamentAr": "🇺🇿 الدوري الأوزبكي",
       "matchEn": "Kokand 1912 v Mash'al Mubarek",
       "matchAr": "كوكاند 1912 × مشعل مبارك",
-      "time": "1 - 0 (live)"
+      "time": "3 - 0 (done)"
     },
     {
       "tournamentEn": "🇺🇿 Uzbekistan Super League",
@@ -824,7 +817,7 @@
       "tournamentAr": "🇺🇿 الدوري الأوزبكي",
       "matchEn": "Pakhtakor v Bunyodkor",
       "matchAr": "باختاكور × بونيودكور",
-      "time": "1 - 0 (live)"
+      "time": "1 - 1 (live)"
     },
     {
       "tournamentEn": "🇺🇿 Uzbekistan Super League",
@@ -915,7 +908,7 @@
       "tournamentAr": "✨ وديات منتخبات سيدات",
       "matchEn": "Moldova v Georgia",
       "matchAr": "مولدوفا × جورجيا",
-      "time": "0 - 0 (live)"
+      "time": "1 - 0 (live)"
     },
     {
       "tournamentEn": "✨ Women's International Friendlies",
