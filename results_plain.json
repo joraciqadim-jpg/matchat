@@ -290,7 +290,7 @@
     {
       "tournamentEn": "🏆 Spanish Copa del Rey",
       "tournamentAr": "🏆 كأس ملك إسبانيا",
-      "matchEn": "Prat v San Rafael",
+      "matchEn": "Prato v San Rafael",
       "matchAr": "برات × سان رافائيل",
       "time": "14:00"
     },
@@ -311,7 +311,7 @@
     {
       "tournamentEn": "🇲🇦 Moroccan League",
       "tournamentAr": "🇲🇦 الدوري المغربي",
-      "matchEn": "Wydad Athletic Club v COD Meknès",
+      "matchEn": "Wydad Athletic Club v Club Meknès",
       "matchAr": "الوداد الرياضي × النادي المكناسي",
       "time": "20:00"
     },
@@ -332,14 +332,14 @@
     {
       "tournamentEn": "🇹🇳 Tunisian Ligue 1",
       "tournamentAr": "🇹🇳 الدوري التونسي",
-      "matchEn": "Étoile Sportive du Sahel v CS Hammam-Lif",
+      "matchEn": "Étoile Sportive du Sahel v Hammam-Lif",
       "matchAr": "النجم الساحلي × حمام الأنف",
       "time": "13:30"
     },
     {
       "tournamentEn": "🇹🇳 Tunisian Ligue 1",
       "tournamentAr": "🇹🇳 الدوري التونسي",
-      "matchEn": "Espérance Sportive de Zarzis v Espoir Sportif de Hammam-Sousse",
+      "matchEn": "Espérance Sportive de Zarzis v Hammam-Sousse",
       "matchAr": "الترجي الجرجيسي × حمام سوسة",
       "time": "13:30"
     },
@@ -381,14 +381,14 @@
     {
       "tournamentEn": "🇧🇪 Belgian Pro League",
       "tournamentAr": "🇧🇪 الدوري البلجيكي",
-      "matchEn": "Westerlo v Antwerp",
+      "matchEn": "Westerlo v Royal Antwerp",
       "matchAr": "فيستيرلو × أنتويرب",
       "time": "16:30"
     },
     {
       "tournamentEn": "🇧🇪 Belgian Pro League",
       "tournamentAr": "🇧🇪 الدوري البلجيكي",
-      "matchEn": "Mechelen v Sint-Truiden",
+      "matchEn": "KV Mechelen v Sint-Truiden",
       "matchAr": "ميشيلن × سينت ترويدن",
       "time": "17:15"
     },
@@ -507,7 +507,7 @@
     {
       "tournamentEn": "🇨🇭 Swiss Super League",
       "tournamentAr": "🇨🇭 الدوري السويسري",
-      "matchEn": "St. Gallen v Lausanne",
+      "matchEn": "St. Gallen v Lausanne-Sport",
       "matchAr": "سانت غالن × لوزان",
       "time": "14:30"
     },
@@ -542,7 +542,7 @@
     {
       "tournamentEn": "🇬🇷 Greek Super League",
       "tournamentAr": "🇬🇷 الدوري اليوناني",
-      "matchEn": "Iraklis v Levadiakos",
+      "matchEn": "Heracles Almelo v Levadiakos",
       "matchAr": "إراكليس × ليفادياكوس",
       "time": "14:00"
     },
@@ -668,7 +668,7 @@
     {
       "tournamentEn": "🇺🇸 USA MLS",
       "tournamentAr": "🇺🇸 الدوري الأمريكي",
-      "matchEn": "St. Louis City SC v LA Galaxy",
+      "matchEn": "St. Louis CITY SC v LA Galaxy",
       "matchAr": "سانت لويس سيتي × لوس أنجلوس جالاكسي",
       "time": "23:00"
     },
@@ -696,7 +696,7 @@
     {
       "tournamentEn": "🇲🇽 Mexican Liga MX",
       "tournamentAr": "🇲🇽 الدوري المكسيكي",
-      "matchEn": "Club América v Monterrey",
+      "matchEn": "Club América v CF Monterrey",
       "matchAr": "كلوب أميريكا × مونتيري",
       "time": "03:10"
     },
@@ -752,7 +752,7 @@
     {
       "tournamentEn": "🇰🇷 South Korean K-League",
       "tournamentAr": "🇰🇷 الدوري الكوري الجنوبي",
-      "matchEn": "Gwangju FC v Ulsan Hyundai",
+      "matchEn": "Gwangju FC v Ulsan Hyundai FC",
       "matchAr": "غوانغجو × أولسان هيونداي",
       "time": "05:00"
     },
@@ -766,7 +766,7 @@
     {
       "tournamentEn": "🇷🇼 Rwandan Premier League",
       "tournamentAr": "🇷🇼 الدوري الرواندي الممتاز",
-      "matchEn": "Musanze FC v Gasogi United",
+      "matchEn": "Musanze FC v Gasogi United FC",
       "matchAr": "موسانزي × جاسوجي يونايتد",
       "time": "13:00"
     },
@@ -808,14 +808,14 @@
     {
       "tournamentEn": "🇲🇷 Mauritanian Premier League",
       "tournamentAr": "🇲🇷 الدوري الموريتاني الممتاز",
-      "matchEn": "ASC Douanes v ASC Gendrim",
+      "matchEn": "AS Douanes v AS Garde Nationale",
       "matchAr": "الجمارك × الدرك الوطني",
       "time": "17:00"
     },
     {
       "tournamentEn": "🇲🇷 Mauritanian Premier League",
       "tournamentAr": "🇲🇷 الدوري الموريتاني الممتاز",
-      "matchEn": "Nouakchott Kings v ASC SNIM",
+      "matchEn": "Nouakchott King's v ASC SNIM",
       "matchAr": "نواكشوط كينغز × جمعية اسنيم",
       "time": "19:50"
     },
@@ -836,21 +836,21 @@
     {
       "tournamentEn": "🇭🇺 Hungarian Nemzeti Bajnokság I",
       "tournamentAr": "🇭🇺 الدوري المجري الممتاز",
-      "matchEn": "Zalaegerszegi TE v Nyíregyháza Spartacus",
+      "matchEn": "Zalaegerszegi TE v Nyíregyháza Spartacus FC",
       "matchAr": "زالايغيرزيغي تورنا إغيليت × نيريجهيهازا سبارتاكوس",
       "time": "12:45"
     },
     {
       "tournamentEn": "🇭🇺 Hungarian Nemzeti Bajnokság I",
       "tournamentAr": "🇭🇺 الدوري المجري الممتاز",
-      "matchEn": "Budapest Honvéd v Újpest",
+      "matchEn": "Budapest Honvéd FC v Újpest FC",
       "matchAr": "هونفيد × أويبست",
       "time": "14:45"
     },
     {
       "tournamentEn": "🇭🇺 Hungarian Nemzeti Bajnokság I",
       "tournamentAr": "🇭🇺 الدوري المجري الممتاز",
-      "matchEn": "Győri ETO FC v Puskás Akadémia",
+      "matchEn": "Győri ETO FC v Puskás Akadémia FC",
       "matchAr": "غيور تورنا أوزتالي × بوشكاش",
       "time": "17:00"
     },
@@ -885,7 +885,7 @@
     {
       "tournamentEn": "🇳🇴 Norwegian Eliteserien",
       "tournamentAr": "🇳🇴 الدوري النرويجي",
-      "matchEn": "Aalesunds FK v Sarpsborg 08",
+      "matchEn": "Aalesunds FK v Sarpsborg 08 FF",
       "matchAr": "أوليسوند × ساربسبورغ 08",
       "time": "15:00"
     },
@@ -962,7 +962,7 @@
     {
       "tournamentEn": "🇨🇿 Czech Liga",
       "tournamentAr": "🇨🇿 الدوري التشيكي الممتاز",
-      "matchEn": "Sparta Prague v Pardubice",
+      "matchEn": "Sparta Prague v FK Pardubice",
       "matchAr": "سبارتا براغ × باردوبيس",
       "time": "16:00"
     },
@@ -976,7 +976,7 @@
     {
       "tournamentEn": "🇺🇦 Ukrainian Premier League",
       "tournamentAr": "🇺🇦 الدوري الأوكراني الممتاز",
-      "matchEn": "Cherkasy v Kudrivka",
+      "matchEn": "LNZ Cherkasy v Kudrivka",
       "matchAr": "تشيركاسي × كودريفكا",
       "time": "10:00"
     },
@@ -1011,7 +1011,7 @@
     {
       "tournamentEn": "🇸🇮 Slovenian PrvaLiga",
       "tournamentAr": "🇸🇮 الدوري السلوفيني",
-      "matchEn": "Grosuplje v Maribor",
+      "matchEn": "Brinje Grosuplje v Maribor",
       "matchAr": "غروسوبليه × ماريبور",
       "time": "15:30"
     },
@@ -1039,7 +1039,7 @@
     {
       "tournamentEn": "🇸🇰 Slovak Super Liga",
       "tournamentAr": "🇸🇰 الدوري السلوفاكي",
-      "matchEn": "Ružomberok v Žilina",
+      "matchEn": "MFK Ružomberok v MŠK Žilina",
       "matchAr": "روجومبيروك × زيلينا",
       "time": "13:30"
     },
@@ -1067,42 +1067,42 @@
     {
       "tournamentEn": "🇦🇱 Albanian Super League",
       "tournamentAr": "🇦🇱 دوري السوبر الألباني",
-      "matchEn": "Partizani Tirana v KF Tirana",
+      "matchEn": "Partizani Tirana v Tirana",
       "matchAr": "بارتيزاني تيرانا × تيرانا",
       "time": "16:30"
     },
     {
       "tournamentEn": "🇺🇿 Uzbekistan Super League",
       "tournamentAr": "🇺🇿 الدوري الأوزبكي",
-      "matchEn": "Sogdiana Jizzakh v Lokomotiv Tashkent",
+      "matchEn": "Sogdiana v Lokomotiv",
       "matchAr": "سوغديانا × لوكوموتيف",
       "time": "11:00"
     },
     {
       "tournamentEn": "🇺🇿 Uzbekistan Super League",
       "tournamentAr": "🇺🇿 الدوري الأوزبكي",
-      "matchEn": "AGMK FC v Navbahor Namangan",
+      "matchEn": "AGMK v Navbahor",
       "matchAr": "أجمك × نافباخور",
       "time": "11:00"
     },
     {
       "tournamentEn": "🇮🇩 Indonesian Liga 1",
       "tournamentAr": "🇮🇩 الدوري الإندونيسي",
-      "matchEn": "Malut United v Borneo FC Samarinda",
+      "matchEn": "Malut United v Borneo",
       "matchAr": "مالوت يونايتد × بورنيو",
       "time": "08:30"
     },
     {
       "tournamentEn": "🇮🇩 Indonesian Liga 1",
       "tournamentAr": "🇮🇩 الدوري الإندونيسي",
-      "matchEn": "PSS Sleman v PSM Makassar",
+      "matchEn": "PSS Sleman v PSM",
       "matchAr": "سليمان PSS × بي إس إم",
       "time": "08:30"
     },
     {
       "tournamentEn": "🇮🇩 Indonesian Liga 1",
       "tournamentAr": "🇮🇩 الدوري الإندونيسي",
-      "matchEn": "Persib Bandung v Dewa United",
+      "matchEn": "Persib v Dewa United",
       "matchAr": "بيرسيب × ديوا يونايتد",
       "time": "12:00"
     },
@@ -1144,7 +1144,7 @@
     {
       "tournamentEn": "🇻🇳 Vietnamese V.League 1",
       "tournamentAr": "🇻🇳 الدوري الفيتنامي",
-      "matchEn": "Hanoi FC v Bac Ninh",
+      "matchEn": "Hanoi v Bac Ninh",
       "matchAr": "هانوي × باك نينه",
       "time": "12:15"
     },
