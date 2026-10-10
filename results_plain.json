@@ -124,28 +124,28 @@
       "tournamentAr": "🇫🇷 الدوري الفرنسي",
       "matchEn": "Paris Saint-Germain v Le Mans",
       "matchAr": "باريس سان جيرمان × لومان",
-      "time": "18:45"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇫🇷 French Ligue 1",
       "tournamentAr": "🇫🇷 الدوري الفرنسي",
       "matchEn": "AS Monaco v Toulouse",
       "matchAr": "موناكو × تولوز",
-      "time": "18:45"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇫🇷 French Ligue 1",
       "tournamentAr": "🇫🇷 الدوري الفرنسي",
       "matchEn": "Lorient v Paris FC",
       "matchAr": "لوريان × باريس",
-      "time": "18:45"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇫🇷 French Ligue 1",
       "tournamentAr": "🇫🇷 الدوري الفرنسي",
       "matchEn": "Brest v Angers",
       "matchAr": "بريست × أنجيه",
-      "time": "18:45"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇮🇹 Italian Serie A",
@@ -166,14 +166,14 @@
       "tournamentAr": "🇮🇹 الدوري الإيطالي",
       "matchEn": "Napoli v Frosinone",
       "matchAr": "نابولي × فروسينوني",
-      "time": "18:45"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇵🇹 Portuguese Liga 1",
       "tournamentAr": "🇵🇹 الدوري البرتغالي",
       "matchEn": "Marítimo v Porto",
       "matchAr": "ماريتيمو × بورتو",
-      "time": "1 - 1 (live)"
+      "time": "1 - 2 (live)"
     },
     {
       "tournamentEn": "🇵🇹 Portuguese Liga 1",
@@ -341,7 +341,7 @@
       "tournamentAr": "🇦🇷 الدوري الأرجنتيني",
       "matchEn": "Sportivo Luqueño v Huracán",
       "matchAr": "باراكاس سينترال × هوراكان",
-      "time": "18:45"
+      "time": "1 - 0 (live)"
     },
     {
       "tournamentEn": "🇦🇷 Argentinean Primera División",
@@ -369,7 +369,7 @@
       "tournamentAr": "🇲🇦 الدوري المغربي",
       "matchEn": "Kawkab Marrakech v Ittihad Tanger",
       "matchAr": "الكوكب المراكشي × إتحاد طنجة",
-      "time": "1 - 1 (live)"
+      "time": "2 - 1 (live)"
     },
     {
       "tournamentEn": "🇲🇦 Moroccan League",
@@ -453,14 +453,14 @@
       "tournamentAr": "🇧🇪 الدوري البلجيكي",
       "matchEn": "Genk v Kortrijk",
       "matchAr": "جينك × كورتريك",
-      "time": "18:45"
+      "time": "1 - 0 (live)"
     },
     {
       "tournamentEn": "🇧🇪 Belgian Pro League",
       "tournamentAr": "🇧🇪 الدوري البلجيكي",
       "matchEn": "Zulte Waregem v AA Gent",
       "matchAr": "زولته فاريجيم × جينت",
-      "time": "18:45"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇶🇦 Qatar Stars League",
@@ -474,7 +474,7 @@
       "tournamentAr": "🇶🇦 الدوري القطري",
       "matchEn": "Al Ahli v Al Sailiya",
       "matchAr": "الأهلي × السيلية",
-      "time": "4 - 0 (live)"
+      "time": "5 - 0 (live)"
     },
     {
       "tournamentEn": "🇯🇴 Jordanian Pro League",
@@ -523,7 +523,7 @@
       "tournamentAr": "🇮🇶 الدوري العراقي",
       "matchEn": "Al-Kahrabaa v Karbala",
       "matchAr": "الكهرباء × كربلاء",
-      "time": "0 - 0 (live)"
+      "time": "0 - 0 (done)"
     },
     {
       "tournamentEn": "🇮🇶 Iraqi Premier League",
@@ -1048,7 +1048,7 @@
       "tournamentAr": "🇷🇸 الدوري الصربي الممتاز",
       "matchEn": "Radnički Kragujevac v Red Star Belgrade",
       "matchAr": "رادنيتشكي كراغوييفاتس × سرفينا زفيزدا",
-      "time": "0 - 2 (live)"
+      "time": "0 - 3 (done)"
     },
     {
       "tournamentEn": "🇳🇴 Norwegian Eliteserien",
@@ -1083,7 +1083,7 @@
       "tournamentAr": "🇦🇹 الدوري النمساوي",
       "matchEn": "Austria Vienna v Sturm Graz",
       "matchAr": "أوستريا فيينا × شتورم غراتس",
-      "time": "0 - 1 (live)"
+      "time": "0 - 2 (live)"
     },
     {
       "tournamentEn": "🇵🇱 Polish Ekstraklasa",
@@ -1188,7 +1188,7 @@
       "tournamentAr": "🇸🇮 الدوري السلوفيني",
       "matchEn": "Olimpija v Mura",
       "matchAr": "أولمبيا × مورا",
-      "time": "0 - 0 (live)"
+      "time": "1 - 0 (live)"
     },
     {
       "tournamentEn": "🇧🇬 Bulgarian First League",
