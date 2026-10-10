@@ -309,90 +309,6 @@
       "time": "14:00"
     },
     {
-      "tournamentEn": "🇬🇧 English Championship",
-      "tournamentAr": "🇬🇧 الدوري الإنجليزي الدرجة الثانية",
-      "matchEn": "Plymouth Argyle v Wimbledon",
-      "matchAr": "بليموث أرجايل × ويمبلدون",
-      "time": "11:30"
-    },
-    {
-      "tournamentEn": "🇬🇧 English Championship",
-      "tournamentAr": "🇬🇧 الدوري الإنجليزي الدرجة الثانية",
-      "matchEn": "Notts County v Oxford United",
-      "matchAr": "نوتس كاونتي × أكسفورد يونايتد",
-      "time": "11:30"
-    },
-    {
-      "tournamentEn": "🇬🇧 English Championship",
-      "tournamentAr": "🇬🇧 الدوري الإنجليزي الدرجة الثانية",
-      "matchEn": "Wycombe Wanderers v Luton Town",
-      "matchAr": "ويكمب وندررز × لوتون تاون",
-      "time": "14:00"
-    },
-    {
-      "tournamentEn": "🇬🇧 English Championship",
-      "tournamentAr": "🇬🇧 الدوري الإنجليزي الدرجة الثانية",
-      "matchEn": "Stockport County v Barnsley",
-      "matchAr": "ستوكبورت كاونتي × بارنسلي",
-      "time": "14:00"
-    },
-    {
-      "tournamentEn": "🇬🇧 English Championship",
-      "tournamentAr": "🇬🇧 الدوري الإنجليزي الدرجة الثانية",
-      "matchEn": "Stevenage v Wigan Athletic",
-      "matchAr": "ستيفيناغ × ويغان أتلتيك",
-      "time": "14:00"
-    },
-    {
-      "tournamentEn": "🇬🇧 English Championship",
-      "tournamentAr": "🇬🇧 الدوري الإنجليزي الدرجة الثانية",
-      "matchEn": "MK Dons v Reading",
-      "matchAr": "ميلتون كينز دونز × ريدنغ",
-      "time": "14:00"
-    },
-    {
-      "tournamentEn": "🇬🇧 English Championship",
-      "tournamentAr": "🇬🇧 الدوري الإنجليزي الدرجة الثانية",
-      "matchEn": "Mansfield Town v Bromley",
-      "matchAr": "مانسفيلد تاون × بروملي",
-      "time": "14:00"
-    },
-    {
-      "tournamentEn": "🇬🇧 English Championship",
-      "tournamentAr": "🇬🇧 الدوري الإنجليزي الدرجة الثانية",
-      "matchEn": "Leicester City v Peterborough United",
-      "matchAr": "ليستر سيتي × بيتربورو يونايتد",
-      "time": "14:00"
-    },
-    {
-      "tournamentEn": "🇬🇧 English Championship",
-      "tournamentAr": "🇬🇧 الدوري الإنجليزي الدرجة الثانية",
-      "matchEn": "Huddersfield Town v Sheffield Wednesday",
-      "matchAr": "هدرسفيلد تاون × شيفيلد وينزداي",
-      "time": "14:00"
-    },
-    {
-      "tournamentEn": "🇬🇧 English Championship",
-      "tournamentAr": "🇬🇧 الدوري الإنجليزي الدرجة الثانية",
-      "matchEn": "Doncaster Rovers v Burton Albion",
-      "matchAr": "دونكاستر روفرز × بيرتن ألبيون",
-      "time": "14:00"
-    },
-    {
-      "tournamentEn": "🇬🇧 English Championship",
-      "tournamentAr": "🇬🇧 الدوري الإنجليزي الدرجة الثانية",
-      "matchEn": "Cambridge United v Blackpool",
-      "matchAr": "كامبريدج يونايتد × بلاكبول",
-      "time": "14:00"
-    },
-    {
-      "tournamentEn": "🇬🇧 English Championship",
-      "tournamentAr": "🇬🇧 الدوري الإنجليزي الدرجة الثانية",
-      "matchEn": "Bradford City v Leyton Orient",
-      "matchAr": "برادفورد سيتي × ليتون أورينت",
-      "time": "14:00"
-    },
-    {
       "tournamentEn": "🇧🇷 Brazilian Série A",
       "tournamentAr": "🇧🇷 الدوري البرازيلي",
       "matchEn": "Vasco da Gama v Remo",
@@ -530,6 +446,90 @@
       "tournamentAr": "🇬🇧 الدوري الإنجليزي الدرجة الثالثة",
       "matchEn": "Bristol Rovers v Barnet",
       "matchAr": "بريستول روفرز × بارنت",
+      "time": "14:00"
+    },
+    {
+      "tournamentEn": "🇬🇧 English EFL Championship",
+      "tournamentAr": "🇬🇧 الدوري الإنجليزي الدرجة الثانية",
+      "matchEn": "Plymouth Argyle v Wimbledon",
+      "matchAr": "بليموث أرجايل × ويمبلدون",
+      "time": "11:30"
+    },
+    {
+      "tournamentEn": "🇬🇧 English EFL Championship",
+      "tournamentAr": "🇬🇧 الدوري الإنجليزي الدرجة الثانية",
+      "matchEn": "Notts County v Oxford United",
+      "matchAr": "نوتس كاونتي × أكسفورد يونايتد",
+      "time": "11:30"
+    },
+    {
+      "tournamentEn": "🇬🇧 English EFL Championship",
+      "tournamentAr": "🇬🇧 الدوري الإنجليزي الدرجة الثانية",
+      "matchEn": "Wycombe Wanderers v Luton Town",
+      "matchAr": "ويكمب وندررز × لوتون تاون",
+      "time": "14:00"
+    },
+    {
+      "tournamentEn": "🇬🇧 English EFL Championship",
+      "tournamentAr": "🇬🇧 الدوري الإنجليزي الدرجة الثانية",
+      "matchEn": "Stockport County v Barnsley",
+      "matchAr": "ستوكبورت كاونتي × بارنسلي",
+      "time": "14:00"
+    },
+    {
+      "tournamentEn": "🇬🇧 English EFL Championship",
+      "tournamentAr": "🇬🇧 الدوري الإنجليزي الدرجة الثانية",
+      "matchEn": "Stevenage v Wigan Athletic",
+      "matchAr": "ستيفيناغ × ويغان أتلتيك",
+      "time": "14:00"
+    },
+    {
+      "tournamentEn": "🇬🇧 English EFL Championship",
+      "tournamentAr": "🇬🇧 الدوري الإنجليزي الدرجة الثانية",
+      "matchEn": "MK Dons v Reading",
+      "matchAr": "ميلتون كينز دونز × ريدنغ",
+      "time": "14:00"
+    },
+    {
+      "tournamentEn": "🇬🇧 English EFL Championship",
+      "tournamentAr": "🇬🇧 الدوري الإنجليزي الدرجة الثانية",
+      "matchEn": "Mansfield Town v Bromley",
+      "matchAr": "مانسفيلد تاون × بروملي",
+      "time": "14:00"
+    },
+    {
+      "tournamentEn": "🇬🇧 English EFL Championship",
+      "tournamentAr": "🇬🇧 الدوري الإنجليزي الدرجة الثانية",
+      "matchEn": "Leicester City v Peterborough United",
+      "matchAr": "ليستر سيتي × بيتربورو يونايتد",
+      "time": "14:00"
+    },
+    {
+      "tournamentEn": "🇬🇧 English EFL Championship",
+      "tournamentAr": "🇬🇧 الدوري الإنجليزي الدرجة الثانية",
+      "matchEn": "Huddersfield Town v Sheffield Wednesday",
+      "matchAr": "هدرسفيلد تاون × شيفيلد وينزداي",
+      "time": "14:00"
+    },
+    {
+      "tournamentEn": "🇬🇧 English EFL Championship",
+      "tournamentAr": "🇬🇧 الدوري الإنجليزي الدرجة الثانية",
+      "matchEn": "Doncaster Rovers v Burton Albion",
+      "matchAr": "دونكاستر روفرز × بيرتن ألبيون",
+      "time": "14:00"
+    },
+    {
+      "tournamentEn": "🇬🇧 English EFL Championship",
+      "tournamentAr": "🇬🇧 الدوري الإنجليزي الدرجة الثانية",
+      "matchEn": "Cambridge United v Blackpool",
+      "matchAr": "كامبريدج يونايتد × بلاكبول",
+      "time": "14:00"
+    },
+    {
+      "tournamentEn": "🇬🇧 English EFL Championship",
+      "tournamentAr": "🇬🇧 الدوري الإنجليزي الدرجة الثانية",
+      "matchEn": "Bradford City v Leyton Orient",
+      "matchAr": "برادفورد سيتي × ليتون أورينت",
       "time": "14:00"
     },
     {
@@ -1881,7 +1881,7 @@
       "tournamentAr": "✨ وديات أندية",
       "matchEn": "Central Coast Mariners (Australia) v APIA Leichhardt (Australia)",
       "matchAr": "سنترال كوست مارينرز (أستراليا) × آبيا ليتشهاردت (أستراليا)",
-      "time": "00:00"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "✨ Club Friendlies",
