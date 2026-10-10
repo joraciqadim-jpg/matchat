@@ -68,7 +68,7 @@
       "tournamentAr": "🇪🇸 الدوري الإسباني",
       "matchEn": "Real Madrid v Villarreal",
       "matchAr": "ريال مدريد × فياريال",
-      "time": "19:00"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇩🇪 German Bundesliga",
@@ -124,7 +124,7 @@
       "tournamentAr": "🇫🇷 الدوري الفرنسي",
       "matchEn": "Paris Saint-Germain v Le Mans",
       "matchAr": "باريس سان جيرمان × لومان",
-      "time": "0 - 0 (live)"
+      "time": "1 - 0 (live)"
     },
     {
       "tournamentEn": "🇫🇷 French Ligue 1",
@@ -145,7 +145,7 @@
       "tournamentAr": "🇫🇷 الدوري الفرنسي",
       "matchEn": "Brest v Angers",
       "matchAr": "بريست × أنجيه",
-      "time": "1 - 0 (live)"
+      "time": "2 - 0 (live)"
     },
     {
       "tournamentEn": "🇮🇹 Italian Serie A",
@@ -215,7 +215,7 @@
       "tournamentAr": "🇳🇱 الدوري الهولندي",
       "matchEn": "Ajax v NEC Nijmegen",
       "matchAr": "أياكس × إن إي سي نيميخن",
-      "time": "19:00"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇸🇦 Saudi Pro League",
@@ -376,7 +376,7 @@
       "tournamentAr": "🇲🇦 الدوري المغربي",
       "matchEn": "Amal Tiznit v Difaâ Hassani El Jadidi",
       "matchAr": "أمل تزنيت × الدفاع الحسني",
-      "time": "19:00"
+      "time": "0 - 1 (live)"
     },
     {
       "tournamentEn": "🇹🇳 Tunisian Ligue 1",
@@ -453,14 +453,14 @@
       "tournamentAr": "🇧🇪 الدوري البلجيكي",
       "matchEn": "Genk v Kortrijk",
       "matchAr": "جينك × كورتريك",
-      "time": "1 - 0 (live)"
+      "time": "2 - 0 (live)"
     },
     {
       "tournamentEn": "🇧🇪 Belgian Pro League",
       "tournamentAr": "🇧🇪 الدوري البلجيكي",
       "matchEn": "Zulte Waregem v AA Gent",
       "matchAr": "زولته فاريجيم × جينت",
-      "time": "0 - 0 (live)"
+      "time": "0 - 1 (live)"
     },
     {
       "tournamentEn": "🇶🇦 Qatar Stars League",
@@ -530,7 +530,7 @@
       "tournamentAr": "🇮🇶 الدوري العراقي",
       "matchEn": "Al-Karma v Al-Karkh",
       "matchAr": "الكرمة × الكرخ",
-      "time": "2 - 0 (live)"
+      "time": "2 - 1 (live)"
     },
     {
       "tournamentEn": "🇰🇼 Kuwaiti Premier League",
@@ -544,7 +544,7 @@
       "tournamentAr": "🇰🇼 الدوري الكويتي",
       "matchEn": "Al-Salmiya v Al-Shabab",
       "matchAr": "السالمية × الشباب",
-      "time": "0 - 2 (live)"
+      "time": "0 - 2 (done)"
     },
     {
       "tournamentEn": "🇴🇲 Omani Professional League",
@@ -740,14 +740,14 @@
       "tournamentAr": "🇺🇸 الدوري الأمريكي",
       "matchEn": "Toronto FC v CF Montréal",
       "matchAr": "تورونتو × مونتريال إمباكت",
-      "time": "0 - 1 (live)"
+      "time": "2 - 1 (live)"
     },
     {
       "tournamentEn": "🇺🇸 USA MLS",
       "tournamentAr": "🇺🇸 الدوري الأمريكي",
       "matchEn": "Chicago Fire v New York City FC",
       "matchAr": "شيكاغو فاير × نيويورك سيتي",
-      "time": "0 - 0 (live)"
+      "time": "0 - 1 (live)"
     },
     {
       "tournamentEn": "🇺🇸 USA MLS",
@@ -1027,7 +1027,7 @@
       "tournamentAr": "🇭🇺 الدوري المجري الممتاز",
       "matchEn": "Paks v Budapest Honvéd",
       "matchAr": "باكسي × بودابست",
-      "time": "1 - 0 (live)"
+      "time": "2 - 0 (live)"
     },
     {
       "tournamentEn": "🇷🇸 Serbian Super League",
