@@ -40,7 +40,7 @@
       "tournamentAr": "🇬🇧 الدوري الإنجليزي",
       "matchEn": "Manchester United v Tottenham Hotspur",
       "matchAr": "مانشستر يونايتد × توتنهام",
-      "time": "1 - 1 (live)"
+      "time": "1 - 1 (done)"
     },
     {
       "tournamentEn": "🇪🇸 Spanish La Liga 1",
@@ -236,7 +236,7 @@
       "tournamentAr": "🇸🇦 دوري روشن السعودي",
       "matchEn": "Al-Hilal v Al-Ittihad",
       "matchAr": "الهلال × الاتحاد",
-      "time": "1 - 0 (live)"
+      "time": "1 - 1 (live)"
     },
     {
       "tournamentEn": "🇬🇧 English Championship",
@@ -488,14 +488,14 @@
       "tournamentAr": "🇯🇴 الدوري الأردني",
       "matchEn": "Al-Salt v Al Faisaly",
       "matchAr": "السلط × الفيصلي",
-      "time": "0 - 0 (live)"
+      "time": "0 - 1 (live)"
     },
     {
       "tournamentEn": "🇯🇴 Jordanian Federation Shield",
       "tournamentAr": "🇯🇴 درع الاتحاد الأردني",
       "matchEn": "Al-Hussein Irbid v Al Arabi",
       "matchAr": "الحسين إربد × العربي",
-      "time": "14:00"
+      "time": "1 - 1 (done)"
     },
     {
       "tournamentEn": "🇯🇴 Jordanian Federation Shield",
@@ -705,7 +705,7 @@
       "tournamentAr": "🇬🇷 الدوري اليوناني",
       "matchEn": "AEK Athens v OFI Crete",
       "matchAr": "آيك أثينا × أوميلوس هراكليوس",
-      "time": "3 - 0 (live)"
+      "time": "3 - 0 (done)"
     },
     {
       "tournamentEn": "🇸🇪 Swedish Allsvenskan",
@@ -740,7 +740,7 @@
       "tournamentAr": "🇺🇸 الدوري الأمريكي",
       "matchEn": "Toronto FC v CF Montréal",
       "matchAr": "تورونتو × مونتريال إمباكت",
-      "time": "0 - 0 (live)"
+      "time": "0 - 1 (live)"
     },
     {
       "tournamentEn": "🇺🇸 USA MLS",
@@ -1160,7 +1160,7 @@
       "tournamentAr": "🇺🇦 الدوري الأوكراني الممتاز",
       "matchEn": "Obolon Kyiv v Kryvbas Kryvyi Rih",
       "matchAr": "أوبولون كييف × كريفباس",
-      "time": "10:00"
+      "time": "10:45"
     },
     {
       "tournamentEn": "🇷🇴 Romanian Liga I",
@@ -1265,14 +1265,14 @@
       "tournamentAr": "🇦🇱 دوري السوبر الألباني",
       "matchEn": "Teuta Durrës v Skënderbeu Korçë",
       "matchAr": "تيوتا دورس × سكنديربيو كورتشه",
-      "time": "2 - 0 (live)"
+      "time": "2 - 0 (done)"
     },
     {
       "tournamentEn": "🇦🇱 Albanian Super League",
       "tournamentAr": "🇦🇱 دوري السوبر الألباني",
       "matchEn": "Elbasani v Vora",
       "matchAr": "البساني × فورا",
-      "time": "1 - 1 (live)"
+      "time": "1 - 1 (done)"
     },
     {
       "tournamentEn": "🇺🇿 Uzbekistan Super League",
@@ -1363,7 +1363,7 @@
       "tournamentAr": "🇫🇮 الدوري الفنلندي",
       "matchEn": "Inter Turku v Jaro",
       "matchAr": "توركو × جارو",
-      "time": "1 - 1 (done)"
+      "time": "0 - 1 (done)"
     },
     {
       "tournamentEn": "🇫🇮 Finnish League",
