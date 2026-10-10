@@ -40,7 +40,7 @@
       "tournamentAr": "🇬🇧 الدوري الإنجليزي",
       "matchEn": "Manchester United v Tottenham Hotspur",
       "matchAr": "مانشستر يونايتد × توتنهام",
-      "time": "16:30"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇪🇸 Spanish La Liga 1",
@@ -110,7 +110,7 @@
       "tournamentAr": "🇩🇪 الدوري الألماني",
       "matchEn": "RB Leipzig v Eintracht Frankfurt",
       "matchAr": "لايبزيغ × آينتراخت فرانكفورت",
-      "time": "16:30"
+      "time": "1 - 0 (live)"
     },
     {
       "tournamentEn": "🇫🇷 French Ligue 1",
@@ -159,7 +159,7 @@
       "tournamentAr": "🇮🇹 الدوري الإيطالي",
       "matchEn": "Inter Milan v Parma",
       "matchAr": "إنتر ميلان × بارما",
-      "time": "2 - 0 (live)"
+      "time": "3 - 0 (live)"
     },
     {
       "tournamentEn": "🇮🇹 Italian Serie A",
@@ -229,7 +229,7 @@
       "tournamentAr": "🇸🇦 دوري روشن السعودي",
       "matchEn": "Al Ettifaq v Al-Khaleej",
       "matchAr": "الاتفاق × الخليج",
-      "time": "0 - 1 (live)"
+      "time": "1 - 1 (live)"
     },
     {
       "tournamentEn": "🇸🇦 Saudi Pro League",
@@ -488,7 +488,7 @@
       "tournamentAr": "🇯🇴 الدوري الأردني",
       "matchEn": "Al-Salt v Al Faisaly",
       "matchAr": "السلط × الفيصلي",
-      "time": "16:30"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇯🇴 Jordanian Federation Shield",
@@ -516,7 +516,7 @@
       "tournamentAr": "🇮🇶 الدوري العراقي",
       "matchEn": "Al-Minaa v North Gas",
       "matchAr": "الميناء × غاز الشمال",
-      "time": "1 - 0 (live)"
+      "time": "2 - 0 (live)"
     },
     {
       "tournamentEn": "🇮🇶 Iraqi Premier League",
@@ -621,14 +621,14 @@
       "tournamentAr": "🇷🇺 الدوري الروسي",
       "matchEn": "Krylia Sovetov v Spartak Moscow",
       "matchAr": "كريليا سوفيتوف × سبارتاك موسكو",
-      "time": "1 - 1 (live)"
+      "time": "1 - 1 (done)"
     },
     {
       "tournamentEn": "🇷🇺 Russian Premier League",
       "tournamentAr": "🇷🇺 الدوري الروسي",
       "matchEn": "Krasnodar v Zenit Saint Petersburg",
       "matchAr": "كراسنودار × زينيت",
-      "time": "16:30"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scottish Premiership",
@@ -684,7 +684,7 @@
       "tournamentAr": "🇨🇭 الدوري السويسري",
       "matchEn": "FC Zürich v Thun",
       "matchAr": "زيوريخ × ثون",
-      "time": "0 - 1 (live)"
+      "time": "1 - 1 (live)"
     },
     {
       "tournamentEn": "🇨🇭 Swiss Super League",
@@ -698,14 +698,14 @@
       "tournamentAr": "🇬🇷 الدوري اليوناني",
       "matchEn": "Asteras Tripolis v Atromitos",
       "matchAr": "أستيراس تريبوليس × أتروميتوس",
-      "time": "16:30"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇬🇷 Greek Super League",
       "tournamentAr": "🇬🇷 الدوري اليوناني",
       "matchEn": "AEK Athens v OFI Crete",
       "matchAr": "آيك أثينا × أوميلوس هراكليوس",
-      "time": "16:30"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇸🇪 Swedish Allsvenskan",
@@ -1153,7 +1153,7 @@
       "tournamentAr": "🇺🇦 الدوري الأوكراني الممتاز",
       "matchEn": "Kolos Kovalivka v Epitsentr Kamianets-Podilskyi",
       "matchAr": "كولوس كوفاليفكا × إبيسينتر دونايفتسي",
-      "time": "10:00"
+      "time": "1 - 1 (live)"
     },
     {
       "tournamentEn": "🇺🇦 Ukrainian Premier League",
@@ -1209,7 +1209,7 @@
       "tournamentAr": "🇧🇬 الدوري البلغاري",
       "matchEn": "Lokomotiv Sofia v Lokomotiv Plovdiv",
       "matchAr": "لوكوموتيف صوفيا × لوكوموتيف بلوديف",
-      "time": "1 - 1 (live)"
+      "time": "1 - 1 (done)"
     },
     {
       "tournamentEn": "🇧🇬 Bulgarian First League",
@@ -1265,14 +1265,14 @@
       "tournamentAr": "🇦🇱 دوري السوبر الألباني",
       "matchEn": "Teuta Durrës v Skënderbeu Korçë",
       "matchAr": "تيوتا دورس × سكنديربيو كورتشه",
-      "time": "16:30"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇦🇱 Albanian Super League",
       "tournamentAr": "🇦🇱 دوري السوبر الألباني",
       "matchEn": "Elbasani v Vora",
       "matchAr": "البساني × فورا",
-      "time": "16:30"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇺🇿 Uzbekistan Super League",
@@ -1356,7 +1356,7 @@
       "tournamentAr": "🇧🇦 دوري البوسنة والهرسك الممتاز",
       "matchEn": "Borac Banja Luka v Borac Banja Luka",
       "matchAr": "بوراتس بانيا لوكا × بي إس كيه بانيا لوكا",
-      "time": "16:30"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇫🇮 Finnish League",
