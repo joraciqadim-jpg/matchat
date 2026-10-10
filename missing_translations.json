@@ -2271,8 +2271,8 @@
     "en": "Borussia Mönchengladbach",
     "ar": "بوروسيا مونشنغلادباخ"
   },
-  "prat": {
-    "en": "Prat",
+  "prato": {
+    "en": "Prato",
     "ar": "برات"
   },
   "san rafael": {
@@ -2295,8 +2295,8 @@
     "en": "Wydad Athletic Club",
     "ar": "الوداد الرياضي"
   },
-  "cod meknes": {
-    "en": "COD Meknès",
+  "club meknes": {
+    "en": "Club Meknès",
     "ar": "النادي المكناسي"
   },
   "jeunesse sportive del omrane": {
@@ -2319,16 +2319,16 @@
     "en": "Étoile Sportive du Sahel",
     "ar": "النجم الساحلي"
   },
-  "cs hammamlif": {
-    "en": "CS Hammam-Lif",
+  "hammamlif": {
+    "en": "Hammam-Lif",
     "ar": "حمام الأنف"
   },
   "esperance sportive de zarzis": {
     "en": "Espérance Sportive de Zarzis",
     "ar": "الترجي الجرجيسي"
   },
-  "espoir sportif de hammamsousse": {
-    "en": "Espoir Sportif de Hammam-Sousse",
+  "hammamsousse": {
+    "en": "Hammam-Sousse",
     "ar": "حمام سوسة"
   },
   "istanbul basaksehir": {
@@ -2383,12 +2383,12 @@
     "en": "Westerlo",
     "ar": "فيستيرلو"
   },
-  "antwerp": {
-    "en": "Antwerp",
+  "royal antwerp": {
+    "en": "Royal Antwerp",
     "ar": "أنتويرب"
   },
-  "mechelen": {
-    "en": "Mechelen",
+  "kv mechelen": {
+    "en": "KV Mechelen",
     "ar": "ميشيلن"
   },
   "alfahaheel": {
@@ -2447,17 +2447,13 @@
     "en": "Grasshopper Club Zurich",
     "ar": "غراسهوبر"
   },
-  "lausanne": {
-    "en": "Lausanne",
+  "lausannesport": {
+    "en": "Lausanne-Sport",
     "ar": "لوزان"
   },
   "randers fc": {
     "en": "Randers FC",
     "ar": "راندرز"
-  },
-  "iraklis": {
-    "en": "Iraklis",
-    "ar": "إراكليس"
   },
   "aris": {
     "en": "Aris",
@@ -2472,7 +2468,7 @@
     "ar": "أورغريته"
   },
   "st louis city sc": {
-    "en": "St. Louis City SC",
+    "en": "St. Louis CITY SC",
     "ar": "سانت لويس سيتي"
   },
   "la galaxy": {
@@ -2503,8 +2499,8 @@
     "en": "Club América",
     "ar": "كلوب أميريكا"
   },
-  "monterrey": {
-    "en": "Monterrey",
+  "cf monterrey": {
+    "en": "CF Monterrey",
     "ar": "مونتيري"
   },
   "atletico de san luis": {
@@ -2567,8 +2563,8 @@
     "en": "Gwangju FC",
     "ar": "غوانغجو"
   },
-  "ulsan hyundai": {
-    "en": "Ulsan Hyundai",
+  "ulsan hyundai fc": {
+    "en": "Ulsan Hyundai FC",
     "ar": "أولسان هيونداي"
   },
   "sunrise fc": {
@@ -2583,8 +2579,8 @@
     "en": "Musanze FC",
     "ar": "موسانزي"
   },
-  "gasogi united": {
-    "en": "Gasogi United",
+  "gasogi united fc": {
+    "en": "Gasogi United FC",
     "ar": "جاسوجي يونايتد"
   },
   "amagaju fc": {
@@ -2595,16 +2591,16 @@
     "en": "Mukura Victory Sports",
     "ar": "موكورا"
   },
-  "asc douanes": {
-    "en": "ASC Douanes",
+  "as douanes": {
+    "en": "AS Douanes",
     "ar": "الجمارك"
   },
-  "asc gendrim": {
-    "en": "ASC Gendrim",
+  "as garde nationale": {
+    "en": "AS Garde Nationale",
     "ar": "الدرك الوطني"
   },
   "nouakchott kings": {
-    "en": "Nouakchott Kings",
+    "en": "Nouakchott King's",
     "ar": "نواكشوط كينغز"
   },
   "asc snim": {
@@ -2623,20 +2619,24 @@
     "en": "Zalaegerszegi TE",
     "ar": "زالايغيرزيغي تورنا إغيليت"
   },
-  "nyiregyhaza spartacus": {
-    "en": "Nyíregyháza Spartacus",
+  "nyiregyhaza spartacus fc": {
+    "en": "Nyíregyháza Spartacus FC",
     "ar": "نيريجهيهازا سبارتاكوس"
   },
-  "ujpest": {
-    "en": "Újpest",
+  "budapest honved fc": {
+    "en": "Budapest Honvéd FC",
+    "ar": "هونفيد"
+  },
+  "ujpest fc": {
+    "en": "Újpest FC",
     "ar": "أويبست"
   },
   "gyori eto fc": {
     "en": "Győri ETO FC",
     "ar": "غيور تورنا أوزتالي"
   },
-  "puskas akademia": {
-    "en": "Puskás Akadémia",
+  "puskas akademia fc": {
+    "en": "Puskás Akadémia FC",
     "ar": "بوشكاش"
   },
   "fk partizan": {
@@ -2651,8 +2651,8 @@
     "en": "Aalesunds FK",
     "ar": "أوليسوند"
   },
-  "sarpsborg 08": {
-    "en": "Sarpsborg 08",
+  "sarpsborg 08 ff": {
+    "en": "Sarpsborg 08 FF",
     "ar": "ساربسبورغ 08"
   },
   "hamkam": {
@@ -2687,16 +2687,16 @@
     "en": "Korona Kielce",
     "ar": "كورونا كيلسي"
   },
-  "pardubice": {
-    "en": "Pardubice",
+  "fk pardubice": {
+    "en": "FK Pardubice",
     "ar": "باردوبيس"
   },
   "karpaty lviv": {
     "en": "Karpaty Lviv",
     "ar": "كارباتي"
   },
-  "cherkasy": {
-    "en": "Cherkasy",
+  "lnz cherkasy": {
+    "en": "LNZ Cherkasy",
     "ar": "تشيركاسي"
   },
   "kudrivka": {
@@ -2731,8 +2731,8 @@
     "en": "Nafta Lendava",
     "ar": "نافتا"
   },
-  "grosuplje": {
-    "en": "Grosuplje",
+  "brinje grosuplje": {
+    "en": "Brinje Grosuplje",
     "ar": "غروسوبليه"
   },
   "dunav ruse": {
@@ -2747,12 +2747,12 @@
     "en": "CSKA Sofia",
     "ar": "سسكا صوفيا"
   },
-  "ruzomberok": {
-    "en": "Ružomberok",
+  "mfk ruzomberok": {
+    "en": "MFK Ružomberok",
     "ar": "روجومبيروك"
   },
-  "zilina": {
-    "en": "Žilina",
+  "msk zilina": {
+    "en": "MŠK Žilina",
     "ar": "زيلينا"
   },
   "spartak trnava": {
@@ -2771,40 +2771,40 @@
     "en": "Partizani Tirana",
     "ar": "بارتيزاني تيرانا"
   },
-  "kf tirana": {
-    "en": "KF Tirana",
+  "tirana": {
+    "en": "Tirana",
     "ar": "تيرانا"
   },
-  "sogdiana jizzakh": {
-    "en": "Sogdiana Jizzakh",
+  "sogdiana": {
+    "en": "Sogdiana",
     "ar": "سوغديانا"
   },
-  "lokomotiv tashkent": {
-    "en": "Lokomotiv Tashkent",
+  "lokomotiv": {
+    "en": "Lokomotiv",
     "ar": "لوكوموتيف"
   },
-  "agmk fc": {
-    "en": "AGMK FC",
+  "agmk": {
+    "en": "AGMK",
     "ar": "أجمك"
   },
-  "navbahor namangan": {
-    "en": "Navbahor Namangan",
+  "navbahor": {
+    "en": "Navbahor",
     "ar": "نافباخور"
   },
   "malut united": {
     "en": "Malut United",
     "ar": "مالوت يونايتد"
   },
-  "borneo fc samarinda": {
-    "en": "Borneo FC Samarinda",
+  "borneo": {
+    "en": "Borneo",
     "ar": "بورنيو"
   },
-  "psm makassar": {
-    "en": "PSM Makassar",
+  "psm": {
+    "en": "PSM",
     "ar": "بي إس إم"
   },
-  "persib bandung": {
-    "en": "Persib Bandung",
+  "persib": {
+    "en": "Persib",
     "ar": "بيرسيب"
   },
   "dewa united": {
@@ -2847,8 +2847,8 @@
     "en": "Ho Chi Minh City",
     "ar": "هوتشي مينه سيتي"
   },
-  "hanoi fc": {
-    "en": "Hanoi FC",
+  "hanoi": {
+    "en": "Hanoi",
     "ar": "هانوي"
   },
   "bac ninh": {
