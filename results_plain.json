@@ -54,7 +54,7 @@
       "tournamentAr": "🇪🇸 الدوري الإسباني",
       "matchEn": "Deportivo Alavés v Atlético Madrid",
       "matchAr": "ديبورتيفو ألافيس × أتلتيكو مدريد",
-      "time": "1 - 1 (live)"
+      "time": "1 - 2 (live)"
     },
     {
       "tournamentEn": "🇪🇸 Spanish La Liga 1",
@@ -194,7 +194,7 @@
       "tournamentAr": "🇳🇱 الدوري الهولندي",
       "matchEn": "Go Ahead Eagles v Sparta Rotterdam",
       "matchAr": "غو أهد إيغلز × سبارتا روتردام",
-      "time": "2 - 2 (live)"
+      "time": "3 - 2 (live)"
     },
     {
       "tournamentEn": "🇳🇱 Dutch Eredivisie",
@@ -432,7 +432,7 @@
       "tournamentAr": "🇹🇷 الدوري التركي",
       "matchEn": "Rizespor v Fenerbahçe",
       "matchAr": "ريزه سبور × فنربخشة",
-      "time": "0 - 0 (live)"
+      "time": "0 - 1 (live)"
     },
     {
       "tournamentEn": "🇧🇪 Belgian Pro League",
@@ -579,7 +579,7 @@
       "tournamentAr": "🇧🇭 الدوري البحريني",
       "matchEn": "Manama Club v Al Ahli",
       "matchAr": "المنامة × الأهلي",
-      "time": "0 - 0 (live)"
+      "time": "0 - 1 (live)"
     },
     {
       "tournamentEn": "🇸🇾 Syrian Premier League",
@@ -621,7 +621,7 @@
       "tournamentAr": "🇷🇺 الدوري الروسي",
       "matchEn": "Krylia Sovetov v Spartak Moscow",
       "matchAr": "كريليا سوفيتوف × سبارتاك موسكو",
-      "time": "0 - 0 (live)"
+      "time": "0 - 1 (live)"
     },
     {
       "tournamentEn": "🇷🇺 Russian Premier League",
@@ -691,7 +691,7 @@
       "tournamentAr": "🇨🇭 الدوري السويسري",
       "matchEn": "Servette v Sion",
       "matchAr": "سيرفيت × سيون",
-      "time": "0 - 0 (live)"
+      "time": "1 - 0 (live)"
     },
     {
       "tournamentEn": "🇬🇷 Greek Super League",
@@ -927,16 +927,16 @@
     {
       "tournamentEn": "🇸🇦 Saudi Youth League",
       "tournamentAr": "🇸🇦 الدوري السعودي للشباب",
-      "matchEn": "Mahail v Al-Ittihad",
-      "matchAr": "محايل × الاتحاد",
-      "time": "12:45"
+      "matchEn": "Al-Shabab v Al-Taawoun",
+      "matchAr": "الشباب × التعاون",
+      "time": "1 - 0 (done)"
     },
     {
       "tournamentEn": "🇸🇦 Saudi Youth League",
       "tournamentAr": "🇸🇦 الدوري السعودي للشباب",
-      "matchEn": "Al Ettifaq v Al-Orobah",
-      "matchAr": "الاتفاق × العروبة",
-      "time": "16:10"
+      "matchEn": "Mahail v Al-Ittihad",
+      "matchAr": "محايل × الاتحاد",
+      "time": "1 - 0 (done)"
     },
     {
       "tournamentEn": "🏆 Africa U-17 Cup of Nations Qualifiers",
@@ -1055,7 +1055,7 @@
       "tournamentAr": "🇳🇴 الدوري النرويجي",
       "matchEn": "Rosenborg v Sandefjord",
       "matchAr": "روزنبورغ × سانديفيورد",
-      "time": "0 - 0 (live)"
+      "time": "1 - 0 (live)"
     },
     {
       "tournamentEn": "🇦🇹 Austrian Bundesliga",
@@ -1153,7 +1153,7 @@
       "tournamentAr": "🇷🇴 الدوري الروماني",
       "matchEn": "Botoșani v Arad",
       "matchAr": "بوتوشاني × أراد",
-      "time": "2 - 0 (live)"
+      "time": "2 - 0 (done)"
     },
     {
       "tournamentEn": "🇷🇴 Romanian Liga I",
@@ -1370,7 +1370,7 @@
       "tournamentAr": "🇨🇾 الدوري القبرصي",
       "matchEn": "APOEL Nicosia v Nea Salamis",
       "matchAr": "أبويل نيقوسيا × نيا سلاميس",
-      "time": "16:00"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇺🇾 Uruguayan Primera División",
@@ -1384,7 +1384,7 @@
       "tournamentAr": "🇺🇾 دوري الأوروغواي الممتاز",
       "matchEn": "Defensor Sporting v Cerro Largo",
       "matchAr": "ديفينسور سبورتينغ × سيرو",
-      "time": "2 - 3 (live)"
+      "time": "2 - 3 (done)"
     },
     {
       "tournamentEn": "🇺🇾 Uruguayan Primera División",
@@ -1454,7 +1454,7 @@
       "tournamentAr": "🏆 كأس الثمانية الكبار",
       "matchEn": "Orlando Pirates v Mamelodi Sundowns",
       "matchAr": "أورلاندو بايرتس × ماميلودي صن داونز",
-      "time": "0 - 0 (live)"
+      "time": "0 - 1 (live)"
     }
   ]
 }
