@@ -747,7 +747,7 @@
       "tournamentAr": "🇺🇸 الدوري الأمريكي",
       "matchEn": "Chicago Fire v New York City FC",
       "matchAr": "شيكاغو فاير × نيويورك سيتي",
-      "time": "1 - 1 (live)"
+      "time": "2 - 1 (live)"
     },
     {
       "tournamentEn": "🇺🇸 USA MLS",
@@ -948,9 +948,30 @@
     {
       "tournamentEn": "🏆 Africa U-17 Cup of Nations Qualifiers",
       "tournamentAr": "🏆 تصفيات أمم أفريقيا تحت 17 سنة",
+      "matchEn": "Uganda v Burundi",
+      "matchAr": "أوغندا × بوروندي",
+      "time": "11:00"
+    },
+    {
+      "tournamentEn": "🏆 Africa U-17 Cup of Nations Qualifiers",
+      "tournamentAr": "🏆 تصفيات أمم أفريقيا تحت 17 سنة",
+      "matchEn": "Tanzania v Kenya",
+      "matchAr": "تنزانيا × كينيا",
+      "time": "14:00"
+    },
+    {
+      "tournamentEn": "🏆 Africa U-17 Cup of Nations Qualifiers",
+      "tournamentAr": "🏆 تصفيات أمم أفريقيا تحت 17 سنة",
       "matchEn": "Burkina Faso v Benin",
       "matchAr": "بوركينا فاسو × بنين",
       "time": "0 - 0 (done)"
+    },
+    {
+      "tournamentEn": "🏆 Africa U-17 Cup of Nations Qualifiers",
+      "tournamentAr": "🏆 تصفيات أمم أفريقيا تحت 17 سنة",
+      "matchEn": "Rwanda v South Sudan",
+      "matchAr": "رواندا × جنوب السودان",
+      "time": "17:00"
     },
     {
       "tournamentEn": "🏆 Africa U-17 Cup of Nations Qualifiers",
@@ -1167,7 +1188,7 @@
       "tournamentAr": "🇷🇴 الدوري الروماني",
       "matchEn": "FCSB v Oțelul Galați",
       "matchAr": "ستيوا بوخارست × أوتيلول",
-      "time": "1 - 0 (live)"
+      "time": "1 - 0 (done)"
     },
     {
       "tournamentEn": "🇸🇮 Slovenian PrvaLiga",
