@@ -194,7 +194,7 @@
       "tournamentAr": "🇳🇱 الدوري الهولندي",
       "matchEn": "Go Ahead Eagles v Sparta Rotterdam",
       "matchAr": "غو أهد إيغلز × سبارتا روتردام",
-      "time": "3 - 3 (live)"
+      "time": "3 - 3 (done)"
     },
     {
       "tournamentEn": "🇳🇱 Dutch Eredivisie",
@@ -229,7 +229,7 @@
       "tournamentAr": "🇸🇦 دوري روشن السعودي",
       "matchEn": "Al Ettifaq v Al-Khaleej",
       "matchAr": "الاتفاق × الخليج",
-      "time": "0 - 0 (live)"
+      "time": "0 - 1 (live)"
     },
     {
       "tournamentEn": "🇸🇦 Saudi Pro League",
@@ -941,6 +941,13 @@
     {
       "tournamentEn": "🇸🇦 Saudi Youth League",
       "tournamentAr": "🇸🇦 الدوري السعودي للشباب",
+      "matchEn": "Al Ettifaq v Al-Orobah",
+      "matchAr": "الاتفاق × العروبة",
+      "time": "0 - 0 (live)"
+    },
+    {
+      "tournamentEn": "🇸🇦 Saudi Youth League",
+      "tournamentAr": "🇸🇦 الدوري السعودي للشباب",
       "matchEn": "Al-Nassr v Al Ahli",
       "matchAr": "النصر × الأهلي",
       "time": "16:30"
@@ -1020,7 +1027,7 @@
       "tournamentAr": "🇭🇺 الدوري المجري الممتاز",
       "matchEn": "Ferencváros v Debrecen",
       "matchAr": "فيرينتسفاروشي × ديبريسين",
-      "time": "0 - 0 (live)"
+      "time": "1 - 0 (live)"
     },
     {
       "tournamentEn": "🇭🇺 Hungarian Nemzeti Bajnokság I",
@@ -1132,7 +1139,7 @@
       "tournamentAr": "🇨🇿 الدوري التشيكي الممتاز",
       "matchEn": "Bohemians 1905 v Baník Ostrava",
       "matchAr": "بوهيميانز 1905 × بانيك أوسترافا",
-      "time": "0 - 0 (live)"
+      "time": "1 - 0 (live)"
     },
     {
       "tournamentEn": "🇺🇦 Ukrainian Premier League",
@@ -1251,7 +1258,7 @@
       "tournamentAr": "🇸🇰 الدوري السلوفاكي",
       "matchEn": "Zemplín Michalovce v DAC 1904 Dunajská Streda",
       "matchAr": "زيمبلين ميخالوفتشي × داك",
-      "time": "0 - 0 (live)"
+      "time": "0 - 1 (live)"
     },
     {
       "tournamentEn": "🇦🇱 Albanian Super League",
@@ -1377,7 +1384,7 @@
       "tournamentAr": "🇨🇾 الدوري القبرصي",
       "matchEn": "APOEL Nicosia v Nea Salamis",
       "matchAr": "أبويل نيقوسيا × نيا سلاميس",
-      "time": "0 - 0 (live)"
+      "time": "1 - 0 (live)"
     },
     {
       "tournamentEn": "🇺🇾 Uruguayan Primera División",
