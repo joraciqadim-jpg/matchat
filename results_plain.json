@@ -33,7 +33,7 @@
       "tournamentAr": "🇬🇧 الدوري الإنجليزي",
       "matchEn": "Aston Villa v Brentford",
       "matchAr": "أستون فيلا × برينتفورد",
-      "time": "2 - 2 (live)"
+      "time": "2 - 2 (done)"
     },
     {
       "tournamentEn": "🇬🇧 English Premier League",
@@ -159,7 +159,7 @@
       "tournamentAr": "🇮🇹 الدوري الإيطالي",
       "matchEn": "Inter Milan v Parma",
       "matchAr": "إنتر ميلان × بارما",
-      "time": "16:00"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇮🇹 Italian Serie A",
@@ -432,7 +432,7 @@
       "tournamentAr": "🇹🇷 الدوري التركي",
       "matchEn": "Rizespor v Fenerbahçe",
       "matchAr": "ريزه سبور × فنربخشة",
-      "time": "16:00"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇧🇪 Belgian Pro League",
@@ -572,14 +572,14 @@
       "tournamentAr": "🇧🇭 الدوري البحريني",
       "matchEn": "Al-Hidd v Al Ettifaq",
       "matchAr": "الحد × الاتفاق",
-      "time": "16:00"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇧🇭 Bahraini Premier League",
       "tournamentAr": "🇧🇭 الدوري البحريني",
       "matchEn": "Manama Club v Al Ahli",
       "matchAr": "المنامة × الأهلي",
-      "time": "16:00"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇸🇾 Syrian Premier League",
@@ -677,21 +677,21 @@
       "tournamentAr": "🇨🇭 الدوري السويسري",
       "matchEn": "Lugano v Luzern",
       "matchAr": "لوغانو × لوزيرن",
-      "time": "16:00"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇨🇭 Swiss Super League",
       "tournamentAr": "🇨🇭 الدوري السويسري",
       "matchEn": "FC Zürich v Thun",
       "matchAr": "زيوريخ × ثون",
-      "time": "16:00"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇨🇭 Swiss Super League",
       "tournamentAr": "🇨🇭 الدوري السويسري",
       "matchEn": "Servette v Sion",
       "matchAr": "سيرفيت × سيون",
-      "time": "16:00"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇬🇷 Greek Super League",
@@ -999,7 +999,7 @@
       "tournamentAr": "🇭🇷 الدوري الكرواتي الممتاز",
       "matchEn": "Osijek v Istra 1961",
       "matchAr": "أوسييك × إسترا 1961",
-      "time": "16:00"
+      "time": "1 - 0 (live)"
     },
     {
       "tournamentEn": "🇭🇺 Hungarian Nemzeti Bajnokság I",
@@ -1055,7 +1055,7 @@
       "tournamentAr": "🇳🇴 الدوري النرويجي",
       "matchEn": "Rosenborg v Sandefjord",
       "matchAr": "روزنبورغ × سانديفيورد",
-      "time": "16:00"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇦🇹 Austrian Bundesliga",
@@ -1090,7 +1090,7 @@
       "tournamentAr": "🇵🇱 الدوري البولندي الممتاز",
       "matchEn": "Śląsk Wrocław v Lech Poznań",
       "matchAr": "شلوسك فروتسلاو × لخ بوزنان",
-      "time": "0 - 0 (live)"
+      "time": "0 - 1 (live)"
     },
     {
       "tournamentEn": "🇵🇱 Polish Ekstraklasa",
@@ -1125,7 +1125,7 @@
       "tournamentAr": "🇨🇿 الدوري التشيكي الممتاز",
       "matchEn": "Bohemians 1905 v Baník Ostrava",
       "matchAr": "بوهيميانز 1905 × بانيك أوسترافا",
-      "time": "16:00"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇺🇦 Ukrainian Premier League",
@@ -1244,7 +1244,7 @@
       "tournamentAr": "🇸🇰 الدوري السلوفاكي",
       "matchEn": "Zemplín Michalovce v DAC 1904 Dunajská Streda",
       "matchAr": "زيمبلين ميخالوفتشي × داك",
-      "time": "16:00"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇦🇱 Albanian Super League",
@@ -1356,7 +1356,7 @@
       "tournamentAr": "🇫🇮 الدوري الفنلندي",
       "matchEn": "IFK Mariehamn v Ilves",
       "matchAr": "ماريهامن × إيلفيس",
-      "time": "16:00"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇨🇾 Cypriot First Division",
@@ -1454,7 +1454,7 @@
       "tournamentAr": "🏆 كأس الثمانية الكبار",
       "matchEn": "Orlando Pirates v Mamelodi Sundowns",
       "matchAr": "أورلاندو بايرتس × ماميلودي صن داونز",
-      "time": "16:00"
+      "time": "0 - 0 (live)"
     }
   ]
 }
