@@ -40,7 +40,7 @@
       "tournamentAr": "🇬🇧 الدوري الإنجليزي",
       "matchEn": "Manchester United v Tottenham Hotspur",
       "matchAr": "مانشستر يونايتد × توتنهام",
-      "time": "0 - 0 (live)"
+      "time": "1 - 0 (live)"
     },
     {
       "tournamentEn": "🇪🇸 Spanish La Liga 1",
@@ -201,14 +201,14 @@
       "tournamentAr": "🇳🇱 الدوري الهولندي",
       "matchEn": "Feyenoord v AZ Alkmaar",
       "matchAr": "فاينورد × إي زد ألكمار",
-      "time": "1 - 0 (live)"
+      "time": "2 - 0 (live)"
     },
     {
       "tournamentEn": "🇳🇱 Dutch Eredivisie",
       "tournamentAr": "🇳🇱 الدوري الهولندي",
       "matchEn": "Fortuna Sittard v Twente",
       "matchAr": "فورتونا سيتارد × تفينتي",
-      "time": "18:00"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇳🇱 Dutch Eredivisie",
@@ -236,7 +236,7 @@
       "tournamentAr": "🇸🇦 دوري روشن السعودي",
       "matchEn": "Al-Hilal v Al-Ittihad",
       "matchAr": "الهلال × الاتحاد",
-      "time": "18:00"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇬🇧 English Championship",
@@ -572,7 +572,7 @@
       "tournamentAr": "🇧🇭 الدوري البحريني",
       "matchEn": "Al-Hidd v Al Ettifaq",
       "matchAr": "الحد × الاتفاق",
-      "time": "0 - 1 (live)"
+      "time": "0 - 1 (done)"
     },
     {
       "tournamentEn": "🇧🇭 Bahraini Premier League",
@@ -628,7 +628,7 @@
       "tournamentAr": "🇷🇺 الدوري الروسي",
       "matchEn": "Krasnodar v Zenit Saint Petersburg",
       "matchAr": "كراسنودار × زينيت",
-      "time": "1 - 3 (live)"
+      "time": "2 - 3 (live)"
     },
     {
       "tournamentEn": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scottish Premiership",
@@ -964,7 +964,7 @@
       "tournamentAr": "🏆 تصفيات أمم أفريقيا تحت 17 سنة",
       "matchEn": "Ghana v Togo",
       "matchAr": "غانا × توغو",
-      "time": "18:00"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🏁 UEFA Youth League",
@@ -1356,7 +1356,7 @@
       "tournamentAr": "🇧🇦 دوري البوسنة والهرسك الممتاز",
       "matchEn": "Borac Banja Luka v Borac Banja Luka",
       "matchAr": "بوراتس بانيا لوكا × بي إس كيه بانيا لوكا",
-      "time": "1 - 0 (live)"
+      "time": "2 - 0 (live)"
     },
     {
       "tournamentEn": "🇫🇮 Finnish League",
@@ -1384,7 +1384,7 @@
       "tournamentAr": "🇨🇾 الدوري القبرصي",
       "matchEn": "APOEL Nicosia v Nea Salamis",
       "matchAr": "أبويل نيقوسيا × نيا سلاميس",
-      "time": "2 - 1 (live)"
+      "time": "2 - 1 (done)"
     },
     {
       "tournamentEn": "🇺🇾 Uruguayan Primera División",
@@ -1405,7 +1405,7 @@
       "tournamentAr": "🇺🇾 دوري الأوروغواي الممتاز",
       "matchEn": "Montevideo Wanderers v Boston River",
       "matchAr": "واندررز × بوسطن ريفر",
-      "time": "18:00"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇺🇾 Uruguayan Primera División",
@@ -1468,7 +1468,7 @@
       "tournamentAr": "🏆 كأس الثمانية الكبار",
       "matchEn": "Orlando Pirates v Mamelodi Sundowns",
       "matchAr": "أورلاندو بايرتس × ماميلودي صن داونز",
-      "time": "0 - 1 (live)"
+      "time": "0 - 2 (done)"
     }
   ]
 }
