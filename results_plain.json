@@ -26,7 +26,7 @@
       "tournamentAr": "🇬🇧 الدوري الإنجليزي",
       "matchEn": "Chelsea v Bournemouth",
       "matchAr": "تشيلسي × بورنموث",
-      "time": "3 - 1 (live)"
+      "time": "4 - 1 (live)"
     },
     {
       "tournamentEn": "🇬🇧 English Premier League",
@@ -75,7 +75,7 @@
       "tournamentAr": "🇩🇪 الدوري الألماني",
       "matchEn": "Paderborn v Stuttgart",
       "matchAr": "بادربورن × شتوتغارت",
-      "time": "0 - 2 (live)"
+      "time": "0 - 2 (done)"
     },
     {
       "tournamentEn": "🇩🇪 German Bundesliga",
@@ -89,7 +89,7 @@
       "tournamentAr": "🇩🇪 الدوري الألماني",
       "matchEn": "Mainz 05 v Bayer Leverkusen",
       "matchAr": "ماينز 05 × باير ليفركوزن",
-      "time": "3 - 4 (live)"
+      "time": "3 - 4 (done)"
     },
     {
       "tournamentEn": "🇩🇪 German Bundesliga",
@@ -103,7 +103,7 @@
       "tournamentAr": "🇩🇪 الدوري الألماني",
       "matchEn": "Hoffenheim v Hamburger SV",
       "matchAr": "هوفنهايم × هامبورغ",
-      "time": "2 - 2 (live)"
+      "time": "2 - 3 (live)"
     },
     {
       "tournamentEn": "🇩🇪 German Bundesliga",
@@ -299,7 +299,7 @@
       "tournamentAr": "🇬🇧 تشامبيونشيب",
       "matchEn": "Bolton Wanderers v Stoke City",
       "matchAr": "بولتون واندررز × ستوك سيتي",
-      "time": "0 - 1 (live)"
+      "time": "0 - 2 (live)"
     },
     {
       "tournamentEn": "🇬🇧 English Championship",
@@ -390,7 +390,7 @@
       "tournamentAr": "🇹🇳 الدوري التونسي",
       "matchEn": "Espérance de Tunis v Olympique Béja",
       "matchAr": "الترجي التونسي × الأولمبي الباجي",
-      "time": "3 - 1 (live)"
+      "time": "3 - 1 (done)"
     },
     {
       "tournamentEn": "🇹🇳 Tunisian Ligue 1",
@@ -733,7 +733,7 @@
       "tournamentAr": "🇮🇷 الدوري الإيراني",
       "matchEn": "Peykan v Shams Azar Qazvin",
       "matchAr": "بيكان × آذر شمس قزوين",
-      "time": "1 - 1 (live)"
+      "time": "1 - 1 (done)"
     },
     {
       "tournamentEn": "🇺🇸 USA MLS",
@@ -939,13 +939,6 @@
       "time": "16:10"
     },
     {
-      "tournamentEn": "🇸🇦 Saudi Youth League",
-      "tournamentAr": "🇸🇦 الدوري السعودي للشباب",
-      "matchEn": "Al-Nassr v Al Ahli",
-      "matchAr": "النصر × الأهلي",
-      "time": "16:30"
-    },
-    {
       "tournamentEn": "🏆 Africa U-17 Cup of Nations Qualifiers",
       "tournamentAr": "🏆 تصفيات أمم أفريقيا تحت 17 سنة",
       "matchEn": "Burkina Faso v Benin",
@@ -964,7 +957,7 @@
       "tournamentAr": "🏁 دوري أبطال أوروبا للشباب",
       "matchEn": "Dinamo Tbilisi (Georgia) v Dynamo Minsk (Belarus)",
       "matchAr": "دينامو تبليسي (جورجيا) × دينامو مينسك (روسيا البيضاء)",
-      "time": "0 - 2 (live)"
+      "time": "1 - 2 (live)"
     },
     {
       "tournamentEn": "🇲🇷 Mauritanian Premier League",
@@ -1230,7 +1223,7 @@
       "tournamentAr": "🇸🇰 الدوري السلوفاكي",
       "matchEn": "Košice v KFC Komárno",
       "matchAr": "كوشيتسه × كومارنو",
-      "time": "1 - 1 (live)"
+      "time": "1 - 1 (done)"
     },
     {
       "tournamentEn": "🇸🇰 Slovak Super Liga",
@@ -1356,7 +1349,7 @@
       "tournamentAr": "🇫🇮 الدوري الفنلندي",
       "matchEn": "Inter Turku v Jaro",
       "matchAr": "توركو × جارو",
-      "time": "0 - 0 (live)"
+      "time": "0 - 1 (live)"
     },
     {
       "tournamentEn": "🇫🇮 Finnish League",
