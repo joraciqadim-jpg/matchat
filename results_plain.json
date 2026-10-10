@@ -5,7 +5,7 @@
       "tournamentAr": "🇬🇧 الدوري الإنجليزي",
       "matchEn": "Arsenal v Leeds United",
       "matchAr": "آرسنال × ليدز يونايتد",
-      "time": "2 - 1 (live)"
+      "time": "2 - 1 (done)"
     },
     {
       "tournamentEn": "🇬🇧 English Premier League",
@@ -75,35 +75,35 @@
       "tournamentAr": "🇩🇪 الدوري الألماني",
       "matchEn": "Paderborn v Stuttgart",
       "matchAr": "بادربورن × شتوتغارت",
-      "time": "13:30"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇩🇪 German Bundesliga",
       "tournamentAr": "🇩🇪 الدوري الألماني",
       "matchEn": "Union Berlin v SV Elversberg",
       "matchAr": "يونيون برلين × إلفيرسبيرغ",
-      "time": "13:30"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇩🇪 German Bundesliga",
       "tournamentAr": "🇩🇪 الدوري الألماني",
       "matchEn": "Mainz 05 v Bayer Leverkusen",
       "matchAr": "ماينز 05 × باير ليفركوزن",
-      "time": "13:30"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇩🇪 German Bundesliga",
       "tournamentAr": "🇩🇪 الدوري الألماني",
       "matchEn": "Augsburg v Bayern Munich",
       "matchAr": "أوغسبورغ × بايرن ميونخ",
-      "time": "13:30"
+      "time": "1 - 0 (live)"
     },
     {
       "tournamentEn": "🇩🇪 German Bundesliga",
       "tournamentAr": "🇩🇪 الدوري الألماني",
       "matchEn": "Hoffenheim v Hamburger SV",
       "matchAr": "هوفنهايم × هامبورغ",
-      "time": "13:30"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇩🇪 German Bundesliga",
@@ -171,16 +171,16 @@
     {
       "tournamentEn": "🇵🇹 Portuguese Liga 1",
       "tournamentAr": "🇵🇹 الدوري البرتغالي",
-      "matchEn": "Casa Pia v Santa Clara",
-      "matchAr": "كاسا بيا × سانتا كلارا",
-      "time": "14:30"
+      "matchEn": "Marítimo v Porto",
+      "matchAr": "ماريتيمو × بورتو",
+      "time": "17:00"
     },
     {
       "tournamentEn": "🇵🇹 Portuguese Liga 1",
       "tournamentAr": "🇵🇹 الدوري البرتغالي",
-      "matchEn": "Marítimo v Porto",
-      "matchAr": "ماريتيمو × بورتو",
-      "time": "17:00"
+      "matchEn": "Casa Pia v Santa Clara",
+      "matchAr": "كاسا بيا × سانتا كلارا",
+      "time": "19:30"
     },
     {
       "tournamentEn": "🇵🇹 Portuguese Liga 1",
@@ -243,21 +243,21 @@
       "tournamentAr": "🇬🇧 تشامبيونشيب",
       "matchEn": "West Bromwich Albion v Birmingham City",
       "matchAr": "وست بروميتش × برمنغهام سيتي",
-      "time": "0 - 1 (live)"
+      "time": "0 - 1 (done)"
     },
     {
       "tournamentEn": "🇬🇧 English Championship",
       "tournamentAr": "🇬🇧 تشامبيونشيب",
       "matchEn": "Swansea City v Norwich City",
       "matchAr": "سوانزي سيتي × نورويتش سيتي",
-      "time": "2 - 1 (live)"
+      "time": "2 - 1 (done)"
     },
     {
       "tournamentEn": "🇬🇧 English Championship",
       "tournamentAr": "🇬🇧 تشامبيونشيب",
       "matchEn": "Charlton Athletic v Bristol City",
       "matchAr": "تشارلتون أثلتيك × بريستول سيتي",
-      "time": "1 - 1 (live)"
+      "time": "1 - 1 (done)"
     },
     {
       "tournamentEn": "🇬🇧 English Championship",
@@ -383,21 +383,21 @@
       "tournamentAr": "🇹🇳 الدوري التونسي",
       "matchEn": "CA Bizertin v US Monastir",
       "matchAr": "النادي البنزرتي × الاتحاد المنستيري",
-      "time": "13:30"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇹🇳 Tunisian Ligue 1",
       "tournamentAr": "🇹🇳 الدوري التونسي",
       "matchEn": "Espérance de Tunis v Olympique Béja",
       "matchAr": "الترجي التونسي × الأولمبي الباجي",
-      "time": "13:30"
+      "time": "1 - 0 (live)"
     },
     {
       "tournamentEn": "🇹🇳 Tunisian Ligue 1",
       "tournamentAr": "🇹🇳 الدوري التونسي",
       "matchEn": "US Ben Guerdane v Club Africain",
       "matchAr": "إتحاد بن قردان × النادي الإفريقي",
-      "time": "13:30"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇹🇳 Tunisian Ligue 1",
@@ -418,7 +418,7 @@
       "tournamentAr": "🇹🇷 الدوري التركي",
       "matchEn": "Samsunspor v Trabzonspor",
       "matchAr": "سامسون سبور × طرابزون سبور",
-      "time": "0 - 0 (live)"
+      "time": "0 - 1 (live)"
     },
     {
       "tournamentEn": "🇹🇷 Turkish Super Lig",
@@ -614,7 +614,7 @@
       "tournamentAr": "🇷🇺 الدوري الروسي",
       "matchEn": "Fakel Voronezh v Lokomotiv Moscow",
       "matchAr": "فاكيل × لوكوموتيف موسكو",
-      "time": "0 - 2 (live)"
+      "time": "0 - 3 (live)"
     },
     {
       "tournamentEn": "🇷🇺 Russian Premier League",
@@ -663,14 +663,14 @@
       "tournamentAr": "🇨🇳 الدوري الصيني",
       "matchEn": "Chengdu Rongcheng v Tianjin Teda",
       "matchAr": "تشنغدو رونغتشنغ × تيانجين تيدا",
-      "time": "0 - 0 (live)"
+      "time": "0 - 1 (done)"
     },
     {
       "tournamentEn": "🇨🇳 Chinese Super League",
       "tournamentAr": "🇨🇳 الدوري الصيني",
       "matchEn": "Shanghai Shenhua v Yunnan Yukun",
       "matchAr": "شنغهاي شنهوا × يونان يوكون",
-      "time": "7 - 1 (live)"
+      "time": "7 - 1 (done)"
     },
     {
       "tournamentEn": "🇨🇭 Swiss Super League",
@@ -733,7 +733,7 @@
       "tournamentAr": "🇮🇷 الدوري الإيراني",
       "matchEn": "Peykan v Shams Azar Qazvin",
       "matchAr": "بيكان × آذر شمس قزوين",
-      "time": "13:30"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇺🇸 USA MLS",
@@ -1013,7 +1013,7 @@
       "tournamentAr": "🇭🇷 الدوري الكرواتي الممتاز",
       "matchEn": "Hajduk Split v Dinamo Zagreb",
       "matchAr": "هايدوك سبليت × دينامو زغرب",
-      "time": "0 - 0 (live)"
+      "time": "1 - 1 (live)"
     },
     {
       "tournamentEn": "🇭🇷 Croatian HNL",
@@ -1048,7 +1048,7 @@
       "tournamentAr": "🇷🇸 الدوري الصربي الممتاز",
       "matchEn": "IMT Novi Beograd v Radnik Surdulica",
       "matchAr": "نوفي بيوغراد × رادنيك سوردوليتسا",
-      "time": "0 - 0 (live)"
+      "time": "1 - 0 (live)"
     },
     {
       "tournamentEn": "🇷🇸 Serbian Super League",
@@ -1188,7 +1188,7 @@
       "tournamentAr": "🇸🇮 الدوري السلوفيني",
       "matchEn": "Radomlje v Koper",
       "matchAr": "رادوملي × كوبر",
-      "time": "1 - 1 (live)"
+      "time": "1 - 2 (live)"
     },
     {
       "tournamentEn": "🇸🇮 Slovenian PrvaLiga",
@@ -1230,7 +1230,7 @@
       "tournamentAr": "🇸🇰 الدوري السلوفاكي",
       "matchEn": "Skalica v Slovan Bratislava",
       "matchAr": "سكاليكا × سلوفان براتيسلافا",
-      "time": "13:30"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇸🇰 Slovak Super Liga",
@@ -1244,14 +1244,14 @@
       "tournamentAr": "🇸🇰 الدوري السلوفاكي",
       "matchEn": "Košice v KFC Komárno",
       "matchAr": "كوشيتسه × كومارنو",
-      "time": "13:30"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇸🇰 Slovak Super Liga",
       "tournamentAr": "🇸🇰 الدوري السلوفاكي",
       "matchEn": "Trenčín v Banská Bystrica",
       "matchAr": "ترنسين × بانسكا بيستريكا",
-      "time": "13:30"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇸🇰 Slovak Super Liga",
@@ -1286,7 +1286,7 @@
       "tournamentAr": "🇺🇿 الدوري الأوزبكي",
       "matchEn": "Kizilkum Zarafshon v Surkhon Termez",
       "matchAr": "كويزلكام × سوروخون ترميز",
-      "time": "1 - 0 (live)"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇮🇩 Indonesian Liga 1",
@@ -1314,7 +1314,7 @@
       "tournamentAr": "🇮🇩 الدوري الإندونيسي",
       "matchEn": "Bali United v Persijap Jepara",
       "matchAr": "بالي يونايتد × بيرسيجاب",
-      "time": "3 - 0 (live)"
+      "time": "3 - 1 (live)"
     },
     {
       "tournamentEn": "🇹🇭 Thai League 1",
@@ -1328,14 +1328,14 @@
       "tournamentAr": "🇹🇭 الدوري التايلندي",
       "matchEn": "Buriram United v Rayong FC",
       "matchAr": "بوريرام يونايتد × رايونغ",
-      "time": "3 - 2 (live)"
+      "time": "3 - 2 (done)"
     },
     {
       "tournamentEn": "🇹🇭 Thai League 1",
       "tournamentAr": "🇹🇭 الدوري التايلندي",
       "matchEn": "Uthai Thani v Ratchaburi United",
       "matchAr": "أوثاي ثاني × راسي سالاي يونايتد",
-      "time": "2 - 1 (live)"
+      "time": "3 - 1 (live)"
     },
     {
       "tournamentEn": "🇻🇳 Vietnamese V.League 1",
