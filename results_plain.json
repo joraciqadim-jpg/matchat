@@ -159,7 +159,7 @@
       "tournamentAr": "🇮🇹 الدوري الإيطالي",
       "matchEn": "Inter Milan v Parma",
       "matchAr": "إنتر ميلان × بارما",
-      "time": "1 - 0 (live)"
+      "time": "2 - 0 (live)"
     },
     {
       "tournamentEn": "🇮🇹 Italian Serie A",
@@ -621,7 +621,7 @@
       "tournamentAr": "🇷🇺 الدوري الروسي",
       "matchEn": "Krylia Sovetov v Spartak Moscow",
       "matchAr": "كريليا سوفيتوف × سبارتاك موسكو",
-      "time": "0 - 1 (live)"
+      "time": "1 - 1 (live)"
     },
     {
       "tournamentEn": "🇷🇺 Russian Premier League",
@@ -691,7 +691,7 @@
       "tournamentAr": "🇨🇭 الدوري السويسري",
       "matchEn": "Servette v Sion",
       "matchAr": "سيرفيت × سيون",
-      "time": "1 - 0 (live)"
+      "time": "2 - 0 (live)"
     },
     {
       "tournamentEn": "🇬🇷 Greek Super League",
@@ -937,6 +937,13 @@
       "matchEn": "Mahail v Al-Ittihad",
       "matchAr": "محايل × الاتحاد",
       "time": "1 - 0 (done)"
+    },
+    {
+      "tournamentEn": "🇸🇦 Saudi Youth League",
+      "tournamentAr": "🇸🇦 الدوري السعودي للشباب",
+      "matchEn": "Al-Nassr v Al Ahli",
+      "matchAr": "النصر × الأهلي",
+      "time": "16:30"
     },
     {
       "tournamentEn": "🏆 Africa U-17 Cup of Nations Qualifiers",
