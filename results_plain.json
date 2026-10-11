@@ -19,7 +19,7 @@
       "tournamentAr": "🇬🇧 الدوري الإنجليزي",
       "matchEn": "Liverpool v Manchester City",
       "matchAr": "ليفربول × مانشستر سيتي",
-      "time": "15:30"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇪🇸 Spanish La Liga 1",
@@ -33,7 +33,7 @@
       "tournamentAr": "🇪🇸 الدوري الإسباني",
       "matchEn": "Real Sociedad v Deportivo La Coruña",
       "matchAr": "ريال سوسيداد × ديبورتيفو أكورونيا",
-      "time": "2 - 0 (live)"
+      "time": "3 - 1 (live)"
     },
     {
       "tournamentEn": "🇪🇸 Spanish La Liga 1",
@@ -54,14 +54,14 @@
       "tournamentAr": "🇩🇪 الدوري الألماني",
       "matchEn": "FC Cologne v Borussia Mönchengladbach",
       "matchAr": "كولن × بوروسيا مونشنغلادباخ",
-      "time": "2 - 1 (live)"
+      "time": "2 - 1 (done)"
     },
     {
       "tournamentEn": "🇩🇪 German Bundesliga",
       "tournamentAr": "🇩🇪 الدوري الألماني",
       "matchEn": "Freiburg v Schalke 04",
       "matchAr": "فرايبورغ × شالكه 04",
-      "time": "15:30"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇫🇷 French Ligue 1",
@@ -75,7 +75,7 @@
       "tournamentAr": "🇫🇷 الدوري الفرنسي",
       "matchEn": "Rennes v Auxerre",
       "matchAr": "رين × أوكسير",
-      "time": "0 - 0 (live)"
+      "time": "1 - 0 (live)"
     },
     {
       "tournamentEn": "🇫🇷 French Ligue 1",
@@ -173,7 +173,7 @@
       "tournamentAr": "🇸🇦 دوري روشن السعودي",
       "matchEn": "Al-Fayha v Al-Riyadh",
       "matchAr": "الفيحاء × الرياض",
-      "time": "1 - 0 (live)"
+      "time": "1 - 1 (done)"
     },
     {
       "tournamentEn": "🇸🇦 Saudi Pro League",
@@ -292,7 +292,7 @@
       "tournamentAr": "🏆 كأس ملك إسبانيا",
       "matchEn": "Prato v San Rafael",
       "matchAr": "برات × سان رافائيل",
-      "time": "4 - 0 (live)"
+      "time": "5 - 0 (live)"
     },
     {
       "tournamentEn": "🇪🇬 Egyptian Premier League",
@@ -320,28 +320,28 @@
       "tournamentAr": "🇹🇳 الدوري التونسي",
       "matchEn": "Jeunesse Sportive d'El Omrane v Avenir Sportif de La Marsa",
       "matchAr": "شبيبة بالعمران × مستقبل المرسى",
-      "time": "0 - 0 (live)"
+      "time": "0 - 0 (done)"
     },
     {
       "tournamentEn": "🇹🇳 Tunisian Ligue 1",
       "tournamentAr": "🇹🇳 الدوري التونسي",
       "matchEn": "Étoile Sportive de Métlaoui v Stade Tunisien",
       "matchAr": "نجم المتلوي × الملعب التونسي",
-      "time": "1 - 1 (live)"
+      "time": "1 - 2 (done)"
     },
     {
       "tournamentEn": "🇹🇳 Tunisian Ligue 1",
       "tournamentAr": "🇹🇳 الدوري التونسي",
       "matchEn": "Étoile Sportive du Sahel v Hammam-Lif",
       "matchAr": "النجم الساحلي × حمام الأنف",
-      "time": "0 - 1 (live)"
+      "time": "0 - 1 (done)"
     },
     {
       "tournamentEn": "🇹🇳 Tunisian Ligue 1",
       "tournamentAr": "🇹🇳 الدوري التونسي",
       "matchEn": "Espérance Sportive de Zarzis v Hammam-Sousse",
       "matchAr": "الترجي الجرجيسي × حمام سوسة",
-      "time": "2 - 0 (live)"
+      "time": "2 - 0 (done)"
     },
     {
       "tournamentEn": "🇹🇷 Turkish Super Lig",
@@ -411,7 +411,7 @@
       "tournamentAr": "🇰🇼 الدوري الكويتي",
       "matchEn": "Al-Sahel v Al-Fahaheel",
       "matchAr": "الساحل × الفحيحيل",
-      "time": "0 - 0 (live)"
+      "time": "0 - 1 (live)"
     },
     {
       "tournamentEn": "🇰🇼 Kuwaiti Premier League",
@@ -530,7 +530,7 @@
       "tournamentAr": "🇩🇰 الدوري الدنماركي",
       "matchEn": "Brøndby v Lyngby",
       "matchAr": "بروندبي × لينغبي",
-      "time": "4 - 1 (live)"
+      "time": "5 - 1 (live)"
     },
     {
       "tournamentEn": "🇩🇰 Danish Superliga",
@@ -544,7 +544,7 @@
       "tournamentAr": "🇬🇷 الدوري اليوناني",
       "matchEn": "Iraklis v Levadiakos",
       "matchAr": "إراكليس × ليفادياكوس",
-      "time": "0 - 0 (live)"
+      "time": "2 - 0 (live)"
     },
     {
       "tournamentEn": "🇬🇷 Greek Super League",
@@ -894,7 +894,7 @@
       "tournamentAr": "🇳🇴 الدوري النرويجي",
       "matchEn": "Start v HamKam",
       "matchAr": "ستارت × هام كام",
-      "time": "0 - 0 (live)"
+      "time": "0 - 1 (live)"
     },
     {
       "tournamentEn": "🇳🇴 Norwegian Eliteserien",
@@ -936,7 +936,7 @@
       "tournamentAr": "🇵🇱 الدوري البولندي الممتاز",
       "matchEn": "Pogoń Szczecin v Korona Kielce",
       "matchAr": "بوغون شتشتين × كورونا كيلسي",
-      "time": "15:30"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇵🇱 Polish Ekstraklasa",
@@ -1013,7 +1013,7 @@
       "tournamentAr": "🇸🇮 الدوري السلوفيني",
       "matchEn": "Brinje Grosuplje v Maribor",
       "matchAr": "غروسوبليه × ماريبور",
-      "time": "15:30"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇧🇬 Bulgarian First League",
@@ -1160,7 +1160,7 @@
       "tournamentAr": "🇧🇦 دوري البوسنة والهرسك الممتاز",
       "matchEn": "Sloga Doboj v Zrinjski",
       "matchAr": "سلوجا دوبوج × زرينيسكي",
-      "time": "2 - 3 (live)"
+      "time": "2 - 4 (live)"
     },
     {
       "tournamentEn": "🇧🇦 Bosnia and Herzegovina Premier League",
