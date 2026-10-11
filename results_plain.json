@@ -68,7 +68,7 @@
       "tournamentAr": "🇫🇷 الدوري الفرنسي",
       "matchEn": "Nice v Strasbourg",
       "matchAr": "نيس × ستراسبورغ",
-      "time": "1 - 1 (live)"
+      "time": "2 - 1 (live)"
     },
     {
       "tournamentEn": "🇫🇷 French Ligue 1",
@@ -96,7 +96,7 @@
       "tournamentAr": "🇮🇹 الدوري الإيطالي",
       "matchEn": "Lecce v Bologna",
       "matchAr": "ليتشي × بولونيا",
-      "time": "1 - 1 (live)"
+      "time": "1 - 2 (live)"
     },
     {
       "tournamentEn": "🇮🇹 Italian Serie A",
@@ -355,7 +355,7 @@
       "tournamentAr": "🇹🇷 الدوري التركي",
       "matchEn": "Gaziantep v Corum",
       "matchAr": "غازي عنتاب × تشوروم",
-      "time": "0 - 2 (live)"
+      "time": "0 - 3 (live)"
     },
     {
       "tournamentEn": "🇹🇷 Turkish Super Lig",
@@ -530,7 +530,7 @@
       "tournamentAr": "🇩🇰 الدوري الدنماركي",
       "matchEn": "Brøndby v Lyngby",
       "matchAr": "بروندبي × لينغبي",
-      "time": "2 - 0 (live)"
+      "time": "3 - 0 (live)"
     },
     {
       "tournamentEn": "🇩🇰 Danish Superliga",
@@ -579,7 +579,7 @@
       "tournamentAr": "🇸🇪 الدوري السويدي الممتاز",
       "matchEn": "BK Häcken v Örgryte IS",
       "matchAr": "هكن × أورغريته",
-      "time": "0 - 0 (live)"
+      "time": "1 - 0 (live)"
     },
     {
       "tournamentEn": "🇺🇸 USA MLS",
@@ -782,14 +782,14 @@
       "tournamentAr": "🇸🇦 الدوري السعودي للشباب",
       "matchEn": "Al Faisaly v Al-Qadsiah",
       "matchAr": "الفيصلي × القادسية",
-      "time": "12:30"
+      "time": "1 - 0 (done)"
     },
     {
       "tournamentEn": "🇸🇦 Saudi Youth League",
       "tournamentAr": "🇸🇦 الدوري السعودي للشباب",
       "matchEn": "Al-Fayha v Al-Riyadh",
       "matchAr": "الفيحاء × الرياض",
-      "time": "12:30"
+      "time": "2 - 3 (done)"
     },
     {
       "tournamentEn": "🇸🇦 Saudi Youth League",
@@ -838,7 +838,7 @@
       "tournamentAr": "🇭🇺 الدوري المجري الممتاز",
       "matchEn": "Zalaegerszegi TE v Nyíregyháza Spartacus FC",
       "matchAr": "زالايغيرزيغي تورنا إغيليت × نيريجهيهازا سبارتاكوس",
-      "time": "5 - 1 (live)"
+      "time": "5 - 1 (done)"
     },
     {
       "tournamentEn": "🇭🇺 Hungarian Nemzeti Bajnokság I",
@@ -929,7 +929,7 @@
       "tournamentAr": "🇵🇱 الدوري البولندي الممتاز",
       "matchEn": "Piast Gliwice v Widzew Łódź",
       "matchAr": "بياست غليويس × فيدزيف وودج",
-      "time": "2 - 1 (live)"
+      "time": "2 - 1 (done)"
     },
     {
       "tournamentEn": "🇵🇱 Polish Ekstraklasa",
@@ -1153,14 +1153,14 @@
       "tournamentAr": "🇧🇦 دوري البوسنة والهرسك الممتاز",
       "matchEn": "Radnik Bijeljina v Zeljeznicar",
       "matchAr": "رادنيك بيلينا × جيلييزنيتشار",
-      "time": "2 - 1 (live)"
+      "time": "3 - 1 (live)"
     },
     {
       "tournamentEn": "🇧🇦 Bosnia and Herzegovina Premier League",
       "tournamentAr": "🇧🇦 دوري البوسنة والهرسك الممتاز",
       "matchEn": "Sloga Doboj v Zrinjski",
       "matchAr": "سلوجا دوبوج × زرينيسكي",
-      "time": "0 - 1 (live)"
+      "time": "0 - 2 (live)"
     },
     {
       "tournamentEn": "🇧🇦 Bosnia and Herzegovina Premier League",
@@ -1202,7 +1202,7 @@
       "tournamentAr": "🇺🇾 دوري الأوروغواي الممتاز",
       "matchEn": "Juventud v Racing Club",
       "matchAr": "خوفينتود × راسينغ",
-      "time": "1 - 0 (live)"
+      "time": "2 - 0 (live)"
     },
     {
       "tournamentEn": "🇺🇾 Uruguayan Primera División",
