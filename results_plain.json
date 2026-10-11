@@ -5,7 +5,7 @@
       "tournamentAr": "🇬🇧 الدوري الإنجليزي",
       "matchEn": "Hull City v Everton",
       "matchAr": "هال سيتي × إيفرتون",
-      "time": "0 - 0 (live)"
+      "time": "0 - 1 (live)"
     },
     {
       "tournamentEn": "🇬🇧 English Premier League",
@@ -54,7 +54,7 @@
       "tournamentAr": "🇩🇪 الدوري الألماني",
       "matchEn": "FC Cologne v Borussia Mönchengladbach",
       "matchAr": "كولن × بوروسيا مونشنغلادباخ",
-      "time": "13:30"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇩🇪 German Bundesliga",
@@ -348,7 +348,7 @@
       "tournamentAr": "🇹🇳 الدوري التونسي",
       "matchEn": "Espérance Sportive de Zarzis v Hammam-Sousse",
       "matchAr": "الترجي الجرجيسي × حمام سوسة",
-      "time": "13:30"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇹🇷 Turkish Super Lig",
@@ -453,7 +453,7 @@
       "tournamentAr": "🇷🇺 الدوري الروسي",
       "matchEn": "CSKA Moscow v Rodina Moscow",
       "matchAr": "سسكا موسكو × رودينا موسكفا",
-      "time": "13:30"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇷🇺 Russian Premier League",
@@ -488,14 +488,14 @@
       "tournamentAr": "🇨🇳 الدوري الصيني",
       "matchEn": "Chongqing Tonglianglong v Shandong Taishan",
       "matchAr": "تشونغتشينغ تونغليانغ لونغ × شاندونغ تايشان",
-      "time": "1 - 1 (live)"
+      "time": "1 - 1 (done)"
     },
     {
       "tournamentEn": "🇨🇳 Chinese Super League",
       "tournamentAr": "🇨🇳 الدوري الصيني",
       "matchEn": "Liaoning Tieren v Wuhan Three Towns",
       "matchAr": "لياونينغ تيرين × ووهان ثري تاونز",
-      "time": "1 - 1 (live)"
+      "time": "1 - 1 (done)"
     },
     {
       "tournamentEn": "🇨🇭 Swiss Super League",
@@ -866,7 +866,7 @@
       "tournamentAr": "🇷🇸 الدوري الصربي الممتاز",
       "matchEn": "Radnički Niš v Vojvodina",
       "matchAr": "رادنيتشكي نيش × فويفودينا",
-      "time": "0 - 1 (live)"
+      "time": "0 - 2 (live)"
     },
     {
       "tournamentEn": "🇷🇸 Serbian Super League",
@@ -1013,7 +1013,7 @@
       "tournamentAr": "🇸🇮 الدوري السلوفيني",
       "matchEn": "Nafta Lendava v Bravo",
       "matchAr": "نافتا × برافو",
-      "time": "0 - 0 (live)"
+      "time": "1 - 0 (live)"
     },
     {
       "tournamentEn": "🇸🇮 Slovenian PrvaLiga",
@@ -1027,7 +1027,7 @@
       "tournamentAr": "🇧🇬 الدوري البلغاري",
       "matchEn": "Septemvri Sofia v Dunav Ruse",
       "matchAr": "سبتمفري صوفيا × دوناف روس",
-      "time": "2 - 1 (live)"
+      "time": "2 - 2 (live)"
     },
     {
       "tournamentEn": "🇧🇬 Bulgarian First League",
