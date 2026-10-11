@@ -61,7 +61,7 @@
       "tournamentAr": "🇩🇪 الدوري الألماني",
       "matchEn": "Freiburg v Schalke 04",
       "matchAr": "فرايبورغ × شالكه 04",
-      "time": "1 - 0 (live)"
+      "time": "1 - 1 (live)"
     },
     {
       "tournamentEn": "🇫🇷 French Ligue 1",
@@ -110,7 +110,7 @@
       "tournamentAr": "🇮🇹 الدوري الإيطالي",
       "matchEn": "Sassuolo v Milan",
       "matchAr": "ساسولو × ميلان",
-      "time": "16:00"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇮🇹 Italian Serie A",
@@ -292,7 +292,7 @@
       "tournamentAr": "🏆 كأس ملك إسبانيا",
       "matchEn": "Prato v San Rafael",
       "matchAr": "برات × سان رافائيل",
-      "time": "5 - 0 (live)"
+      "time": "5 - 0 (done)"
     },
     {
       "tournamentEn": "🇪🇬 Egyptian Premier League",
@@ -362,7 +362,7 @@
       "tournamentAr": "🇹🇷 الدوري التركي",
       "matchEn": "Beşiktaş v Kocaelispor",
       "matchAr": "بشكتاش × كوجالي سبور",
-      "time": "16:00"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇧🇪 Belgian Pro League",
@@ -425,14 +425,14 @@
       "tournamentAr": "🇧🇭 الدوري البحريني",
       "matchEn": "Sitra v Al-Najma",
       "matchAr": "سترة × النجمة",
-      "time": "16:00"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇧🇭 Bahraini Premier League",
       "tournamentAr": "🇧🇭 الدوري البحريني",
       "matchEn": "East Riffa v A'ali",
       "matchAr": "الرفاع الشرقي × عالي",
-      "time": "16:00"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇷🇺 Russian Premier League",
@@ -551,7 +551,7 @@
       "tournamentAr": "🇬🇷 الدوري اليوناني",
       "matchEn": "Kifisia v Panetolikos",
       "matchAr": "كيفيسيا × بانيتوليكوس",
-      "time": "2 - 0 (live)"
+      "time": "2 - 0 (done)"
     },
     {
       "tournamentEn": "🇬🇷 Greek Super League",
@@ -831,7 +831,7 @@
       "tournamentAr": "🇭🇷 الدوري الكرواتي الممتاز",
       "matchEn": "Slaven Belupo v Rijeka",
       "matchAr": "سلافن بيلوبو × رييكا",
-      "time": "16:00"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇭🇺 Hungarian Nemzeti Bajnokság I",
@@ -964,7 +964,7 @@
       "tournamentAr": "🇨🇿 الدوري التشيكي الممتاز",
       "matchEn": "Sparta Prague v FK Pardubice",
       "matchAr": "سبارتا براغ × باردوبيس",
-      "time": "16:00"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇺🇦 Ukrainian Premier League",
@@ -1048,7 +1048,7 @@
       "tournamentAr": "🇸🇰 الدوري السلوفاكي",
       "matchEn": "Podbrezová v Spartak Trnava",
       "matchAr": "بودبريزوفا × سبارتاك ترنافا",
-      "time": "16:00"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇦🇱 Albanian Super League",
@@ -1188,7 +1188,7 @@
       "tournamentAr": "🇨🇾 الدوري القبرصي",
       "matchEn": "AEL Limassol v Omonia 29 May",
       "matchAr": "أيل ليماسول × أومونيا 29 مايو",
-      "time": "16:00"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🇨🇾 Cypriot First Division",
