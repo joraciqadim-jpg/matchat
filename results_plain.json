@@ -17,14 +17,14 @@
     {
       "tournamentEn": "🛡️ AFC Champions League Elite",
       "tournamentAr": "🛡️ دوري أبطال آسيا للنخبة",
-      "matchEn": "Tractor (Iran) v Al Shamal (Qatar SC)",
+      "matchEn": "Tractor SC (Iran) v Al Shamal (Qatar SC)",
       "matchAr": "تراكتور (إيران) × الشمال (قطر)",
       "time": "16:00"
     },
     {
       "tournamentEn": "🛡️ AFC Champions League Elite",
       "tournamentAr": "🛡️ دوري أبطال آسيا للنخبة",
-      "matchEn": "Al-Nassr (Saudi Arabia) v Neftchi (Uzbekistan)",
+      "matchEn": "Al-Nassr (Saudi Arabia) v Neftçi (Uzbekistan)",
       "matchAr": "النصر (السعودية) × نيفتشي (أوزبكستان)",
       "time": "18:15"
     },
@@ -164,7 +164,7 @@
     {
       "tournamentEn": "🇲🇦 Moroccan League",
       "tournamentAr": "🇲🇦 الدوري المغربي",
-      "matchEn": "Hassania Agadir v AS FAR Rabat",
+      "matchEn": "Hassania Agadir v AS FAR",
       "matchAr": "حسنية أكادير × الجيش الملكي",
       "time": "20:00"
     },
@@ -213,7 +213,7 @@
     {
       "tournamentEn": "🏁 Libyan Premier League",
       "tournamentAr": "🏁 الدوري الليبي",
-      "matchEn": "Chabab El Gara v Al-Ittihad Al-Misrati",
+      "matchEn": "Shabab Al-Ghar v Al-Ittihad Al-Misrati",
       "matchAr": "شباب الغار × الإتحاد المصراتي",
       "time": "13:30"
     },
@@ -227,14 +227,14 @@
     {
       "tournamentEn": "🇱🇧 Lebanese Premier League",
       "tournamentAr": "🇱🇧 الدوري اللبناني",
-      "matchEn": "Al-Riyadi Abbasiyah v Al-Ansar",
+      "matchEn": "Al-Riyadi Al-Abbasiya v Al-Ansar",
       "matchAr": "الرياضي العباسية × الأنصار",
       "time": "12:00"
     },
     {
       "tournamentEn": "🇱🇧 Lebanese Premier League",
       "tournamentAr": "🇱🇧 الدوري اللبناني",
-      "matchEn": "Tripoli SC v Al-Akhaa Al-Ahli Aley",
+      "matchEn": "Tripoli SC v Al-Ekhaa Al-Ahli Aley",
       "matchAr": "طرابلس الرياضي × الإخاء الأهلي عاليه",
       "time": "12:00"
     },
@@ -302,35 +302,35 @@
       "time": "01:15"
     },
     {
-      "tournamentEn": "🇸🇦 Saudi Joie Elite League Under-21",
+      "tournamentEn": "🇸🇦 Saudi Joie Elite League U21",
       "tournamentAr": "🇸🇦 دوري جوّي للنخبة السعودي تحت 21",
       "matchEn": "Al-Khaleej v Al-Taawoun",
       "matchAr": "الخليج × التعاون",
       "time": "13:25"
     },
     {
-      "tournamentEn": "🇸🇦 Saudi Joie Elite League Under-21",
+      "tournamentEn": "🇸🇦 Saudi Joie Elite League U21",
       "tournamentAr": "🇸🇦 دوري جوّي للنخبة السعودي تحت 21",
       "matchEn": "Al Ettifaq v Al Faisaly",
       "matchAr": "الاتفاق × الفيصلي",
       "time": "14:55"
     },
     {
-      "tournamentEn": "🇸🇦 Saudi Joie Elite League Under-21",
+      "tournamentEn": "🇸🇦 Saudi Joie Elite League U21",
       "tournamentAr": "🇸🇦 دوري جوّي للنخبة السعودي تحت 21",
       "matchEn": "Al-Riyadh v Neom",
       "matchAr": "الرياض × نيوم",
       "time": "15:05"
     },
     {
-      "tournamentEn": "🇸🇦 Saudi Joie Elite League Under-21",
+      "tournamentEn": "🇸🇦 Saudi Joie Elite League U21",
       "tournamentAr": "🇸🇦 دوري جوّي للنخبة السعودي تحت 21",
-      "matchEn": "Al-Hilal v Al-Watani",
+      "matchEn": "Al-Hilal v Al-Watan",
       "matchAr": "الهلال × الوطن",
       "time": "15:05"
     },
     {
-      "tournamentEn": "🇸🇦 Saudi Joie Elite League Under-21",
+      "tournamentEn": "🇸🇦 Saudi Joie Elite League U21",
       "tournamentAr": "🇸🇦 دوري جوّي للنخبة السعودي تحت 21",
       "matchEn": "Al Ahli v Al Wahda",
       "matchAr": "الأهلي × الوحدة",
@@ -395,7 +395,7 @@
     {
       "tournamentEn": "🇺🇦 Ukrainian Premier League",
       "tournamentAr": "🇺🇦 الدوري الأوكراني الممتاز",
-      "matchEn": "Levi Bira v Zorya Luhansk",
+      "matchEn": "Levi Bera v Zorya Luhansk",
       "matchAr": "ليفي بيره × زوريا لوهانسك",
       "time": "10:00"
     },
@@ -451,14 +451,14 @@
     {
       "tournamentEn": "🇨🇦 Canadian Premier League",
       "tournamentAr": "🇨🇦 الدوري الكندي الممتاز",
-      "matchEn": "Forge FC v York United FC",
+      "matchEn": "Forge FC v York United",
       "matchAr": "فورج × يورك يونايتد",
       "time": "17:00"
     },
     {
       "tournamentEn": "🇨🇦 Canadian Premier League",
       "tournamentAr": "🇨🇦 الدوري الكندي الممتاز",
-      "matchEn": "Halifax Wanderers FC v Cavalry FC",
+      "matchEn": "Halifax Wanderers v Cavalry FC",
       "matchAr": "هاليفاكس واندررز × كافالري",
       "time": "20:00"
     },
