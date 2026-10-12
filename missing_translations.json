@@ -2967,20 +2967,20 @@
     "en": "Venezia",
     "ar": "فينيزيا"
   },
-  "tractor": {
-    "en": "Tractor",
+  "tractor sc": {
+    "en": "Tractor SC",
     "ar": "تراكتور"
   },
-  "neftchi": {
-    "en": "Neftchi",
+  "neftci": {
+    "en": "Neftçi",
     "ar": "نيفتشي"
   },
   "hassania agadir": {
     "en": "Hassania Agadir",
     "ar": "حسنية أكادير"
   },
-  "as far rabat": {
-    "en": "AS FAR Rabat",
+  "as far": {
+    "en": "AS FAR",
     "ar": "الجيش الملكي"
   },
   "js el biar": {
@@ -3023,8 +3023,8 @@
     "en": "Göztepe",
     "ar": "جوزتيبي"
   },
-  "chabab el gara": {
-    "en": "Chabab El Gara",
+  "shabab alghar": {
+    "en": "Shabab Al-Ghar",
     "ar": "شباب الغار"
   },
   "alittihad almisrati": {
@@ -3043,16 +3043,16 @@
     "en": "Al-Sabah",
     "ar": "الصباح"
   },
-  "alriyadi abbasiyah": {
-    "en": "Al-Riyadi Abbasiyah",
+  "alriyadi alabbasiya": {
+    "en": "Al-Riyadi Al-Abbasiya",
     "ar": "الرياضي العباسية"
   },
   "alansar": {
     "en": "Al-Ansar",
     "ar": "الأنصار"
   },
-  "alakhaa alahli aley": {
-    "en": "Al-Akhaa Al-Ahli Aley",
+  "alekhaa alahli aley": {
+    "en": "Al-Ekhaa Al-Ahli Aley",
     "ar": "الإخاء الأهلي عاليه"
   },
   "tadamon sour": {
@@ -3072,11 +3072,11 @@
     "ar": "باوك"
   },
   "saudi joie elite league": {
-    "en": "Saudi Joie Elite League Under-21",
+    "en": "Saudi Joie Elite League U21",
     "ar": "دوري جوّي للنخبة السعودي تحت 21"
   },
-  "alwatani": {
-    "en": "Al-Watani",
+  "alwatan": {
+    "en": "Al-Watan",
     "ar": "الوطن"
   },
   "djibouti": {
@@ -3091,8 +3091,8 @@
     "en": "KFUM",
     "ar": "كفوم"
   },
-  "levi bira": {
-    "en": "Levi Bira",
+  "levi bera": {
+    "en": "Levi Bera",
     "ar": "ليفي بيره"
   },
   "zorya luhansk": {
@@ -3139,12 +3139,12 @@
     "en": "Forge FC",
     "ar": "فورج"
   },
-  "york united fc": {
-    "en": "York United FC",
+  "york united": {
+    "en": "York United",
     "ar": "يورك يونايتد"
   },
-  "halifax wanderers fc": {
-    "en": "Halifax Wanderers FC",
+  "halifax wanderers": {
+    "en": "Halifax Wanderers",
     "ar": "هاليفاكس واندررز"
   },
   "cavalry fc": {
