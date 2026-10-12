@@ -358,5 +358,257 @@
   "independiente medellin": {
     "en": "Independiente Medellín",
     "ar": "إنديبيندينتي ميديلين"
+  },
+  "arsenal": {
+    "en": "Arsenal",
+    "ar": "آرسنال"
+  },
+  "viking": {
+    "en": "Viking",
+    "ar": "فايكنغ"
+  },
+  "eindhoven": {
+    "en": "Eindhoven",
+    "ar": "آيندهوفن"
+  },
+  "shanghai": {
+    "en": "Shanghai",
+    "ar": "شنغهاي"
+  },
+  "daejeon citizen": {
+    "en": "Daejeon Citizen",
+    "ar": "دايجيون سيتيزن"
+  },
+  "hanoi police": {
+    "en": "Hanoi Police",
+    "ar": "كونغ آن هانوي"
+  },
+  "kashima antlers": {
+    "en": "Kashima Antlers",
+    "ar": "كاشيما انتلرز"
+  },
+  "sultanate of oman": {
+    "en": "Sultanate of Oman",
+    "ar": "سلطنة عمان"
+  },
+  "gulf champions league": {
+    "en": "Gulf Champions League",
+    "ar": "دوري أبطال الخليج"
+  },
+  "alriffa": {
+    "en": "Al-Riffa",
+    "ar": "الرفاع"
+  },
+  "shaab hadramout": {
+    "en": "Shaab Hadramout",
+    "ar": "شعب حضرموت"
+  },
+  "alittihad alexandria": {
+    "en": "Al-Ittihad Alexandria",
+    "ar": "الاتحاد السكندري"
+  },
+  "suez petrojet": {
+    "en": "Suez Petrojet",
+    "ar": "السويس بتروجيت"
+  },
+  "renaissance berkane": {
+    "en": "Renaissance Berkane",
+    "ar": "نهضة بركان"
+  },
+  "renaissance zemamra": {
+    "en": "Renaissance Zemamra",
+    "ar": "نهضة الزمامرة"
+  },
+  "fath rabat": {
+    "en": "Fath Rabat",
+    "ar": "الفتح الرباطي"
+  },
+  "raja club athletic": {
+    "en": "Raja Club Athletic",
+    "ar": "الرجاء الرياضي"
+  },
+  "us biskra": {
+    "en": "US Biskra",
+    "ar": "إتحاد بسكرة"
+  },
+  "mc oran": {
+    "en": "MC Oran",
+    "ar": "مولودية وهران"
+  },
+  "aso chlef": {
+    "en": "ASO Chlef",
+    "ar": "أولمبي الشلف"
+  },
+  "mc alger": {
+    "en": "MC Alger",
+    "ar": "مولودية الجزائر"
+  },
+  "usm alger": {
+    "en": "USM Alger",
+    "ar": "إتحاد الجزائر"
+  },
+  "js saoura": {
+    "en": "JS Saoura",
+    "ar": "شبيبة الساورة"
+  },
+  "albukayriyah": {
+    "en": "Al-Bukayriyah",
+    "ar": "البكيرية"
+  },
+  "alzulfi": {
+    "en": "Al-Zulfi",
+    "ar": "الزلفي"
+  },
+  "alsaqr": {
+    "en": "Al-Saqr",
+    "ar": "الصقر"
+  },
+  "aljil": {
+    "en": "Al-Jil",
+    "ar": "الجيل"
+  },
+  "west bromwich albion": {
+    "en": "West Bromwich Albion",
+    "ar": "وست بروميتش"
+  },
+  "english championship": {
+    "en": "English Championship",
+    "ar": "تشامبيونشيب"
+  },
+  "preston north end": {
+    "en": "Preston North End",
+    "ar": "بريستون نورث إيند"
+  },
+  "gillingham": {
+    "en": "Gillingham",
+    "ar": "غيلينغهام"
+  },
+  "english league cup": {
+    "en": "English League Cup",
+    "ar": "كأس رابطة الدوري الإنجليزي"
+  },
+  "reading": {
+    "en": "Reading",
+    "ar": "ريدنغ"
+  },
+  "walsall": {
+    "en": "Walsall",
+    "ar": "ولسول"
+  },
+  "cheltenham town": {
+    "en": "Cheltenham Town",
+    "ar": "تشيلتنهام تاون"
+  },
+  "tottenham hotspur": {
+    "en": "Tottenham Hotspur",
+    "ar": "توتنهام"
+  },
+  "oldham athletic": {
+    "en": "Oldham Athletic",
+    "ar": "أولدهام أثليتيك"
+  },
+  "nottingham forest": {
+    "en": "Nottingham Forest",
+    "ar": "نوتينغهام فورست"
+  },
+  "alsadaqa": {
+    "en": "Al-Sadaqa",
+    "ar": "الصداقة"
+  },
+  "darnes": {
+    "en": "Darnes",
+    "ar": "دارنس"
+  },
+  "almadina": {
+    "en": "Al-Madina",
+    "ar": "المدينة"
+  },
+  "tripoli sporting club": {
+    "en": "Tripoli Sporting Club",
+    "ar": "طرابلس الرياضي"
+  },
+  "alahly alakhaa aley": {
+    "en": "Al-Ahly Al-Akhaa Aley",
+    "ar": "الإخاء الأهلي عاليه"
+  },
+  "jwayya": {
+    "en": "Jwayya",
+    "ar": "جويا"
+  },
+  "alhikma": {
+    "en": "Al-Hikma",
+    "ar": "الحكمة"
+  },
+  "alahed": {
+    "en": "Al-Ahed",
+    "ar": "العهد"
+  },
+  "almabarra": {
+    "en": "Al-Mabarra",
+    "ar": "المبرة"
+  },
+  "spartak kostroma": {
+    "en": "Spartak Kostroma",
+    "ar": "سبارتك كوستروما"
+  },
+  "akron tolyatti": {
+    "en": "Akron Tolyatti",
+    "ar": "أكرون تولياتي"
+  },
+  "fakel": {
+    "en": "Fakel",
+    "ar": "فاكيل"
+  },
+  "copa sudamericana": {
+    "en": "Copa Sudamericana",
+    "ar": "كوبا سود أمريكانا"
+  },
+  "ts galaxy": {
+    "en": "TS Galaxy",
+    "ar": "تي إس جالاكسي"
+  },
+  "south african premier division": {
+    "en": "South African Premier Division",
+    "ar": "دوري جنوب أفريقيا"
+  },
+  "mamelodi sundowns": {
+    "en": "Mamelodi Sundowns",
+    "ar": "ماميلودي صن داونز"
+  },
+  "durban city": {
+    "en": "Durban City",
+    "ar": "دوربان سيتي"
+  },
+  "al tadhamon": {
+    "en": "Al Tadhamon",
+    "ar": "التضامن"
+  },
+  "alokhdood": {
+    "en": "Al-Okhdood",
+    "ar": "الأخدود"
+  },
+  "alorobah": {
+    "en": "Al-Orobah",
+    "ar": "العروبة"
+  },
+  "alansar": {
+    "en": "Al-Ansar",
+    "ar": "الأنصار"
+  },
+  "uefa youth league": {
+    "en": "UEFA Youth League",
+    "ar": "دوري أبطال أوروبا للشباب"
+  },
+  "lincoln red imps": {
+    "en": "Lincoln Red Imps",
+    "ar": "لينكولن ريد أمبس"
+  },
+  "zrinjski": {
+    "en": "Zrinjski",
+    "ar": "زرنجسكي"
+  },
+  "millonarios": {
+    "en": "Millonarios",
+    "ar": "ميلوناريوس"
   }
 }
