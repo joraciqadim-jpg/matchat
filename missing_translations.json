@@ -1,12 +1,4 @@
 {
-  "Dukla Prague": {
-    "en": "Dukla Prague",
-    "ar": "دوكلا براغ"
-  },
-  "Baník Ostrava II": {
-    "en": "Baník Ostrava 2",
-    "ar": "بانيك أوسترافا 2"
-  },
   "Estudiantes Río Cuarto": {
     "en": "Estudiantes Río Cuarto",
     "ar": "إستوديانتس ريو كوارتو"
@@ -2966,5 +2958,197 @@
   "soliman pss": {
     "en": "Soliman PSS",
     "ar": "سليمان PSS"
+  },
+  "atalanta": {
+    "en": "Atalanta",
+    "ar": "أتالانتا"
+  },
+  "venezia": {
+    "en": "Venezia",
+    "ar": "فينيزيا"
+  },
+  "tractor": {
+    "en": "Tractor",
+    "ar": "تراكتور"
+  },
+  "neftchi": {
+    "en": "Neftchi",
+    "ar": "نيفتشي"
+  },
+  "hassania agadir": {
+    "en": "Hassania Agadir",
+    "ar": "حسنية أكادير"
+  },
+  "as far rabat": {
+    "en": "AS FAR Rabat",
+    "ar": "الجيش الملكي"
+  },
+  "js el biar": {
+    "en": "JS El Biar",
+    "ar": "شبيبة الأبيار"
+  },
+  "cr belouizdad": {
+    "en": "CR Belouizdad",
+    "ar": "شباب بلوزداد"
+  },
+  "usm khenchela": {
+    "en": "USM Khenchela",
+    "ar": "إتحاد خنشلة"
+  },
+  "cs constantine": {
+    "en": "CS Constantine",
+    "ar": "النادي القسنطيني"
+  },
+  "aladalah": {
+    "en": "Al-Adalah",
+    "ar": "العدالة"
+  },
+  "alanwar": {
+    "en": "Al-Anwar",
+    "ar": "الأنوار"
+  },
+  "saudi first division league": {
+    "en": "Saudi First Division League",
+    "ar": "دوري الدرجة الأولى السعودي"
+  },
+  "altai": {
+    "en": "Al-Tai",
+    "ar": "الطائي"
+  },
+  "eyupspor": {
+    "en": "Eyüpspor",
+    "ar": "إيوبسبور"
+  },
+  "goztepe": {
+    "en": "Göztepe",
+    "ar": "جوزتيبي"
+  },
+  "chabab el gara": {
+    "en": "Chabab El Gara",
+    "ar": "شباب الغار"
+  },
+  "alittihad almisrati": {
+    "en": "Al-Ittihad Al-Misrati",
+    "ar": "الإتحاد المصراتي"
+  },
+  "libyan premier league": {
+    "en": "Libyan Premier League",
+    "ar": "الدوري الليبي"
+  },
+  "alolympic": {
+    "en": "Al-Olympic",
+    "ar": "الأولمبي"
+  },
+  "alsabah": {
+    "en": "Al-Sabah",
+    "ar": "الصباح"
+  },
+  "alriyadi abbasiyah": {
+    "en": "Al-Riyadi Abbasiyah",
+    "ar": "الرياضي العباسية"
+  },
+  "alansar": {
+    "en": "Al-Ansar",
+    "ar": "الأنصار"
+  },
+  "alakhaa alahli aley": {
+    "en": "Al-Akhaa Al-Ahli Aley",
+    "ar": "الإخاء الأهلي عاليه"
+  },
+  "tadamon sour": {
+    "en": "Tadamon Sour",
+    "ar": "التضامن صور"
+  },
+  "aarhus gymnastikforening": {
+    "en": "Aarhus Gymnastikforening",
+    "ar": "آرهوس جمناستيك"
+  },
+  "snderjyske": {
+    "en": "Sønderjyske",
+    "ar": "سونويوسك"
+  },
+  "paok": {
+    "en": "PAOK",
+    "ar": "باوك"
+  },
+  "saudi joie elite league": {
+    "en": "Saudi Joie Elite League Under-21",
+    "ar": "دوري جوّي للنخبة السعودي تحت 21"
+  },
+  "alwatani": {
+    "en": "Al-Watani",
+    "ar": "الوطن"
+  },
+  "djibouti": {
+    "en": "Djibouti",
+    "ar": "جيبوتي"
+  },
+  "ofk beograd": {
+    "en": "OFK Beograd",
+    "ar": "أو إف كيه بيوغراد"
+  },
+  "kfum": {
+    "en": "KFUM",
+    "ar": "كفوم"
+  },
+  "levi bira": {
+    "en": "Levi Bira",
+    "ar": "ليفي بيره"
+  },
+  "zorya luhansk": {
+    "en": "Zorya Luhansk",
+    "ar": "زوريا لوهانسك"
+  },
+  "arges": {
+    "en": "Argeș",
+    "ar": "أرجيس"
+  },
+  "cluj": {
+    "en": "Cluj",
+    "ar": "كلوج"
+  },
+  "universitatea cluj": {
+    "en": "Universitatea Cluj",
+    "ar": "يونيفيرسيتاتيا كلوج"
+  },
+  "ludogorets": {
+    "en": "Ludogorets",
+    "ar": "لودوغورتس"
+  },
+  "vaasan palloseura": {
+    "en": "Vaasan Palloseura",
+    "ar": "فاسان بالوسيورا"
+  },
+  "gnistan": {
+    "en": "Gnistan",
+    "ar": "غنيستان"
+  },
+  "oulu": {
+    "en": "Oulu",
+    "ar": "أولو"
+  },
+  "helsinki": {
+    "en": "Helsinki",
+    "ar": "هلسنكي"
+  },
+  "aek larnaca": {
+    "en": "AEK Larnaca",
+    "ar": "آيك لارناكا"
+  },
+  "forge fc": {
+    "en": "Forge FC",
+    "ar": "فورج"
+  },
+  "york united fc": {
+    "en": "York United FC",
+    "ar": "يورك يونايتد"
+  },
+  "halifax wanderers fc": {
+    "en": "Halifax Wanderers FC",
+    "ar": "هاليفاكس واندررز"
+  },
+  "cavalry fc": {
+    "en": "Cavalry FC",
+    "ar": "كافالري"
   }
 }
