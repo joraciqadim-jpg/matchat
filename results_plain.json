@@ -278,7 +278,7 @@
       "tournamentAr": "🇺🇸 الدوري الأمريكي",
       "matchEn": "St. Louis City v LA Galaxy",
       "matchAr": "سانت لويس سيتي × لوس أنجلوس جالاكسي",
-      "time": "5 - 1 (live)"
+      "time": "6 - 1 (live)"
     },
     {
       "tournamentEn": "🇲🇽 Mexican Liga MX",
@@ -391,6 +391,13 @@
       "matchEn": "Radomiak Radom v Motor Lublin",
       "matchAr": "رادومياك رادوم × موتور لوبلين",
       "time": "16:00"
+    },
+    {
+      "tournamentEn": "🇵🇱 Polish Ekstraklasa",
+      "tournamentAr": "🇵🇱 الدوري البولندي الممتاز",
+      "matchEn": "Katowice v Wieczysta Kraków",
+      "matchAr": "كاتوايس × ويكزيستا كراكوف",
+      "time": "18:30"
     },
     {
       "tournamentEn": "🇺🇦 Ukrainian Premier League",
