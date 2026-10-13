@@ -3,27 +3,6 @@
     {
       "tournamentEn": "🛡️ AFC Champions League Elite",
       "tournamentAr": "🛡️ دوري أبطال آسيا للنخبة",
-      "matchEn": "Al Sadd (Qatar) v Al-Hilal (Saudi Arabia)",
-      "matchAr": "السد (قطر) × الهلال (السعودية)",
-      "time": "16:00",
-      "channels": [
-        "📺 Canal 11 [Hispasat 30W 12437 H 27500]",
-        "📺 Bein Sport 2 [Nilesat 7.0W 11013 H 27500]",
-        "📺 Diema Sport 3 [Hotbird 13.0E 12673 V 30000]",
-        "📺 Sport Klub 1 HRV [Eutelsat 16.0E 11471 H 30000]",
-        "📺 Sport Klub 2 SLO [Eutelsat 16.0E 11387 H 32000]",
-        "📺 Sportdigital 1+ [Astra 19.2E 11186 V 22000]",
-        "📺 ESPN 2 Netherlands [Eutelsat 23.5E 11856 V 29900]",
-        "📺 Bein Sport 2 [Badrsat 26.0E 10810 H 27500]",
-        "📺 Al Kass Five [Badrsat 26.0E 10770 H 27500]",
-        "📺 Sporty TV [Eutelsat 36.0E 12265 V 27500]",
-        "📺 Spor Smart [Turksat 42.0E 12188 V 27500]",
-        "📺 Persiana Sports 1 [Turkmenlem 52.0E 11343 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🛡️ AFC Champions League Elite",
-      "tournamentAr": "🛡️ دوري أبطال آسيا للنخبة",
       "matchEn": "Al-Ittihad (Saudi Arabia) v Shabab Al Ahli (UAE)",
       "matchAr": "الاتحاد (السعودية) × شباب الأهلي (الإمارات)",
       "time": "18:15",
@@ -343,22 +322,6 @@
         "📺 Bein Sport 8 [Badrsat 26.0E 10810 V 27500]",
         "📺 TNT Sports 6 [Astra 28.2E 11597 V 22000]",
         "📺 SuperSport LaLiga [Eutelsat 36.0E 12169 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🛡️ AFC Champions League Two",
-      "tournamentAr": "🛡️ دوري أبطال آسيا 2",
-      "matchEn": "Al Seeb (Oman) v Al-Hussein Irbid (Jordan)",
-      "matchAr": "السيب (عُمان) × الحسين إربد (الأردن)",
-      "time": "16:00",
-      "channels": [
-        "📺 Bein Sport 5 [Nilesat 7.0W 12188 H 27500]",
-        "📺 Nova Sport BUL [Hotbird 13.0E 12654 H 30000]",
-        "📺 Sport Klub 3 HRV [Eutelsat 16.0E 11387 H 32000]",
-        "📺 Sport Klub 3 SLO [Eutelsat 16.0E 11231 V 42000]",
-        "📺 Bein Sport 5 [Badrsat 26.0E 10810 H 27500]",
-        "📺 Al Kass Six [Badrsat 26.0E 10770 H 27500]",
-        "📺 Spor Smart 2 [Turksat 42.0E 12245 H 27500]"
       ]
     },
     {
