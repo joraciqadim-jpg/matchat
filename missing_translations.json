@@ -646,5 +646,345 @@
   "atletico bucaramanga": {
     "en": "Atlético Bucaramanga",
     "ar": "أتليتيكو بوكارامانغا"
+  },
+  "lask": {
+    "en": "LASK",
+    "ar": "لاسك"
+  },
+  "feyenoord": {
+    "en": "Feyenoord",
+    "ar": "فاينورد"
+  },
+  "aek athens": {
+    "en": "AEK Athens",
+    "ar": "آيك أثينا"
+  },
+  "vissel kobe": {
+    "en": "Vissel Kobe",
+    "ar": "فيسيل كوبي"
+  },
+  "jeonbuk hyundai motors": {
+    "en": "Jeonbuk Hyundai Motors",
+    "ar": "جيونبك هيونداي"
+  },
+  "melbourne victory": {
+    "en": "Melbourne Victory",
+    "ar": "ميلبورن فيكتوري"
+  },
+  "seoul": {
+    "en": "Seoul",
+    "ar": "سيئول"
+  },
+  "persib": {
+    "en": "Persib",
+    "ar": "بيرسيب"
+  },
+  "gol gohar sirjan": {
+    "en": "Gol Gohar Sirjan",
+    "ar": "غل غهر سيرجان"
+  },
+  "erbil": {
+    "en": "Erbil",
+    "ar": "أربيل"
+  },
+  "kazma": {
+    "en": "Kazma",
+    "ar": "كاظمة"
+  },
+  "ittihad tanger": {
+    "en": "Ittihad Tanger",
+    "ar": "إتحاد طنجة"
+  },
+  "maghreb fes": {
+    "en": "Maghreb Fès",
+    "ar": "المغرب الفاسي"
+  },
+  "es setif": {
+    "en": "ES Sétif",
+    "ar": "وفاق سطيف"
+  },
+  "js kabylie": {
+    "en": "JS Kabylie",
+    "ar": "شبيبة القبائل"
+  },
+  "chabab ain temouchent": {
+    "en": "Chabab Aïn Témouchent",
+    "ar": "شباب عين تيموشنت"
+  },
+  "mouloudia baladiat rouissat": {
+    "en": "Mouloudia Baladiat Rouissat",
+    "ar": "مستقبل الرويسات"
+  },
+  "hajer": {
+    "en": "Hajer",
+    "ar": "هجر"
+  },
+  "aljandal": {
+    "en": "Al-Jandal",
+    "ar": "الجندل"
+  },
+  "alraed": {
+    "en": "Al-Raed",
+    "ar": "الرائد"
+  },
+  "uniao de santarem": {
+    "en": "União de Santarém",
+    "ar": "يونيون سانتاريم"
+  },
+  "club africain": {
+    "en": "Club Africain",
+    "ar": "الأفريقي"
+  },
+  "alsharara": {
+    "en": "Al-Sharara",
+    "ar": "الشرارة"
+  },
+  "khaleej sirte": {
+    "en": "Khaleej Sirte",
+    "ar": "خليج سرت"
+  },
+  "alakhdar": {
+    "en": "Al-Akhdar",
+    "ar": "الأخضر"
+  },
+  "almalaab allibi": {
+    "en": "Al-Malaab Al-Libi",
+    "ar": "الملعب الليبي"
+  },
+  "almajd": {
+    "en": "Al-Majd",
+    "ar": "المجد"
+  },
+  "alshomou": {
+    "en": "Al-Shomou",
+    "ar": "الشموع"
+  },
+  "skakhabarovsk": {
+    "en": "SKA-Khabarovsk",
+    "ar": "خاباروفسك"
+  },
+  "volna kovernino": {
+    "en": "Volna Kovernino",
+    "ar": "فولنا كوفرنينو"
+  },
+  "fc kaluga": {
+    "en": "FC Kaluga",
+    "ar": "كالوغا"
+  },
+  "lukienergiya": {
+    "en": "Luki-Energiya",
+    "ar": "لوكي إنيرجيا"
+  },
+  "dynamo makhachkala": {
+    "en": "Dynamo Makhachkala",
+    "ar": "دينامو مخاتشكالا"
+  },
+  "zenit": {
+    "en": "Zenit",
+    "ar": "زينيت"
+  },
+  "chertanovo": {
+    "en": "Chertanovo",
+    "ar": "تشيرتانوفو"
+  },
+  "nizhny novgorod": {
+    "en": "Nizhny Novgorod",
+    "ar": "نيجني نوفغورود"
+  },
+  "shinnik yaroslavl": {
+    "en": "Shinnik Yaroslavl",
+    "ar": "شينيك ياروسلافل"
+  },
+  "cska moscow": {
+    "en": "CSKA Moscow",
+    "ar": "سسكا موسكو"
+  },
+  "atletico mineiro": {
+    "en": "Atlético Mineiro",
+    "ar": "أتليتيكو مينيرو"
+  },
+  "montevideo city torque": {
+    "en": "Montevideo City Torque",
+    "ar": "مونتيفيديو سيتي توركيه"
+  },
+  "uruguay": {
+    "en": "Uruguay",
+    "ar": "الأوروغواي"
+  },
+  "new york city fc": {
+    "en": "New York City FC",
+    "ar": "نيويورك سيتي"
+  },
+  "columbus crew": {
+    "en": "Columbus Crew",
+    "ar": "كولومبوس كرو"
+  },
+  "charlotte fc": {
+    "en": "Charlotte FC",
+    "ar": "شارلوت"
+  },
+  "fc cincinnati": {
+    "en": "FC Cincinnati",
+    "ar": "سينسيناتي"
+  },
+  "new england revolution": {
+    "en": "New England Revolution",
+    "ar": "نيو إنجلاند"
+  },
+  "toronto fc": {
+    "en": "Toronto FC",
+    "ar": "تورونتو"
+  },
+  "orlando city": {
+    "en": "Orlando City",
+    "ar": "أورلاندو سيتي"
+  },
+  "montreal impact": {
+    "en": "Montreal Impact",
+    "ar": "مونتريال إمباكت"
+  },
+  "dc united": {
+    "en": "D.C. United",
+    "ar": "دي سي يونايتد"
+  },
+  "new york red bulls": {
+    "en": "New York Red Bulls",
+    "ar": "نيويورك RB"
+  },
+  "chicago fire": {
+    "en": "Chicago Fire",
+    "ar": "شيكاغو فاير"
+  },
+  "philadelphia union": {
+    "en": "Philadelphia Union",
+    "ar": "فيلادلفيا يونيون"
+  },
+  "nashville sc": {
+    "en": "Nashville SC",
+    "ar": "ناشفيل"
+  },
+  "colorado rapids": {
+    "en": "Colorado Rapids",
+    "ar": "كولورادو رابيدز"
+  },
+  "minnesota united fc": {
+    "en": "Minnesota United FC",
+    "ar": "مينيسوتا يونايتد"
+  },
+  "real salt lake": {
+    "en": "Real Salt Lake",
+    "ar": "ريال سالت ليك"
+  },
+  "san jose earthquakes": {
+    "en": "San Jose Earthquakes",
+    "ar": "SJ إيرثكويكس"
+  },
+  "los angeles fc": {
+    "en": "Los Angeles FC",
+    "ar": "لوس أنجلوس"
+  },
+  "portland timbers": {
+    "en": "Portland Timbers",
+    "ar": "بورتلاند تيمبرز"
+  },
+  "houston dynamo": {
+    "en": "Houston Dynamo",
+    "ar": "هيوستن دينامو"
+  },
+  "sunrise fc": {
+    "en": "Sunrise FC",
+    "ar": "صن رايز"
+  },
+  "gasogi united": {
+    "en": "Gasogi United",
+    "ar": "جاسوجي يونايتد"
+  },
+  "rwandan premier league": {
+    "en": "Rwandan Premier League",
+    "ar": "الدوري الرواندي الممتاز"
+  },
+  "lask linz": {
+    "en": "LASK Linz",
+    "ar": "لاسك لينز"
+  },
+  "fc kairat": {
+    "en": "FC Kairat",
+    "ar": "كايرات"
+  },
+  "mladost dg": {
+    "en": "Mladost DG",
+    "ar": "ملادوست دي جي"
+  },
+  "ballkani": {
+    "en": "Ballkani",
+    "ar": "بالكاني"
+  },
+  "akademija pandev": {
+    "en": "Akademija Pandev",
+    "ar": "أكاديميا بانديف"
+  },
+  "fc santa coloma": {
+    "en": "FC Santa Coloma",
+    "ar": "سانتا كولوما"
+  },
+  "north macedonia": {
+    "en": "North Macedonia",
+    "ar": "شمال مقدونيا"
+  },
+  "dinamo tbilisi": {
+    "en": "Dinamo Tbilisi",
+    "ar": "دينامو تبليسي"
+  },
+  "belarus": {
+    "en": "Belarus",
+    "ar": "روسيا البيضاء"
+  },
+  "partizani tirana": {
+    "en": "Partizani Tirana",
+    "ar": "بارتيزاني تيرانا"
+  },
+  "valletta fc": {
+    "en": "Valletta FC",
+    "ar": "فاليتا"
+  },
+  "fk super nova": {
+    "en": "FK Super Nova",
+    "ar": "سوبر نوفا"
+  },
+  "cliftonville": {
+    "en": "Cliftonville",
+    "ar": "كليفتونفيل"
+  },
+  "thor": {
+    "en": "Thor",
+    "ar": "ثور"
+  },
+  "iceland": {
+    "en": "Iceland",
+    "ar": "آيسلندا"
+  },
+  "una strassen": {
+    "en": "UNA Strassen",
+    "ar": "أونا ستراسين"
+  },
+  "cardiff met": {
+    "en": "Cardiff Met",
+    "ar": "كارديف ميت"
+  },
+  "havnar boltfelag": {
+    "en": "Havnar Bóltfelag",
+    "ar": "هافنار بولتفيلاج"
+  },
+  "fc flora": {
+    "en": "FC Flora",
+    "ar": "فلورا"
+  },
+  "fk mlada boleslav": {
+    "en": "FK Mladá Boleslav",
+    "ar": "ملادا بوليسلاف"
+  },
+  "deportivo pereira": {
+    "en": "Deportivo Pereira",
+    "ar": "ديبورتيفو بيريرا"
   }
 }
