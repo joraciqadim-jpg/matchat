@@ -267,6 +267,18 @@
       }
     ]
   },
+  "M+ Liga de Campeones 2 HD": {
+    "satellites": [
+      {
+        "satellite": "Astra (19.2E)",
+        "frequency": "10729 V 22000"
+      },
+      {
+        "satellite": "Astra (19.2E)",
+        "frequency": "10758 V 22000"
+      }
+    ]
+  },
   "SuperSport MáXimo 1 HD": {
     "satellites": [
       {
@@ -628,6 +640,18 @@
       {
         "satellite": "AzerSpace (46.0E)",
         "frequency": "11175 H 30000"
+      }
+    ]
+  },
+  "M+ Liga de Campeones 3 HD": {
+    "satellites": [
+      {
+        "satellite": "Astra (19.2E)",
+        "frequency": "10758 V 22000"
+      },
+      {
+        "satellite": "Astra (19.2E)",
+        "frequency": "10788 V 22000"
       }
     ]
   },
@@ -1547,6 +1571,14 @@
       }
     ]
   },
+  "M+ Liga de Campeones 6": {
+    "satellites": [
+      {
+        "satellite": "Astra (19.2E)",
+        "frequency": "11686 V 22000"
+      }
+    ]
+  },
   "MTV MAX Suomi HD": {
     "satellites": [
       {
@@ -1743,6 +1775,14 @@
       }
     ]
   },
+  "M+ Liga de Campeones 5": {
+    "satellites": [
+      {
+        "satellite": "Astra (19.2E)",
+        "frequency": "10979 V 22000"
+      }
+    ]
+  },
   "MAX Sport 2 Bulgaria HD": {
     "satellites": [
       {
@@ -1912,6 +1952,14 @@
       {
         "satellite": "Thor (0.8W)",
         "frequency": "11900 H 28000"
+      }
+    ]
+  },
+  "M+ Liga de Campeones 7": {
+    "satellites": [
+      {
+        "satellite": "Astra (19.2E)",
+        "frequency": "11686 V 22000"
       }
     ]
   },
