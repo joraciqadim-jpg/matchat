@@ -1,21 +1,25 @@
 {
-  "Montevideo Torque": {
+  "torque": {
+    "en": "Torque",
+    "ar": "توركي"
+  },
+  "montevideo torque": {
     "en": "Montevideo Torque",
     "ar": "مونتيفيديو توركي"
   },
-  "FIFA Womens World Cup 2027 Qualifiers": {
+  "fifa womens world cup 2027 qualifiers": {
     "en": "FIFA Women's World Cup 2027 Qualifiers",
     "ar": "تصفيات كأس العالم للسيدات 2027"
   },
-  "St Louis City": {
+  "st louis city": {
     "en": "St. Louis City",
     "ar": "سانت لويس سيتي"
   },
-  "Dukla Prague": {
+  "dukla prague": {
     "en": "Dukla Prague",
     "ar": "دوكلا براغ"
   },
-  "Baník Ostrava II": {
+  "bank ostrava ii": {
     "en": "Baník Ostrava 2",
     "ar": "بانيك أوسترافا 2"
   },
