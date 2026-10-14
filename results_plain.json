@@ -42,8 +42,8 @@
       "matchEn": "Manchester City (England) v Paris Saint-Germain (France)",
       "matchAr": "مانشستر سيتي (إنجلترا) × باريس سان جيرمان (فرنسا)",
       "rawIsoTime": "2026-10-14T22:00:00+03:00",
-      "time": "2 - 4 (live)",
-      "isLive": true
+      "time": "2 - 4 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🛡️ UEFA Champions League",
@@ -51,8 +51,8 @@
       "matchEn": "Roma (Italy) v Real Madrid (Spain)",
       "matchAr": "روما (إيطاليا) × ريال مدريد (إسبانيا)",
       "rawIsoTime": "2026-10-14T22:00:00+03:00",
-      "time": "3 - 4 (live)",
-      "isLive": true
+      "time": "3 - 4 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🛡️ UEFA Champions League",
@@ -69,8 +69,8 @@
       "matchEn": "Shakhtar Donetsk (Ukraine) v AEK Athens (Greece)",
       "matchAr": "شاختار دونيتسك (أوكرانيا) × آيك أثينا (اليونان)",
       "rawIsoTime": "2026-10-14T22:00:00+03:00",
-      "time": "3 - 1 (live)",
-      "isLive": true
+      "time": "3 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🛡️ UEFA Champions League",
@@ -78,8 +78,8 @@
       "matchEn": "Slovan Bratislava (Slovakia) v Stuttgart (Germany)",
       "matchAr": "سلوفان براتيسلافا (سلوفاكيا) × شتوتغارت (ألمانيا)",
       "rawIsoTime": "2026-10-14T22:00:00+03:00",
-      "time": "0 - 3 (live)",
-      "isLive": true
+      "time": "0 - 3 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🛡️ AFC Champions League Elite",
@@ -231,8 +231,8 @@
       "matchEn": "Lincoln City v West Ham United",
       "matchAr": "لينكولن سيتي × وست هام يونايتد",
       "rawIsoTime": "2026-10-14T22:00:00+03:00",
-      "time": "0 - 6 (live)",
-      "isLive": true
+      "time": "0 - 6 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇦🇷 Argentinean Primera División",
