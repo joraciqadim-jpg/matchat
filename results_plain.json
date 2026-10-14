@@ -348,8 +348,8 @@
       "matchEn": "Yenisey v FC Kaluga",
       "matchAr": "ينيسي × كالوغا",
       "rawIsoTime": "2026-10-14T14:30:00+03:00",
-      "time": "11:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏆 Russian Cup",
@@ -681,7 +681,7 @@
       "matchEn": "FC Kairat (Kazakhstan) v Mladost DG (Montenegro)",
       "matchAr": "كايرات (كازاخستان) × ملادوست دي جي (الجبل الأسود)",
       "rawIsoTime": "2026-10-14T13:00:00+03:00",
-      "time": "4 - 0 (live)",
+      "time": "4 - 1 (live)",
       "isLive": true
     },
     {
