@@ -384,8 +384,8 @@
       "matchEn": "Akhmat Grozny v Dynamo Moscow",
       "matchAr": "أخمات غروزني × دينامو موسكو",
       "rawIsoTime": "2026-10-14T18:30:00+03:00",
-      "time": "15:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏆 Russian Cup",
@@ -393,8 +393,8 @@
       "matchEn": "Dynamo Makhachkala v Zenit",
       "matchAr": "دينامو مخاتشكالا × زينيت",
       "rawIsoTime": "2026-10-14T18:30:00+03:00",
-      "time": "15:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏆 Russian Cup",
@@ -429,8 +429,8 @@
       "matchEn": "Kheybar Khorramabad v Persepolis",
       "matchAr": "خيبر خرم آباد × برسبوليس",
       "rawIsoTime": "2026-10-14T16:30:00+03:00",
-      "time": "0 - 0 (live)",
-      "isLive": true
+      "time": "0 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🛡️ CONMEBOL Libertadores",
