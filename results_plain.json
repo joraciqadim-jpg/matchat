@@ -357,8 +357,8 @@
       "matchEn": "Leningradets v Luki-Energiya",
       "matchAr": "لينينغراديتس × لوكي إنيرجيا",
       "rawIsoTime": "2026-10-14T15:00:00+03:00",
-      "time": "2 - 0 (live)",
-      "isLive": true
+      "time": "2 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏆 Russian Cup",
@@ -708,8 +708,8 @@
       "matchEn": "Slovan Bratislava (Slovakia) v Stuttgart (Germany)",
       "matchAr": "سلوفان براتيسلافا (سلوفاكيا) × شتوتغارت (ألمانيا)",
       "rawIsoTime": "2026-10-14T15:00:00+03:00",
-      "time": "1 - 0 (live)",
-      "isLive": true
+      "time": "1 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🛡️ UEFA Youth League",
@@ -717,8 +717,8 @@
       "matchEn": "Roma (Italy) v Real Madrid (Spain)",
       "matchAr": "روما (إيطاليا) × ريال مدريد (إسبانيا)",
       "rawIsoTime": "2026-10-14T15:00:00+03:00",
-      "time": "0 - 1 (live)",
-      "isLive": true
+      "time": "0 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🛡️ UEFA Youth League",
@@ -726,8 +726,8 @@
       "matchEn": "Ballkani (Kosovo) v Helsinki (Finland)",
       "matchAr": "بالكاني (كوسوفو) × هلسنكي (فنلندا)",
       "rawIsoTime": "2026-10-14T15:00:00+03:00",
-      "time": "1 - 2 (live)",
-      "isLive": true
+      "time": "1 - 2 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🛡️ UEFA Youth League",
@@ -744,7 +744,7 @@
       "matchEn": "Dynamo Minsk (Belarus) v Dinamo Tbilisi (Georgia)",
       "matchAr": "دينامو مينسك (روسيا البيضاء) × دينامو تبليسي (جورجيا)",
       "rawIsoTime": "2026-10-14T15:00:00+03:00",
-      "time": "2 - 3 (live)",
+      "time": "2 - 3 (0 - 1)",
       "isLive": true
     },
     {
