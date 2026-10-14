@@ -1,1173 +1,606 @@
 {
   "matches": [
     {
+      "tournamentEn": "🛡️ UEFA Champions League",
+      "tournamentAr": "🛡️ دوري أبطال أوروبا",
+      "matchEn": "LASK Linz v Liverpool",
+      "matchAr": "لاسك لينز × ليفربول",
+      "rawIsoTime": "2026-10-14T16:45:00Z",
+      "time": "16:45",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🛡️ UEFA Champions League",
+      "tournamentAr": "🛡️ دوري أبطال أوروبا",
+      "matchEn": "Feyenoord v Como 1907",
+      "matchAr": "فينورد × كومو 1907",
+      "rawIsoTime": "2026-10-14T16:45:00Z",
+      "time": "16:45",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🛡️ UEFA Champions League",
+      "tournamentAr": "🛡️ دوري أبطال أوروبا",
+      "matchEn": "Roma v Real Madrid",
+      "matchAr": "روما × ريال مدريد",
+      "rawIsoTime": "2026-10-14T19:00:00Z",
+      "time": "19:00",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🛡️ UEFA Champions League",
+      "tournamentAr": "🛡️ دوري أبطال أوروبا",
+      "matchEn": "Slovan Bratislava v VfB Stuttgart",
+      "matchAr": "سلوفان براتيسلافا × شتوتجارت",
+      "rawIsoTime": "2026-10-14T19:00:00Z",
+      "time": "19:00",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🛡️ UEFA Champions League",
+      "tournamentAr": "🛡️ دوري أبطال أوروبا",
+      "matchEn": "Bodø/Glimt v Borussia Dortmund",
+      "matchAr": "بودو/غليمت × بوروسيا دورتموند",
+      "rawIsoTime": "2026-10-14T19:00:00Z",
+      "time": "19:00",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🛡️ UEFA Champions League",
+      "tournamentAr": "🛡️ دوري أبطال أوروبا",
+      "matchEn": "Shakhtar Donetsk v AEK Athens",
+      "matchAr": "شاختار دونيتسك × أيك أثينا",
+      "rawIsoTime": "2026-10-14T19:00:00Z",
+      "time": "19:00",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🛡️ UEFA Champions League",
+      "tournamentAr": "🛡️ دوري أبطال أوروبا",
+      "matchEn": "Real Betis v Porto",
+      "matchAr": "ريال بيتيس × بورتو",
+      "rawIsoTime": "2026-10-14T19:00:00Z",
+      "time": "19:00",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🛡️ UEFA Champions League",
+      "tournamentAr": "🛡️ دوري أبطال أوروبا",
+      "matchEn": "Manchester City v Paris Saint-Germain",
+      "matchAr": "مانشستر سيتي × باريس سان جيرمان",
+      "rawIsoTime": "2026-10-14T19:00:00Z",
+      "time": "19:00",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🛡️ UEFA Champions League",
+      "tournamentAr": "🛡️ دوري أبطال أوروبا",
+      "matchEn": "Aston Villa v Fenerbahçe",
+      "matchAr": "أستون فيلا × فنربخشة",
+      "rawIsoTime": "2026-10-14T19:00:00Z",
+      "time": "19:00",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🛡️ AFC Champions League Elite",
+      "tournamentAr": "🛡️ دوري أبطال آسيا للنخبة",
+      "matchEn": "Kashiwa Reysol v Thai Port",
+      "matchAr": "كاشيوا ريسول × بورت",
+      "rawIsoTime": "2026-10-14T10:00:00Z",
+      "time": "5 - 1 (done)",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🛡️ AFC Champions League Elite",
+      "tournamentAr": "🛡️ دوري أبطال آسيا للنخبة",
+      "matchEn": "Vissel Kobe v Jeonbuk Hyundai Motors",
+      "matchAr": "فيسيل كوبه × تشانبوك موتورز",
+      "rawIsoTime": "2026-10-14T10:00:00Z",
+      "time": "2 - 0 (done)",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🛡️ AFC Champions League Two",
+      "tournamentAr": "🛡️ دوري أبطال آسيا 2",
+      "matchEn": "Melbourne Victory v FC Seoul",
+      "matchAr": "ملبورن فيكتوري × سيول",
+      "rawIsoTime": "2026-10-14T07:45:00Z",
+      "time": "3 - 0 (done)",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🛡️ AFC Champions League Two",
+      "tournamentAr": "🛡️ دوري أبطال آسيا 2",
+      "matchEn": "Persib Bandung v Viettel FC",
+      "matchAr": "بيرسيب باندونج × سي إل بي فيتيل",
+      "rawIsoTime": "2026-10-14T12:15:00Z",
+      "time": "1 - 0 (done)",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🛡️ AFC Champions League Two",
+      "tournamentAr": "🛡️ دوري أبطال آسيا 2",
+      "matchEn": "Nasaf v Al Wahda FC",
+      "matchAr": "ناساف × الوحدة الإماراتي",
+      "rawIsoTime": "2026-10-14T13:45:00Z",
+      "time": "1 - 2 (live)",
+      "isLive": true
+    },
+    {
+      "tournamentEn": "🛡️ AFC Champions League Two",
+      "tournamentAr": "🛡️ دوري أبطال آسيا 2",
+      "matchEn": "Al Jazira Club v Arkadag",
+      "matchAr": "الجزيرة الإماراتي × أركاداغ",
+      "rawIsoTime": "2026-10-14T16:00:00Z",
+      "time": "16:00",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🛡️ AFC Champions League Two",
+      "tournamentAr": "🛡️ دوري أبطال آسيا 2",
+      "matchEn": "Muharraq v Gol Gohar Sirjan FC",
+      "matchAr": "المحرق × جول جوهار سيرجان",
+      "rawIsoTime": "2026-10-14T16:00:00Z",
+      "time": "16:00",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🛡️ AFC Champions League Two",
+      "tournamentAr": "🛡️ دوري أبطال آسيا 2",
+      "matchEn": "Al-Taawoun v Al Rayyan",
+      "matchAr": "التعاون × الريان",
+      "rawIsoTime": "2026-10-14T16:00:00Z",
+      "time": "16:00",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🛡️ AFC Champions League Two",
+      "tournamentAr": "🛡️ دوري أبطال آسيا 2",
+      "matchEn": "Kuwait SC v Al Khalidiya",
+      "matchAr": "الكويت الكويتي × الخالدية",
+      "rawIsoTime": "2026-10-14T18:15:00Z",
+      "time": "18:15",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🛡️ AFC Champions League Two",
+      "tournamentAr": "🛡️ دوري أبطال آسيا 2",
+      "matchEn": "Al Faisaly v Al-Nahda Club",
+      "matchAr": "الفيصلي × النهضة العماني",
+      "rawIsoTime": "2026-10-14T18:15:00Z",
+      "time": "18:15",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🛡️ Gulf Club Champions League",
+      "tournamentAr": "🛡️ دوري أبطال الخليج للأندية",
+      "matchEn": "Al Duhail v Al-Shabab",
+      "matchAr": "الدحيل × الشباب",
+      "rawIsoTime": "2026-10-14T14:45:00Z",
+      "time": "1 - 0 (live)",
+      "isLive": true
+    },
+    {
+      "tournamentEn": "🛡️ Gulf Club Champions League",
+      "tournamentAr": "🛡️ دوري أبطال الخليج للأندية",
+      "matchEn": "Al Ettifaq v Kazma",
+      "matchAr": "الاتفاق × كاظمة",
+      "rawIsoTime": "2026-10-14T16:00:00Z",
+      "time": "16:00",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🛡️ Gulf Club Champions League",
+      "tournamentAr": "🛡️ دوري أبطال الخليج للأندية",
+      "matchEn": "Ajman v Erbil",
+      "matchAr": "عجمان × أربيل",
+      "rawIsoTime": "2026-10-14T16:00:00Z",
+      "time": "16:00",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🇬🇧 English Championship",
+      "tournamentAr": "🇬🇧 الدوري الإنجليزي للدرجة الأولى (الشامبيونشيب)",
+      "matchEn": "Queens Park Rangers v Derby County",
+      "matchAr": "كوينز بارك رينجرز × ديربي كاونتي",
+      "rawIsoTime": "2026-10-14T18:45:00Z",
+      "time": "18:45",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🇬🇧 English Championship",
+      "tournamentAr": "🇬🇧 الدوري الإنجليزي للدرجة الأولى (الشامبيونشيب)",
+      "matchEn": "Norwich City v Southampton",
+      "matchAr": "نورويتش سيتي × ساوثهامبتون",
+      "rawIsoTime": "2026-10-14T18:45:00Z",
+      "time": "18:45",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🇬🇧 English Championship",
+      "tournamentAr": "🇬🇧 الدوري الإنجليزي للدرجة الأولى (الشامبيونشيب)",
+      "matchEn": "Portsmouth v Sheffield United",
+      "matchAr": "بورتسموث × شيفيلد يونايتد",
+      "rawIsoTime": "2026-10-14T18:45:00Z",
+      "time": "18:45",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🇬🇧 English Championship",
+      "tournamentAr": "🇬🇧 الدوري الإنجليزي للدرجة الأولى (الشامبيونشيب)",
+      "matchEn": "Lincoln City v West Ham United",
+      "matchAr": "لينكولين سيتي × وست هام يونايتد",
+      "rawIsoTime": "2026-10-14T19:00:00Z",
+      "time": "19:00",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🏆 Portuguese Cup",
+      "tournamentAr": "🏆 كأس البرتغال",
+      "matchEn": "UD Santarém v Gil Vicente",
+      "matchAr": "يو دي سانتاريم × جيل فيسينتي",
+      "rawIsoTime": "2026-10-14T18:00:00Z",
+      "time": "18:00",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🛡️ Copa Sudamericana",
+      "tournamentAr": "🛡️ كوبا سود أمريكانا",
+      "matchEn": "Boca Juniors v Vasco da Gama",
+      "matchAr": "بوكا جونيورز × فاسكو دا غاما",
+      "rawIsoTime": "2026-10-14T00:30:00Z",
+      "time": "0 - 1 (done)",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🛡️ Copa Sudamericana",
+      "tournamentAr": "🛡️ كوبا سود أمريكانا",
+      "matchEn": "Atlético Mineiro v Montevideo City Torque",
+      "matchAr": "أتليتيكو مينيرو × مونتيفيديو سيتي تورك",
+      "rawIsoTime": "2026-10-14T22:00:00Z",
+      "time": "22:00",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🇲🇦 Moroccan Botola Pro Inwi",
+      "tournamentAr": "🇲🇦 البطولة الوطنية الاحترافية \"إنوي\"",
+      "matchEn": "Ittihad Tanger v Maghreb Fès",
+      "matchAr": "اتحاد طنجة × المغرب الفاسي",
+      "rawIsoTime": "2026-10-14T20:00:00Z",
+      "time": "20:00",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🇩🇿 Algerian Ligue 1",
+      "tournamentAr": "🇩🇿 الدوري الجزائري للمحترفين",
+      "matchEn": "ES Sétif v JS Kabylie",
+      "matchAr": "وفاق سطيف × شبيبة القبائل",
+      "rawIsoTime": "2026-10-14T17:00:00Z",
+      "time": "17:00",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🇩🇿 Algerian Ligue 1",
+      "tournamentAr": "🇩🇿 الدوري الجزائري للمحترفين",
+      "matchEn": "CR Témouchent v Mouloudia Baladiat Rouissat",
+      "matchAr": "شباب تموشنت × مستقبل الرويسات",
+      "rawIsoTime": "2026-10-14T17:00:00Z",
+      "time": "17:00",
+      "isLive": false
+    },
+    {
       "tournamentEn": "🛡️ UEFA Youth League",
       "tournamentAr": "🛡️ دوري أبطال أوروبا للشباب",
-      "matchEn": "Puskás Akadémia v Gabala",
-      "matchAr": "بوشكاش أكاديميا عاما × غابالا سنة",
-      "rawIsoTime": "",
-      "time": "0 - 1 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ AFC Asian Cup",
-      "tournamentAr": "🛡️ كأس آسيا",
-      "matchEn": "Qatar SC v Uzbekistan",
-      "matchAr": "قطر × أوزبكستان",
-      "rawIsoTime": "2011-01-07T16:15:00Z",
-      "time": "0 - 2 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ AFC Asian Cup",
-      "tournamentAr": "🛡️ كأس آسيا",
-      "matchEn": "Qatar SC v Uzbekistan",
-      "matchAr": "قطر × أوزبكستان",
-      "rawIsoTime": "2011-01-07T16:15:00Z",
-      "time": "0 - 2 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ AFC Asian Cup",
-      "tournamentAr": "🛡️ كأس آسيا",
-      "matchEn": "Kuwait SC v China",
-      "matchAr": "الكويت × الصين",
-      "rawIsoTime": "2011-01-08T13:15:00Z",
-      "time": "0 - 2 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ AFC Asian Cup",
-      "tournamentAr": "🛡️ كأس آسيا",
-      "matchEn": "Kuwait SC v China",
-      "matchAr": "الكويت × الصين",
-      "rawIsoTime": "2011-01-08T13:15:00Z",
-      "time": "0 - 2 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ AFC Asian Cup",
-      "tournamentAr": "🛡️ كأس آسيا",
-      "matchEn": "Japan v Jordan",
-      "matchAr": "اليابان × الأردن",
-      "rawIsoTime": "2011-01-09T13:15:00Z",
-      "time": "1 - 1 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ AFC Asian Cup",
-      "tournamentAr": "🛡️ كأس آسيا",
-      "matchEn": "Japan v Jordan",
-      "matchAr": "اليابان × الأردن",
-      "rawIsoTime": "2011-01-09T13:15:00Z",
-      "time": "1 - 1 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ AFC Asian Cup",
-      "tournamentAr": "🛡️ كأس آسيا",
-      "matchEn": "Saudi Arabia v Syria",
-      "matchAr": "السعودية × سوريا",
-      "rawIsoTime": "2011-01-09T16:15:00Z",
-      "time": "1 - 2 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ AFC Asian Cup",
-      "tournamentAr": "🛡️ كأس آسيا",
-      "matchEn": "India v Australia",
-      "matchAr": "الهند × أستراليا",
-      "rawIsoTime": "2011-01-10T13:15:00Z",
-      "time": "0 - 4 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ AFC Asian Cup",
-      "tournamentAr": "🛡️ كأس آسيا",
-      "matchEn": "Republic of Korea v Bahrain",
-      "matchAr": "جمهورية كوريا × البحرين",
-      "rawIsoTime": "2011-01-10T16:15:00Z",
-      "time": "2 - 1 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ AFC Asian Cup",
-      "tournamentAr": "🛡️ كأس آسيا",
-      "matchEn": "North Korea v Emirates",
-      "matchAr": "كوريا الشمالية × الإمارات",
-      "rawIsoTime": "2011-01-11T13:15:00Z",
-      "time": "0 - 0 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ AFC Asian Cup",
-      "tournamentAr": "🛡️ كأس آسيا",
-      "matchEn": "North Korea v Emirates",
-      "matchAr": "كوريا الشمالية × الإمارات",
-      "rawIsoTime": "2011-01-11T13:15:00Z",
-      "time": "0 - 0 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ AFC Asian Cup",
-      "tournamentAr": "🛡️ كأس آسيا",
-      "matchEn": "Iraq v Islamic Republic of Iran",
-      "matchAr": "العراق × جمهورية إيران الإسلامية",
-      "rawIsoTime": "2011-01-11T16:15:00Z",
-      "time": "1 - 2 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ AFC Asian Cup",
-      "tournamentAr": "🛡️ كأس آسيا",
-      "matchEn": "Iraq v Islamic Republic of Iran",
-      "matchAr": "العراق × جمهورية إيران الإسلامية",
-      "rawIsoTime": "2011-01-11T16:15:00Z",
-      "time": "1 - 2 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ AFC Asian Cup",
-      "tournamentAr": "🛡️ كأس آسيا",
-      "matchEn": "Uzbekistan v Kuwait SC",
-      "matchAr": "أوزبكستان × الكويت",
-      "rawIsoTime": "2011-01-12T13:15:00Z",
-      "time": "2 - 1 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ AFC Asian Cup",
-      "tournamentAr": "🛡️ كأس آسيا",
-      "matchEn": "China v Qatar SC",
-      "matchAr": "الصين × قطر",
-      "rawIsoTime": "2011-01-12T16:15:00Z",
-      "time": "0 - 2 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ AFC Asian Cup",
-      "tournamentAr": "🛡️ كأس آسيا",
-      "matchEn": "Jordan v Saudi Arabia",
-      "matchAr": "الأردن × السعودية",
-      "rawIsoTime": "2011-01-13T13:15:00Z",
-      "time": "1 - 0 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ AFC Asian Cup",
-      "tournamentAr": "🛡️ كأس آسيا",
-      "matchEn": "Jordan v Saudi Arabia",
-      "matchAr": "الأردن × السعودية",
-      "rawIsoTime": "2011-01-13T13:15:00Z",
-      "time": "1 - 0 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ AFC Asian Cup",
-      "tournamentAr": "🛡️ كأس آسيا",
-      "matchEn": "Syria v Japan",
-      "matchAr": "سوريا × اليابان",
-      "rawIsoTime": "2011-01-13T16:15:00Z",
-      "time": "1 - 2 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ AFC Asian Cup",
-      "tournamentAr": "🛡️ كأس آسيا",
-      "matchEn": "Australia v Republic of Korea",
-      "matchAr": "أستراليا × جمهورية كوريا",
-      "rawIsoTime": "2011-01-14T13:15:00Z",
-      "time": "1 - 1 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ AFC Asian Cup",
-      "tournamentAr": "🛡️ كأس آسيا",
-      "matchEn": "Bahrain v India",
-      "matchAr": "البحرين × الهند",
-      "rawIsoTime": "2011-01-14T16:15:00Z",
-      "time": "5 - 2 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ AFC Asian Cup",
-      "tournamentAr": "🛡️ كأس آسيا",
-      "matchEn": "Islamic Republic of Iran v North Korea",
-      "matchAr": "جمهورية إيران الإسلامية × كوريا الشمالية",
-      "rawIsoTime": "2011-01-15T13:15:00Z",
-      "time": "1 - 0 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ AFC Asian Cup",
-      "tournamentAr": "🛡️ كأس آسيا",
-      "matchEn": "Islamic Republic of Iran v North Korea",
-      "matchAr": "جمهورية إيران الإسلامية × كوريا الشمالية",
-      "rawIsoTime": "2011-01-15T13:15:00Z",
-      "time": "1 - 0 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ AFC Asian Cup",
-      "tournamentAr": "🛡️ كأس آسيا",
-      "matchEn": "Emirates v Iraq",
-      "matchAr": "الإمارات × العراق",
-      "rawIsoTime": "2011-01-15T16:15:00Z",
-      "time": "0 - 1 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ AFC Asian Cup",
-      "tournamentAr": "🛡️ كأس آسيا",
-      "matchEn": "Emirates v Iraq",
-      "matchAr": "الإمارات × العراق",
-      "rawIsoTime": "2011-01-15T16:15:00Z",
-      "time": "0 - 1 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ AFC Asian Cup",
-      "tournamentAr": "🛡️ كأس آسيا",
-      "matchEn": "Qatar SC v Kuwait SC",
-      "matchAr": "قطر × الكويت",
-      "rawIsoTime": "2011-01-16T16:15:00Z",
-      "time": "3 - 0 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ AFC Asian Cup",
-      "tournamentAr": "🛡️ كأس آسيا",
-      "matchEn": "China v Uzbekistan",
-      "matchAr": "الصين × أوزبكستان",
-      "rawIsoTime": "2011-01-16T16:15:00Z",
-      "time": "2 - 2 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ AFC Asian Cup",
-      "tournamentAr": "🛡️ كأس آسيا",
-      "matchEn": "China v Uzbekistan",
-      "matchAr": "الصين × أوزبكستان",
-      "rawIsoTime": "2011-01-16T16:15:00Z",
-      "time": "2 - 2 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ AFC Asian Cup",
-      "tournamentAr": "🛡️ كأس آسيا",
-      "matchEn": "Saudi Arabia v Japan",
-      "matchAr": "السعودية × اليابان",
-      "rawIsoTime": "2011-01-17T13:15:00Z",
+      "matchEn": "Bodø/Glimt v Borussia Dortmund",
+      "matchAr": "بودو/غليمت سنة × بوروسيا دورتموند سنة",
+      "rawIsoTime": "2026-10-14T09:00:00Z",
       "time": "0 - 5 (done)",
       "isLive": false
     },
     {
-      "tournamentEn": "🛡️ AFC Asian Cup",
-      "tournamentAr": "🛡️ كأس آسيا",
-      "matchEn": "Jordan v Syria",
-      "matchAr": "الأردن × سوريا",
-      "rawIsoTime": "2011-01-17T13:15:00Z",
-      "time": "2 - 1 (done)",
+      "tournamentEn": "🛡️ UEFA Youth League",
+      "tournamentAr": "🛡️ دوري أبطال أوروبا للشباب",
+      "matchEn": "Kairat Almaty v Mladost Donja Gorica",
+      "matchAr": "كايرات ألماتي × ملادوست دونيا غوريتسا سنة",
+      "rawIsoTime": "2026-10-14T10:00:00Z",
+      "time": "8 - 1 (done)",
       "isLive": false
     },
     {
-      "tournamentEn": "🛡️ AFC Asian Cup",
-      "tournamentAr": "🛡️ كأس آسيا",
-      "matchEn": "Jordan v Syria",
-      "matchAr": "الأردن × سوريا",
-      "rawIsoTime": "2011-01-17T13:15:00Z",
-      "time": "2 - 1 (done)",
+      "tournamentEn": "🛡️ UEFA Youth League",
+      "tournamentAr": "🛡️ دوري أبطال أوروبا للشباب",
+      "matchEn": "LASK Linz v Liverpool",
+      "matchAr": "لاسك لينتس سنة × ليفربول سنة",
+      "rawIsoTime": "2026-10-14T10:00:00Z",
+      "time": "2 - 4 (done)",
       "isLive": false
     },
     {
-      "tournamentEn": "🛡️ AFC Asian Cup",
-      "tournamentAr": "🛡️ كأس آسيا",
-      "matchEn": "Australia v Bahrain",
-      "matchAr": "أستراليا × البحرين",
-      "rawIsoTime": "2011-01-18T13:15:00Z",
+      "tournamentEn": "🛡️ UEFA Youth League",
+      "tournamentAr": "🛡️ دوري أبطال أوروبا للشباب",
+      "matchEn": "Feyenoord Rotterdam v Como 1907",
+      "matchAr": "فينوورد روتردام سنة × كومو 1907 عاما",
+      "rawIsoTime": "2026-10-14T11:00:00Z",
       "time": "1 - 0 (done)",
       "isLive": false
     },
     {
-      "tournamentEn": "🛡️ AFC Asian Cup",
-      "tournamentAr": "🛡️ كأس آسيا",
-      "matchEn": "Republic of Korea v India",
-      "matchAr": "جمهورية كوريا × الهند",
-      "rawIsoTime": "2011-01-18T13:15:00Z",
-      "time": "4 - 1 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ AFC Asian Cup",
-      "tournamentAr": "🛡️ كأس آسيا",
-      "matchEn": "Iraq v North Korea",
-      "matchAr": "العراق × كوريا الشمالية",
-      "rawIsoTime": "2011-01-19T16:15:00Z",
-      "time": "1 - 0 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ AFC Asian Cup",
-      "tournamentAr": "🛡️ كأس آسيا",
-      "matchEn": "Iraq v North Korea",
-      "matchAr": "العراق × كوريا الشمالية",
-      "rawIsoTime": "2011-01-19T16:15:00Z",
-      "time": "1 - 0 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ AFC Asian Cup",
-      "tournamentAr": "🛡️ كأس آسيا",
-      "matchEn": "Emirates v Islamic Republic of Iran",
-      "matchAr": "الإمارات × جمهورية إيران الإسلامية",
-      "rawIsoTime": "2011-01-19T16:15:00Z",
-      "time": "0 - 3 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ AFC Asian Cup",
-      "tournamentAr": "🛡️ كأس آسيا",
-      "matchEn": "Japan v Qatar SC",
-      "matchAr": "اليابان × قطر",
-      "rawIsoTime": "2011-01-21T13:25:00Z",
-      "time": "3 - 2 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ AFC Asian Cup",
-      "tournamentAr": "🛡️ كأس آسيا",
-      "matchEn": "Japan v Qatar SC",
-      "matchAr": "اليابان × قطر",
-      "rawIsoTime": "2011-01-21T13:25:00Z",
-      "time": "3 - 2 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ AFC Asian Cup",
-      "tournamentAr": "🛡️ كأس آسيا",
-      "matchEn": "Uzbekistan v Jordan",
-      "matchAr": "أوزبكستان × الأردن",
-      "rawIsoTime": "2011-01-21T16:25:00Z",
-      "time": "2 - 1 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ AFC Asian Cup",
-      "tournamentAr": "🛡️ كأس آسيا",
-      "matchEn": "Australia v Iraq",
-      "matchAr": "أستراليا × العراق",
-      "rawIsoTime": "2011-01-22T13:25:00Z",
-      "time": "1 - 0 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ AFC Asian Cup",
-      "tournamentAr": "🛡️ كأس آسيا",
-      "matchEn": "Islamic Republic of Iran v Republic of Korea",
-      "matchAr": "جمهورية إيران الإسلامية × جمهورية كوريا",
-      "rawIsoTime": "2011-01-22T16:25:00Z",
-      "time": "0 - 1 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ AFC Asian Cup",
-      "tournamentAr": "🛡️ كأس آسيا",
-      "matchEn": "Japan v Republic of Korea",
-      "matchAr": "اليابان × جمهورية كوريا",
-      "rawIsoTime": "2011-01-25T13:25:00Z",
-      "time": "2 - 2 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ AFC Asian Cup",
-      "tournamentAr": "🛡️ كأس آسيا",
-      "matchEn": "Uzbekistan v Australia",
-      "matchAr": "أوزبكستان × أستراليا",
-      "rawIsoTime": "2011-01-25T16:25:00Z",
-      "time": "0 - 6 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ AFC Asian Cup",
-      "tournamentAr": "🛡️ كأس آسيا",
-      "matchEn": "Uzbekistan v Republic of Korea",
-      "matchAr": "أوزبكستان × جمهورية كوريا",
-      "rawIsoTime": "2011-01-28T15:00:00Z",
-      "time": "2 - 3 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ AFC Asian Cup",
-      "tournamentAr": "🛡️ كأس آسيا",
-      "matchEn": "Australia v Japan",
-      "matchAr": "أستراليا × اليابان",
-      "rawIsoTime": "2011-01-29T15:00:00Z",
-      "time": "0 - 1 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ AFC Asian Cup",
-      "tournamentAr": "🛡️ كأس آسيا",
-      "matchEn": "Australia v Japan",
-      "matchAr": "أستراليا × اليابان",
-      "rawIsoTime": "2011-01-29T15:00:00Z",
-      "time": "0 - 1 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Russia v Northern Ireland",
-      "matchAr": "روسيا × إيرلندا الشمالية",
-      "rawIsoTime": "2012-09-07T15:00:00Z",
-      "time": "2 - 0 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Azerbaijan v Unknown Team",
-      "matchAr": "أذربيجان × Unknown Team فريق غير معروف",
-      "rawIsoTime": "2012-09-07T16:00:00Z",
-      "time": "1 - 1 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Kazakhstan v Ireland",
-      "matchAr": "كازاخستان × ايرلندا",
-      "rawIsoTime": "2012-09-07T16:00:00Z",
+      "tournamentEn": "🛡️ UEFA Youth League",
+      "tournamentAr": "🛡️ دوري أبطال أوروبا للشباب",
+      "matchEn": "Shakhtar Donetsk v AEK Athens",
+      "matchAr": "شاختار دونيتسك سنة × أيك أثينا سنة",
+      "rawIsoTime": "2026-10-14T11:00:00Z",
       "time": "1 - 2 (done)",
       "isLive": false
     },
     {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Liechtenstein v Bosnia and Herzegovina",
-      "matchAr": "ليشتنشتاين × البوسنة والهرسك",
-      "rawIsoTime": "2012-09-07T17:00:00Z",
-      "time": "1 - 8 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Georgia v Belarus",
-      "matchAr": "جورجيا × روسيا البيضاء",
-      "rawIsoTime": "2012-09-07T17:00:00Z",
-      "time": "1 - 0 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Estonia v Romania",
-      "matchAr": "إستونيا × رومانيا",
-      "rawIsoTime": "2012-09-07T18:00:00Z",
-      "time": "0 - 2 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Malta v Armenia",
-      "matchAr": "مالطا × أرمينيا",
-      "rawIsoTime": "2012-09-07T18:00:00Z",
-      "time": "0 - 1 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Lithuania v Slovakia",
-      "matchAr": "ليتوانيا × سلوفاكيا",
-      "rawIsoTime": "2012-09-07T18:15:00Z",
-      "time": "1 - 1 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Croatia v North Macedonia",
-      "matchAr": "كرواتيا × مقدونيا الشمالية",
-      "rawIsoTime": "2012-09-07T18:15:00Z",
-      "time": "1 - 0 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Latvia v Greece",
-      "matchAr": "لاتفيا × اليونان",
-      "rawIsoTime": "2012-09-07T18:30:00Z",
-      "time": "1 - 2 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Montenegro v Poland",
-      "matchAr": "الجبل الاسود × بولندا",
-      "rawIsoTime": "2012-09-07T18:30:00Z",
-      "time": "2 - 2 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Finland v France",
-      "matchAr": "فنلندا × فرنسا",
-      "rawIsoTime": "2012-09-07T18:30:00Z",
-      "time": "0 - 1 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Albania v Cyprus",
-      "matchAr": "ألبانيا × قبرص",
-      "rawIsoTime": "2012-09-07T18:30:00Z",
-      "time": "3 - 1 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Slovenia v Switzerland",
-      "matchAr": "سلوفينيا × سويسرا",
-      "rawIsoTime": "2012-09-07T18:30:00Z",
-      "time": "0 - 2 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Andorra v Hungary",
-      "matchAr": "اندورا × المجر",
-      "rawIsoTime": "2012-09-07T18:30:00Z",
-      "time": "0 - 5 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Netherlands v Turkey",
-      "matchAr": "هولندا × تركيا",
-      "rawIsoTime": "2012-09-07T18:30:00Z",
-      "time": "2 - 0 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Luxembourg v Portugal",
-      "matchAr": "لوكسمبورغ × البرتغال",
-      "rawIsoTime": "2012-09-07T18:45:00Z",
-      "time": "1 - 2 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Moldova v England",
-      "matchAr": "مولدوفا × إنجلترا",
-      "rawIsoTime": "2012-09-07T18:45:00Z",
-      "time": "0 - 5 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Iceland v Norway",
-      "matchAr": "آيسلندا × النرويج",
-      "rawIsoTime": "2012-09-07T18:45:00Z",
-      "time": "2 - 0 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Germany v Faroe Islands",
-      "matchAr": "ألمانيا × جزر فارو",
-      "rawIsoTime": "2012-09-07T18:45:00Z",
-      "time": "3 - 0 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Bulgaria v Italy",
-      "matchAr": "بلغاريا × إيطاليا",
-      "rawIsoTime": "2012-09-07T18:45:00Z",
-      "time": "2 - 2 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Wales v Belgium",
-      "matchAr": "ويلز × بلجيكا",
-      "rawIsoTime": "2012-09-07T18:45:00Z",
-      "time": "0 - 2 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Scotland v Serbia",
-      "matchAr": "أسكتلندا × صربيا",
-      "rawIsoTime": "2012-09-08T14:00:00Z",
-      "time": "0 - 0 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Denmark v Czech Republic",
-      "matchAr": "الدانمارك × جمهورية التشيك",
-      "rawIsoTime": "2012-09-08T18:15:00Z",
-      "time": "0 - 0 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Unknown Team v Russia",
-      "matchAr": "Unknown Team فريق غير معروف × روسيا",
-      "rawIsoTime": "2012-09-11T17:00:00Z",
-      "time": "0 - 4 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Cyprus v Iceland",
-      "matchAr": "قبرص × آيسلندا",
-      "rawIsoTime": "2012-09-11T17:00:00Z",
-      "time": "1 - 0 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Georgia v Spain",
-      "matchAr": "جورجيا × إسبانيا",
-      "rawIsoTime": "2012-09-11T17:30:00Z",
-      "time": "0 - 1 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Romania v Andorra",
-      "matchAr": "رومانيا × اندورا",
-      "rawIsoTime": "2012-09-11T17:30:00Z",
+      "tournamentEn": "🛡️ UEFA Youth League",
+      "tournamentAr": "🛡️ دوري أبطال أوروبا للشباب",
+      "matchEn": "Partizani Youth v Valletta",
+      "matchAr": "بارتيزاني الشباب × فاليتا سنة",
+      "rawIsoTime": "2026-10-14T12:00:00Z",
       "time": "4 - 0 (done)",
       "isLive": false
     },
     {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Bosnia and Herzegovina v Latvia",
-      "matchAr": "البوسنة والهرسك × لاتفيا",
-      "rawIsoTime": "2012-09-11T18:00:00Z",
-      "time": "4 - 1 (done)",
+      "tournamentEn": "🛡️ UEFA Youth League",
+      "tournamentAr": "🛡️ دوري أبطال أوروبا للشباب",
+      "matchEn": "Ballkani v HJK Helsinki",
+      "matchAr": "بلقاني سنة × هيلسنكين جيه كي عاما",
+      "rawIsoTime": "2026-10-14T12:00:00Z",
+      "time": "1 - 2 (done)",
       "isLive": false
     },
     {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Norway v Slovenia",
-      "matchAr": "النرويج × سلوفينيا",
-      "rawIsoTime": "2012-09-11T18:00:00Z",
-      "time": "2 - 1 (done)",
+      "tournamentEn": "🛡️ UEFA Youth League",
+      "tournamentAr": "🛡️ دوري أبطال أوروبا للشباب",
+      "matchEn": "Dynamo Minsk v Dinamo Tbilisi",
+      "matchAr": "دينامو مينسك × دينامو تبليسي",
+      "rawIsoTime": "2026-10-14T12:00:00Z",
+      "time": "2 - 3 (done)",
       "isLive": false
     },
     {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Turkey v Estonia",
-      "matchAr": "تركيا × إستونيا",
-      "rawIsoTime": "2012-09-11T18:00:00Z",
-      "time": "3 - 0 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Bulgaria v Armenia",
-      "matchAr": "بلغاريا × أرمينيا",
-      "rawIsoTime": "2012-09-11T18:00:00Z",
+      "tournamentEn": "🛡️ UEFA Youth League",
+      "tournamentAr": "🛡️ دوري أبطال أوروبا للشباب",
+      "matchEn": "Slovan Bratislava v Stuttgart",
+      "matchAr": "سلوفان براتيسلافا سنة × شتوتغارت سنة",
+      "rawIsoTime": "2026-10-14T12:00:00Z",
       "time": "1 - 0 (done)",
       "isLive": false
     },
     {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Slovakia v Liechtenstein",
-      "matchAr": "سلوفاكيا × ليشتنشتاين",
-      "rawIsoTime": "2012-09-11T18:15:00Z",
-      "time": "2 - 0 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "San Marino v Montenegro",
-      "matchAr": "سان مارينو × الجبل الاسود",
-      "rawIsoTime": "2012-09-11T18:30:00Z",
-      "time": "0 - 6 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Switzerland v Albania",
-      "matchAr": "سويسرا × ألبانيا",
-      "rawIsoTime": "2012-09-11T18:30:00Z",
-      "time": "2 - 0 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Hungary v Netherlands",
-      "matchAr": "المجر × هولندا",
-      "rawIsoTime": "2012-09-11T18:30:00Z",
-      "time": "1 - 4 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Sweden v Kazakhstan",
-      "matchAr": "السويد × كازاخستان",
-      "rawIsoTime": "2012-09-11T18:30:00Z",
-      "time": "2 - 0 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Austria v Germany",
-      "matchAr": "النمسا × ألمانيا",
-      "rawIsoTime": "2012-09-11T18:30:00Z",
-      "time": "1 - 2 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Serbia v Wales",
-      "matchAr": "صربيا × ويلز",
-      "rawIsoTime": "2012-09-11T18:30:00Z",
-      "time": "6 - 1 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Northern Ireland v Luxembourg",
-      "matchAr": "إيرلندا الشمالية × لوكسمبورغ",
-      "rawIsoTime": "2012-09-11T18:45:00Z",
-      "time": "1 - 1 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Greece v Lithuania",
-      "matchAr": "اليونان × ليتوانيا",
-      "rawIsoTime": "2012-09-11T18:45:00Z",
-      "time": "2 - 0 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Poland v Moldova",
-      "matchAr": "بولندا × مولدوفا",
-      "rawIsoTime": "2012-09-11T18:45:00Z",
-      "time": "2 - 0 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Italy v Malta",
-      "matchAr": "إيطاليا × مالطا",
-      "rawIsoTime": "2012-09-11T18:45:00Z",
-      "time": "2 - 0 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Belgium v Croatia",
-      "matchAr": "بلجيكا × كرواتيا",
-      "rawIsoTime": "2012-09-11T18:45:00Z",
-      "time": "1 - 1 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "England v Ukraine",
-      "matchAr": "إنجلترا × أوكرانيا",
-      "rawIsoTime": "2012-09-11T19:00:00Z",
-      "time": "1 - 1 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "France v Belarus",
-      "matchAr": "فرنسا × روسيا البيضاء",
-      "rawIsoTime": "2012-09-11T19:00:00Z",
-      "time": "3 - 1 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Scotland v North Macedonia",
-      "matchAr": "أسكتلندا × مقدونيا الشمالية",
-      "rawIsoTime": "2012-09-11T19:00:00Z",
-      "time": "1 - 1 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Portugal v Azerbaijan",
-      "matchAr": "البرتغال × أذربيجان",
-      "rawIsoTime": "2012-09-11T19:15:00Z",
-      "time": "3 - 0 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Russia v Portugal",
-      "matchAr": "روسيا × البرتغال",
-      "rawIsoTime": "2012-10-12T15:00:00Z",
-      "time": "1 - 0 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Finland v Georgia",
-      "matchAr": "فنلندا × جورجيا",
-      "rawIsoTime": "2012-10-12T15:30:00Z",
-      "time": "1 - 1 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Kazakhstan v Austria",
-      "matchAr": "كازاخستان × النمسا",
-      "rawIsoTime": "2012-10-12T16:00:00Z",
-      "time": "0 - 0 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Faroe Islands v Sweden",
-      "matchAr": "جزر فارو × السويد",
-      "rawIsoTime": "2012-10-12T16:00:00Z",
-      "time": "1 - 2 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Czech Republic v Malta",
-      "matchAr": "جمهورية التشيك × مالطا",
-      "rawIsoTime": "2012-10-12T16:00:00Z",
-      "time": "3 - 1 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Albania v Iceland",
-      "matchAr": "ألبانيا × آيسلندا",
-      "rawIsoTime": "2012-10-12T17:00:00Z",
-      "time": "1 - 2 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Armenia v Italy",
-      "matchAr": "أرمينيا × إيطاليا",
-      "rawIsoTime": "2012-10-12T17:00:00Z",
-      "time": "1 - 3 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Liechtenstein v Lithuania",
-      "matchAr": "ليشتنشتاين × ليتوانيا",
-      "rawIsoTime": "2012-10-12T17:30:00Z",
-      "time": "0 - 2 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Turkey v Romania",
-      "matchAr": "تركيا × رومانيا",
-      "rawIsoTime": "2012-10-12T17:30:00Z",
+      "tournamentEn": "🛡️ UEFA Youth League",
+      "tournamentAr": "🛡️ دوري أبطال أوروبا للشباب",
+      "matchEn": "Roma v Real Madrid",
+      "matchAr": "روما عاما × ريال مدريد سنة",
+      "rawIsoTime": "2026-10-14T12:00:00Z",
       "time": "0 - 1 (done)",
       "isLive": false
     },
     {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Belarus v Spain",
-      "matchAr": "روسيا البيضاء × إسبانيا",
-      "rawIsoTime": "2012-10-12T18:00:00Z",
-      "time": "0 - 4 (done)",
+      "tournamentEn": "🛡️ UEFA Youth League",
+      "tournamentAr": "🛡️ دوري أبطال أوروبا للشباب",
+      "matchEn": "AP Brera Strumica v Santa Coloma",
+      "matchAr": "إيه بي بريرا ستروميكا سنة × سانتا كولوما سنة",
+      "rawIsoTime": "2026-10-14T12:00:00Z",
+      "time": "8 - 0 (done)",
       "isLive": false
     },
     {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Moldova v Ukraine",
-      "matchAr": "مولدوفا × أوكرانيا",
-      "rawIsoTime": "2012-10-12T18:00:00Z",
-      "time": "0 - 0 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Bulgaria v Denmark",
-      "matchAr": "بلغاريا × الدانمارك",
-      "rawIsoTime": "2012-10-12T18:00:00Z",
-      "time": "1 - 1 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Slovakia v Latvia",
-      "matchAr": "سلوفاكيا × لاتفيا",
-      "rawIsoTime": "2012-10-12T18:15:00Z",
+      "tournamentEn": "🛡️ UEFA Youth League",
+      "tournamentAr": "🛡️ دوري أبطال أوروبا للشباب",
+      "matchEn": "Aston Villa v Fenerbahçe",
+      "matchAr": "أستون فيلا سنة × فنربخشة عاما",
+      "rawIsoTime": "2026-10-14T13:00:00Z",
       "time": "2 - 1 (done)",
       "isLive": false
     },
     {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Switzerland v Norway",
-      "matchAr": "سويسرا × النرويج",
-      "rawIsoTime": "2012-10-12T18:30:00Z",
-      "time": "1 - 1 (done)",
+      "tournamentEn": "🛡️ UEFA Youth League",
+      "tournamentAr": "🛡️ دوري أبطال أوروبا للشباب",
+      "matchEn": "Real Betis v Porto",
+      "matchAr": "ريال بيتيس سنة × بورتو سنة",
+      "rawIsoTime": "2026-10-14T14:00:00Z",
+      "time": "1 - 0 (live)",
+      "isLive": true
+    },
+    {
+      "tournamentEn": "🛡️ UEFA Youth League",
+      "tournamentAr": "🛡️ دوري أبطال أوروبا للشباب",
+      "matchEn": "Manchester City v Paris Saint-Germain",
+      "matchAr": "مانشستر سيتي سنة × باريس سان جيرمان سنة",
+      "rawIsoTime": "2026-10-14T14:00:00Z",
+      "time": "0 - 1 (live)",
+      "isLive": true
+    },
+    {
+      "tournamentEn": "🛡️ UEFA Youth League",
+      "tournamentAr": "🛡️ دوري أبطال أوروبا للشباب",
+      "matchEn": "SK Super Nova v Cliftonville",
+      "matchAr": "إس كيه سوبر نوفا سنة × كليفتونفيل سنة",
+      "rawIsoTime": "2026-10-14T15:00:00Z",
+      "time": "15:00",
       "isLive": false
     },
     {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Serbia v Belgium",
-      "matchAr": "صربيا × بلجيكا",
-      "rawIsoTime": "2012-10-12T18:30:00Z",
-      "time": "0 - 3 (done)",
+      "tournamentEn": "🛡️ UEFA Youth League",
+      "tournamentAr": "🛡️ دوري أبطال أوروبا للشباب",
+      "matchEn": "Žalgiris Vilnius v IF Thor Akureyri",
+      "matchAr": "زالغيريس فيلنوس × إي إف ثور أكوريري سنة",
+      "rawIsoTime": "2026-10-14T16:00:00Z",
+      "time": "16:00",
       "isLive": false
     },
     {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "North Macedonia v Croatia",
-      "matchAr": "مقدونيا الشمالية × كرواتيا",
-      "rawIsoTime": "2012-10-12T18:30:00Z",
-      "time": "1 - 2 (done)",
+      "tournamentEn": "🛡️ UEFA Youth League",
+      "tournamentAr": "🛡️ دوري أبطال أوروبا للشباب",
+      "matchEn": "UNA Strassen v Cardiff Metropolitan",
+      "matchAr": "أونا ستراسين دون 19 عاماً × كارديف متروبوليتان سنة",
+      "rawIsoTime": "2026-10-14T17:30:00Z",
+      "time": "17:30",
       "isLive": false
     },
     {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Estonia v Hungary",
-      "matchAr": "إستونيا × المجر",
-      "rawIsoTime": "2012-10-12T18:30:00Z",
-      "time": "0 - 1 (done)",
+      "tournamentEn": "🛡️ UEFA Youth League",
+      "tournamentAr": "🛡️ دوري أبطال أوروبا للشباب",
+      "matchEn": "HB Tórshavn v Flora Tallinn",
+      "matchAr": "إتش بي تورشهافن سنة × فلورا تالين سنة",
+      "rawIsoTime": "2026-10-14T18:00:00Z",
+      "time": "18:00",
       "isLive": false
     },
     {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Netherlands v Andorra",
-      "matchAr": "هولندا × اندورا",
-      "rawIsoTime": "2012-10-12T18:30:00Z",
-      "time": "3 - 0 (done)",
+      "tournamentEn": "🇦🇷 Argentine Primera División",
+      "tournamentAr": "🇦🇷 الدوري الأرجنتيني",
+      "matchEn": "Atlético Sarmiento v River Plate",
+      "matchAr": "أتلتيكو سارمينتو × ريفر بليت",
+      "rawIsoTime": "2026-10-14T22:00:00Z",
+      "time": "22:00",
       "isLive": false
     },
     {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Slovenia v Cyprus",
-      "matchAr": "سلوفينيا × قبرص",
-      "rawIsoTime": "2012-10-12T18:45:00Z",
-      "time": "2 - 1 (done)",
+      "tournamentEn": "🇺🇸 USA MLS",
+      "tournamentAr": "🇺🇸 الدوري الأمريكي",
+      "matchEn": "D.C. United v New York Red Bulls",
+      "matchAr": "دي سي يونايتد × نيويورك ريدبولز",
+      "rawIsoTime": "2026-10-14T23:30:00Z",
+      "time": "23:30",
       "isLive": false
     },
     {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Ireland v Germany",
-      "matchAr": "ايرلندا × ألمانيا",
-      "rawIsoTime": "2012-10-12T18:45:00Z",
-      "time": "1 - 6 (done)",
+      "tournamentEn": "🇺🇸 USA MLS",
+      "tournamentAr": "🇺🇸 الدوري الأمريكي",
+      "matchEn": "FC Cincinnati v New England Revolution",
+      "matchAr": "سينسيناتي × نيو إنجلاند ريفولوشن",
+      "rawIsoTime": "2026-10-14T23:30:00Z",
+      "time": "23:30",
       "isLive": false
     },
     {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Wales v Scotland",
-      "matchAr": "ويلز × أسكتلندا",
-      "rawIsoTime": "2012-10-12T18:45:00Z",
-      "time": "2 - 1 (done)",
+      "tournamentEn": "🇺🇸 USA MLS",
+      "tournamentAr": "🇺🇸 الدوري الأمريكي",
+      "matchEn": "Inter Miami v New York City FC",
+      "matchAr": "إنتر ميامي × نيو يورك سيتي",
+      "rawIsoTime": "2026-10-14T23:30:00Z",
+      "time": "23:30",
       "isLive": false
     },
     {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Greece v Bosnia and Herzegovina",
-      "matchAr": "اليونان × البوسنة والهرسك",
-      "rawIsoTime": "2012-10-12T18:45:00Z",
-      "time": "0 - 0 (done)",
+      "tournamentEn": "🇺🇸 USA MLS",
+      "tournamentAr": "🇺🇸 الدوري الأمريكي",
+      "matchEn": "Montreal Impact v Atlanta United",
+      "matchAr": "مونتريال إمباكت × أتلانتا يونايتد",
+      "rawIsoTime": "2026-10-14T23:30:00Z",
+      "time": "23:30",
       "isLive": false
     },
     {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Luxembourg v Unknown Team",
-      "matchAr": "لوكسمبورغ × Unknown Team فريق غير معروف",
-      "rawIsoTime": "2012-10-12T19:00:00Z",
-      "time": "0 - 6 (done)",
+      "tournamentEn": "🇺🇸 USA MLS",
+      "tournamentAr": "🇺🇸 الدوري الأمريكي",
+      "matchEn": "Toronto FC v Orlando City",
+      "matchAr": "تورنتو × أورلاندو سيتي",
+      "rawIsoTime": "2026-10-14T23:30:00Z",
+      "time": "23:30",
       "isLive": false
     },
     {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "England v San Marino",
-      "matchAr": "إنجلترا × سان مارينو",
-      "rawIsoTime": "2012-10-12T19:00:00Z",
-      "time": "5 - 0 (done)",
+      "tournamentEn": "🇺🇸 USA MLS",
+      "tournamentAr": "🇺🇸 الدوري الأمريكي",
+      "matchEn": "Columbus Crew v Charlotte FC",
+      "matchAr": "كولومبوس كرو × شارلوت",
+      "rawIsoTime": "2026-10-14T23:30:00Z",
+      "time": "23:30",
       "isLive": false
     },
     {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Russia v Azerbaijan",
-      "matchAr": "روسيا × أذربيجان",
-      "rawIsoTime": "2012-10-16T15:00:00Z",
-      "time": "1 - 0 (done)",
+      "tournamentEn": "🇱🇾 Libyan Premier League",
+      "tournamentAr": "🇱🇾 الدوري الليبي الممتاز",
+      "matchEn": "Khaleej Sirte v Al-Akhdar",
+      "matchAr": "خليج سرت × الاخضر",
+      "rawIsoTime": "2026-10-14T12:00:00Z",
+      "time": "12:00",
       "isLive": false
     },
     {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Unknown Team v Luxembourg",
-      "matchAr": "Unknown Team فريق غير معروف × لوكسمبورغ",
-      "rawIsoTime": "2012-10-16T16:00:00Z",
-      "time": "3 - 0 (done)",
+      "tournamentEn": "🇱🇾 Libyan Premier League",
+      "tournamentAr": "🇱🇾 الدوري الليبي الممتاز",
+      "matchEn": "Club Africain v Al-Sharara",
+      "matchAr": "الأفريقي × الشرارة",
+      "rawIsoTime": "2026-10-14T12:00:00Z",
+      "time": "12:00",
       "isLive": false
     },
     {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Belarus v Georgia",
-      "matchAr": "روسيا البيضاء × جورجيا",
-      "rawIsoTime": "2012-10-16T16:00:00Z",
-      "time": "2 - 0 (done)",
+      "tournamentEn": "🇱🇾 Libyan Premier League",
+      "tournamentAr": "🇱🇾 الدوري الليبي الممتاز",
+      "matchEn": "Al-Malaab Al-Libi v Al-Majd",
+      "matchAr": "الملعب الليبي × المجد الليبي",
+      "rawIsoTime": "2026-10-14T12:30:00Z",
+      "time": "12:30",
       "isLive": false
     },
     {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Latvia v Liechtenstein",
-      "matchAr": "لاتفيا × ليشتنشتاين",
-      "rawIsoTime": "2012-10-16T17:00:00Z",
-      "time": "2 - 0 (done)",
+      "tournamentEn": "🇱🇾 Libyan Premier League",
+      "tournamentAr": "🇱🇾 الدوري الليبي الممتاز",
+      "matchEn": "Al-Shomou v Al-Ittihad",
+      "matchAr": "الشموع × الاتحاد الليبي",
+      "rawIsoTime": "2026-10-14T16:00:00Z",
+      "time": "16:00",
       "isLive": false
     },
     {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Andorra v Estonia",
-      "matchAr": "اندورا × إستونيا",
-      "rawIsoTime": "2012-10-16T17:00:00Z",
-      "time": "0 - 1 (done)",
+      "tournamentEn": "🇸🇦 Saudi First Division League",
+      "tournamentAr": "🇸🇦 FDL دوري الدرجة الأولى السعودي",
+      "matchEn": "Hajer v Al-Orobah",
+      "matchAr": "هجر السعودي × العروبة",
+      "rawIsoTime": "2026-10-14T14:55:00Z",
+      "time": "14:55 (canceled)",
       "isLive": false
     },
     {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Ukraine v Montenegro",
-      "matchAr": "أوكرانيا × الجبل الاسود",
-      "rawIsoTime": "2012-10-16T18:00:00Z",
-      "time": "0 - 1 (done)",
+      "tournamentEn": "🇸🇦 Saudi First Division League",
+      "tournamentAr": "🇸🇦 FDL دوري الدرجة الأولى السعودي",
+      "matchEn": "Al-Jandal v Al-Okhdood",
+      "matchAr": "الجندل × الاخدود",
+      "rawIsoTime": "2026-10-14T15:30:00Z",
+      "time": "15:30",
       "isLive": false
     },
     {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Faroe Islands v Ireland",
-      "matchAr": "جزر فارو × ايرلندا",
-      "rawIsoTime": "2012-10-16T18:00:00Z",
-      "time": "1 - 4 (done)",
+      "tournamentEn": "🇸🇦 Saudi First Division League",
+      "tournamentAr": "🇸🇦 FDL دوري الدرجة الأولى السعودي",
+      "matchEn": "Al-Raed v Jeddah",
+      "matchAr": "الرائد السعودي × جدة",
+      "rawIsoTime": "2026-10-14T17:00:00Z",
+      "time": "17:00",
       "isLive": false
     },
     {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Cyprus v Norway",
-      "matchAr": "قبرص × النرويج",
-      "rawIsoTime": "2012-10-16T18:00:00Z",
-      "time": "1 - 3 (done)",
-      "isLive": false
+      "tournamentEn": "🇰🇼 Kuwaiti First Division League",
+      "tournamentAr": "🇰🇼 الدوري الكويتي الدرجة الأولى",
+      "matchEn": "Al-Yarmouk v Burgan",
+      "matchAr": "اليرموك × برقان",
+      "rawIsoTime": "2026-10-14T14:45:00Z",
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Romania v Netherlands",
-      "matchAr": "رومانيا × هولندا",
-      "rawIsoTime": "2012-10-16T18:00:00Z",
-      "time": "1 - 4 (done)",
-      "isLive": false
+      "tournamentEn": "🇰🇼 Kuwaiti First Division League",
+      "tournamentAr": "🇰🇼 الدوري الكويتي الدرجة الأولى",
+      "matchEn": "Al Jazira v Al-Shamiya",
+      "matchAr": "الجزيرة × الشامية",
+      "rawIsoTime": "2026-10-14T14:45:00Z",
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Bosnia and Herzegovina v Lithuania",
-      "matchAr": "البوسنة والهرسك × ليتوانيا",
-      "rawIsoTime": "2012-10-16T18:00:00Z",
-      "time": "3 - 0 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Czech Republic v Bulgaria",
-      "matchAr": "جمهورية التشيك × بلغاريا",
-      "rawIsoTime": "2012-10-16T18:00:00Z",
-      "time": "0 - 0 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ European Qualifiers for the FIFA World Cup",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكأس العالم",
-      "matchEn": "Croatia v Wales",
-      "matchAr": "كرواتيا × ويلز",
-      "rawIsoTime": "2012-10-16T18:00:00Z",
-      "time": "2 - 0 (done)",
+      "tournamentEn": "🇰🇼 Kuwaiti First Division League",
+      "tournamentAr": "🇰🇼 الدوري الكويتي الدرجة الأولى",
+      "matchEn": "Al-Ittihad v Sporty FC",
+      "matchAr": "الاتحاد الكويتي × سبورتي FC",
+      "rawIsoTime": "2026-10-14T14:45:00Z",
+      "time": "14:45",
       "isLive": false
     }
   ]
