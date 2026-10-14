@@ -213,7 +213,7 @@
       "matchEn": "Portsmouth v Sheffield United",
       "matchAr": "بورتسموث × شيفيلد يونايتد",
       "rawIsoTime": "2026-10-14T21:45:00+03:00",
-      "time": "1 - 0 (live)",
+      "time": "2 - 0 (live)",
       "isLive": true
     },
     {
@@ -222,7 +222,7 @@
       "matchEn": "Norwich City v Southampton",
       "matchAr": "نورويتش سيتي × ساوثهامبتون",
       "rawIsoTime": "2026-10-14T21:45:00+03:00",
-      "time": "0 - 0 (live)",
+      "time": "0 - 1 (live)",
       "isLive": true
     },
     {
@@ -258,8 +258,8 @@
       "matchEn": "Ittihad Tanger v Maghreb Fès",
       "matchAr": "إتحاد طنجة × المغرب الفاسي",
       "rawIsoTime": "2026-10-14T23:00:00+03:00",
-      "time": "20:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇩🇿 Algerian Ligue 1",
