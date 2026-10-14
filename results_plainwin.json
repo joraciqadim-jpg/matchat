@@ -120,7 +120,7 @@
     {
       "tournamentEn": "🛡️ AFC Champions League Two",
       "tournamentAr": "🛡️ دوري أبطال آسيا 2",
-      "matchEn": "Nasaf v Al Wahda FC",
+      "matchEn": "Nasaf v Emirati Al Wahda",
       "matchAr": "ناساف × الوحدة الإماراتي",
       "rawIsoTime": "2026-10-14T13:45:00Z",
       "time": "1 - 2 (live)",
@@ -129,7 +129,7 @@
     {
       "tournamentEn": "🛡️ AFC Champions League Two",
       "tournamentAr": "🛡️ دوري أبطال آسيا 2",
-      "matchEn": "Al Jazira Club v Arkadag",
+      "matchEn": "Emirati Al Jazira v Arkadag",
       "matchAr": "الجزيرة الإماراتي × أركاداغ",
       "rawIsoTime": "2026-10-14T16:00:00Z",
       "time": "16:00",
@@ -138,7 +138,7 @@
     {
       "tournamentEn": "🛡️ AFC Champions League Two",
       "tournamentAr": "🛡️ دوري أبطال آسيا 2",
-      "matchEn": "Muharraq v Gol Gohar Sirjan FC",
+      "matchEn": "Muharraq v Gol Gohar Sirjan",
       "matchAr": "المحرق × جول جوهار سيرجان",
       "rawIsoTime": "2026-10-14T16:00:00Z",
       "time": "16:00",
@@ -165,7 +165,7 @@
     {
       "tournamentEn": "🛡️ AFC Champions League Two",
       "tournamentAr": "🛡️ دوري أبطال آسيا 2",
-      "matchEn": "Al Faisaly v Al-Nahda Club",
+      "matchEn": "Al Faisaly v Omani Al-Nahda",
       "matchAr": "الفيصلي × النهضة العماني",
       "rawIsoTime": "2026-10-14T18:15:00Z",
       "time": "18:15",
@@ -262,7 +262,7 @@
       "isLive": false
     },
     {
-      "tournamentEn": "🇲🇦 Moroccan Botola Pro Inwi",
+      "tournamentEn": "🇲🇦 Moroccan Botola Pro",
       "tournamentAr": "🇲🇦 البطولة الوطنية الاحترافية \"إنوي\"",
       "matchEn": "Ittihad Tanger v Maghreb Fès",
       "matchAr": "اتحاد طنجة × المغرب الفاسي",
@@ -420,8 +420,8 @@
       "matchEn": "SK Super Nova v Cliftonville",
       "matchAr": "إس كيه سوبر نوفا سنة × كليفتونفيل سنة",
       "rawIsoTime": "2026-10-14T15:00:00Z",
-      "time": "15:00",
-      "isLive": false
+      "time": "1 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🛡️ UEFA Youth League",
@@ -516,7 +516,7 @@
     {
       "tournamentEn": "🇱🇾 Libyan Premier League",
       "tournamentAr": "🇱🇾 الدوري الليبي الممتاز",
-      "matchEn": "Khaleej Sirte v Al-Akhdar",
+      "matchEn": "Khaleej Sirte v Al Akhdar",
       "matchAr": "خليج سرت × الاخضر",
       "rawIsoTime": "2026-10-14T12:00:00Z",
       "time": "12:00",
@@ -591,7 +591,7 @@
       "matchEn": "Al Jazira v Al-Shamiya",
       "matchAr": "الجزيرة × الشامية",
       "rawIsoTime": "2026-10-14T14:45:00Z",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
