@@ -267,8 +267,8 @@
       "matchEn": "ES Sétif v JS Kabylie",
       "matchAr": "وفاق سطيف × شبيبة القبائل",
       "rawIsoTime": "2026-10-14T20:00:00+03:00",
-      "time": "1 - 1 (live)",
-      "isLive": true
+      "time": "1 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇩🇿 Algerian Ligue 1",
@@ -276,8 +276,8 @@
       "matchEn": "Chabab Aïn Témouchent v Mouloudia Baladiat Rouissat",
       "matchAr": "شباب عين تيموشنت × مستقبل الرويسات",
       "rawIsoTime": "2026-10-14T20:00:00+03:00",
-      "time": "0 - 2 (live)",
-      "isLive": true
+      "time": "0 - 2 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇸🇦 Saudi First Division League",
@@ -807,7 +807,7 @@
       "matchEn": "UNA Strassen (Luxembourg) v Cardiff Met (Wales)",
       "matchAr": "أونا ستراسين (لوكسمبورغ) × كارديف ميت (ويلز)",
       "rawIsoTime": "2026-10-14T20:30:00+03:00",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
