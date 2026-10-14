@@ -6,7 +6,7 @@
       "matchEn": "LASK (Austria) v Liverpool (England)",
       "matchAr": "لاسك (النمسا) × ليفربول (إنجلترا)",
       "rawIsoTime": "2026-10-14T19:45:00+03:00",
-      "time": "0 - 3 (live)",
+      "time": "0 - 4 (live)",
       "isLive": true
     },
     {
@@ -15,7 +15,7 @@
       "matchEn": "Feyenoord (Netherlands) v Como (Italy)",
       "matchAr": "فاينورد (هولندا) × كومو (إيطاليا)",
       "rawIsoTime": "2026-10-14T19:45:00+03:00",
-      "time": "1 - 1 (live)",
+      "time": "2 - 1 (live)",
       "isLive": true
     },
     {
@@ -132,8 +132,8 @@
       "matchEn": "Kuwait SC (Kuwait SC) v Al Khalidiya (Bahrain)",
       "matchAr": "الكويت (الكويت) × الخالدية (البحرين)",
       "rawIsoTime": "2026-10-14T19:00:00+03:00",
-      "time": "2 - 1 (live)",
-      "isLive": true
+      "time": "3 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🛡️ AFC Champions League Two",
@@ -141,8 +141,8 @@
       "matchEn": "Al Jazira (Emirates) v Arkadag (Turkmenistan)",
       "matchAr": "الجزيرة (الإمارات) × أركاداغ (تركمانستان)",
       "rawIsoTime": "2026-10-14T19:00:00+03:00",
-      "time": "1 - 1 (live)",
-      "isLive": true
+      "time": "2 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🛡️ AFC Champions League Two",
@@ -150,8 +150,8 @@
       "matchEn": "Muharraq (Bahrain) v Gol Gohar Sirjan (Iran)",
       "matchAr": "المحرق (البحرين) × غل غهر سيرجان (إيران)",
       "rawIsoTime": "2026-10-14T19:00:00+03:00",
-      "time": "1 - 0 (live)",
-      "isLive": true
+      "time": "2 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🛡️ AFC Champions League Two",
@@ -159,8 +159,8 @@
       "matchEn": "Al-Taawoun (Saudi Arabia) v Al Rayyan (Qatar SC)",
       "matchAr": "التعاون (السعودية) × الريان (قطر)",
       "rawIsoTime": "2026-10-14T19:00:00+03:00",
-      "time": "2 - 1 (live)",
-      "isLive": true
+      "time": "2 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🛡️ AFC Champions League Two",
@@ -186,8 +186,8 @@
       "matchEn": "Al Ettifaq (Saudi Arabia) v Kazma (Kuwait SC)",
       "matchAr": "الاتفاق (السعودية) × كاظمة (الكويت)",
       "rawIsoTime": "2026-10-14T19:00:00+03:00",
-      "time": "1 - 0 (live)",
-      "isLive": true
+      "time": "2 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🛡️ Gulf Champions League",
@@ -195,8 +195,8 @@
       "matchEn": "Ajman (Emirates) v Erbil (Iraq)",
       "matchAr": "عجمان (الإمارات) × أربيل (العراق)",
       "rawIsoTime": "2026-10-14T19:00:00+03:00",
-      "time": "5 - 4 (live)",
-      "isLive": true
+      "time": "5 - 4 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇬🇧 English Championship",
@@ -411,8 +411,8 @@
       "matchEn": "Chertanovo v Tekstilshchik",
       "matchAr": "تشيرتانوفو × تيكستيلشيك",
       "rawIsoTime": "2026-10-14T19:00:00+03:00",
-      "time": "2 - 1 (live)",
-      "isLive": true
+      "time": "2 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏆 Russian Cup",
@@ -420,7 +420,7 @@
       "matchEn": "Nizhny Novgorod v Shinnik Yaroslavl",
       "matchAr": "نيجني نوفغورود × شينيك ياروسلافل",
       "rawIsoTime": "2026-10-14T19:15:00+03:00",
-      "time": "2 - 0 (live)",
+      "time": "4 - 0 (live)",
       "isLive": true
     },
     {
@@ -429,7 +429,7 @@
       "matchEn": "CSKA Moscow v Rostov",
       "matchAr": "سسكا موسكو × روستوف",
       "rawIsoTime": "2026-10-14T20:45:00+03:00",
-      "time": "0 - 0 (live)",
+      "time": "3 - 0 (live)",
       "isLive": true
     },
     {
@@ -654,8 +654,8 @@
       "matchEn": "Niger v Nigeria",
       "matchAr": "النيجر × نيجيريا",
       "rawIsoTime": "2026-10-14T22:00:00+03:00",
-      "time": "2 - 0 (live)",
-      "isLive": true
+      "time": "2 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🛡️ UEFA Youth League",
@@ -816,8 +816,8 @@
       "matchEn": "Havnar Bóltfelag (Faroe Islands) v FC Flora (Estonia)",
       "matchAr": "هافنار بولتفيلاج (جزر فارو) × فلورا (إستونيا)",
       "rawIsoTime": "2026-10-14T21:00:00+03:00",
-      "time": "18:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇨🇿 Czech Liga",
@@ -825,8 +825,8 @@
       "matchEn": "Bohemians 1905 v FK Mladá Boleslav",
       "matchAr": "بوهيميانز 1905 × ملادا بوليسلاف",
       "rawIsoTime": "2026-10-14T19:00:00+03:00",
-      "time": "1 - 0 (live)",
-      "isLive": true
+      "time": "1 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇨🇴 Colombian Primera A",
