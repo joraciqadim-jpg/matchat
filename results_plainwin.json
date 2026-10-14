@@ -123,8 +123,8 @@
       "matchEn": "Nasaf v Emirati Al Wahda",
       "matchAr": "ناساف × الوحدة الإماراتي",
       "rawIsoTime": "2026-10-14T13:45:00Z",
-      "time": "1 - 2 (live)",
-      "isLive": true
+      "time": "1 - 2 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🛡️ AFC Champions League Two",
@@ -132,8 +132,8 @@
       "matchEn": "Emirati Al Jazira v Arkadag",
       "matchAr": "الجزيرة الإماراتي × أركاداغ",
       "rawIsoTime": "2026-10-14T16:00:00Z",
-      "time": "16:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🛡️ AFC Champions League Two",
@@ -141,8 +141,8 @@
       "matchEn": "Muharraq v Gol Gohar Sirjan (Iran)",
       "matchAr": "المحرق × جول جوهار سيرجان (إيران)",
       "rawIsoTime": "2026-10-14T16:00:00Z",
-      "time": "16:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🛡️ AFC Champions League Two",
@@ -150,8 +150,8 @@
       "matchEn": "Al-Taawoun v Al Rayyan",
       "matchAr": "التعاون × الريان",
       "rawIsoTime": "2026-10-14T16:00:00Z",
-      "time": "16:00",
-      "isLive": false
+      "time": "1 - 1 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🛡️ AFC Champions League Two",
@@ -177,7 +177,7 @@
       "matchEn": "Al Duhail v Al-Shabab",
       "matchAr": "الدحيل × الشباب",
       "rawIsoTime": "2026-10-14T14:45:00Z",
-      "time": "1 - 0 (live)",
+      "time": "3 - 0 (live)",
       "isLive": true
     },
     {
@@ -186,8 +186,8 @@
       "matchEn": "Al Ettifaq v Kazma",
       "matchAr": "الاتفاق × كاظمة",
       "rawIsoTime": "2026-10-14T16:00:00Z",
-      "time": "16:00",
-      "isLive": false
+      "time": "1 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🛡️ Gulf Club Champions League",
@@ -195,8 +195,8 @@
       "matchEn": "Ajman v Erbil",
       "matchAr": "عجمان × أربيل",
       "rawIsoTime": "2026-10-14T16:00:00Z",
-      "time": "16:00",
-      "isLive": false
+      "time": "1 - 3 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏆 Portuguese Cup",
@@ -402,8 +402,8 @@
       "matchEn": "Real Betis v Porto",
       "matchAr": "ريال بيتيس × بورتو",
       "rawIsoTime": "2026-10-14T14:00:00Z",
-      "time": "4 - 0 (live)",
-      "isLive": true
+      "time": "5 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🛡️ UEFA Youth League",
@@ -411,8 +411,8 @@
       "matchEn": "Manchester City v Paris Saint-Germain",
       "matchAr": "مانشستر سيتي × باريس سان جيرمان",
       "rawIsoTime": "2026-10-14T14:00:00Z",
-      "time": "0 - 1 (live)",
-      "isLive": true
+      "time": "0 - 2 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🛡️ UEFA Youth League",
@@ -429,14 +429,14 @@
       "matchEn": "Žalgiris Vilnius v IF Thor Akureyri Under-19",
       "matchAr": "زالغيريس فيلنوس × إي إف ثور أكوريري تحت 19 سنة",
       "rawIsoTime": "2026-10-14T16:00:00Z",
-      "time": "16:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🛡️ UEFA Youth League",
       "tournamentAr": "🛡️ دوري أبطال أوروبا للشباب",
       "matchEn": "UNA Strassen U19 (Luxembourg) v Cardiff Metropolitan Under-19",
-      "matchAr": "أونا ستراسين تحت 19 عاماً (لوكسمبورغ) × كارديف متروبوليتان تحت 19 سنة",
+      "matchAr": "أونا ستراسين دون 19 عاماً (لوكسمبورغ) × كارديف متروبوليتان تحت 19 سنة",
       "rawIsoTime": "2026-10-14T17:30:00Z",
       "time": "17:30",
       "isLive": false
@@ -561,11 +561,11 @@
     {
       "tournamentEn": "🇸🇦 Saudi First Division League (FDL)",
       "tournamentAr": "🇸🇦 FDL دوري الدرجة الأولى السعودي",
-      "matchEn": "Al-Jandal v Al-Okhdood (Saudi Arabia)",
-      "matchAr": "الجندل × الأخدود (السعودية)",
+      "matchEn": "Al-Jandal v Al Okhdood (Saudi Arabia)",
+      "matchAr": "الجندل × الاخدود (السعودية)",
       "rawIsoTime": "2026-10-14T15:30:00Z",
-      "time": "15:30",
-      "isLive": false
+      "time": "0 - 1 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇸🇦 Saudi First Division League (FDL)",
@@ -591,7 +591,7 @@
       "matchEn": "Al Jazira v Al-Shamiya",
       "matchAr": "الجزيرة × الشامية",
       "rawIsoTime": "2026-10-14T14:45:00Z",
-      "time": "2 - 1 (live)",
+      "time": "6 - 1 (live)",
       "isLive": true
     },
     {
