@@ -42,8 +42,8 @@
       "matchEn": "Manchester City (England) v Paris Saint-Germain (France)",
       "matchAr": "مانشستر سيتي (إنجلترا) × باريس سان جيرمان (فرنسا)",
       "rawIsoTime": "2026-10-14T22:00:00+03:00",
-      "time": "19:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🛡️ UEFA Champions League",
@@ -204,7 +204,7 @@
       "matchEn": "Queens Park Rangers v Derby County",
       "matchAr": "كوينز بارك رينجرز × ديربي كاونتي",
       "rawIsoTime": "2026-10-14T21:45:00+03:00",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -249,7 +249,7 @@
       "matchEn": "União de Santarém v Gil Vicente",
       "matchAr": "يونيون سانتاريم × جيل فيسنتي",
       "rawIsoTime": "2026-10-14T21:00:00+03:00",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -330,8 +330,8 @@
       "matchEn": "Al-Shomou v Al-Ittihad",
       "matchAr": "الشموع × الاتحاد",
       "rawIsoTime": "2026-10-14T20:00:00+03:00",
-      "time": "0 - 1 (live)",
-      "isLive": true
+      "time": "0 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏆 Russian Cup",
