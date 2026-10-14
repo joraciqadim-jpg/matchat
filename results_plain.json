@@ -258,8 +258,8 @@
       "matchEn": "ES Sétif v JS Kabylie",
       "matchAr": "وفاق سطيف × شبيبة القبائل",
       "rawIsoTime": "2026-10-14T20:00:00+03:00",
-      "time": "17:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇩🇿 Algerian Ligue 1",
@@ -267,8 +267,8 @@
       "matchEn": "Chabab Aïn Témouchent v Mouloudia Baladiat Rouissat",
       "matchAr": "شباب عين تيموشنت × مستقبل الرويسات",
       "rawIsoTime": "2026-10-14T20:00:00+03:00",
-      "time": "17:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇸🇦 Saudi First Division League",
@@ -285,8 +285,8 @@
       "matchEn": "Al-Raed v Jeddah",
       "matchAr": "الرائد × جدة",
       "rawIsoTime": "2026-10-14T20:00:00+03:00",
-      "time": "17:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇱🇾 Libyan Premier League",
@@ -393,7 +393,7 @@
       "matchEn": "Dynamo Makhachkala v Zenit",
       "matchAr": "دينامو مخاتشكالا × زينيت",
       "rawIsoTime": "2026-10-14T18:30:00+03:00",
-      "time": "1 - 1 (live)",
+      "time": "1 - 2 (live)",
       "isLive": true
     },
     {
