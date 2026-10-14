@@ -294,8 +294,8 @@
       "matchEn": "Club Africain v Al-Sharara",
       "matchAr": "الأفريقي × الشرارة",
       "rawIsoTime": "2026-10-14T16:00:00+03:00",
-      "time": "13:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇱🇾 Libyan Premier League",
@@ -348,8 +348,8 @@
       "matchEn": "Yenisey v FC Kaluga",
       "matchAr": "ينيسي × كالوغا",
       "rawIsoTime": "2026-10-14T14:30:00+03:00",
-      "time": "2 - 0 (live)",
-      "isLive": true
+      "time": "2 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏆 Russian Cup",
@@ -357,7 +357,7 @@
       "matchEn": "Leningradets v Luki-Energiya",
       "matchAr": "لينينغراديتس × لوكي إنيرجيا",
       "rawIsoTime": "2026-10-14T15:00:00+03:00",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -366,8 +366,8 @@
       "matchEn": "Krylia Sovetov v Baltika",
       "matchAr": "كريليا سوفيتوف × بالتيكا",
       "rawIsoTime": "2026-10-14T16:15:00+03:00",
-      "time": "13:15",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏆 Russian Cup",
@@ -717,7 +717,7 @@
       "matchEn": "Roma (Italy) v Real Madrid (Spain)",
       "matchAr": "روما (إيطاليا) × ريال مدريد (إسبانيا)",
       "rawIsoTime": "2026-10-14T15:00:00+03:00",
-      "time": "0 - 1 (live)",
+      "time": "0 - 0 (live)",
       "isLive": true
     },
     {
@@ -753,7 +753,7 @@
       "matchEn": "Partizani Tirana (Albania) v Valletta FC (Malta)",
       "matchAr": "بارتيزاني تيرانا (ألبانيا) × فاليتا (مالطا)",
       "rawIsoTime": "2026-10-14T15:00:00+03:00",
-      "time": "3 - 0 (live)",
+      "time": "4 - 0 (live)",
       "isLive": true
     },
     {
@@ -762,7 +762,7 @@
       "matchEn": "Aston Villa (England) v Fenerbahçe (Turkey)",
       "matchAr": "أستون فيلا (إنجلترا) × فنربخشة (تركيا)",
       "rawIsoTime": "2026-10-14T16:00:00+03:00",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
