@@ -636,8 +636,8 @@
       "matchEn": "Ethiopia v Uganda",
       "matchAr": "إثيوبيا × أوغندا",
       "rawIsoTime": "2026-10-14T17:00:00+03:00",
-      "time": "14:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏆 Africa U-17 Cup of Nations Qualifiers",
@@ -744,7 +744,7 @@
       "matchEn": "Dynamo Minsk (Belarus) v Dinamo Tbilisi (Georgia)",
       "matchAr": "دينامو مينسك (روسيا البيضاء) × دينامو تبليسي (جورجيا)",
       "rawIsoTime": "2026-10-14T15:00:00+03:00",
-      "time": "2 - 3 (0 - 1)",
+      "time": "2 - 3 (1 - 2)",
       "isLive": true
     },
     {
