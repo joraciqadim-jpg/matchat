@@ -406,7 +406,7 @@
       "matchEn": "Boca Juniors (Argentina) v Vasco da Gama (Brazil)",
       "matchAr": "بوكا جونيورز (الأرجنتين) × فاسكو دا غاما (البرازيل)",
       "rawIsoTime": "2026-10-14T03:30:00+03:00",
-      "time": "00:30"
+      "time": "0 - 0 (live)"
     },
     {
       "tournamentEn": "🛡️ Copa Sudamericana",
@@ -767,6 +767,14 @@
       "matchAr": "أتلتيكو جونيور × ديبورتيفو بيريرا",
       "rawIsoTime": "2026-10-15T00:30:00+03:00",
       "time": "21:30"
+    },
+    {
+      "tournamentEn": "🇨🇴 Colombian Primera A",
+      "tournamentAr": "🇨🇴 الدوري الكولومبي",
+      "matchEn": "Santa Fe v Jaguares de Córdoba",
+      "matchAr": "سانتا فاي × خاخواريس دي كوردوبا",
+      "rawIsoTime": "2026-10-15T02:30:00+03:00",
+      "time": "23:30"
     }
   ]
 }
