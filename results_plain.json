@@ -141,7 +141,7 @@
       "matchEn": "Al Jazira (Emirates) v Arkadag (Turkmenistan)",
       "matchAr": "الجزيرة (الإمارات) × أركاداغ (تركمانستان)",
       "rawIsoTime": "2026-10-14T19:00:00+03:00",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -183,19 +183,19 @@
     {
       "tournamentEn": "🛡️ Gulf Champions League",
       "tournamentAr": "🛡️ دوري أبطال الخليج",
-      "matchEn": "Ajman (Emirates) v Erbil (Iraq)",
-      "matchAr": "عجمان (الإمارات) × أربيل (العراق)",
+      "matchEn": "Al Ettifaq (Saudi Arabia) v Kazma (Kuwait SC)",
+      "matchAr": "الاتفاق (السعودية) × كاظمة (الكويت)",
       "rawIsoTime": "2026-10-14T19:00:00+03:00",
-      "time": "2 - 3 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
       "tournamentEn": "🛡️ Gulf Champions League",
       "tournamentAr": "🛡️ دوري أبطال الخليج",
-      "matchEn": "Al Ettifaq (Saudi Arabia) v Kazma (Kuwait SC)",
-      "matchAr": "الاتفاق (السعودية) × كاظمة (الكويت)",
-      "rawIsoTime": "2026-10-14T21:00:00+03:00",
-      "time": "1 - 0 (live)",
+      "matchEn": "Ajman (Emirates) v Erbil (Iraq)",
+      "matchAr": "عجمان (الإمارات) × أربيل (العراق)",
+      "rawIsoTime": "2026-10-14T19:00:00+03:00",
+      "time": "2 - 3 (live)",
       "isLive": true
     },
     {
@@ -232,6 +232,15 @@
       "matchAr": "لينكولن سيتي × وست هام يونايتد",
       "rawIsoTime": "2026-10-14T22:00:00+03:00",
       "time": "19:00",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🇦🇷 Argentinean Primera División",
+      "tournamentAr": "🇦🇷 الدوري الأرجنتيني",
+      "matchEn": "Sarmiento v River Plate",
+      "matchAr": "سارمينتو × ريفر بليت",
+      "rawIsoTime": "2026-10-15T01:00:00+03:00",
+      "time": "22:00",
       "isLive": false
     },
     {
@@ -321,8 +330,8 @@
       "matchEn": "Al-Shomou v Al-Ittihad",
       "matchAr": "الشموع × الاتحاد",
       "rawIsoTime": "2026-10-14T20:00:00+03:00",
-      "time": "17:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏆 Russian Cup",
@@ -592,15 +601,6 @@
       "matchAr": "سان دييغو × هيوستن دينامو",
       "rawIsoTime": "2026-10-15T05:30:00+03:00",
       "time": "02:30",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🇦🇷 Argentine Primera División",
-      "tournamentAr": "🇦🇷 الدوري الأرجنتيني",
-      "matchEn": "Sarmiento v River Plate",
-      "matchAr": "سارمينتو × ريفر بليت",
-      "rawIsoTime": "2026-10-15T01:00:00+03:00",
-      "time": "22:00",
       "isLive": false
     },
     {
