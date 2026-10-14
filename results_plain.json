@@ -6,8 +6,8 @@
       "matchEn": "LASK (Austria) v Liverpool (England)",
       "matchAr": "لاسك (النمسا) × ليفربول (إنجلترا)",
       "rawIsoTime": "2026-10-14T19:45:00+03:00",
-      "time": "16:45",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🛡️ UEFA Champions League",
@@ -798,7 +798,7 @@
       "matchEn": "Žalgiris (Lithuania) v Thor (Iceland)",
       "matchAr": "زالغيريس (ليتوانيا) × ثور (آيسلندا)",
       "rawIsoTime": "2026-10-14T19:00:00+03:00",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
