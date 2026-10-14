@@ -303,8 +303,8 @@
       "matchEn": "Khaleej Sirte v Al-Akhdar",
       "matchAr": "خليج سرت × الأخضر",
       "rawIsoTime": "2026-10-14T16:00:00+03:00",
-      "time": "13:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇱🇾 Libyan Premier League",
@@ -609,7 +609,7 @@
       "matchEn": "Sunrise FC v Gasogi United",
       "matchAr": "صن رايز × جاسوجي يونايتد",
       "rawIsoTime": "2026-10-14T16:00:00+03:00",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -708,7 +708,7 @@
       "matchEn": "Slovan Bratislava (Slovakia) v Stuttgart (Germany)",
       "matchAr": "سلوفان براتيسلافا (سلوفاكيا) × شتوتغارت (ألمانيا)",
       "rawIsoTime": "2026-10-14T15:00:00+03:00",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -735,7 +735,7 @@
       "matchEn": "Akademija Pandev (North Macedonia) v FC Santa Coloma (Andorra)",
       "matchAr": "أكاديميا بانديف (شمال مقدونيا) × سانتا كولوما (أندورا)",
       "rawIsoTime": "2026-10-14T15:00:00+03:00",
-      "time": "5 - 0 (live)",
+      "time": "6 - 0 (live)",
       "isLive": true
     },
     {
@@ -753,7 +753,7 @@
       "matchEn": "Partizani Tirana (Albania) v Valletta FC (Malta)",
       "matchAr": "بارتيزاني تيرانا (ألبانيا) × فاليتا (مالطا)",
       "rawIsoTime": "2026-10-14T15:00:00+03:00",
-      "time": "2 - 0 (live)",
+      "time": "3 - 0 (live)",
       "isLive": true
     },
     {
