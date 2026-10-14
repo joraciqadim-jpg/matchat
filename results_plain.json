@@ -510,7 +510,7 @@
       "matchEn": "Atlético Mineiro (Brazil) v Montevideo City Torque (Uruguay)",
       "matchAr": "أتليتيكو مينيرو (البرازيل) × مونتيفيديو سيتي توركيه (الأوروغواي)",
       "rawIsoTime": "2026-10-15T01:00:00+03:00",
-      "time": "2 - 0 (live)",
+      "time": "3 - 0 (live)",
       "isLive": true
     },
     {
@@ -519,8 +519,8 @@
       "matchEn": "Inter Miami v New York City FC",
       "matchAr": "إنتر ميامي × نيويورك سيتي",
       "rawIsoTime": "2026-10-15T02:30:00+03:00",
-      "time": "23:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇺🇸 USA MLS",
@@ -528,8 +528,8 @@
       "matchEn": "Columbus Crew v Charlotte FC",
       "matchAr": "كولومبوس كرو × شارلوت",
       "rawIsoTime": "2026-10-15T02:30:00+03:00",
-      "time": "23:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇺🇸 USA MLS",
@@ -537,8 +537,8 @@
       "matchEn": "FC Cincinnati v New England Revolution",
       "matchAr": "سينسيناتي × نيو إنجلاند",
       "rawIsoTime": "2026-10-15T02:30:00+03:00",
-      "time": "23:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇺🇸 USA MLS",
@@ -546,8 +546,8 @@
       "matchEn": "Toronto FC v Orlando City",
       "matchAr": "تورونتو × أورلاندو سيتي",
       "rawIsoTime": "2026-10-15T02:30:00+03:00",
-      "time": "23:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇺🇸 USA MLS",
@@ -555,8 +555,8 @@
       "matchEn": "Montreal Impact v Atlanta United",
       "matchAr": "مونتريال إمباكت × أتلانتا يونايتد",
       "rawIsoTime": "2026-10-15T02:30:00+03:00",
-      "time": "23:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇺🇸 USA MLS",
@@ -564,8 +564,8 @@
       "matchEn": "D.C. United v New York Red Bulls",
       "matchAr": "دي سي يونايتد × نيويورك RB",
       "rawIsoTime": "2026-10-15T02:30:00+03:00",
-      "time": "23:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇺🇸 USA MLS",
