@@ -132,8 +132,8 @@
       "matchEn": "Kuwait SC (Kuwait SC) v Al Khalidiya (Bahrain)",
       "matchAr": "الكويت (الكويت) × الخالدية (البحرين)",
       "rawIsoTime": "2026-10-14T19:00:00+03:00",
-      "time": "16:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🛡️ AFC Champions League Two",
@@ -141,8 +141,8 @@
       "matchEn": "Al Jazira (Emirates) v Arkadag (Turkmenistan)",
       "matchAr": "الجزيرة (الإمارات) × أركاداغ (تركمانستان)",
       "rawIsoTime": "2026-10-14T19:00:00+03:00",
-      "time": "16:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🛡️ AFC Champions League Two",
@@ -150,8 +150,8 @@
       "matchEn": "Muharraq (Bahrain) v Gol Gohar Sirjan (Iran)",
       "matchAr": "المحرق (البحرين) × غل غهر سيرجان (إيران)",
       "rawIsoTime": "2026-10-14T19:00:00+03:00",
-      "time": "16:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🛡️ AFC Champions League Two",
@@ -159,8 +159,8 @@
       "matchEn": "Al-Taawoun (Saudi Arabia) v Al Rayyan (Qatar SC)",
       "matchAr": "التعاون (السعودية) × الريان (قطر)",
       "rawIsoTime": "2026-10-14T19:00:00+03:00",
-      "time": "16:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🛡️ AFC Champions League Two",
@@ -177,7 +177,7 @@
       "matchEn": "Al Duhail (Qatar SC) v Al-Shabab (Sultanate of Oman)",
       "matchAr": "الدحيل (قطر) × الشباب (سلطنة عمان)",
       "rawIsoTime": "2026-10-14T17:45:00+03:00",
-      "time": "1 - 0 (live)",
+      "time": "2 - 0 (live)",
       "isLive": true
     },
     {
@@ -186,8 +186,8 @@
       "matchEn": "Ajman (Emirates) v Erbil (Iraq)",
       "matchAr": "عجمان (الإمارات) × أربيل (العراق)",
       "rawIsoTime": "2026-10-14T19:00:00+03:00",
-      "time": "16:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🛡️ Gulf Champions League",
@@ -636,8 +636,8 @@
       "matchEn": "Ethiopia v Uganda",
       "matchAr": "إثيوبيا × أوغندا",
       "rawIsoTime": "2026-10-14T17:00:00+03:00",
-      "time": "1 - 1 (live)",
-      "isLive": true
+      "time": "1 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏆 Africa U-17 Cup of Nations Qualifiers",
@@ -771,8 +771,8 @@
       "matchEn": "Real Betis (Spain) v Porto (Portugal)",
       "matchAr": "ريال بيتيس (إسبانيا) × بورتو (البرتغال)",
       "rawIsoTime": "2026-10-14T17:00:00+03:00",
-      "time": "5 - 0 (live)",
-      "isLive": true
+      "time": "5 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🛡️ UEFA Youth League",
@@ -780,8 +780,8 @@
       "matchEn": "Manchester City (England) v Paris Saint-Germain (France)",
       "matchAr": "مانشستر سيتي (إنجلترا) × باريس سان جيرمان (فرنسا)",
       "rawIsoTime": "2026-10-14T17:00:00+03:00",
-      "time": "0 - 2 (live)",
-      "isLive": true
+      "time": "0 - 2 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🛡️ UEFA Youth League",
@@ -798,8 +798,8 @@
       "matchEn": "Žalgiris (Lithuania) v Thor (Iceland)",
       "matchAr": "زالغيريس (ليتوانيا) × ثور (آيسلندا)",
       "rawIsoTime": "2026-10-14T19:00:00+03:00",
-      "time": "16:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🛡️ UEFA Youth League",
