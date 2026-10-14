@@ -96,7 +96,7 @@
       "matchEn": "Kashiwa Reysol (Japan) v Thai Port (Thailand)",
       "matchAr": "كاشيوا ريسول (اليابان) × بورت (تايلاند)",
       "rawIsoTime": "2026-10-14T13:00:00+03:00",
-      "time": "3 - 0 (live)",
+      "time": "5 - 0 (live)",
       "isLive": true
     },
     {
@@ -330,8 +330,8 @@
       "matchEn": "SKA-Khabarovsk v Dinamo Kirov",
       "matchAr": "خاباروفسك × دينامو كيروف",
       "rawIsoTime": "2026-10-14T11:30:00+03:00",
-      "time": "2 - 0 (live)",
-      "isLive": true
+      "time": "2 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏆 Russian Cup",
@@ -672,7 +672,7 @@
       "matchEn": "LASK Linz (Austria) v Liverpool (England)",
       "matchAr": "لاسك لينز (النمسا) × ليفربول (إنجلترا)",
       "rawIsoTime": "2026-10-14T13:00:00+03:00",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
