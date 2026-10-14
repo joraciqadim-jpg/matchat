@@ -6,8 +6,8 @@
       "matchEn": "LASK Linz v Liverpool",
       "matchAr": "لاسك لينز × ليفربول",
       "rawIsoTime": "2026-10-14T16:45:00Z",
-      "time": "16:45",
-      "isLive": false
+      "time": "0 - 4 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🛡️ UEFA Champions League",
@@ -15,8 +15,8 @@
       "matchEn": "Feyenoord v Como 1907",
       "matchAr": "فينورد × كومو 1907",
       "rawIsoTime": "2026-10-14T16:45:00Z",
-      "time": "16:45",
-      "isLive": false
+      "time": "1 - 1 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🛡️ UEFA Champions League",
@@ -93,8 +93,8 @@
     {
       "tournamentEn": "🛡️ AFC Champions League Elite",
       "tournamentAr": "🛡️ دوري أبطال آسيا للنخبة",
-      "matchEn": "Vissel Kobe (Japan) v Jeonbuk Motors",
-      "matchAr": "فيسيل كوبه (اليابان) × تشانبوك موتورز",
+      "matchEn": "Vissel Kobe (Japan) v Jeonbuk Motors (South Korea)",
+      "matchAr": "فيسيل كوبه (اليابان) × تشانبوك موتورز (كوريا الجنوبية)",
       "rawIsoTime": "2026-10-14T10:00:00Z",
       "time": "2 - 0 (done)",
       "isLive": false
@@ -129,11 +129,20 @@
     {
       "tournamentEn": "🛡️ AFC Champions League Two",
       "tournamentAr": "🛡️ دوري أبطال آسيا 2",
+      "matchEn": "Kuwait SC v Al Khalidiya",
+      "matchAr": "الكويت الكويتي × الخالدية",
+      "rawIsoTime": "2026-10-14T16:00:00Z",
+      "time": "3 - 1 (done)",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🛡️ AFC Champions League Two",
+      "tournamentAr": "🛡️ دوري أبطال آسيا 2",
       "matchEn": "Emirati Al Jazira v Arkadag",
       "matchAr": "الجزيرة الإماراتي × أركاداغ",
       "rawIsoTime": "2026-10-14T16:00:00Z",
-      "time": "0 - 0 (live)",
-      "isLive": true
+      "time": "2 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🛡️ AFC Champions League Two",
@@ -141,8 +150,8 @@
       "matchEn": "Muharraq v Gol Gohar Sirjan (Iran)",
       "matchAr": "المحرق × جول جوهار سيرجان (إيران)",
       "rawIsoTime": "2026-10-14T16:00:00Z",
-      "time": "0 - 0 (live)",
-      "isLive": true
+      "time": "2 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🛡️ AFC Champions League Two",
@@ -150,16 +159,7 @@
       "matchEn": "Al-Taawoun v Al Rayyan",
       "matchAr": "التعاون × الريان",
       "rawIsoTime": "2026-10-14T16:00:00Z",
-      "time": "1 - 1 (live)",
-      "isLive": true
-    },
-    {
-      "tournamentEn": "🛡️ AFC Champions League Two",
-      "tournamentAr": "🛡️ دوري أبطال آسيا 2",
-      "matchEn": "Kuwait SC v Al Khalidiya",
-      "matchAr": "الكويت الكويتي × الخالدية",
-      "rawIsoTime": "2026-10-14T18:15:00Z",
-      "time": "18:15",
+      "time": "2 - 1 (done)",
       "isLive": false
     },
     {
@@ -177,8 +177,8 @@
       "matchEn": "Al Duhail v Al-Shabab",
       "matchAr": "الدحيل × الشباب",
       "rawIsoTime": "2026-10-14T14:45:00Z",
-      "time": "3 - 0 (live)",
-      "isLive": true
+      "time": "3 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🛡️ Gulf Club Champions League",
@@ -186,8 +186,8 @@
       "matchEn": "Al Ettifaq v Kazma",
       "matchAr": "الاتفاق × كاظمة",
       "rawIsoTime": "2026-10-14T16:00:00Z",
-      "time": "1 - 0 (live)",
-      "isLive": true
+      "time": "2 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🛡️ Gulf Club Champions League",
@@ -195,14 +195,23 @@
       "matchEn": "Ajman v Erbil",
       "matchAr": "عجمان × أربيل",
       "rawIsoTime": "2026-10-14T16:00:00Z",
-      "time": "1 - 3 (live)",
+      "time": "5 - 4 (live)",
       "isLive": true
+    },
+    {
+      "tournamentEn": "🇦🇷 Argentinean Primera División",
+      "tournamentAr": "🇦🇷 الدوري الأرجنتيني",
+      "matchEn": "Atlético Sarmiento (Argentina) v River Plate",
+      "matchAr": "أتلتيكو سارمينتو (الأرجنتين) × ريفر بليت",
+      "rawIsoTime": "2026-10-14T22:00:00Z",
+      "time": "22:00",
+      "isLive": false
     },
     {
       "tournamentEn": "🏆 Portuguese Cup",
       "tournamentAr": "🏆 كأس البرتغال",
-      "matchEn": "UD Santarém v Gil Vicente",
-      "matchAr": "يو دي سانتاريم × جيل فيسينتي",
+      "matchEn": "União de Santarém (Portugal) v Gil Vicente (Portugal)",
+      "matchAr": "يو دي سانتاريم (البرتغال) × جيل فيسينتي (البرتغال)",
       "rawIsoTime": "2026-10-14T18:00:00Z",
       "time": "18:00",
       "isLive": false
@@ -220,14 +229,14 @@
       "tournamentEn": "🛡️ Copa Sudamericana",
       "tournamentAr": "🛡️ كوبا سود أمريكانا",
       "matchEn": "Atlético Mineiro v Montevideo City Torque (Uruguay)",
-      "matchAr": "أتليتيكو مينيرو × مونتيفيديو سيتي تورك (الأوروغواي)",
+      "matchAr": "أتليتيكو مينيرو × مونتيفيديو سيتي تورك (أوروغواي)",
       "rawIsoTime": "2026-10-14T22:00:00Z",
       "time": "22:00",
       "isLive": false
     },
     {
-      "tournamentEn": "🇲🇦 Moroccan Botola Pro Inwi",
-      "tournamentAr": "🇲🇦 البطولة الوطنية الاحترافية \"إنوي\"",
+      "tournamentEn": "🏁 البطولة الوطنية الاحترافية \"إنوي\"",
+      "tournamentAr": "🏁 البطولة الوطنية الاحترافية \"إنوي\"",
       "matchEn": "Ittihad Tanger (Morocco) v Maghreb Fès",
       "matchAr": "اتحاد طنجة (المغرب) × المغرب الفاسي",
       "rawIsoTime": "2026-10-14T20:00:00Z",
@@ -240,8 +249,8 @@
       "matchEn": "ES Sétif v JS Kabylie",
       "matchAr": "وفاق سطيف × شبيبة القبائل",
       "rawIsoTime": "2026-10-14T17:00:00Z",
-      "time": "17:00",
-      "isLive": false
+      "time": "1 - 1 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 الدوري الجزائري للمحترفين",
@@ -249,8 +258,8 @@
       "matchEn": "CR Témouchent v Mouloudia Baladiat Rouissat",
       "matchAr": "شباب تموشنت × مستقبل الرويسات",
       "rawIsoTime": "2026-10-14T17:00:00Z",
-      "time": "17:00",
-      "isLive": false
+      "time": "0 - 1 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 الدوري الإنجليزي للدرجة الأولى (الشامبيونشيب)",
@@ -300,8 +309,8 @@
     {
       "tournamentEn": "🛡️ UEFA Youth League",
       "tournamentAr": "🛡️ دوري أبطال أوروبا للشباب",
-      "matchEn": "Kairat Almaty v Mladost Donja Gorica Under-19",
-      "matchAr": "كايرات ألماتي × ملادوست دونيا غوريتسا تحت 19 سنة",
+      "matchEn": "Kairat Almaty v Mladost Donja Gorica (Montenegro)",
+      "matchAr": "كايرات ألماتي × ملادوست دونيا غوريتسا (الجبل الأسود)",
       "rawIsoTime": "2026-10-14T10:00:00Z",
       "time": "8 - 1 (done)",
       "isLive": false
@@ -318,8 +327,8 @@
     {
       "tournamentEn": "🛡️ UEFA Youth League",
       "tournamentAr": "🛡️ دوري أبطال أوروبا للشباب",
-      "matchEn": "Feyenoord Rotterdam Under-19 v Como 1907 Under-19",
-      "matchAr": "فينوورد روتردام تحت 19 سنة × كومو 1907 تحت 19 عاما",
+      "matchEn": "Feyenoord Rotterdam (Netherlands) v Como 1907 (Italy)",
+      "matchAr": "فينوورد روتردام (هولندا) × كومو 1907 (إيطاليا)",
       "rawIsoTime": "2026-10-14T11:00:00Z",
       "time": "1 - 0 (done)",
       "isLive": false
@@ -336,8 +345,8 @@
     {
       "tournamentEn": "🛡️ UEFA Youth League",
       "tournamentAr": "🛡️ دوري أبطال أوروبا للشباب",
-      "matchEn": "Partizani Youth v Valletta FC",
-      "matchAr": "بارتيزاني الشباب × فاليتا",
+      "matchEn": "Partizani Youth (Albania) v Valletta FC",
+      "matchAr": "بارتيزاني للشباب (ألبانيا) × فاليتا",
       "rawIsoTime": "2026-10-14T12:00:00Z",
       "time": "4 - 0 (done)",
       "isLive": false
@@ -345,8 +354,8 @@
     {
       "tournamentEn": "🛡️ UEFA Youth League",
       "tournamentAr": "🛡️ دوري أبطال أوروبا للشباب",
-      "matchEn": "Balkani U19 v HJK Helsinki Under-19",
-      "matchAr": "بلقاني تحت 19 سنة × هيلسنكين جيه كي تحت 19 عاما",
+      "matchEn": "Balkani (Kosovo) v HJK Helsinki (Finland)",
+      "matchAr": "بلقاني (كوسوفو) × هلسنكي جيه كي (فنلندا)",
       "rawIsoTime": "2026-10-14T12:00:00Z",
       "time": "1 - 2 (done)",
       "isLive": false
@@ -372,8 +381,8 @@
     {
       "tournamentEn": "🛡️ UEFA Youth League",
       "tournamentAr": "🛡️ دوري أبطال أوروبا للشباب",
-      "matchEn": "Roma Under-19 v Real Madrid",
-      "matchAr": "روما تحت 19 عاما × ريال مدريد",
+      "matchEn": "Roma (Italy) v Real Madrid",
+      "matchAr": "روما (إيطاليا) × ريال مدريد",
       "rawIsoTime": "2026-10-14T12:00:00Z",
       "time": "0 - 1 (done)",
       "isLive": false
@@ -381,8 +390,8 @@
     {
       "tournamentEn": "🛡️ UEFA Youth League",
       "tournamentAr": "🛡️ دوري أبطال أوروبا للشباب",
-      "matchEn": "AP Brera Strumica Under-19 v FC Santa Coloma",
-      "matchAr": "إيه بي بريرا ستروميكا تحت 19 سنة × سانتا كولوما",
+      "matchEn": "AP Brera Strumica (North Macedonia) v FC Santa Coloma",
+      "matchAr": "إيه بي بريرا ستروميكا (مقدونيا الشمالية) × سانتا كولوما",
       "rawIsoTime": "2026-10-14T12:00:00Z",
       "time": "8 - 0 (done)",
       "isLive": false
@@ -390,8 +399,8 @@
     {
       "tournamentEn": "🛡️ UEFA Youth League",
       "tournamentAr": "🛡️ دوري أبطال أوروبا للشباب",
-      "matchEn": "Aston Villa v Fenerbahçe Under-19",
-      "matchAr": "أستون فيلا × فنربخشة تحت 19 عاما",
+      "matchEn": "Aston Villa v Fenerbahçe (Turkey)",
+      "matchAr": "أستون فيلا × فنربخشة (تركيا)",
       "rawIsoTime": "2026-10-14T13:00:00Z",
       "time": "2 - 1 (done)",
       "isLive": false
@@ -417,46 +426,37 @@
     {
       "tournamentEn": "🛡️ UEFA Youth League",
       "tournamentAr": "🛡️ دوري أبطال أوروبا للشباب",
-      "matchEn": "SK Super Nova Under-19 v Cliftonville",
-      "matchAr": "إس كيه سوبر نوفا تحت 19 سنة × كليفتونفيل",
+      "matchEn": "SK Super Nova (Latvia) v Cliftonville",
+      "matchAr": "إس كيه سوبر نوفا (لاتفيا) × كليفتونفيل",
       "rawIsoTime": "2026-10-14T15:00:00Z",
-      "time": "1 - 0 (live)",
-      "isLive": true
+      "time": "1 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🛡️ UEFA Youth League",
       "tournamentAr": "🛡️ دوري أبطال أوروبا للشباب",
-      "matchEn": "Žalgiris Vilnius v IF Thor Akureyri Under-19",
-      "matchAr": "زالغيريس فيلنوس × إي إف ثور أكوريري تحت 19 سنة",
+      "matchEn": "Žalgiris Vilnius (Lithuania) v IF Þór Akureyri (Iceland)",
+      "matchAr": "زالغيريس فيلنوس (ليتوانيا) × إي إف ثور أكوريري (آيسلندا)",
       "rawIsoTime": "2026-10-14T16:00:00Z",
+      "time": "2 - 0 (done)",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🛡️ UEFA Youth League",
+      "tournamentAr": "🛡️ دوري أبطال أوروبا للشباب",
+      "matchEn": "UNA Strassen (Luxembourg) v Cardiff Metropolitan (Wales)",
+      "matchAr": "أونا ستراسين (لوكسمبورغ) × كارديف متروبوليتان (ويلز)",
+      "rawIsoTime": "2026-10-14T17:30:00Z",
       "time": "0 - 0 (live)",
       "isLive": true
     },
     {
       "tournamentEn": "🛡️ UEFA Youth League",
       "tournamentAr": "🛡️ دوري أبطال أوروبا للشباب",
-      "matchEn": "UNA Strassen U19 (Luxembourg) v Cardiff Metropolitan Under-19",
-      "matchAr": "أونا ستراسين دون 19 عاماً (لوكسمبورغ) × كارديف متروبوليتان تحت 19 سنة",
-      "rawIsoTime": "2026-10-14T17:30:00Z",
-      "time": "17:30",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ UEFA Youth League",
-      "tournamentAr": "🛡️ دوري أبطال أوروبا للشباب",
-      "matchEn": "HB Tórshavn U19 v Flora Tallinn U19",
-      "matchAr": "إتش بي تورشهافن تحت 19 سنة × فلورا تالين تحت 19 سنة",
+      "matchEn": "HB Tórshavn (Faroe Islands) v Flora Tallinn (Estonia)",
+      "matchAr": "إتش بي تورشهافن (جزر فارو) × فلورا تالين (إستونيا)",
       "rawIsoTime": "2026-10-14T18:00:00Z",
       "time": "18:00",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🇦🇷 Argentine Primera División",
-      "tournamentAr": "🇦🇷 الدوري الأرجنتيني",
-      "matchEn": "Atlético Sarmiento v River Plate",
-      "matchAr": "أتلتيكو سارمينتو × ريفر بليت",
-      "rawIsoTime": "2026-10-14T22:00:00Z",
-      "time": "22:00",
       "isLive": false
     },
     {
@@ -516,8 +516,8 @@
     {
       "tournamentEn": "🏁 الدوري الليبي الممتاز",
       "tournamentAr": "🏁 الدوري الليبي الممتاز",
-      "matchEn": "Khaleej Sirte v Al Akhdar",
-      "matchAr": "خليج سرت × الاخضر",
+      "matchEn": "Khaleej Sirte v Al Akhdar (Libya)",
+      "matchAr": "خليج سرت × الاخضر (ليبيا)",
       "rawIsoTime": "2026-10-14T12:00:00Z",
       "time": "12:00",
       "isLive": false
@@ -534,8 +534,8 @@
     {
       "tournamentEn": "🏁 الدوري الليبي الممتاز",
       "tournamentAr": "🏁 الدوري الليبي الممتاز",
-      "matchEn": "Al-Malaab Al-Libi v Libyan Al-Majd",
-      "matchAr": "الملعب الليبي × المجد الليبي",
+      "matchEn": "Al-Malaab Al-Libi v Al Majd (Libya)",
+      "matchAr": "الملعب الليبي × المجد الليبي (ليبيا)",
       "rawIsoTime": "2026-10-14T12:30:00Z",
       "time": "12:30",
       "isLive": false
@@ -543,62 +543,62 @@
     {
       "tournamentEn": "🏁 الدوري الليبي الممتاز",
       "tournamentAr": "🏁 الدوري الليبي الممتاز",
-      "matchEn": "Al-Shomou v Al-Ittihad",
-      "matchAr": "الشموع × الاتحاد الليبي",
+      "matchEn": "Al-Shomou v Al-Ittihad (Libya)",
+      "matchAr": "الشموع × الاتحاد الليبي (ليبيا)",
       "rawIsoTime": "2026-10-14T16:00:00Z",
       "time": "16:00",
       "isLive": false
     },
     {
-      "tournamentEn": "🇸🇦 Saudi First Division League (FDL)",
-      "tournamentAr": "🇸🇦 FDL دوري الدرجة الأولى السعودي",
-      "matchEn": "Saudi Hajer v Al-Orobah",
-      "matchAr": "هجر السعودي × العروبة",
+      "tournamentEn": "🏁 FDL دوري الدرجة الأولى السعودي",
+      "tournamentAr": "🏁 FDL دوري الدرجة الأولى السعودي",
+      "matchEn": "Hajer Club (Saudi Arabia) v Al-Orobah",
+      "matchAr": "هجر السعودي (السعودية) × العروبة",
       "rawIsoTime": "2026-10-14T14:55:00Z",
       "time": "14:55 (canceled)",
       "isLive": false
     },
     {
-      "tournamentEn": "🇸🇦 Saudi First Division League (FDL)",
-      "tournamentAr": "🇸🇦 FDL دوري الدرجة الأولى السعودي",
-      "matchEn": "Al-Jandal v Al Okhdood (Saudi Arabia)",
+      "tournamentEn": "🏁 FDL دوري الدرجة الأولى السعودي",
+      "tournamentAr": "🏁 FDL دوري الدرجة الأولى السعودي",
+      "matchEn": "Al-Jandal v Al-Okhdood Club (Saudi Arabia)",
       "matchAr": "الجندل × الاخدود (السعودية)",
       "rawIsoTime": "2026-10-14T15:30:00Z",
-      "time": "0 - 1 (live)",
-      "isLive": true
-    },
-    {
-      "tournamentEn": "🇸🇦 Saudi First Division League (FDL)",
-      "tournamentAr": "🇸🇦 FDL دوري الدرجة الأولى السعودي",
-      "matchEn": "Saudi Al-Raed v Jeddah",
-      "matchAr": "الرائد السعودي × جدة",
-      "rawIsoTime": "2026-10-14T17:00:00Z",
-      "time": "17:00",
+      "time": "1 - 1 (done)",
       "isLive": false
     },
     {
-      "tournamentEn": "🇰🇼 Kuwaiti First Division League",
-      "tournamentAr": "🇰🇼 الدوري الكويتي الدرجة الأولى",
-      "matchEn": "Al-Yarmouk v Burgan",
-      "matchAr": "اليرموك × برقان",
-      "rawIsoTime": "2026-10-14T14:45:00Z",
-      "time": "0 - 0 (live)",
+      "tournamentEn": "🏁 FDL دوري الدرجة الأولى السعودي",
+      "tournamentAr": "🏁 FDL دوري الدرجة الأولى السعودي",
+      "matchEn": "Al-Raed (Saudi Arabia) v Jeddah",
+      "matchAr": "الرائد السعودي (السعودية) × جدة",
+      "rawIsoTime": "2026-10-14T17:00:00Z",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
-      "tournamentEn": "🇰🇼 Kuwaiti First Division League",
-      "tournamentAr": "🇰🇼 الدوري الكويتي الدرجة الأولى",
-      "matchEn": "Al Jazira v Al-Shamiya",
-      "matchAr": "الجزيرة × الشامية",
+      "tournamentEn": "🏁 الدوري الكويتي الدرجة الأولى",
+      "tournamentAr": "🏁 الدوري الكويتي الدرجة الأولى",
+      "matchEn": "Al-Yarmouk (Kuwait) v Burgan SC (Kuwait)",
+      "matchAr": "اليرموك (الكويت) × برقان (الكويت)",
       "rawIsoTime": "2026-10-14T14:45:00Z",
-      "time": "6 - 1 (live)",
-      "isLive": true
+      "time": "0 - 0 (done)",
+      "isLive": false
     },
     {
-      "tournamentEn": "🇰🇼 Kuwaiti First Division League",
-      "tournamentAr": "🇰🇼 الدوري الكويتي الدرجة الأولى",
-      "matchEn": "Kuwait Football Association v Sporty FC",
-      "matchAr": "الاتحاد الكويتي × سبورتي FC",
+      "tournamentEn": "🏁 الدوري الكويتي الدرجة الأولى",
+      "tournamentAr": "🏁 الدوري الكويتي الدرجة الأولى",
+      "matchEn": "Al Jazira v Al Shamiya (Kuwait)",
+      "matchAr": "الجزيرة × الشامية (الكويت)",
+      "rawIsoTime": "2026-10-14T14:45:00Z",
+      "time": "6 - 1 (done)",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🏁 الدوري الكويتي الدرجة الأولى",
+      "tournamentAr": "🏁 الدوري الكويتي الدرجة الأولى",
+      "matchEn": "Al-Ittihad (Kuwait) v Sporty FC (Kuwait)",
+      "matchAr": "الاتحاد الكويتي (الكويت) × سبورتي FC (الكويت)",
       "rawIsoTime": "2026-10-14T14:45:00Z",
       "time": "14:45",
       "isLive": false
