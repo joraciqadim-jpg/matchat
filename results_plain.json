@@ -114,8 +114,8 @@
       "matchEn": "Persib (Indonesia) v Viettel (Vietnam)",
       "matchAr": "بيرسيب (إندونيسيا) × فيتيل (فيتنام)",
       "rawIsoTime": "2026-10-14T15:15:00+03:00",
-      "time": "12:15",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🛡️ AFC Champions League Two",
@@ -726,7 +726,7 @@
       "matchEn": "Ballkani (Kosovo) v Helsinki (Finland)",
       "matchAr": "بالكاني (كوسوفو) × هلسنكي (فنلندا)",
       "rawIsoTime": "2026-10-14T15:00:00+03:00",
-      "time": "0 - 0 (live)",
+      "time": "0 - 1 (live)",
       "isLive": true
     },
     {
@@ -735,7 +735,7 @@
       "matchEn": "Akademija Pandev (North Macedonia) v FC Santa Coloma (Andorra)",
       "matchAr": "أكاديميا بانديف (شمال مقدونيا) × سانتا كولوما (أندورا)",
       "rawIsoTime": "2026-10-14T15:00:00+03:00",
-      "time": "1 - 0 (live)",
+      "time": "2 - 0 (live)",
       "isLive": true
     },
     {
