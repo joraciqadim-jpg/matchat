@@ -323,61 +323,6 @@
     {
       "tournamentEn": "🛡️ AFC Champions League Two",
       "tournamentAr": "🛡️ دوري أبطال آسيا 2",
-      "matchEn": "Al Kuwait (Kuwait) v Al Khaldiya (Bahrain)",
-      "matchAr": "الكويت × الخالدية (البحرين)",
-      "time": "16:00",
-      "channels": [
-        "📺 Bein Sport 8 [Nilesat 7.0W 11054 H 27500]",
-        "📺 Bein Sport 8 [Badrsat 26.0E 10810 V 27500]",
-        "📺 Al Kass Five [Badrsat 26.0E 10770 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🛡️ AFC Champions League Two",
-      "tournamentAr": "🛡️ دوري أبطال آسيا 2",
-      "matchEn": "Al Jazira (UAE) v Arkadag (Turkmenistan)",
-      "matchAr": "الجزيرة (الإمارات) × أركاداغ (تركمانستان)",
-      "time": "16:00",
-      "channels": [
-        "📺 Bein Sport 6 [Nilesat 7.0W 11054 H 27500]",
-        "📺 Bein Sport 6 [Badrsat 26.0E 11390 V 27500]",
-        "📺 Al Kass Seven [Badrsat 26.0E 10770 H 27500]",
-        "📺 Spor Smart [Turksat 42.0E 12188 V 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🛡️ AFC Champions League Two",
-      "tournamentAr": "🛡️ دوري أبطال آسيا 2",
-      "matchEn": "Muharraq (Bahrain) v Gol Gohar (Iran)",
-      "matchAr": "المحرق (البحرين) × غل گهر (إيران)",
-      "time": "16:00",
-      "channels": [
-        "📺 Bein Sport 5 [Nilesat 7.0W 12188 H 27500]",
-        "📺 Bein Sport 5 [Badrsat 26.0E 10810 H 27500]",
-        "📺 Al Kass Six [Badrsat 26.0E 10770 H 27500]",
-        "📺 IRIB Varzesh [Badrsat 26.0E 11881 H 27500]",
-        "📺 IRIB Varzesh [Eutelsat 40.0E 11640 H 30000]",
-        "📺 Persiana Sports 1 [Turkmenlem 52.0E 11343 H 27500]",
-        "📺 IRIB Varzesh [Thaicom 78.5E 11640 H 30000]"
-      ]
-    },
-    {
-      "tournamentEn": "🛡️ AFC Champions League Two",
-      "tournamentAr": "🛡️ دوري أبطال آسيا 2",
-      "matchEn": "Al-Taawoun (Saudi Arabia) v Al Rayyan (Qatar)",
-      "matchAr": "التعاون (السعودية) × الريان (قطر)",
-      "time": "16:00",
-      "channels": [
-        "📺 Bein Sport 3 [Nilesat 7.0W 12245 V 27500]",
-        "📺 Nova Sport BUL [Hotbird 13.0E 12654 H 30000]",
-        "📺 Bein Sport 3 [Badrsat 26.0E 10810 H 27500]",
-        "📺 Al Kass Five [Badrsat 26.0E 10770 H 27500]",
-        "📺 Spor Smart 2 [Turksat 42.0E 12245 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🛡️ AFC Champions League Two",
-      "tournamentAr": "🛡️ دوري أبطال آسيا 2",
       "matchEn": "Al Faisaly (Jordan) v Al Nahda (Oman)",
       "matchAr": "الفيصلي (الأردن) × النهضة (عُمان)",
       "time": "18:15",
@@ -386,40 +331,6 @@
         "📺 BeIn Sports Xtra 3 [Badrsat 26.0E 10810 V 27500]",
         "📺 Al Kass Six [Badrsat 26.0E 10770 H 27500]",
         "📺 Spor Smart [Turksat 42.0E 12188 V 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🛡️ Gulf Club Champions League",
-      "tournamentAr": "🛡️ دوري أبطال أندية الخليج",
-      "matchEn": "Al Duhail (Qatar) v Al-Shabab (Saudi Arabia)",
-      "matchAr": "الدحيل (قطر) × الشباب (السعودية)",
-      "time": "14:45",
-      "channels": [
-        "📺 Al Kass One [Nilesat 7.0W 11919 H 27500]",
-        "📺 Nova Sport BUL [Hotbird 13.0E 12654 H 30000]",
-        "📺 Al Kass One [Badrsat 26.0E 12245 V 27500]",
-        "📺 Al Kass One [Badrsat 26.0E 10770 V 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🛡️ Gulf Club Champions League",
-      "tournamentAr": "🛡️ دوري أبطال أندية الخليج",
-      "matchEn": "Ajman (UAE) v Erbil (Iraq)",
-      "matchAr": "عجمان (الإمارات) × أربيل (العراق)",
-      "time": "16:00",
-      "channels": [
-        "📺 Al Kass Six [Badrsat 26.0E 10770 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🛡️ Gulf Club Champions League",
-      "tournamentAr": "🛡️ دوري أبطال أندية الخليج",
-      "matchEn": "Al-Ettifaq (Saudi Arabia) v Kazma (Kuwait)",
-      "matchAr": "الاتفاق (السعودية) × كاظمة (الكويت)",
-      "time": "16:00",
-      "channels": [
-        "📺 Al Kass Three [Nilesat 7.0W 11919 H 27500]",
-        "📺 Al Kass Three [Badrsat 26.0E 12245 V 27500]"
       ]
     },
     {
@@ -450,7 +361,7 @@
       "tournamentEn": "🛡️ CONMEBOL Sudamericana",
       "tournamentAr": "🛡️ كأس سودأمريكانا",
       "matchEn": "Atlético Mineiro (Brazil) v Torque (Uruguay)",
-      "matchAr": "أتلتيكو مينيرو (البرازيل) × توركي (أوروغواي)",
+      "matchAr": "أتلتيكو مينيرو (البرازيل) × توركي (الأوروغواي)",
       "time": "22:00",
       "channels": [
         "📺 Sport TV 2 [Hispasat 30W 12360 H 27500]",
