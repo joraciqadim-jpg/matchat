@@ -6,7 +6,7 @@
       "matchEn": "LASK (Austria) v Liverpool (England)",
       "matchAr": "لاسك (النمسا) × ليفربول (إنجلترا)",
       "rawIsoTime": "2026-10-14T19:45:00+03:00",
-      "time": "0 - 0 (live)",
+      "time": "0 - 2 (live)",
       "isLive": true
     },
     {
@@ -15,7 +15,7 @@
       "matchEn": "Feyenoord (Netherlands) v Como (Italy)",
       "matchAr": "فاينورد (هولندا) × كومو (إيطاليا)",
       "rawIsoTime": "2026-10-14T19:45:00+03:00",
-      "time": "0 - 1 (live)",
+      "time": "1 - 1 (live)",
       "isLive": true
     },
     {
@@ -150,7 +150,7 @@
       "matchEn": "Muharraq (Bahrain) v Gol Gohar Sirjan (Iran)",
       "matchAr": "المحرق (البحرين) × غل غهر سيرجان (إيران)",
       "rawIsoTime": "2026-10-14T19:00:00+03:00",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -195,8 +195,8 @@
       "matchEn": "Al Ettifaq (Saudi Arabia) v Kazma (Kuwait SC)",
       "matchAr": "الاتفاق (السعودية) × كاظمة (الكويت)",
       "rawIsoTime": "2026-10-14T21:00:00+03:00",
-      "time": "18:00",
-      "isLive": false
+      "time": "1 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇬🇧 English Championship",
@@ -258,7 +258,7 @@
       "matchEn": "ES Sétif v JS Kabylie",
       "matchAr": "وفاق سطيف × شبيبة القبائل",
       "rawIsoTime": "2026-10-14T20:00:00+03:00",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
