@@ -42,7 +42,7 @@
       "matchEn": "Manchester City (England) v Paris Saint-Germain (France)",
       "matchAr": "مانشستر سيتي (إنجلترا) × باريس سان جيرمان (فرنسا)",
       "rawIsoTime": "2026-10-14T22:00:00+03:00",
-      "time": "0 - 1 (live)",
+      "time": "0 - 2 (live)",
       "isLive": true
     },
     {
@@ -51,7 +51,7 @@
       "matchEn": "Roma (Italy) v Real Madrid (Spain)",
       "matchAr": "روما (إيطاليا) × ريال مدريد (إسبانيا)",
       "rawIsoTime": "2026-10-14T22:00:00+03:00",
-      "time": "0 - 0 (live)",
+      "time": "1 - 1 (live)",
       "isLive": true
     },
     {
@@ -213,7 +213,7 @@
       "matchEn": "Portsmouth v Sheffield United",
       "matchAr": "بورتسموث × شيفيلد يونايتد",
       "rawIsoTime": "2026-10-14T21:45:00+03:00",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -807,8 +807,8 @@
       "matchEn": "UNA Strassen (Luxembourg) v Cardiff Met (Wales)",
       "matchAr": "أونا ستراسين (لوكسمبورغ) × كارديف ميت (ويلز)",
       "rawIsoTime": "2026-10-14T20:30:00+03:00",
-      "time": "1 - 0 (live)",
-      "isLive": true
+      "time": "1 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🛡️ UEFA Youth League",
@@ -816,7 +816,7 @@
       "matchEn": "Havnar Bóltfelag (Faroe Islands) v FC Flora (Estonia)",
       "matchAr": "هافنار بولتفيلاج (جزر فارو) × فلورا (إستونيا)",
       "rawIsoTime": "2026-10-14T21:00:00+03:00",
-      "time": "0 - 1 (live)",
+      "time": "0 - 2 (live)",
       "isLive": true
     },
     {
