@@ -177,7 +177,7 @@
       "matchEn": "Al Duhail (Qatar SC) v Al-Shabab (Sultanate of Oman)",
       "matchAr": "الدحيل (قطر) × الشباب (سلطنة عمان)",
       "rawIsoTime": "2026-10-14T17:45:00+03:00",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -366,7 +366,7 @@
       "matchEn": "Krylia Sovetov v Baltika",
       "matchAr": "كريليا سوفيتوف × بالتيكا",
       "rawIsoTime": "2026-10-14T16:15:00+03:00",
-      "time": "0 - 1 (live)",
+      "time": "0 - 2 (live)",
       "isLive": true
     },
     {
@@ -609,8 +609,8 @@
       "matchEn": "Sunrise FC v Gasogi United",
       "matchAr": "صن رايز × جاسوجي يونايتد",
       "rawIsoTime": "2026-10-14T16:00:00+03:00",
-      "time": "1 - 1 (live)",
-      "isLive": true
+      "time": "1 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏆 Africa U-17 Cup of Nations Qualifiers",
@@ -762,8 +762,8 @@
       "matchEn": "Aston Villa (England) v Fenerbahçe (Turkey)",
       "matchAr": "أستون فيلا (إنجلترا) × فنربخشة (تركيا)",
       "rawIsoTime": "2026-10-14T16:00:00+03:00",
-      "time": "2 - 1 (live)",
-      "isLive": true
+      "time": "2 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🛡️ UEFA Youth League",
@@ -789,8 +789,8 @@
       "matchEn": "FK Super Nova (Latvia) v Cliftonville (Northern Ireland)",
       "matchAr": "سوبر نوفا (لاتفيا) × كليفتونفيل (أيرلندا الشمالية)",
       "rawIsoTime": "2026-10-14T18:00:00+03:00",
-      "time": "15:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🛡️ UEFA Youth League",
