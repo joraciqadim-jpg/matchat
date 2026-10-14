@@ -240,8 +240,8 @@
       "matchEn": "Sarmiento v River Plate",
       "matchAr": "سارمينتو × ريفر بليت",
       "rawIsoTime": "2026-10-15T01:00:00+03:00",
-      "time": "22:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏆 Portuguese Cup",
@@ -258,8 +258,8 @@
       "matchEn": "Ittihad Tanger v Maghreb Fès",
       "matchAr": "إتحاد طنجة × المغرب الفاسي",
       "rawIsoTime": "2026-10-14T23:00:00+03:00",
-      "time": "2 - 1 (live)",
-      "isLive": true
+      "time": "2 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇩🇿 Algerian Ligue 1",
@@ -465,8 +465,8 @@
       "matchEn": "Atlético Mineiro (Brazil) v Montevideo City Torque (Uruguay)",
       "matchAr": "أتليتيكو مينيرو (البرازيل) × مونتيفيديو سيتي توركيه (الأوروغواي)",
       "rawIsoTime": "2026-10-15T01:00:00+03:00",
-      "time": "22:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇺🇸 USA MLS",
