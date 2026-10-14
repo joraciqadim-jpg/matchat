@@ -303,8 +303,8 @@
       "matchEn": "Khaleej Sirte v Al-Akhdar",
       "matchAr": "خليج سرت × الأخضر",
       "rawIsoTime": "2026-10-14T16:00:00+03:00",
-      "time": "0 - 0 (live)",
-      "isLive": true
+      "time": "0 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇱🇾 Libyan Premier League",
@@ -789,7 +789,7 @@
       "matchEn": "FK Super Nova (Latvia) v Cliftonville (Northern Ireland)",
       "matchAr": "سوبر نوفا (لاتفيا) × كليفتونفيل (أيرلندا الشمالية)",
       "rawIsoTime": "2026-10-14T18:00:00+03:00",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
