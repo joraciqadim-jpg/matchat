@@ -96,8 +96,8 @@
       "matchEn": "Kashiwa Reysol (Japan) v Thai Port (Thailand)",
       "matchAr": "كاشيوا ريسول (اليابان) × بورت (تايلاند)",
       "rawIsoTime": "2026-10-14T13:00:00+03:00",
-      "time": "5 - 1 (live)",
-      "isLive": true
+      "time": "5 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🛡️ AFC Champions League Two",
@@ -348,7 +348,7 @@
       "matchEn": "Yenisey v FC Kaluga",
       "matchAr": "ينيسي × كالوغا",
       "rawIsoTime": "2026-10-14T14:30:00+03:00",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -672,8 +672,8 @@
       "matchEn": "LASK Linz (Austria) v Liverpool (England)",
       "matchAr": "لاسك لينز (النمسا) × ليفربول (إنجلترا)",
       "rawIsoTime": "2026-10-14T13:00:00+03:00",
-      "time": "2 - 4 (live)",
-      "isLive": true
+      "time": "2 - 4 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🛡️ UEFA Youth League",
@@ -681,8 +681,8 @@
       "matchEn": "FC Kairat (Kazakhstan) v Mladost DG (Montenegro)",
       "matchAr": "كايرات (كازاخستان) × ملادوست دي جي (الجبل الأسود)",
       "rawIsoTime": "2026-10-14T13:00:00+03:00",
-      "time": "7 - 1 (live)",
-      "isLive": true
+      "time": "8 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🛡️ UEFA Youth League",
