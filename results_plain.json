@@ -114,8 +114,8 @@
       "matchEn": "Persib (Indonesia) v Viettel (Vietnam)",
       "matchAr": "بيرسيب (إندونيسيا) × فيتيل (فيتنام)",
       "rawIsoTime": "2026-10-14T15:15:00+03:00",
-      "time": "1 - 0 (live)",
-      "isLive": true
+      "time": "1 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🛡️ AFC Champions League Two",
@@ -123,7 +123,7 @@
       "matchEn": "Nasaf (Uzbekistan) v Al Wahda (Emirates)",
       "matchAr": "ناساف (أوزبكستان) × الوحدة (الإمارات)",
       "rawIsoTime": "2026-10-14T16:45:00+03:00",
-      "time": "0 - 0 (live)",
+      "time": "0 - 1 (live)",
       "isLive": true
     },
     {
@@ -312,8 +312,8 @@
       "matchEn": "Al-Malaab Al-Libi v Al-Majd",
       "matchAr": "الملعب الليبي × المجد",
       "rawIsoTime": "2026-10-14T16:30:00+03:00",
-      "time": "13:30",
-      "isLive": false
+      "time": "0 - 1 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇱🇾 Libyan Premier League",
@@ -375,8 +375,8 @@
       "matchEn": "Volga Ulyanovsk v Murom",
       "matchAr": "فولغا أوليانوفسك × موروم",
       "rawIsoTime": "2026-10-14T17:00:00+03:00",
-      "time": "14:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏆 Russian Cup",
@@ -609,7 +609,7 @@
       "matchEn": "Sunrise FC v Gasogi United",
       "matchAr": "صن رايز × جاسوجي يونايتد",
       "rawIsoTime": "2026-10-14T16:00:00+03:00",
-      "time": "1 - 0 (live)",
+      "time": "1 - 1 (live)",
       "isLive": true
     },
     {
@@ -636,8 +636,8 @@
       "matchEn": "Ethiopia v Uganda",
       "matchAr": "إثيوبيا × أوغندا",
       "rawIsoTime": "2026-10-14T17:00:00+03:00",
-      "time": "0 - 0 (live)",
-      "isLive": true
+      "time": "14:00",
+      "isLive": false
     },
     {
       "tournamentEn": "🏆 Africa U-17 Cup of Nations Qualifiers",
@@ -744,8 +744,8 @@
       "matchEn": "Dynamo Minsk (Belarus) v Dinamo Tbilisi (Georgia)",
       "matchAr": "دينامو مينسك (روسيا البيضاء) × دينامو تبليسي (جورجيا)",
       "rawIsoTime": "2026-10-14T15:00:00+03:00",
-      "time": "2 - 3 (1 - 2)",
-      "isLive": true
+      "time": "2 - 3 (1 - 3)",
+      "isLive": false
     },
     {
       "tournamentEn": "🛡️ UEFA Youth League",
@@ -771,8 +771,8 @@
       "matchEn": "Real Betis (Spain) v Porto (Portugal)",
       "matchAr": "ريال بيتيس (إسبانيا) × بورتو (البرتغال)",
       "rawIsoTime": "2026-10-14T17:00:00+03:00",
-      "time": "14:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🛡️ UEFA Youth League",
@@ -780,8 +780,8 @@
       "matchEn": "Manchester City (England) v Paris Saint-Germain (France)",
       "matchAr": "مانشستر سيتي (إنجلترا) × باريس سان جيرمان (فرنسا)",
       "rawIsoTime": "2026-10-14T17:00:00+03:00",
-      "time": "14:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🛡️ UEFA Youth League",
