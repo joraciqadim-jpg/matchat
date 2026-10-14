@@ -375,7 +375,7 @@
       "matchEn": "Volga Ulyanovsk v Murom",
       "matchAr": "فولغا أوليانوفسك × موروم",
       "rawIsoTime": "2026-10-14T17:00:00+03:00",
-      "time": "0 - 0 (live)",
+      "time": "0 - 0 (3 - 2)",
       "isLive": true
     },
     {
@@ -402,8 +402,8 @@
       "matchEn": "Chertanovo v Tekstilshchik",
       "matchAr": "تشيرتانوفو × تيكستيلشيك",
       "rawIsoTime": "2026-10-14T19:00:00+03:00",
-      "time": "16:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏆 Russian Cup",
@@ -825,8 +825,8 @@
       "matchEn": "Bohemians 1905 v FK Mladá Boleslav",
       "matchAr": "بوهيميانز 1905 × ملادا بوليسلاف",
       "rawIsoTime": "2026-10-14T19:00:00+03:00",
-      "time": "16:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇨🇴 Colombian Primera A",
