@@ -87,8 +87,8 @@
       "matchEn": "Vissel Kobe (Japan) v Jeonbuk Hyundai Motors (South Korea)",
       "matchAr": "فيسيل كوبي (اليابان) × جيونبك هيونداي (كوريا الجنوبية)",
       "rawIsoTime": "2026-10-14T13:00:00+03:00",
-      "time": "2 - 0 (live)",
-      "isLive": true
+      "time": "2 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🛡️ AFC Champions League Elite",
@@ -672,7 +672,7 @@
       "matchEn": "LASK Linz (Austria) v Liverpool (England)",
       "matchAr": "لاسك لينز (النمسا) × ليفربول (إنجلترا)",
       "rawIsoTime": "2026-10-14T13:00:00+03:00",
-      "time": "2 - 3 (live)",
+      "time": "2 - 4 (live)",
       "isLive": true
     },
     {
@@ -681,7 +681,7 @@
       "matchEn": "FC Kairat (Kazakhstan) v Mladost DG (Montenegro)",
       "matchAr": "كايرات (كازاخستان) × ملادوست دي جي (الجبل الأسود)",
       "rawIsoTime": "2026-10-14T13:00:00+03:00",
-      "time": "6 - 1 (live)",
+      "time": "7 - 1 (live)",
       "isLive": true
     },
     {
