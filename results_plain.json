@@ -294,8 +294,8 @@
       "matchEn": "Club Africain v Al-Sharara",
       "matchAr": "الأفريقي × الشرارة",
       "rawIsoTime": "2026-10-14T16:00:00+03:00",
-      "time": "1 - 0 (live)",
-      "isLive": true
+      "time": "1 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇱🇾 Libyan Premier League",
@@ -366,8 +366,8 @@
       "matchEn": "Krylia Sovetov v Baltika",
       "matchAr": "كريليا سوفيتوف × بالتيكا",
       "rawIsoTime": "2026-10-14T16:15:00+03:00",
-      "time": "0 - 2 (live)",
-      "isLive": true
+      "time": "0 - 2 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏆 Russian Cup",
@@ -771,7 +771,7 @@
       "matchEn": "Real Betis (Spain) v Porto (Portugal)",
       "matchAr": "ريال بيتيس (إسبانيا) × بورتو (البرتغال)",
       "rawIsoTime": "2026-10-14T17:00:00+03:00",
-      "time": "1 - 0 (live)",
+      "time": "4 - 0 (live)",
       "isLive": true
     },
     {
