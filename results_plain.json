@@ -159,7 +159,7 @@
       "matchEn": "Al-Taawoun (Saudi Arabia) v Al Rayyan (Qatar SC)",
       "matchAr": "التعاون (السعودية) × الريان (قطر)",
       "rawIsoTime": "2026-10-14T19:00:00+03:00",
-      "time": "1 - 1 (live)",
+      "time": "2 - 1 (live)",
       "isLive": true
     },
     {
@@ -177,8 +177,8 @@
       "matchEn": "Al Duhail (Qatar SC) v Al-Shabab (Sultanate of Oman)",
       "matchAr": "الدحيل (قطر) × الشباب (سلطنة عمان)",
       "rawIsoTime": "2026-10-14T17:45:00+03:00",
-      "time": "3 - 1 (live)",
-      "isLive": true
+      "time": "3 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🛡️ Gulf Champions League",
@@ -186,7 +186,7 @@
       "matchEn": "Ajman (Emirates) v Erbil (Iraq)",
       "matchAr": "عجمان (الإمارات) × أربيل (العراق)",
       "rawIsoTime": "2026-10-14T19:00:00+03:00",
-      "time": "1 - 3 (live)",
+      "time": "2 - 3 (live)",
       "isLive": true
     },
     {
@@ -276,7 +276,7 @@
       "matchEn": "Al-Jandal v Al-Okhdood",
       "matchAr": "الجندل × الأخدود",
       "rawIsoTime": "2026-10-14T18:30:00+03:00",
-      "time": "0 - 1 (live)",
+      "time": "1 - 1 (live)",
       "isLive": true
     },
     {
@@ -402,7 +402,7 @@
       "matchEn": "Chertanovo v Tekstilshchik",
       "matchAr": "تشيرتانوفو × تيكستيلشيك",
       "rawIsoTime": "2026-10-14T19:00:00+03:00",
-      "time": "1 - 0 (live)",
+      "time": "1 - 1 (live)",
       "isLive": true
     },
     {
@@ -411,7 +411,7 @@
       "matchEn": "Nizhny Novgorod v Shinnik Yaroslavl",
       "matchAr": "نيجني نوفغورود × شينيك ياروسلافل",
       "rawIsoTime": "2026-10-14T19:15:00+03:00",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
