@@ -105,8 +105,8 @@
       "matchEn": "Melbourne Victory (Australia) v Seoul (South Korea)",
       "matchAr": "ميلبورن فيكتوري (أستراليا) × سيئول (كوريا الجنوبية)",
       "rawIsoTime": "2026-10-14T10:45:00+03:00",
-      "time": "3 - 0 (live)",
-      "isLive": true
+      "time": "3 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🛡️ AFC Champions League Two",
@@ -663,7 +663,7 @@
       "matchEn": "Bodø/Glimt (Norway) v Borussia Dortmund (Germany)",
       "matchAr": "بودو غليمت (النرويج) × بوروسيا دورتموند (ألمانيا)",
       "rawIsoTime": "2026-10-14T12:00:00+03:00",
-      "time": "0 - 1 (live)",
+      "time": "0 - 2 (live)",
       "isLive": true
     },
     {
