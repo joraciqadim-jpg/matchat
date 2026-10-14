@@ -168,7 +168,7 @@
       "matchEn": "Al Faisaly (Jordan) v Al Nahda (Sultanate of Oman)",
       "matchAr": "الفيصلي (الأردن) × النهضة (سلطنة عمان)",
       "rawIsoTime": "2026-10-14T21:15:00+03:00",
-      "time": "1 - 0 (live)",
+      "time": "2 - 0 (live)",
       "isLive": true
     },
     {
@@ -249,7 +249,7 @@
       "matchEn": "União de Santarém v Gil Vicente",
       "matchAr": "يونيون سانتاريم × جيل فيسنتي",
       "rawIsoTime": "2026-10-14T21:00:00+03:00",
-      "time": "2 - 1 (live)",
+      "time": "2 - 2 (live)",
       "isLive": true
     },
     {
@@ -816,8 +816,8 @@
       "matchEn": "Havnar Bóltfelag (Faroe Islands) v FC Flora (Estonia)",
       "matchAr": "هافنار بولتفيلاج (جزر فارو) × فلورا (إستونيا)",
       "rawIsoTime": "2026-10-14T21:00:00+03:00",
-      "time": "1 - 3 (live)",
-      "isLive": true
+      "time": "1 - 4 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇨🇿 Czech Liga",
