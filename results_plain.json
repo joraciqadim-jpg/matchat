@@ -339,8 +339,8 @@
       "matchEn": "Volna Kovernino v Dynamo St. Petersburg",
       "matchAr": "فولنا كوفرنينو × دينامو سانت بطرسبرغ",
       "rawIsoTime": "2026-10-14T14:00:00+03:00",
-      "time": "11:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏆 Russian Cup",
@@ -627,8 +627,8 @@
       "matchEn": "Somalia v Kenya",
       "matchAr": "الصومال × كينيا",
       "rawIsoTime": "2026-10-14T14:00:00+03:00",
-      "time": "11:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏆 Africa U-17 Cup of Nations Qualifiers",
@@ -672,7 +672,7 @@
       "matchEn": "LASK Linz (Austria) v Liverpool (England)",
       "matchAr": "لاسك لينز (النمسا) × ليفربول (إنجلترا)",
       "rawIsoTime": "2026-10-14T13:00:00+03:00",
-      "time": "1 - 0 (live)",
+      "time": "2 - 0 (live)",
       "isLive": true
     },
     {
@@ -690,8 +690,8 @@
       "matchEn": "Shakhtar Donetsk (Ukraine) v AEK Athens (Greece)",
       "matchAr": "شاختار دونيتسك (أوكرانيا) × آيك أثينا (اليونان)",
       "rawIsoTime": "2026-10-14T14:00:00+03:00",
-      "time": "11:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🛡️ UEFA Youth League",
