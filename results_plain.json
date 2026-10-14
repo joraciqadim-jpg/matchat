@@ -195,7 +195,7 @@
       "matchEn": "Ajman (Emirates) v Erbil (Iraq)",
       "matchAr": "عجمان (الإمارات) × أربيل (العراق)",
       "rawIsoTime": "2026-10-14T19:00:00+03:00",
-      "time": "3 - 4 (live)",
+      "time": "5 - 4 (live)",
       "isLive": true
     },
     {
@@ -267,7 +267,7 @@
       "matchEn": "ES Sétif v JS Kabylie",
       "matchAr": "وفاق سطيف × شبيبة القبائل",
       "rawIsoTime": "2026-10-14T20:00:00+03:00",
-      "time": "1 - 0 (live)",
+      "time": "1 - 1 (live)",
       "isLive": true
     },
     {
@@ -294,7 +294,7 @@
       "matchEn": "Al-Raed v Jeddah",
       "matchAr": "الرائد × جدة",
       "rawIsoTime": "2026-10-14T20:00:00+03:00",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -393,8 +393,8 @@
       "matchEn": "Akhmat Grozny v Dynamo Moscow",
       "matchAr": "أخمات غروزني × دينامو موسكو",
       "rawIsoTime": "2026-10-14T18:30:00+03:00",
-      "time": "1 - 2 (live)",
-      "isLive": true
+      "time": "1 - 2 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏆 Russian Cup",
@@ -798,7 +798,7 @@
       "matchEn": "Žalgiris (Lithuania) v Thor (Iceland)",
       "matchAr": "زالغيريس (ليتوانيا) × ثور (آيسلندا)",
       "rawIsoTime": "2026-10-14T19:00:00+03:00",
-      "time": "1 - 0 (live)",
+      "time": "2 - 0 (live)",
       "isLive": true
     },
     {
