@@ -24,8 +24,8 @@
       "matchEn": "Aston Villa (England) v Fenerbahçe (Turkey)",
       "matchAr": "أستون فيلا (إنجلترا) × فنربخشة (تركيا)",
       "rawIsoTime": "2026-10-14T22:00:00+03:00",
-      "time": "5 - 0 (live)",
-      "isLive": true
+      "time": "6 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🛡️ UEFA Champions League",
@@ -33,8 +33,8 @@
       "matchEn": "Bodø/Glimt (Norway) v Borussia Dortmund (Germany)",
       "matchAr": "بودو غليمت (النرويج) × بوروسيا دورتموند (ألمانيا)",
       "rawIsoTime": "2026-10-14T22:00:00+03:00",
-      "time": "1 - 0 (live)",
-      "isLive": true
+      "time": "1 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🛡️ UEFA Champions League",
@@ -51,7 +51,7 @@
       "matchEn": "Roma (Italy) v Real Madrid (Spain)",
       "matchAr": "روما (إيطاليا) × ريال مدريد (إسبانيا)",
       "rawIsoTime": "2026-10-14T22:00:00+03:00",
-      "time": "3 - 3 (live)",
+      "time": "3 - 4 (live)",
       "isLive": true
     },
     {
@@ -204,8 +204,8 @@
       "matchEn": "Queens Park Rangers v Derby County",
       "matchAr": "كوينز بارك رينجرز × ديربي كاونتي",
       "rawIsoTime": "2026-10-14T21:45:00+03:00",
-      "time": "4 - 0 (live)",
-      "isLive": true
+      "time": "4 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇬🇧 English Championship",
@@ -231,7 +231,7 @@
       "matchEn": "Lincoln City v West Ham United",
       "matchAr": "لينكولن سيتي × وست هام يونايتد",
       "rawIsoTime": "2026-10-14T22:00:00+03:00",
-      "time": "0 - 5 (live)",
+      "time": "0 - 6 (live)",
       "isLive": true
     },
     {
