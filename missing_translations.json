@@ -1083,41 +1083,33 @@
     "en": "Bodø/Glimt",
     "ar": "بودو/غليمت"
   },
-  "jeonbuk motors": {
-    "en": "Jeonbuk Motors",
-    "ar": "تشانبوك موتورز"
-  },
   "persib bandung": {
     "en": "Persib Bandung",
     "ar": "بيرسيب باندونج"
   },
-  "clb viettel": {
-    "en": "CLB Viettel",
+  "viettel fc": {
+    "en": "Viettel FC",
     "ar": "سي إل بي فيتيل"
   },
-  "al wahda uae": {
-    "en": "Al Wahda (UAE)",
+  "emirati al wahda": {
+    "en": "Emirati Al Wahda",
     "ar": "الوحدة الإماراتي"
   },
-  "al jazira uae": {
-    "en": "Al Jazira (UAE)",
+  "emirati al jazira": {
+    "en": "Emirati Al Jazira",
     "ar": "الجزيرة الإماراتي"
   },
   "kuwait sc": {
     "en": "Kuwait SC",
     "ar": "الكويت الكويتي"
   },
-  "alnahda oman": {
-    "en": "Al-Nahda (Oman)",
+  "omani alnahda": {
+    "en": "Omani Al-Nahda",
     "ar": "النهضة العماني"
   },
   "gulf club champions league": {
     "en": "Gulf Club Champions League",
     "ar": "دوري أبطال الخليج للأندية"
-  },
-  "moroccan botola pro inwi": {
-    "en": "Moroccan Botola Pro Inwi",
-    "ar": "البطولة الوطنية الاحترافية \"إنوي\""
   },
   "cr temouchent": {
     "en": "CR Témouchent",
@@ -1128,27 +1120,27 @@
     "ar": "لينكولين سيتي"
   },
   "borussia dortmund": {
-    "en": "Borussia Dortmund U19",
+    "en": "Borussia Dortmund Under-19",
     "ar": "بوروسيا دورتموند تحت 19 سنة"
   },
   "mladost donja gorica": {
-    "en": "Mladost Donja Gorica U19",
+    "en": "Mladost Donja Gorica Under-19",
     "ar": "ملادوست دونيا غوريتسا تحت 19 سنة"
   },
   "liverpool": {
-    "en": "Liverpool U19",
+    "en": "Liverpool Under-19",
     "ar": "ليفربول تحت 19 سنة"
   },
   "feyenoord rotterdam": {
-    "en": "Feyenoord Rotterdam U19",
+    "en": "Feyenoord Rotterdam Under-19",
     "ar": "فينوورد روتردام تحت 19 سنة"
   },
   "como 1907": {
-    "en": "Como 1907 U19",
+    "en": "Como 1907 Under-19",
     "ar": "كومو 1907 تحت 19 عاما"
   },
   "shakhtar donetsk": {
-    "en": "Shakhtar Donetsk U19",
+    "en": "Shakhtar Donetsk Under-19",
     "ar": "شاختار دونيتسك تحت 19 سنة"
   },
   "partizani youth": {
@@ -1156,63 +1148,63 @@
     "ar": "بارتيزاني الشباب"
   },
   "valletta": {
-    "en": "Valletta U19",
+    "en": "Valletta Under-19",
     "ar": "فاليتا تحت 19 سنة"
   },
   "hjk helsinki": {
-    "en": "HJK Helsinki U19",
+    "en": "HJK Helsinki Under-19",
     "ar": "هيلسنكين جيه كي تحت 19 عاما"
   },
   "slovan bratislava": {
-    "en": "Slovan Bratislava U19",
+    "en": "Slovan Bratislava Under-19",
     "ar": "سلوفان براتيسلافا تحت 19 سنة"
   },
   "stuttgart": {
-    "en": "Stuttgart U19",
+    "en": "Stuttgart Under-19",
     "ar": "شتوتغارت تحت 19 سنة"
   },
   "roma": {
-    "en": "Roma U19",
+    "en": "Roma Under-19",
     "ar": "روما تحت 19 عاما"
   },
   "real madrid": {
-    "en": "Real Madrid U19",
+    "en": "Real Madrid Under-19",
     "ar": "ريال مدريد تحت 19 سنة"
   },
   "ap brera strumica": {
-    "en": "AP Brera Strumica U19",
+    "en": "AP Brera Strumica Under-19",
     "ar": "إيه بي بريرا ستروميكا تحت 19 سنة"
   },
   "santa coloma": {
-    "en": "Santa Coloma U19",
+    "en": "Santa Coloma Under-19",
     "ar": "سانتا كولوما تحت 19 سنة"
   },
   "aston villa": {
-    "en": "Aston Villa U19",
+    "en": "Aston Villa Under-19",
     "ar": "أستون فيلا تحت 19 سنة"
   },
   "fenerbahce": {
-    "en": "Fenerbahçe U19",
+    "en": "Fenerbahçe Under-19",
     "ar": "فنربخشة تحت 19 عاما"
   },
   "real betis": {
-    "en": "Real Betis U19",
+    "en": "Real Betis Under-19",
     "ar": "ريال بيتيس تحت 19 سنة"
   },
   "porto": {
-    "en": "Porto U19",
+    "en": "Porto Under-19",
     "ar": "بورتو تحت 19 سنة"
   },
   "manchester city": {
-    "en": "Manchester City U19",
+    "en": "Manchester City Under-19",
     "ar": "مانشستر سيتي تحت 19 سنة"
   },
   "paris saintgermain": {
-    "en": "Paris Saint-Germain U19",
+    "en": "Paris Saint-Germain Under-19",
     "ar": "باريس سان جيرمان تحت 19 سنة"
   },
   "sk super nova": {
-    "en": "SK Super Nova U19",
+    "en": "SK Super Nova Under-19",
     "ar": "إس كيه سوبر نوفا تحت 19 سنة"
   },
   "zalgiris vilnius": {
@@ -1220,11 +1212,11 @@
     "ar": "زالغيريس فيلنوس"
   },
   "if thor akureyri": {
-    "en": "IF Thor Akureyri U19",
+    "en": "IF Thor Akureyri Under-19",
     "ar": "إي إف ثور أكوريري تحت 19 سنة"
   },
   "cardiff metropolitan": {
-    "en": "Cardiff Metropolitan U19",
+    "en": "Cardiff Metropolitan Under-19",
     "ar": "كارديف متروبوليتان تحت 19 سنة"
   },
   "hb torshavn": {
@@ -1239,25 +1231,13 @@
     "en": "Atlético Sarmiento",
     "ar": "أتلتيكو سارمينتو"
   },
-  "almajd libya": {
-    "en": "Al-Majd (Libya)",
-    "ar": "المجد الليبي"
+  "al akhdar": {
+    "en": "Al Akhdar",
+    "ar": "الاخضر"
   },
-  "alittihad libya": {
-    "en": "Al-Ittihad (Libya)",
+  "alittihad": {
+    "en": "Al-Ittihad",
     "ar": "الاتحاد الليبي"
-  },
-  "saudi hajer": {
-    "en": "Saudi Hajer",
-    "ar": "هجر السعودي"
-  },
-  "saudi first division league fdl": {
-    "en": "Saudi First Division League (FDL)",
-    "ar": "FDL دوري الدرجة الأولى السعودي"
-  },
-  "alraed saudi arabia": {
-    "en": "Al-Raed (Saudi Arabia)",
-    "ar": "الرائد السعودي"
   },
   "ud santarem": {
     "en": "UD Santarém",
@@ -1282,10 +1262,6 @@
   "alshamiya": {
     "en": "Al-Shamiya",
     "ar": "الشامية"
-  },
-  "alittihad kuwait": {
-    "en": "Al-Ittihad (Kuwait)",
-    "ar": "الاتحاد الكويتي"
   },
   "sporty fc": {
     "en": "Sporty FC",
