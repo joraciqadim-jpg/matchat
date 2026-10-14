@@ -1,49 +1,57 @@
 {
-  "Arena Premium 2 Srbija HD": {
+  "viju+ Sport HD": {
+    "satellites": [
+      {
+        "satellite": "KazSat (58.5E)",
+        "frequency": "10720 H 30000"
+      },
+      {
+        "satellite": "Express (56.0E)",
+        "frequency": "12092 R 27500"
+      },
+      {
+        "satellite": "MonacoSat (52.0E)",
+        "frequency": "12226 V 28000"
+      },
+      {
+        "satellite": "Eutelsat (35.9E)",
+        "frequency": "11900 R 27500"
+      },
+      {
+        "satellite": "Hotbird (13.0E)",
+        "frequency": "10853 H 29900"
+      },
+      {
+        "satellite": "Astra (5.0E)",
+        "frequency": "12092 V 30000"
+      }
+    ]
+  },
+  "Arena Premium 1 Srbija HD": {
     "satellites": [
       {
         "satellite": "Astra (23.5E)",
         "frequency": "12402 V 30000"
       },
       {
-        "satellite": "Astra (23.5E)",
-        "frequency": "12480 V 30000"
-      },
-      {
         "satellite": "Eutelsat (16.0E)",
-        "frequency": "11429 V 28330"
+        "frequency": "11366 V 30000"
       }
     ]
   },
-  "MATCH! Futbol 3 HD": {
+  "Arena Sport 1 BiH HD": {
     "satellites": [
       {
-        "satellite": "Horizons (84.8E)",
-        "frequency": "11840 H 28800"
-      },
+        "satellite": "Astra (23.5E)",
+        "frequency": "11720 H 30000"
+      }
+    ]
+  },
+  "Arena Sport 1 Hrvatska HD": {
+    "satellites": [
       {
-        "satellite": "ABS (75.0E)",
-        "frequency": "11920 V 45000"
-      },
-      {
-        "satellite": "Express (56.0E)",
-        "frequency": "12476 R 27500"
-      },
-      {
-        "satellite": "Express (36.1E)",
-        "frequency": "12380 L 27500"
-      },
-      {
-        "satellite": "Eutelsat (35.9E)",
-        "frequency": "11823 R 27500"
-      },
-      {
-        "satellite": "Eutelsat (35.9E)",
-        "frequency": "11804 L 27500"
-      },
-      {
-        "satellite": "Eutelsat (35.9E)",
-        "frequency": "11785 R 27500"
+        "satellite": "Eutelsat (16.0E)",
+        "frequency": "11678 H 30000"
       }
     ]
   },
@@ -59,11 +67,119 @@
       }
     ]
   },
-  "beIN Sports MENA English 1 HD": {
+  "beIN Sports MENA English 2 HD": {
     "satellites": [
       {
         "satellite": "Eshail (25.5E)",
-        "frequency": "10850 V 27500"
+        "frequency": "11390 V 27500"
+      }
+    ]
+  },
+  "ERT 2 Sport Hellas HD": {
+    "satellites": [
+      {
+        "satellite": "Hellas (39.0E)",
+        "frequency": "12223 H 13381"
+      },
+      {
+        "satellite": "Hellas (39.0E)",
+        "frequency": "12242 H 13381"
+      },
+      {
+        "satellite": "Hotbird (13.0E)",
+        "frequency": "12169 H 30000"
+      },
+      {
+        "satellite": "Eutelsat (9.0E)",
+        "frequency": "11938 H 27500"
+      }
+    ]
+  },
+  "ESPN 1 Nederland HD": {
+    "satellites": [
+      {
+        "satellite": "Astra (23.5E)",
+        "frequency": "11739 V 29900"
+      }
+    ]
+  },
+  "MAX Sport 4 Bulgaria HD": {
+    "satellites": [
+      {
+        "satellite": "AzerSpace (45.0E)",
+        "frequency": "11475 V 30000"
+      },
+      {
+        "satellite": "Hellas (39.0E)",
+        "frequency": "12117 H 30000"
+      },
+      {
+        "satellite": "Hellas (39.0E)",
+        "frequency": "12565 H 30000"
+      },
+      {
+        "satellite": "Hellas (39.0E)",
+        "frequency": "12213 V 30000"
+      },
+      {
+        "satellite": "Hotbird (13.0E)",
+        "frequency": "12713 V 30000"
+      },
+      {
+        "satellite": "BulgariaSat (1.9E)",
+        "frequency": "12476 V 30000"
+      }
+    ]
+  },
+  "Sport 2 Israel HD": {
+    "satellites": [
+      {
+        "satellite": "Dror (4.0W)",
+        "frequency": "12259 V 30000"
+      }
+    ]
+  },
+  "Sport TV1 Portugal HD": {
+    "satellites": [
+      {
+        "satellite": "Hispasat (30.0W)",
+        "frequency": "12246 H 27500"
+      }
+    ]
+  },
+  "Sportdigital FUSSBALL HD": {
+    "satellites": [
+      {
+        "satellite": "Astra (19.2E)",
+        "frequency": "11186 V 22000"
+      }
+    ]
+  },
+  "Astro Arena Bola HD": {
+    "satellites": [
+      {
+        "satellite": "Measat (91.5E)",
+        "frequency": "10772 V 30000"
+      }
+    ]
+  },
+  "Azam Sports 2 HD": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat (7.0E)",
+        "frequency": "10981 V 45000"
+      }
+    ]
+  },
+  "beIN Sports MENA 1 HD": {
+    "satellites": [
+      {
+        "satellite": "Eshail (25.5E)",
+        "frequency": "10810 H 27500"
+      },
+      {
+        "satellite": "Eutelsat (8.0W)",
+        "frequency": "11013 H 27500"
       }
     ]
   },
@@ -91,22 +207,6 @@
       }
     ]
   },
-  "Spor Smart Türkiye HD": {
-    "satellites": [
-      {
-        "satellite": "Turksat (42.0E)",
-        "frequency": "12188 V 27500"
-      }
-    ]
-  },
-  "Sport 1 Israel HD": {
-    "satellites": [
-      {
-        "satellite": "Dror (4.0W)",
-        "frequency": "11259 V 30000"
-      }
-    ]
-  },
   "SportKlub 1 Slovenija HD": {
     "satellites": [
       {
@@ -120,6 +220,110 @@
       {
         "satellite": "Eutelsat (16.0E)",
         "frequency": "11387 H 30000"
+      }
+    ]
+  },
+  "Sporty TV Africa HD": {
+    "satellites": [
+      {
+        "satellite": "Express (36.1E)",
+        "frequency": "12265 V 27500"
+      },
+      {
+        "satellite": "Astra (28.2E)",
+        "frequency": "12605 V 30000"
+      },
+      {
+        "satellite": "Astra (28.2E)",
+        "frequency": "11135 V 30000"
+      },
+      {
+        "satellite": "Eutelsat (3.1E)",
+        "frequency": "3918 R 19630"
+      }
+    ]
+  },
+  "TV Start Triumph HD": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat (35.9E)",
+        "frequency": "11996 L 27500"
+      },
+      {
+        "satellite": "Eutelsat (35.9E)",
+        "frequency": "11785 R 27500"
+      }
+    ]
+  },
+  "LFC TV HD": {
+    "satellites": [
+      {
+        "satellite": "Astra (28.2E)",
+        "frequency": "12188 H 27500"
+      }
+    ]
+  },
+  "Diema Sport 3 HD": {
+    "satellites": [
+      {
+        "satellite": "AzerSpace (45.0E)",
+        "frequency": "12520 V 30000"
+      },
+      {
+        "satellite": "Hellas (39.0E)",
+        "frequency": "12463 H 30000"
+      },
+      {
+        "satellite": "Hellas (39.0E)",
+        "frequency": "12214 V 30000"
+      },
+      {
+        "satellite": "Hotbird (13.0E)",
+        "frequency": "12673 V 30000"
+      },
+      {
+        "satellite": "BulgariaSat (1.9E)",
+        "frequency": "12207 V 30000"
+      }
+    ]
+  },
+  "IRIB Varzesh HD": {
+    "satellites": [
+      {
+        "satellite": "Intelsat (62.0E)",
+        "frequency": "11555 V 30000"
+      },
+      {
+        "satellite": "Badr (26.0E)",
+        "frequency": "11881 H 27500"
+      }
+    ]
+  },
+  "Spor Smart Türkiye HD": {
+    "satellites": [
+      {
+        "satellite": "Turksat (42.0E)",
+        "frequency": "12188 V 27500"
+      }
+    ]
+  },
+  "Sportdigital 1+ Deutsch HD": {
+    "satellites": [
+      {
+        "satellite": "Astra (19.2E)",
+        "frequency": "11186 V 22000"
+      },
+      {
+        "satellite": "Eutelsat (9.0E)",
+        "frequency": "12360 H 27500"
+      }
+    ]
+  },
+  "SportKlub 1 Hrvatska HD": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat (16.0E)",
+        "frequency": "11471 H 30000"
       }
     ]
   },
@@ -144,6 +348,14 @@
       {
         "satellite": "Eutelsat (35.9E)",
         "frequency": "11919 L 30000"
+      }
+    ]
+  },
+  "Astro Arena Bola 2 HD": {
+    "satellites": [
+      {
+        "satellite": "Measat (91.5E)",
+        "frequency": "10892 V 30000"
       }
     ]
   },
@@ -175,31 +387,55 @@
       }
     ]
   },
-  "beIN Sports MENA 4 HD": {
+  "beIN Sports Türkiye 2 HD": {
     "satellites": [
       {
-        "satellite": "Eshail (25.5E)",
-        "frequency": "10810 V 27500"
+        "satellite": "Turksat (42.0E)",
+        "frequency": "11676 V 24444"
       },
       {
-        "satellite": "Eutelsat (8.0W)",
-        "frequency": "11054 H 27500"
+        "satellite": "Eutelsat (7.0E)",
+        "frequency": "11637 H 30000"
       }
     ]
   },
-  "Diema Sport 3 HD": {
+  "beIN Sports 1 HD (Astro)": {
+    "satellites": [
+      {
+        "satellite": "Measat (91.5E)",
+        "frequency": "10812 V 30000"
+      },
+      {
+        "satellite": "Measat (91.5E)",
+        "frequency": "11142 V 30000"
+      }
+    ]
+  },
+  "beIN Sports MENA English 1 HD": {
+    "satellites": [
+      {
+        "satellite": "Eshail (25.5E)",
+        "frequency": "10850 V 27500"
+      }
+    ]
+  },
+  "MAX Sport 3 Bulgaria HD": {
     "satellites": [
       {
         "satellite": "AzerSpace (45.0E)",
-        "frequency": "12520 V 30000"
+        "frequency": "12600 V 30000"
       },
       {
         "satellite": "Hellas (39.0E)",
-        "frequency": "12463 H 30000"
+        "frequency": "12524 H 30000"
       },
       {
         "satellite": "Hellas (39.0E)",
-        "frequency": "12214 V 30000"
+        "frequency": "12565 H 30000"
+      },
+      {
+        "satellite": "Hellas (39.0E)",
+        "frequency": "12309 H 30000"
       },
       {
         "satellite": "Hotbird (13.0E)",
@@ -207,39 +443,15 @@
       },
       {
         "satellite": "BulgariaSat (1.9E)",
-        "frequency": "12207 V 30000"
+        "frequency": "12092 V 30000"
       }
     ]
   },
-  "SportKlub 1 Hrvatska HD": {
+  "Persiana Sports 3 HD": {
     "satellites": [
       {
-        "satellite": "Eutelsat (16.0E)",
-        "frequency": "11471 H 30000"
-      }
-    ]
-  },
-  "beIN Sports MENA 3 HD": {
-    "satellites": [
-      {
-        "satellite": "Eshail (25.5E)",
-        "frequency": "10810 H 27500"
-      },
-      {
-        "satellite": "Eutelsat (8.0W)",
-        "frequency": "11013 H 27500"
-      }
-    ]
-  },
-  "TV Start Triumph HD": {
-    "satellites": [
-      {
-        "satellite": "Eutelsat (35.9E)",
-        "frequency": "11996 L 27500"
-      },
-      {
-        "satellite": "Eutelsat (35.9E)",
-        "frequency": "11785 R 27500"
+        "satellite": "MonacoSat (52.0E)",
+        "frequency": "11420 V 27500"
       }
     ]
   },
@@ -255,30 +467,6 @@
       }
     ]
   },
-  "beIN Sports Türkiye 2 HD": {
-    "satellites": [
-      {
-        "satellite": "Turksat (42.0E)",
-        "frequency": "11676 V 24444"
-      },
-      {
-        "satellite": "Eutelsat (7.0E)",
-        "frequency": "11637 H 30000"
-      }
-    ]
-  },
-  "M+ Liga de Campeones 2 HD": {
-    "satellites": [
-      {
-        "satellite": "Astra (19.2E)",
-        "frequency": "10729 V 22000"
-      },
-      {
-        "satellite": "Astra (19.2E)",
-        "frequency": "10758 V 22000"
-      }
-    ]
-  },
   "SuperSport MáXimo 1 HD": {
     "satellites": [
       {
@@ -291,15 +479,7 @@
       }
     ]
   },
-  "Ziggo Sport 1 HD": {
-    "satellites": [
-      {
-        "satellite": "Astra (23.5E)",
-        "frequency": "12129 V 29900"
-      }
-    ]
-  },
-  "beIN Sports MENA 1 HD": {
+  "beIN Sports MENA 3 HD": {
     "satellites": [
       {
         "satellite": "Eshail (25.5E)",
@@ -308,98 +488,6 @@
       {
         "satellite": "Eutelsat (8.0W)",
         "frequency": "11013 H 27500"
-      }
-    ]
-  },
-  "MTV Urheilu 2 Suomi HD": {
-    "satellites": [
-      {
-        "satellite": "Thor (0.8W)",
-        "frequency": "11247 V 24500"
-      }
-    ]
-  },
-  "Sky Sport 1 Austria HD": {
-    "satellites": [
-      {
-        "satellite": "Astra (19.2E)",
-        "frequency": "12032 H 27500"
-      }
-    ]
-  },
-  "MUTV HD": {
-    "satellites": [
-      {
-        "satellite": "Astra (28.2E)",
-        "frequency": "11914 H 27500"
-      },
-      {
-        "satellite": "Astra (28.2E)",
-        "frequency": "12266 V 29500"
-      }
-    ]
-  },
-  "Sport 2 Hungary HD": {
-    "satellites": [
-      {
-        "satellite": "Thor (0.8W)",
-        "frequency": "11766 V 28000"
-      },
-      {
-        "satellite": "Thor (0.8W)",
-        "frequency": "11785 H 28000"
-      },
-      {
-        "satellite": "Amos (4.0W)",
-        "frequency": "11258 H 30000"
-      },
-      {
-        "satellite": "Amos (4.0W)",
-        "frequency": "10806 V 30000"
-      }
-    ]
-  },
-  "TNT Sports 1 HD": {
-    "satellites": [
-      {
-        "satellite": "NSS (57.0E)",
-        "frequency": "3775 L 09583"
-      },
-      {
-        "satellite": "NSS (57.0E)",
-        "frequency": "3798 R 19167"
-      },
-      {
-        "satellite": "Astra (28.2E)",
-        "frequency": "11612 H 22000"
-      },
-      {
-        "satellite": "Astra (28.2E)",
-        "frequency": "11582 H 23000"
-      },
-      {
-        "satellite": "Eutelsat (10.0E)",
-        "frequency": "11222 V 30000"
-      },
-      {
-        "satellite": "SES (40.5W)",
-        "frequency": "4132 R 22500"
-      }
-    ]
-  },
-  "Arena Premium 5 Srbija HD": {
-    "satellites": [
-      {
-        "satellite": "Astra (23.5E)",
-        "frequency": "12304 H 30000"
-      }
-    ]
-  },
-  "YLE TV2 Suomi HD": {
-    "satellites": [
-      {
-        "satellite": "Thor (0.8W)",
-        "frequency": "10872 H 25000"
       }
     ]
   },
@@ -471,115 +559,135 @@
       }
     ]
   },
-  "Q Sport Arena HD": {
+  "beIN Sports MENA 4 HD": {
     "satellites": [
       {
-        "satellite": "KazSat (58.5E)",
-        "frequency": "10720 H 30000"
+        "satellite": "Eshail (25.5E)",
+        "frequency": "10810 V 27500"
       },
       {
-        "satellite": "KazSat (58.5E)",
-        "frequency": "12657 V 45000"
+        "satellite": "Eutelsat (8.0W)",
+        "frequency": "11054 H 27500"
       }
     ]
   },
-  "ESPN 3 Brazil HD": {
+  "Futbol TV Uzbekistan": {
     "satellites": [
       {
-        "satellite": "SES (40.5W)",
-        "frequency": "3980 L 21600"
-      }
-    ]
-  },
-  "Nova Sport 2 Czech HD": {
-    "satellites": [
-      {
-        "satellite": "Astra (23.5E)",
-        "frequency": "11973 V 29900"
+        "satellite": "NSS (57.0E)",
+        "frequency": "11610 H 20200"
       },
       {
-        "satellite": "Eutelsat (16.0E)",
-        "frequency": "11094 V 27500"
-      },
-      {
-        "satellite": "Thor (0.8W)",
-        "frequency": "12380 V 30000"
-      },
-      {
-        "satellite": "Hispasat (30.0W)",
-        "frequency": "11811 V 30000"
+        "satellite": "MonacoSat (52.0E)",
+        "frequency": "10926 H 27500"
       }
     ]
   },
-  "Canal 11 Portugal HD": {
+  "5 LIVE Israel HD": {
     "satellites": [
       {
-        "satellite": "Hispasat (30.0W)",
-        "frequency": "12437 H 27500"
+        "satellite": "Dror (4.0W)",
+        "frequency": "11259 V 30000"
       }
     ]
   },
-  "ESPN 2 Nederland HD": {
+  "Digi Sport 4 Romania": {
     "satellites": [
       {
-        "satellite": "Astra (23.5E)",
-        "frequency": "11856 V 29900"
+        "satellite": "Intelsat (1.0W)",
+        "frequency": "12687 H 27500"
       }
     ]
   },
-  "ESPN 4 Brazil HD": {
-    "satellites": [
-      {
-        "satellite": "SES (40.5W)",
-        "frequency": "3980 L 21600"
-      },
-      {
-        "satellite": "SES (40.5W)",
-        "frequency": "4095 R 30000"
-      }
-    ]
-  },
-  "Sportdigital 1+ Deutsch HD": {
+  "M+ Liga de Campeones 2 HD": {
     "satellites": [
       {
         "satellite": "Astra (19.2E)",
-        "frequency": "11186 V 22000"
+        "frequency": "10729 V 22000"
       },
       {
-        "satellite": "Eutelsat (9.0E)",
-        "frequency": "12360 H 27500"
+        "satellite": "Astra (19.2E)",
+        "frequency": "10758 V 22000"
       }
     ]
   },
-  "SportKlub 2 Slovenija": {
+  "MTV Urheilu 2 Suomi HD": {
     "satellites": [
       {
-        "satellite": "Eutelsat (16.0E)",
-        "frequency": "11387 H 32000"
+        "satellite": "Thor (0.8W)",
+        "frequency": "11247 V 24500"
       }
     ]
   },
-  "RTBF Tipik Belgique": {
+  "Nova Sport 4 Czech HD": {
     "satellites": [
       {
-        "satellite": "Hotbird (13.0E)",
-        "frequency": "11411 H 27500"
+        "satellite": "Astra (23.5E)",
+        "frequency": "11934 V 27500"
+      },
+      {
+        "satellite": "Thor (0.8W)",
+        "frequency": "11977 H 30000"
       }
     ]
   },
-  "TVP Sport Polska HD": {
+  "Prima Sport RO 4 HD": {
     "satellites": [
       {
-        "satellite": "Hotbird (13.0E)",
-        "frequency": "10834 V 27500"
+        "satellite": "Hellas (39.0E)",
+        "frequency": "12405 V 30000"
+      },
+      {
+        "satellite": "Hellas (39.0E)",
+        "frequency": "12606 V 30000"
       }
     ]
   },
-  "TV2 Direkte Norge HD": {
+  "Sky Sport 1 Austria HD": {
+    "satellites": [
+      {
+        "satellite": "Astra (19.2E)",
+        "frequency": "12032 H 27500"
+      }
+    ]
+  },
+  "Sport 2 Hungary HD": {
+    "satellites": [
+      {
+        "satellite": "Thor (0.8W)",
+        "frequency": "11766 V 28000"
+      },
+      {
+        "satellite": "Thor (0.8W)",
+        "frequency": "11785 H 28000"
+      },
+      {
+        "satellite": "Amos (4.0W)",
+        "frequency": "11258 H 30000"
+      },
+      {
+        "satellite": "Amos (4.0W)",
+        "frequency": "10806 V 30000"
+      }
+    ]
+  },
+  "TNT Sports 3 HD": {
+    "satellites": [
+      {
+        "satellite": "Astra (28.2E)",
+        "frequency": "11612 H 22000"
+      },
+      {
+        "satellite": "Astra (28.2E)",
+        "frequency": "11582 H 23000"
+      }
+    ]
+  },
+  "TV2 Sport 1 Norge HD": {
     "satellites": [
       {
         "satellite": "Thor (5.0E)",
-        "frequency": "11385 H 30000"
+        "frequency": "11385 V 30000"
       },
       {
         "satellite": "Thor (0.8W)",
@@ -587,7 +695,67 @@
       }
     ]
   },
-  "Arena Premium 4 Srbija HD": {
+  "Ziggo Sport 2": {
+    "satellites": [
+      {
+        "satellite": "Astra (23.5E)",
+        "frequency": "12129 V 29900"
+      }
+    ]
+  },
+  "M+ Liga de Campeones HD": {
+    "satellites": [
+      {
+        "satellite": "Astra (19.2E)",
+        "frequency": "11259 V 22000"
+      },
+      {
+        "satellite": "Astra (19.2E)",
+        "frequency": "11097 V 22000"
+      }
+    ]
+  },
+  "Persiana Sport HD": {
+    "satellites": [
+      {
+        "satellite": "MonacoSat (52.0E)",
+        "frequency": "10762 V 27500"
+      },
+      {
+        "satellite": "MonacoSat (52.0E)",
+        "frequency": "10762 V 30000"
+      },
+      {
+        "satellite": "MonacoSat (52.0E)",
+        "frequency": "10804 H 27500"
+      }
+    ]
+  },
+  "beIN Sports MENA 6 HD": {
+    "satellites": [
+      {
+        "satellite": "Eshail (25.5E)",
+        "frequency": "10810 V 27500"
+      },
+      {
+        "satellite": "Eutelsat (8.0W)",
+        "frequency": "11054 H 27500"
+      }
+    ]
+  },
+  "beIN Sports MENA 8 HD": {
+    "satellites": [
+      {
+        "satellite": "Eshail (25.5E)",
+        "frequency": "10810 V 27500"
+      },
+      {
+        "satellite": "Eutelsat (8.0W)",
+        "frequency": "11054 H 27500"
+      }
+    ]
+  },
+  "Arena M2 Premium MKD HD": {
     "satellites": [
       {
         "satellite": "Astra (23.5E)",
@@ -595,27 +763,43 @@
       }
     ]
   },
-  "Arena Sport 4 Hrvatska HD": {
+  "Arena Premium 2 Srbija HD": {
     "satellites": [
       {
+        "satellite": "Astra (23.5E)",
+        "frequency": "12402 V 30000"
+      },
+      {
+        "satellite": "Astra (23.5E)",
+        "frequency": "12480 V 30000"
+      },
+      {
         "satellite": "Eutelsat (16.0E)",
-        "frequency": "11554 H 30000"
+        "frequency": "11429 V 28330"
       }
     ]
   },
-  "Canal+ Extra 2 Polska HD": {
+  "Arena Sport 3 Hrvatska HD": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat (16.0E)",
+        "frequency": "11512 H 30000"
+      }
+    ]
+  },
+  "beIN Sports 3 HD (Astro)": {
+    "satellites": [
+      {
+        "satellite": "Measat (91.5E)",
+        "frequency": "10732 V 30000"
+      }
+    ]
+  },
+  "Canal+ Extra 3 Polska HD": {
     "satellites": [
       {
         "satellite": "Hotbird (13.0E)",
         "frequency": "11278 V 27500"
-      }
-    ]
-  },
-  "Canal+ Live 2 France HD": {
-    "satellites": [
-      {
-        "satellite": "Astra (19.2E)",
-        "frequency": "12728 V 29700"
       }
     ]
   },
@@ -631,18 +815,6 @@
       }
     ]
   },
-  "Ictimai TV HD": {
-    "satellites": [
-      {
-        "satellite": "AzerSpace (46.0E)",
-        "frequency": "11095 H 30000"
-      },
-      {
-        "satellite": "AzerSpace (46.0E)",
-        "frequency": "11175 H 30000"
-      }
-    ]
-  },
   "M+ Liga de Campeones 3 HD": {
     "satellites": [
       {
@@ -655,34 +827,6 @@
       }
     ]
   },
-  "MAX Sport 4 Bulgaria HD": {
-    "satellites": [
-      {
-        "satellite": "AzerSpace (45.0E)",
-        "frequency": "11475 V 30000"
-      },
-      {
-        "satellite": "Hellas (39.0E)",
-        "frequency": "12117 H 30000"
-      },
-      {
-        "satellite": "Hellas (39.0E)",
-        "frequency": "12565 H 30000"
-      },
-      {
-        "satellite": "Hellas (39.0E)",
-        "frequency": "12213 V 30000"
-      },
-      {
-        "satellite": "Hotbird (13.0E)",
-        "frequency": "12713 V 30000"
-      },
-      {
-        "satellite": "BulgariaSat (1.9E)",
-        "frequency": "12476 V 30000"
-      }
-    ]
-  },
   "New World Sport 3 Togo": {
     "satellites": [
       {
@@ -691,15 +835,15 @@
       }
     ]
   },
-  "Nova Sport 3 Czech HD": {
+  "Nova Sport 6 Czech HD": {
     "satellites": [
       {
         "satellite": "Astra (23.5E)",
-        "frequency": "11934 V 27500"
+        "frequency": "12090 V 29900"
       },
       {
-        "satellite": "Thor (0.8W)",
-        "frequency": "11977 H 30000"
+        "satellite": "Intelsat (1.0W)",
+        "frequency": "12527 H 28800"
       }
     ]
   },
@@ -735,59 +879,63 @@
       }
     ]
   },
-  "QazSport HD": {
+  "Q Sport League HD": {
     "satellites": [
       {
-        "satellite": "KazSat (86.5E)",
-        "frequency": "11495 V 09000"
-      },
-      {
-        "satellite": "KazSat (86.5E)",
-        "frequency": "11660 V 14663"
+        "satellite": "KazSat (58.5E)",
+        "frequency": "12719 V 45000"
       },
       {
         "satellite": "KazSat (58.5E)",
-        "frequency": "10846 H 30000"
-      },
-      {
-        "satellite": "KazSat (58.5E)",
-        "frequency": "10804 H 30000"
-      },
-      {
-        "satellite": "KazSat (58.5E)",
-        "frequency": "12657 V 45000"
-      },
-      {
-        "satellite": "KazSat (58.5E)",
-        "frequency": "10846 V 30000"
+        "frequency": "10720 H 30000"
       }
     ]
   },
-  "Sky Sport 254 Italia HD": {
+  "Ring Bulgaria HD": {
     "satellites": [
       {
-        "satellite": "Hotbird (13.0E)",
-        "frequency": "12073 V 29900"
+        "satellite": "AzerSpace (45.0E)",
+        "frequency": "12600 V 30000"
       },
+      {
+        "satellite": "AzerSpace (45.0E)",
+        "frequency": "11555 V 30000"
+      },
+      {
+        "satellite": "Hellas (39.0E)",
+        "frequency": "12482 V 30000"
+      },
+      {
+        "satellite": "Hellas (39.0E)",
+        "frequency": "12309 H 30000"
+      },
+      {
+        "satellite": "Hellas (39.0E)",
+        "frequency": "12463 H 30000"
+      },
+      {
+        "satellite": "BulgariaSat (1.9E)",
+        "frequency": "12418 H 30000"
+      }
+    ]
+  },
+  "Sky Sport 253 Italia HD": {
+    "satellites": [
       {
         "satellite": "Hotbird (13.0E)",
         "frequency": "12341 V 29900"
-      }
-    ]
-  },
-  "Sky Sport 4 Austria HD": {
-    "satellites": [
+      },
       {
-        "satellite": "Astra (19.2E)",
-        "frequency": "12382 H 27500"
+        "satellite": "Hotbird (13.0E)",
+        "frequency": "12054 H 29900"
       }
     ]
   },
-  "Sky Sport Arena Italia HD": {
+  "Sky Sport Uno Italia HD": {
     "satellites": [
       {
         "satellite": "Hotbird (13.0E)",
-        "frequency": "11996 V 29900"
+        "frequency": "11958 V 27500"
       }
     ]
   },
@@ -800,6 +948,14 @@
       {
         "satellite": "Insat (83.0E)",
         "frequency": "11130 H 32720"
+      }
+    ]
+  },
+  "SuperSport MáXimo 2A HD": {
+    "satellites": [
+      {
+        "satellite": "Express (36.1E)",
+        "frequency": "12169 H 27500"
       }
     ]
   },
@@ -827,19 +983,15 @@
       }
     ]
   },
-  "TV3 MAX Dansk HD": {
+  "Ziggo Sport 1 HD": {
     "satellites": [
       {
-        "satellite": "Thor (5.0E)",
-        "frequency": "11345 V 30000"
-      },
-      {
-        "satellite": "Thor (0.8W)",
-        "frequency": "10809 V 25000"
+        "satellite": "Astra (23.5E)",
+        "frequency": "12129 V 29900"
       }
     ]
   },
-  "5 LIVE Israel HD": {
+  "5 PLUS Israel HD": {
     "satellites": [
       {
         "satellite": "Dror (4.0W)",
@@ -847,7 +999,7 @@
       }
     ]
   },
-  "Arena M3 Premium MKD HD": {
+  "Arena M1 Premium MKD HD": {
     "satellites": [
       {
         "satellite": "Astra (23.5E)",
@@ -855,59 +1007,55 @@
       }
     ]
   },
-  "Arena Premium 3 Srbija HD": {
+  "Arena Sport 4 Hrvatska HD": {
     "satellites": [
-      {
-        "satellite": "Astra (23.5E)",
-        "frequency": "12422 H 30000"
-      },
-      {
-        "satellite": "Eutelsat (16.0E)",
-        "frequency": "10721 H 30000"
-      }
-    ]
-  },
-  "Arena Sport 2 Hrvatska HD": {
-    "satellites": [
-      {
-        "satellite": "Eutelsat (16.0E)",
-        "frequency": "11595 H 30000"
-      },
       {
         "satellite": "Eutelsat (16.0E)",
         "frequency": "11554 H 30000"
       }
     ]
   },
-  "Canal+ Extra 3 Polska HD": {
+  "bTV Action HD": {
+    "satellites": [
+      {
+        "satellite": "AzerSpace (45.0E)",
+        "frequency": "11555 V 30000"
+      },
+      {
+        "satellite": "AzerSpace (45.0E)",
+        "frequency": "12600 V 30000"
+      },
+      {
+        "satellite": "Hellas (39.0E)",
+        "frequency": "12483 V 30000"
+      },
+      {
+        "satellite": "Hellas (39.0E)",
+        "frequency": "12137 V 30000"
+      },
+      {
+        "satellite": "Hellas (39.0E)",
+        "frequency": "12482 V 30000"
+      },
+      {
+        "satellite": "Hellas (39.0E)",
+        "frequency": "12463 H 30000"
+      },
+      {
+        "satellite": "Hotbird (13.0E)",
+        "frequency": "12673 V 30000"
+      },
+      {
+        "satellite": "BulgariaSat (1.9E)",
+        "frequency": "12341 H 30000"
+      }
+    ]
+  },
+  "Canal+ Extra 2 Polska HD": {
     "satellites": [
       {
         "satellite": "Hotbird (13.0E)",
         "frequency": "11278 V 27500"
-      }
-    ]
-  },
-  "Canal+ Live 1 France HD": {
-    "satellites": [
-      {
-        "satellite": "Astra (19.2E)",
-        "frequency": "11856 V 29700"
-      }
-    ]
-  },
-  "CBC Sport HD": {
-    "satellites": [
-      {
-        "satellite": "AzerSpace (46.0E)",
-        "frequency": "11095 H 30000"
-      },
-      {
-        "satellite": "AzerSpace (46.0E)",
-        "frequency": "11175 H 30000"
-      },
-      {
-        "satellite": "AzerSpace (45.0E)",
-        "frequency": "11555 H 30000"
       }
     ]
   },
@@ -920,34 +1068,6 @@
       {
         "satellite": "Thor (0.8W)",
         "frequency": "11862 H 28000"
-      }
-    ]
-  },
-  "MAX Sport 3 Bulgaria HD": {
-    "satellites": [
-      {
-        "satellite": "AzerSpace (45.0E)",
-        "frequency": "12600 V 30000"
-      },
-      {
-        "satellite": "Hellas (39.0E)",
-        "frequency": "12524 H 30000"
-      },
-      {
-        "satellite": "Hellas (39.0E)",
-        "frequency": "12565 H 30000"
-      },
-      {
-        "satellite": "Hellas (39.0E)",
-        "frequency": "12309 H 30000"
-      },
-      {
-        "satellite": "Hotbird (13.0E)",
-        "frequency": "12673 V 30000"
-      },
-      {
-        "satellite": "BulgariaSat (1.9E)",
-        "frequency": "12092 V 30000"
       }
     ]
   },
@@ -964,18 +1084,6 @@
       {
         "satellite": "Eutelsat (16.0E)",
         "frequency": "12562 H 30000"
-      }
-    ]
-  },
-  "Nova Sport 4 Czech HD": {
-    "satellites": [
-      {
-        "satellite": "Astra (23.5E)",
-        "frequency": "11934 V 27500"
-      },
-      {
-        "satellite": "Thor (0.8W)",
-        "frequency": "11977 H 30000"
       }
     ]
   },
@@ -1007,15 +1115,31 @@
       }
     ]
   },
-  "Q Sport League HD": {
+  "QazSport HD": {
     "satellites": [
       {
-        "satellite": "KazSat (58.5E)",
-        "frequency": "12719 V 45000"
+        "satellite": "KazSat (86.5E)",
+        "frequency": "11495 V 09000"
+      },
+      {
+        "satellite": "KazSat (86.5E)",
+        "frequency": "11660 V 14663"
       },
       {
         "satellite": "KazSat (58.5E)",
-        "frequency": "10720 H 30000"
+        "frequency": "10846 H 30000"
+      },
+      {
+        "satellite": "KazSat (58.5E)",
+        "frequency": "10804 H 30000"
+      },
+      {
+        "satellite": "KazSat (58.5E)",
+        "frequency": "12657 V 45000"
+      },
+      {
+        "satellite": "KazSat (58.5E)",
+        "frequency": "10846 V 30000"
       }
     ]
   },
@@ -1027,19 +1151,15 @@
       }
     ]
   },
-  "Sky Sport 3 Austria HD": {
-    "satellites": [
-      {
-        "satellite": "Astra (19.2E)",
-        "frequency": "11758 H 27500"
-      }
-    ]
-  },
-  "Sky Sport Calcio HD": {
+  "Sky Sport 254 Italia HD": {
     "satellites": [
       {
         "satellite": "Hotbird (13.0E)",
-        "frequency": "11958 V 27500"
+        "frequency": "12073 V 29900"
+      },
+      {
+        "satellite": "Hotbird (13.0E)",
+        "frequency": "12341 V 29900"
       }
     ]
   },
@@ -1067,19 +1187,15 @@
       }
     ]
   },
-  "Sport TV5 Portugal HD": {
+  "SuperSport Football Plus HD": {
     "satellites": [
       {
-        "satellite": "Hispasat (30.0W)",
-        "frequency": "12360 H 27500"
-      }
-    ]
-  },
-  "SuperSport MáXimo 2A HD": {
-    "satellites": [
+        "satellite": "Intelsat (68.5E)",
+        "frequency": "10970 V 30000"
+      },
       {
-        "satellite": "Express (36.1E)",
-        "frequency": "12169 H 27500"
+        "satellite": "Intelsat (68.5E)",
+        "frequency": "11514 H 30000"
       }
     ]
   },
@@ -1095,15 +1211,11 @@
       }
     ]
   },
-  "TV3 Sport Dansk HD": {
+  "V Sport Premium HD": {
     "satellites": [
       {
-        "satellite": "Thor (5.0E)",
-        "frequency": "11345 V 30000"
-      },
-      {
         "satellite": "Thor (0.8W)",
-        "frequency": "10809 H 25000"
+        "frequency": "10903 V 25000"
       }
     ]
   },
@@ -1115,11 +1227,1355 @@
       }
     ]
   },
-  "Ziggo Sport 2": {
+  "TRT Türk HD": {
+    "satellites": [
+      {
+        "satellite": "KazSat (58.5E)",
+        "frequency": "12719 V 45000"
+      },
+      {
+        "satellite": "Turksat (42.0E)",
+        "frequency": "11096 H 30000"
+      },
+      {
+        "satellite": "Turksat (42.0E)",
+        "frequency": "11054 V 30000"
+      },
+      {
+        "satellite": "Turksat (42.0E)",
+        "frequency": "12588 V 22500"
+      },
+      {
+        "satellite": "Turksat (42.0E)",
+        "frequency": "11958 V 27500"
+      },
+      {
+        "satellite": "Eutelsat (9.0E)",
+        "frequency": "12322 V 27500"
+      },
+      {
+        "satellite": "Eutelsat (7.0E)",
+        "frequency": "10804 V 30000"
+      }
+    ]
+  },
+  "beIN Sports Türkiye Max 1 HD": {
+    "satellites": [
+      {
+        "satellite": "Turksat (42.0E)",
+        "frequency": "11676 V 24444"
+      },
+      {
+        "satellite": "Eutelsat (7.0E)",
+        "frequency": "11513 H 29900"
+      }
+    ]
+  },
+  "Kanal 1 Xtra Slovakia HD": {
+    "satellites": [
+      {
+        "satellite": "Belintersat (51.5E)",
+        "frequency": "11230 H 45000"
+      },
+      {
+        "satellite": "Eutelsat (16.0E)",
+        "frequency": "11094 V 27500"
+      }
+    ]
+  },
+  "Canal 11 Portugal HD": {
+    "satellites": [
+      {
+        "satellite": "Hispasat (30.0W)",
+        "frequency": "12437 H 27500"
+      }
+    ]
+  },
+  "JOJ Šport 2 SVK HD": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat (16.0E)",
+        "frequency": "11055 V 27500"
+      }
+    ]
+  },
+  "beIN Sports MENA Xtra 3 HD": {
+    "satellites": [
+      {
+        "satellite": "Eshail (25.5E)",
+        "frequency": "10810 V 27500"
+      },
+      {
+        "satellite": "Eutelsat (8.0W)",
+        "frequency": "11054 H 27500"
+      }
+    ]
+  },
+  "Sky Sports+ TV HD": {
+    "satellites": [
+      {
+        "satellite": "Astra (28.2E)",
+        "frequency": "12148 H 27500"
+      },
+      {
+        "satellite": "Astra (28.2E)",
+        "frequency": "12226 H 27500"
+      }
+    ]
+  },
+  "Arena M3 Premium MKD HD": {
+    "satellites": [
+      {
+        "satellite": "Astra (23.5E)",
+        "frequency": "12246 V 30000"
+      }
+    ]
+  },
+  "Arena Sport 2 Hrvatska HD": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat (16.0E)",
+        "frequency": "11595 H 30000"
+      },
+      {
+        "satellite": "Eutelsat (16.0E)",
+        "frequency": "11554 H 30000"
+      }
+    ]
+  },
+  "beIN Sports MENA French 1 HD": {
+    "satellites": [
+      {
+        "satellite": "Eshail (25.5E)",
+        "frequency": "11390 V 27500"
+      }
+    ]
+  },
+  "Canal+ 360 Polska HD": {
+    "satellites": [
+      {
+        "satellite": "Hotbird (13.0E)",
+        "frequency": "11411 H 27500"
+      }
+    ]
+  },
+  "Canal+ Sport 6 Polska HD": {
+    "satellites": [
+      {
+        "satellite": "Hotbird (13.0E)",
+        "frequency": "11449 H 27500"
+      }
+    ]
+  },
+  "Meraj TV": {
+    "satellites": [
+      {
+        "satellite": "MonacoSat (52.0E)",
+        "frequency": "11221 V 27500"
+      }
+    ]
+  },
+  "New World Sport 1 Mauritius": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat (16.0E)",
+        "frequency": "12562 H 30000"
+      }
+    ]
+  },
+  "Sky Sport 3 Austria HD": {
+    "satellites": [
+      {
+        "satellite": "Astra (19.2E)",
+        "frequency": "11758 H 27500"
+      }
+    ]
+  },
+  "Solh TV": {
+    "satellites": [
+      {
+        "satellite": "MonacoSat (52.0E)",
+        "frequency": "10845 V 27500"
+      }
+    ]
+  },
+  "Sony Sports TEN 3 India HD": {
+    "satellites": [
+      {
+        "satellite": "G-Sat (83.0E)",
+        "frequency": "11090 V 32720"
+      },
+      {
+        "satellite": "Insat (83.0E)",
+        "frequency": "11170 H 32720"
+      }
+    ]
+  },
+  "Sony Sports TEN 4 India HD": {
+    "satellites": [
+      {
+        "satellite": "Intelsat (68.5E)",
+        "frequency": "3868 H 14450"
+      }
+    ]
+  },
+  "TNT Sports 10": {
+    "satellites": [
+      {
+        "satellite": "Astra (28.2E)",
+        "frequency": "11597 V 23000"
+      }
+    ]
+  },
+  "TVP 1 Polska HD": {
+    "satellites": [
+      {
+        "satellite": "Hotbird (13.0E)",
+        "frequency": "11449 H 27500"
+      }
+    ]
+  },
+  "V Sport 1 Sverige HD": {
+    "satellites": [
+      {
+        "satellite": "Thor (0.8W)",
+        "frequency": "10809 V 25000"
+      }
+    ]
+  },
+  "Arena Premium 3 Srbija HD": {
+    "satellites": [
+      {
+        "satellite": "Astra (23.5E)",
+        "frequency": "12422 H 30000"
+      },
+      {
+        "satellite": "Eutelsat (16.0E)",
+        "frequency": "10721 H 30000"
+      }
+    ]
+  },
+  "beIN Sports 2 HD (Astro)": {
+    "satellites": [
+      {
+        "satellite": "Measat (91.5E)",
+        "frequency": "10732 V 30000"
+      }
+    ]
+  },
+  "CBC Sport HD": {
+    "satellites": [
+      {
+        "satellite": "AzerSpace (46.0E)",
+        "frequency": "11095 H 30000"
+      },
+      {
+        "satellite": "AzerSpace (46.0E)",
+        "frequency": "11175 H 30000"
+      },
+      {
+        "satellite": "AzerSpace (45.0E)",
+        "frequency": "11555 H 30000"
+      }
+    ]
+  },
+  "M+ Liga de Campeones 5": {
+    "satellites": [
+      {
+        "satellite": "Astra (19.2E)",
+        "frequency": "10979 V 22000"
+      }
+    ]
+  },
+  "Premier Sports 3 Mongolia HD": {
+    "satellites": [
+      {
+        "satellite": "Telstar (138.0E)",
+        "frequency": "12598 H 45000"
+      },
+      {
+        "satellite": "Koreasat (113.0E)",
+        "frequency": "11553 V 43200"
+      }
+    ]
+  },
+  "Prima Sport RO 3 HD": {
+    "satellites": [
+      {
+        "satellite": "Hellas (39.0E)",
+        "frequency": "12606 V 30000"
+      },
+      {
+        "satellite": "Hellas (39.0E)",
+        "frequency": "12647 V 30000"
+      }
+    ]
+  },
+  "Q Sport Arena HD": {
+    "satellites": [
+      {
+        "satellite": "KazSat (58.5E)",
+        "frequency": "10720 H 30000"
+      },
+      {
+        "satellite": "KazSat (58.5E)",
+        "frequency": "12657 V 45000"
+      }
+    ]
+  },
+  "Sky Sport 5 Austria HD": {
+    "satellites": [
+      {
+        "satellite": "Astra (19.2E)",
+        "frequency": "11720 H 27500"
+      }
+    ]
+  },
+  "Sky Sport Arena Italia HD": {
+    "satellites": [
+      {
+        "satellite": "Hotbird (13.0E)",
+        "frequency": "11996 V 29900"
+      }
+    ]
+  },
+  "SportKlub 2 Slovenija": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat (16.0E)",
+        "frequency": "11387 H 32000"
+      }
+    ]
+  },
+  "SuperSport Kickoff HD": {
+    "satellites": [
+      {
+        "satellite": "Intelsat (68.5E)",
+        "frequency": "11514 H 30000"
+      },
+      {
+        "satellite": "Intelsat (68.5E)",
+        "frequency": "11594 V 27500"
+      }
+    ]
+  },
+  "5 SPORT Israel HD": {
+    "satellites": [
+      {
+        "satellite": "Dror (4.0W)",
+        "frequency": "11259 V 30000"
+      },
+      {
+        "satellite": "Dror (4.0W)",
+        "frequency": "11140 V 27500"
+      }
+    ]
+  },
+  "Canal+ Extra 1 Polska HD": {
+    "satellites": [
+      {
+        "satellite": "Hotbird (13.0E)",
+        "frequency": "11278 V 27500"
+      }
+    ]
+  },
+  "Canal+ Sport 2 Afrique HD": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat (35.9E)",
+        "frequency": "11785 H 27500"
+      },
+      {
+        "satellite": "SES (22.0W)",
+        "frequency": "11171 V 45000"
+      },
+      {
+        "satellite": "SES (22.0W)",
+        "frequency": "12530 V 30000"
+      }
+    ]
+  },
+  "Canal+ Sport 5 Polska HD": {
+    "satellites": [
+      {
+        "satellite": "Hotbird (13.0E)",
+        "frequency": "11449 H 27500"
+      },
+      {
+        "satellite": "Hotbird (13.0E)",
+        "frequency": "10719 V 27500"
+      }
+    ]
+  },
+  "HRT 2 Hrvatska HD": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat (16.0E)",
+        "frequency": "11637 V 30000"
+      },
+      {
+        "satellite": "Eutelsat (16.0E)",
+        "frequency": "11595 H 30000"
+      },
+      {
+        "satellite": "Eutelsat (16.0E)",
+        "frequency": "11554 V 30000"
+      },
+      {
+        "satellite": "Eutelsat (16.0E)",
+        "frequency": "11471 H 30000"
+      }
+    ]
+  },
+  "Ictimai TV HD": {
+    "satellites": [
+      {
+        "satellite": "AzerSpace (46.0E)",
+        "frequency": "11095 H 30000"
+      },
+      {
+        "satellite": "AzerSpace (46.0E)",
+        "frequency": "11175 H 30000"
+      }
+    ]
+  },
+  "Kanal A Slovenija HD": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat (16.0E)",
+        "frequency": "11387 H 30000"
+      }
+    ]
+  },
+  "Nova Sport 3 Czech HD": {
+    "satellites": [
+      {
+        "satellite": "Astra (23.5E)",
+        "frequency": "11934 V 27500"
+      },
+      {
+        "satellite": "Thor (0.8W)",
+        "frequency": "11977 H 30000"
+      }
+    ]
+  },
+  "Premier Sports 1 Ireland HD": {
+    "satellites": [
+      {
+        "satellite": "Astra (28.2E)",
+        "frequency": "12188 H 27500"
+      }
+    ]
+  },
+  "RTL Club Belgique": {
+    "satellites": [
+      {
+        "satellite": "Hotbird (13.0E)",
+        "frequency": "11411 H 27500"
+      }
+    ]
+  },
+  "RTS 2 Srbija HD": {
+    "satellites": [
+      {
+        "satellite": "Astra (23.5E)",
+        "frequency": "11914 H 30000"
+      },
+      {
+        "satellite": "Eutelsat (16.0E)",
+        "frequency": "11544 H 30000"
+      },
+      {
+        "satellite": "BulgariaSat (1.9E)",
+        "frequency": "12437 H 30000"
+      }
+    ]
+  },
+  "RTÉ 2 Ireland HD": {
+    "satellites": [
+      {
+        "satellite": "Astra (28.2E)",
+        "frequency": "11914 H 27500"
+      },
+      {
+        "satellite": "Astra (28.2E)",
+        "frequency": "12246 V 27500"
+      },
+      {
+        "satellite": "Eutel (9.0E)",
+        "frequency": "20192 L 12500"
+      }
+    ]
+  },
+  "Sky Sport 2 Austria HD": {
+    "satellites": [
+      {
+        "satellite": "Astra (19.2E)",
+        "frequency": "11992 H 27500"
+      },
+      {
+        "satellite": "Astra (19.2E)",
+        "frequency": "11914 H 27500"
+      }
+    ]
+  },
+  "Sky Sport 252 Italia HD": {
+    "satellites": [
+      {
+        "satellite": "Hotbird (13.0E)",
+        "frequency": "11996 V 29900"
+      },
+      {
+        "satellite": "Hotbird (13.0E)",
+        "frequency": "12054 H 29900"
+      }
+    ]
+  },
+  "Sky Sport Calcio HD": {
+    "satellites": [
+      {
+        "satellite": "Hotbird (13.0E)",
+        "frequency": "11958 V 27500"
+      }
+    ]
+  },
+  "TNT Sports 1 HD": {
+    "satellites": [
+      {
+        "satellite": "NSS (57.0E)",
+        "frequency": "3775 L 09583"
+      },
+      {
+        "satellite": "NSS (57.0E)",
+        "frequency": "3798 R 19167"
+      },
+      {
+        "satellite": "Astra (28.2E)",
+        "frequency": "11612 H 22000"
+      },
+      {
+        "satellite": "Astra (28.2E)",
+        "frequency": "11582 H 23000"
+      },
+      {
+        "satellite": "Eutelsat (10.0E)",
+        "frequency": "11222 V 30000"
+      },
+      {
+        "satellite": "SES (40.5W)",
+        "frequency": "4132 R 22500"
+      }
+    ]
+  },
+  "TNT Sports Ultimate UHD": {
+    "satellites": [
+      {
+        "satellite": "Astra (28.2E)",
+        "frequency": "12207 V 27500"
+      }
+    ]
+  },
+  "TOP Channel HD": {
+    "satellites": [
+      {
+        "satellite": "Hellas (39.0E)",
+        "frequency": "10890 H 30000"
+      },
+      {
+        "satellite": "Astra (23.5E)",
+        "frequency": "12441 V 30000"
+      },
+      {
+        "satellite": "Eutelsat (16.0E)",
+        "frequency": "10762 H 30000"
+      }
+    ]
+  },
+  "V Sport Football HD": {
+    "satellites": [
+      {
+        "satellite": "Thor (0.8W)",
+        "frequency": "10809 V 25000"
+      }
+    ]
+  },
+  "VTM 2 Belgium HD": {
+    "satellites": [
+      {
+        "satellite": "Astra (23.5E)",
+        "frequency": "11856 V 29900"
+      }
+    ]
+  },
+  "Arena Sport 3 BiH HD": {
+    "satellites": [
+      {
+        "satellite": "Astra (23.5E)",
+        "frequency": "11895 V 30000"
+      }
+    ]
+  },
+  "Arena Sport 3 Srbija HD": {
+    "satellites": [
+      {
+        "satellite": "Astra (23.5E)",
+        "frequency": "11798 H 30000"
+      }
+    ]
+  },
+  "Arena Sport 6 Hrvatska HD": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat (16.0E)",
+        "frequency": "11554 V 30000"
+      },
+      {
+        "satellite": "Eutelsat (16.0E)",
+        "frequency": "11595 H 30000"
+      }
+    ]
+  },
+  "M+ Liga de Campeones 7": {
+    "satellites": [
+      {
+        "satellite": "Astra (19.2E)",
+        "frequency": "11686 V 22000"
+      }
+    ]
+  },
+  "Premier Sports 4 Mongolia HD": {
+    "satellites": [
+      {
+        "satellite": "Telstar (138.0E)",
+        "frequency": "12598 H 45000"
+      },
+      {
+        "satellite": "Koreasat (113.0E)",
+        "frequency": "11553 V 43200"
+      }
+    ]
+  },
+  "Sky Sport 255 Italia HD": {
+    "satellites": [
+      {
+        "satellite": "Hotbird (13.0E)",
+        "frequency": "12073 V 29900"
+      },
+      {
+        "satellite": "Hotbird (13.0E)",
+        "frequency": "12418 V 29900"
+      }
+    ]
+  },
+  "Sky Sport 4 Austria HD": {
+    "satellites": [
+      {
+        "satellite": "Astra (19.2E)",
+        "frequency": "12382 H 27500"
+      }
+    ]
+  },
+  "Sony Sports TEN 5 India HD": {
+    "satellites": [
+      {
+        "satellite": "G-Sat (83.0E)",
+        "frequency": "11840 V 32720"
+      },
+      {
+        "satellite": "Intelsat (68.5E)",
+        "frequency": "3930 H 25000"
+      }
+    ]
+  },
+  "SuperSport Action HD": {
+    "satellites": [
+      {
+        "satellite": "Intelsat (68.5E)",
+        "frequency": "11554 H 30000"
+      },
+      {
+        "satellite": "Intelsat (68.5E)",
+        "frequency": "10970 V 30000"
+      }
+    ]
+  },
+  "SuperSport PSL HD": {
+    "satellites": [
+      {
+        "satellite": "Intelsat (68.5E)",
+        "frequency": "11594 V 27500"
+      },
+      {
+        "satellite": "Intelsat (68.5E)",
+        "frequency": "11170 H 30000"
+      }
+    ]
+  },
+  "TNT Sports 5 HD": {
+    "satellites": [
+      {
+        "satellite": "Astra (28.2E)",
+        "frequency": "11597 V 22000"
+      },
+      {
+        "satellite": "Astra (28.2E)",
+        "frequency": "11582 H 23000"
+      }
+    ]
+  },
+  "Ziggo Sport 6": {
     "satellites": [
       {
         "satellite": "Astra (23.5E)",
         "frequency": "12129 V 29900"
+      }
+    ]
+  },
+  "Arena Sport 2 Srbija HD": {
+    "satellites": [
+      {
+        "satellite": "Astra (23.5E)",
+        "frequency": "11798 H 30000"
+      }
+    ]
+  },
+  "Arena Sport 7 Hrvatska HD": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat (16.0E)",
+        "frequency": "11595 H 30000"
+      }
+    ]
+  },
+  "New World Sport 4 Togo": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat (16.0E)",
+        "frequency": "12604 H 30000"
+      }
+    ]
+  },
+  "Premier Sports 5 Mongolia HD": {
+    "satellites": [
+      {
+        "satellite": "Telstar (138.0E)",
+        "frequency": "12598 H 45000"
+      },
+      {
+        "satellite": "Koreasat (113.0E)",
+        "frequency": "11613 V 43200"
+      }
+    ]
+  },
+  "Sky Sport 256 Italia HD": {
+    "satellites": [
+      {
+        "satellite": "Hotbird (13.0E)",
+        "frequency": "12418 V 29900"
+      },
+      {
+        "satellite": "Hotbird (13.0E)",
+        "frequency": "12073 V 29900"
+      }
+    ]
+  },
+  "Sky Sport 7 Austria HD": {
+    "satellites": [
+      {
+        "satellite": "Astra (19.2E)",
+        "frequency": "11171 H 22000"
+      }
+    ]
+  },
+  "Sport TV5 Portugal HD": {
+    "satellites": [
+      {
+        "satellite": "Hispasat (30.0W)",
+        "frequency": "12360 H 27500"
+      }
+    ]
+  },
+  "SuperSport Football HD": {
+    "satellites": [
+      {
+        "satellite": "Intelsat (68.5E)",
+        "frequency": "11674 H 30000"
+      },
+      {
+        "satellite": "Intelsat (68.5E)",
+        "frequency": "11514 H 30000"
+      }
+    ]
+  },
+  "SuperSport MáXimo 3A HD": {
+    "satellites": [
+      {
+        "satellite": "Express (36.1E)",
+        "frequency": "12169 V 27500"
+      }
+    ]
+  },
+  "TNT Sports 6": {
+    "satellites": [
+      {
+        "satellite": "Astra (28.2E)",
+        "frequency": "11597 V 22000"
+      }
+    ]
+  },
+  "V Sport Extra Sverige HD": {
+    "satellites": [
+      {
+        "satellite": "Thor (0.8W)",
+        "frequency": "10903 V 25000"
+      }
+    ]
+  },
+  "Arena Premium 4 Srbija HD": {
+    "satellites": [
+      {
+        "satellite": "Astra (23.5E)",
+        "frequency": "12246 V 30000"
+      }
+    ]
+  },
+  "Arena Sport 4 BiH HD": {
+    "satellites": [
+      {
+        "satellite": "Astra (23.5E)",
+        "frequency": "11895 V 30000"
+      }
+    ]
+  },
+  "Arena Sport 8 Hrvatska HD": {
+    "satellites": [
+      {
+        "satellite": "Astra (23.5E)",
+        "frequency": "12402 V 30000"
+      },
+      {
+        "satellite": "Eutelsat (16.0E)",
+        "frequency": "11554 V 30000"
+      }
+    ]
+  },
+  "beIN Sports MENA Xtra 2 HD": {
+    "satellites": [
+      {
+        "satellite": "Eshail (25.5E)",
+        "frequency": "10850 H 27500"
+      },
+      {
+        "satellite": "Eutelsat (8.0W)",
+        "frequency": "12604 H 27500"
+      }
+    ]
+  },
+  "Digi Sport 3 Romania": {
+    "satellites": [
+      {
+        "satellite": "Thor (0.8W)",
+        "frequency": "11900 H 28000"
+      }
+    ]
+  },
+  "M+ Liga de Campeones 6": {
+    "satellites": [
+      {
+        "satellite": "Astra (19.2E)",
+        "frequency": "11686 V 22000"
+      }
+    ]
+  },
+  "MEGA Hellas HD": {
+    "satellites": [
+      {
+        "satellite": "Hellas (39.0E)",
+        "frequency": "12414 H 11568"
+      },
+      {
+        "satellite": "Hellas (39.0E)",
+        "frequency": "12352 H 11568"
+      },
+      {
+        "satellite": "Hotbird (13.0E)",
+        "frequency": "11823 H 27500"
+      },
+      {
+        "satellite": "Eutelsat (9.0E)",
+        "frequency": "12398 H 27500"
+      }
+    ]
+  },
+  "New World Sport 5 Togo": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat (16.0E)",
+        "frequency": "12562 H 30000"
+      }
+    ]
+  },
+  "Sky Sport 258 Italia HD": {
+    "satellites": [
+      {
+        "satellite": "Hotbird (13.0E)",
+        "frequency": "12731 H 29900"
+      },
+      {
+        "satellite": "Hotbird (13.0E)",
+        "frequency": "11843 V 29900"
+      }
+    ]
+  },
+  "Sky Sport 8 Austria HD": {
+    "satellites": [
+      {
+        "satellite": "Astra (19.2E)",
+        "frequency": "11171 H 22000"
+      }
+    ]
+  },
+  "SuperSport LaLiga HD": {
+    "satellites": [
+      {
+        "satellite": "Intelsat (68.5E)",
+        "frequency": "11594 V 27500"
+      },
+      {
+        "satellite": "Intelsat (68.5E)",
+        "frequency": "11554 V 30000"
+      }
+    ]
+  },
+  "SuperSport MáXimo 360": {
+    "satellites": [
+      {
+        "satellite": "Express (36.1E)",
+        "frequency": "12130 H 27500"
+      }
+    ]
+  },
+  "TNT Sports 8": {
+    "satellites": [
+      {
+        "satellite": "Astra (28.2E)",
+        "frequency": "11597 V 22000"
+      }
+    ]
+  },
+  "Arena Sport 4 Srbija HD": {
+    "satellites": [
+      {
+        "satellite": "Astra (23.5E)",
+        "frequency": "11798 H 30000"
+      }
+    ]
+  },
+  "Arena Sport 9 Hrvatska HD": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat (16.0E)",
+        "frequency": "11678 H 30000"
+      }
+    ]
+  },
+  "beIN Sports MENA 7 HD": {
+    "satellites": [
+      {
+        "satellite": "Eshail (25.5E)",
+        "frequency": "10850 V 27500"
+      },
+      {
+        "satellite": "Eutelsat (8.0W)",
+        "frequency": "11054 H 27500"
+      }
+    ]
+  },
+  "M+ Liga de Campeones 8": {
+    "satellites": [
+      {
+        "satellite": "Astra (19.2E)",
+        "frequency": "11686 V 22000"
+      }
+    ]
+  },
+  "New World Sport 6 Togo": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat (16.0E)",
+        "frequency": "12604 H 30000"
+      }
+    ]
+  },
+  "Nova Sport 5 Czech HD": {
+    "satellites": [
+      {
+        "satellite": "Astra (23.5E)",
+        "frequency": "12129 V 29900"
+      },
+      {
+        "satellite": "Astra (23.5E)",
+        "frequency": "11973 V 29900"
+      },
+      {
+        "satellite": "Thor (5.0E)",
+        "frequency": "12456 V 30000"
+      },
+      {
+        "satellite": "Thor (5.0E)",
+        "frequency": "11747 H 30000"
+      },
+      {
+        "satellite": "Intelsat (1.0W)",
+        "frequency": "12527 H 28800"
+      }
+    ]
+  },
+  "Sky Sport 257 Italia HD": {
+    "satellites": [
+      {
+        "satellite": "Hotbird (13.0E)",
+        "frequency": "11900 H 29900"
+      },
+      {
+        "satellite": "Hotbird (13.0E)",
+        "frequency": "12073 V 29900"
+      }
+    ]
+  },
+  "Sky Sport 6 Austria HD": {
+    "satellites": [
+      {
+        "satellite": "Astra (19.2E)",
+        "frequency": "11798 H 27500"
+      }
+    ]
+  },
+  "TNT Sports 7": {
+    "satellites": [
+      {
+        "satellite": "Astra (28.2E)",
+        "frequency": "11597 V 22000"
+      }
+    ]
+  },
+  "Arena Sport 5 Srbija HD": {
+    "satellites": [
+      {
+        "satellite": "Astra (23.5E)",
+        "frequency": "11798 H 30000"
+      }
+    ]
+  },
+  "beIN Sports France 6 HD max": {
+    "satellites": [
+      {
+        "satellite": "Astra (19.2E)",
+        "frequency": "11856 V 29700"
+      },
+      {
+        "satellite": "Eutelsat (5.0W)",
+        "frequency": "11679 V 29950"
+      }
+    ]
+  },
+  "Diema Sport 2 HD": {
+    "satellites": [
+      {
+        "satellite": "Hellas (39.0E)",
+        "frequency": "12156 H 30000"
+      },
+      {
+        "satellite": "Hellas (39.0E)",
+        "frequency": "12137 V 30000"
+      },
+      {
+        "satellite": "Hotbird (13.0E)",
+        "frequency": "12673 V 30000"
+      }
+    ]
+  },
+  "Match 4 Hungary HD": {
+    "satellites": [
+      {
+        "satellite": "Thor (0.6W)",
+        "frequency": "12130 H 28000"
+      },
+      {
+        "satellite": "Thor (0.8W)",
+        "frequency": "11823 H 30000"
+      }
+    ]
+  },
+  "Sky Sports Football HD": {
+    "satellites": [
+      {
+        "satellite": "Astra (28.2E)",
+        "frequency": "12090 V 29500"
+      },
+      {
+        "satellite": "Astra (28.2E)",
+        "frequency": "11934 V 27500"
+      },
+      {
+        "satellite": "Astra (28.2E)",
+        "frequency": "12012 V 27500"
+      }
+    ]
+  },
+  "Sky Sports Main Event HD": {
+    "satellites": [
+      {
+        "satellite": "Astra (28.2E)",
+        "frequency": "11934 V 27500"
+      },
+      {
+        "satellite": "Astra (28.2E)",
+        "frequency": "12090 V 29500"
+      },
+      {
+        "satellite": "Astra (28.2E)",
+        "frequency": "12012 V 27500"
+      },
+      {
+        "satellite": "Astra (28.2E)",
+        "frequency": "11856 V 27500"
+      }
+    ]
+  },
+  "Sky Sports Main Event UHD": {
+    "satellites": [
+      {
+        "satellite": "Astra (28.2E)",
+        "frequency": "12207 V 27500"
+      }
+    ]
+  },
+  "Sky UK Ultra HD 1": {
+    "satellites": [
+      {
+        "satellite": "Astra (28.2E)",
+        "frequency": "12246 V 27500"
+      }
+    ]
+  },
+  "Sport 4 Israel HD": {
+    "satellites": [
+      {
+        "satellite": "Dror (4.0W)",
+        "frequency": "11259 V 30000"
+      }
+    ]
+  },
+  "V Sport 1 Norge HD": {
+    "satellites": [
+      {
+        "satellite": "Thor (5.0E)",
+        "frequency": "11305 H 30000"
+      },
+      {
+        "satellite": "Thor (0.8W)",
+        "frequency": "10809 V 25000"
+      }
+    ]
+  },
+  "Polsat Sport 1 HD": {
+    "satellites": [
+      {
+        "satellite": "Hotbird (13.0E)",
+        "frequency": "12265 V 27500"
+      }
+    ]
+  },
+  "Sport TV2 Portugal HD": {
+    "satellites": [
+      {
+        "satellite": "Hispasat (30.0W)",
+        "frequency": "12246 H 27500"
+      }
+    ]
+  },
+  "MATCH! Futbol 3 HD": {
+    "satellites": [
+      {
+        "satellite": "Horizons (84.8E)",
+        "frequency": "11840 H 28800"
+      },
+      {
+        "satellite": "ABS (75.0E)",
+        "frequency": "11920 V 45000"
+      },
+      {
+        "satellite": "Express (56.0E)",
+        "frequency": "12476 R 27500"
+      },
+      {
+        "satellite": "Express (36.1E)",
+        "frequency": "12380 L 27500"
+      },
+      {
+        "satellite": "Eutelsat (35.9E)",
+        "frequency": "11823 R 27500"
+      },
+      {
+        "satellite": "Eutelsat (35.9E)",
+        "frequency": "11804 L 27500"
+      },
+      {
+        "satellite": "Eutelsat (35.9E)",
+        "frequency": "11785 R 27500"
+      }
+    ]
+  },
+  "Sport 1 Israel HD": {
+    "satellites": [
+      {
+        "satellite": "Dror (4.0W)",
+        "frequency": "11259 V 30000"
+      }
+    ]
+  },
+  "MUTV HD": {
+    "satellites": [
+      {
+        "satellite": "Astra (28.2E)",
+        "frequency": "11914 H 27500"
+      },
+      {
+        "satellite": "Astra (28.2E)",
+        "frequency": "12266 V 29500"
+      }
+    ]
+  },
+  "Arena Premium 5 Srbija HD": {
+    "satellites": [
+      {
+        "satellite": "Astra (23.5E)",
+        "frequency": "12304 H 30000"
+      }
+    ]
+  },
+  "YLE TV2 Suomi HD": {
+    "satellites": [
+      {
+        "satellite": "Thor (0.8W)",
+        "frequency": "10872 H 25000"
+      }
+    ]
+  },
+  "ESPN 3 Brazil HD": {
+    "satellites": [
+      {
+        "satellite": "SES (40.5W)",
+        "frequency": "3980 L 21600"
+      }
+    ]
+  },
+  "Nova Sport 2 Czech HD": {
+    "satellites": [
+      {
+        "satellite": "Astra (23.5E)",
+        "frequency": "11973 V 29900"
+      },
+      {
+        "satellite": "Eutelsat (16.0E)",
+        "frequency": "11094 V 27500"
+      },
+      {
+        "satellite": "Thor (0.8W)",
+        "frequency": "12380 V 30000"
+      },
+      {
+        "satellite": "Hispasat (30.0W)",
+        "frequency": "11811 V 30000"
+      }
+    ]
+  },
+  "ESPN 2 Nederland HD": {
+    "satellites": [
+      {
+        "satellite": "Astra (23.5E)",
+        "frequency": "11856 V 29900"
+      }
+    ]
+  },
+  "ESPN 4 Brazil HD": {
+    "satellites": [
+      {
+        "satellite": "SES (40.5W)",
+        "frequency": "3980 L 21600"
+      },
+      {
+        "satellite": "SES (40.5W)",
+        "frequency": "4095 R 30000"
+      }
+    ]
+  },
+  "RTBF Tipik Belgique": {
+    "satellites": [
+      {
+        "satellite": "Hotbird (13.0E)",
+        "frequency": "11411 H 27500"
+      }
+    ]
+  },
+  "TVP Sport Polska HD": {
+    "satellites": [
+      {
+        "satellite": "Hotbird (13.0E)",
+        "frequency": "10834 V 27500"
+      }
+    ]
+  },
+  "TV2 Direkte Norge HD": {
+    "satellites": [
+      {
+        "satellite": "Thor (5.0E)",
+        "frequency": "11385 H 30000"
+      },
+      {
+        "satellite": "Thor (0.8W)",
+        "frequency": "10747 H 25000"
+      }
+    ]
+  },
+  "Canal+ Live 2 France HD": {
+    "satellites": [
+      {
+        "satellite": "Astra (19.2E)",
+        "frequency": "12728 V 29700"
+      }
+    ]
+  },
+  "TV3 MAX Dansk HD": {
+    "satellites": [
+      {
+        "satellite": "Thor (5.0E)",
+        "frequency": "11345 V 30000"
+      },
+      {
+        "satellite": "Thor (0.8W)",
+        "frequency": "10809 V 25000"
+      }
+    ]
+  },
+  "Canal+ Live 1 France HD": {
+    "satellites": [
+      {
+        "satellite": "Astra (19.2E)",
+        "frequency": "11856 V 29700"
+      }
+    ]
+  },
+  "TV3 Sport Dansk HD": {
+    "satellites": [
+      {
+        "satellite": "Thor (5.0E)",
+        "frequency": "11345 V 30000"
+      },
+      {
+        "satellite": "Thor (0.8W)",
+        "frequency": "10809 H 25000"
       }
     ]
   },
@@ -1191,26 +2647,6 @@
       }
     ]
   },
-  "ESPN 1 Nederland HD": {
-    "satellites": [
-      {
-        "satellite": "Astra (23.5E)",
-        "frequency": "11739 V 29900"
-      }
-    ]
-  },
-  "Futbol TV Uzbekistan": {
-    "satellites": [
-      {
-        "satellite": "NSS (57.0E)",
-        "frequency": "11610 H 20200"
-      },
-      {
-        "satellite": "MonacoSat (52.0E)",
-        "frequency": "10926 H 27500"
-      }
-    ]
-  },
   "BBC Scotland HD": {
     "satellites": [
       {
@@ -1247,26 +2683,6 @@
       }
     ]
   },
-  "ERT 2 Sport Hellas HD": {
-    "satellites": [
-      {
-        "satellite": "Hellas (39.0E)",
-        "frequency": "12223 H 13381"
-      },
-      {
-        "satellite": "Hellas (39.0E)",
-        "frequency": "12242 H 13381"
-      },
-      {
-        "satellite": "Hotbird (13.0E)",
-        "frequency": "12169 H 30000"
-      },
-      {
-        "satellite": "Eutelsat (9.0E)",
-        "frequency": "11938 H 27500"
-      }
-    ]
-  },
   "ESPN 1 Brazil HD": {
     "satellites": [
       {
@@ -1283,34 +2699,6 @@
       }
     ]
   },
-  "RTÉ 2 Ireland HD": {
-    "satellites": [
-      {
-        "satellite": "Astra (28.2E)",
-        "frequency": "11914 H 27500"
-      },
-      {
-        "satellite": "Astra (28.2E)",
-        "frequency": "12246 V 27500"
-      },
-      {
-        "satellite": "Eutel (9.0E)",
-        "frequency": "20192 L 12500"
-      }
-    ]
-  },
-  "Sky Sports+ TV HD": {
-    "satellites": [
-      {
-        "satellite": "Astra (28.2E)",
-        "frequency": "12148 H 27500"
-      },
-      {
-        "satellite": "Astra (28.2E)",
-        "frequency": "12226 H 27500"
-      }
-    ]
-  },
   "NPO 3 Nederland HD": {
     "satellites": [
       {
@@ -1320,34 +2708,6 @@
       {
         "satellite": "Eutelsat (9.0E)",
         "frequency": "11747 H 30000"
-      }
-    ]
-  },
-  "Arena Sport 3 BiH HD": {
-    "satellites": [
-      {
-        "satellite": "Astra (23.5E)",
-        "frequency": "11895 V 30000"
-      }
-    ]
-  },
-  "Arena Sport 4 Srbija HD": {
-    "satellites": [
-      {
-        "satellite": "Astra (23.5E)",
-        "frequency": "11798 H 30000"
-      }
-    ]
-  },
-  "Arena Sport 8 Hrvatska HD": {
-    "satellites": [
-      {
-        "satellite": "Astra (23.5E)",
-        "frequency": "12402 V 30000"
-      },
-      {
-        "satellite": "Eutelsat (16.0E)",
-        "frequency": "11554 V 30000"
       }
     ]
   },
@@ -1379,203 +2739,11 @@
       }
     ]
   },
-  "Sky Sport 258 Italia HD": {
-    "satellites": [
-      {
-        "satellite": "Hotbird (13.0E)",
-        "frequency": "12731 H 29900"
-      },
-      {
-        "satellite": "Hotbird (13.0E)",
-        "frequency": "11843 V 29900"
-      }
-    ]
-  },
-  "Sky Sport 5 Austria HD": {
-    "satellites": [
-      {
-        "satellite": "Astra (19.2E)",
-        "frequency": "11720 H 27500"
-      }
-    ]
-  },
-  "TNT Sports 7": {
-    "satellites": [
-      {
-        "satellite": "Astra (28.2E)",
-        "frequency": "11597 V 22000"
-      }
-    ]
-  },
-  "TV2 Sport 1 Norge HD": {
-    "satellites": [
-      {
-        "satellite": "Thor (5.0E)",
-        "frequency": "11385 V 30000"
-      },
-      {
-        "satellite": "Thor (0.8W)",
-        "frequency": "10747 H 25000"
-      }
-    ]
-  },
-  "5 SPORT Israel HD": {
-    "satellites": [
-      {
-        "satellite": "Dror (4.0W)",
-        "frequency": "11259 V 30000"
-      },
-      {
-        "satellite": "Dror (4.0W)",
-        "frequency": "11140 V 27500"
-      }
-    ]
-  },
-  "Arena Sport 3 Hrvatska HD": {
-    "satellites": [
-      {
-        "satellite": "Eutelsat (16.0E)",
-        "frequency": "11512 H 30000"
-      }
-    ]
-  },
-  "beIN Sports MENA French 1 HD": {
-    "satellites": [
-      {
-        "satellite": "Eshail (25.5E)",
-        "frequency": "11390 V 27500"
-      }
-    ]
-  },
-  "Canal+ Extra 1 Polska HD": {
-    "satellites": [
-      {
-        "satellite": "Hotbird (13.0E)",
-        "frequency": "11278 V 27500"
-      }
-    ]
-  },
-  "New World Sport 1 Mauritius": {
-    "satellites": [
-      {
-        "satellite": "Eutelsat (16.0E)",
-        "frequency": "12562 H 30000"
-      }
-    ]
-  },
-  "Nova Sport 6 Czech HD": {
-    "satellites": [
-      {
-        "satellite": "Astra (23.5E)",
-        "frequency": "12090 V 29900"
-      },
-      {
-        "satellite": "Intelsat (1.0W)",
-        "frequency": "12527 H 28800"
-      }
-    ]
-  },
-  "Premier Sports 3 Mongolia HD": {
-    "satellites": [
-      {
-        "satellite": "Telstar (138.0E)",
-        "frequency": "12598 H 45000"
-      },
-      {
-        "satellite": "Koreasat (113.0E)",
-        "frequency": "11553 V 43200"
-      }
-    ]
-  },
-  "Sony Sports TEN 5 India HD": {
-    "satellites": [
-      {
-        "satellite": "G-Sat (83.0E)",
-        "frequency": "11840 V 32720"
-      },
-      {
-        "satellite": "Intelsat (68.5E)",
-        "frequency": "3930 H 25000"
-      }
-    ]
-  },
-  "SuperSport Action HD": {
-    "satellites": [
-      {
-        "satellite": "Intelsat (68.5E)",
-        "frequency": "11554 H 30000"
-      },
-      {
-        "satellite": "Intelsat (68.5E)",
-        "frequency": "10970 V 30000"
-      }
-    ]
-  },
-  "TNT Sports 8": {
-    "satellites": [
-      {
-        "satellite": "Astra (28.2E)",
-        "frequency": "11597 V 22000"
-      }
-    ]
-  },
-  "V Sport Football HD": {
-    "satellites": [
-      {
-        "satellite": "Thor (0.8W)",
-        "frequency": "10809 V 25000"
-      }
-    ]
-  },
-  "Arena Sport 2 Srbija HD": {
-    "satellites": [
-      {
-        "satellite": "Astra (23.5E)",
-        "frequency": "11798 H 30000"
-      }
-    ]
-  },
-  "Arena Sport 7 Hrvatska HD": {
-    "satellites": [
-      {
-        "satellite": "Eutelsat (16.0E)",
-        "frequency": "11595 H 30000"
-      }
-    ]
-  },
-  "beIN Sports MENA 7 HD": {
-    "satellites": [
-      {
-        "satellite": "Eshail (25.5E)",
-        "frequency": "10850 V 27500"
-      },
-      {
-        "satellite": "Eutelsat (8.0W)",
-        "frequency": "11054 H 27500"
-      }
-    ]
-  },
   "Canal+ Live 5 France HD": {
     "satellites": [
       {
         "satellite": "Astra (19.2E)",
         "frequency": "12012 V 29700"
-      }
-    ]
-  },
-  "Digi Sport 4 Romania": {
-    "satellites": [
-      {
-        "satellite": "Intelsat (1.0W)",
-        "frequency": "12687 H 27500"
-      }
-    ]
-  },
-  "M+ Liga de Campeones 6": {
-    "satellites": [
-      {
-        "satellite": "Astra (19.2E)",
-        "frequency": "11686 V 22000"
       }
     ]
   },
@@ -1587,55 +2755,11 @@
       }
     ]
   },
-  "New World Sport 5 Togo": {
-    "satellites": [
-      {
-        "satellite": "Eutelsat (16.0E)",
-        "frequency": "12562 H 30000"
-      }
-    ]
-  },
-  "Premier Sports 5 Mongolia HD": {
-    "satellites": [
-      {
-        "satellite": "Telstar (138.0E)",
-        "frequency": "12598 H 45000"
-      },
-      {
-        "satellite": "Koreasat (113.0E)",
-        "frequency": "11613 V 43200"
-      }
-    ]
-  },
   "Prime Video Sportsbar DE HD": {
     "satellites": [
       {
         "satellite": "Astra (19.2E)",
         "frequency": "12032 H 27500"
-      }
-    ]
-  },
-  "Sky Sport 2 Austria HD": {
-    "satellites": [
-      {
-        "satellite": "Astra (19.2E)",
-        "frequency": "11992 H 27500"
-      },
-      {
-        "satellite": "Astra (19.2E)",
-        "frequency": "11914 H 27500"
-      }
-    ]
-  },
-  "Sky Sport 257 Italia HD": {
-    "satellites": [
-      {
-        "satellite": "Hotbird (13.0E)",
-        "frequency": "11900 H 29900"
-      },
-      {
-        "satellite": "Hotbird (13.0E)",
-        "frequency": "12073 V 29900"
       }
     ]
   },
@@ -1647,99 +2771,11 @@
       }
     ]
   },
-  "V Sport Extra Sverige HD": {
-    "satellites": [
-      {
-        "satellite": "Thor (0.8W)",
-        "frequency": "10903 V 25000"
-      }
-    ]
-  },
-  "Arena Sport 1 Hrvatska HD": {
-    "satellites": [
-      {
-        "satellite": "Eutelsat (16.0E)",
-        "frequency": "11678 H 30000"
-      }
-    ]
-  },
   "Canal+ Live 3 France HD": {
     "satellites": [
       {
         "satellite": "Astra (19.2E)",
         "frequency": "12090 V 29700"
-      }
-    ]
-  },
-  "Canal+ Sport 5 Polska HD": {
-    "satellites": [
-      {
-        "satellite": "Hotbird (13.0E)",
-        "frequency": "11449 H 27500"
-      },
-      {
-        "satellite": "Hotbird (13.0E)",
-        "frequency": "10719 V 27500"
-      }
-    ]
-  },
-  "Kanal A Slovenija HD": {
-    "satellites": [
-      {
-        "satellite": "Eutelsat (16.0E)",
-        "frequency": "11387 H 30000"
-      }
-    ]
-  },
-  "Premier Sports 1 Ireland HD": {
-    "satellites": [
-      {
-        "satellite": "Astra (28.2E)",
-        "frequency": "12188 H 27500"
-      }
-    ]
-  },
-  "Sky Sport 255 Italia HD": {
-    "satellites": [
-      {
-        "satellite": "Hotbird (13.0E)",
-        "frequency": "12073 V 29900"
-      },
-      {
-        "satellite": "Hotbird (13.0E)",
-        "frequency": "12418 V 29900"
-      }
-    ]
-  },
-  "Sony Sports TEN 3 India HD": {
-    "satellites": [
-      {
-        "satellite": "G-Sat (83.0E)",
-        "frequency": "11090 V 32720"
-      },
-      {
-        "satellite": "Insat (83.0E)",
-        "frequency": "11170 H 32720"
-      }
-    ]
-  },
-  "Sony Sports TEN 4 India HD": {
-    "satellites": [
-      {
-        "satellite": "Intelsat (68.5E)",
-        "frequency": "3868 H 14450"
-      }
-    ]
-  },
-  "SuperSport Football Plus HD": {
-    "satellites": [
-      {
-        "satellite": "Intelsat (68.5E)",
-        "frequency": "10970 V 30000"
-      },
-      {
-        "satellite": "Intelsat (68.5E)",
-        "frequency": "11514 H 30000"
       }
     ]
   },
@@ -1752,34 +2788,6 @@
       {
         "satellite": "Thor (0.8W)",
         "frequency": "11403 V 25000"
-      }
-    ]
-  },
-  "V Sport Premium HD": {
-    "satellites": [
-      {
-        "satellite": "Thor (0.8W)",
-        "frequency": "10903 V 25000"
-      }
-    ]
-  },
-  "Arena Sport 6 Hrvatska HD": {
-    "satellites": [
-      {
-        "satellite": "Eutelsat (16.0E)",
-        "frequency": "11554 V 30000"
-      },
-      {
-        "satellite": "Eutelsat (16.0E)",
-        "frequency": "11595 H 30000"
-      }
-    ]
-  },
-  "M+ Liga de Campeones 5": {
-    "satellites": [
-      {
-        "satellite": "Astra (19.2E)",
-        "frequency": "10979 V 22000"
       }
     ]
   },
@@ -1803,94 +2811,6 @@
       }
     ]
   },
-  "Nova Sport 5 Czech HD": {
-    "satellites": [
-      {
-        "satellite": "Astra (23.5E)",
-        "frequency": "12129 V 29900"
-      },
-      {
-        "satellite": "Astra (23.5E)",
-        "frequency": "11973 V 29900"
-      },
-      {
-        "satellite": "Thor (5.0E)",
-        "frequency": "12456 V 30000"
-      },
-      {
-        "satellite": "Thor (5.0E)",
-        "frequency": "11747 H 30000"
-      },
-      {
-        "satellite": "Intelsat (1.0W)",
-        "frequency": "12527 H 28800"
-      }
-    ]
-  },
-  "Prima Sport RO 4 HD": {
-    "satellites": [
-      {
-        "satellite": "Hellas (39.0E)",
-        "frequency": "12405 V 30000"
-      },
-      {
-        "satellite": "Hellas (39.0E)",
-        "frequency": "12606 V 30000"
-      }
-    ]
-  },
-  "Sky Sport 256 Italia HD": {
-    "satellites": [
-      {
-        "satellite": "Hotbird (13.0E)",
-        "frequency": "12418 V 29900"
-      },
-      {
-        "satellite": "Hotbird (13.0E)",
-        "frequency": "12073 V 29900"
-      }
-    ]
-  },
-  "Sky Sport 6 Austria HD": {
-    "satellites": [
-      {
-        "satellite": "Astra (19.2E)",
-        "frequency": "11798 H 27500"
-      }
-    ]
-  },
-  "SuperSport MáXimo 3A HD": {
-    "satellites": [
-      {
-        "satellite": "Express (36.1E)",
-        "frequency": "12169 V 27500"
-      }
-    ]
-  },
-  "TNT Sports Ultimate UHD": {
-    "satellites": [
-      {
-        "satellite": "Astra (28.2E)",
-        "frequency": "12207 V 27500"
-      }
-    ]
-  },
-  "V Sport 1 Sverige HD": {
-    "satellites": [
-      {
-        "satellite": "Thor (0.8W)",
-        "frequency": "10809 V 25000"
-      }
-    ]
-  },
-  "Ziggo Sport 6": {
-    "satellites": [
-      {
-        "satellite": "Astra (23.5E)",
-        "frequency": "12129 V 29900"
-      }
-    ]
-  },
   "Arena Sport 1 Srbija HD": {
     "satellites": [
       {
@@ -1911,115 +2831,11 @@
       }
     ]
   },
-  "beIN Sports MENA 6 HD": {
-    "satellites": [
-      {
-        "satellite": "Eshail (25.5E)",
-        "frequency": "10810 V 27500"
-      },
-      {
-        "satellite": "Eutelsat (8.0W)",
-        "frequency": "11054 H 27500"
-      }
-    ]
-  },
-  "Canal+ 360 Polska HD": {
-    "satellites": [
-      {
-        "satellite": "Hotbird (13.0E)",
-        "frequency": "11411 H 27500"
-      }
-    ]
-  },
   "Canal+ Live 4 France HD": {
     "satellites": [
       {
         "satellite": "Astra (19.2E)",
         "frequency": "11934 V 29700"
-      }
-    ]
-  },
-  "Canal+ Sport 6 Polska HD": {
-    "satellites": [
-      {
-        "satellite": "Hotbird (13.0E)",
-        "frequency": "11449 H 27500"
-      }
-    ]
-  },
-  "Digi Sport 3 Romania": {
-    "satellites": [
-      {
-        "satellite": "Thor (0.8W)",
-        "frequency": "11900 H 28000"
-      }
-    ]
-  },
-  "M+ Liga de Campeones 7": {
-    "satellites": [
-      {
-        "satellite": "Astra (19.2E)",
-        "frequency": "11686 V 22000"
-      }
-    ]
-  },
-  "New World Sport 6 Togo": {
-    "satellites": [
-      {
-        "satellite": "Eutelsat (16.0E)",
-        "frequency": "12604 H 30000"
-      }
-    ]
-  },
-  "Premier Sports 4 Mongolia HD": {
-    "satellites": [
-      {
-        "satellite": "Telstar (138.0E)",
-        "frequency": "12598 H 45000"
-      },
-      {
-        "satellite": "Koreasat (113.0E)",
-        "frequency": "11553 V 43200"
-      }
-    ]
-  },
-  "Prima Sport RO 3 HD": {
-    "satellites": [
-      {
-        "satellite": "Hellas (39.0E)",
-        "frequency": "12606 V 30000"
-      },
-      {
-        "satellite": "Hellas (39.0E)",
-        "frequency": "12647 V 30000"
-      }
-    ]
-  },
-  "RTL Club Belgique": {
-    "satellites": [
-      {
-        "satellite": "Hotbird (13.0E)",
-        "frequency": "11411 H 27500"
-      }
-    ]
-  },
-  "Sky Sport 252 Italia HD": {
-    "satellites": [
-      {
-        "satellite": "Hotbird (13.0E)",
-        "frequency": "11996 V 29900"
-      },
-      {
-        "satellite": "Hotbird (13.0E)",
-        "frequency": "12054 H 29900"
-      }
-    ]
-  },
-  "Sky Sport 8 Austria HD": {
-    "satellites": [
-      {
-        "satellite": "Astra (19.2E)",
-        "frequency": "11171 H 22000"
       }
     ]
   },
@@ -2031,135 +2847,11 @@
       }
     ]
   },
-  "Sky Sport Uno Italia HD": {
-    "satellites": [
-      {
-        "satellite": "Hotbird (13.0E)",
-        "frequency": "11958 V 27500"
-      }
-    ]
-  },
-  "SuperSport Kickoff HD": {
-    "satellites": [
-      {
-        "satellite": "Intelsat (68.5E)",
-        "frequency": "11514 H 30000"
-      },
-      {
-        "satellite": "Intelsat (68.5E)",
-        "frequency": "11594 V 27500"
-      }
-    ]
-  },
-  "TNT Sports 5 HD": {
-    "satellites": [
-      {
-        "satellite": "Astra (28.2E)",
-        "frequency": "11597 V 22000"
-      },
-      {
-        "satellite": "Astra (28.2E)",
-        "frequency": "11582 H 23000"
-      }
-    ]
-  },
-  "VTM 2 Belgium HD": {
-    "satellites": [
-      {
-        "satellite": "Astra (23.5E)",
-        "frequency": "11856 V 29900"
-      }
-    ]
-  },
-  "Arena Sport 3 Srbija HD": {
-    "satellites": [
-      {
-        "satellite": "Astra (23.5E)",
-        "frequency": "11798 H 30000"
-      }
-    ]
-  },
-  "Arena Sport 4 BiH HD": {
-    "satellites": [
-      {
-        "satellite": "Astra (23.5E)",
-        "frequency": "11895 V 30000"
-      }
-    ]
-  },
-  "Arena Sport 9 Hrvatska HD": {
-    "satellites": [
-      {
-        "satellite": "Eutelsat (16.0E)",
-        "frequency": "11678 H 30000"
-      }
-    ]
-  },
-  "beIN Sports MENA 8 HD": {
-    "satellites": [
-      {
-        "satellite": "Eshail (25.5E)",
-        "frequency": "10810 V 27500"
-      },
-      {
-        "satellite": "Eutelsat (8.0W)",
-        "frequency": "11054 H 27500"
-      }
-    ]
-  },
   "Canal+ Live 6 France HD": {
     "satellites": [
       {
         "satellite": "Astra (19.2E)",
         "frequency": "12728 V 29700"
-      }
-    ]
-  },
-  "New World Sport 4 Togo": {
-    "satellites": [
-      {
-        "satellite": "Eutelsat (16.0E)",
-        "frequency": "12604 H 30000"
-      }
-    ]
-  },
-  "Sky Sport 253 Italia HD": {
-    "satellites": [
-      {
-        "satellite": "Hotbird (13.0E)",
-        "frequency": "12341 V 29900"
-      },
-      {
-        "satellite": "Hotbird (13.0E)",
-        "frequency": "12054 H 29900"
-      }
-    ]
-  },
-  "Sky Sport 7 Austria HD": {
-    "satellites": [
-      {
-        "satellite": "Astra (19.2E)",
-        "frequency": "11171 H 22000"
-      }
-    ]
-  },
-  "SuperSport LaLiga HD": {
-    "satellites": [
-      {
-        "satellite": "Intelsat (68.5E)",
-        "frequency": "11594 V 27500"
-      },
-      {
-        "satellite": "Intelsat (68.5E)",
-        "frequency": "11554 V 30000"
-      }
-    ]
-  },
-  "TNT Sports 6": {
-    "satellites": [
-      {
-        "satellite": "Astra (28.2E)",
-        "frequency": "11597 V 22000"
       }
     ]
   },
@@ -2184,98 +2876,6 @@
       {
         "satellite": "Eutelsat (5.0W)",
         "frequency": "11471 V 29950"
-      }
-    ]
-  },
-  "beIN Sports MENA English 2 HD": {
-    "satellites": [
-      {
-        "satellite": "Eshail (25.5E)",
-        "frequency": "11390 V 27500"
-      }
-    ]
-  },
-  "Match 4 Hungary HD": {
-    "satellites": [
-      {
-        "satellite": "Thor (0.6W)",
-        "frequency": "12130 H 28000"
-      },
-      {
-        "satellite": "Thor (0.8W)",
-        "frequency": "11823 H 30000"
-      }
-    ]
-  },
-  "Sky Sports Football HD": {
-    "satellites": [
-      {
-        "satellite": "Astra (28.2E)",
-        "frequency": "12090 V 29500"
-      },
-      {
-        "satellite": "Astra (28.2E)",
-        "frequency": "11934 V 27500"
-      },
-      {
-        "satellite": "Astra (28.2E)",
-        "frequency": "12012 V 27500"
-      }
-    ]
-  },
-  "Sky Sports Main Event HD": {
-    "satellites": [
-      {
-        "satellite": "Astra (28.2E)",
-        "frequency": "11934 V 27500"
-      },
-      {
-        "satellite": "Astra (28.2E)",
-        "frequency": "12090 V 29500"
-      },
-      {
-        "satellite": "Astra (28.2E)",
-        "frequency": "12012 V 27500"
-      },
-      {
-        "satellite": "Astra (28.2E)",
-        "frequency": "11856 V 27500"
-      }
-    ]
-  },
-  "Sky Sports Main Event UHD": {
-    "satellites": [
-      {
-        "satellite": "Astra (28.2E)",
-        "frequency": "12207 V 27500"
-      }
-    ]
-  },
-  "Sky UK Ultra HD 1": {
-    "satellites": [
-      {
-        "satellite": "Astra (28.2E)",
-        "frequency": "12246 V 27500"
-      }
-    ]
-  },
-  "Sport TV1 Portugal HD": {
-    "satellites": [
-      {
-        "satellite": "Hispasat (30.0W)",
-        "frequency": "12246 H 27500"
-      }
-    ]
-  },
-  "V Sport 1 Norge HD": {
-    "satellites": [
-      {
-        "satellite": "Thor (5.0E)",
-        "frequency": "11305 H 30000"
-      },
-      {
-        "satellite": "Thor (0.8W)",
-        "frequency": "10809 V 25000"
       }
     ]
   }
