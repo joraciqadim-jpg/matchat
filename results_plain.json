@@ -6,8 +6,8 @@
       "matchEn": "LASK (Austria) v Liverpool (England)",
       "matchAr": "لاسك (النمسا) × ليفربول (إنجلترا)",
       "rawIsoTime": "2026-10-14T19:45:00+03:00",
-      "time": "3 - 6 (live)",
-      "isLive": true
+      "time": "3 - 6 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🛡️ UEFA Champions League",
@@ -276,7 +276,7 @@
       "matchEn": "Chabab Aïn Témouchent v Mouloudia Baladiat Rouissat",
       "matchAr": "شباب عين تيموشنت × مستقبل الرويسات",
       "rawIsoTime": "2026-10-14T20:00:00+03:00",
-      "time": "0 - 1 (live)",
+      "time": "0 - 2 (live)",
       "isLive": true
     },
     {
