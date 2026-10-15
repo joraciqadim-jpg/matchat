@@ -1,4 +1,29 @@
 {
+  "rb salzburg": {
+    "en": "Red Bull Salzburg",
+    "ar": "ريد بل سالزبورغ",
+    "countryen": "Austria",
+    "countryar": "النمسا"
+  },
+  "as monaco": {
+    "en": "AS Monaco",
+    "ar": "موناكو",
+    "countryen": "Monaco",
+    "countryar": "موناكو"
+  },
+  "hajduk": {
+    "en": "Hajduk Split",
+    "ar": "هايدوك سبليت",
+    "countryen": "Croatia",
+    "countryar": "كرواتيا"
+  },
+  "u craiova": {
+    "en": "Universitatea Craiova",
+    "ar": "يونيفيرسيتاتيا كرايوفا",
+    "countryen": "Romania",
+    "countryar": "رومانيا"
+  }
+,
   "15 de agosto": {"en": "15 de Agosto", "ar": "15 أغسطس", "countryen": "Equatorial Guinea", "countryar": "غينيا الاستوائية"},
   "aarhus": {"en": "Aarhus", "ar": "آرهوس", "countryen": "Denmark", "countryar": "الدنمارك"},
   "adalquiles": {"en": "Alajuelense", "ar": "الأجولينسي", "countryen": "Costa Rica", "countryar": "كوستاريكا"},
