@@ -75,15 +75,6 @@
     {
       "tournamentEn": "🛡️ UEFA Europa League",
       "tournamentAr": "🛡️ الدوري الأوروبي",
-      "matchEn": "AZ Alkmaar (Netherlands) v Unknown Team",
-      "matchAr": "آي زي ألكمار (هولندا) × Unknown Team فريق غير معروف",
-      "rawIsoTime": "2026-10-15T16:45:00Z",
-      "time": "16:45",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ UEFA Europa League",
-      "tournamentAr": "🛡️ الدوري الأوروبي",
       "matchEn": "União Torreense v Sunderland (England)",
       "matchAr": "أونياو تورينسي × سندرلاند (إنجلترا)",
       "rawIsoTime": "2026-10-15T16:45:00Z",
@@ -539,15 +530,6 @@
       "rawIsoTime": "2026-10-15T13:30:00Z",
       "time": "13:30",
       "isLive": false
-    },
-    {
-      "tournamentEn": "🏁 UEFA European Under-17 Championship Qualifying",
-      "tournamentAr": "🏁 تصفيات أوروبا تحت 17 سنة لكرة القدم",
-      "matchEn": "Spain v Unknown Team",
-      "matchAr": "إسبانيا × Unknown Team فريق غير معروف",
-      "rawIsoTime": "2026-10-15T10:00:00Z",
-      "time": "0 - 0 (live)",
-      "isLive": true
     },
     {
       "tournamentEn": "🏁 UEFA European Under-17 Championship Qualifying",
