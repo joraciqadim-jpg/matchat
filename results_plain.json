@@ -591,8 +591,8 @@
       "matchEn": "St. Louis City v Vancouver Whitecaps",
       "matchAr": "سانت لويس سيتي × فانكوفر وايتكابس",
       "rawIsoTime": "2026-10-15T03:30:00+03:00",
-      "time": "0 - 0 (live)",
-      "isLive": true
+      "time": "0 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇺🇸 USA MLS",
@@ -627,8 +627,8 @@
       "matchEn": "Los Angeles FC v Austin",
       "matchAr": "لوس أنجلوس × أوستن",
       "rawIsoTime": "2026-10-15T05:30:00+03:00",
-      "time": "02:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇺🇸 USA MLS",
@@ -636,8 +636,8 @@
       "matchEn": "LA Galaxy v Portland Timbers",
       "matchAr": "لوس أنجلوس جالاكسي × بورتلاند تيمبرز",
       "rawIsoTime": "2026-10-15T05:30:00+03:00",
-      "time": "02:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇺🇸 USA MLS",
@@ -645,8 +645,8 @@
       "matchEn": "San Diego v Houston Dynamo",
       "matchAr": "سان دييغو × هيوستن دينامو",
       "rawIsoTime": "2026-10-15T05:30:00+03:00",
-      "time": "02:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 Uzbek Super League",
