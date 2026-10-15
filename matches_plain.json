@@ -194,6 +194,38 @@
       ]
     },
     {
+      "tournamentEn": "🛡️ UEFA Europa League",
+      "tournamentAr": "🛡️ الدوري الأوروبي",
+      "matchEn": "Marseille (France) v Olympiacos (Greece)",
+      "matchAr": "مارسيليا (فرنسا) × أولمبياكوس (اليونان)",
+      "time": "19:00",
+      "channels": [
+        "📺 DAZN 1 POR [Hispasat 30W 12399 H 27500]",
+        "📺 DAZN 3 POR [Hispasat 30W 12399 H 27500]",
+        "📺 Bein Sport 2 [Nilesat 7.0W 11013 H 27500]",
+        "📺 Sport 3 [Amos 4.0W 11259 V 30000]",
+        "📺 Digi Sport 4 [Thor 0.8W 12687 H 27500]",
+        "📺 Ring [BulgariaSat 1.9E 12322 V 30000]",
+        "📺 ANT 1 [Hotbird 13.0E 11823 H 27500]",
+        "📺 Magenta Sport 4 [Hotbird 13.0E 11938 H 30000]",
+        "📺 Polsat Sport Extra 4 [Hotbird 13.0E 10911 V 27500]",
+        "📺 Arena Premium 3 BIH [Eutelsat 16.0E 11231 V 42000]",
+        "📺 Arena Premium 4 SRB [Eutelsat 16.0E 11366 V 30000]",
+        "📺 Arena Sport 9 HRV [Eutelsat 16.0E 11678 H 30000]",
+        "📺 Super Sport 4 [Eutelsat 16.0E 10845 H 30000]",
+        "📺 M+ Liga de Campeones 2 [Astra 19.2E 10758 V 22000]",
+        "📺 M+ Liga de Campeones 3 [Astra 19.2E 10758 V 22000]",
+        "📺 Sky Sport Austria 7 [Astra 19.2E 12304 H 27500]",
+        "📺 Bein Sport 2 [Badrsat 26.0E 10810 H 27500]",
+        "📺 TNT Sports 6 [Astra 28.2E 11597 V 22000]",
+        "📺 SuperSport Football Plus [Eutelsat 36.0E 12284 H 27500]",
+        "📺 SuperSport Grandstand [Eutelsat 36.0E 12341 V 27500]",
+        "📺 ANT 1 [Hellas-Sat 39.0E 12338 H 11568]",
+        "📺 Prima Sport 4 [Hellas-Sat 39.0E 12290 V 30000]",
+        "📺 Sony Sports Ten 3 [SES 108.3E 12711 H 44900]"
+      ]
+    },
+    {
       "tournamentEn": "🛡️ CONMEBOL Libertadores",
       "tournamentAr": "🛡️ كوبا ليبرتادوريس",
       "matchEn": "Fluminense (Brazil) v Palmeiras (Brazil)",
