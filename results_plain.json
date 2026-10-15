@@ -573,8 +573,8 @@
       "matchEn": "Dallas v Seattle Sounders",
       "matchAr": "دالاس × سياتل ساوندرز",
       "rawIsoTime": "2026-10-15T03:30:00+03:00",
-      "time": "00:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇺🇸 USA MLS",
@@ -582,8 +582,8 @@
       "matchEn": "Chicago Fire v Philadelphia Union",
       "matchAr": "شيكاغو فاير × فيلادلفيا يونيون",
       "rawIsoTime": "2026-10-15T03:30:00+03:00",
-      "time": "00:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇺🇸 USA MLS",
@@ -591,8 +591,8 @@
       "matchEn": "St. Louis City v Vancouver Whitecaps",
       "matchAr": "سانت لويس سيتي × فانكوفر وايتكابس",
       "rawIsoTime": "2026-10-15T03:30:00+03:00",
-      "time": "00:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇺🇸 USA MLS",
@@ -600,8 +600,8 @@
       "matchEn": "Nashville SC v Kansas City",
       "matchAr": "ناشفيل × كانساس سيتي",
       "rawIsoTime": "2026-10-15T03:30:00+03:00",
-      "time": "00:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇺🇸 USA MLS",
