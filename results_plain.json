@@ -546,7 +546,7 @@
       "matchEn": "Toronto FC v Orlando City",
       "matchAr": "تورونتو × أورلاندو سيتي",
       "rawIsoTime": "2026-10-15T02:30:00+03:00",
-      "time": "2 - 3 (live)",
+      "time": "3 - 3 (live)",
       "isLive": true
     },
     {
@@ -555,8 +555,8 @@
       "matchEn": "Montreal Impact v Atlanta United",
       "matchAr": "مونتريال إمباكت × أتلانتا يونايتد",
       "rawIsoTime": "2026-10-15T02:30:00+03:00",
-      "time": "0 - 3 (live)",
-      "isLive": true
+      "time": "0 - 3 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇺🇸 USA MLS",
