@@ -510,8 +510,8 @@
       "matchEn": "San Diego v Houston Dynamo",
       "matchAr": "سان دييغو × هيوستن دينامو",
       "rawIsoTime": "2026-10-15T02:30:00Z",
-      "time": "3 - 3 (live)",
-      "isLive": true
+      "time": "3 - 3 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇱🇾 Libyan Premier League",
