@@ -3,7 +3,7 @@
     {
       "tournamentEn": "🛡️ AFC Champions League Two",
       "tournamentAr": "🛡️ دوري أبطال آسيا 2",
-      "matchEn": "Guingamp v Phnom Penh Crown",
+      "matchEn": "Gangwon FC v Phnom Penh Crown",
       "matchAr": "جانجون × فنوم بينه كراون",
       "rawIsoTime": "2026-10-15T10:00:00Z",
       "time": "10:00",
@@ -57,8 +57,8 @@
     {
       "tournamentEn": "🛡️ UEFA Europa League",
       "tournamentAr": "🛡️ الدوري الأوروبي",
-      "matchEn": "Olympique Lyonnais v Crystal Palace",
-      "matchAr": "أولمبيك ليون × كريستال بالاس",
+      "matchEn": "Olympique Lyonnais v Crystal Palace (England)",
+      "matchAr": "أولمبيك ليون × كريستال بالاس (إنجلترا)",
       "rawIsoTime": "2026-10-15T16:45:00Z",
       "time": "16:45",
       "isLive": false
@@ -66,8 +66,8 @@
     {
       "tournamentEn": "🛡️ UEFA Europa League",
       "tournamentAr": "🛡️ الدوري الأوروبي",
-      "matchEn": "Sparta Prague v Lillestrøm",
-      "matchAr": "سبارتا براغ × ليلستروم",
+      "matchEn": "Sparta Prague (Czechia) v Lillestrøm (Norway)",
+      "matchAr": "سبارتا براغ (التشيك) × ليلستروم (النرويج)",
       "rawIsoTime": "2026-10-15T16:45:00Z",
       "time": "16:45",
       "isLive": false
@@ -75,8 +75,8 @@
     {
       "tournamentEn": "🛡️ UEFA Europa League",
       "tournamentAr": "🛡️ الدوري الأوروبي",
-      "matchEn": "AZ Alkmaar v Unknown Team",
-      "matchAr": "آي زي ألكمار × Unknown Team فريق غير معروف",
+      "matchEn": "AZ Alkmaar (Netherlands) v Unknown Team",
+      "matchAr": "آي زي ألكمار (هولندا) × Unknown Team فريق غير معروف",
       "rawIsoTime": "2026-10-15T16:45:00Z",
       "time": "16:45",
       "isLive": false
@@ -84,8 +84,8 @@
     {
       "tournamentEn": "🛡️ UEFA Europa League",
       "tournamentAr": "🛡️ الدوري الأوروبي",
-      "matchEn": "União Torreense v Sunderland",
-      "matchAr": "أونياو تورينسي × سندرلاند",
+      "matchEn": "União Torreense v Sunderland (England)",
+      "matchAr": "أونياو تورينسي × سندرلاند (إنجلترا)",
       "rawIsoTime": "2026-10-15T16:45:00Z",
       "time": "16:45",
       "isLive": false
@@ -93,8 +93,8 @@
     {
       "tournamentEn": "🛡️ UEFA Europa League",
       "tournamentAr": "🛡️ الدوري الأوروبي",
-      "matchEn": "FC Red Bull Salzburg v Milan",
-      "matchAr": "ريد بول سالزبورغ × ميلان",
+      "matchEn": "Red Bull Salzburg (Austria) v Milan (Italy)",
+      "matchAr": "ريد بول سالزبورغ (النمسا) × ميلان (إيطاليا)",
       "rawIsoTime": "2026-10-15T16:45:00Z",
       "time": "16:45",
       "isLive": false
@@ -102,8 +102,8 @@
     {
       "tournamentEn": "🛡️ UEFA Europa League",
       "tournamentAr": "🛡️ الدوري الأوروبي",
-      "matchEn": "Lech Poznań v Bayer Leverkusen",
-      "matchAr": "لخ بوزنان × باير ليفركوزن",
+      "matchEn": "Lech Poznań (Poland) v Bayer Leverkusen (Germany)",
+      "matchAr": "لخ بوزنان (بولندا) × باير ليفركوزن (ألمانيا)",
       "rawIsoTime": "2026-10-15T16:45:00Z",
       "time": "16:45",
       "isLive": false
@@ -120,8 +120,8 @@
     {
       "tournamentEn": "🛡️ UEFA Europa League",
       "tournamentAr": "🛡️ الدوري الأوروبي",
-      "matchEn": "Union Saint-Gilloise v Real Sociedad",
-      "matchAr": "يونيون سان جيلواز × ريال سوسيداد",
+      "matchEn": "Union Saint-Gilloise (Belgium) v Real Sociedad (Spain)",
+      "matchAr": "يونيون سان جيلواز (بلجيكا) × ريال سوسيداد (إسبانيا)",
       "rawIsoTime": "2026-10-15T16:45:00Z",
       "time": "16:45",
       "isLive": false
@@ -129,8 +129,8 @@
     {
       "tournamentEn": "🛡️ UEFA Europa League",
       "tournamentAr": "🛡️ الدوري الأوروبي",
-      "matchEn": "Ferencvárosi TC v Viktoria Plzeň",
-      "matchAr": "فرينكفاروزي × فيكتوريا بلزن",
+      "matchEn": "Ferencvárosi TC v Viktoria Plzeň (Czechia)",
+      "matchAr": "فرينكفاروزي × فيكتوريا بلزن (التشيك)",
       "rawIsoTime": "2026-10-15T19:00:00Z",
       "time": "19:00",
       "isLive": false
@@ -138,8 +138,8 @@
     {
       "tournamentEn": "🛡️ UEFA Europa League",
       "tournamentAr": "🛡️ الدوري الأوروبي",
-      "matchEn": "Hoffenheim v Beşiktaş",
-      "matchAr": "هوفنهايم × بشكتاش",
+      "matchEn": "Hoffenheim (Germany) v Beşiktaş (Turkey)",
+      "matchAr": "هوفنهايم (ألمانيا) × بشكتاش (تركيا)",
       "rawIsoTime": "2026-10-15T19:00:00Z",
       "time": "19:00",
       "isLive": false
@@ -147,8 +147,8 @@
     {
       "tournamentEn": "🛡️ UEFA Europa League",
       "tournamentAr": "🛡️ الدوري الأوروبي",
-      "matchEn": "Stade Rennais FC v OFI Crete",
-      "matchAr": "ستاد رين × أوفي كريت",
+      "matchEn": "Stade Rennais FC v OFI Crete (Greece)",
+      "matchAr": "ستاد رين × أوفي كريت (اليونان)",
       "rawIsoTime": "2026-10-15T19:00:00Z",
       "time": "19:00",
       "isLive": false
@@ -156,8 +156,8 @@
     {
       "tournamentEn": "🛡️ UEFA Europa League",
       "tournamentAr": "🛡️ الدوري الأوروبي",
-      "matchEn": "Marseille v Olympiacos",
-      "matchAr": "مارسيليا × أولمبياكوس",
+      "matchEn": "Marseille (France) v Olympiacos (Greece)",
+      "matchAr": "مارسيليا (فرنسا) × أولمبياكوس (اليونان)",
       "rawIsoTime": "2026-10-15T19:00:00Z",
       "time": "19:00",
       "isLive": false
@@ -165,8 +165,8 @@
     {
       "tournamentEn": "🛡️ UEFA Europa League",
       "tournamentAr": "🛡️ الدوري الأوروبي",
-      "matchEn": "Celta Vigo v Juventus",
-      "matchAr": "سيلتا فيغو × يوفنتوس",
+      "matchEn": "Celta Vigo (Spain) v Juventus (Italy)",
+      "matchAr": "سيلتا فيغو (إسبانيا) × يوفنتوس (إيطاليا)",
       "rawIsoTime": "2026-10-15T19:00:00Z",
       "time": "19:00",
       "isLive": false
@@ -174,8 +174,8 @@
     {
       "tournamentEn": "🛡️ UEFA Europa League",
       "tournamentAr": "🛡️ الدوري الأوروبي",
-      "matchEn": "NEC Nijmegen v Levski Sofia",
-      "matchAr": "نيك نيميغن × ليفسكي صوفيا",
+      "matchEn": "NEC Nijmegen (Netherlands) v Levski Sofia (Bulgaria)",
+      "matchAr": "نيك نيميغن (هولندا) × ليفسكي صوفيا (بلغاريا)",
       "rawIsoTime": "2026-10-15T19:00:00Z",
       "time": "19:00",
       "isLive": false
@@ -183,8 +183,8 @@
     {
       "tournamentEn": "🛡️ UEFA Europa League",
       "tournamentAr": "🛡️ الدوري الأوروبي",
-      "matchEn": "Dinamo Zagreb v Anderlecht",
-      "matchAr": "دينامو زغرب × أندرلخت",
+      "matchEn": "Dinamo Zagreb (Croatia) v Anderlecht (Belgium)",
+      "matchAr": "دينامو زغرب (كرواتيا) × أندرلخت (بلجيكا)",
       "rawIsoTime": "2026-10-15T19:00:00Z",
       "time": "19:00",
       "isLive": false
@@ -192,8 +192,8 @@
     {
       "tournamentEn": "🛡️ UEFA Europa League",
       "tournamentAr": "🛡️ الدوري الأوروبي",
-      "matchEn": "Benfica v Celtic",
-      "matchAr": "بنفيكا × سلتيك",
+      "matchEn": "Benfica (Portugal) v Celtic (Scotland)",
+      "matchAr": "بنفيكا (البرتغال) × سلتيك (اسكتلندا)",
       "rawIsoTime": "2026-10-15T19:00:00Z",
       "time": "19:00",
       "isLive": false
@@ -201,8 +201,8 @@
     {
       "tournamentEn": "🛡️ UEFA Europa League",
       "tournamentAr": "🛡️ الدوري الأوروبي",
-      "matchEn": "Jagiellonia Białystok v FC Ararat-Armenia",
-      "matchAr": "جاجيلونيا بياليستوك × آرارات أرمينيا",
+      "matchEn": "Jagiellonia Białystok v FC Ararat-Armenia (Armenia)",
+      "matchAr": "جاجيلونيا بياليستوك × آرارات أرمينيا (أرمينيا)",
       "rawIsoTime": "2026-10-15T19:00:00Z",
       "time": "19:00",
       "isLive": false
@@ -210,8 +210,8 @@
     {
       "tournamentEn": "🛡️ UEFA Europa League",
       "tournamentAr": "🛡️ الدوري الأوروبي",
-      "matchEn": "Bournemouth v Puntigamer Sturm Graz",
-      "matchAr": "بورنموث × بونتيجامير شتورم جراتس",
+      "matchEn": "Bournemouth (England) v Puntigamer Sturm Graz",
+      "matchAr": "بورنموث (إنجلترا) × بونتيجامير شتورم جراتس",
       "rawIsoTime": "2026-10-15T19:00:00Z",
       "time": "19:00",
       "isLive": false
@@ -219,8 +219,8 @@
     {
       "tournamentEn": "🛡️ UEFA Conference League",
       "tournamentAr": "🛡️ دوري المؤتمر الأوروبي",
-      "matchEn": "AA Gent v Aarhus GF",
-      "matchAr": "جينت × آرهوس جمناستيك فورينينغ",
+      "matchEn": "AA Gent (Belgium) v Aarhus GF",
+      "matchAr": "جينت (بلجيكا) × آرهوس جمناستيك فورينينغ",
       "rawIsoTime": "2026-10-15T16:45:00Z",
       "time": "16:45",
       "isLive": false
@@ -228,8 +228,8 @@
     {
       "tournamentEn": "🛡️ UEFA Conference League",
       "tournamentAr": "🛡️ دوري المؤتمر الأوروبي",
-      "matchEn": "Universitatea Craiova v Getafe",
-      "matchAr": "يونيفيرسيتاتيا كرايوفا × خيتافي",
+      "matchEn": "Universitatea Craiova (Romania) v Getafe (Spain)",
+      "matchAr": "يونيفيرسيتاتيا كرايوفا (رومانيا) × خيتافي (إسبانيا)",
       "rawIsoTime": "2026-10-15T16:45:00Z",
       "time": "16:45",
       "isLive": false
@@ -237,8 +237,8 @@
     {
       "tournamentEn": "🛡️ UEFA Conference League",
       "tournamentAr": "🛡️ دوري المؤتمر الأوروبي",
-      "matchEn": "Egnatia Rrogozhinë v FC Midtjylland",
-      "matchAr": "إغناتيا روجوزيتي × ميدتييلاند",
+      "matchEn": "Egnatia Rrogozhinë v FC Midtjylland (Denmark)",
+      "matchAr": "إغناتيا روجوزيتي × ميدتييلاند (الدنمارك)",
       "rawIsoTime": "2026-10-15T16:45:00Z",
       "time": "16:45",
       "isLive": false
@@ -246,8 +246,8 @@
     {
       "tournamentEn": "🛡️ UEFA Conference League",
       "tournamentAr": "🛡️ دوري المؤتمر الأوروبي",
-      "matchEn": "PFC CSKA Sofia v AS Monaco",
-      "matchAr": "سسكا صوفيا × موناكو",
+      "matchEn": "PFC CSKA Sofia v AS Monaco (France)",
+      "matchAr": "سسكا صوفيا × موناكو (فرنسا)",
       "rawIsoTime": "2026-10-15T16:45:00Z",
       "time": "16:45",
       "isLive": false
@@ -255,8 +255,8 @@
     {
       "tournamentEn": "🛡️ UEFA Conference League",
       "tournamentAr": "🛡️ دوري المؤتمر الأوروبي",
-      "matchEn": "Riga FC v FC Kairat",
-      "matchAr": "ريغا × كيرات",
+      "matchEn": "Riga FC (Latvia) v FC Kairat",
+      "matchAr": "ريغا (لاتفيا) × كيرات",
       "rawIsoTime": "2026-10-15T16:45:00Z",
       "time": "16:45",
       "isLive": false
@@ -273,8 +273,8 @@
     {
       "tournamentEn": "🛡️ UEFA Conference League",
       "tournamentAr": "🛡️ دوري المؤتمر الأوروبي",
-      "matchEn": "KuPS v Trabzonspor",
-      "matchAr": "كوبيون × طرابزون سبور",
+      "matchEn": "KuPS (Finland) v Trabzonspor (Turkey)",
+      "matchAr": "كوبيون (فنلندا) × طرابزون سبور (تركيا)",
       "rawIsoTime": "2026-10-15T16:45:00Z",
       "time": "16:45",
       "isLive": false
@@ -282,8 +282,8 @@
     {
       "tournamentEn": "🛡️ UEFA Conference League",
       "tournamentAr": "🛡️ دوري المؤتمر الأوروبي",
-      "matchEn": "Hajduk Split v Ajax",
-      "matchAr": "هايدوك سبليت × أياكس",
+      "matchEn": "Hajduk Split (Croatia) v Ajax (Netherlands)",
+      "matchAr": "هايدوك سبليت (كرواتيا) × أياكس (هولندا)",
       "rawIsoTime": "2026-10-15T16:45:00Z",
       "time": "16:45",
       "isLive": false
@@ -318,8 +318,8 @@
     {
       "tournamentEn": "🛡️ UEFA Conference League",
       "tournamentAr": "🛡️ دوري المؤتمر الأوروبي",
-      "matchEn": "FC Copenhagen v Sporting Braga",
-      "matchAr": "كوبنهاغن × سبورتينغ براغا",
+      "matchEn": "FC Copenhagen (Denmark) v Sporting Braga",
+      "matchAr": "كوبنهاغن (الدنمارك) × سبورتينغ براغا",
       "rawIsoTime": "2026-10-15T19:00:00Z",
       "time": "19:00",
       "isLive": false
@@ -327,8 +327,8 @@
     {
       "tournamentEn": "🛡️ UEFA Conference League",
       "tournamentAr": "🛡️ دوري المؤتمر الأوروبي",
-      "matchEn": "Heart of Midlothian v Nordsjælland",
-      "matchAr": "هارتس أوف ميدلوثيان × نوردشيلاند",
+      "matchEn": "Heart of Midlothian v Nordsjælland (Denmark)",
+      "matchAr": "هارتس أوف ميدلوثيان × نوردشيلاند (الدنمارك)",
       "rawIsoTime": "2026-10-15T19:00:00Z",
       "time": "19:00",
       "isLive": false
@@ -336,8 +336,8 @@
     {
       "tournamentEn": "🛡️ UEFA Conference League",
       "tournamentAr": "🛡️ دوري المؤتمر الأوروبي",
-      "matchEn": "Brann v Lincoln",
-      "matchAr": "بران × لينكون",
+      "matchEn": "Brann (Norway) v Lincoln",
+      "matchAr": "بران (النرويج) × لينكون",
       "rawIsoTime": "2026-10-15T19:00:00Z",
       "time": "19:00",
       "isLive": false
@@ -345,8 +345,8 @@
     {
       "tournamentEn": "🛡️ UEFA Conference League",
       "tournamentAr": "🛡️ دوري المؤتمر الأوروبي",
-      "matchEn": "Twente v Thun",
-      "matchAr": "تفينتي × ثون",
+      "matchEn": "Twente (Netherlands) v Thun (Switzerland)",
+      "matchAr": "تفينتي (هولندا) × ثون (سويسرا)",
       "rawIsoTime": "2026-10-15T19:00:00Z",
       "time": "19:00",
       "isLive": false
@@ -354,8 +354,8 @@
     {
       "tournamentEn": "🛡️ UEFA Conference League",
       "tournamentAr": "🛡️ دوري المؤتمر الأوروبي",
-      "matchEn": "Atalanta v Pafos FC",
-      "matchAr": "أتلانتا × بافوس",
+      "matchEn": "Atalanta (Italy) v Pafos FC (Cyprus)",
+      "matchAr": "أتلانتا (إيطاليا) × بافوس (قبرص)",
       "rawIsoTime": "2026-10-15T19:00:00Z",
       "time": "19:00",
       "isLive": false
@@ -363,8 +363,8 @@
     {
       "tournamentEn": "🛡️ UEFA Conference League",
       "tournamentAr": "🛡️ دوري المؤتمر الأوروبي",
-      "matchEn": "Freiburg v FK Jablonec",
-      "matchAr": "فرايبورغ × اف كيه يابلونيتش",
+      "matchEn": "Freiburg (Germany) v FK Jablonec",
+      "matchAr": "فرايبورغ (ألمانيا) × اف كيه يابلونيتش",
       "rawIsoTime": "2026-10-15T19:00:00Z",
       "time": "19:00",
       "isLive": false
@@ -372,8 +372,8 @@
     {
       "tournamentEn": "🛡️ UEFA Conference League",
       "tournamentAr": "🛡️ دوري المؤتمر الأوروبي",
-      "matchEn": "Brighton v Kauno Žalgiris",
-      "matchAr": "برايتون × كاونو زالجيريس",
+      "matchEn": "Brighton (England) v Kauno Žalgiris (Lithuania)",
+      "matchAr": "برايتون (إنجلترا) × كاونو زالجيريس (ليتوانيا)",
       "rawIsoTime": "2026-10-15T19:00:00Z",
       "time": "19:00",
       "isLive": false
@@ -417,15 +417,15 @@
     {
       "tournamentEn": "🛡️ CONMEBOL Libertadores",
       "tournamentAr": "🛡️ كوبا ليبرتادوريس",
-      "matchEn": "Fluminense v Palmeiras",
-      "matchAr": "فلومينينسي × بالميراس",
+      "matchEn": "Fluminense (Brazil) v Palmeiras (Brazil)",
+      "matchAr": "فلومينينسي (البرازيل) × بالميراس (البرازيل)",
       "rawIsoTime": "2026-10-15T00:30:00Z",
       "time": "1 - 2 (done)",
       "isLive": false
     },
     {
-      "tournamentEn": "🇯🇴 Jordanian Pro League",
-      "tournamentAr": "🇯🇴 الدوري الأردني للمحترفين",
+      "tournamentEn": "🏁 الدوري الأردني للمحترفين",
+      "tournamentAr": "🏁 الدوري الأردني للمحترفين",
       "matchEn": "Al-Arabi v Shabab Al-Ordon",
       "matchAr": "العربي الأردني × شباب الأردن",
       "rawIsoTime": "2026-10-15T15:00:00Z",
@@ -492,8 +492,8 @@
       "matchEn": "Los Angeles Galaxy v Portland Timbers",
       "matchAr": "لوس أنجلوس غالاكسي × بورتلاند تيمبرز",
       "rawIsoTime": "2026-10-15T02:30:00Z",
-      "time": "1 - 0 (live)",
-      "isLive": true
+      "time": "2 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇺🇸 USA MLS",
@@ -501,8 +501,8 @@
       "matchEn": "Los Angeles v Austin",
       "matchAr": "لوس أنجلوس × أوستن",
       "rawIsoTime": "2026-10-15T02:30:00Z",
-      "time": "3 - 1 (live)",
-      "isLive": true
+      "time": "3 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇺🇸 USA MLS",
@@ -510,8 +510,8 @@
       "matchEn": "San Diego v Houston Dynamo",
       "matchAr": "سان دييغو × هيوستن دينامو",
       "rawIsoTime": "2026-10-15T02:30:00Z",
-      "time": "2 - 3 (live)",
-      "isLive": true
+      "time": "3 - 3 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇱🇾 Libyan Premier League",
