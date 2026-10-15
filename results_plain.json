@@ -492,8 +492,8 @@
       "matchEn": "Fluminense (Brazil) v Palmeiras (Brazil)",
       "matchAr": "فلومينينسي (البرازيل) × بالميراس (البرازيل)",
       "rawIsoTime": "2026-10-15T03:30:00+03:00",
-      "time": "00:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🛡️ CONMEBOL Libertadores",
@@ -519,7 +519,7 @@
       "matchEn": "Inter Miami v New York City FC",
       "matchAr": "إنتر ميامي × نيويورك سيتي",
       "rawIsoTime": "2026-10-15T02:30:00+03:00",
-      "time": "1 - 0 (live)",
+      "time": "2 - 0 (live)",
       "isLive": true
     },
     {
@@ -546,7 +546,7 @@
       "matchEn": "Toronto FC v Orlando City",
       "matchAr": "تورونتو × أورلاندو سيتي",
       "rawIsoTime": "2026-10-15T02:30:00+03:00",
-      "time": "1 - 0 (live)",
+      "time": "1 - 1 (live)",
       "isLive": true
     },
     {
@@ -564,7 +564,7 @@
       "matchEn": "D.C. United v New York Red Bulls",
       "matchAr": "دي سي يونايتد × نيويورك RB",
       "rawIsoTime": "2026-10-15T02:30:00+03:00",
-      "time": "1 - 0 (live)",
+      "time": "2 - 0 (live)",
       "isLive": true
     },
     {
@@ -664,15 +664,6 @@
       "matchAr": "أنديجان × كويزلكام",
       "rawIsoTime": "2026-10-15T17:00:00+03:00",
       "time": "14:00",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🇨🇴 Colombian Primera A",
-      "tournamentAr": "🇨🇴 الدوري الكولومبي",
-      "matchEn": "Santa Fe v Jaguares de Córdoba",
-      "matchAr": "سانتا فاي × خاخواريس دي كوردوبا",
-      "rawIsoTime": "2026-10-15T02:30:00+03:00",
-      "time": "23:30",
       "isLive": false
     }
   ]
