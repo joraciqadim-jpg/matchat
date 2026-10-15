@@ -38,8 +38,8 @@
     {
       "tournamentEn": "🛡️ UEFA Europa League",
       "tournamentAr": "🛡️ الدوري الأوروبي",
-      "matchEn": "RB Salzburg (Austria) v Milan (Italy)",
-      "matchAr": "راب سبزلر (النمسا) × ميلان (إيطاليا)",
+      "matchEn": "Red Bull Salzburg (Austria) v Milan (Italy)",
+      "matchAr": "ريد بول سالزبورغ (النمسا) × ميلان (إيطاليا)",
       "time": "16:45",
       "channels": [
         "📺 DAZN 2 POR [Hispasat 30W 12399 H 27500]",
@@ -200,7 +200,7 @@
     },
     {
       "tournamentEn": "🛡️ UEFA Europa Conference League",
-      "tournamentAr": "🛡️ دوري أُفَة أوروبا للمؤتمر",
+      "tournamentAr": "🛡️ دوري أوروبا للمؤتمرات",
       "matchEn": "CSKA Sofia (Bulgaria) v AS Monaco (France)",
       "matchAr": "سيسكا صوفيا (بلغاريا) × موناكو (فرنسا)",
       "time": "16:45",
@@ -216,9 +216,9 @@
     },
     {
       "tournamentEn": "🛡️ UEFA Europa Conference League",
-      "tournamentAr": "🛡️ دوري أُفَة أوروبا للمؤتمر",
-      "matchEn": "Hajduk (Croatia) v Ajax (Netherlands)",
-      "matchAr": "هاجدك (كرواتيا) × أياكس (هولندا)",
+      "tournamentAr": "🛡️ دوري أوروبا للمؤتمرات",
+      "matchEn": "Hajduk Split (Croatia) v Ajax (Netherlands)",
+      "matchAr": "هايدوك سبليت (كرواتيا) × أياكس (هولندا)",
       "time": "16:45",
       "channels": [
         "📺 DAZN 4 POR [Hispasat 30W 12399 H 27500]",
@@ -237,7 +237,7 @@
     },
     {
       "tournamentEn": "🛡️ UEFA Europa Conference League",
-      "tournamentAr": "🛡️ دوري أُفَة أوروبا للمؤتمر",
+      "tournamentAr": "🛡️ دوري أوروبا للمؤتمرات",
       "matchEn": "KuPS (Finland) v Trabzonspor (Turkey)",
       "matchAr": "كوبيون (فنلندا) × طرابزون سبور (تركيا)",
       "time": "16:45",
@@ -252,9 +252,9 @@
     },
     {
       "tournamentEn": "🛡️ UEFA Europa Conference League",
-      "tournamentAr": "🛡️ دوري أُفَة أوروبا للمؤتمر",
-      "matchEn": "U. Craiova (Romania) v Getafe (Spain)",
-      "matchAr": "يو كرايوفا (رومانيا) × خيتافي (إسبانيا)",
+      "tournamentAr": "🛡️ دوري أوروبا للمؤتمرات",
+      "matchEn": "Universitatea Craiova (Romania) v Getafe (Spain)",
+      "matchAr": "يونيفرسيتاتيا كرايوفا (رومانيا) × خيتافي (إسبانيا)",
       "time": "16:45",
       "channels": [
         "📺 BeIn Sports Xtra 3 [Nilesat 7.0W 11054 H 27500]",
@@ -268,7 +268,7 @@
     },
     {
       "tournamentEn": "🛡️ UEFA Europa Conference League",
-      "tournamentAr": "🛡️ دوري أُفَة أوروبا للمؤتمر",
+      "tournamentAr": "🛡️ دوري أوروبا للمؤتمرات",
       "matchEn": "Atalanta (Italy) v Pafos (Cyprus)",
       "matchAr": "أتلانتا (إيطاليا) × بافوس (قبرص)",
       "time": "19:00",
@@ -286,9 +286,9 @@
     },
     {
       "tournamentEn": "🛡️ UEFA Europa Conference League",
-      "tournamentAr": "🛡️ دوري أُفَة أوروبا للمؤتمر",
+      "tournamentAr": "🛡️ دوري أوروبا للمؤتمرات",
       "matchEn": "Brighton (England) v Kauno Žalgiris (Lithuania)",
-      "matchAr": "برايتون (إنجلترا) × كاونو زالغيريس (ليتوانيا)",
+      "matchAr": "برايتون (إنجلترا) × كاونو زالغيرس (ليتوانيا)",
       "time": "19:00",
       "channels": [
         "📺 Bein Sport 7 [Nilesat 7.0W 12188 H 27500]",
@@ -303,7 +303,7 @@
     },
     {
       "tournamentEn": "🛡️ UEFA Europa Conference League",
-      "tournamentAr": "🛡️ دوري أُفَة أوروبا للمؤتمر",
+      "tournamentAr": "🛡️ دوري أوروبا للمؤتمرات",
       "matchEn": "Hearts (Scotland) v Nordsjælland (Denmark)",
       "matchAr": "هارتس (اسكتلندا) × نوردشيلاند (الدنمارك)",
       "time": "19:00",
