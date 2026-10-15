@@ -519,7 +519,7 @@
       "matchEn": "Inter Miami v New York City FC",
       "matchAr": "إنتر ميامي × نيويورك سيتي",
       "rawIsoTime": "2026-10-15T02:30:00+03:00",
-      "time": "2 - 0 (live)",
+      "time": "2 - 1 (live)",
       "isLive": true
     },
     {
@@ -528,8 +528,8 @@
       "matchEn": "Columbus Crew v Charlotte FC",
       "matchAr": "كولومبوس كرو × شارلوت",
       "rawIsoTime": "2026-10-15T02:30:00+03:00",
-      "time": "3 - 1 (live)",
-      "isLive": true
+      "time": "3 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇺🇸 USA MLS",
@@ -564,8 +564,8 @@
       "matchEn": "D.C. United v New York Red Bulls",
       "matchAr": "دي سي يونايتد × نيويورك RB",
       "rawIsoTime": "2026-10-15T02:30:00+03:00",
-      "time": "2 - 1 (live)",
-      "isLive": true
+      "time": "2 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇺🇸 USA MLS",
