@@ -342,29 +342,6 @@
       "channels": [
         "📺 Thmanyah 2 [Badrsat 26.0E 11919 H 27500]"
       ]
-    },
-    {
-      "tournamentEn": "🏁 Spain LaLiga 2",
-      "tournamentAr": "🏁 إسبانيا الدرجة 2",
-      "matchEn": "Almería v Burgos",
-      "matchAr": "ألميريا × بورغوس",
-      "time": "17:00",
-      "channels": [
-        "📺 1TV [Eutelsat 36.0E 11221 H 30000]",
-        "📺 1TV [Azerspace 46.0E 11095 H 30000]"
-      ]
-    },
-    {
-      "tournamentEn": "🏁 Spain LaLiga 2",
-      "tournamentAr": "🏁 إسبانيا الدرجة 2",
-      "matchEn": "Burgos v Almería",
-      "matchAr": "بورغوس × ألميريا",
-      "time": "17:00",
-      "channels": [
-        "📺 Al Aoula Inter [Nilesat 7.0W 12207 V 27500]",
-        "📺 Al Aoula Inter [Hotbird 13.0E 10873 V 27500]",
-        "📺 Al Aoula Inter [Badrsat 26.0E 11547 V 27500]"
-      ]
     }
   ]
 }
