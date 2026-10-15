@@ -519,8 +519,8 @@
       "matchEn": "Inter Miami v New York City FC",
       "matchAr": "إنتر ميامي × نيويورك سيتي",
       "rawIsoTime": "2026-10-15T02:30:00+03:00",
-      "time": "2 - 1 (live)",
-      "isLive": true
+      "time": "2 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇺🇸 USA MLS",
@@ -537,8 +537,8 @@
       "matchEn": "FC Cincinnati v New England Revolution",
       "matchAr": "سينسيناتي × نيو إنجلاند",
       "rawIsoTime": "2026-10-15T02:30:00+03:00",
-      "time": "2 - 3 (live)",
-      "isLive": true
+      "time": "2 - 3 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇺🇸 USA MLS",
@@ -546,8 +546,8 @@
       "matchEn": "Toronto FC v Orlando City",
       "matchAr": "تورونتو × أورلاندو سيتي",
       "rawIsoTime": "2026-10-15T02:30:00+03:00",
-      "time": "3 - 3 (live)",
-      "isLive": true
+      "time": "3 - 3 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇺🇸 USA MLS",
@@ -609,8 +609,8 @@
       "matchEn": "Colorado Rapids v Minnesota United FC",
       "matchAr": "كولورادو رابيدز × مينيسوتا يونايتد",
       "rawIsoTime": "2026-10-15T04:30:00+03:00",
-      "time": "01:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇺🇸 USA MLS",
@@ -618,8 +618,8 @@
       "matchEn": "Real Salt Lake v San Jose Earthquakes",
       "matchAr": "ريال سالت ليك × SJ إيرثكويكس",
       "rawIsoTime": "2026-10-15T04:30:00+03:00",
-      "time": "01:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇺🇸 USA MLS",
