@@ -24,8 +24,8 @@
         "📺 Super Sport 3 [Eutelsat 16.0E 10845 H 30000]",
         "📺 M+ Liga de Campeones 5 [Astra 19.2E 10979 V 22000]",
         "📺 Sky Sport Austria 4 [Astra 19.2E 12382 H 27500]",
-        "📺 Sport 1 CZE [Eutelsat 23.5E 12070 H 27500]",
-        "📺 Ziggo Sport 6 [Eutelsat 23.5E 12129 V 29900]",
+        "📺 Sport 1 CZE [Astra 23.5E 12070 H 27500]",
+        "📺 Ziggo Sport 6 [Astra 23.5E 12129 V 29900]",
         "📺 Bein Sport 2 [Badrsat 26.0E 10810 H 27500]",
         "📺 TNT Sports 1 [Astra 28.2E 11582 H 23000]",
         "📺 SuperSport Football Plus [Eutelsat 36.0E 12284 H 27500]",
@@ -149,8 +149,8 @@
         "📺 Sport Klub 3 SLO [Eutelsat 16.0E 11231 V 42000]",
         "📺 Super Sport 2 [Eutelsat 16.0E 10845 H 30000]",
         "📺 M+ Liga de Campeones [Astra 19.2E 11259 V 22000]",
-        "📺 Joj Sport [Eutelsat 23.5E 12266 H 29900]",
-        "📺 JOJ Sport 2 [Eutelsat 23.5E 12090 V 29900]",
+        "📺 Joj Sport [Astra 23.5E 12266 H 29900]",
+        "📺 JOJ Sport 2 [Astra 23.5E 12090 V 29900]",
         "📺 Bein Sport 1 [Badrsat 26.0E 10810 H 27500]",
         "📺 IRIB Varzesh [Badrsat 26.0E 11881 H 27500]",
         "📺 Premier Sports 2 [Astra 28.2E 12188 H 27500]",
@@ -341,26 +341,6 @@
       "time": "15:15",
       "channels": [
         "📺 Thmanyah 2 [Badrsat 26.0E 11919 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🇸🇦 Saudi Pro League",
-      "tournamentAr": "🇸🇦 الدوري السعودي للمحترفين",
-      "matchEn": "Al-Ahli v Al-Nassr",
-      "matchAr": "الأهلي × النصر",
-      "time": "18:00",
-      "channels": [
-        "📺 Sport TV 1 [Hispasat 30W 12360 H 27500]",
-        "📺 On Sport 1 [Nilesat 7.0W 11862 V 27500]",
-        "📺 Spiler TV 1 [Thor 0.8W 12130 H 28000]",
-        "📺 Sportitalia HD [Eutelsat 9.0E 12341 V 31400]",
-        "📺 Sport Klub 3 HRV [Eutelsat 16.0E 11387 H 32000]",
-        "📺 Super Sport 6 [Eutelsat 16.0E 10804 H 29950]",
-        "📺 DAZN 1 GER [Astra 19.2E 12382 H 27500]",
-        "📺 Sportdigital Fussball [Astra 19.2E 11186 V 22000]",
-        "📺 ESPN South Africa [Eutelsat 36.0E 12476 H 27500]",
-        "📺 Sporty TV [Eutelsat 36.0E 12265 V 27500]",
-        "📺 Meraj TV [Turkmenlem 52.0E 11221 V 27500]"
       ]
     }
   ]
