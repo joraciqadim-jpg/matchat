@@ -1,16 +1,417 @@
 {
-
+  "olympique lyon": {
+    "en": "Olympique Lyon",
+    "ar": "أولمبيك ليون",
+    "countryen": "France",
+    "countryar": "فرنسا"
+  },
+  "crystal palace": {
+    "en": "Crystal Palace",
+    "ar": "كريستال بالاس",
+    "countryen": "England",
+    "countryar": "إنجلترا"
+  },
+  "sparta prague": {
+    "en": "Sparta Prague",
+    "ar": "سبارتا براغ",
+    "countryen": "Czech Republic",
+    "countryar": "التشيك"
+  },
+  "lillestrom": {
+    "en": "Lillestrøm",
+    "ar": "ليلستروم",
+    "countryen": "Norway",
+    "countryar": "النرويج"
+  },
+  "az alkmaar": {
+    "en": "AZ Alkmaar",
+    "ar": "آزي ألكمار",
+    "countryen": "Netherlands",
+    "countryar": "هولندا"
+  },
+  "uniao torreense": {
+    "en": "União Torreense",
+    "ar": "أونياو تورينسي",
+    "countryen": "Portugal",
+    "countryar": "البرتغال"
+  },
+  "sunderland": {
+    "en": "Sunderland",
+    "ar": "سندرلاند",
+    "countryen": "England",
+    "countryar": "إنجلترا"
+  },
+  "red bull salzburg": {
+    "en": "Red Bull Salzburg",
+    "ar": "ريد بول سالزبورغ",
+    "countryen": "Austria",
+    "countryar": "النمسا"
+  },
+  "milan": {
+    "en": "Milan",
+    "ar": "ميلان",
+    "countryen": "Italy",
+    "countryar": "إيطاليا"
+  },
+  "lech poznan": {
+    "en": "Lech Poznań",
+    "ar": "لخ بوزنان",
+    "countryen": "Poland",
+    "countryar": "بولندا"
+  },
+  "bayer leverkusen": {
+    "en": "Bayer Leverkusen",
+    "ar": "باير ليفركوزن",
+    "countryen": "Germany",
+    "countryar": "ألمانيا"
+  },
+  "celje": {
+    "en": "Celje",
+    "ar": "سيلجي",
+    "countryen": "Slovenia",
+    "countryar": "سلوفينيا"
+  },
+  "omonia": {
+    "en": "Omonia",
+    "ar": "أومونيا",
+    "countryen": "Cyprus",
+    "countryar": "قبرص"
+  },
+  "union saint gilloise": {
+    "en": "Union Saint-Gilloise",
+    "ar": "يونيون سان جيلواز",
+    "countryen": "Belgium",
+    "countryar": "بلجيكا"
+  },
+  "real sociedad": {
+    "en": "Real Sociedad",
+    "ar": "ريال سوسيداد",
+    "countryen": "Spain",
+    "countryar": "إسبانيا"
+  },
+  "ferencvaros": {
+    "en": "Ferencváros",
+    "ar": "فرينكفاروزي",
+    "countryen": "Hungary",
+    "countryar": "المجر"
+  },
+  "viktoria plzen": {
+    "en": "Viktoria Plzeň",
+    "ar": "فيكتوريا بلزن",
+    "countryen": "Czech Republic",
+    "countryar": "التشيك"
+  },
+  "hoffenheim": {
+    "en": "Hoffenheim",
+    "ar": "هوفنهايم",
+    "countryen": "Germany",
+    "countryar": "ألمانيا"
+  },
+  "besiktas": {
+    "en": "Beşiktaş",
+    "ar": "بشكتاش",
+    "countryen": "Turkey",
+    "countryar": "تركيا"
+  },
+  "rennes": {
+    "en": "Rennes",
+    "ar": "رين",
+    "countryen": "France",
+    "countryar": "فرنسا"
+  },
+  "ofi crete": {
+    "en": "OFI Crete",
+    "ar": "أوفي كريت",
+    "countryen": "Greece",
+    "countryar": "اليونان"
+  },
+  "marseille": {
+    "en": "Marseille",
+    "ar": "مارسيليا",
+    "countryen": "France",
+    "countryar": "فرنسا"
+  },
+  "olympiacos": {
+    "en": "Olympiacos",
+    "ar": "أولمبياكوس",
+    "countryen": "Greece",
+    "countryar": "اليونان"
+  },
+  "celta vigo": {
+    "en": "Celta Vigo",
+    "ar": "سيلتا فيغو",
+    "countryen": "Spain",
+    "countryar": "إسبانيا"
+  },
+  "juventus": {
+    "en": "Juventus",
+    "ar": "يوفنتوس",
+    "countryen": "Italy",
+    "countryar": "إيطاليا"
+  },
+  "nec nijmegen": {
+    "en": "NEC Nijmegen",
+    "ar": "نيك نيميغن",
+    "countryen": "Netherlands",
+    "countryar": "هولندا"
+  },
+  "levski sofia": {
+    "en": "Levski Sofia",
+    "ar": "ليفسكي صوفيا",
+    "countryen": "Bulgaria",
+    "countryar": "بلغاريا"
+  },
+  "dinamo zagreb": {
+    "en": "Dinamo Zagreb",
+    "ar": "دينامو زغرب",
+    "countryen": "Croatia",
+    "countryar": "كرواتيا"
+  },
+  "anderlecht": {
+    "en": "Anderlecht",
+    "ar": "أندرلخت",
+    "countryen": "Belgium",
+    "countryar": "بلجيكا"
+  },
+  "benfica": {
+    "en": "Benfica",
+    "ar": "بنفيكا",
+    "countryen": "Portugal",
+    "countryar": "البرتغال"
+  },
+  "celtic": {
+    "en": "Celtic",
+    "ar": "سلتيك",
+    "countryen": "Scotland",
+    "countryar": "إسكتلندا"
+  },
+  "jagiellonia": {
+    "en": "Jagiellonia",
+    "ar": "جاجيلونيا",
+    "countryen": "Poland",
+    "countryar": "بولندا"
+  },
+  "ararat armenia": {
+    "en": "Ararat-Armenia",
+    "ar": "آرارات أرمينيا",
+    "countryen": "Armenia",
+    "countryar": "أرمينيا"
+  },
+  "bournemouth": {
+    "en": "Bournemouth",
+    "ar": "بورنموث",
+    "countryen": "England",
+    "countryar": "إنجلترا"
+  },
+  "sturm graz": {
+    "en": "Sturm Graz",
+    "ar": "شتورم غراتس",
+    "countryen": "Austria",
+    "countryar": "النمسا"
+  },
+  "gent": {
+    "en": "Gent",
+    "ar": "جينت",
+    "countryen": "Belgium",
+    "countryar": "بلجيكا"
+  },
+  "aarhus": {
+    "en": "Aarhus",
+    "ar": "آرهوس",
+    "countryen": "Denmark",
+    "countryar": "الدنمارك"
+  },
   "universitatea craiova": {
     "en": "Universitatea Craiova",
-    "ar": "يونيفرسيتاتيا كرايوفا",
+    "ar": "يونيفيرسيتاتيا كرايوفا",
     "countryen": "Romania",
     "countryar": "رومانيا"
+  },
+  "getafe": {
+    "en": "Getafe",
+    "ar": "خيتافي",
+    "countryen": "Spain",
+    "countryar": "إسبانيا"
+  },
+  "egnatia": {
+    "en": "Egnatia",
+    "ar": "إغناتيا",
+    "countryen": "Albania",
+    "countryar": "ألبانيا"
+  },
+  "midtjylland": {
+    "en": "Midtjylland",
+    "ar": "ميدتييلاند",
+    "countryen": "Denmark",
+    "countryar": "الدنمارك"
+  },
+  "cska sofia": {
+    "en": "CSKA Sofia",
+    "ar": "سيسكا صوفيا",
+    "countryen": "Bulgaria",
+    "countryar": "بلغاريا"
   },
   "as monaco": {
     "en": "AS Monaco",
     "ar": "موناكو",
     "countryen": "France",
     "countryar": "فرنسا"
+  },
+  "riga": {
+    "en": "Riga",
+    "ar": "ريغا",
+    "countryen": "Latvia",
+    "countryar": "لاتفيا"
+  },
+  "kairat": {
+    "en": "Kairat",
+    "ar": "كايرات",
+    "countryen": "Kazakhstan",
+    "countryar": "كازاخستان"
+  },
+  "lugano": {
+    "en": "Lugano",
+    "ar": "لوغانو",
+    "countryen": "Switzerland",
+    "countryar": "سويسرا"
+  },
+  "red star belgrade": {
+    "en": "Red Star Belgrade",
+    "ar": "النجم الأحمر",
+    "countryen": "Serbia",
+    "countryar": "صربيا"
+  },
+  "ku ps": {
+    "en": "KuPS",
+    "ar": "كوبيون",
+    "countryen": "Finland",
+    "countryar": "فنلندا"
+  },
+  "trabzonspor": {
+    "en": "Trabzonspor",
+    "ar": "طرابزون سبور",
+    "countryen": "Turkey",
+    "countryar": "تركيا"
+  },
+  "hajduk split": {
+    "en": "Hajduk Split",
+    "ar": "هايدوك سبليت",
+    "countryen": "Croatia",
+    "countryar": "كرواتيا"
+  },
+  "ajax": {
+    "en": "Ajax",
+    "ar": "أياكس",
+    "countryen": "Netherlands",
+    "countryar": "هولندا"
+  },
+  "panathinaikos": {
+    "en": "Panathinaikos",
+    "ar": "باناثينايكوس",
+    "countryen": "Greece",
+    "countryar": "اليونان"
+  },
+  "borac banja luka": {
+    "en": "Borac Banja Luka",
+    "ar": "بوراك بانيا لوكا",
+    "countryen": "Bosnia and Herzegovina",
+    "countryar": "البوسنة والهرسك"
+  },
+  "copenhagen": {
+    "en": "Copenhagen",
+    "ar": "كوبنهاغن",
+    "countryen": "Denmark",
+    "countryar": "الدنمارك"
+  },
+  "braga": {
+    "en": "Braga",
+    "ar": "براغا",
+    "countryen": "Portugal",
+    "countryar": "البرتغال"
+  },
+  "hearts": {
+    "en": "Hearts",
+    "ar": "هارتس",
+    "countryen": "Scotland",
+    "countryar": "إسكتلندا"
+  },
+  "nordsjaelland": {
+    "en": "Nordsjælland",
+    "ar": "نوردشيلاند",
+    "countryen": "Denmark",
+    "countryar": "الدنمارك"
+  },
+  "brann": {
+    "en": "Brann",
+    "ar": "بران",
+    "countryen": "Norway",
+    "countryar": "النرويج"
+  },
+  "lincoln red imps": {
+    "en": "Lincoln Red Imps",
+    "ar": "لينكون ريد إيمبس",
+    "countryen": "Gibraltar",
+    "countryar": "جبل طارق"
+  },
+  "twente": {
+    "en": "Twente",
+    "ar": "تفينتي",
+    "countryen": "Netherlands",
+    "countryar": "هولندا"
+  },
+  "thun": {
+    "en": "Thun",
+    "ar": "ثون",
+    "countryen": "Switzerland",
+    "countryar": "سويسرا"
+  },
+  "atalanta": {
+    "en": "Atalanta",
+    "ar": "أتالانتا",
+    "countryen": "Italy",
+    "countryar": "إيطاليا"
+  },
+  "pafos": {
+    "en": "Pafos",
+    "ar": "بافوس",
+    "countryen": "Cyprus",
+    "countryar": "قبرص"
+  },
+  "freiburg": {
+    "en": "Freiburg",
+    "ar": "فرايبورغ",
+    "countryen": "Germany",
+    "countryar": "ألمانيا"
+  },
+  "jablonec": {
+    "en": "Jablonec",
+    "ar": "يابلونيتش",
+    "countryen": "Czech Republic",
+    "countryar": "التشيك"
+  },
+  "brighton": {
+    "en": "Brighton",
+    "ar": "برايتون",
+    "countryen": "England",
+    "countryar": "إنجلترا"
+  },
+  "kauno zalgiris": {
+    "en": "Kauno Žalgiris",
+    "ar": "كاونو زالجيريس",
+    "countryen": "Lithuania",
+    "countryar": "ليتوانيا"
+  },
+  "fluminense": {
+    "en": "Fluminense",
+    "ar": "فلومينينسي",
+    "countryen": "Brazil",
+    "countryar": "البرازيل"
+  },
+  "palmeiras": {
+    "en": "Palmeiras",
+    "ar": "بالميراس",
+    "countryen": "Brazil",
+    "countryar": "البرازيل"
   },
   "rb salzburg": {
     "en": "Red Bull Salzburg",
@@ -29,12 +430,6 @@
     "ar": "15 أغسطس",
     "countryen": "Equatorial Guinea",
     "countryar": "غينيا الاستوائية"
-  },
-  "aarhus": {
-    "en": "Aarhus",
-    "ar": "آرهوس",
-    "countryen": "Denmark",
-    "countryar": "الدنمارك"
   },
   "adalquiles": {
     "en": "Alajuelense",
@@ -77,12 +472,6 @@
     "ar": "إيغلز دو كونغو",
     "countryen": "DR Congo",
     "countryar": "الكونغو الديمقراطية"
-  },
-  "ajax": {
-    "en": "Ajax",
-    "ar": "أياكس",
-    "countryen": "Netherlands",
-    "countryar": "هولندا"
   },
   "al ahly": {
     "en": "Al Ahly",
@@ -132,23 +521,11 @@
     "countryen": "Colombia",
     "countryar": "كولومبيا"
   },
-  "anderlecht": {
-    "en": "Anderlecht",
-    "ar": "أنديرلخت",
-    "countryen": "Belgium",
-    "countryar": "بلجيكا"
-  },
   "apr": {
     "en": "APR",
     "ar": "الجيش الوطني الرواندي",
     "countryen": "Rwanda",
     "countryar": "رواندا"
-  },
-  "ararat armenia": {
-    "en": "Ararat-Armenia",
-    "ar": "آرارات أرمينيا",
-    "countryen": "Armenia",
-    "countryar": "أرمينيا"
   },
   "arsenal": {
     "en": "Arsenal",
@@ -222,12 +599,6 @@
     "countryen": "Benin",
     "countryar": "بنين"
   },
-  "atalanta": {
-    "en": "Atalanta",
-    "ar": "أتالانتا",
-    "countryen": "Italy",
-    "countryar": "إيطاليا"
-  },
   "atomic ngome": {
     "en": "Atomic Ngomé",
     "ar": "أتوميك نجومي",
@@ -264,12 +635,6 @@
     "countryen": "Tanzania",
     "countryar": "تنزانيا"
   },
-  "az alkmaar": {
-    "en": "AZ Alkmaar",
-    "ar": "آز ألكمار",
-    "countryen": "Netherlands",
-    "countryar": "هولندا"
-  },
   "barcelona": {
     "en": "Barcelona",
     "ar": "برشلونة",
@@ -287,18 +652,6 @@
     "ar": "بايرن ميونخ",
     "countryen": "Germany",
     "countryar": "ألمانيا"
-  },
-  "benfica": {
-    "en": "Benfica",
-    "ar": "بنفيكا",
-    "countryen": "Portugal",
-    "countryar": "البرتغال"
-  },
-  "besiktas": {
-    "en": "Beşiktaş",
-    "ar": "بشكتاش",
-    "countryen": "Turkey",
-    "countryar": "تركيا"
   },
   "black bulls": {
     "en": "Black Bulls",
@@ -330,12 +683,6 @@
     "countryen": "Bosnia and Herzegovina",
     "countryar": "البوسنة والهرسك"
   },
-  "bournemouth": {
-    "en": "Bournemouth",
-    "ar": "بورنموث",
-    "countryen": "England",
-    "countryar": "إنجلترا"
-  },
   "botafogo": {
     "en": "Botafogo",
     "ar": "بوتافوغو",
@@ -347,24 +694,6 @@
     "ar": "ريد بول براغانتينو",
     "countryen": "Brazil",
     "countryar": "البرازيل"
-  },
-  "braga": {
-    "en": "Braga",
-    "ar": "براغا",
-    "countryen": "Portugal",
-    "countryar": "البرتغال"
-  },
-  "brann": {
-    "en": "Brann",
-    "ar": "بران",
-    "countryen": "Norway",
-    "countryar": "النرويج"
-  },
-  "brighton": {
-    "en": "Brighton",
-    "ar": "برايتون",
-    "countryen": "England",
-    "countryar": "إنجلترا"
   },
   "borussia dortmund": {
     "en": "Borussia Dortmund",
@@ -389,18 +718,6 @@
     "ar": "سيلتا فيغو",
     "countryen": "Spain",
     "countryar": "إسبانيا"
-  },
-  "celtic": {
-    "en": "Celtic",
-    "ar": "سلتيك",
-    "countryen": "Scotland",
-    "countryar": "اسكتلندا"
-  },
-  "celje": {
-    "en": "Celje",
-    "ar": "تسليي",
-    "countryen": "Slovenia",
-    "countryar": "سلوفينيا"
   },
   "cerro porteno": {
     "en": "Cerro Porteño",
@@ -450,12 +767,6 @@
     "countryen": "Italy",
     "countryar": "إيطاليا"
   },
-  "copenhagen": {
-    "en": "Copenhagen",
-    "ar": "كوبنهاغن",
-    "countryen": "Denmark",
-    "countryar": "الدنمارك"
-  },
   "coquimbo unido": {
     "en": "Coquimbo Unido",
     "ar": "كوكيمبو يونيدو",
@@ -473,12 +784,6 @@
     "ar": "شباب بلوزداد",
     "countryen": "Algeria",
     "countryar": "الجزائر"
-  },
-  "crystal palace": {
-    "en": "Crystal Palace",
-    "ar": "كريستال بالاس",
-    "countryen": "England",
-    "countryar": "إنجلترا"
   },
   "cruz azul": {
     "en": "Cruz Azul",
@@ -503,12 +808,6 @@
     "ar": "الصفاقسي",
     "countryen": "Tunisia",
     "countryar": "تونس"
-  },
-  "cska sofia": {
-    "en": "CSKA Sofia",
-    "ar": "سيسكا صوفيا",
-    "countryen": "Bulgaria",
-    "countryar": "بلغاريا"
   },
   "cusco": {
     "en": "Cusco FC",
@@ -546,12 +845,6 @@
     "countryen": "Mali",
     "countryar": "مالي"
   },
-  "dinamo zagreb": {
-    "en": "Dinamo Zagreb",
-    "ar": "دينامو زغرب",
-    "countryen": "Croatia",
-    "countryar": "كرواتيا"
-  },
   "djoliba": {
     "en": "Djoliba",
     "ar": "جوليبا",
@@ -575,12 +868,6 @@
     "ar": "إيست إند لايونز",
     "countryen": "Sierra Leone",
     "countryar": "سيراليون"
-  },
-  "egnatia": {
-    "en": "Egnatia",
-    "ar": "إغناتيا",
-    "countryen": "Albania",
-    "countryar": "ألبانيا"
   },
   "el kanemi warriors": {
     "en": "El-Kanemi Warriors",
@@ -624,12 +911,6 @@
     "countryen": "Turkey",
     "countryar": "تركيا"
   },
-  "ferencvaros": {
-    "en": "Ferencváros",
-    "ar": "فيرينتسفاروش",
-    "countryen": "Hungary",
-    "countryar": "المجر"
-  },
   "feyenoord": {
     "en": "Feyenoord",
     "ar": "فينورد",
@@ -639,12 +920,6 @@
   "flamengo": {
     "en": "Flamengo",
     "ar": "فلامنغو",
-    "countryen": "Brazil",
-    "countryar": "البرازيل"
-  },
-  "fluminense": {
-    "en": "Fluminense",
-    "ar": "فلومينينسي",
     "countryen": "Brazil",
     "countryar": "البرازيل"
   },
@@ -666,12 +941,6 @@
     "countryen": "Canada",
     "countryar": "كندا"
   },
-  "freiburg": {
-    "en": "Freiburg",
-    "ar": "فرايبورغ",
-    "countryen": "Germany",
-    "countryar": "ألمانيا"
-  },
   "gaborone united": {
     "en": "Gaborone United",
     "ar": "جابورون يونايتد",
@@ -683,18 +952,6 @@
     "ar": "غلطة سراي",
     "countryen": "Turkey",
     "countryar": "تركيا"
-  },
-  "gent": {
-    "en": "Gent",
-    "ar": "جينت",
-    "countryen": "Belgium",
-    "countryar": "بلجيكا"
-  },
-  "getafe": {
-    "en": "Getafe",
-    "ar": "خيتافي",
-    "countryen": "Spain",
-    "countryar": "إسبانيا"
   },
   "gor mahia": {
     "en": "Gor Mahia",
@@ -720,23 +977,11 @@
     "countryen": "Guinea",
     "countryar": "غينيا"
   },
-  "hajduk split": {
-    "en": "Hajduk Split",
-    "ar": "هايدوك سبليت",
-    "countryen": "Croatia",
-    "countryar": "كرواتيا"
-  },
   "hapoel beer sheva": {
     "en": "Hapoel Beer Sheva",
     "ar": "هبوعيل بئر السبع",
     "countryen": "Israel",
     "countryar": "إسرائيل"
-  },
-  "hearts": {
-    "en": "Hearts",
-    "ar": "هارتس",
-    "countryen": "Scotland",
-    "countryar": "اسكتلندا"
   },
   "heegan": {
     "en": "Heegan",
@@ -749,12 +994,6 @@
     "ar": "هلال الساحل",
     "countryen": "Sudan",
     "countryar": "السودان"
-  },
-  "hoffenheim": {
-    "en": "Hoffenheim",
-    "ar": "هوفنهايم",
-    "countryen": "Germany",
-    "countryar": "ألمانيا"
   },
   "horoya": {
     "en": "Horoya",
@@ -804,29 +1043,11 @@
     "countryen": "USA",
     "countryar": "الولايات المتحدة"
   },
-  "jablonec": {
-    "en": "Jablonec",
-    "ar": "يابلونك",
-    "countryen": "Czechia",
-    "countryar": "التشيك"
-  },
-  "jagiellonia": {
-    "en": "Jagiellonia",
-    "ar": "ياغيلونيا",
-    "countryen": "Poland",
-    "countryar": "بولندا"
-  },
   "js saoura": {
     "en": "JS Saoura",
     "ar": "شبيبة الساورة",
     "countryen": "Algeria",
     "countryar": "الجزائر"
-  },
-  "juventus": {
-    "en": "Juventus",
-    "ar": "يوفنتوس",
-    "countryen": "Italy",
-    "countryar": "إيطاليا"
   },
   "jwaneng galaxy": {
     "en": "Jwaneng Galaxy",
@@ -851,12 +1072,6 @@
     "ar": "كايرات ألماتي",
     "countryen": "Kazakhstan",
     "countryar": "كازاخستان"
-  },
-  "kauno zalgiris": {
-    "en": "Kauno Žalgiris",
-    "ar": "كاونو زالغيريس",
-    "countryen": "Lithuania",
-    "countryar": "ليتوانيا"
   },
   "kitara": {
     "en": "Kitara",
@@ -912,12 +1127,6 @@
     "countryen": "Ecuador",
     "countryar": "الإكوادور"
   },
-  "lech poznan": {
-    "en": "Lech Poznań",
-    "ar": "ليخ بوزنان",
-    "countryen": "Poland",
-    "countryar": "بولندا"
-  },
   "lens": {
     "en": "Lens",
     "ar": "لانس",
@@ -929,12 +1138,6 @@
     "ar": "باير ليفركوزن",
     "countryen": "Germany",
     "countryar": "ألمانيا"
-  },
-  "levski sofia": {
-    "en": "Levski Sofia",
-    "ar": "ليفسكي صوفيا",
-    "countryen": "Bulgaria",
-    "countryar": "بلغاريا"
   },
   "lijabatho": {
     "en": "Lijabatho",
@@ -948,18 +1151,6 @@
     "countryen": "France",
     "countryar": "فرنسا"
   },
-  "lillestrom": {
-    "en": "Lillestrøm",
-    "ar": "ليلستروم",
-    "countryen": "Norway",
-    "countryar": "النرويج"
-  },
-  "lincoln red imps": {
-    "en": "Lincoln Red Imps",
-    "ar": "لينكولن ريد إمبس",
-    "countryen": "Gibraltar",
-    "countryar": "جبل طارق"
-  },
   "liverpool": {
     "en": "Liverpool",
     "ar": "ليفربول",
@@ -971,12 +1162,6 @@
     "ar": "لوس أنجلوس إف سي",
     "countryen": "USA",
     "countryar": "الولايات المتحدة"
-  },
-  "lugano": {
-    "en": "Lugano",
-    "ar": "لوغانو",
-    "countryen": "Switzerland",
-    "countryar": "سويسرا"
   },
   "lyon": {
     "en": "Lyon",
@@ -1020,12 +1205,6 @@
     "countryen": "DR Congo",
     "countryar": "الكونغو الديمقراطية"
   },
-  "marseille": {
-    "en": "Marseille",
-    "ar": "مارسيليا",
-    "countryen": "France",
-    "countryar": "فرنسا"
-  },
   "mas fes": {
     "en": "MAS Fès",
     "ar": "المغرب الفاسي",
@@ -1050,23 +1229,11 @@
     "countryen": "Gambia",
     "countryar": "غامبيا"
   },
-  "midtjylland": {
-    "en": "Midtjylland",
-    "ar": "ميدتييلاند",
-    "countryen": "Denmark",
-    "countryar": "الدنمارك"
-  },
   "mighty wanderers": {
     "en": "Mighty Wanderers",
     "ar": "مايتي واندررز",
     "countryen": "Malawi",
     "countryar": "مالاوي"
-  },
-  "milan": {
-    "en": "AC Milan",
-    "ar": "ميلان",
-    "countryen": "Italy",
-    "countryar": "إيطاليا"
   },
   "millonarios": {
     "en": "Millonarios",
@@ -1146,12 +1313,6 @@
     "countryen": "Netherlands",
     "countryar": "هولندا"
   },
-  "nordsjaelland": {
-    "en": "Nordsjælland",
-    "ar": "نوردشيلاند",
-    "countryen": "Denmark",
-    "countryar": "الدنمارك"
-  },
   "nouadhibou": {
     "en": "FC Nouadhibou",
     "ar": "نواذيبو",
@@ -1163,12 +1324,6 @@
     "ar": "نسينجيزيني هوتسبورز",
     "countryen": "Eswatini",
     "countryar": "إسواتيني"
-  },
-  "ofi crete": {
-    "en": "OFI Crete",
-    "ar": "أو إف آي كريت",
-    "countryen": "Greece",
-    "countryar": "اليونان"
   },
   "olimpia": {
     "en": "Olimpia",
@@ -1182,47 +1337,17 @@
     "countryen": "Honduras",
     "countryar": "هندوراس"
   },
-  "olympiacos": {
-    "en": "Olympiacos",
-    "ar": "أولمبياكوس",
-    "countryen": "Greece",
-    "countryar": "اليونان"
-  },
   "om fc": {
     "en": "O&M FC",
     "ar": "أو آند إم",
     "countryen": "Dominican Republic",
     "countryar": "جمهورية الدومينيكان"
   },
-  "omonia": {
-    "en": "Omonia",
-    "ar": "أومونيا",
-    "countryen": "Cyprus",
-    "countryar": "قبرص"
-  },
   "orlando pirates": {
     "en": "Orlando Pirates",
     "ar": "أورلاندو بايرتس",
     "countryen": "South Africa",
     "countryar": "جنوب أفريقيا"
-  },
-  "pafos": {
-    "en": "Pafos",
-    "ar": "بافوس",
-    "countryen": "Cyprus",
-    "countryar": "قبرص"
-  },
-  "palmeiras": {
-    "en": "Palmeiras",
-    "ar": "بالميراس",
-    "countryen": "Brazil",
-    "countryar": "البرازيل"
-  },
-  "panathinaikos": {
-    "en": "Panathinaikos",
-    "ar": "باناثينايكوس",
-    "countryen": "Greece",
-    "countryar": "اليونان"
   },
   "panthere sportive": {
     "en": "Panthère Sportive",
@@ -1368,29 +1493,11 @@
     "countryen": "Spain",
     "countryar": "إسبانيا"
   },
-  "real sociedad": {
-    "en": "Real Sociedad",
-    "ar": "ريال سوسيداد",
-    "countryen": "Spain",
-    "countryar": "إسبانيا"
-  },
   "red arrows": {
     "en": "Red Arrows",
     "ar": "ريد أروز",
     "countryen": "Zambia",
     "countryar": "زامبيا"
-  },
-  "rennes": {
-    "en": "Rennes",
-    "ar": "رين",
-    "countryen": "France",
-    "countryar": "فرنسا"
-  },
-  "riga": {
-    "en": "Riga",
-    "ar": "ريغا",
-    "countryen": "Latvia",
-    "countryar": "لاتفيا"
   },
   "rivers united": {
     "en": "Rivers United",
@@ -1542,12 +1649,6 @@
     "countryen": "Ukraine",
     "countryar": "أوكرانيا"
   },
-  "sparta prague": {
-    "en": "Sparta Prague",
-    "ar": "سبارتا براغ",
-    "countryen": "Czechia",
-    "countryar": "التشيك"
-  },
   "sporting cristal": {
     "en": "Sporting Cristal",
     "ar": "سبورتنج كريستال",
@@ -1584,18 +1685,6 @@
     "countryen": "Germany",
     "countryar": "ألمانيا"
   },
-  "sturm graz": {
-    "en": "Sturm Graz",
-    "ar": "شتورم غراتس",
-    "countryen": "Austria",
-    "countryar": "النمسا"
-  },
-  "sunderland": {
-    "en": "Sunderland",
-    "ar": "سندرلاند",
-    "countryen": "England",
-    "countryar": "إنجلترا"
-  },
   "swehly": {
     "en": "Swehly",
     "ar": "السويحلي",
@@ -1613,12 +1702,6 @@
     "ar": "ذا بانثرز",
     "countryen": "Equatorial Guinea",
     "countryar": "غينيا الاستوائية"
-  },
-  "thun": {
-    "en": "Thun",
-    "ar": "ثون",
-    "countryen": "Switzerland",
-    "countryar": "سويسرا"
   },
   "tigre": {
     "en": "Tigre",
@@ -1650,23 +1733,11 @@
     "countryen": "DR Congo",
     "countryar": "الكونغو الديمقراطية"
   },
-  "trabzonspor": {
-    "en": "Trabzonspor",
-    "ar": "طرابزون سبور",
-    "countryen": "Turkey",
-    "countryar": "تركيا"
-  },
   "tusker": {
     "en": "Tusker",
     "ar": "توسكر",
     "countryen": "Kenya",
     "countryar": "كينيا"
-  },
-  "twente": {
-    "en": "Twente",
-    "ar": "توينتي",
-    "countryen": "Netherlands",
-    "countryar": "هولندا"
   },
   "ud internacional": {
     "en": "UD Internacional",
@@ -1727,12 +1798,6 @@
     "ar": "فاسكو دا غاما",
     "countryen": "Brazil",
     "countryar": "البرازيل"
-  },
-  "viktoria plzen": {
-    "en": "Viktoria Plzeň",
-    "ar": "فيكتوريابلزن",
-    "countryen": "Czechia",
-    "countryar": "التشيك"
   },
   "viking": {
     "en": "Viking",
@@ -1800,4 +1865,4 @@
     "countryen": "Egypt",
     "countryar": "مصر"
   }
-}
+  }
