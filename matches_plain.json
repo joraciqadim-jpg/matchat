@@ -106,8 +106,8 @@
     {
       "tournamentEn": "🛡️ UEFA Europa League",
       "tournamentAr": "🛡️ الدوري الأوروبي",
-      "matchEn": "Bournemouth (England) v Sturm Graz (Europe)",
-      "matchAr": "بورنموث (إنجلترا) × شتورم غراتس (أوروبا)",
+      "matchEn": "Bournemouth (England) v Sturm Graz (Austria)",
+      "matchAr": "بورنموث (إنجلترا) × شتورم غراتس (النمسا)",
       "time": "19:00",
       "channels": [
         "📺 DAZN 4 POR [Hispasat 30W 12399 H 27500]",
@@ -287,8 +287,8 @@
     {
       "tournamentEn": "🛡️ Europe Uefa Europa Conference League",
       "tournamentAr": "🛡️ Europe Uefa Europa Conference League",
-      "matchEn": "Brighton (England) v Kauno Žalgiris (Europe)",
-      "matchAr": "برايتون (إنجلترا) × كاونو زالجيريس (أوروبا)",
+      "matchEn": "Brighton (England) v Kauno Žalgiris (Lithuania)",
+      "matchAr": "برايتون (إنجلترا) × كاونو زالجيريس (ليتوانيا)",
       "time": "19:00",
       "channels": [
         "📺 Bein Sport 7 [Nilesat 7.0W 12188 H 27500]",
@@ -304,13 +304,63 @@
     {
       "tournamentEn": "🛡️ Europe Uefa Europa Conference League",
       "tournamentAr": "🛡️ Europe Uefa Europa Conference League",
-      "matchEn": "Hearts (Scotland) v Nordsjælland (Europe)",
-      "matchAr": "هارتس (اسكتلندا) × نوردشيلاند (أوروبا)",
+      "matchEn": "Hearts (Scotland) v Nordsjælland (Denmark)",
+      "matchAr": "هارتس (اسكتلندا) × نوردشيلاند (الدنمارك)",
       "time": "19:00",
       "channels": [
         "📺 BeIn Sports Xtra 9 [Nilesat 7.0W 12604 H 27500]",
         "📺 BeIn Sports Xtra 9 [Badrsat 26.0E 10850 H 27500]",
         "📺 TNT Sports 4 [Astra 28.2E 11582 H 23000]"
+      ]
+    },
+    {
+      "tournamentEn": "🇸🇦 Saudi Pro League",
+      "tournamentAr": "🇸🇦 الدوري السعودي للمحترفين",
+      "matchEn": "Al Faisaly v Al-Kholood",
+      "matchAr": "الفيصلي × الخلود",
+      "time": "13:40",
+      "channels": [
+        "📺 Thmanyah 1 [Badrsat 26.0E 11919 H 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "🇸🇦 Saudi Pro League",
+      "tournamentAr": "🇸🇦 الدوري السعودي للمحترفين",
+      "matchEn": "Al-Khaleej v Al-Fayha",
+      "matchAr": "الخليج × الفيحاء",
+      "time": "14:50",
+      "channels": [
+        "📺 Thmanyah 3 [Badrsat 26.0E 11919 H 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "🇸🇦 Saudi Pro League",
+      "tournamentAr": "🇸🇦 الدوري السعودي للمحترفين",
+      "matchEn": "Al-Hazem v Al-Fateh",
+      "matchAr": "الحزم × الفتح",
+      "time": "15:15",
+      "channels": [
+        "📺 Thmanyah 2 [Badrsat 26.0E 11919 H 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "🇸🇦 Saudi Pro League",
+      "tournamentAr": "🇸🇦 الدوري السعودي للمحترفين",
+      "matchEn": "Al-Ahli v Al-Nassr",
+      "matchAr": "الأهلي × النصر",
+      "time": "18:00",
+      "channels": [
+        "📺 Sport TV 1 [Hispasat 30W 12360 H 27500]",
+        "📺 On Sport 1 [Nilesat 7.0W 11862 V 27500]",
+        "📺 Spiler TV 1 [Thor 0.8W 12130 H 28000]",
+        "📺 Sportitalia HD [Eutelsat 9.0E 12341 V 31400]",
+        "📺 Sport Klub 3 HRV [Eutelsat 16.0E 11387 H 32000]",
+        "📺 Super Sport 6 [Eutelsat 16.0E 10804 H 29950]",
+        "📺 DAZN 1 GER [Astra 19.2E 12382 H 27500]",
+        "📺 Sportdigital Fussball [Astra 19.2E 11186 V 22000]",
+        "📺 ESPN South Africa [Eutelsat 36.0E 12476 H 27500]",
+        "📺 Sporty TV [Eutelsat 36.0E 12265 V 27500]",
+        "📺 Meraj TV [Turkmenlem 52.0E 11221 V 27500]"
       ]
     }
   ]
