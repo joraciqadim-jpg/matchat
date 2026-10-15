@@ -492,8 +492,8 @@
       "matchEn": "Los Angeles Galaxy v Portland Timbers",
       "matchAr": "لوس أنجلوس غالاكسي × بورتلاند تيمبرز",
       "rawIsoTime": "2026-10-15T02:30:00Z",
-      "time": "2 - 0 (live)",
-      "isLive": true
+      "time": "2 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇺🇸 USA MLS",
@@ -501,8 +501,8 @@
       "matchEn": "Los Angeles v Austin",
       "matchAr": "لوس أنجلوس × أوستن",
       "rawIsoTime": "2026-10-15T02:30:00Z",
-      "time": "3 - 1 (live)",
-      "isLive": true
+      "time": "3 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇺🇸 USA MLS",
@@ -510,7 +510,7 @@
       "matchEn": "San Diego v Houston Dynamo",
       "matchAr": "سان دييغو × هيوستن دينامو",
       "rawIsoTime": "2026-10-15T02:30:00Z",
-      "time": "2 - 3 (live)",
+      "time": "3 - 3 (live)",
       "isLive": true
     },
     {
