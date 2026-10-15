@@ -1,3 +1,9 @@
+"as monaco": {
+  "en": "AS Monaco",
+  "ar": "موناكو",
+  "countryen": "France",
+  "countryar": "فرنسا"
+}
 {
   "rb salzburg": {
     "en": "Red Bull Salzburg",
@@ -8,8 +14,8 @@
   "as monaco": {
     "en": "AS Monaco",
     "ar": "موناكو",
-    "countryen": "Monaco",
-    "countryar": "موناكو"
+    "countryen": "France",
+    "countryar": "فرنسا"
   },
   "hajduk": {
     "en": "Hajduk Split",
