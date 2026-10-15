@@ -117,7 +117,7 @@
   },
   "jordanian pro league": {
     "en": "Jordanian Pro League",
-    "ar": "الدوري الأردني"
+    "ar": "الدوري الأردني للمحترفين"
   },
   "alwehdat": {
     "en": "Al-Wehdat",
@@ -1170,5 +1170,201 @@
   "gangwon fc": {
     "en": "Gangwon FC",
     "ar": "جانجون"
+  },
+  "alfaisaly saudi arabia": {
+    "en": "Al-Faisaly (Saudi Arabia)",
+    "ar": "الفيصلي السعودي"
+  },
+  "saudi roshn league": {
+    "en": "Saudi Roshn League",
+    "ar": "دوري روشن السعودي"
+  },
+  "olympique lyon": {
+    "en": "Olympique Lyon",
+    "ar": "أولمبيك ليون"
+  },
+  "onyau torino": {
+    "en": "Onyau Torino",
+    "ar": "أونياو تورينسي"
+  },
+  "red bull salzburg": {
+    "en": "Red Bull Salzburg",
+    "ar": "ريد بول سالزبورغ"
+  },
+  "lkh boznan": {
+    "en": "LKH Boznan",
+    "ar": "لخ بوزنان"
+  },
+  "silge": {
+    "en": "Silge",
+    "ar": "سيلج"
+  },
+  "frankfaruzi": {
+    "en": "Frankfaruzi",
+    "ar": "فرينكفاروزي"
+  },
+  "stade ren": {
+    "en": "Stade Ren",
+    "ar": "ستاد رين"
+  },
+  "nick nimegan": {
+    "en": "Nick Nimegan",
+    "ar": "نيك نيميغن"
+  },
+  "jagiellonia bialystok": {
+    "en": "Jagiellonia Bialystok",
+    "ar": "جاجيلونيا بياليستوك"
+  },
+  "ararat armenia": {
+    "en": "Ararat Armenia",
+    "ar": "آرارات أرمينيا"
+  },
+  "bontigemir sturm graz": {
+    "en": "Bontigemir Sturm Graz",
+    "ar": "بونتيجامير شتورم جراتس"
+  },
+  "aarau gymnastik forening": {
+    "en": "Aarau Gymnastik Forening",
+    "ar": "آرهوس جمناستيك فورينينغ"
+  },
+  "ignatia rogoziti": {
+    "en": "Ignatia Rogoziti",
+    "ar": "إغناتيا روجوزيتي"
+  },
+  "midtland": {
+    "en": "Midtland",
+    "ar": "ميدتييلاند"
+  },
+  "cska sofia": {
+    "en": "CSKA Sofia",
+    "ar": "سسكا صوفيا"
+  },
+  "kirat": {
+    "en": "Kirat",
+    "ar": "كيرات"
+  },
+  "lugano": {
+    "en": "Lugano",
+    "ar": "لوجانو"
+  },
+  "servina zvezda": {
+    "en": "Servina Zvezda",
+    "ar": "سرفينا زفيزدا"
+  },
+  "cobhion": {
+    "en": "Cobhion",
+    "ar": "كوبيون"
+  },
+  "panathinaikos": {
+    "en": "Panathinaikos",
+    "ar": "باناثينياكوس"
+  },
+  "mialbi aif": {
+    "en": "Mialbi AIF",
+    "ar": "ميالبي ايه أي إف"
+  },
+  "inter club de escaldes": {
+    "en": "Inter Club de Escaldes",
+    "ar": "انتر كلوب دي اسكالدس"
+  },
+  "saint troyden": {
+    "en": "Saint Troyden",
+    "ar": "سانت ترويدن"
+  },
+  "sk aiberia 1999": {
+    "en": "SK Aiberia 1999",
+    "ar": "إس كيه أيبيريا 1999"
+  },
+  "hearts of mediterranean": {
+    "en": "Hearts of Mediterranean",
+    "ar": "هارتس أوف ميدلوثيان"
+  },
+  "fk yablonets": {
+    "en": "FK Yablonets",
+    "ar": "اف كيه يابلونيتش"
+  },
+  "jangon": {
+    "en": "Jangon",
+    "ar": "جانجون"
+  },
+  "fenomen bine crown": {
+    "en": "Fenomen Bine Crown",
+    "ar": "فنوم بينه كراون"
+  },
+  "leon city sailors": {
+    "en": "Leon City Sailors",
+    "ar": "ليون سيتي سايلرز"
+  },
+  "bg bathom united": {
+    "en": "BG Bathom United",
+    "ar": "بي جي باثوم يونايتد"
+  },
+  "tambinez rovers": {
+    "en": "Tambinez Rovers",
+    "ar": "تامبينيز روفرز"
+  },
+  "sway ring": {
+    "en": "Sway Ring",
+    "ar": "سواي رينغ"
+  },
+  "coaching city": {
+    "en": "Coaching City",
+    "ar": "كوتشينج سيتي"
+  },
+  "jordanian arab": {
+    "en": "Jordanian Arab",
+    "ar": "العربي الأردني"
+  },
+  "jordan youth": {
+    "en": "Jordan Youth",
+    "ar": "شباب الأردن"
+  },
+  "chemnassia labata": {
+    "en": "Chemnassia Labata",
+    "ar": "خيمناسيا لابلاتا"
+  },
+  "argentinian league": {
+    "en": "Argentinian League",
+    "ar": "الدوري الأرجنتيني"
+  },
+  "saint louis city": {
+    "en": "Saint Louis City",
+    "ar": "سانت لويس سيتي"
+  },
+  "nashville": {
+    "en": "Nashville",
+    "ar": "ناشفيل"
+  },
+  "albatnan sports": {
+    "en": "Al-Batnan Sports",
+    "ar": "البطنان الرياضي"
+  },
+  "ahli benghazi": {
+    "en": "Ahli Benghazi",
+    "ar": "أهلي بنغازي"
+  },
+  "altahaddi": {
+    "en": "Al-Tahaddi",
+    "ar": "التحدي"
+  },
+  "military union": {
+    "en": "Military Union",
+    "ar": "الاتحاد العسكري"
+  },
+  "new benghazi": {
+    "en": "New Benghazi",
+    "ar": "بنغازي الجديدة"
+  },
+  "european football qualifiers": {
+    "en": "European Under-17 Football Qualifiers",
+    "ar": "تصفيات أوروبا تحت 17 سنة لكرة القدم"
+  },
+  "alhilal sports": {
+    "en": "Al-Hilal Sports",
+    "ar": "الهلال الرياضي"
+  },
+  "syrian league": {
+    "en": "Syrian League",
+    "ar": "الدوري السوري"
   }
 }
