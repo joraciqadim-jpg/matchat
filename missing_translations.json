@@ -1,8 +1,27 @@
 {
- 
+  "rb salzburg": {
+    "en": "Red Bull Salzburg",
+    "ar": "ريد بول سالزبورغ"
+  },
+  "europe uefa europa conference league": {
+    "en": "UEFA Europa Conference League",
+    "ar": "دوري أوروبا للمؤتمرات"
+  },
+  "hajduk": {
+    "en": "Hajduk Split",
+    "ar": "هايدوك سبليت"
+  },
+  "u craiova": {
+    "en": "Universitatea Craiova",
+    "ar": "يونيفرسيتاتيا كرايوفا"
+  },
+  "pafos": {
+    "en": "Pafos",
+    "ar": "بافوس"
+  },
   "kauno algiris": {
     "en": "Kauno Žalgiris",
-    "ar": "كاونو زالغيريس"
+    "ar": "كاونو زالغيرس"
   },
   "malaga": {
     "en": "Málaga",
