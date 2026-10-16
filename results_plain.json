@@ -30,7 +30,7 @@
     {
       "tournamentEn": "🛡️ CAF Confederation Cup",
       "tournamentAr": "🛡️ كأس الكونفيدرالية الإفريقية",
-      "matchEn": "Adigrat University Wello (Ethiopia) v Al Ahly Tripoli (Libya)",
+      "matchEn": "Wolwalo Adigrat University (Ethiopia) v Al Ahly Tripoli (Libya)",
       "matchAr": "جامعة أديغرات ويلوالو (إثيوبيا) × الأهلي طرابلس (ليبيا)",
       "rawIsoTime": "2026-10-16T13:00:00Z",
       "time": "13:00",
@@ -66,7 +66,7 @@
     {
       "tournamentEn": "🇮🇹 Italian Serie A",
       "tournamentAr": "🇮🇹 الدوري الإيطالي",
-      "matchEn": "Frosinone Calcio v US Sassuolo",
+      "matchEn": "Frosinone v US Sassuolo",
       "matchAr": "فروسينونى × ساسولو",
       "rawIsoTime": "2026-10-16T18:45:00Z",
       "time": "18:45",
@@ -91,7 +91,7 @@
       "isLive": false
     },
     {
-      "tournamentEn": "🇬🇧 English EFL Championship",
+      "tournamentEn": "🇬🇧 English Football League Championship",
       "tournamentAr": "🇬🇧 الدوري الإنجليزي للدرجة الأولى (الشامبيونشيب)",
       "matchEn": "Burnley v Wolverhampton Wanderers",
       "matchAr": "بيرنلي × وولفرهامبتون",
@@ -120,7 +120,7 @@
     {
       "tournamentEn": "🇸🇦 Saudi Roshn Saudi League",
       "tournamentAr": "🇸🇦 دوري روشن السعودي",
-      "matchEn": "Al-Qadsiah v Abha Club",
+      "matchEn": "Al-Qadsiah Saudi Club v Abha Club",
       "matchAr": "القادسية السعودي × أبها",
       "rawIsoTime": "2026-10-16T13:15:00Z",
       "time": "13:15",
@@ -129,7 +129,7 @@
     {
       "tournamentEn": "🇶🇦 Qatari Stars League",
       "tournamentAr": "🇶🇦 دوري نجوم قطر",
-      "matchEn": "Al Ahli SC v Al-Wakrah SC",
+      "matchEn": "Al Ahli Qatar v Al-Wakrah SC",
       "matchAr": "الأهلي القطري × الوكرة",
       "rawIsoTime": "2026-10-16T14:30:00Z",
       "time": "14:30",
@@ -138,7 +138,7 @@
     {
       "tournamentEn": "🇶🇦 Qatari Stars League",
       "tournamentAr": "🇶🇦 دوري نجوم قطر",
-      "matchEn": "Al-Shahaniya SC v Al-Arabi SC",
+      "matchEn": "Al-Shahania SC v Al-Arabi SC",
       "matchAr": "الشحانية × العربي",
       "rawIsoTime": "2026-10-16T16:45:00Z",
       "time": "16:45",
@@ -147,23 +147,23 @@
     {
       "tournamentEn": "🛡️ CONMEBOL Libertadores",
       "tournamentAr": "🛡️ كوبا ليبرتادوريس",
-      "matchEn": "Estudiantes de La Plata v Flamengo",
-      "matchAr": "إستوديانتيس دي لا بلاتا × فلامينغو",
+      "matchEn": "Estudiantes de La Plata (Argentina) v Flamengo (Brazil)",
+      "matchAr": "إستوديانتيس دي لا بلاتا (الأرجنتين) × فلامينغو (البرازيل)",
       "rawIsoTime": "2026-10-16T00:30:00Z",
       "time": "0 - 0 (done)",
       "isLive": false
     },
     {
-      "tournamentEn": "🇯🇴 Jordanian Pro League",
+      "tournamentEn": "🇯🇴 Jordanian Professional League",
       "tournamentAr": "🇯🇴 الدوري الأردني للمحترفين",
-      "matchEn": "Daqra v Al-Jazeera",
+      "matchEn": "Dhoqra v Al-Jazeera Jordan",
       "matchAr": "دوقرة × الجزيرة الأردني",
       "rawIsoTime": "2026-10-16T14:00:00Z",
       "time": "14:00",
       "isLive": false
     },
     {
-      "tournamentEn": "🇯🇴 Jordanian Pro League",
+      "tournamentEn": "🇯🇴 Jordanian Professional League",
       "tournamentAr": "🇯🇴 الدوري الأردني للمحترفين",
       "matchEn": "Al-Baqa'a v Al-Salt",
       "matchAr": "البقعة × السلط",
@@ -253,7 +253,7 @@
       "isLive": false
     },
     {
-      "tournamentEn": "🏆 Gulf Under-17 Cup",
+      "tournamentEn": "🏆 Gulf U-17 Cup",
       "tournamentAr": "🏆 كأس الخليج تحت 17 سنة",
       "matchEn": "Qatar v China",
       "matchAr": "قطر × الصين عاما",
@@ -262,7 +262,7 @@
       "isLive": false
     },
     {
-      "tournamentEn": "🏆 Gulf Under-17 Cup",
+      "tournamentEn": "🏆 Gulf U-17 Cup",
       "tournamentAr": "🏆 كأس الخليج تحت 17 سنة",
       "matchEn": "United Arab Emirates v Bahrain",
       "matchAr": "الإمارات × البحرين",
@@ -299,7 +299,7 @@
     },
     {
       "tournamentEn": "🏆 Africa U-20 Cup of Nations Qualifiers",
-      "tournamentAr": "🏆 تصفيات أمم إفريقيا",
+      "tournamentAr": "🏆 تصفيات أمم إفريقيا تحت 20 سنة",
       "matchEn": "Senegal v Mauritania",
       "matchAr": "السنغال × موريتانيا",
       "rawIsoTime": "2026-10-16T16:00:00Z",
@@ -308,7 +308,7 @@
     },
     {
       "tournamentEn": "🏆 Africa U-20 Cup of Nations Qualifiers",
-      "tournamentAr": "🏆 تصفيات أمم إفريقيا",
+      "tournamentAr": "🏆 تصفيات أمم إفريقيا تحت 20 سنة",
       "matchEn": "Sierra Leone v Guinea-Bissau",
       "matchAr": "سيراليون × غينيل بيساو",
       "rawIsoTime": "2026-10-16T19:00:00Z",
@@ -363,7 +363,7 @@
     {
       "tournamentEn": "🇧🇭 Bahraini League",
       "tournamentAr": "🇧🇭 الدوري البحريني",
-      "matchEn": "Al-Ettifaq v Manama Club",
+      "matchEn": "Al-Ettifaq v Manama",
       "matchAr": "الاتفاق × المنامة",
       "rawIsoTime": "2026-10-16T16:00:00Z",
       "time": "16:00",
@@ -379,8 +379,8 @@
       "isLive": false
     },
     {
-      "tournamentEn": "🛡️ UEFA European Under-17 Championship Qualifiers",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكرة القدم",
+      "tournamentEn": "🛡️ UEFA European Under-17 Championship qualification",
+      "tournamentAr": "🛡️ تصفيات أوروبا تحت 17 سنة لكرة القدم",
       "matchEn": "Belarus v Slovenia",
       "matchAr": "روسيا البيضاء × سلوفينيا",
       "rawIsoTime": "2026-10-16T10:00:00Z",
@@ -388,9 +388,9 @@
       "isLive": false
     },
     {
-      "tournamentEn": "🛡️ UEFA European Under-17 Championship Qualifiers",
-      "tournamentAr": "🛡️ تصفيات أوروبا لكرة القدم",
-      "matchEn": "Czech Republic v Moldova",
+      "tournamentEn": "🛡️ UEFA European Under-17 Championship qualification",
+      "tournamentAr": "🛡️ تصفيات أوروبا تحت 17 سنة لكرة القدم",
+      "matchEn": "Czech Republic General v Moldova",
       "matchAr": "جمهورية التشيك عاما × مولدوفا",
       "rawIsoTime": "2026-10-16T10:00:00Z",
       "time": "10:00",
@@ -408,7 +408,7 @@
     {
       "tournamentEn": "🇸🇾 Syrian Premier League",
       "tournamentAr": "🇸🇾 الدوري السوري",
-      "matchEn": "Al-Karamah v Al-Nawaeir",
+      "matchEn": "Syrian Al-Karamah v Al-Nawaeir",
       "matchAr": "الكرامة × النواعير",
       "rawIsoTime": "2026-10-16T12:00:00Z",
       "time": "12:00",
