@@ -6,7 +6,7 @@
       "matchEn": "Al-Merrikh (Sudan) v Pyramids FC (Egypt)",
       "matchAr": "المريخ (السودان) × بيراميدز (مصر)",
       "rawIsoTime": "2026-10-16T13:00:00Z",
-      "time": "13:00",
+      "time": "0 - 1 (done)",
       "isLive": false
     },
     {
@@ -267,8 +267,8 @@
       "matchEn": "Qatar v China",
       "matchAr": "قطر × الصين",
       "rawIsoTime": "2026-10-16T14:45:00Z",
-      "time": "14:45",
-      "isLive": false
+      "time": "0 - 1 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏆 Gulf U-17 Cup",
