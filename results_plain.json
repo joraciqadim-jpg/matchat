@@ -177,7 +177,7 @@
       "matchEn": "Daqra v Al-Jazeera SC",
       "matchAr": "دوقرة × الجزيرة الأردني",
       "rawIsoTime": "2026-10-16T14:00:00Z",
-      "time": "1 - 4 (live)",
+      "time": "1 - 1 (live)",
       "isLive": true
     },
     {
@@ -249,8 +249,8 @@
       "matchEn": "Baniyas v Al Wasl",
       "matchAr": "بني ياس × الوصل",
       "rawIsoTime": "2026-10-16T15:45:00Z",
-      "time": "15:45",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇹🇷 Turkish Süper Lig",
