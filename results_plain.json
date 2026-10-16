@@ -19,15 +19,6 @@
       "isLive": true
     },
     {
-      "tournamentEn": "🛡️ CAF Champions League",
-      "tournamentAr": "🛡️ دوري أبطال أفريقيا",
-      "matchEn": "Star Sport Academy (Ghana) v RS Berkane (Morocco)",
-      "matchAr": "أكاديمية ستار سبورت (غانا) × نهضة بركان (المغرب)",
-      "rawIsoTime": "2026-10-16T16:00:00Z",
-      "time": "16:00",
-      "isLive": false
-    },
-    {
       "tournamentEn": "🛡️ CAF U-20 Africa Cup of Nations Qualification",
       "tournamentAr": "🛡️ تصفيات أمم إفريقيا تحت 20 سنة",
       "matchEn": "Senegal v Mauritania",
@@ -291,15 +282,6 @@
     {
       "tournamentEn": "🇦🇪 Emirati First Division League",
       "tournamentAr": "🇦🇪 الدوري الإماراتي الدرجة الأولى",
-      "matchEn": "Al Urooba v Dibba Al Hisn",
-      "matchAr": "العروبة × دبا الحصن",
-      "rawIsoTime": "2026-10-16T13:00:00Z",
-      "time": "1 - 1 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🇦🇪 Emirati First Division League",
-      "tournamentAr": "🇦🇪 الدوري الإماراتي الدرجة الأولى",
       "matchEn": "Gulf United v Emirates Club",
       "matchAr": "جلف يونايتد × نادى الإمارات",
       "rawIsoTime": "2026-10-16T13:00:00Z",
@@ -316,10 +298,19 @@
       "isLive": false
     },
     {
+      "tournamentEn": "🇦🇪 Emirati First Division League",
+      "tournamentAr": "🇦🇪 الدوري الإماراتي الدرجة الأولى",
+      "matchEn": "Al Urooba v Dibba Al Hisn",
+      "matchAr": "العروبة × دبا الحصن",
+      "rawIsoTime": "2026-10-16T13:00:00Z",
+      "time": "1 - 1 (done)",
+      "isLive": false
+    },
+    {
       "tournamentEn": "🇮🇪 Irish Premier Division",
       "tournamentAr": "🇮🇪 الدوري الأيرلندي- الدرجة الممتازة",
-      "matchEn": "Drogheda United v Derry City",
-      "matchAr": "دروهيدا يونايتد × ديري سيتي",
+      "matchEn": "Galway United v Shamrock Rovers",
+      "matchAr": "غالواي يونايتد × شامروك روفرز",
       "rawIsoTime": "2026-10-16T18:45:00Z",
       "time": "18:45",
       "isLive": false
@@ -336,8 +327,8 @@
     {
       "tournamentEn": "🇮🇪 Irish Premier Division",
       "tournamentAr": "🇮🇪 الدوري الأيرلندي- الدرجة الممتازة",
-      "matchEn": "Galway United v Shamrock Rovers",
-      "matchAr": "غالواي يونايتد × شامروك روفرز",
+      "matchEn": "Drogheda United v Derry City",
+      "matchAr": "دروهيدا يونايتد × ديري سيتي",
       "rawIsoTime": "2026-10-16T18:45:00Z",
       "time": "18:45",
       "isLive": false
@@ -363,8 +354,8 @@
     {
       "tournamentEn": "🇧🇭 Bahraini Premier League",
       "tournamentAr": "🇧🇭 الدوري البحريني",
-      "matchEn": "Al-Ettifaq v Manama",
-      "matchAr": "الاتفاق × المنامة",
+      "matchEn": "A'ali v Sitra",
+      "matchAr": "عالي × سترة",
       "rawIsoTime": "2026-10-16T16:00:00Z",
       "time": "0 - 0 (live)",
       "isLive": true
@@ -372,8 +363,8 @@
     {
       "tournamentEn": "🇧🇭 Bahraini Premier League",
       "tournamentAr": "🇧🇭 الدوري البحريني",
-      "matchEn": "A'ali v Sitra",
-      "matchAr": "عالي × سترة",
+      "matchEn": "Al-Ettifaq v Manama",
+      "matchAr": "الاتفاق × المنامة",
       "rawIsoTime": "2026-10-16T16:00:00Z",
       "time": "0 - 0 (live)",
       "isLive": true
@@ -399,19 +390,19 @@
     {
       "tournamentEn": "🇸🇾 Syrian Premier League",
       "tournamentAr": "🇸🇾 الدوري السوري",
-      "matchEn": "Al-Karamah v Al-Nawaeir",
-      "matchAr": "الكرامة × النواعير",
+      "matchEn": "Al-Majd v Syrian Police",
+      "matchAr": "المجد × الشرطة السوري",
       "rawIsoTime": "2026-10-16T12:00:00Z",
-      "time": "3 - 0 (done)",
+      "time": "0 - 1 (done)",
       "isLive": false
     },
     {
       "tournamentEn": "🇸🇾 Syrian Premier League",
       "tournamentAr": "🇸🇾 الدوري السوري",
-      "matchEn": "Al-Majd v Syrian Police",
-      "matchAr": "المجد × الشرطة السوري",
+      "matchEn": "Al-Karamah v Al-Nawaeir",
+      "matchAr": "الكرامة × النواعير",
       "rawIsoTime": "2026-10-16T12:00:00Z",
-      "time": "0 - 1 (done)",
+      "time": "3 - 0 (done)",
       "isLive": false
     }
   ]
