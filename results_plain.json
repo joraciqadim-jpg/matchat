@@ -240,7 +240,7 @@
       "matchEn": "Al Dhafra v United",
       "matchAr": "الظفرة × يونايتد",
       "rawIsoTime": "2026-10-16T13:05:00Z",
-      "time": "4 - 1 (live)",
+      "time": "5 - 1 (live)",
       "isLive": true
     },
     {
@@ -294,7 +294,7 @@
       "matchEn": "Gulf United v Emirates Club",
       "matchAr": "جلف يونايتد × نادى الإمارات",
       "rawIsoTime": "2026-10-16T13:00:00Z",
-      "time": "1 - 6 (live)",
+      "time": "1 - 7 (live)",
       "isLive": true
     },
     {
@@ -312,8 +312,8 @@
       "matchEn": "Al Urooba v Dibba Al Hisn",
       "matchAr": "العروبة × دبا الحصن",
       "rawIsoTime": "2026-10-16T13:00:00Z",
-      "time": "1 - 1 (live)",
-      "isLive": true
+      "time": "1 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇮🇪 Irish Premier Division",
