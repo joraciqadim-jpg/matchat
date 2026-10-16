@@ -40,7 +40,7 @@
       "tournamentEn": "🛡️ CAF U-20 Africa Cup of Nations Qualification",
       "tournamentAr": "🛡️ تصفيات أمم إفريقيا تحت 20 سنة",
       "matchEn": "Sierra Leone v Guinea-Bissau",
-      "matchAr": "سيراليون × غينيل بيساو",
+      "matchAr": "سيراليون × غينيا بيساو",
       "rawIsoTime": "2026-10-16T19:00:00Z",
       "time": "19:00",
       "isLive": false
@@ -213,8 +213,8 @@
       "matchEn": "Karbala SC v Al-Gharafa",
       "matchAr": "كربلاء × الغراف",
       "rawIsoTime": "2026-10-16T15:00:00Z",
-      "time": "15:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇮🇶 Iraqi Stars League",
@@ -240,7 +240,7 @@
       "matchEn": "Al Dhafra v United",
       "matchAr": "الظفرة × يونايتد",
       "rawIsoTime": "2026-10-16T13:05:00Z",
-      "time": "5 - 1 (done)",
+      "time": "2 - 1 (done)",
       "isLive": false
     },
     {
@@ -294,8 +294,8 @@
       "matchEn": "Gulf United v Emirates Club",
       "matchAr": "جلف يونايتد × نادى الإمارات",
       "rawIsoTime": "2026-10-16T13:00:00Z",
-      "time": "1 - 7 (live)",
-      "isLive": true
+      "time": "1 - 7 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇦🇪 Emirati First Division League",
