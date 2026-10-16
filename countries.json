@@ -1,4 +1,100 @@
 {
+  "المريخ": {
+    "en": "Al-Merrikh",
+    "ar": "المريخ",
+    "countryen": "Sudan",
+    "countryar": "السودان"
+  },
+  "بيراميدز": {
+    "en": "Pyramids FC",
+    "ar": "بيراميدز",
+    "countryen": "Egypt",
+    "countryar": "مصر"
+  },
+  "الجيش الرواندي": {
+    "en": "APR FC",
+    "ar": "الجيش الرواندي",
+    "countryen": "Rwanda",
+    "countryar": "رواندا"
+  },
+  "الزمالك": {
+    "en": "Zamalek",
+    "ar": "الزمالك",
+    "countryen": "Egypt",
+    "countryar": "مصر"
+  },
+  "أكاديمية ستار سبورت": {
+    "en": "Star Sport Academy",
+    "ar": "أكاديمية ستار سبورت",
+    "countryen": "Rwanda",
+    "countryar": "رواندا"
+  },
+  "نهضة بركان": {
+    "en": "RS Berkane",
+    "ar": "نهضة بركان",
+    "countryen": "Morocco",
+    "countryar": "المغرب"
+  },
+  "إستوديانتيس دي لا بلاتا": {
+    "en": "Estudiantes de La Plata",
+    "ar": "إستوديانتيس دي لا بلاتا",
+    "countryen": "Argentina",
+    "countryar": "الأرجنتين"
+  },
+  "فلامينغو": {
+    "en": "Flamengo",
+    "ar": "فلامينغو",
+    "countryen": "Brazil",
+    "countryar": "البرازيل"
+  },
+  "جامعة أديغرات ويلوالو": {
+    "en": "Welwalo Adigrat University FC",
+    "ar": "جامعة أديغرات ويلوالو",
+    "countryen": "Ethiopia",
+    "countryar": "إثيوبيا"
+  },
+  "الأهلي طرابلس": {
+    "en": "Al Ahly Tripoli",
+    "ar": "الأهلي طرابلس",
+    "countryen": "Libya",
+    "countryar": "ليبيا"
+  },
+  "زد": {
+    "en": "ZED FC",
+    "ar": "زد",
+    "countryen": "Egypt",
+    "countryar": "مصر"
+  },
+  "عزام": {
+    "en": "Azam FC",
+    "ar": "عزام",
+    "countryen": "Tanzania",
+    "countryar": "تنزانيا"
+  },
+  "السنغال": {
+    "en": "Senegal U20",
+    "ar": "السنغال تحت 20 سنة",
+    "countryen": "Senegal",
+    "countryar": "السنغال"
+  },
+  "موريتانيا": {
+    "en": "Mauritania U20",
+    "ar": "موريتانيا تحت 20 سنة",
+    "countryen": "Mauritania",
+    "countryar": "موريتانيا"
+  },
+  "سيراليون": {
+    "en": "Sierra Leone U20",
+    "ar": "سيراليون تحت 20 سنة",
+    "countryen": "Sierra Leone",
+    "countryar": "سيراليون"
+  },
+  "غينيل بيساو": {
+    "en": "Guinea-Bissau U20",
+    "ar": "غينيل بيساو تحت 20 سنة",
+    "countryen": "Guinea-Bissau",
+    "countryar": "غينيا بيساو"
+  },
   "apr fc": {
     "en": "APR FC",
     "ar": "الجيش الرواندي",
