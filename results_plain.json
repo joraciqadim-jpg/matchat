@@ -150,7 +150,7 @@
       "matchEn": "Al-Shahania v Al-Arabi",
       "matchAr": "الشحانية × العربي",
       "rawIsoTime": "2026-10-16T16:45:00Z",
-      "time": "0 - 4 (live)",
+      "time": "0 - 5 (live)",
       "isLive": true
     },
     {
@@ -177,8 +177,8 @@
       "matchEn": "Al-Baqa'a v Al-Salt SC",
       "matchAr": "البقعة × السلط",
       "rawIsoTime": "2026-10-16T16:30:00Z",
-      "time": "0 - 0 (live)",
-      "isLive": true
+      "time": "0 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇩🇿 Algerian Professional League",
