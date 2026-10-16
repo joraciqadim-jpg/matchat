@@ -150,8 +150,8 @@
       "matchEn": "Al-Shahania v Al-Arabi",
       "matchAr": "الشحانية × العربي",
       "rawIsoTime": "2026-10-16T16:45:00Z",
-      "time": "0 - 6 (live)",
-      "isLive": true
+      "time": "0 - 6 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🛡️ CONMEBOL Libertadores",
@@ -267,7 +267,7 @@
       "matchEn": "Emirates v Bahrain",
       "matchAr": "الإمارات × البحرين",
       "rawIsoTime": "2026-10-16T17:00:00Z",
-      "time": "1 - 0 (live)",
+      "time": "2 - 0 (live)",
       "isLive": true
     },
     {
