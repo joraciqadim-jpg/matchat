@@ -28,24 +28,6 @@
       "isLive": false
     },
     {
-      "tournamentEn": "🛡️ CAF U-20 Africa Cup of Nations Qualification",
-      "tournamentAr": "🛡️ تصفيات أمم إفريقيا تحت 20 سنة",
-      "matchEn": "Senegal (Senegal) v Mauritania (Mauritania)",
-      "matchAr": "السنغال (السنغال) × موريتانيا (موريتانيا)",
-      "rawIsoTime": "2026-10-16T16:00:00Z",
-      "time": "16:00",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🛡️ CAF U-20 Africa Cup of Nations Qualification",
-      "tournamentAr": "🛡️ تصفيات أمم إفريقيا تحت 20 سنة",
-      "matchEn": "Sierra Leone (Sierra Leone) v Guinea-Bissau (Guinea-Bissau)",
-      "matchAr": "سيراليون (سيراليون) × غينيل بيساو (غينيا بيساو)",
-      "rawIsoTime": "2026-10-16T19:00:00Z",
-      "time": "19:00",
-      "isLive": false
-    },
-    {
       "tournamentEn": "🛡️ CAF Confederation Cup",
       "tournamentAr": "🛡️ كأس الكونفيدرالية الإفريقية",
       "matchEn": "Welwalo Adigrat University FC (Ethiopia) v Al Ahly Tripoli (Libya)",
@@ -262,7 +244,7 @@
       "isLive": false
     },
     {
-      "tournamentEn": "🏆 Gulf Cup U17",
+      "tournamentEn": "🏆 Gulf Under-17 Cup",
       "tournamentAr": "🏆 كأس الخليج تحت 17 سنة",
       "matchEn": "Qatar U17 v China PR U17",
       "matchAr": "قطر × الصينا",
@@ -271,7 +253,7 @@
       "isLive": false
     },
     {
-      "tournamentEn": "🏆 Gulf Cup U17",
+      "tournamentEn": "🏆 Gulf Under-17 Cup",
       "tournamentAr": "🏆 كأس الخليج تحت 17 سنة",
       "matchEn": "United Arab Emirates U17 v Bahrain U17",
       "matchAr": "الإمارات × البحرين",
@@ -313,6 +295,24 @@
       "matchAr": "العروبة × دبا الحصن",
       "rawIsoTime": "2026-10-16T13:00:00Z",
       "time": "13:00",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🏆 Africa U-20 Cup of Nations Qualifiers",
+      "tournamentAr": "🏆 تصفيات أمم إفريقيا تحت 20 سنة",
+      "matchEn": "Senegal v Mauritania",
+      "matchAr": "السنغال × موريتانيا",
+      "rawIsoTime": "2026-10-16T16:00:00Z",
+      "time": "16:00",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🏆 Africa U-20 Cup of Nations Qualifiers",
+      "tournamentAr": "🏆 تصفيات أمم إفريقيا تحت 20 سنة",
+      "matchEn": "Sierra Leone v Guinea-Bissau",
+      "matchAr": "سيراليون × غينيل بيساو",
+      "rawIsoTime": "2026-10-16T19:00:00Z",
+      "time": "19:00",
       "isLive": false
     },
     {
@@ -379,7 +379,7 @@
       "isLive": false
     },
     {
-      "tournamentEn": "🛡️ UEFA European Under-17 Championship Qualification",
+      "tournamentEn": "🛡️ UEFA European Under-17 Championship Qualifiers",
       "tournamentAr": "🛡️ تصفيات أوروبا تحت 17 سنة لكرة القدم",
       "matchEn": "Belarus v Slovenia",
       "matchAr": "روسيا البيضاء × سلوفينيا",
@@ -388,7 +388,7 @@
       "isLive": true
     },
     {
-      "tournamentEn": "🛡️ UEFA European Under-17 Championship Qualification",
+      "tournamentEn": "🛡️ UEFA European Under-17 Championship Qualifiers",
       "tournamentAr": "🛡️ تصفيات أوروبا تحت 17 سنة لكرة القدم",
       "matchEn": "Czech Republic U17 v Moldova",
       "matchAr": "جمهورية التشيكا × مولدوفا",
