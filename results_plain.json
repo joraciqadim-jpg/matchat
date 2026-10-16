@@ -123,7 +123,7 @@
       "matchEn": "Deportivo Chaves v Os Marialvas",
       "matchAr": "ديبورتيفو تشافيز × أوس ماريالفاس",
       "rawIsoTime": "2026-10-16T19:00:00Z",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -213,7 +213,7 @@
       "matchEn": "Diyala v Naft Maysan",
       "matchAr": "ديالى × نفط ميسان",
       "rawIsoTime": "2026-10-16T17:30:00Z",
-      "time": "1 - 0 (live)",
+      "time": "2 - 0 (live)",
       "isLive": true
     },
     {
@@ -222,8 +222,8 @@
       "matchEn": "Al-Kahrabaa v Al-Talaba",
       "matchAr": "الكهرباء × الطلبة",
       "rawIsoTime": "2026-10-16T17:30:00Z",
-      "time": "0 - 1 (live)",
-      "isLive": true
+      "time": "0 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇦🇪 Emirati Pro League",
@@ -330,7 +330,7 @@
       "matchEn": "Galway United v Shamrock Rovers",
       "matchAr": "غالواي يونايتد × شامروك روفرز",
       "rawIsoTime": "2026-10-16T18:45:00Z",
-      "time": "1 - 0 (live)",
+      "time": "2 - 0 (live)",
       "isLive": true
     },
     {
