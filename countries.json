@@ -1,6 +1,22 @@
 {
-
-
+  "apr fc": {
+    "en": "APR FC",
+    "ar": "الجيش الرواندي",
+    "countryen": "Rwanda",
+    "countryar": "رواندا"
+  },
+  "estudiantes de la plata": {
+    "en": "Estudiantes de La Plata",
+    "ar": "إستوديانتيس دي لا بلاتا",
+    "countryen": "Argentina",
+    "countryar": "الأرجنتين"
+  },
+  "wolwalo adigrat university": {
+    "en": "Wolwalo Adigrat University",
+    "ar": "جامعة أديغرات ويلوالو",
+    "countryen": "Ethiopia",
+    "countryar": "إثيوبيا"
+  },
   "olympique lyon": {
     "en": "Olympique Lyon",
     "ar": "أولمبيك ليون",
