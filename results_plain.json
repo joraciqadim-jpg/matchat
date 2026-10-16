@@ -222,8 +222,8 @@
       "matchEn": "Al-Kahrabaa v Al-Talaba",
       "matchAr": "الكهرباء × الطلبة",
       "rawIsoTime": "2026-10-16T17:30:00Z",
-      "time": "17:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇦🇪 Emirati Pro League",
@@ -249,7 +249,7 @@
       "matchEn": "Çorum v Çaykur Rizespor",
       "matchAr": "تشوروم × تشايكور ريزه سبور",
       "rawIsoTime": "2026-10-16T17:00:00Z",
-      "time": "0 - 0 (live)",
+      "time": "0 - 1 (live)",
       "isLive": true
     },
     {
