@@ -21,16 +21,34 @@
     {
       "tournamentEn": "🛡️ CAF Champions League",
       "tournamentAr": "🛡️ دوري أبطال أفريقيا",
-      "matchEn": "Star Sport Academy (Rwanda) v RS Berkane (Morocco)",
-      "matchAr": "أكاديمية ستار سبورت (رواندا) × نهضة بركان (المغرب)",
+      "matchEn": "Star Sport Academy (Ghana) v RS Berkane (Morocco)",
+      "matchAr": "أكاديمية ستار سبورت (غانا) × نهضة بركان (المغرب)",
       "rawIsoTime": "2026-10-16T16:00:00Z",
       "time": "16:00",
       "isLive": false
     },
     {
+      "tournamentEn": "🏆 Africa Cup of Nations Under-20 Qualifying",
+      "tournamentAr": "🏆 تصفيات أمم إفريقيا تحت 20 سنة",
+      "matchEn": "Senegal v Mauritania",
+      "matchAr": "السنغال × موريتانيا",
+      "rawIsoTime": "2026-10-16T16:00:00Z",
+      "time": "16:00",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🏆 Africa Cup of Nations Under-20 Qualifying",
+      "tournamentAr": "🏆 تصفيات أمم إفريقيا تحت 20 سنة",
+      "matchEn": "Sierra Leone v Guinea-Bissau",
+      "matchAr": "سيراليون × غينيل بيساو",
+      "rawIsoTime": "2026-10-16T19:00:00Z",
+      "time": "19:00",
+      "isLive": false
+    },
+    {
       "tournamentEn": "🛡️ CAF Confederation Cup",
       "tournamentAr": "🛡️ كأس الكونفيدرالية الإفريقية",
-      "matchEn": "Wolwalo Adigrat University FC (Ethiopia) v Al Ahli Tripoli (Libya)",
+      "matchEn": "Welwalo Adigrat University FC (Ethiopia) v Al Ahly Tripoli (Libya)",
       "matchAr": "جامعة أديغرات ويلوالو (إثيوبيا) × الأهلي طرابلس (ليبيا)",
       "rawIsoTime": "2026-10-16T13:00:00Z",
       "time": "13:00",
@@ -43,6 +61,15 @@
       "matchAr": "زد (مصر) × عزام (تنزانيا)",
       "rawIsoTime": "2026-10-16T17:00:00Z",
       "time": "17:00",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🇪🇸 Spanish La Liga 1",
+      "tournamentAr": "🇪🇸 الدوري الإسباني",
+      "matchEn": "Deportivo La Coruña v Levante",
+      "matchAr": "ديبورتيفو لاكورونيا × ليفانتي",
+      "rawIsoTime": "2026-10-16T19:00:00Z",
+      "time": "19:00",
       "isLive": false
     },
     {
@@ -100,15 +127,6 @@
       "isLive": false
     },
     {
-      "tournamentEn": "🇪🇸 Spanish La Liga",
-      "tournamentAr": "🇪🇸 الدوري الإسباني",
-      "matchEn": "Deportivo La Coruña v Levante",
-      "matchAr": "ديبورتيفو لاكورونيا × ليفانتي",
-      "rawIsoTime": "2026-10-16T19:00:00Z",
-      "time": "19:00",
-      "isLive": false
-    },
-    {
       "tournamentEn": "🏆 Portuguese Cup",
       "tournamentAr": "🏆 كأس البرتغال",
       "matchEn": "Deportivo Chaves v Os Marialvas",
@@ -129,7 +147,7 @@
     {
       "tournamentEn": "🇶🇦 Qatari Stars League",
       "tournamentAr": "🇶🇦 دوري نجوم قطر",
-      "matchEn": "Al Ahli SC v Al-Wakrah",
+      "matchEn": "Qatari Al Ahli v Al-Wakrah",
       "matchAr": "الأهلي القطري × الوكرة",
       "rawIsoTime": "2026-10-16T14:30:00Z",
       "time": "14:30",
@@ -156,7 +174,7 @@
     {
       "tournamentEn": "🇯🇴 Jordanian Pro League",
       "tournamentAr": "🇯🇴 الدوري الأردني للمحترفين",
-      "matchEn": "Daqra v Jordanian Al-Jazira SC",
+      "matchEn": "Daqra v Al-Jazeera SC",
       "matchAr": "دوقرة × الجزيرة الأردني",
       "rawIsoTime": "2026-10-16T14:00:00Z",
       "time": "14:00",
@@ -172,7 +190,7 @@
       "isLive": false
     },
     {
-      "tournamentEn": "🇩🇿 Algerian Ligue Professionnelle 1",
+      "tournamentEn": "🇩🇿 Algerian Professional League",
       "tournamentAr": "🇩🇿 الدوري الجزائري للمحترفين",
       "matchEn": "Olympique Akbou v Najm Ben Aknoun",
       "matchAr": "أولمبيك أقبو × نجم بن عكنون",
@@ -376,24 +394,6 @@
       "matchAr": "المجد × الشرطة السوري",
       "rawIsoTime": "2026-10-16T12:00:00Z",
       "time": "12:00",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🏆 Africa U-20 Cup of Nations Qualifying",
-      "tournamentAr": "🏆 تصفيات أمم إفريقيا تحت 20 سنة",
-      "matchEn": "Senegal v Mauritania",
-      "matchAr": "السنغال × موريتانيا",
-      "rawIsoTime": "2026-10-16T16:00:00Z",
-      "time": "16:00",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🏆 Africa U-20 Cup of Nations Qualifying",
-      "tournamentAr": "🏆 تصفيات أمم إفريقيا تحت 20 سنة",
-      "matchEn": "Sierra Leone v Guinea-Bissau",
-      "matchAr": "سيراليون × غينيل بيساو",
-      "rawIsoTime": "2026-10-16T19:00:00Z",
-      "time": "19:00",
       "isLive": false
     }
   ]
