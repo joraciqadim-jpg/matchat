@@ -42,8 +42,8 @@
       "matchEn": "Welwalo Adigrat University FC (Ethiopia) v Al Ahly Tripoli (Libya)",
       "matchAr": "جامعة أديغرات ويلوالو (إثيوبيا) × الأهلي طرابلس (ليبيا)",
       "rawIsoTime": "2026-10-16T17:00:00Z",
-      "time": "0 - 3 (live)",
-      "isLive": true
+      "time": "0 - 4 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🛡️ CAF Confederation Cup",
@@ -267,8 +267,8 @@
       "matchEn": "Emirates v Bahrain",
       "matchAr": "الإمارات × البحرين",
       "rawIsoTime": "2026-10-16T17:00:00Z",
-      "time": "2 - 1 (live)",
-      "isLive": true
+      "time": "2 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇦🇷 Argentine Primera División",
@@ -321,7 +321,7 @@
       "matchEn": "Bohemians v Waterford",
       "matchAr": "بوهيميان × ووترفورد",
       "rawIsoTime": "2026-10-16T18:45:00Z",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -348,8 +348,8 @@
       "matchEn": "Brommapojkarna v Djurgården",
       "matchAr": "برومابويكارنا × يورغوردين",
       "rawIsoTime": "2026-10-16T17:00:00Z",
-      "time": "0 - 2 (live)",
-      "isLive": true
+      "time": "0 - 2 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇧🇭 Bahraini Premier League",
