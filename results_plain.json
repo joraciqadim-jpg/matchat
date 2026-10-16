@@ -204,8 +204,8 @@
       "matchEn": "Nooruz SC v Al-Minaa SC",
       "matchAr": "نوروز × الميناء",
       "rawIsoTime": "2026-10-16T15:00:00Z",
-      "time": "15:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇮🇶 Iraqi Stars League",
@@ -303,8 +303,8 @@
       "matchEn": "Fujairah v Palm City",
       "matchAr": "الفجيرة × بالم سيتي",
       "rawIsoTime": "2026-10-16T13:00:00Z",
-      "time": "2 - 4 (live)",
-      "isLive": true
+      "time": "2 - 4 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇦🇪 Emirati First Division League",
