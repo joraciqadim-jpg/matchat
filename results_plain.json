@@ -150,8 +150,8 @@
       "matchEn": "Al Ahli v Al-Wakrah",
       "matchAr": "الأهلي القطري × الوكرة",
       "rawIsoTime": "2026-10-16T14:30:00Z",
-      "time": "14:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇶🇦 Qatari Stars League",
@@ -195,8 +195,8 @@
       "matchEn": "Olympique Akbou v Najm Ben Aknoun",
       "matchAr": "أولمبيك أقبو × نجم بن عكنون",
       "rawIsoTime": "2026-10-16T14:30:00Z",
-      "time": "14:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇮🇶 Iraqi Stars League",
@@ -240,7 +240,7 @@
       "matchEn": "Al Dhafra v United",
       "matchAr": "الظفرة × يونايتد",
       "rawIsoTime": "2026-10-16T13:05:00Z",
-      "time": "3 - 1 (live)",
+      "time": "4 - 1 (live)",
       "isLive": true
     },
     {
@@ -303,7 +303,7 @@
       "matchEn": "Fujairah v Palm City",
       "matchAr": "الفجيرة × بالم سيتي",
       "rawIsoTime": "2026-10-16T13:00:00Z",
-      "time": "0 - 2 (live)",
+      "time": "1 - 2 (live)",
       "isLive": true
     },
     {
