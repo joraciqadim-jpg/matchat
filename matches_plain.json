@@ -3,16 +3,6 @@
     {
       "tournamentEn": "🛡️ CAF Champions League",
       "tournamentAr": "🛡️ دوري أبطال إفريقيا",
-      "matchEn": "Al Merrikh (Sudan) v Pyramids (Egypt)",
-      "matchAr": "المريخ (السودان) × بيراميدز (مصر)",
-      "time": "13:00",
-      "channels": [
-        "📺 On Sport MAX [Nilesat 7.0W 11977 V 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🛡️ CAF Champions League",
-      "tournamentAr": "🛡️ دوري أبطال إفريقيا",
       "matchEn": "APR (Rwanda) v Zamalek (Egypt)",
       "matchAr": "الجيش الوطني الرواندي (رواندا) × الزمالك (مصر)",
       "time": "16:00",
@@ -21,16 +11,6 @@
         "📺 MBC Masr 2 [Nilesat 7.0W 11219 H 27500]",
         "📺 MBC Masr 2 [Nilesat 7.0W 11823 V 27500]",
         "📺 MBC Masr 2 [Eutelsat 21.5E 11559 V 5000]"
-      ]
-    },
-    {
-      "tournamentEn": "🛡️ CAF Confederation Cup",
-      "tournamentAr": "🛡️ كأس الكونفدرالية الأفريقية",
-      "matchEn": "Welwalo Adigrat University (Africa) v Al-Ahli Tripoli (Africa)",
-      "matchAr": "ويلوالو أديغرات (إفريقيا) × أهلي طرابلس (إفريقيا)",
-      "time": "13:00",
-      "channels": [
-        "📺 Hasad TV [Nilesat 7.0W 11179 H 27500]"
       ]
     },
     {
@@ -260,17 +240,6 @@
       "time": "17:30",
       "channels": [
         "📺 Iraqia Syriac [Nilesat 7.0W 12563 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🇦🇪 Emirates Pro League",
-      "tournamentAr": "🇦🇪 الدوري الإماراتي للمحترفين",
-      "matchEn": "Al Dhafra v United",
-      "matchAr": "الظفرة × يونايتد",
-      "time": "13:05",
-      "channels": [
-        "📺 Abu Dhabi Sports 1 [Nilesat 7.0W 11411 H 30000]",
-        "📺 Abu Dhabi Sports 1 [Badrsat 26.0E 11804 H 30000]"
       ]
     }
   ]
