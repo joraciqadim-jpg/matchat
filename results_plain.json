@@ -402,8 +402,8 @@
       "matchEn": "Al-Majd v Syrian Police",
       "matchAr": "المجد × الشرطة السوري",
       "rawIsoTime": "2026-10-16T12:00:00Z",
-      "time": "12:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇸🇾 Syrian Premier League",
@@ -411,8 +411,8 @@
       "matchEn": "Al-Karamah v Al-Nawaeir",
       "matchAr": "الكرامة × النواعير",
       "rawIsoTime": "2026-10-16T12:00:00Z",
-      "time": "12:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     }
   ]
 }
