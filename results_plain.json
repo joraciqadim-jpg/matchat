@@ -60,8 +60,8 @@
       "matchEn": "Deportivo La Coruña v Levante",
       "matchAr": "ديبورتيفو لاكورونيا × ليفانتي",
       "rawIsoTime": "2026-10-16T19:00:00Z",
-      "time": "19:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇩🇪 German Bundesliga",
@@ -87,7 +87,7 @@
       "matchEn": "Frosinone v Sassuolo",
       "matchAr": "فروسينونى × ساسولو",
       "rawIsoTime": "2026-10-16T18:45:00Z",
-      "time": "1 - 0 (live)",
+      "time": "1 - 1 (live)",
       "isLive": true
     },
     {
@@ -105,8 +105,8 @@
       "matchEn": "Burnley v Wolverhampton Wanderers",
       "matchAr": "بيرنلي × وولفرهامبتون",
       "rawIsoTime": "2026-10-16T19:00:00Z",
-      "time": "19:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇧🇷 Brazilian Série A",
