@@ -195,8 +195,8 @@
       "matchEn": "Nooruz SC v Al-Minaa SC",
       "matchAr": "نوروز × الميناء",
       "rawIsoTime": "2026-10-16T15:00:00Z",
-      "time": "2 - 0 (live)",
-      "isLive": true
+      "time": "2 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇮🇶 Iraqi Stars League",
@@ -204,7 +204,7 @@
       "matchEn": "Karbala SC v Al-Gharafa",
       "matchAr": "كربلاء × الغراف",
       "rawIsoTime": "2026-10-16T15:00:00Z",
-      "time": "0 - 2 (live)",
+      "time": "1 - 2 (live)",
       "isLive": true
     },
     {
