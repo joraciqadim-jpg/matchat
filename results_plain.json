@@ -78,8 +78,8 @@
       "matchEn": "Le Mans v Toulouse",
       "matchAr": "لو مان × تولوز",
       "rawIsoTime": "2026-10-16T18:45:00Z",
-      "time": "0 - 3 (live)",
-      "isLive": true
+      "time": "0 - 3 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇮🇹 Italian Serie A",
@@ -312,8 +312,8 @@
       "matchEn": "Drogheda United v Derry City",
       "matchAr": "دروهيدا يونايتد × ديري سيتي",
       "rawIsoTime": "2026-10-16T18:45:00Z",
-      "time": "2 - 0 (live)",
-      "isLive": true
+      "time": "2 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇮🇪 Irish Premier Division",
@@ -321,8 +321,8 @@
       "matchEn": "Bohemians v Waterford",
       "matchAr": "بوهيميان × ووترفورد",
       "rawIsoTime": "2026-10-16T18:45:00Z",
-      "time": "2 - 1 (live)",
-      "isLive": true
+      "time": "2 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇮🇪 Irish Premier Division",
@@ -339,7 +339,7 @@
       "matchEn": "St Patrick's Athletic v Shelbourne",
       "matchAr": "سان باتريك × شيلبورن",
       "rawIsoTime": "2026-10-16T19:00:00Z",
-      "time": "1 - 1 (live)",
+      "time": "1 - 2 (live)",
       "isLive": true
     },
     {
