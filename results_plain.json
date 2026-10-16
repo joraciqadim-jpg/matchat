@@ -75,7 +75,7 @@
     {
       "tournamentEn": "🇩🇪 German Bundesliga",
       "tournamentAr": "🇩🇪 الدوري الألماني",
-      "matchEn": "Eintracht Frankfurt v 1. FC Cologne",
+      "matchEn": "Eintracht Frankfurt v FC Cologne",
       "matchAr": "آينتراخت فرانكفورت × كولن",
       "rawIsoTime": "2026-10-16T18:30:00Z",
       "time": "18:30",
@@ -147,7 +147,7 @@
     {
       "tournamentEn": "🇶🇦 Qatari Stars League",
       "tournamentAr": "🇶🇦 دوري نجوم قطر",
-      "matchEn": "Qatari Al Ahli v Al-Wakrah",
+      "matchEn": "Al Ahli v Al-Wakrah",
       "matchAr": "الأهلي القطري × الوكرة",
       "rawIsoTime": "2026-10-16T14:30:00Z",
       "time": "14:30",
@@ -177,7 +177,7 @@
       "matchEn": "Daqra v Al-Jazeera SC",
       "matchAr": "دوقرة × الجزيرة الأردني",
       "rawIsoTime": "2026-10-16T14:00:00Z",
-      "time": "1 - 0 (live)",
+      "time": "1 - 1 (live)",
       "isLive": true
     },
     {
@@ -235,7 +235,7 @@
       "isLive": false
     },
     {
-      "tournamentEn": "🇦🇪 Emirati ADNOC Pro League",
+      "tournamentEn": "🇦🇪 Emirati Pro League",
       "tournamentAr": "🇦🇪 دوري أدنوك للمحترفين",
       "matchEn": "Al Dhafra v United",
       "matchAr": "الظفرة × يونايتد",
@@ -244,7 +244,7 @@
       "isLive": true
     },
     {
-      "tournamentEn": "🇦🇪 Emirati ADNOC Pro League",
+      "tournamentEn": "🇦🇪 Emirati Pro League",
       "tournamentAr": "🇦🇪 دوري أدنوك للمحترفين",
       "matchEn": "Baniyas v Al Wasl",
       "matchAr": "بني ياس × الوصل",
