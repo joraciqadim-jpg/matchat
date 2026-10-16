@@ -5,7 +5,7 @@
   },
   "القادسيه السعودي": {
     "ar": "القادسية السعودي",
-    "en": "Al-Qadsiah Saudi Club"
+    "en": "Al-Qadsiah"
   },
   "ابها": {
     "ar": "أبها",
@@ -13,7 +13,7 @@
   },
   "الاهلي القطري": {
     "ar": "الأهلي القطري",
-    "en": "Al Ahli Qatar"
+    "en": "Al Ahli SC"
   },
   "الوكره": {
     "ar": "الوكرة",
@@ -37,7 +37,7 @@
   },
   "فروسينوني": {
     "ar": "فروسينونى",
-    "en": "Frosinone"
+    "en": "Frosinone Calcio"
   },
   "الدوري الايطالي": {
     "ar": "الدوري الإيطالي",
@@ -57,19 +57,19 @@
   },
   "دوقره": {
     "ar": "دوقرة",
-    "en": "Dhoqra"
+    "en": "Dugra"
   },
   "الجزيره الاردني": {
     "ar": "الجزيرة الأردني",
-    "en": "Al-Jazeera Jordan"
+    "en": "Al-Jazeera SC"
   },
   "الدوري الاردني للمحترفين": {
     "ar": "الدوري الأردني للمحترفين",
-    "en": "Jordanian Professional League"
+    "en": "Jordanian Pro League"
   },
   "البقعه": {
     "ar": "البقعة",
-    "en": "Al-Baqa'a"
+    "en": "Al-Baqa'a SC"
   },
   "اولمبيك اقبو": {
     "ar": "أولمبيك أقبو",
@@ -77,7 +77,7 @@
   },
   "جامعه اديغرات ويلوالو": {
     "ar": "جامعة أديغرات ويلوالو",
-    "en": "Wolwalo Adigrat University"
+    "en": "Adigrat University W/ Lalo"
   },
   "الاهلي طرابلس": {
     "ar": "الأهلي طرابلس",
@@ -89,15 +89,15 @@
   },
   "الدوري الانجليزي للدرجه الاولي (الشامبيونشيب)": {
     "ar": "الدوري الإنجليزي للدرجة الأولى (الشامبيونشيب)",
-    "en": "English Football League Championship"
+    "en": "English Championship"
   },
   "الطلبه": {
     "ar": "الطلبة",
-    "en": "Al-Talaba"
+    "en": "Al-Talaba SC"
   },
   "ديالي": {
     "ar": "ديالى",
-    "en": "Diyala"
+    "en": "Diyala SC"
   },
   "الظفره": {
     "ar": "الظفرة",
@@ -117,7 +117,7 @@
   },
   "الدوري الارجنتيني": {
     "ar": "الدوري الأرجنتيني",
-    "en": "Argentine Primera División"
+    "en": "Argentine League"
   },
   "انترناسيونال": {
     "ar": "إنترناسيونال",
@@ -125,15 +125,15 @@
   },
   "الدوري البرازيلي الدرجه الاولي": {
     "ar": "الدوري البرازيلي الدرجة الأولى",
-    "en": "Brazilian Série A"
+    "en": "Brazilian First Division"
   },
   "كاس الخليج": {
-    "ar": "كأس الخليج",
-    "en": "Gulf Cup"
+    "ar": "كأس الخليج تحت 17 سنة",
+    "en": "Gulf U17 Cup"
   },
   "الامارات": {
-    "ar": "الإمارات",
-    "en": "United Arab Emirates"
+    "ar": "الإمارات تحت 17 سنة",
+    "en": "United Arab Emirates U17"
   },
   "نادي الامارات": {
     "ar": "نادى الإمارات",
@@ -152,24 +152,24 @@
     "en": "Al Orooba"
   },
   "السنغال": {
-    "ar": "السنغال",
-    "en": "Senegal"
+    "ar": "السنغال تحت 20 سنة",
+    "en": "Senegal U20"
   },
   "موريتانيا": {
-    "ar": "موريتانيا",
-    "en": "Mauritania"
+    "ar": "موريتانيا تحت 20 سنة",
+    "en": "Mauritania U20"
   },
   "تصفيات امم افريقيا": {
-    "ar": "تصفيات أمم إفريقيا",
-    "en": "Africa Cup of Nations Qualifiers"
+    "ar": "تصفيات أمم إفريقيا تحت 20 سنة",
+    "en": "African U20 Cup of Nations Qualifiers"
   },
   "سيراليون": {
-    "ar": "سيراليون",
-    "en": "Sierra Leone"
+    "ar": "سيراليون تحت 20 سنة",
+    "en": "Sierra Leone U20"
   },
   "غينيل بيساو": {
-    "ar": "غينيل بيساو",
-    "en": "Guinea-Bissau"
+    "ar": "غينيل بيساو تحت 20 سنة",
+    "en": "Guinea-Bissau U20"
   },
   "الدوري الايرلندي- الدرجه الممتازه": {
     "ar": "الدوري الأيرلندي- الدرجة الممتازة",
@@ -192,24 +192,24 @@
     "en": "Portuguese Cup"
   },
   "روسيا البيضاء": {
-    "ar": "روسيا البيضاء",
-    "en": "Belarus"
+    "ar": "روسيا البيضاء تحت 17 سنة",
+    "en": "Belarus U17"
   },
   "سلوفينيا": {
-    "ar": "سلوفينيا",
-    "en": "Slovenia"
+    "ar": "سلوفينيا تحت 17 سنة",
+    "en": "Slovenia U17"
   },
   "تصفيات اوروبا لكره القدم": {
-    "ar": "تصفيات أوروبا لكرة القدم",
-    "en": "UEFA European Championship qualification"
+    "ar": "تصفيات أوروبا تحت 17 سنة لكرة القدم",
+    "en": "UEFA European Under-17 Championship Qualification"
   },
   "جمهوريه التشيك عاما": {
-    "ar": "جمهورية التشيك عاما",
-    "en": "Czech Republic General"
+    "ar": "جمهورية التشيك تحت 17 عاما",
+    "en": "Czech Republic Under-17"
   },
   "مولدوفا": {
-    "ar": "مولدوفا",
-    "en": "Moldova"
+    "ar": "مولدوفا تحت 17 سنة",
+    "en": "Moldova Under-17"
   },
   "الشرطه السوري": {
     "ar": "الشرطة السوري",
@@ -217,7 +217,7 @@
   },
   "الكرامه": {
     "ar": "الكرامة",
-    "en": "Syrian Al-Karamah"
+    "en": "Al-Karamah"
   },
   "قطر": {
     "ar": "قطر",
