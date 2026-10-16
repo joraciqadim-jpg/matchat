@@ -48,17 +48,17 @@
     {
       "tournamentEn": "🛡️ CAF Confederation Cup",
       "tournamentAr": "🛡️ كأس الكونفيدرالية الإفريقية",
-      "matchEn": "Welwalo Adigrat University FC (Ethiopia) v Al Ahly Tripoli (Libya)",
-      "matchAr": "جامعة أديغرات ويلوالو (إثيوبيا) × الأهلي طرابلس (ليبيا)",
-      "rawIsoTime": "2026-10-16T16:00:00Z",
-      "time": "16:00",
+      "matchEn": "ZED FC (Egypt) v Azam FC (Tanzania)",
+      "matchAr": "زد (مصر) × عزام (تنزانيا)",
+      "rawIsoTime": "2026-10-16T17:00:00Z",
+      "time": "17:00",
       "isLive": false
     },
     {
       "tournamentEn": "🛡️ CAF Confederation Cup",
       "tournamentAr": "🛡️ كأس الكونفيدرالية الإفريقية",
-      "matchEn": "ZED FC (Egypt) v Azam FC (Tanzania)",
-      "matchAr": "زد (مصر) × عزام (تنزانيا)",
+      "matchEn": "Welwalo Adigrat University FC (Ethiopia) v Al Ahly Tripoli (Libya)",
+      "matchAr": "جامعة أديغرات ويلوالو (إثيوبيا) × الأهلي طرابلس (ليبيا)",
       "rawIsoTime": "2026-10-16T17:00:00Z",
       "time": "17:00",
       "isLive": false
@@ -150,7 +150,7 @@
       "matchEn": "Al Ahli v Al-Wakrah",
       "matchAr": "الأهلي القطري × الوكرة",
       "rawIsoTime": "2026-10-16T14:30:00Z",
-      "time": "0 - 2 (live)",
+      "time": "0 - 3 (live)",
       "isLive": true
     },
     {
@@ -219,8 +219,8 @@
     {
       "tournamentEn": "🇮🇶 Iraqi Stars League",
       "tournamentAr": "🇮🇶 دوري نجوم العراق",
-      "matchEn": "Al-Kahrabaa v Al-Talaba",
-      "matchAr": "الكهرباء × الطلبة",
+      "matchEn": "Diyala v Naft Maysan",
+      "matchAr": "ديالى × نفط ميسان",
       "rawIsoTime": "2026-10-16T17:30:00Z",
       "time": "17:30",
       "isLive": false
@@ -228,8 +228,8 @@
     {
       "tournamentEn": "🇮🇶 Iraqi Stars League",
       "tournamentAr": "🇮🇶 دوري نجوم العراق",
-      "matchEn": "Diyala v Naft Maysan",
-      "matchAr": "ديالى × نفط ميسان",
+      "matchEn": "Al-Kahrabaa v Al-Talaba",
+      "matchAr": "الكهرباء × الطلبة",
       "rawIsoTime": "2026-10-16T17:30:00Z",
       "time": "17:30",
       "isLive": false
@@ -291,6 +291,15 @@
     {
       "tournamentEn": "🇦🇪 Emirati First Division League",
       "tournamentAr": "🇦🇪 الدوري الإماراتي الدرجة الأولى",
+      "matchEn": "Al Urooba v Dibba Al Hisn",
+      "matchAr": "العروبة × دبا الحصن",
+      "rawIsoTime": "2026-10-16T13:00:00Z",
+      "time": "1 - 1 (done)",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🇦🇪 Emirati First Division League",
+      "tournamentAr": "🇦🇪 الدوري الإماراتي الدرجة الأولى",
       "matchEn": "Gulf United v Emirates Club",
       "matchAr": "جلف يونايتد × نادى الإمارات",
       "rawIsoTime": "2026-10-16T13:00:00Z",
@@ -304,15 +313,6 @@
       "matchAr": "الفجيرة × بالم سيتي",
       "rawIsoTime": "2026-10-16T13:00:00Z",
       "time": "2 - 4 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🇦🇪 Emirati First Division League",
-      "tournamentAr": "🇦🇪 الدوري الإماراتي الدرجة الأولى",
-      "matchEn": "Al Urooba v Dibba Al Hisn",
-      "matchAr": "العروبة × دبا الحصن",
-      "rawIsoTime": "2026-10-16T13:00:00Z",
-      "time": "1 - 1 (done)",
       "isLive": false
     },
     {
@@ -399,19 +399,19 @@
     {
       "tournamentEn": "🇸🇾 Syrian Premier League",
       "tournamentAr": "🇸🇾 الدوري السوري",
-      "matchEn": "Al-Majd v Syrian Police",
-      "matchAr": "المجد × الشرطة السوري",
+      "matchEn": "Al-Karamah v Al-Nawaeir",
+      "matchAr": "الكرامة × النواعير",
       "rawIsoTime": "2026-10-16T12:00:00Z",
-      "time": "0 - 1 (done)",
+      "time": "3 - 0 (done)",
       "isLive": false
     },
     {
       "tournamentEn": "🇸🇾 Syrian Premier League",
       "tournamentAr": "🇸🇾 الدوري السوري",
-      "matchEn": "Al-Karamah v Al-Nawaeir",
-      "matchAr": "الكرامة × النواعير",
+      "matchEn": "Al-Majd v Syrian Police",
+      "matchAr": "المجد × الشرطة السوري",
       "rawIsoTime": "2026-10-16T12:00:00Z",
-      "time": "3 - 0 (done)",
+      "time": "0 - 1 (done)",
       "isLive": false
     }
   ]
