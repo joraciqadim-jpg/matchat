@@ -12,8 +12,8 @@
     {
       "tournamentEn": "🛡️ CAF Champions League",
       "tournamentAr": "🛡️ دوري أبطال أفريقيا",
-      "matchEn": "APR FC (undefined) v Zamalek (Egypt)",
-      "matchAr": "الجيش الرواندي (undefined) × الزمالك (مصر)",
+      "matchEn": "APR FC (Rwanda) v Zamalek (Egypt)",
+      "matchAr": "الجيش الرواندي (رواندا) × الزمالك (مصر)",
       "rawIsoTime": "2026-10-16T16:00:00Z",
       "time": "16:00",
       "isLive": false
@@ -30,8 +30,8 @@
     {
       "tournamentEn": "🛡️ CAF Confederation Cup",
       "tournamentAr": "🛡️ كأس الكونفيدرالية الإفريقية",
-      "matchEn": "Wolwalo Adigrat University (undefined) v Al Ahli Tripoli (Libya)",
-      "matchAr": "جامعة أديغرات ويلوالو (undefined) × الأهلي طرابلس (ليبيا)",
+      "matchEn": "Wolwalo Adigrat University (Ethiopia) v Al Ahli Tripoli (Libya)",
+      "matchAr": "جامعة أديغرات ويلوالو (إثيوبيا) × الأهلي طرابلس (ليبيا)",
       "rawIsoTime": "2026-10-16T13:00:00Z",
       "time": "13:00",
       "isLive": false
@@ -100,15 +100,6 @@
       "isLive": false
     },
     {
-      "tournamentEn": "🇧🇷 Brazilian Série A",
-      "tournamentAr": "🇧🇷 الدوري البرازيلي الدرجة الأولى",
-      "matchEn": "Mirassol v Internacional",
-      "matchAr": "ميراسول × إنترناسيونال",
-      "rawIsoTime": "2026-10-16T23:00:00Z",
-      "time": "23:00",
-      "isLive": false
-    },
-    {
       "tournamentEn": "🇦🇷 Argentinean Primera División",
       "tournamentAr": "🇦🇷 الدوري الأرجنتيني",
       "matchEn": "Defensa y Justicia v Instituto Córdoba",
@@ -156,8 +147,8 @@
     {
       "tournamentEn": "🛡️ CONMEBOL Libertadores",
       "tournamentAr": "🛡️ كوبا ليبرتادوريس",
-      "matchEn": "Estudiantes de La Plata (undefined) v Flamengo (Brazil)",
-      "matchAr": "إستوديانتيس دي لا بلاتا (undefined) × فلامينغو (البرازيل)",
+      "matchEn": "Estudiantes de La Plata (Argentina) v Flamengo (Brazil)",
+      "matchAr": "إستوديانتيس دي لا بلاتا (الأرجنتين) × فلامينغو (البرازيل)",
       "rawIsoTime": "2026-10-16T00:30:00Z",
       "time": "0 - 0 (done)",
       "isLive": false
@@ -244,12 +235,21 @@
       "isLive": false
     },
     {
-      "tournamentEn": "🇹🇷 Turkish Süper Lig",
+      "tournamentEn": "🇹🇷 Turkish Super Lig",
       "tournamentAr": "🇹🇷 دوري السوبر التركي",
       "matchEn": "Corum v Çaykur Rizespor",
       "matchAr": "تشوروم × تشايكور ريزه سبور",
       "rawIsoTime": "2026-10-16T17:00:00Z",
       "time": "17:00",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🇧🇷 Brazilian Serie A",
+      "tournamentAr": "🇧🇷 الدوري البرازيلي الدرجة الأولى",
+      "matchEn": "Mirassol v Internacional",
+      "matchAr": "ميراسول × إنترناسيونال",
+      "rawIsoTime": "2026-10-16T23:00:00Z",
+      "time": "23:00",
       "isLive": false
     },
     {
