@@ -1,19 +1,6 @@
 {
   "matches": [
     {
-      "tournamentEn": "🛡️ CAF Champions League",
-      "tournamentAr": "🛡️ دوري أبطال إفريقيا",
-      "matchEn": "APR (Rwanda) v Zamalek (Egypt)",
-      "matchAr": "الجيش الوطني الرواندي (رواندا) × الزمالك (مصر)",
-      "time": "16:00",
-      "channels": [
-        "📺 On Sport 1 [Nilesat 7.0W 11862 V 27500]",
-        "📺 MBC Masr 2 [Nilesat 7.0W 11219 H 27500]",
-        "📺 MBC Masr 2 [Nilesat 7.0W 11823 V 27500]",
-        "📺 MBC Masr 2 [Eutelsat 21.5E 11559 V 5000]"
-      ]
-    },
-    {
       "tournamentEn": "🛡️ CAF Confederation Cup",
       "tournamentAr": "🛡️ كأس الكونفدرالية الأفريقية",
       "matchEn": "ZED v Azam",
@@ -174,41 +161,11 @@
     {
       "tournamentEn": "🇶🇦 Qatar Stars League",
       "tournamentAr": "🇶🇦 الدوري القطري",
-      "matchEn": "Al Ahli v Al Wakrah",
-      "matchAr": "الأهلي × الوكرة",
-      "time": "14:30",
-      "channels": [
-        "📺 Al Kass Five [Badrsat 26.0E 10770 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🇶🇦 Qatar Stars League",
-      "tournamentAr": "🇶🇦 الدوري القطري",
       "matchEn": "Al Shahaniya v Al-Arabi",
       "matchAr": "الشحانية × العربي الأردني",
       "time": "16:45",
       "channels": [
         "📺 Al Kass Six [Badrsat 26.0E 10770 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🇮🇶 Iraq Stars League",
-      "tournamentAr": "🇮🇶 دوري نجوم العراق",
-      "matchEn": "Karbala v Al Gharraf",
-      "matchAr": "كربلاء × الغراف",
-      "time": "15:00",
-      "channels": [
-        "📺 Iraqia Sport [Nilesat 7.0W 12563 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🇮🇶 Iraq Stars League",
-      "tournamentAr": "🇮🇶 دوري نجوم العراق",
-      "matchEn": "Newroz v Al-Minaa",
-      "matchAr": "نوروز × الميناء",
-      "time": "15:00",
-      "channels": [
-        "📺 Iraqia Syriac [Nilesat 7.0W 12563 H 27500]"
       ]
     },
     {
