@@ -141,8 +141,8 @@
       "matchEn": "Al Ahli v Al-Wakrah",
       "matchAr": "الأهلي القطري × الوكرة",
       "rawIsoTime": "2026-10-16T14:30:00Z",
-      "time": "0 - 3 (live)",
-      "isLive": true
+      "time": "0 - 3 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇶🇦 Qatari Stars League",
@@ -366,7 +366,7 @@
       "matchEn": "Al-Ettifaq v Manama",
       "matchAr": "الاتفاق × المنامة",
       "rawIsoTime": "2026-10-16T16:00:00Z",
-      "time": "0 - 0 (live)",
+      "time": "0 - 1 (live)",
       "isLive": true
     },
     {
