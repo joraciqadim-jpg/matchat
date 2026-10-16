@@ -39,19 +39,19 @@
     {
       "tournamentEn": "🛡️ CAF Confederation Cup",
       "tournamentAr": "🛡️ كأس الكونفيدرالية الإفريقية",
-      "matchEn": "ZED FC (Egypt) v Azam FC (Tanzania)",
-      "matchAr": "زد (مصر) × عزام (تنزانيا)",
+      "matchEn": "Welwalo Adigrat University FC (Ethiopia) v Al Ahly Tripoli (Libya)",
+      "matchAr": "جامعة أديغرات ويلوالو (إثيوبيا) × الأهلي طرابلس (ليبيا)",
       "rawIsoTime": "2026-10-16T17:00:00Z",
-      "time": "1 - 0 (live)",
+      "time": "0 - 2 (live)",
       "isLive": true
     },
     {
       "tournamentEn": "🛡️ CAF Confederation Cup",
       "tournamentAr": "🛡️ كأس الكونفيدرالية الإفريقية",
-      "matchEn": "Welwalo Adigrat University FC (Ethiopia) v Al Ahly Tripoli (Libya)",
-      "matchAr": "جامعة أديغرات ويلوالو (إثيوبيا) × الأهلي طرابلس (ليبيا)",
+      "matchEn": "ZED FC (Egypt) v Azam FC (Tanzania)",
+      "matchAr": "زد (مصر) × عزام (تنزانيا)",
       "rawIsoTime": "2026-10-16T17:00:00Z",
-      "time": "0 - 2 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -192,19 +192,19 @@
     {
       "tournamentEn": "🇮🇶 Iraqi Stars League",
       "tournamentAr": "🇮🇶 دوري نجوم العراق",
-      "matchEn": "Nooruz SC v Al-Minaa SC",
-      "matchAr": "نوروز × الميناء",
+      "matchEn": "Karbala SC v Al-Gharafa",
+      "matchAr": "كربلاء × الغراف",
       "rawIsoTime": "2026-10-16T15:00:00Z",
-      "time": "2 - 0 (done)",
+      "time": "1 - 2 (done)",
       "isLive": false
     },
     {
       "tournamentEn": "🇮🇶 Iraqi Stars League",
       "tournamentAr": "🇮🇶 دوري نجوم العراق",
-      "matchEn": "Karbala SC v Al-Gharafa",
-      "matchAr": "كربلاء × الغراف",
+      "matchEn": "Nooruz SC v Al-Minaa SC",
+      "matchAr": "نوروز × الميناء",
       "rawIsoTime": "2026-10-16T15:00:00Z",
-      "time": "1 - 2 (done)",
+      "time": "2 - 0 (done)",
       "isLive": false
     },
     {
@@ -282,15 +282,6 @@
     {
       "tournamentEn": "🇦🇪 Emirati First Division League",
       "tournamentAr": "🇦🇪 الدوري الإماراتي الدرجة الأولى",
-      "matchEn": "Gulf United v Emirates Club",
-      "matchAr": "جلف يونايتد × نادى الإمارات",
-      "rawIsoTime": "2026-10-16T13:00:00Z",
-      "time": "1 - 7 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🇦🇪 Emirati First Division League",
-      "tournamentAr": "🇦🇪 الدوري الإماراتي الدرجة الأولى",
       "matchEn": "Fujairah v Palm City",
       "matchAr": "الفجيرة × بالم سيتي",
       "rawIsoTime": "2026-10-16T13:00:00Z",
@@ -307,10 +298,19 @@
       "isLive": false
     },
     {
+      "tournamentEn": "🇦🇪 Emirati First Division League",
+      "tournamentAr": "🇦🇪 الدوري الإماراتي الدرجة الأولى",
+      "matchEn": "Gulf United v Emirates Club",
+      "matchAr": "جلف يونايتد × نادى الإمارات",
+      "rawIsoTime": "2026-10-16T13:00:00Z",
+      "time": "1 - 7 (done)",
+      "isLive": false
+    },
+    {
       "tournamentEn": "🇮🇪 Irish Premier Division",
       "tournamentAr": "🇮🇪 الدوري الأيرلندي- الدرجة الممتازة",
-      "matchEn": "Galway United v Shamrock Rovers",
-      "matchAr": "غالواي يونايتد × شامروك روفرز",
+      "matchEn": "Drogheda United v Derry City",
+      "matchAr": "دروهيدا يونايتد × ديري سيتي",
       "rawIsoTime": "2026-10-16T18:45:00Z",
       "time": "18:45",
       "isLive": false
@@ -327,8 +327,8 @@
     {
       "tournamentEn": "🇮🇪 Irish Premier Division",
       "tournamentAr": "🇮🇪 الدوري الأيرلندي- الدرجة الممتازة",
-      "matchEn": "Drogheda United v Derry City",
-      "matchAr": "دروهيدا يونايتد × ديري سيتي",
+      "matchEn": "Galway United v Shamrock Rovers",
+      "matchAr": "غالواي يونايتد × شامروك روفرز",
       "rawIsoTime": "2026-10-16T18:45:00Z",
       "time": "18:45",
       "isLive": false
@@ -390,19 +390,19 @@
     {
       "tournamentEn": "🇸🇾 Syrian Premier League",
       "tournamentAr": "🇸🇾 الدوري السوري",
-      "matchEn": "Al-Majd v Syrian Police",
-      "matchAr": "المجد × الشرطة السوري",
+      "matchEn": "Al-Karamah v Al-Nawaeir",
+      "matchAr": "الكرامة × النواعير",
       "rawIsoTime": "2026-10-16T12:00:00Z",
-      "time": "0 - 1 (done)",
+      "time": "3 - 0 (done)",
       "isLive": false
     },
     {
       "tournamentEn": "🇸🇾 Syrian Premier League",
       "tournamentAr": "🇸🇾 الدوري السوري",
-      "matchEn": "Al-Karamah v Al-Nawaeir",
-      "matchAr": "الكرامة × النواعير",
+      "matchEn": "Al-Majd v Syrian Police",
+      "matchAr": "المجد × الشرطة السوري",
       "rawIsoTime": "2026-10-16T12:00:00Z",
-      "time": "3 - 0 (done)",
+      "time": "0 - 1 (done)",
       "isLive": false
     }
   ]
