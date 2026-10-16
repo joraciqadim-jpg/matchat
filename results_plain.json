@@ -15,8 +15,8 @@
       "matchEn": "APR FC (Rwanda) v Zamalek (Egypt)",
       "matchAr": "الجيش الرواندي (رواندا) × الزمالك (مصر)",
       "rawIsoTime": "2026-10-16T16:00:00Z",
-      "time": "0 - 1 (live)",
-      "isLive": true
+      "time": "0 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🛡️ CAF U-20 Africa Cup of Nations Qualification",
@@ -213,7 +213,7 @@
       "matchEn": "Diyala v Naft Maysan",
       "matchAr": "ديالى × نفط ميسان",
       "rawIsoTime": "2026-10-16T17:30:00Z",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
