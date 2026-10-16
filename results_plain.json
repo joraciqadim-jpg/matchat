@@ -48,8 +48,8 @@
     {
       "tournamentEn": "🛡️ CAF Confederation Cup",
       "tournamentAr": "🛡️ كأس الكونفيدرالية الإفريقية",
-      "matchEn": "Welwalo Adigrat University FC v Al Ahly Tripoli",
-      "matchAr": "جامعة أديغرات ويلوالو × الأهلي طرابلس",
+      "matchEn": "Welwalo Adigrat University FC (Ethiopia) v Al Ahly Tripoli (Libya)",
+      "matchAr": "جامعة أديغرات ويلوالو (إثيوبيا) × الأهلي طرابلس (ليبيا)",
       "rawIsoTime": "2026-10-16T16:00:00Z",
       "time": "16:00",
       "isLive": false
@@ -57,8 +57,8 @@
     {
       "tournamentEn": "🛡️ CAF Confederation Cup",
       "tournamentAr": "🛡️ كأس الكونفيدرالية الإفريقية",
-      "matchEn": "ZED FC v Azam FC",
-      "matchAr": "زد × عزام",
+      "matchEn": "ZED FC (Egypt) v Azam FC (Tanzania)",
+      "matchAr": "زد (مصر) × عزام (تنزانيا)",
       "rawIsoTime": "2026-10-16T17:00:00Z",
       "time": "17:00",
       "isLive": false
@@ -141,8 +141,8 @@
       "matchEn": "Al-Qadsiah v Abha",
       "matchAr": "القادسية السعودي × أبها",
       "rawIsoTime": "2026-10-16T13:15:00Z",
-      "time": "2 - 0 (live)",
-      "isLive": true
+      "time": "2 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇶🇦 Qatari Stars League",
@@ -177,7 +177,7 @@
       "matchEn": "Daqra v Al-Jazeera SC",
       "matchAr": "دوقرة × الجزيرة الأردني",
       "rawIsoTime": "2026-10-16T14:00:00Z",
-      "time": "1 - 2 (live)",
+      "time": "1 - 3 (live)",
       "isLive": true
     },
     {
@@ -213,7 +213,7 @@
       "matchEn": "Karbala SC v Al-Gharafa",
       "matchAr": "كربلاء × الغراف",
       "rawIsoTime": "2026-10-16T15:00:00Z",
-      "time": "0 - 0 (live)",
+      "time": "0 - 1 (live)",
       "isLive": true
     },
     {
