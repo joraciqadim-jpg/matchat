@@ -339,8 +339,8 @@
       "matchEn": "Atlético Mineiro v Coritiba",
       "matchAr": "أتليتيكو مينيرو × كوريتيبا",
       "rawIsoTime": "2026-10-17T21:30:00.000Z",
-      "time": "21:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇧🇷 Brazilian Série A",
@@ -4839,7 +4839,7 @@
       "matchEn": "Mercedes v Leones de Rosario FC",
       "matchAr": "Mercedes × Leones de Rosario FC",
       "rawIsoTime": "2026-10-17T19:30:00.000Z",
-      "time": "1 - 1 (live)",
+      "time": "2 - 1 (live)",
       "isLive": true
     },
     {
@@ -5172,8 +5172,8 @@
       "matchEn": "Aucas Quito v LDU Quito",
       "matchAr": "أوكاس كيتو × ليغا كيتو",
       "rawIsoTime": "2026-10-17T21:30:00.000Z",
-      "time": "21:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 Premier B - Regular Season",
