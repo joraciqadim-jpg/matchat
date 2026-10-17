@@ -1,4 +1,142 @@
 {
+  "كيفا": {
+    "en": "Kifa",
+    "ar": "كيفا",
+    "countryen": "Mauritania",
+    "countryar": "موريتانيا"
+  },
+  "يانج افريكانز": {
+    "en": "Young Africans",
+    "ar": "يانج افريكانز",
+    "countryen": "Tanzania",
+    "countryar": "تنزانيا"
+  },
+  "أورلاندو بايرتس": {
+    "en": "Orlando Pirates",
+    "ar": "أورلاندو بايرتس",
+    "countryen": "South Africa",
+    "countryar": "جنوب أفريقيا"
+  },
+  "ريد أروس": {
+    "en": "Red Arrows",
+    "ar": "ريد أروس",
+    "countryen": "Zambia",
+    "countryar": "زامبيا"
+  },
+  "كايزر تشيفز": {
+    "en": "Kaizer Chiefs",
+    "ar": "كايزر تشيفز",
+    "countryen": "South Africa",
+    "countryar": "جنوب أفريقيا"
+  },
+  "الأهلي": {
+    "en": "Al Ahly",
+    "ar": "الأهلي",
+    "countryen": "Egypt",
+    "countryar": "مصر"
+  },
+  "النادي الأفريقي": {
+    "en": "Club Africain",
+    "ar": "النادي الأفريقي",
+    "countryen": "Tunisia",
+    "countryar": "تونس"
+  },
+  "Arabe Unido Ii": {
+    "en": "Arabe Unido II",
+    "ar": "Arabe Unido Ii",
+    "countryen": "Panama",
+    "countryar": "بنما"
+  },
+  "Sporting Sm Ii": {
+    "en": "Sporting SM II",
+    "ar": "Sporting Sm Ii",
+    "countryen": "Panama",
+    "countryar": "بنما"
+  },
+  "Udelas Fc": {
+    "en": "Udelas Fc",
+    "ar": "Udelas Fc",
+    "countryen": "Panama",
+    "countryar": "بنما"
+  },
+  "Unión Coclé II": {
+    "en": "Unión Coclé II",
+    "ar": "Unión Coclé II",
+    "countryen": "Panama",
+    "countryar": "بنما"
+  },
+  "Universidad De Panamá Fc": {
+    "en": "Universidad De Panamá Fc",
+    "ar": "Universidad De Panamá Fc",
+    "countryen": "Panama",
+    "countryar": "بنما"
+  },
+  "Independiente De La Chorrera U20": {
+    "en": "Independiente De La Chorrera U20",
+    "ar": "Independiente De La Chorrera U20",
+    "countryen": "Panama",
+    "countryar": "بنما"
+  },
+  "الترجي الجرجيسي": {
+    "en": "Espérance Sportive de Zarzis",
+    "ar": "الترجي الجرجيسي",
+    "countryen": "Tunisia",
+    "countryar": "تونس"
+  },
+  "آفاد - بلاتوه": {
+    "en": "AFAD - Plateau",
+    "ar": "آفاد - بلاتوه",
+    "countryen": "Côte d'Ivoire",
+    "countryar": "ساحل العاج"
+  },
+  "الصفاقسي": {
+    "en": "CS Sfaxien",
+    "ar": "الصفاقسي",
+    "countryen": "Tunisia",
+    "countryar": "تونس"
+  },
+  "بلاك بولز مابوتو": {
+    "en": "Black Bulls Maputo",
+    "ar": "بلاك بولز مابوتو",
+    "countryen": "Mozambique",
+    "countryar": "موزمبيق"
+  },
+  "سي أو كورهوغو": {
+    "en": "CO Korhogo",
+    "ar": "سي أو كورهوغو",
+    "countryen": "Ivory Coast",
+    "countryar": "ساحل العاج"
+  },
+  "الجمعية الرياضية للجمارك": {
+    "en": "Customs Sports Association",
+    "ar": "الجمعية الرياضية للجمارك",
+    "countryen": "Mauritania",
+    "countryar": "موريتانيا"
+  },
+  "Cd Universitario Ii": {
+    "en": "Cd Universitario Ii",
+    "ar": "Cd Universitario Ii",
+    "countryen": "Panama",
+    "countryar": "بنما"
+  },
+  "Veraguas Ii": {
+    "en": "Veraguas Ii",
+    "ar": "Veraguas Ii",
+    "countryen": "Panama",
+    "countryar": "بنما"
+  },
+  "Herrera Ii": {
+    "en": "Herrera Ii",
+    "ar": "Herrera Ii",
+    "countryen": "Panama",
+    "countryar": "بنما"
+  },
+  "Academia Mario Mendez": {
+    "en": "Academia Mario Mendez",
+    "ar": "Academia Mario Mendez",
+    "countryen": "Panama",
+    "countryar": "بنما"
+  },
   "CFFA أندوهارانوفوتسي": {
     "en": "CFFA Andoharanofotsy",
     "ar": "CFFA أندوهارانوفوتسي",
