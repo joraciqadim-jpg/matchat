@@ -5253,7 +5253,7 @@
       "matchEn": "كارابوبو v ديبورتيفو تاتشيرا",
       "matchAr": "كارابوبو × ديبورتيفو تاتشيرا",
       "rawIsoTime": "2026-10-17T22:30:00.000Z",
-      "time": "1 - 1 (live)",
+      "time": "1 - 2 (live)",
       "isLive": true
     },
     {
@@ -5379,7 +5379,7 @@
       "matchEn": "UNAN Managua v San Marcos FC",
       "matchAr": "UNAN Managua × San Marcos FC",
       "rawIsoTime": "2026-10-17T23:00:00.000Z",
-      "time": "1 - 1 (live)",
+      "time": "2 - 1 (live)",
       "isLive": true
     },
     {
@@ -5424,8 +5424,8 @@
       "matchEn": "أتلانتا يونايتد v انتر ميامي",
       "matchAr": "أتلانتا يونايتد × انتر ميامي",
       "rawIsoTime": "2026-10-17T23:30:00.000Z",
-      "time": "23:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇺🇸 Major League Soccer",
@@ -5460,7 +5460,7 @@
       "matchEn": "نيويورك ريد بولز v تورونتو",
       "matchAr": "نيويورك ريد بولز × تورونتو",
       "rawIsoTime": "2026-10-17T23:30:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "0 - 1 (live)",
       "isLive": true
     },
     {
