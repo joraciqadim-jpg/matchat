@@ -3831,7 +3831,7 @@
       "matchEn": "Blau-Weiß Linz v Anif",
       "matchAr": "بلاو فايس لينز × أنيف",
       "rawIsoTime": "2026-10-17T15:30:00.000Z",
-      "time": "4 - 1 (live)",
+      "time": "3 - 1 (live)",
       "isLive": true
     },
     {
@@ -3885,8 +3885,8 @@
       "matchEn": "Heist v Royal Antwerp",
       "matchAr": "هيست × رويال أنتويرب",
       "rawIsoTime": "2026-10-17T15:30:00.000Z",
-      "time": "0 - 1 (done)",
-      "isLive": false
+      "time": "0 - 1 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇸🇦 Saudi League",
@@ -3903,7 +3903,7 @@
       "matchEn": "Al-Naft v Zakho",
       "matchAr": "النفط × زاخو",
       "rawIsoTime": "2026-10-17T15:45:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -4029,7 +4029,7 @@
       "matchEn": "Chambly v Dieppe",
       "matchAr": "تشامبلي × ديب",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "1 - 2 (live)",
+      "time": "2 - 2 (live)",
       "isLive": true
     },
     {
@@ -4209,7 +4209,7 @@
       "matchEn": "Racing Club de Montevideo v Montevideo Wanderers",
       "matchAr": "Racing Club Montevideo × مونتيفيديو واندررز",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "1 - 0 (live)",
+      "time": "2 - 0 (live)",
       "isLive": true
     },
     {
@@ -4389,7 +4389,7 @@
       "matchEn": "Jaraaf v Ajel",
       "matchAr": "جراف × Ajel",
       "rawIsoTime": "2026-10-17T17:00:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "0 - 1 (live)",
       "isLive": true
     },
     {
