@@ -141,7 +141,7 @@
       "matchEn": "Fulham v Hull City",
       "matchAr": "فولهام × هال سيتي",
       "rawIsoTime": "2026-10-17T14:00:00Z",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -285,8 +285,8 @@
       "matchEn": "ADO Den Haag v Eindhoven",
       "matchAr": "أدو دين هاج × إيندهوفن",
       "rawIsoTime": "2026-10-17T14:30:00Z",
-      "time": "14:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇳🇱 Dutch Eredivisie",
@@ -393,7 +393,7 @@
       "matchEn": "Wrexham v Preston North End",
       "matchAr": "وريكسهام × بريستون نورث ايند",
       "rawIsoTime": "2026-10-17T14:00:00Z",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
