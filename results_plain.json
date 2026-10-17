@@ -141,8 +141,8 @@
       "matchEn": "Fulham v Hull City",
       "matchAr": "فولهام × هال سيتي",
       "rawIsoTime": "2026-10-17T14:00:00Z",
-      "time": "14:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇬🇧 English Premier League",
@@ -159,8 +159,8 @@
       "matchEn": "Brentford v Liverpool",
       "matchAr": "برينتفورد × ليفربول",
       "rawIsoTime": "2026-10-17T14:00:00Z",
-      "time": "14:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇬🇧 English Premier League",
@@ -240,7 +240,7 @@
       "matchEn": "Elversberg v Augsburg",
       "matchAr": "إلفيرسبرغ × أوجسبورج",
       "rawIsoTime": "2026-10-17T13:30:00Z",
-      "time": "2 - 0 (live)",
+      "time": "3 - 0 (live)",
       "isLive": true
     },
     {
