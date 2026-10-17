@@ -42,7 +42,7 @@
       "matchEn": "FC San-Pédro v FC Nouadhibou",
       "matchAr": "سان بيدرو × نواذيبو",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -3795,7 +3795,7 @@
       "matchEn": "Kwara United v Abia Warriors",
       "matchAr": "كوارا يونايتد × أبيا ووريرز",
       "rawIsoTime": "2026-10-17T15:00:00.000Z",
-      "time": "1 - 0 (live)",
+      "time": "1 - 1 (live)",
       "isLive": true
     },
     {
@@ -3912,7 +3912,7 @@
       "matchEn": "Sanat Naft Abadan v Shahrdari Arak",
       "matchAr": "صنعت نفط عبادان × شارداري أراك",
       "rawIsoTime": "2026-10-17T15:30:00.000Z",
-      "time": "2 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -4020,7 +4020,7 @@
       "matchEn": "Elazığspor v Arnavutköy Belediyespor",
       "matchAr": "إلازغ سبور × Arnavutköy Belediyespor",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -4218,7 +4218,7 @@
       "matchEn": "Créteil v Furiani Agliani",
       "matchAr": "كريتيل × Furiani Agliani",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "2 - 0 (live)",
+      "time": "2 - 1 (live)",
       "isLive": true
     },
     {
@@ -4362,8 +4362,8 @@
       "matchEn": "Maccabi Netanya v Hapoel Ironi Kiryat Shmona",
       "matchAr": "مكابي نتانيا × هبوعيل عيروني كريات شمونه",
       "rawIsoTime": "2026-10-17T16:15:00.000Z",
-      "time": "16:15",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇬🇷 Greek Super League",
