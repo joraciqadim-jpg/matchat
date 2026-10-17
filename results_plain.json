@@ -285,7 +285,7 @@
       "matchEn": "Bologna v Inter Milan",
       "matchAr": "بولونيا × إنتر ميلان",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -429,7 +429,7 @@
       "matchEn": "União de Leiria v Bragança",
       "matchAr": "أونياو ليريا × براغانسا",
       "rawIsoTime": "2026-10-17T15:00:00.000Z",
-      "time": "0 - 1 (live)",
+      "time": "1 - 1 (live)",
       "isLive": true
     },
     {
@@ -3759,7 +3759,7 @@
       "matchEn": "Al-Ansar v Al-Ahli Aleppo",
       "matchAr": "الأنصار × أهلي حلب",
       "rawIsoTime": "2026-10-17T15:00:00.000Z",
-      "time": "1 - 0 (live)",
+      "time": "2 - 0 (live)",
       "isLive": true
     },
     {
@@ -3795,7 +3795,7 @@
       "matchEn": "Austria Lustenau v LASK Linz",
       "matchAr": "أوستريا لوستيناو × لاسك لينز",
       "rawIsoTime": "2026-10-17T15:00:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "0 - 1 (live)",
       "isLive": true
     },
     {
@@ -4245,7 +4245,7 @@
       "matchEn": "Sigma Olomouc v Slovan Liberec",
       "matchAr": "سيغما أولوموتس × سلوفان ليبيريتس",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -4407,8 +4407,8 @@
       "matchEn": "Hapoel Hadera U19 v Hapoel Tel Aviv",
       "matchAr": "Hapoel Hadera U19 × هبوعيل تل أبيب",
       "rawIsoTime": "2026-10-17T16:10:00.000Z",
-      "time": "16:10",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 Premier League",
