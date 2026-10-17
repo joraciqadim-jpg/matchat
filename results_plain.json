@@ -78,8 +78,8 @@
       "matchEn": "AFAD - Plateau v CS Sfaxien",
       "matchAr": "آفاد - بلاتوه × الصفاقسي",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "16:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🛡️ CAF Confederation Cup - Qualifiers",
@@ -402,7 +402,7 @@
       "matchEn": "Florgrade v Portimonense",
       "matchAr": "Florgrade × بورتيمونينسي",
       "rawIsoTime": "2026-10-17T14:00:00.000Z",
-      "time": "1 - 2 (live)",
+      "time": "1 - 1 (live)",
       "isLive": true
     },
     {
@@ -420,7 +420,7 @@
       "matchEn": "Fazendense v Estrela da Amadora",
       "matchAr": "Fazendense × إستريلا دا أمادورا",
       "rawIsoTime": "2026-10-17T14:30:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "0 - 1 (live)",
       "isLive": true
     },
     {
@@ -2805,7 +2805,7 @@
       "matchEn": "AFC Telford United v Darlington",
       "matchAr": "تيلفورد يونايتد × دارلينغتون",
       "rawIsoTime": "2026-10-17T14:00:00.000Z",
-      "time": "2 - 1 (live)",
+      "time": "1 - 1 (live)",
       "isLive": true
     },
     {
@@ -3057,7 +3057,7 @@
       "matchEn": "Spalding United v Alvechurch",
       "matchAr": "سبالدينج يونايتد × آلفيتشورش",
       "rawIsoTime": "2026-10-17T14:00:00.000Z",
-      "time": "2 - 0 (live)",
+      "time": "2 - 2 (live)",
       "isLive": true
     },
     {
@@ -3696,7 +3696,7 @@
       "matchEn": "Liniers v UAI Urquiza",
       "matchAr": "Liniers × UAI Urquiza",
       "rawIsoTime": "2026-10-17T14:00:00.000Z",
-      "time": "1 - 0 (live)",
+      "time": "1 - 1 (live)",
       "isLive": true
     },
     {
@@ -3984,7 +3984,7 @@
       "matchEn": "Blau-Weiß Linz v Anif",
       "matchAr": "بلاو فايس لينز × أنيف",
       "rawIsoTime": "2026-10-17T15:30:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "0 - 1 (live)",
       "isLive": true
     },
     {
@@ -4002,7 +4002,7 @@
       "matchEn": "Fanja v Saham",
       "matchAr": "فنجاء × صحم",
       "rawIsoTime": "2026-10-17T15:30:00.000Z",
-      "time": "1 - 0 (live)",
+      "time": "1 - 1 (live)",
       "isLive": true
     },
     {
@@ -4227,8 +4227,8 @@
       "matchEn": "Sekhukhune United v Marumo Gallants",
       "matchAr": "سيخوخون يونايتد × مارومو جالانتس",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "16:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇨🇿 Czech First League",
@@ -4290,8 +4290,8 @@
       "matchEn": "Créteil v Furiani Agliani",
       "matchAr": "كريتيل × Furiani Agliani",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "16:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 Regional League - Qualifiers - North",
