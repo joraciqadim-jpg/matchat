@@ -33,8 +33,8 @@
       "matchEn": "Star Sport Academy v RS Berkane",
       "matchAr": "أكاديمية ستار سبورت × نهضة بركان",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "16:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🛡️ CAF Champions League - Qualifiers",
@@ -42,8 +42,8 @@
       "matchEn": "FC San-Pédro v FC Nouadhibou",
       "matchAr": "سان بيدرو × نواذيبو",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "16:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🛡️ CAF Confederation Cup - Qualifiers",
@@ -87,8 +87,8 @@
       "matchEn": "Rayon Sports v Black Bulls Maputo",
       "matchAr": "رايون سبورت × بلاك بولز مابوتو",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "16:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🛡️ CAF Confederation Cup - Qualifiers",
@@ -96,8 +96,8 @@
       "matchEn": "CO Korhogo v AS FAR",
       "matchAr": "سي أو كورهوغو × الجيش الملكي",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "16:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🛡️ CAF Confederation Cup - Qualifiers",
@@ -357,7 +357,7 @@
       "matchEn": "Emmen v Almere City",
       "matchAr": "إيمين × ألميري سيتي",
       "rawIsoTime": "2026-10-17T14:30:00.000Z",
-      "time": "2 - 0 (live)",
+      "time": "2 - 1 (live)",
       "isLive": true
     },
     {
@@ -447,8 +447,8 @@
       "matchEn": "Louletano v Rio Ave",
       "matchAr": "لوليتانو × ريو آفي",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "16:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏆 Portuguese Cup - Round 3",
@@ -3057,7 +3057,7 @@
       "matchEn": "Spalding United v Alvechurch",
       "matchAr": "سبالدينج يونايتد × آلفيتشورش",
       "rawIsoTime": "2026-10-17T14:00:00.000Z",
-      "time": "2 - 2 (live)",
+      "time": "2 - 0 (live)",
       "isLive": true
     },
     {
@@ -3687,7 +3687,7 @@
       "matchEn": "Havant & Waterlooville v Hanworth Villa",
       "matchAr": "Havant & waterloovile × هانورث فيلا",
       "rawIsoTime": "2026-10-17T14:00:00.000Z",
-      "time": "2 - 2 (live)",
+      "time": "0 - 2 (live)",
       "isLive": true
     },
     {
@@ -3804,7 +3804,7 @@
       "matchEn": "Paksi v Győri",
       "matchAr": "باكشي × غيوري",
       "rawIsoTime": "2026-10-17T15:00:00.000Z",
-      "time": "0 - 2 (live)",
+      "time": "1 - 2 (live)",
       "isLive": true
     },
     {
@@ -3975,7 +3975,7 @@
       "matchEn": "Progress Niederkorn v UN Käerjeng 97",
       "matchAr": "بروغريس نيدركورن × Un Kaerjeng 97",
       "rawIsoTime": "2026-10-17T15:30:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "0 - 1 (live)",
       "isLive": true
     },
     {
@@ -4155,7 +4155,7 @@
       "matchEn": "Balzan Youths v Żabbar St. Patrick",
       "matchAr": "بالزان يوثس × سانت باتريك زابار",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -4164,8 +4164,8 @@
       "matchEn": "Menemen Belediyespor v Güzide Gebzespor",
       "matchAr": "بلدية منيمين × Guzide Gebzespor",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "16:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 TFF First League",
@@ -4254,7 +4254,7 @@
       "matchEn": "Viking v Fredrikstad",
       "matchAr": "فايكينج × فريدريكستاد",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -4263,8 +4263,8 @@
       "matchEn": "Fethiyespor v Ankaragücü",
       "matchAr": "فتحية سبور × أنقرة غوجو",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "16:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇹🇷 Turkish Süper Lig",
@@ -4299,7 +4299,7 @@
       "matchEn": "Créteil v Furiani Agliani",
       "matchAr": "كريتيل × Furiani Agliani",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -4398,8 +4398,8 @@
       "matchEn": "Maccabi Tel Aviv v Hapoel Petah Tikva U19",
       "matchAr": "ماكابي تيل أبيب × Hapoel Petah Tikva U19",
       "rawIsoTime": "2026-10-17T16:05:00.000Z",
-      "time": "16:05",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 Premier League - Youth",
