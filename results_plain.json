@@ -339,8 +339,8 @@
       "matchEn": "Atlético Mineiro v Coritiba",
       "matchAr": "أتليتيكو مينيرو × كوريتيبا",
       "rawIsoTime": "2026-10-17T21:30:00.000Z",
-      "time": "1 - 0 (live)",
-      "isLive": true
+      "time": "1 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇧🇷 Brazilian Série A",
@@ -5091,7 +5091,7 @@
       "matchEn": "Universitario CD II (Panama) v Veraguas II (Panama)",
       "matchAr": "Cd Universitario Ii (بنما) × Veraguas Ii (بنما)",
       "rawIsoTime": "2026-10-17T21:00:00.000Z",
-      "time": "21:00",
+      "time": "2 - 0 (done)",
       "isLive": false
     },
     {
@@ -5127,7 +5127,7 @@
       "matchEn": "Herrera II (Panama) v Academia Mario Mendez (Panama)",
       "matchAr": "Herrera Ii (بنما) × Academia Mario Mendez (بنما)",
       "rawIsoTime": "2026-10-17T21:00:00.000Z",
-      "time": "21:00",
+      "time": "4 - 4 (done)",
       "isLive": false
     },
     {
@@ -5154,8 +5154,8 @@
       "matchEn": "Universitario de Vinto v San Antonio",
       "matchAr": "جامعة فينتو × San Antonio",
       "rawIsoTime": "2026-10-17T21:15:00.000Z",
-      "time": "2 - 1 (live)",
-      "isLive": true
+      "time": "2 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏁 Primera División - First Hexagonal",
@@ -5163,8 +5163,8 @@
       "matchEn": "Aucas Quito v LDU Quito",
       "matchAr": "أوكاس كيتو × ليغا كيتو",
       "rawIsoTime": "2026-10-17T21:30:00.000Z",
-      "time": "1 - 1 (live)",
-      "isLive": true
+      "time": "1 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏁 Premier B - Regular Season",
@@ -5226,7 +5226,7 @@
       "matchEn": "Richmond Kickers v Corpus Christi FC",
       "matchAr": "Richmond Kickers × Corpus Christi FC",
       "rawIsoTime": "2026-10-17T22:00:00.000Z",
-      "time": "4 - 1 (live)",
+      "time": "5 - 1 (live)",
       "isLive": true
     },
     {
