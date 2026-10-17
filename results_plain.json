@@ -4659,7 +4659,7 @@
       "matchEn": "Cracovia Kraków v Legia Warsaw",
       "matchAr": "كراكوفيا كراكوف × ليغيا وارسو",
       "rawIsoTime": "2026-10-17T18:15:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "0 - 1 (live)",
       "isLive": true
     },
     {
@@ -4668,8 +4668,8 @@
       "matchEn": "Rapid Bucharest v Corvinul Hunedoara",
       "matchAr": "رابيد بوخارست × كورفينول هونيدوارا",
       "rawIsoTime": "2026-10-17T18:30:00.000Z",
-      "time": "18:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 Premier League",
@@ -4686,8 +4686,8 @@
       "matchEn": "Philadelphia Union v Charlotte",
       "matchAr": "فيلادلفيا يونيون × شارلوت",
       "rawIsoTime": "2026-10-17T18:30:00.000Z",
-      "time": "18:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇦🇷 Argentine Primera B",
