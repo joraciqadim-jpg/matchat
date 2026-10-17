@@ -4875,7 +4875,7 @@
       "matchEn": "Deportivo La Guaira v Trujillanos",
       "matchAr": "ديبورتيفو لا جويرا × تروهييانوس",
       "rawIsoTime": "2026-10-17T20:00:00.000Z",
-      "time": "1 - 2 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -4992,7 +4992,7 @@
       "matchEn": "Juan Pablo II College v Sport Boys Callao",
       "matchAr": "Juan Pablo II College × سبورت بويز كاياو",
       "rawIsoTime": "2026-10-17T20:00:00.000Z",
-      "time": "2 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -5010,7 +5010,7 @@
       "matchEn": "Salcedo v Atlantic",
       "matchAr": "Salcedo × Atlántico",
       "rawIsoTime": "2026-10-17T20:00:00.000Z",
-      "time": "2 - 1 (live)",
+      "time": "1 - 1 (live)",
       "isLive": true
     },
     {
@@ -5208,8 +5208,8 @@
       "matchEn": "Moca v خاراباكوا",
       "matchAr": "Moca × خاراباكوا",
       "rawIsoTime": "2026-10-17T22:00:00.000Z",
-      "time": "22:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 Metropolitana B",
