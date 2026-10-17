@@ -150,8 +150,8 @@
       "matchEn": "Manchester City v Ipswich Town",
       "matchAr": "مانشستر سيتي × إبسويتش تاون",
       "rawIsoTime": "2026-10-17T14:00:00Z",
-      "time": "14:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇬🇧 English Premier League",
@@ -366,8 +366,8 @@
       "matchEn": "Derby County v Stoke City",
       "matchAr": "ديربي كاونتي × ستوك سيتي",
       "rawIsoTime": "2026-10-17T14:00:00Z",
-      "time": "14:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇬🇧 English Championship",
@@ -429,8 +429,8 @@
       "matchEn": "Sanguinhedense v Nacional Madeira",
       "matchAr": "سانجوانينسي × ناسيونال ماديرا",
       "rawIsoTime": "2026-10-17T14:00:00Z",
-      "time": "14:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏆 Portuguese Cup",
@@ -537,7 +537,7 @@
       "matchEn": "Espoir Sportif de Hammam Sousse v Union Sportive de Ben Guerdane",
       "matchAr": "الأمل الرياضي بحمام سوسة × الاتحاد الرياضي ببنقردان",
       "rawIsoTime": "2026-10-17T13:30:00Z",
-      "time": "0 - 0 (live)",
+      "time": "0 - 1 (live)",
       "isLive": true
     },
     {
@@ -789,8 +789,8 @@
       "matchEn": "Kilmarnock v Motherwell",
       "matchAr": "كيلمارنوك × ماذرويل",
       "rawIsoTime": "2026-10-17T14:00:00Z",
-      "time": "14:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scottish Premiership",
@@ -798,8 +798,8 @@
       "matchEn": "St Johnstone v Dundee United",
       "matchAr": "سانت جونستون × دندي يونايتد",
       "rawIsoTime": "2026-10-17T14:00:00Z",
-      "time": "14:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇮🇪 Irish Premier Division",
