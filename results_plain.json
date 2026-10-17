@@ -258,8 +258,8 @@
       "matchEn": "Troyes v Lens",
       "matchAr": "تروا × لانس",
       "rawIsoTime": "2026-10-17T18:45:00.000Z",
-      "time": "18:45",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇫🇷 French Ligue 1",
@@ -267,8 +267,8 @@
       "matchEn": "Lille v Brest",
       "matchAr": "ليل × بريست",
       "rawIsoTime": "2026-10-17T18:45:00.000Z",
-      "time": "18:45",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇮🇹 Italian Serie A",
@@ -294,8 +294,8 @@
       "matchEn": "Roma v Genoa",
       "matchAr": "روما × جنوى",
       "rawIsoTime": "2026-10-17T18:45:00.000Z",
-      "time": "18:45",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇳🇱 Dutch Eredivisie",
@@ -4614,7 +4614,7 @@
       "matchEn": "Puente Alto v CD Imperial Unido",
       "matchAr": "Puente Alto × Cd Imperial Unido",
       "rawIsoTime": "2026-10-17T18:00:00.000Z",
-      "time": "1 - 1 (live)",
+      "time": "1 - 2 (live)",
       "isLive": true
     },
     {
