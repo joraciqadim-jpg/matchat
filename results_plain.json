@@ -69,8 +69,8 @@
       "matchEn": "Espérance Sportive de Zarzis v Real Bamako",
       "matchAr": "الترجي الجرجيسي × ريال باماكو",
       "rawIsoTime": "2026-10-17T14:30:00.000Z",
-      "time": "1 - 3 (done)",
-      "isLive": false
+      "time": "0 - 3 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🛡️ CAF Confederation Cup - Qualifiers",
@@ -303,8 +303,8 @@
       "matchEn": "ADO Den Haag v Eindhoven",
       "matchAr": "أدو دين هاج × آيندهوفن",
       "rawIsoTime": "2026-10-17T14:30:00.000Z",
-      "time": "2 - 1 (done)",
-      "isLive": false
+      "time": "1 - 1 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇳🇱 Dutch Eredivisie",
@@ -357,8 +357,8 @@
       "matchEn": "Emmen v Almere City",
       "matchAr": "إيمين × ألميري سيتي",
       "rawIsoTime": "2026-10-17T14:30:00.000Z",
-      "time": "2 - 1 (done)",
-      "isLive": false
+      "time": "2 - 1 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏆 Portuguese Cup - Round 3",
@@ -420,8 +420,8 @@
       "matchEn": "Fazendense v Estrela da Amadora",
       "matchAr": "Fazendense × إستريلا دا أمادورا",
       "rawIsoTime": "2026-10-17T14:30:00.000Z",
-      "time": "1 - 2 (done)",
-      "isLive": false
+      "time": "1 - 1 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏆 Portuguese Cup - Round 3",
@@ -3660,8 +3660,8 @@
       "matchEn": "Al-Sailiya v Qatar",
       "matchAr": "السيلية × قطر",
       "rawIsoTime": "2026-10-17T14:30:00.000Z",
-      "time": "2 - 2 (done)",
-      "isLive": false
+      "time": "1 - 2 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇱🇹 Lithuanian A Lyga",
@@ -3669,8 +3669,8 @@
       "matchEn": "Džiugas Telšiai v Transinvest",
       "matchAr": "Džiugas Telšiai × ترانس إنفيست",
       "rawIsoTime": "2026-10-17T14:30:00.000Z",
-      "time": "3 - 3 (done)",
-      "isLive": false
+      "time": "1 - 3 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🛡️ AFC Challenge League",
@@ -3705,7 +3705,7 @@
       "matchEn": "Östers Växjö v IK Oddevold",
       "matchAr": "أوسترس فكشخو × IK Oddevold",
       "rawIsoTime": "2026-10-17T15:00:00.000Z",
-      "time": "2 - 1 (live)",
+      "time": "3 - 1 (live)",
       "isLive": true
     },
     {
@@ -4182,7 +4182,7 @@
       "matchEn": "Fethiyespor v Ankaragücü",
       "matchAr": "فتحية سبور × أنقرة غوجو",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "1 - 0 (live)",
+      "time": "1 - 1 (live)",
       "isLive": true
     },
     {
@@ -4353,7 +4353,7 @@
       "matchEn": "Génération Foot v Baikine",
       "matchAr": "جينيراسيون فوت × بايكاين",
       "rawIsoTime": "2026-10-17T16:15:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -4398,8 +4398,8 @@
       "matchEn": "Lokomotiv Moscow v Krasnodar",
       "matchAr": "لوكوموتيف موسكو × كراسنودار",
       "rawIsoTime": "2026-10-17T16:30:00.000Z",
-      "time": "16:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 Premier League",
@@ -4434,8 +4434,8 @@
       "matchEn": "Trefelin v Llantwit Major",
       "matchAr": "Trefelin × Llantwit Major",
       "rawIsoTime": "2026-10-17T16:30:00.000Z",
-      "time": "16:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 Qatar League",
@@ -5704,24 +5704,6 @@
       "matchAr": "Juticalpa × Atletico Choloma",
       "rawIsoTime": "2026-10-17T23:15:00.000Z",
       "time": "23:15",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🏁 Bolivian League",
-      "tournamentAr": "🏁 الدوري البوليفي",
-      "matchEn": "بلومينغ سانتا كروس v Independiente Petrolero",
-      "matchAr": "بلومينغ سانتا كروس × Independiente Petrolero",
-      "rawIsoTime": "2026-10-17T23:30:00.000Z",
-      "time": "23:30",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🏁 بطولة USL",
-      "tournamentAr": "🏁 بطولة USL",
-      "matchEn": "Tampa Bay Rowdies v Detroit City",
-      "matchAr": "Tampa Bay Rowdies × Detroit City",
-      "rawIsoTime": "2026-10-17T23:30:00.000Z",
-      "time": "23:30",
       "isLive": false
     }
   ]
