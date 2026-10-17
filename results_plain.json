@@ -4245,7 +4245,7 @@
       "matchEn": "ASC HLM v Casa Sports",
       "matchAr": "ASC HLM × كاسا سبورت",
       "rawIsoTime": "2026-10-17T17:00:00.000Z",
-      "time": "2 - 2 (live)",
+      "time": "1 - 2 (live)",
       "isLive": true
     },
     {
@@ -4659,7 +4659,7 @@
       "matchEn": "Cracovia Kraków v Legia Warsaw",
       "matchAr": "كراكوفيا كراكوف × ليغيا وارسو",
       "rawIsoTime": "2026-10-17T18:15:00.000Z",
-      "time": "0 - 1 (live)",
+      "time": "1 - 1 (live)",
       "isLive": true
     },
     {
@@ -4785,8 +4785,8 @@
       "matchEn": "Macará Ambato v Independiente San Joaquín",
       "matchAr": "ماكارا أمباتو × إنديبيندينت سانيولكي",
       "rawIsoTime": "2026-10-17T19:00:00.000Z",
-      "time": "19:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 Premier League - Clausura",
@@ -4794,8 +4794,8 @@
       "matchEn": "Boston River v Defensor Sporting",
       "matchAr": "Boston River × ديفنسور سبورتينغ",
       "rawIsoTime": "2026-10-17T19:00:00.000Z",
-      "time": "19:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 APF Primera C",
@@ -4812,8 +4812,8 @@
       "matchEn": "Club 26 de Febrero v Deportivo Fatic",
       "matchAr": "Club 26 de Febrero × Deportivo Fatic",
       "rawIsoTime": "2026-10-17T19:00:00.000Z",
-      "time": "19:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇦🇷 Argentine League - Revalida - Second Stage",
@@ -4821,8 +4821,8 @@
       "matchEn": "Defensores Belgrano (VR) v Sportivo Las Parejas",
       "matchAr": "Defensores Belgrano (VR) × Sportivo Las Parejas",
       "rawIsoTime": "2026-10-17T19:00:00.000Z",
-      "time": "19:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 Second Division - Round of 16",
