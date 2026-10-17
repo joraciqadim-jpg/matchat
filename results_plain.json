@@ -541,15 +541,6 @@
       "isLive": false
     },
     {
-      "tournamentEn": "🏁 Second League - Regular Season",
-      "tournamentAr": "🏁 الدوري الثاني - Regular Season",
-      "matchEn": "Nagykanizsa v Kozármisleny",
-      "matchAr": "Nagykanizsa × Kozarmisleny",
-      "rawIsoTime": "2026-10-17T11:00:00.000Z",
-      "time": "0 - 3 (done)",
-      "isLive": false
-    },
-    {
       "tournamentEn": "🇨🇳 Chinese League One",
       "tournamentAr": "🇨🇳 الدوري الصيني - الدرجة الأولى",
       "matchEn": "Ningbo FC v Suzhou Dongwu",
@@ -4416,7 +4407,7 @@
       "matchEn": "Bella Vista v Durazno",
       "matchAr": "Bella Vista × Durazno",
       "rawIsoTime": "2026-10-17T18:00:00.000Z",
-      "time": "18:00",
+      "time": "2 - 1 (done)",
       "isLive": false
     },
     {
@@ -4497,7 +4488,7 @@
       "matchEn": "Deutscher v Club Atlético Artigas",
       "matchAr": "Deutscher × Club Atlético Artigas",
       "rawIsoTime": "2026-10-17T18:00:00.000Z",
-      "time": "18:00",
+      "time": "0 - 1 (done)",
       "isLive": false
     },
     {
@@ -4533,7 +4524,7 @@
       "matchEn": "Los Halcones v Terremoto",
       "matchAr": "Los Halcones × Terremoto",
       "rawIsoTime": "2026-10-17T18:00:00.000Z",
-      "time": "18:00",
+      "time": "1 - 3 (done)",
       "isLive": false
     },
     {
@@ -4542,7 +4533,7 @@
       "matchEn": "Mar de Fondo v Salto FC",
       "matchAr": "Mar de Fondo × Salto FC",
       "rawIsoTime": "2026-10-17T18:00:00.000Z",
-      "time": "18:00",
+      "time": "1 - 2 (done)",
       "isLive": false
     },
     {
@@ -4839,8 +4830,8 @@
       "matchEn": "Mercedes v Leones de Rosario FC",
       "matchAr": "Mercedes × Leones de Rosario FC",
       "rawIsoTime": "2026-10-17T19:30:00.000Z",
-      "time": "1 - 1 (live)",
-      "isLive": true
+      "time": "2 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇦🇷 Argentine Primera B",
@@ -4848,8 +4839,8 @@
       "matchEn": "Tristan Suarez v Patronato",
       "matchAr": "Tristan Suarez × باتروناتو",
       "rawIsoTime": "2026-10-17T19:30:00.000Z",
-      "time": "1 - 0 (live)",
-      "isLive": true
+      "time": "1 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏁 Liga 3",
@@ -5028,7 +5019,7 @@
       "matchEn": "Independiente Rivadavia v Tigre Athletic",
       "matchAr": "إندبندينتي ريفادافيا × تيجري الرياضي",
       "rawIsoTime": "2026-10-17T20:30:00.000Z",
-      "time": "1 - 1 (live)",
+      "time": "2 - 1 (live)",
       "isLive": true
     },
     {
@@ -5172,7 +5163,7 @@
       "matchEn": "Aucas Quito v LDU Quito",
       "matchAr": "أوكاس كيتو × ليغا كيتو",
       "rawIsoTime": "2026-10-17T21:30:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -5207,6 +5198,15 @@
       "tournamentAr": "🏁 Premier B - الموسم العادي",
       "matchEn": "Gorilas de Juanacatlán v Atletico Hidalgo",
       "matchAr": "Gorilas de Juanacatlán × Atletico Hidalgo",
+      "rawIsoTime": "2026-10-17T22:00:00.000Z",
+      "time": "22:00",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🏁 Dominican League - Apertura",
+      "tournamentAr": "🏁 الدوري الدومبنيكاني - Apertura",
+      "matchEn": "Moca v خاراباكوا",
+      "matchAr": "Moca × خاراباكوا",
       "rawIsoTime": "2026-10-17T22:00:00.000Z",
       "time": "22:00",
       "isLive": false
