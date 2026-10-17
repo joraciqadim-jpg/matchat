@@ -4848,7 +4848,7 @@
       "matchEn": "Aviación Lima v Unión Huaral",
       "matchAr": "أفياسيون ليما × أونيون وارال",
       "rawIsoTime": "2026-10-17T20:00:00.000Z",
-      "time": "20:00",
+      "time": "2 - 0 (done)",
       "isLive": false
     },
     {
@@ -4920,7 +4920,7 @@
       "matchEn": "Juventus Huamachuco FC v CD Juventud Cautivo",
       "matchAr": "Juventus Huamachuco FC × CD Juventud Cautivo",
       "rawIsoTime": "2026-10-17T20:00:00.000Z",
-      "time": "20:00",
+      "time": "0 - 3 (done)",
       "isLive": false
     },
     {
@@ -4929,7 +4929,7 @@
       "matchEn": "Alianza Lima Reserve v Sport Boys Reserve",
       "matchAr": "Alianza Lima Reserve × Sport Boys Reserve",
       "rawIsoTime": "2026-10-17T20:00:00.000Z",
-      "time": "20:00",
+      "time": "2 - 1 (done)",
       "isLive": false
     },
     {
@@ -4938,7 +4938,7 @@
       "matchEn": "Carlos Stein v Cesar Vallejo Reserve",
       "matchAr": "Carlos Stein × Cesar Vallejo Reserve",
       "rawIsoTime": "2026-10-17T20:00:00.000Z",
-      "time": "20:00",
+      "time": "4 - 2 (done)",
       "isLive": false
     },
     {
@@ -4956,7 +4956,7 @@
       "matchEn": "Centro Social de Pariacoto v Universitario De Deportes Reserve",
       "matchAr": "Centro Social de Pariacoto × Universitario De Deportes Reserve",
       "rawIsoTime": "2026-10-17T20:00:00.000Z",
-      "time": "20:00",
+      "time": "0 - 1 (done)",
       "isLive": false
     },
     {
@@ -4965,7 +4965,7 @@
       "matchEn": "Cultural Volante v CSD Juventud Santo Domingo",
       "matchAr": "Cultural Volante × CSD Juventud Santo Domingo",
       "rawIsoTime": "2026-10-17T20:00:00.000Z",
-      "time": "20:00",
+      "time": "1 - 0 (done)",
       "isLive": false
     },
     {
@@ -4974,7 +4974,7 @@
       "matchEn": "Deportivo Lute v Club Unión Santo Domingo",
       "matchAr": "Deportivo Lute × Club Unión Santo Domingo",
       "rawIsoTime": "2026-10-17T20:00:00.000Z",
-      "time": "20:00",
+      "time": "0 - 0 (done)",
       "isLive": false
     },
     {
@@ -5001,7 +5001,7 @@
       "matchEn": "Huracán Youth v Amazon Callao FC",
       "matchAr": "Juventud Huracán × Amazon Callao FC",
       "rawIsoTime": "2026-10-17T20:00:00.000Z",
-      "time": "20:00",
+      "time": "2 - 4 (done)",
       "isLive": false
     },
     {
@@ -5019,8 +5019,8 @@
       "matchEn": "Independiente Rivadavia v Tigre Athletic",
       "matchAr": "إندبندينتي ريفادافيا × تيجري الرياضي",
       "rawIsoTime": "2026-10-17T20:30:00.000Z",
-      "time": "2 - 1 (live)",
-      "isLive": true
+      "time": "2 - 2 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏁 Second Division - Groups - Relegation Round",
@@ -5028,8 +5028,8 @@
       "matchEn": "Portoviejo v Gualaceo SC",
       "matchAr": "بورتوفييهو × Gualaceo SC",
       "rawIsoTime": "2026-10-17T20:30:00.000Z",
-      "time": "0 - 0 (live)",
-      "isLive": true
+      "time": "0 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏁 LPR Pro - Apertura",
@@ -5046,8 +5046,8 @@
       "matchEn": "Minnesota United v St. Louis City",
       "matchAr": "مينيسوتا يونايتد × سانت لويس سيتي",
       "rawIsoTime": "2026-10-17T20:30:00.000Z",
-      "time": "2 - 2 (live)",
-      "isLive": true
+      "time": "3 - 2 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇦🇷 Argentine Primera Division - Clausura",
@@ -5055,8 +5055,8 @@
       "matchEn": "Platense v Lanús",
       "matchAr": "Platense × لانوس",
       "rawIsoTime": "2026-10-17T20:30:00.000Z",
-      "time": "0 - 1 (live)",
-      "isLive": true
+      "time": "0 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇦🇷 Argentine Primera B",
