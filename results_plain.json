@@ -150,7 +150,7 @@
       "matchEn": "Manchester City v Ipswich Town",
       "matchAr": "مانشستر سيتي × إبسويتش تاون",
       "rawIsoTime": "2026-10-17T14:00:00Z",
-      "time": "1 - 1 (live)",
+      "time": "2 - 1 (live)",
       "isLive": true
     },
     {
@@ -456,8 +456,8 @@
       "matchEn": "A.D. Fazendense v Estrela da Amadora",
       "matchAr": "ايه دي فازيندينسي × إستريلا دا أمادورا",
       "rawIsoTime": "2026-10-17T14:30:00Z",
-      "time": "14:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏆 Portuguese Cup",
@@ -753,7 +753,7 @@
       "matchEn": "Al Dhaid v Al Jazira Al Hamra",
       "matchAr": "الذيد × الجزيرة الحمرا",
       "rawIsoTime": "2026-10-17T13:00:00Z",
-      "time": "1 - 1 (live)",
+      "time": "1 - 2 (live)",
       "isLive": true
     },
     {
