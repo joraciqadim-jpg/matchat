@@ -312,7 +312,7 @@
       "matchEn": "Telstar v Feyenoord",
       "matchAr": "تيلستار × فاينورد",
       "rawIsoTime": "2026-10-17T18:00:00.000Z",
-      "time": "2 - 3 (live)",
+      "time": "2 - 4 (live)",
       "isLive": true
     },
     {
@@ -474,8 +474,8 @@
       "matchEn": "Académica v Amarante",
       "matchAr": "أكاديميكا × أمارانتي",
       "rawIsoTime": "2026-10-17T19:15:00.000Z",
-      "time": "19:15",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 Premier League",
@@ -4182,7 +4182,7 @@
       "matchEn": "Ottawa Fury v Forge",
       "matchAr": "أوتاوا فيوري × فورج",
       "rawIsoTime": "2026-10-17T17:00:00.000Z",
-      "time": "0 - 2 (live)",
+      "time": "1 - 2 (live)",
       "isLive": true
     },
     {
@@ -4335,7 +4335,7 @@
       "matchEn": "Riet v Austria Vienna",
       "matchAr": "ريت × اوستريا فيينا",
       "rawIsoTime": "2026-10-17T17:30:00.000Z",
-      "time": "3 - 1 (live)",
+      "time": "3 - 2 (live)",
       "isLive": true
     },
     {
@@ -4632,7 +4632,7 @@
       "matchEn": "Rapid Bucharest v Corvinul Hunedoara",
       "matchAr": "رابيد بوخارست × كورفينول هونيدوارا",
       "rawIsoTime": "2026-10-17T18:30:00.000Z",
-      "time": "1 - 0 (live)",
+      "time": "0 - 0 (live)",
       "isLive": true
     },
     {
@@ -4758,7 +4758,7 @@
       "matchEn": "Boston River v Defensor Sporting",
       "matchAr": "Boston River × ديفنسور سبورتينغ",
       "rawIsoTime": "2026-10-17T19:00:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -5794,6 +5794,15 @@
       "matchAr": "لوس أنجلوس غالاكسي × سان دييجو",
       "rawIsoTime": "2026-10-18T02:30:00.000Z",
       "time": "02:30",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🏁 Premier League",
+      "tournamentAr": "🏁 الدوري الممتاز",
+      "matchEn": "Auckland United v Ferrymead Bays Fc",
+      "matchAr": "Auckland United × Ferrymead Bays Fc",
+      "rawIsoTime": "2026-10-18T03:00:00.000Z",
+      "time": "03:00",
       "isLive": false
     }
   ]
