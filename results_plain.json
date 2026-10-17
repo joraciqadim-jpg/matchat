@@ -312,8 +312,8 @@
       "matchEn": "Telstar v Feyenoord",
       "matchAr": "تيلستار × فاينورد",
       "rawIsoTime": "2026-10-17T18:00:00.000Z",
-      "time": "18:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇳🇱 Dutch Eredivisie",
@@ -4056,7 +4056,7 @@
       "matchEn": "Şanlıurfaspor v Hatayspor Antakya",
       "matchAr": "سانليورفا سبور × هاتاي سبور أنطاكيا",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "4 - 1 (live)",
+      "time": "3 - 1 (live)",
       "isLive": true
     },
     {
@@ -4344,7 +4344,7 @@
       "matchEn": "Trefelin v Llantwit Major",
       "matchAr": "Trefelin × Llantwit Major",
       "rawIsoTime": "2026-10-17T16:30:00.000Z",
-      "time": "3 - 0 (live)",
+      "time": "3 - 1 (live)",
       "isLive": true
     },
     {
@@ -4803,8 +4803,8 @@
       "matchEn": "Victoriano Arenas v Deportivo Español",
       "matchAr": "Victoriano Arenas × Deportivo Espanol",
       "rawIsoTime": "2026-10-17T18:00:00.000Z",
-      "time": "18:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 Metropolitana B",
