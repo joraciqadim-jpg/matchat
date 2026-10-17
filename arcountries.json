@@ -1,4 +1,160 @@
 {
+  "CFFA أندوهارانوفوتسي": {
+    "en": "CFFA Andoharanofotsy",
+    "ar": "CFFA أندوهارانوفوتسي",
+    "countryen": "Madagascar",
+    "countryar": "مدغشقر"
+  },
+  "يانج أفريكانز": {
+    "en": "Young Africans",
+    "ar": "يانج أفريكانز",
+    "countryen": "Tanzania",
+    "countryar": "تنزانيا"
+  },
+  "افريقيا ستارز": {
+    "en": "African Stars",
+    "ar": "افريقيا ستارز",
+    "countryen": "Namibia",
+    "countryar": "ناميبيا"
+  },
+  "اورلاندو بيراتس": {
+    "en": "Orlando Pirates",
+    "ar": "اورلاندو بيراتس",
+    "countryen": "South Africa",
+    "countryar": "جنوب أفريقيا"
+  },
+  "مازيمبي": {
+    "en": "TP Mazembe",
+    "ar": "مازيمبي",
+    "countryen": "Democratic Republic of the Congo",
+    "countryar": "جمهورية الكونغو الديمقراطية"
+  },
+  "النادي الإفريقي": {
+    "en": "Club Africain",
+    "ar": "النادي الإفريقي",
+    "countryen": "Tunisia",
+    "countryar": "تونس"
+  },
+  "أكاديمية ستار سبورت": {
+    "en": "Star Sport Academy",
+    "ar": "أكاديمية ستار سبورت",
+    "countryen": "Mauritius",
+    "countryar": "موريشيوس"
+  },
+  "نهضة بركان": {
+    "en": "RS Berkane",
+    "ar": "نهضة بركان",
+    "countryen": "Morocco",
+    "countryar": "المغرب"
+  },
+  "سان بيدرو": {
+    "en": "FC San-Pédro",
+    "ar": "سان بيدرو",
+    "countryen": "Ivory Coast",
+    "countryar": "ساحل العاج"
+  },
+  "نواذيبو": {
+    "en": "FC Nouadhibou",
+    "ar": "نواذيبو",
+    "countryen": "Mauritania",
+    "countryar": "موريتانيا"
+  },
+  "المغرب الفاسي": {
+    "en": "Maghreb de Fès",
+    "ar": "المغرب الفاسي",
+    "countryen": "Morocco",
+    "countryar": "المغرب"
+  },
+  "أسيك ميموزا": {
+    "en": "ASEC Mimosas",
+    "ar": "أسيك ميموزا",
+    "countryen": "Ivory Coast",
+    "countryar": "ساحل العاج"
+  },
+  "ريد أروز": {
+    "en": "Red Arrows",
+    "ar": "ريد أروز",
+    "countryen": "Zambia",
+    "countryar": "زامبيا"
+  },
+  "كايزر تشيفس": {
+    "en": "Kaizer Chiefs",
+    "ar": "كايزر تشيفس",
+    "countryen": "South Africa",
+    "countryar": "جنوب أفريقيا"
+  },
+  "كيتارا": {
+    "en": "Kitara",
+    "ar": "كيتارا",
+    "countryen": "Uganda",
+    "countryar": "أوغندا"
+  },
+  "الأهلي المصري": {
+    "en": "Al Ahly",
+    "ar": "الأهلي المصري",
+    "countryen": "Egypt",
+    "countryar": "مصر"
+  },
+  "الترجي الرياضي الجرجيسي": {
+    "en": "Espérance Sportive de Zarzis",
+    "ar": "الترجي الرياضي الجرجيسي",
+    "countryen": "Tunisia",
+    "countryar": "تونس"
+  },
+  "ريال باماكو": {
+    "en": "Real Bamako",
+    "ar": "ريال باماكو",
+    "countryen": "Mali",
+    "countryar": "مالي"
+  },
+  "رايون سبورت": {
+    "en": "Rayon Sports",
+    "ar": "رايون سبورت",
+    "countryen": "Rwanda",
+    "countryar": "رواندا"
+  },
+  "أسوسياساو بلاك بولز": {
+    "en": "Associação Black Bulls",
+    "ar": "أسوسياساو بلاك بولز",
+    "countryen": "Mozambique",
+    "countryar": "موزمبيق"
+  },
+  "أفاد جيكانو الإيفواري": {
+    "en": "Ivorian AFAD Djékanou",
+    "ar": "أفاد جيكانو الإيفواري",
+    "countryen": "Côte d'Ivoire",
+    "countryar": "ساحل العاج"
+  },
+  "النادي الرياضي الصفاقسي": {
+    "en": "Club Sportif Sfaxien",
+    "ar": "النادي الرياضي الصفاقسي",
+    "countryen": "Tunisia",
+    "countryar": "تونس"
+  },
+  "كو دي كورهوغو": {
+    "en": "CO de Korhogo",
+    "ar": "كو دي كورهوغو",
+    "countryen": "Côte d'Ivoire",
+    "countryar": "ساحل العاج"
+  },
+  "الجيش الملكي": {
+    "en": "AS FAR",
+    "ar": "الجيش الملكي",
+    "countryen": "Morocco",
+    "countryar": "المغرب"
+  },
+  "الجمارك": {
+    "en": "Douanes",
+    "ar": "الجمارك",
+    "countryen": "Senegal",
+    "countryar": "السنغال"
+  },
+  "شباب بلوزداد": {
+    "en": "CR Belouizdad",
+    "ar": "شباب بلوزداد",
+    "countryen": "Algeria",
+    "countryar": "الجزائر"
+  },
   "المريخ": {
     "en": "Al-Merrikh",
     "ar": "المريخ",
