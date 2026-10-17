@@ -3984,7 +3984,7 @@
       "matchEn": "Al-Najma v Al-Hidd",
       "matchAr": "النجمة × الحد",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "1 - 0 (live)",
+      "time": "1 - 1 (live)",
       "isLive": true
     },
     {
@@ -3993,7 +3993,7 @@
       "matchEn": "Osijek v Gorica",
       "matchAr": "أوسييك × جوريتشا",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "1 - 2 (live)",
+      "time": "1 - 1 (live)",
       "isLive": true
     },
     {
@@ -4020,7 +4020,7 @@
       "matchEn": "Bodrumspor v Bandırmaspor",
       "matchAr": "بودرامسبور × بانديرماسبور",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "1 - 1 (live)",
+      "time": "2 - 1 (live)",
       "isLive": true
     },
     {
@@ -4119,7 +4119,7 @@
       "matchEn": "Fenerbahçe v Alanyaspor",
       "matchAr": "فنربخشة × ألانيا سبور",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "1 - 0 (live)",
+      "time": "2 - 0 (live)",
       "isLive": true
     },
     {
@@ -4524,8 +4524,8 @@
       "matchEn": "Riet v Austria Vienna",
       "matchAr": "ريت × اوستريا فيينا",
       "rawIsoTime": "2026-10-17T17:30:00.000Z",
-      "time": "17:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 2nd Division - Groups - Promotion Round",
