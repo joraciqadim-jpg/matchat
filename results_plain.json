@@ -222,7 +222,7 @@
       "matchEn": "Werder Bremen v Paderborn 07",
       "matchAr": "فيردر بريمن × بادربورن 07",
       "rawIsoTime": "2026-10-17T13:30:00Z",
-      "time": "0 - 1 (live)",
+      "time": "0 - 2 (live)",
       "isLive": true
     },
     {
@@ -375,8 +375,8 @@
       "matchEn": "Bristol City v Sheffield United",
       "matchAr": "بريستول سيتي × شيفيلد يونايتد",
       "rawIsoTime": "2026-10-17T14:00:00Z",
-      "time": "14:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇬🇧 English Championship",
@@ -564,8 +564,8 @@
       "matchEn": "Al-Faisaly v Al-Ramtha",
       "matchAr": "الفيصلي × الرمثا",
       "rawIsoTime": "2026-10-17T14:00:00Z",
-      "time": "14:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇯🇴 Jordanian Pro League",
