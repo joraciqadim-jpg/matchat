@@ -46,6 +46,24 @@
       "isLive": false
     },
     {
+      "tournamentEn": "🏆 Africa Cup of Nations U-17 Qualifiers",
+      "tournamentAr": "🏆 تصفيات كاس الامم الافريقية تحت 17 سنة",
+      "matchEn": "Nigeria v Côte d'Ivoire",
+      "matchAr": "نيجيريا × كوت ديفوار",
+      "rawIsoTime": "2026-10-17T16:00:00Z",
+      "time": "16:00",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🏆 Africa Cup of Nations U-17 Qualifiers",
+      "tournamentAr": "🏆 تصفيات كاس الامم الافريقية تحت 17 سنة",
+      "matchEn": "Nigeria v Côte d'Ivoire",
+      "matchAr": "نيجيريا × كوت ديفوار",
+      "rawIsoTime": "2026-10-17T16:00:00Z",
+      "time": "16:00",
+      "isLive": false
+    },
+    {
       "tournamentEn": "🛡️ CAF Confederation Cup",
       "tournamentAr": "🛡️ كأس الكونفيدرالية الإفريقية",
       "matchEn": "Red Arrows (Zambia) v Kaizer Chiefs (South Africa)",
@@ -262,15 +280,6 @@
       "isLive": false
     },
     {
-      "tournamentEn": "🇮🇹 Italian Serie A",
-      "tournamentAr": "🇮🇹 الدوري الإيطالي",
-      "matchEn": "Roma v Genoa",
-      "matchAr": "روما × جنوى",
-      "rawIsoTime": "2026-10-17T18:45:00Z",
-      "time": "18:45",
-      "isLive": false
-    },
-    {
       "tournamentEn": "🇳🇱 Dutch Eredivisie",
       "tournamentAr": "🇳🇱 الدوري الهولندي",
       "matchEn": "ADO Den Haag v Eindhoven",
@@ -312,7 +321,7 @@
       "matchEn": "Millwall v Lincoln City",
       "matchAr": "ميلوول × لينكولين سيتي",
       "rawIsoTime": "2026-10-17T11:30:00Z",
-      "time": "0 - 1 (live)",
+      "time": "0 - 2 (live)",
       "isLive": true
     },
     {
