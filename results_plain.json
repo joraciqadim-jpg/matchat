@@ -294,7 +294,7 @@
       "matchEn": "Roma v Genoa",
       "matchAr": "روما × جنوى",
       "rawIsoTime": "2026-10-17T18:45:00.000Z",
-      "time": "1 - 0 (live)",
+      "time": "2 - 0 (live)",
       "isLive": true
     },
     {
@@ -4515,7 +4515,7 @@
       "matchEn": "Irapuato \"B\" v Internacional Laguna",
       "matchAr": "Irapuato \"B\" × Internacional Laguna",
       "rawIsoTime": "2026-10-17T18:00:00.000Z",
-      "time": "1 - 0 (live)",
+      "time": "1 - 1 (live)",
       "isLive": true
     },
     {
@@ -4632,7 +4632,7 @@
       "matchEn": "Rapid Bucharest v Corvinul Hunedoara",
       "matchAr": "رابيد بوخارست × كورفينول هونيدوارا",
       "rawIsoTime": "2026-10-17T18:30:00.000Z",
-      "time": "1 - 0 (live)",
+      "time": "2 - 0 (live)",
       "isLive": true
     },
     {
@@ -4650,7 +4650,7 @@
       "matchEn": "Philadelphia Union v Charlotte",
       "matchAr": "فيلادلفيا يونيون × شارلوت",
       "rawIsoTime": "2026-10-17T18:30:00.000Z",
-      "time": "1 - 2 (live)",
+      "time": "2 - 2 (live)",
       "isLive": true
     },
     {
@@ -4866,7 +4866,7 @@
       "matchEn": "Difaâ Hassani El Jadidi v Moghreb Athletic Tétouan",
       "matchAr": "الدفاع الحسني الجديدي × المغرب التطواني",
       "rawIsoTime": "2026-10-17T20:00:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -4920,7 +4920,7 @@
       "matchEn": "New York Cosmos v One Knoxville",
       "matchAr": "نيو يورك كوزموس × One Knoxville",
       "rawIsoTime": "2026-10-17T20:00:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "0 - 1 (live)",
       "isLive": true
     },
     {
@@ -4956,8 +4956,8 @@
       "matchEn": "Cavalry v Pacific",
       "matchAr": "Cavalry × Pacific",
       "rawIsoTime": "2026-10-17T20:00:00.000Z",
-      "time": "20:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 Liga 3",
