@@ -58,7 +58,7 @@
       "tournamentEn": "🛡️ CAF Confederation Cup",
       "tournamentAr": "🛡️ كأس الكونفيدرالية الإفريقية",
       "matchEn": "Kitara (Uganda) v Al Ahly (Egypt)",
-      "matchAr": "كيتارا (أوغندا) × الأهلي المصري (مصر)",
+      "matchAr": "كيتارا (أوغندا) × الأهلي (مصر)",
       "rawIsoTime": "2026-10-17T13:00:00Z",
       "time": "13:00",
       "isLive": false
@@ -67,7 +67,7 @@
       "tournamentEn": "🛡️ CAF Confederation Cup",
       "tournamentAr": "🛡️ كأس الكونفيدرالية الإفريقية",
       "matchEn": "Espérance de Zarzis (Tunisia) v Real Bamako (Mali)",
-      "matchAr": "الترجي الرياضي الجرجيسي (تونس) × ريال باماكو (مالي)",
+      "matchAr": "الترجي الجرجيسي (تونس) × ريال باماكو (مالي)",
       "rawIsoTime": "2026-10-17T14:30:00Z",
       "time": "14:30",
       "isLive": false
@@ -85,7 +85,7 @@
       "tournamentEn": "🛡️ CAF Confederation Cup",
       "tournamentAr": "🛡️ كأس الكونفيدرالية الإفريقية",
       "matchEn": "AFAD Djékanou (Côte d'Ivoire) v Club Sfaxien (Tunisia)",
-      "matchAr": "أفاد جيكانو الإيفواري (ساحل العاج) × النادي الرياضي الصفاقسي (تونس)",
+      "matchAr": "أفاد جيكانو (ساحل العاج) × النادي الصفاقسي (تونس)",
       "rawIsoTime": "2026-10-17T16:00:00Z",
       "time": "16:00",
       "isLive": false
@@ -290,7 +290,7 @@
     },
     {
       "tournamentEn": "🇬🇧 English Championship",
-      "tournamentAr": "🇬🇧 الدوري الإنجليزي للدرجة الأولى (الشامبيونشيب)",
+      "tournamentAr": "🇬🇧 الدوري الإنجليزي - الشامبيونشيب",
       "matchEn": "Middlesbrough v Cardiff City",
       "matchAr": "ميدلزبره × كارديف سيتي",
       "rawIsoTime": "2026-10-17T11:30:00Z",
@@ -299,7 +299,7 @@
     },
     {
       "tournamentEn": "🇬🇧 English Championship",
-      "tournamentAr": "🇬🇧 الدوري الإنجليزي للدرجة الأولى (الشامبيونشيب)",
+      "tournamentAr": "🇬🇧 الدوري الإنجليزي - الشامبيونشيب",
       "matchEn": "Watford v Charlton Athletic",
       "matchAr": "واتفورد × تشارلتون أثلتيك",
       "rawIsoTime": "2026-10-17T11:30:00Z",
@@ -308,7 +308,7 @@
     },
     {
       "tournamentEn": "🇬🇧 English Championship",
-      "tournamentAr": "🇬🇧 الدوري الإنجليزي للدرجة الأولى (الشامبيونشيب)",
+      "tournamentAr": "🇬🇧 الدوري الإنجليزي - الشامبيونشيب",
       "matchEn": "Millwall v Lincoln City",
       "matchAr": "ميلوول × لينكولين سيتي",
       "rawIsoTime": "2026-10-17T11:30:00Z",
@@ -317,7 +317,7 @@
     },
     {
       "tournamentEn": "🇬🇧 English Championship",
-      "tournamentAr": "🇬🇧 الدوري الإنجليزي للدرجة الأولى (الشامبيونشيب)",
+      "tournamentAr": "🇬🇧 الدوري الإنجليزي - الشامبيونشيب",
       "matchEn": "Swansea City v West Ham United",
       "matchAr": "سوانزي سيتي × وست هام يونايتد",
       "rawIsoTime": "2026-10-17T14:00:00Z",
@@ -326,7 +326,7 @@
     },
     {
       "tournamentEn": "🇬🇧 English Championship",
-      "tournamentAr": "🇬🇧 الدوري الإنجليزي للدرجة الأولى (الشامبيونشيب)",
+      "tournamentAr": "🇬🇧 الدوري الإنجليزي - الشامبيونشيب",
       "matchEn": "West Bromwich Albion v Blackburn Rovers",
       "matchAr": "وست بروميتش ألبيون × بلاكبيرن روفرز",
       "rawIsoTime": "2026-10-17T14:00:00Z",
@@ -335,7 +335,7 @@
     },
     {
       "tournamentEn": "🇬🇧 English Championship",
-      "tournamentAr": "🇬🇧 الدوري الإنجليزي للدرجة الأولى (الشامبيونشيب)",
+      "tournamentAr": "🇬🇧 الدوري الإنجليزي - الشامبيونشيب",
       "matchEn": "Norwich City v Portsmouth",
       "matchAr": "نورويتش سيتي × بورتسموث",
       "rawIsoTime": "2026-10-17T14:00:00Z",
@@ -344,7 +344,7 @@
     },
     {
       "tournamentEn": "🇬🇧 English Championship",
-      "tournamentAr": "🇬🇧 الدوري الإنجليزي للدرجة الأولى (الشامبيونشيب)",
+      "tournamentAr": "🇬🇧 الدوري الإنجليزي - الشامبيونشيب",
       "matchEn": "Birmingham City v Queens Park Rangers",
       "matchAr": "برمنجهام سيتي × كوينز بارك رينجرز",
       "rawIsoTime": "2026-10-17T14:00:00Z",
@@ -353,7 +353,7 @@
     },
     {
       "tournamentEn": "🇬🇧 English Championship",
-      "tournamentAr": "🇬🇧 الدوري الإنجليزي للدرجة الأولى (الشامبيونشيب)",
+      "tournamentAr": "🇬🇧 الدوري الإنجليزي - الشامبيونشيب",
       "matchEn": "Derby County v Stoke City",
       "matchAr": "ديربي كاونتي × ستوك سيتي",
       "rawIsoTime": "2026-10-17T14:00:00Z",
@@ -362,7 +362,7 @@
     },
     {
       "tournamentEn": "🇬🇧 English Championship",
-      "tournamentAr": "🇬🇧 الدوري الإنجليزي للدرجة الأولى (الشامبيونشيب)",
+      "tournamentAr": "🇬🇧 الدوري الإنجليزي - الشامبيونشيب",
       "matchEn": "Bristol City v Sheffield United",
       "matchAr": "بريستول سيتي × شيفيلد يونايتد",
       "rawIsoTime": "2026-10-17T14:00:00Z",
@@ -371,7 +371,7 @@
     },
     {
       "tournamentEn": "🇬🇧 English Championship",
-      "tournamentAr": "🇬🇧 الدوري الإنجليزي للدرجة الأولى (الشامبيونشيب)",
+      "tournamentAr": "🇬🇧 الدوري الإنجليزي - الشامبيونشيب",
       "matchEn": "Southampton v Bolton Wanderers",
       "matchAr": "ساوثهامبتون × بولتون واندررز",
       "rawIsoTime": "2026-10-17T14:00:00Z",
@@ -380,7 +380,7 @@
     },
     {
       "tournamentEn": "🇬🇧 English Championship",
-      "tournamentAr": "🇬🇧 الدوري الإنجليزي للدرجة الأولى (الشامبيونشيب)",
+      "tournamentAr": "🇬🇧 الدوري الإنجليزي - الشامبيونشيب",
       "matchEn": "Wrexham v Preston North End",
       "matchAr": "وريكسهام × بريستون نورث ايند",
       "rawIsoTime": "2026-10-17T14:00:00Z",
@@ -508,14 +508,14 @@
       "tournamentEn": "🇶🇦 Qatari Stars League",
       "tournamentAr": "🇶🇦 دوري نجوم قطر",
       "matchEn": "Lusail v Al-Shamal",
-      "matchAr": "لوسيل × الشمال القطري",
+      "matchAr": "لوسيل × الشمال",
       "rawIsoTime": "2026-10-17T16:45:00Z",
       "time": "16:45",
       "isLive": false
     },
     {
       "tournamentEn": "🇲🇦 Moroccan Botola Pro",
-      "tournamentAr": "🇲🇦 البطولة الوطنية الاحترافية \"إنوي\"",
+      "tournamentAr": "🇲🇦 الدوري المغربي",
       "matchEn": "CODM Meknès v Union Touarga Sportif",
       "matchAr": "النادي المكناسي × الاتحاد التوركي",
       "rawIsoTime": "2026-10-17T16:00:00Z",
@@ -524,7 +524,7 @@
     },
     {
       "tournamentEn": "🇹🇳 Tunisian Professional League",
-      "tournamentAr": "🇹🇳 الدوري التونسي للمحترفين",
+      "tournamentAr": "🇹🇳 الدوري التونسي",
       "matchEn": "Espoir Sportif de Hammam Sousse v Union Sportive de Ben Guerdane",
       "matchAr": "الأمل الرياضي بحمام سوسة × الاتحاد الرياضي ببنقردان",
       "rawIsoTime": "2026-10-17T13:30:00Z",
@@ -553,7 +553,7 @@
       "tournamentEn": "🇩🇿 Algerian Professional League",
       "tournamentAr": "🇩🇿 الدوري الجزائري للمحترفين",
       "matchEn": "CS Constantine v JSM El Biar",
-      "matchAr": "النادي الرياضي القسنطيني × شبيبة الأبيار",
+      "matchAr": "النادي القسنطيني × شبيبة الأبيار",
       "rawIsoTime": "2026-10-17T16:00:00Z",
       "time": "16:00",
       "isLive": false
@@ -596,34 +596,34 @@
     },
     {
       "tournamentEn": "🇦🇪 Emirati Pro League",
-      "tournamentAr": "🇦🇪 دوري أدنوك للمحترفين",
+      "tournamentAr": "🇦🇪 الدوري الإماراتي للمحترفين",
       "matchEn": "Al-Nasr v Hatta",
-      "matchAr": "النصر الإماراتي × حتا",
+      "matchAr": "النصر × حتا",
       "rawIsoTime": "2026-10-17T13:05:00Z",
       "time": "13:05",
       "isLive": false
     },
     {
       "tournamentEn": "🇦🇪 Emirati Pro League",
-      "tournamentAr": "🇦🇪 دوري أدنوك للمحترفين",
+      "tournamentAr": "🇦🇪 الدوري الإماراتي للمحترفين",
       "matchEn": "Shabab Al Ahli v Al Ain",
-      "matchAr": "شباب الأهلى دبي × العين",
+      "matchAr": "شباب الأهلى × العين",
       "rawIsoTime": "2026-10-17T15:45:00Z",
       "time": "15:45",
       "isLive": false
     },
     {
       "tournamentEn": "🇹🇷 Turkish Süper Lig",
-      "tournamentAr": "🇹🇷 دوري السوبر التركي",
+      "tournamentAr": "🇹🇷 الدوري التركي",
       "matchEn": "Erzurumspor v Eyupspor",
       "matchAr": "إيرزوروم سبور × إيوب سبور",
       "rawIsoTime": "2026-10-17T10:30:00Z",
-      "time": "10:30",
-      "isLive": false
+      "time": "1 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇹🇷 Turkish Süper Lig",
-      "tournamentAr": "🇹🇷 دوري السوبر التركي",
+      "tournamentAr": "🇹🇷 الدوري التركي",
       "matchEn": "Gençlerbirliği v Galatasaray",
       "matchAr": "غنتشلربيرليجي × غلطة سراي",
       "rawIsoTime": "2026-10-17T13:00:00Z",
@@ -632,7 +632,7 @@
     },
     {
       "tournamentEn": "🇹🇷 Turkish Süper Lig",
-      "tournamentAr": "🇹🇷 دوري السوبر التركي",
+      "tournamentAr": "🇹🇷 الدوري التركي",
       "matchEn": "Amedspor v Konyaspor",
       "matchAr": "آمدسبور × قونيا سبور",
       "rawIsoTime": "2026-10-17T13:00:00Z",
@@ -641,7 +641,7 @@
     },
     {
       "tournamentEn": "🇹🇷 Turkish Süper Lig",
-      "tournamentAr": "🇹🇷 دوري السوبر التركي",
+      "tournamentAr": "🇹🇷 الدوري التركي",
       "matchEn": "Fenerbahçe v Etimesgut Belediyespor",
       "matchAr": "فنربخشة × أيتميز ألانياسبور",
       "rawIsoTime": "2026-10-17T16:00:00Z",
@@ -679,7 +679,7 @@
       "tournamentEn": "🇦🇷 Argentine Primera División",
       "tournamentAr": "🇦🇷 الدوري الأرجنتيني",
       "matchEn": "Banfield v Argentinos Juniors",
-      "matchAr": "بانفيلد × أرجنتينوس جونيورز",
+      "matchAr": "بانفيلد × أرخنتينوس جونيورز",
       "rawIsoTime": "2026-10-17T18:00:00Z",
       "time": "18:00",
       "isLive": false
@@ -712,8 +712,8 @@
       "isLive": false
     },
     {
-      "tournamentEn": "🏁 Major League Soccer",
-      "tournamentAr": "🏁 الدوري الأمريكي",
+      "tournamentEn": "🇺🇸 Major League Soccer",
+      "tournamentAr": "🇺🇸 الدوري الأمريكي",
       "matchEn": "Philadelphia Union v Charlotte",
       "matchAr": "فيلادلفيا يونيون × شارلوت",
       "rawIsoTime": "2026-10-17T18:30:00Z",
@@ -740,7 +740,7 @@
     },
     {
       "tournamentEn": "🇦🇪 Emirati First Division League",
-      "tournamentAr": "🇦🇪 الدوري الإماراتي الدرجة الأولى",
+      "tournamentAr": "🇦🇪 الدوري الإماراتي الدرجة 1",
       "matchEn": "Al Dhaid v Al Jazira Al Hamra",
       "matchAr": "الذيد × الجزيرة الحمرا",
       "rawIsoTime": "2026-10-17T13:00:00Z",
@@ -749,7 +749,7 @@
     },
     {
       "tournamentEn": "🇦🇪 Emirati First Division League",
-      "tournamentAr": "🇦🇪 الدوري الإماراتي الدرجة الأولى",
+      "tournamentAr": "🇦🇪 الدوري الإماراتي الدرجة 1",
       "matchEn": "City v Al Hamriyah",
       "matchAr": "سيتي × الحمرية",
       "rawIsoTime": "2026-10-17T13:05:00Z",
@@ -794,7 +794,7 @@
     },
     {
       "tournamentEn": "🇮🇪 Irish Premier Division",
-      "tournamentAr": "🇮🇪 الدوري الأيرلندي- الدرجة الممتازة",
+      "tournamentAr": "🇮🇪 الدوري الإيرلندي",
       "matchEn": "Sligo Rovers v Dundalk",
       "matchAr": "سليغو روفرز × دوندالك",
       "rawIsoTime": "2026-10-17T18:45:00Z",
