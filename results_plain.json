@@ -5046,7 +5046,7 @@
       "matchEn": "Minnesota United v St. Louis City",
       "matchAr": "مينيسوتا يونايتد × سانت لويس سيتي",
       "rawIsoTime": "2026-10-17T20:30:00.000Z",
-      "time": "1 - 2 (live)",
+      "time": "2 - 2 (live)",
       "isLive": true
     },
     {
@@ -5190,8 +5190,8 @@
       "matchEn": "Forward Madison v Portland Hearts of Pine",
       "matchAr": "Forward Madison × Portland Hearts of Pine",
       "rawIsoTime": "2026-10-17T22:00:00.000Z",
-      "time": "22:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 Premier B - Regular Season",
@@ -5226,8 +5226,8 @@
       "matchEn": "Richmond Kickers v Corpus Christi FC",
       "matchAr": "Richmond Kickers × Corpus Christi FC",
       "rawIsoTime": "2026-10-17T22:00:00.000Z",
-      "time": "22:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇦🇷 Argentine League - Revalida - Second Stage",
