@@ -4704,7 +4704,7 @@
       "matchEn": "Zulte Waregem v Sérésien",
       "matchAr": "زولتة فاريغيم × سيريزيان",
       "rawIsoTime": "2026-10-17T18:45:00.000Z",
-      "time": "2 - 0 (live)",
+      "time": "3 - 0 (live)",
       "isLive": true
     },
     {
@@ -4794,7 +4794,7 @@
       "matchEn": "I.N. San Juan FC v Chaco F.C.",
       "matchAr": "I.N. San Juan FC × Chaco F.C.",
       "rawIsoTime": "2026-10-17T19:00:00.000Z",
-      "time": "1 - 1 (live)",
+      "time": "1 - 2 (live)",
       "isLive": true
     },
     {
@@ -4956,7 +4956,7 @@
       "matchEn": "Cavalry v Pacific",
       "matchAr": "Cavalry × Pacific",
       "rawIsoTime": "2026-10-17T20:00:00.000Z",
-      "time": "1 - 1 (live)",
+      "time": "2 - 1 (live)",
       "isLive": true
     },
     {
@@ -5028,8 +5028,8 @@
       "matchEn": "Independiente Rivadavia v Tigre Athletic",
       "matchAr": "إندبندينتي ريفادافيا × تيجري الرياضي",
       "rawIsoTime": "2026-10-17T20:30:00.000Z",
-      "time": "20:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 Second Division - Groups - Relegation Round",
@@ -5037,8 +5037,8 @@
       "matchEn": "Portoviejo v Gualaceo SC",
       "matchAr": "بورتوفييهو × Gualaceo SC",
       "rawIsoTime": "2026-10-17T20:30:00.000Z",
-      "time": "20:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 LPR Pro - Apertura",
