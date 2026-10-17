@@ -5235,7 +5235,7 @@
       "matchEn": "Sol de América v Juventud Unida San Luis",
       "matchAr": "Sol De América × Juventud Unida San Luis",
       "rawIsoTime": "2026-10-17T22:00:00.000Z",
-      "time": "2 - 1 (live)",
+      "time": "2 - 2 (live)",
       "isLive": true
     },
     {
@@ -5253,7 +5253,7 @@
       "matchEn": "كارابوبو v ديبورتيفو تاتشيرا",
       "matchAr": "كارابوبو × ديبورتيفو تاتشيرا",
       "rawIsoTime": "2026-10-17T22:30:00.000Z",
-      "time": "0 - 1 (live)",
+      "time": "1 - 1 (live)",
       "isLive": true
     },
     {
@@ -5298,7 +5298,7 @@
       "matchEn": "ميلغار v Deportivo Garcilaso",
       "matchAr": "ميلغار × Deportivo Garcilaso",
       "rawIsoTime": "2026-10-17T23:00:00.000Z",
-      "time": "0 - 1 (live)",
+      "time": "1 - 1 (live)",
       "isLive": true
     },
     {
@@ -5307,7 +5307,7 @@
       "matchEn": "مييوناريوس v جاغواريس دي قرطبة",
       "matchAr": "مييوناريوس × جاغواريس دي قرطبة",
       "rawIsoTime": "2026-10-17T23:00:00.000Z",
-      "time": "1 - 0 (live)",
+      "time": "2 - 0 (live)",
       "isLive": true
     },
     {
@@ -5361,7 +5361,7 @@
       "matchEn": "Louisville City v إندي إليفن",
       "matchAr": "Louisville City × إندي إليفن",
       "rawIsoTime": "2026-10-17T23:00:00.000Z",
-      "time": "1 - 0 (live)",
+      "time": "2 - 0 (live)",
       "isLive": true
     },
     {
@@ -5379,7 +5379,7 @@
       "matchEn": "UNAN Managua v San Marcos FC",
       "matchAr": "UNAN Managua × San Marcos FC",
       "rawIsoTime": "2026-10-17T23:00:00.000Z",
-      "time": "0 - 1 (live)",
+      "time": "1 - 1 (live)",
       "isLive": true
     },
     {
@@ -5433,8 +5433,8 @@
       "matchEn": "أورلاندو سيتي v دي.سي. يونايتد",
       "matchAr": "أورلاندو سيتي × دي.سي. يونايتد",
       "rawIsoTime": "2026-10-17T23:30:00.000Z",
-      "time": "23:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 Bolivian League",
@@ -5451,8 +5451,8 @@
       "matchEn": "نيو إنغلاند ريفوليوشن v شيكاغو فاير",
       "matchAr": "نيو إنغلاند ريفوليوشن × شيكاغو فاير",
       "rawIsoTime": "2026-10-17T23:30:00.000Z",
-      "time": "23:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇺🇸 Major League Soccer",
@@ -5460,8 +5460,8 @@
       "matchEn": "نيويورك ريد بولز v تورونتو",
       "matchAr": "نيويورك ريد بولز × تورونتو",
       "rawIsoTime": "2026-10-17T23:30:00.000Z",
-      "time": "23:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇺🇸 Major League Soccer",
@@ -5478,8 +5478,8 @@
       "matchEn": "Fort Wayne v Sarasota Paradise",
       "matchAr": "Fort Wayne × Sarasota Paradise",
       "rawIsoTime": "2026-10-17T23:30:00.000Z",
-      "time": "23:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 بطولة USL",
