@@ -1,4 +1,196 @@
 {
+  "TSV Aubstadt": {
+    "ar": "TSV Aubstadt",
+    "en": "TSV Aubstadt"
+  },
+  "Hungry Lions": {
+    "ar": "Hungry Lions",
+    "en": "Hungry Lions"
+  },
+  "Sportivo Dock Sud": {
+    "ar": "Sportivo Dock Sud",
+    "en": "Sportivo Dock Sud"
+  },
+  "Deportivo Laferrere": {
+    "ar": "Deportivo Laferrere",
+    "en": "Deportivo Laferrere"
+  },
+  "Udelas Fc": {
+    "ar": "Udelas Fc",
+    "en": "Udelas FC"
+  },
+  "Unión Coclé II": {
+    "ar": "Unión Coclé II",
+    "en": "Unión Coclé II"
+  },
+  "Liga Prom - Apertura - Western Conference - South Zone": {
+    "ar": "Liga Prom - Apertura - Western Conference - South Zone",
+    "en": "Liga Prom - Apertura - Western Conference - South Zone"
+  },
+  "Universidad De Panamá Fc": {
+    "ar": "Universidad De Panamá Fc",
+    "en": "Universidad de Panamá FC"
+  },
+  "Independiente De La Chorrera U20": {
+    "ar": "Independiente De La Chorrera U20",
+    "en": "Independiente de La Chorrera U20"
+  },
+  "Vianense": {
+    "ar": "Vianense",
+    "en": "Vianense"
+  },
+  "Džiugas Telšiai": {
+    "ar": "Džiugas Telšiai",
+    "en": "Džiugas Telšiai"
+  },
+  "Fazendense": {
+    "ar": "Fazendense",
+    "en": "Fazendense"
+  },
+  "CPL": {
+    "ar": "CPL",
+    "en": "CPL"
+  },
+  "Us Ouakam": {
+    "ar": "Us Ouakam",
+    "en": "US Ouakam"
+  },
+  "Ajel": {
+    "ar": "Ajel",
+    "en": "Ajel"
+  },
+  "OFK Beograd": {
+    "ar": "OFK Beograd",
+    "en": "OFK Beograd"
+  },
+  "ASC HLM": {
+    "ar": "ASC HLM",
+    "en": "ASC HLM"
+  },
+  "Cd Fas Reserves": {
+    "ar": "Cd Fas Reserves",
+    "en": "CD FAS Reserves"
+  },
+  "Platense Municipal Reserves": {
+    "ar": "Platense Municipal Reserves",
+    "en": "Platense Municipal Reserves"
+  },
+  "Torneo Reservas - Apertura": {
+    "ar": "Torneo Reservas - Apertura",
+    "en": "Torneo Reservas - Apertura"
+  },
+  "Essamaye FC": {
+    "ar": "Essamaye FC",
+    "en": "Essamaye FC"
+  },
+  "Gorée": {
+    "ar": "Gorée",
+    "en": "Gorée"
+  },
+  "ASC Linguère": {
+    "ar": "ASC Linguère",
+    "en": "ASC Linguère"
+  },
+  "Guédiawaye Fc": {
+    "ar": "Guédiawaye Fc",
+    "en": "Guédiawaye FC"
+  },
+  "Dakar SC": {
+    "ar": "Dakar SC",
+    "en": "Dakar SC"
+  },
+  "Old Boys": {
+    "ar": "Old Boys",
+    "en": "Old Boys"
+  },
+  "UF Touraine": {
+    "ar": "UF Touraine",
+    "en": "UF Touraine"
+  },
+  "Wally Daan": {
+    "ar": "Wally Daan",
+    "en": "Wally Daan"
+  },
+  "Argentino de Quilmes": {
+    "ar": "Argentino de Quilmes",
+    "en": "Argentino de Quilmes"
+  },
+  "Flandria": {
+    "ar": "Flandria",
+    "en": "Flandria"
+  },
+  "Bella Vista": {
+    "ar": "Bella Vista",
+    "en": "Bella Vista"
+  },
+  "Durazno": {
+    "ar": "Durazno",
+    "en": "Durazno"
+  },
+  "Berazategui": {
+    "ar": "Berazategui",
+    "en": "Berazategui"
+  },
+  "Club Luján": {
+    "ar": "Club Luján",
+    "en": "Club Luján"
+  },
+  "Cacahuatique Reserves": {
+    "ar": "Cacahuatique Reserves",
+    "en": "Cacahuatique Reserves"
+  },
+  "Alianza Reserves": {
+    "ar": "Alianza Reserves",
+    "en": "Alianza Reserves"
+  },
+  "Cd Constitución Unido": {
+    "ar": "Cd Constitución Unido",
+    "en": "CD Constitución Unido"
+  },
+  "Rodelindo": {
+    "ar": "Rodelindo",
+    "en": "Rodelindo"
+  },
+  "Central Cordoba de Rosario": {
+    "ar": "Central Cordoba de Rosario",
+    "en": "Central Cordoba de Rosario"
+  },
+  "Centro Español": {
+    "ar": "Centro Español",
+    "en": "Centro Español"
+  },
+  "Centro Limoeirense": {
+    "ar": "Centro Limoeirense",
+    "en": "Centro Limoeirense"
+  },
+  "Águia de Cumaru": {
+    "ar": "Águia de Cumaru",
+    "en": "Águia de Cumaru"
+  },
+  "Chã Grande": {
+    "ar": "Chã Grande",
+    "en": "Chã Grande"
+  },
+  "Pesqueira": {
+    "ar": "Pesqueira",
+    "en": "Pesqueira"
+  },
+  "Comunal Cabrero": {
+    "ar": "Comunal Cabrero",
+    "en": "Comunal Cabrero"
+  },
+  "Comunicaciones": {
+    "ar": "Comunicaciones",
+    "en": "Comunicaciones"
+  },
+  "Brown Adrogue": {
+    "ar": "Brown Adrogue",
+    "en": "Brown Adrogue"
+  },
+  "Defensores Unidos": {
+    "ar": "Defensores Unidos",
+    "en": "Defensores Unidos"
+  },
   "Camarthen Town": {
     "ar": "Camarthen Town",
     "en": "Camarthen Town"
