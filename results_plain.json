@@ -78,8 +78,8 @@
       "matchEn": "Kitara (Uganda) v Al Ahly (Egypt)",
       "matchAr": "كيتارا (أوغندا) × الأهلي (مصر)",
       "rawIsoTime": "2026-10-17T13:00:00Z",
-      "time": "13:00",
-      "isLive": false
+      "time": "1 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🛡️ CAF Confederation Cup",
@@ -177,7 +177,7 @@
       "matchEn": "Espanyol v Atlético Madrid",
       "matchAr": "إسبانيول × أتليتكو مدريد",
       "rawIsoTime": "2026-10-17T12:00:00Z",
-      "time": "0 - 0 (live)",
+      "time": "0 - 1 (live)",
       "isLive": true
     },
     {
@@ -222,7 +222,7 @@
       "matchEn": "Werder Bremen v Paderborn 07",
       "matchAr": "فيردر بريمن × بادربورن 07",
       "rawIsoTime": "2026-10-17T13:30:00Z",
-      "time": "0 - 0 (live)",
+      "time": "0 - 1 (live)",
       "isLive": true
     },
     {
