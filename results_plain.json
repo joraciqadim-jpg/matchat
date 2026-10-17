@@ -523,8 +523,8 @@
       "isLive": false
     },
     {
-      "tournamentEn": "🇲🇦 Moroccan Botola Pro",
-      "tournamentAr": "🇲🇦 الدوري المغربي",
+      "tournamentEn": "🏁 Botola Pro Inwi",
+      "tournamentAr": "🏁 البطولة الوطنية المغربية الاحترافية \"إنوي\"",
       "matchEn": "CODM Meknès v Union Touarga Sportif",
       "matchAr": "النادي المكناسي × الاتحاد التوركي",
       "rawIsoTime": "2026-10-17T16:00:00Z",
@@ -753,8 +753,8 @@
       "matchEn": "Al Dhaid v Al Jazira Al Hamra",
       "matchAr": "الذيد × الجزيرة الحمرا",
       "rawIsoTime": "2026-10-17T13:00:00Z",
-      "time": "13:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇦🇪 Emirati First Division League",
