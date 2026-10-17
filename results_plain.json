@@ -3831,7 +3831,7 @@
       "matchEn": "Blau-Weiß Linz v Anif",
       "matchAr": "بلاو فايس لينز × أنيف",
       "rawIsoTime": "2026-10-17T15:30:00.000Z",
-      "time": "3 - 1 (live)",
+      "time": "4 - 1 (live)",
       "isLive": true
     },
     {
@@ -3885,8 +3885,8 @@
       "matchEn": "Heist v Royal Antwerp",
       "matchAr": "هيست × رويال أنتويرب",
       "rawIsoTime": "2026-10-17T15:30:00.000Z",
-      "time": "0 - 1 (live)",
-      "isLive": true
+      "time": "0 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇸🇦 Saudi League",
@@ -3993,7 +3993,7 @@
       "matchEn": "Osijek v Gorica",
       "matchAr": "أوسييك × جوريتشا",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "0 - 1 (live)",
+      "time": "1 - 1 (live)",
       "isLive": true
     },
     {
@@ -4191,7 +4191,7 @@
       "matchEn": "Hapoel Haifa v Hapoel Ramat Gan",
       "matchAr": "هبوعيل حيفا × هبوعيل رمات غان",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "0 - 1 (live)",
+      "time": "0 - 2 (live)",
       "isLive": true
     },
     {
@@ -4452,7 +4452,7 @@
       "matchEn": "Guédiawaye FC v Dakar SC",
       "matchAr": "Guédiawaye Fc × Dakar SC",
       "rawIsoTime": "2026-10-17T17:00:00.000Z",
-      "time": "0 - 1 (live)",
+      "time": "1 - 1 (live)",
       "isLive": true
     },
     {
