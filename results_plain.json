@@ -474,7 +474,7 @@
       "matchEn": "Académica v Amarante",
       "matchAr": "أكاديميكا × أمارانتي",
       "rawIsoTime": "2026-10-17T19:15:00.000Z",
-      "time": "1 - 2 (live)",
+      "time": "2 - 2 (live)",
       "isLive": true
     },
     {
@@ -4632,7 +4632,7 @@
       "matchEn": "Rapid Bucharest v Corvinul Hunedoara",
       "matchAr": "رابيد بوخارست × كورفينول هونيدوارا",
       "rawIsoTime": "2026-10-17T18:30:00.000Z",
-      "time": "2 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -5064,8 +5064,8 @@
       "matchEn": "Platense v Lanús",
       "matchAr": "Platense × لانوس",
       "rawIsoTime": "2026-10-17T20:30:00.000Z",
-      "time": "20:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇦🇷 Argentine Primera B",
