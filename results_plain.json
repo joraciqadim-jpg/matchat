@@ -150,8 +150,8 @@
       "matchEn": "Newcastle United v Aston Villa",
       "matchAr": "نيوكاسل يونايتد × أستون فيلا",
       "rawIsoTime": "2026-10-17T16:30:00.000Z",
-      "time": "16:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇪🇸 Spanish La Liga 1",
@@ -420,7 +420,7 @@
       "matchEn": "Fazendense v Estrela da Amadora",
       "matchAr": "Fazendense × إستريلا دا أمادورا",
       "rawIsoTime": "2026-10-17T14:30:00.000Z",
-      "time": "1 - 2 (live)",
+      "time": "1 - 1 (live)",
       "isLive": true
     },
     {
@@ -4002,7 +4002,7 @@
       "matchEn": "Apollon Limassol v Nea Salamina",
       "matchAr": "أبولون ليماسول × نيا سلامانيا",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "2 - 1 (live)",
+      "time": "2 - 2 (live)",
       "isLive": true
     },
     {
@@ -4155,7 +4155,7 @@
       "matchEn": "Sekhukhune United v Marumo Gallants",
       "matchAr": "سيخوخون يونايتد × مارومو جالانتس",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -4353,8 +4353,8 @@
       "matchEn": "Génération Foot v Baikine",
       "matchAr": "جينيراسيون فوت × بايكاين",
       "rawIsoTime": "2026-10-17T16:15:00.000Z",
-      "time": "16:15",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 Premier League",
@@ -4380,8 +4380,8 @@
       "matchEn": "Al-Wehdat v Al-Hussein Irbid",
       "matchAr": "الوحدات × الحسين إربد",
       "rawIsoTime": "2026-10-17T16:30:00.000Z",
-      "time": "16:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇩🇰 Danish 1st Division",
@@ -4416,8 +4416,8 @@
       "matchEn": "Nacional Quito v Deportivo Santo Domingo",
       "matchAr": "ناسيونال كيتو × Deportivo Santo Domingo",
       "rawIsoTime": "2026-10-17T16:30:00.000Z",
-      "time": "16:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 First Division - Quadrangular",
@@ -4425,8 +4425,8 @@
       "matchEn": "Libertad v River Plate",
       "matchAr": "Libertad × ريفربليت",
       "rawIsoTime": "2026-10-17T16:30:00.000Z",
-      "time": "16:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏆 Cup - Round 2",
