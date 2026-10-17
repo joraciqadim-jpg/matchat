@@ -114,8 +114,8 @@
       "matchEn": "Everton v Chelsea",
       "matchAr": "إيفرتون × تشيلسي",
       "rawIsoTime": "2026-10-17T11:30:00Z",
-      "time": "11:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇬🇧 English Premier League",
@@ -312,8 +312,8 @@
       "matchEn": "Millwall v Lincoln City",
       "matchAr": "ميلوول × لينكولين سيتي",
       "rawIsoTime": "2026-10-17T11:30:00Z",
-      "time": "11:30",
-      "isLive": false
+      "time": "0 - 1 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇬🇧 English Championship",
