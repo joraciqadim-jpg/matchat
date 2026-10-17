@@ -267,8 +267,8 @@
       "matchEn": "Lille v Brest",
       "matchAr": "ليل × بريست",
       "rawIsoTime": "2026-10-17T18:45:00.000Z",
-      "time": "1 - 1 (live)",
-      "isLive": true
+      "time": "1 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇮🇹 Italian Serie A",
@@ -294,8 +294,8 @@
       "matchEn": "Roma v Genoa",
       "matchAr": "روما × جنوى",
       "rawIsoTime": "2026-10-17T18:45:00.000Z",
-      "time": "2 - 0 (live)",
-      "isLive": true
+      "time": "2 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇳🇱 Dutch Eredivisie",
@@ -3984,7 +3984,7 @@
       "matchEn": "Limonest v Saint-Brieuc",
       "matchAr": "ليمونيست × سان برييه",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "16:00",
+      "time": "1 - 1 (done)",
       "isLive": false
     },
     {
@@ -4029,7 +4029,7 @@
       "matchEn": "Saint-Colomban Locminé v Chauray",
       "matchAr": "Saint-Colomban Locminé × شوراي",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "16:00",
+      "time": "3 - 1 (done)",
       "isLive": false
     },
     {
@@ -4281,7 +4281,7 @@
       "matchEn": "UF Touraine v Nîmes",
       "matchAr": "UF Touraine × نيم",
       "rawIsoTime": "2026-10-17T17:00:00.000Z",
-      "time": "17:00",
+      "time": "1 - 0 (done)",
       "isLive": false
     },
     {
@@ -4515,8 +4515,8 @@
       "matchEn": "Irapuato \"B\" v Internacional Laguna",
       "matchAr": "Irapuato \"B\" × Internacional Laguna",
       "rawIsoTime": "2026-10-17T18:00:00.000Z",
-      "time": "1 - 0 (live)",
-      "isLive": true
+      "time": "1 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇦🇷 Argentine League - Revalida - Second Stage",
@@ -4587,8 +4587,8 @@
       "matchEn": "San Martín Burzaco v Excursionistas",
       "matchAr": "San Martín Burzaco × Excursionistas",
       "rawIsoTime": "2026-10-17T18:00:00.000Z",
-      "time": "1 - 1 (live)",
-      "isLive": true
+      "time": "1 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏁 Metropolitana B",
@@ -4623,8 +4623,8 @@
       "matchEn": "Cracovia Kraków v Legia Warsaw",
       "matchAr": "كراكوفيا كراكوف × ليغيا وارسو",
       "rawIsoTime": "2026-10-17T18:15:00.000Z",
-      "time": "1 - 1 (live)",
-      "isLive": true
+      "time": "1 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇷🇴 Romanian First League",
@@ -4632,8 +4632,8 @@
       "matchEn": "Rapid Bucharest v Corvinul Hunedoara",
       "matchAr": "رابيد بوخارست × كورفينول هونيدوارا",
       "rawIsoTime": "2026-10-17T18:30:00.000Z",
-      "time": "1 - 0 (live)",
-      "isLive": true
+      "time": "2 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏁 Premier League",
@@ -4641,8 +4641,8 @@
       "matchEn": "FC Rànger's v Ordino",
       "matchAr": "FC Rànger's × Ordino",
       "rawIsoTime": "2026-10-17T18:30:00.000Z",
-      "time": "0 - 1 (live)",
-      "isLive": true
+      "time": "0 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇺🇸 Major League Soccer",
@@ -4659,8 +4659,8 @@
       "matchEn": "Acassuso v Deportivo Madryn",
       "matchAr": "Acassuso × Dep. Madryn",
       "rawIsoTime": "2026-10-17T18:30:00.000Z",
-      "time": "0 - 0 (live)",
-      "isLive": true
+      "time": "0 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇦🇷 Argentine Primera B",
@@ -4668,8 +4668,8 @@
       "matchEn": "Club Atlético San Miguel v Ciudad de Bolívar",
       "matchAr": "CA San Miguel × Ciudad De Bolivar",
       "rawIsoTime": "2026-10-17T18:30:00.000Z",
-      "time": "0 - 2 (live)",
-      "isLive": true
+      "time": "1 - 2 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇦🇷 Argentine League - Revalida - Second Stage",
@@ -4677,8 +4677,8 @@
       "matchEn": "Huracán Las Heras v Juventud Antoniana",
       "matchAr": "Huracán Las Heras × Juventud Antoniana",
       "rawIsoTime": "2026-10-17T18:30:00.000Z",
-      "time": "1 - 0 (live)",
-      "isLive": true
+      "time": "1 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏆 Belgian Cup - Round of 32",
@@ -4686,8 +4686,8 @@
       "matchEn": "Royal Excelsior Virton v Genk",
       "matchAr": "إكسيلسيور فيرتون × جينك",
       "rawIsoTime": "2026-10-17T18:45:00.000Z",
-      "time": "0 - 2 (live)",
-      "isLive": true
+      "time": "0 - 2 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏆 Belgian Cup - Round of 32",
@@ -4695,8 +4695,8 @@
       "matchEn": "Union Royale Centre v RFC Liège",
       "matchAr": "أونيون رويال سنتر × آر إف سي لييج",
       "rawIsoTime": "2026-10-17T18:45:00.000Z",
-      "time": "2 - 0 (live)",
-      "isLive": true
+      "time": "4 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏆 Belgian Cup - Round of 32",
@@ -4704,8 +4704,8 @@
       "matchEn": "Zulte Waregem v Sérésien",
       "matchAr": "زولتة فاريغيم × سيريزيان",
       "rawIsoTime": "2026-10-17T18:45:00.000Z",
-      "time": "3 - 0 (live)",
-      "isLive": true
+      "time": "3 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏁 League of Ireland Premier Division",
@@ -4731,8 +4731,8 @@
       "matchEn": "Club Brugge v Lokeren",
       "matchAr": "كلوب بروج × لوكيرين",
       "rawIsoTime": "2026-10-17T18:45:00.000Z",
-      "time": "1 - 0 (live)",
-      "isLive": true
+      "time": "1 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scottish Premiership",
@@ -4794,7 +4794,7 @@
       "matchEn": "I.N. San Juan FC v Chaco F.C.",
       "matchAr": "I.N. San Juan FC × Chaco F.C.",
       "rawIsoTime": "2026-10-17T19:00:00.000Z",
-      "time": "1 - 2 (live)",
+      "time": "2 - 2 (live)",
       "isLive": true
     },
     {
