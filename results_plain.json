@@ -5145,7 +5145,7 @@
       "matchEn": "São José EC v União São João",
       "matchAr": "São José EC × União São João",
       "rawIsoTime": "2026-10-17T21:00:00.000Z",
-      "time": "0 - 1 (live)",
+      "time": "1 - 2 (live)",
       "isLive": true
     },
     {
@@ -5316,7 +5316,7 @@
       "matchEn": "AD Rosario v Santa Cruz PFA",
       "matchAr": "AD Rosario × Santa Cruz PFA",
       "rawIsoTime": "2026-10-17T23:00:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -5388,7 +5388,7 @@
       "matchEn": "Westchester SC v Union Omaha",
       "matchAr": "Westchester SC × Union Omaha",
       "rawIsoTime": "2026-10-17T23:00:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "0 - 1 (live)",
       "isLive": true
     },
     {
@@ -5397,8 +5397,8 @@
       "matchEn": "غوادالاهارا v تيغريس",
       "matchAr": "غوادالاهارا × تيغريس",
       "rawIsoTime": "2026-10-17T23:07:00.000Z",
-      "time": "23:07",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 دوري بنما - Apertura - شرق",
