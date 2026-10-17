@@ -3,8 +3,8 @@
     {
       "tournamentEn": "🛡️ CAF Confederation Cup",
       "tournamentAr": "🛡️ كأس الكونفدرالية الأفريقية",
-      "matchEn": "Kitara (Uganda) v Al Ahly (Egypt)",
-      "matchAr": "كيتارا (أوغندا) × الأهلي (مصر)",
+      "matchEn": "Kitara (Uganda) v Al Ahly",
+      "matchAr": "كيتارا (أوغندا) × الأهلي",
       "time": "13:00",
       "channels": [
         "📺 On Sport 1 [Nilesat 7.0W 11862 V 27500]"
@@ -691,19 +691,6 @@
         "📺 Sportdigital Fussball [Astra 19.2E 11186 V 22000]",
         "📺 Sky Sports Football [Astra 28.2E 12012 V 27500]",
         "📺 Sky Sports Main Event [Astra 28.2E 12012 V 27500]",
-        "📺 ESPN 2 South Africa [Eutelsat 36.0E 12092 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🏁 USA NBA Preseason",
-      "tournamentAr": "🏁 الموسم التحضيري لدوري السلة الأمريكي",
-      "matchEn": "Lakers v Nuggets",
-      "matchAr": "ليكرز × ناغتس",
-      "time": "02:30",
-      "channels": [
-        "📺 Bein Sport 8 [Nilesat 7.0W 11054 H 27500]",
-        "📺 BeIn Sports Max 4 France [Astra 19.2E 12324 V 29700]",
-        "📺 Bein Sport 8 [Badrsat 26.0E 10810 V 27500]",
         "📺 ESPN 2 South Africa [Eutelsat 36.0E 12092 H 27500]"
       ]
     }
