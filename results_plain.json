@@ -4182,8 +4182,8 @@
       "matchEn": "Ottawa Fury v Forge",
       "matchAr": "أوتاوا فيوري × فورج",
       "rawIsoTime": "2026-10-17T17:00:00.000Z",
-      "time": "0 - 2 (live)",
-      "isLive": true
+      "time": "1 - 2 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏁 Ligue 1",
@@ -4299,8 +4299,8 @@
       "matchEn": "Al Qadsiah v Fortis",
       "matchAr": "القادسية × فورتيس",
       "rawIsoTime": "2026-10-17T17:30:00.000Z",
-      "time": "2 - 0 (live)",
-      "isLive": true
+      "time": "3 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇮🇶 Iraqi League",
@@ -4308,8 +4308,8 @@
       "matchEn": "Al-Quwa Al-Jawiya v Al-Karma",
       "matchAr": "القوة الجوية × الكرمة",
       "rawIsoTime": "2026-10-17T17:30:00.000Z",
-      "time": "0 - 0 (live)",
-      "isLive": true
+      "time": "0 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏁 First Division",
@@ -4317,8 +4317,8 @@
       "matchEn": "Ujpest v Puskás",
       "matchAr": "أويبيشت × بوشكاش",
       "rawIsoTime": "2026-10-17T17:30:00.000Z",
-      "time": "0 - 1 (live)",
-      "isLive": true
+      "time": "0 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇦🇷 Argentine Primera B",
@@ -4326,8 +4326,8 @@
       "matchEn": "Chacarita Juniors v Deportivo Maipu",
       "matchAr": "تشاكاريتا جيونيورز × Deportivo Maipu",
       "rawIsoTime": "2026-10-17T17:30:00.000Z",
-      "time": "1 - 0 (live)",
-      "isLive": true
+      "time": "1 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇦🇹 Austrian Bundesliga",
@@ -4335,8 +4335,8 @@
       "matchEn": "Riet v Austria Vienna",
       "matchAr": "ريت × اوستريا فيينا",
       "rawIsoTime": "2026-10-17T17:30:00.000Z",
-      "time": "2 - 1 (live)",
-      "isLive": true
+      "time": "3 - 2 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏁 2nd Division - Groups - Promotion Round",
@@ -4488,7 +4488,7 @@
       "matchEn": "Deportes Rancagua v Malleco Unido",
       "matchAr": "Deportes Rancagua × ماليكو يونيدو",
       "rawIsoTime": "2026-10-17T18:00:00.000Z",
-      "time": "2 - 2 (live)",
+      "time": "3 - 2 (live)",
       "isLive": true
     },
     {
@@ -4587,7 +4587,7 @@
       "matchEn": "San Martín Burzaco v Excursionistas",
       "matchAr": "San Martín Burzaco × Excursionistas",
       "rawIsoTime": "2026-10-17T18:00:00.000Z",
-      "time": "1 - 0 (live)",
+      "time": "1 - 1 (live)",
       "isLive": true
     },
     {
@@ -4839,8 +4839,8 @@
       "matchEn": "Mercedes v Leones de Rosario FC",
       "matchAr": "Mercedes × Leones de Rosario FC",
       "rawIsoTime": "2026-10-17T19:30:00.000Z",
-      "time": "19:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇦🇷 Argentine Primera B",
@@ -4848,8 +4848,8 @@
       "matchEn": "Tristan Suarez v Patronato",
       "matchAr": "Tristan Suarez × باتروناتو",
       "rawIsoTime": "2026-10-17T19:30:00.000Z",
-      "time": "19:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 Liga 3",
@@ -5794,6 +5794,24 @@
       "matchAr": "لوس أنجلوس غالاكسي × سان دييجو",
       "rawIsoTime": "2026-10-18T02:30:00.000Z",
       "time": "02:30",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🏁 Premier League",
+      "tournamentAr": "🏁 الدوري الممتاز",
+      "matchEn": "Auckland United v Ferrymead Bays Fc",
+      "matchAr": "Auckland United × Ferrymead Bays Fc",
+      "rawIsoTime": "2026-10-18T03:00:00.000Z",
+      "time": "03:00",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🏁 الدوري المكسيكي الممتاز - Apertura",
+      "tournamentAr": "🏁 الدوري المكسيكي الممتاز - Apertura",
+      "matchEn": "كروز أزول v خواريز",
+      "matchAr": "كروز أزول × خواريز",
+      "rawIsoTime": "2026-10-18T03:10:00.000Z",
+      "time": "03:10",
       "isLive": false
     }
   ]
