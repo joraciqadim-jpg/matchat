@@ -267,7 +267,7 @@
       "matchEn": "Lille v Brest",
       "matchAr": "ليل × بريست",
       "rawIsoTime": "2026-10-17T18:45:00.000Z",
-      "time": "0 - 1 (live)",
+      "time": "1 - 1 (live)",
       "isLive": true
     },
     {
@@ -312,8 +312,8 @@
       "matchEn": "Telstar v Feyenoord",
       "matchAr": "تيلستار × فاينورد",
       "rawIsoTime": "2026-10-17T18:00:00.000Z",
-      "time": "3 - 4 (live)",
-      "isLive": true
+      "time": "3 - 4 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇳🇱 Dutch Eredivisie",
@@ -4344,8 +4344,8 @@
       "matchEn": "9 De Octubre v Vinotinto del Ecuador FC",
       "matchAr": "9 De Octubre × Vinotinto del Ecuador FC",
       "rawIsoTime": "2026-10-17T18:00:00.000Z",
-      "time": "1 - 0 (live)",
-      "isLive": true
+      "time": "1 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇸🇦 Saudi League",
@@ -4353,8 +4353,8 @@
       "matchEn": "Al-Diriyah v Al-Taawoun",
       "matchAr": "الدرعية × التعاون",
       "rawIsoTime": "2026-10-17T18:00:00.000Z",
-      "time": "1 - 1 (live)",
-      "isLive": true
+      "time": "1 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇦🇷 Argentine Primera Division - Clausura",
@@ -4362,8 +4362,8 @@
       "matchEn": "Banfield v Argentinos Juniors",
       "matchAr": "بانفيلد × أرخنتينوس جونيورز",
       "rawIsoTime": "2026-10-17T18:00:00.000Z",
-      "time": "0 - 1 (live)",
-      "isLive": true
+      "time": "0 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇩🇿 Algerian League",
@@ -4371,8 +4371,8 @@
       "matchEn": "MC Oran v USM Khenchela",
       "matchAr": "مولودية وهران × اتحاد خنشلة",
       "rawIsoTime": "2026-10-17T18:00:00.000Z",
-      "time": "1 - 0 (live)",
-      "isLive": true
+      "time": "1 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇦🇷 Argentine Primera B",
@@ -4380,8 +4380,8 @@
       "matchEn": "Agropecuario v Colegiales",
       "matchAr": "Agropecuario × Colegiales",
       "rawIsoTime": "2026-10-17T18:00:00.000Z",
-      "time": "0 - 2 (live)",
-      "isLive": true
+      "time": "0 - 3 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏁 Tercera Division A",
@@ -4398,8 +4398,8 @@
       "matchEn": "APAFUT v Passo Fundo (RS)",
       "matchAr": "APAFUT × Passo Fundo (RS)",
       "rawIsoTime": "2026-10-17T18:00:00.000Z",
-      "time": "1 - 1 (live)",
-      "isLive": true
+      "time": "1 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏁 Metropolitana B",
@@ -4407,8 +4407,8 @@
       "matchEn": "Argentino de Quilmes v Flandria",
       "matchAr": "Argentino de Quilmes × Flandria",
       "rawIsoTime": "2026-10-17T18:00:00.000Z",
-      "time": "0 - 0 (live)",
-      "isLive": true
+      "time": "0 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏁 Divisional C - Torneo Final",
@@ -4425,8 +4425,8 @@
       "matchEn": "Berazategui v Club Luján",
       "matchAr": "Berazategui × Club Luján",
       "rawIsoTime": "2026-10-17T18:00:00.000Z",
-      "time": "0 - 0 (live)",
-      "isLive": true
+      "time": "0 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏁 Torneo Reservas - Apertura",
@@ -4434,8 +4434,8 @@
       "matchEn": "Cacahuatique Reserves v Alianza Reserves",
       "matchAr": "Cacahuatique Reserves × Alianza Reserves",
       "rawIsoTime": "2026-10-17T18:00:00.000Z",
-      "time": "2 - 2 (live)",
-      "isLive": true
+      "time": "2 - 3 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏁 Tercera Division A",
@@ -4452,8 +4452,8 @@
       "matchEn": "Central Cordoba de Rosario v Centro Español",
       "matchAr": "Central Cordoba de Rosario × Centro Español",
       "rawIsoTime": "2026-10-17T18:00:00.000Z",
-      "time": "1 - 0 (live)",
-      "isLive": true
+      "time": "1 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏁 Tercera Division A",
@@ -4470,8 +4470,8 @@
       "matchEn": "Comunicaciones v Brown Adrogue",
       "matchAr": "Comunicaciones × Brown Adrogue",
       "rawIsoTime": "2026-10-17T18:00:00.000Z",
-      "time": "0 - 0 (live)",
-      "isLive": true
+      "time": "0 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏁 Metropolitana B",
@@ -4479,8 +4479,8 @@
       "matchEn": "Defensores Unidos v Deportivo Armenio",
       "matchAr": "Defensores Unidos × Deportivo Armenio",
       "rawIsoTime": "2026-10-17T18:00:00.000Z",
-      "time": "0 - 0 (live)",
-      "isLive": true
+      "time": "0 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏁 Tercera Division A",
@@ -4488,8 +4488,8 @@
       "matchEn": "Deportes Rancagua v Malleco Unido",
       "matchAr": "Deportes Rancagua × ماليكو يونيدو",
       "rawIsoTime": "2026-10-17T18:00:00.000Z",
-      "time": "3 - 2 (live)",
-      "isLive": true
+      "time": "3 - 2 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏁 Divisional C - Torneo Final",
@@ -4524,8 +4524,8 @@
       "matchEn": "Kimberley Mar Del Plata v Deportivo Rincón",
       "matchAr": "Kimberley Mar Del Plata × Deportivo Rincón",
       "rawIsoTime": "2026-10-17T18:00:00.000Z",
-      "time": "1 - 1 (live)",
-      "isLive": true
+      "time": "2 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏁 Divisional C - Torneo Final",
@@ -4551,8 +4551,8 @@
       "matchEn": "Metropolitano v Santa Catarina",
       "matchAr": "Metropolitano × Santa Catarina",
       "rawIsoTime": "2026-10-17T18:00:00.000Z",
-      "time": "2 - 0 (live)",
-      "isLive": true
+      "time": "3 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏁 Tercera Division A",
@@ -4578,8 +4578,8 @@
       "matchEn": "Puente Alto v CD Imperial Unido",
       "matchAr": "Puente Alto × Cd Imperial Unido",
       "rawIsoTime": "2026-10-17T18:00:00.000Z",
-      "time": "2 - 2 (live)",
-      "isLive": true
+      "time": "5 - 2 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏁 Metropolitana B",
@@ -4596,8 +4596,8 @@
       "matchEn": "Sportivo Italiano v Arsenal de Sarandí",
       "matchAr": "Sportivo Italiano × آرسنال ساراندي",
       "rawIsoTime": "2026-10-17T18:00:00.000Z",
-      "time": "0 - 0 (live)",
-      "isLive": true
+      "time": "0 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏁 Metropolitana C - Relegation Playoffs",
@@ -4605,8 +4605,8 @@
       "matchEn": "Victoriano Arenas v Deportivo Español",
       "matchAr": "Victoriano Arenas × Deportivo Espanol",
       "rawIsoTime": "2026-10-17T18:00:00.000Z",
-      "time": "0 - 0 (live)",
-      "isLive": true
+      "time": "0 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏁 Metropolitana B",
@@ -4614,8 +4614,8 @@
       "matchEn": "Villa San Carlos v Villa Dálmine",
       "matchAr": "Villa San Carlos × Villa Dalmine",
       "rawIsoTime": "2026-10-17T18:00:00.000Z",
-      "time": "3 - 0 (live)",
-      "isLive": true
+      "time": "3 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏁 Ekstraklasa",
@@ -4650,7 +4650,7 @@
       "matchEn": "Philadelphia Union v Charlotte",
       "matchAr": "فيلادلفيا يونيون × شارلوت",
       "rawIsoTime": "2026-10-17T18:30:00.000Z",
-      "time": "1 - 2 (live)",
+      "time": "2 - 2 (live)",
       "isLive": true
     },
     {
@@ -4695,7 +4695,7 @@
       "matchEn": "Union Royale Centre v RFC Liège",
       "matchAr": "أونيون رويال سنتر × آر إف سي لييج",
       "rawIsoTime": "2026-10-17T18:45:00.000Z",
-      "time": "1 - 0 (live)",
+      "time": "2 - 0 (live)",
       "isLive": true
     },
     {
@@ -5019,8 +5019,8 @@
       "matchEn": "Salcedo v Atlantic",
       "matchAr": "Salcedo × Atlántico",
       "rawIsoTime": "2026-10-17T20:00:00.000Z",
-      "time": "20:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇦🇷 Argentine Primera Division - Clausura",
