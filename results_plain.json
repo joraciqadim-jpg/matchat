@@ -186,8 +186,8 @@
       "matchEn": "Villarreal v Elche",
       "matchAr": "فياريال × إلتشي",
       "rawIsoTime": "2026-10-17T14:15:00Z",
-      "time": "14:15",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇪🇸 Spanish La Liga 1",
@@ -780,7 +780,7 @@
       "matchEn": "Hibernian v Falkirk",
       "matchAr": "هيبرنيان × فالكيرك",
       "rawIsoTime": "2026-10-17T14:00:00Z",
-      "time": "0 - 0 (live)",
+      "time": "0 - 1 (live)",
       "isLive": true
     },
     {
@@ -852,7 +852,7 @@
       "matchEn": "Hikmeh v Al Ahed",
       "matchAr": "الحكمة × العهد",
       "rawIsoTime": "2026-10-17T13:30:00Z",
-      "time": "0 - 0 (live)",
+      "time": "0 - 1 (live)",
       "isLive": true
     },
     {
