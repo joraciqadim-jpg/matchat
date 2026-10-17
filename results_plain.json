@@ -303,8 +303,8 @@
       "matchEn": "Middlesbrough v Cardiff City",
       "matchAr": "ميدلزبره × كارديف سيتي",
       "rawIsoTime": "2026-10-17T11:30:00Z",
-      "time": "2 - 2 (live)",
-      "isLive": true
+      "time": "2 - 2 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇬🇧 English Championship",
@@ -843,7 +843,7 @@
       "matchEn": "Tadamon Sour v Akhaa Ahli Aley",
       "matchAr": "التضامن صور × الإخاء الأهلي عاليه",
       "rawIsoTime": "2026-10-17T12:00:00Z",
-      "time": "2 - 1 (live)",
+      "time": "3 - 1 (live)",
       "isLive": true
     },
     {
