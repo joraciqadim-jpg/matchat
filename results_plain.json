@@ -177,7 +177,7 @@
       "matchEn": "Real Betis v Barcelona",
       "matchAr": "ريال بيتيس × برشلونة",
       "rawIsoTime": "2026-10-17T16:30:00.000Z",
-      "time": "2 - 5 (live)",
+      "time": "2 - 4 (live)",
       "isLive": true
     },
     {
@@ -475,6 +475,15 @@
       "matchAr": "أكاديميكا × أمارانتي",
       "rawIsoTime": "2026-10-17T19:15:00.000Z",
       "time": "19:15",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🏁 First Division - Regular Season",
+      "tournamentAr": "🏁 الدرجة الاولى - Regular Season",
+      "matchEn": "Kenya Commercial Bank v Aps Bomet",
+      "matchAr": "بنك كينيا التجاري × Aps Bomet",
+      "rawIsoTime": "2026-10-17T11:00:00.000Z",
+      "time": "11:00",
       "isLive": false
     },
     {
@@ -1744,15 +1753,6 @@
       "matchAr": "Ekenäs IF × Kapa",
       "rawIsoTime": "2026-10-17T13:00:00.000Z",
       "time": "3 - 2 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🏁 APF Primera C",
-      "tournamentAr": "🏁 APF Primera C",
-      "matchEn": "General Diaz v General Caballero CG",
-      "matchAr": "General Diaz × General Caballero CG",
-      "rawIsoTime": "2026-10-17T13:00:00.000Z",
-      "time": "0 - 0 (done)",
       "isLive": false
     },
     {
@@ -3448,15 +3448,6 @@
       "isLive": false
     },
     {
-      "tournamentEn": "🇱🇹 Lithuanian A Lyga",
-      "tournamentAr": "🇱🇹 الدوري الليتواني الممتاز",
-      "matchEn": "Džiugas Telšiai v Transinvest",
-      "matchAr": "Džiugas Telšiai × ترانس إنفيست",
-      "rawIsoTime": "2026-10-17T14:30:00.000Z",
-      "time": "3 - 3 (done)",
-      "isLive": false
-    },
-    {
       "tournamentEn": "🛡️ AFC Challenge League",
       "tournamentAr": "🛡️ دوري التحدي الآسيوي",
       "matchEn": "Al-Ansar v Al-Ahli Aleppo",
@@ -4128,7 +4119,7 @@
       "matchEn": "Génération Foot v Baikine",
       "matchAr": "جينيراسيون فوت × بايكاين",
       "rawIsoTime": "2026-10-17T16:15:00.000Z",
-      "time": "2 - 0 (live)",
+      "time": "3 - 0 (live)",
       "isLive": true
     },
     {
@@ -4317,7 +4308,7 @@
       "matchEn": "Old Boys v Yverdon",
       "matchAr": "Old Boys × إيفيردون",
       "rawIsoTime": "2026-10-17T17:00:00.000Z",
-      "time": "0 - 1 (live)",
+      "time": "0 - 2 (live)",
       "isLive": true
     },
     {
@@ -5776,6 +5767,15 @@
       "matchAr": "CD Plaza Amador × CD Árabe Unido",
       "rawIsoTime": "2026-10-18T01:30:00.000Z",
       "time": "01:30",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🏁 Taiwan Premier League",
+      "tournamentAr": "🏁 الدوري التايواني الممتاز",
+      "matchEn": "Hong Yuan v Taipower",
+      "matchAr": "هونغ يوان × تايباور",
+      "rawIsoTime": "2026-10-18T08:00:00.000Z",
+      "time": "08:00",
       "isLive": false
     }
   ]
