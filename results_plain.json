@@ -6,8 +6,8 @@
       "matchEn": "CFFA Andoharanofotsy (Madagascar) v Young Africans (Tanzania)",
       "matchAr": "CFFA أندوهارانوفوتسي (مدغشقر) × يانج أفريكانز (تنزانيا)",
       "rawIsoTime": "2026-10-17T12:00:00Z",
-      "time": "0 - 4 (live)",
-      "isLive": true
+      "time": "0 - 4 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🛡️ CAF Champions League",
@@ -15,7 +15,7 @@
       "matchEn": "African Stars (Namibia) v Orlando Pirates (South Africa)",
       "matchAr": "افريقيا ستارز (ناميبيا) × اورلاندو بيراتس (جنوب أفريقيا)",
       "rawIsoTime": "2026-10-17T13:00:00Z",
-      "time": "1 - 1 (live)",
+      "time": "0 - 0 (live)",
       "isLive": true
     },
     {
@@ -24,7 +24,7 @@
       "matchEn": "TP Mazembe (Democratic Republic of the Congo) v Club Africain (Tunisia)",
       "matchAr": "مازيمبي (جمهورية الكونغو الديمقراطية) × النادي الإفريقي (تونس)",
       "rawIsoTime": "2026-10-17T13:00:00Z",
-      "time": "0 - 0 (live)",
+      "time": "1 - 1 (live)",
       "isLive": true
     },
     {
@@ -177,8 +177,8 @@
       "matchEn": "Espanyol v Atlético Madrid",
       "matchAr": "إسبانيول × أتليتكو مدريد",
       "rawIsoTime": "2026-10-17T12:00:00Z",
-      "time": "0 - 1 (live)",
-      "isLive": true
+      "time": "0 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇪🇸 Spanish La Liga 1",
@@ -213,7 +213,7 @@
       "matchEn": "Schalke 04 v Mainz 05",
       "matchAr": "شالكه × ماينز",
       "rawIsoTime": "2026-10-17T13:30:00Z",
-      "time": "0 - 0 (live)",
+      "time": "0 - 1 (live)",
       "isLive": true
     },
     {
@@ -843,8 +843,8 @@
       "matchEn": "Tadamon Sour v Akhaa Ahli Aley",
       "matchAr": "التضامن صور × الإخاء الأهلي عاليه",
       "rawIsoTime": "2026-10-17T12:00:00Z",
-      "time": "4 - 1 (live)",
-      "isLive": true
+      "time": "4 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇱🇧 Lebanese Premier League",
