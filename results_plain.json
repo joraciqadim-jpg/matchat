@@ -15,8 +15,8 @@
       "matchEn": "African Stars (Namibia) v Orlando Pirates (South Africa)",
       "matchAr": "افريقيا ستارز (ناميبيا) × اورلاندو بيراتس (جنوب أفريقيا)",
       "rawIsoTime": "2026-10-17T13:00:00Z",
-      "time": "13:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🛡️ CAF Champions League",
@@ -24,8 +24,8 @@
       "matchEn": "TP Mazembe (Democratic Republic of the Congo) v Club Africain (Tunisia)",
       "matchAr": "مازيمبي (جمهورية الكونغو الديمقراطية) × النادي الإفريقي (تونس)",
       "rawIsoTime": "2026-10-17T13:00:00Z",
-      "time": "13:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🛡️ CAF Champions League",
@@ -523,7 +523,7 @@
       "isLive": false
     },
     {
-      "tournamentEn": "🏁 Botola Pro \"Inwi\"",
+      "tournamentEn": "🏁 Botola Pro Inwi",
       "tournamentAr": "🏁 البطولة المغربية الاحترافية \"إنوي\"",
       "matchEn": "CODM Meknès v Union Touarga Sportif",
       "matchAr": "النادي المكناسي × الاتحاد التوركي",
@@ -609,8 +609,8 @@
       "matchEn": "Al-Nasr v Hatta",
       "matchAr": "النصر × حتا",
       "rawIsoTime": "2026-10-17T13:05:00Z",
-      "time": "13:05",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇦🇪 Emirati Pro League",
@@ -753,7 +753,7 @@
       "matchEn": "Al Dhaid v Al Jazira Al Hamra",
       "matchAr": "الذيد × الجزيرة الحمرا",
       "rawIsoTime": "2026-10-17T13:00:00Z",
-      "time": "0 - 0 (live)",
+      "time": "0 - 1 (live)",
       "isLive": true
     },
     {
