@@ -186,8 +186,8 @@
       "matchEn": "Valencia v Athletic Bilbao",
       "matchAr": "فالنسيا × أتلتيك بلباو",
       "rawIsoTime": "2026-10-17T19:00:00.000Z",
-      "time": "0 - 0 (live)",
-      "isLive": true
+      "time": "0 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇩🇪 German Bundesliga",
@@ -258,8 +258,8 @@
       "matchEn": "Troyes v Lens",
       "matchAr": "تروا × لانس",
       "rawIsoTime": "2026-10-17T18:45:00.000Z",
-      "time": "1 - 3 (live)",
-      "isLive": true
+      "time": "1 - 3 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇫🇷 French Ligue 1",
@@ -321,8 +321,8 @@
       "matchEn": "Sparta Rotterdam v Willem II",
       "matchAr": "سبارتا روتردام × فيليم ٢",
       "rawIsoTime": "2026-10-17T19:00:00.000Z",
-      "time": "3 - 2 (live)",
-      "isLive": true
+      "time": "3 - 2 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇧🇷 Brazilian Série A",
@@ -330,7 +330,7 @@
       "matchEn": "Botafogo v Chapecoense",
       "matchAr": "بوتافوغو × شابيكوينسي",
       "rawIsoTime": "2026-10-17T21:00:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -465,8 +465,8 @@
       "matchEn": "Penafiel v Leça",
       "matchAr": "بينافيل × ليكا",
       "rawIsoTime": "2026-10-17T19:00:00.000Z",
-      "time": "0 - 1 (live)",
-      "isLive": true
+      "time": "0 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏆 Portuguese Cup - Round 3",
@@ -474,8 +474,8 @@
       "matchEn": "Académica v Amarante",
       "matchAr": "أكاديميكا × أمارانتي",
       "rawIsoTime": "2026-10-17T19:15:00.000Z",
-      "time": "3 - 2 (live)",
-      "isLive": true
+      "time": "3 - 2 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏁 Premier League",
@@ -4389,7 +4389,7 @@
       "matchEn": "Aguará v Quintero Unido",
       "matchAr": "Aguará × Quintero Unido",
       "rawIsoTime": "2026-10-17T18:00:00.000Z",
-      "time": "0 - 0 (done)",
+      "time": "1 - 1 (done)",
       "isLive": false
     },
     {
@@ -4443,7 +4443,7 @@
       "matchEn": "CD Constitución Unido v Rodelindo",
       "matchAr": "Cd Constitución Unido × Rodelindo",
       "rawIsoTime": "2026-10-17T18:00:00.000Z",
-      "time": "0 - 0 (done)",
+      "time": "4 - 2 (done)",
       "isLive": false
     },
     {
@@ -4461,7 +4461,7 @@
       "matchEn": "Comunal Cabrero v Lautaro de Buin",
       "matchAr": "Comunal Cabrero × لوتارو دي بوين",
       "rawIsoTime": "2026-10-17T18:00:00.000Z",
-      "time": "0 - 0 (done)",
+      "time": "4 - 1 (done)",
       "isLive": false
     },
     {
@@ -4650,8 +4650,8 @@
       "matchEn": "Philadelphia Union v Charlotte",
       "matchAr": "فيلادلفيا يونيون × شارلوت",
       "rawIsoTime": "2026-10-17T18:30:00.000Z",
-      "time": "2 - 2 (live)",
-      "isLive": true
+      "time": "2 - 2 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇦🇷 Argentine Primera B",
@@ -4713,8 +4713,8 @@
       "matchEn": "Sligo Rovers v Dundalk",
       "matchAr": "سيلغو روفرز × دوندالك",
       "rawIsoTime": "2026-10-17T18:45:00.000Z",
-      "time": "1 - 1 (live)",
-      "isLive": true
+      "time": "1 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏆 Cup - Round 2",
@@ -4740,8 +4740,8 @@
       "matchEn": "Dundee v Rangers",
       "matchAr": "دوندي × رينجرز",
       "rawIsoTime": "2026-10-17T19:00:00.000Z",
-      "time": "2 - 2 (live)",
-      "isLive": true
+      "time": "2 - 2 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏁 Primera División - First Hexagonal",
@@ -4749,8 +4749,8 @@
       "matchEn": "Macará Ambato v Independiente San Joaquín",
       "matchAr": "ماكارا أمباتو × إنديبيندينت سانيولكي",
       "rawIsoTime": "2026-10-17T19:00:00.000Z",
-      "time": "1 - 0 (live)",
-      "isLive": true
+      "time": "1 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏁 Premier League - Clausura",
@@ -4758,8 +4758,8 @@
       "matchEn": "Boston River v Defensor Sporting",
       "matchAr": "Boston River × ديفنسور سبورتينغ",
       "rawIsoTime": "2026-10-17T19:00:00.000Z",
-      "time": "1 - 0 (live)",
-      "isLive": true
+      "time": "1 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏁 APF Primera C",
@@ -4776,8 +4776,8 @@
       "matchEn": "Club 26 de Febrero v Deportivo Fatic",
       "matchAr": "Club 26 de Febrero × Deportivo Fatic",
       "rawIsoTime": "2026-10-17T19:00:00.000Z",
-      "time": "1 - 0 (live)",
-      "isLive": true
+      "time": "5 - 3 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇦🇷 Argentine League - Revalida - Second Stage",
@@ -4785,8 +4785,8 @@
       "matchEn": "Defensores Belgrano (VR) v Sportivo Las Parejas",
       "matchAr": "Defensores Belgrano (VR) × Sportivo Las Parejas",
       "rawIsoTime": "2026-10-17T19:00:00.000Z",
-      "time": "0 - 0 (live)",
-      "isLive": true
+      "time": "0 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏁 Second Division - Round of 16",
@@ -4794,8 +4794,8 @@
       "matchEn": "I.N. San Juan FC v Chaco F.C.",
       "matchAr": "I.N. San Juan FC × Chaco F.C.",
       "rawIsoTime": "2026-10-17T19:00:00.000Z",
-      "time": "2 - 2 (live)",
-      "isLive": true
+      "time": "3 - 2 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏁 Second Division - Round of 16",
@@ -4803,8 +4803,8 @@
       "matchEn": "Independiente Cochabamba v Unión Tarija",
       "matchAr": "Independiente Cochabamba × Unión Tarija",
       "rawIsoTime": "2026-10-17T19:00:00.000Z",
-      "time": "2 - 0 (live)",
-      "isLive": true
+      "time": "3 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏁 Bolivian League",
@@ -4812,8 +4812,8 @@
       "matchEn": "Real Oruro v Aurora",
       "matchAr": "Real Oruro × أورورا",
       "rawIsoTime": "2026-10-17T19:00:00.000Z",
-      "time": "1 - 0 (live)",
-      "isLive": true
+      "time": "1 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏁 APF Primera B",
@@ -4875,7 +4875,7 @@
       "matchEn": "Boyacá Chicó v Atlético Nacional",
       "matchAr": "بوياكا تشيكو × اتلتيكو ناسيونال",
       "rawIsoTime": "2026-10-17T20:00:00.000Z",
-      "time": "0 - 1 (live)",
+      "time": "0 - 2 (live)",
       "isLive": true
     },
     {
@@ -5608,15 +5608,6 @@
       "isLive": false
     },
     {
-      "tournamentEn": "🏁 Premier League",
-      "tournamentAr": "🏁 الدوري الممتاز",
-      "matchEn": "Birkenhead United v Napier City Rovers",
-      "matchAr": "Birkenhead United × Napier City Rovers",
-      "rawIsoTime": "2026-10-18T01:00:00.000Z",
-      "time": "01:00",
-      "isLive": false
-    },
-    {
       "tournamentEn": "🏁 USL League One - Regular Season",
       "tournamentAr": "🏁 USL League One - الموسم العادي",
       "matchEn": "Boise v Alta",
@@ -5801,6 +5792,15 @@
       "tournamentAr": "🏁 الدوري الممتاز",
       "matchEn": "Auckland United v Ferrymead Bays Fc",
       "matchAr": "Auckland United × Ferrymead Bays Fc",
+      "rawIsoTime": "2026-10-18T03:00:00.000Z",
+      "time": "03:00",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🏁 Premier League",
+      "tournamentAr": "🏁 الدوري الممتاز",
+      "matchEn": "Birkenhead United v Napier City Rovers",
+      "matchAr": "Birkenhead United × Napier City Rovers",
       "rawIsoTime": "2026-10-18T03:00:00.000Z",
       "time": "03:00",
       "isLive": false
