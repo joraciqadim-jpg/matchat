@@ -87,7 +87,7 @@
       "matchEn": "Rayon Sports v Black Bulls Maputo",
       "matchAr": "رايون سبورت × بلاك بولز مابوتو",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "0 - 2 (live)",
+      "time": "0 - 1 (live)",
       "isLive": true
     },
     {
@@ -177,7 +177,7 @@
       "matchEn": "Real Betis v Barcelona",
       "matchAr": "ريال بيتيس × برشلونة",
       "rawIsoTime": "2026-10-17T16:30:00.000Z",
-      "time": "2 - 3 (live)",
+      "time": "2 - 4 (live)",
       "isLive": true
     },
     {
@@ -240,7 +240,7 @@
       "matchEn": "Bayern Munich v RB Leipzig",
       "matchAr": "بايرن ميونخ × لايبزيج",
       "rawIsoTime": "2026-10-17T16:30:00.000Z",
-      "time": "5 - 0 (live)",
+      "time": "6 - 0 (live)",
       "isLive": true
     },
     {
@@ -3948,7 +3948,7 @@
       "matchEn": "Al-Riffa v East Riffa",
       "matchAr": "الرفاع × الرفاع الشرقي",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "4 - 0 (live)",
+      "time": "3 - 0 (live)",
       "isLive": true
     },
     {
@@ -4128,7 +4128,7 @@
       "matchEn": "Kagera Sugar v Polisi Tanzania FC",
       "matchAr": "كاجيرا شوجار × Polisi Tanzania FC",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "1 - 1 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -4191,7 +4191,7 @@
       "matchEn": "Camioneros v Argentino de Merlo",
       "matchAr": "Camioneros × Argentino Merlo",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "2 - 1 (live)",
+      "time": "2 - 2 (live)",
       "isLive": true
     },
     {
@@ -4326,7 +4326,7 @@
       "matchEn": "Nacional Quito v Deportivo Santo Domingo",
       "matchAr": "ناسيونال كيتو × Deportivo Santo Domingo",
       "rawIsoTime": "2026-10-17T16:30:00.000Z",
-      "time": "0 - 2 (live)",
+      "time": "1 - 2 (live)",
       "isLive": true
     },
     {
@@ -4335,7 +4335,7 @@
       "matchEn": "Libertad v River Plate",
       "matchAr": "Libertad × ريفربليت",
       "rawIsoTime": "2026-10-17T16:30:00.000Z",
-      "time": "3 - 0 (live)",
+      "time": "4 - 0 (live)",
       "isLive": true
     },
     {
@@ -4506,7 +4506,7 @@
       "matchEn": "Chacarita Juniors v Deportivo Maipu",
       "matchAr": "تشاكاريتا جيونيورز × Deportivo Maipu",
       "rawIsoTime": "2026-10-17T17:30:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -4515,7 +4515,7 @@
       "matchEn": "Riet v Austria Vienna",
       "matchAr": "ريت × اوستريا فيينا",
       "rawIsoTime": "2026-10-17T17:30:00.000Z",
-      "time": "1 - 1 (live)",
+      "time": "2 - 1 (live)",
       "isLive": true
     },
     {
@@ -4533,8 +4533,8 @@
       "matchEn": "Al-Diriyah v Al-Taawoun",
       "matchAr": "الدرعية × التعاون",
       "rawIsoTime": "2026-10-17T18:00:00.000Z",
-      "time": "18:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇦🇷 Argentine Primera Division - Clausura",
@@ -4542,8 +4542,8 @@
       "matchEn": "Banfield v Argentinos Juniors",
       "matchAr": "بانفيلد × أرخنتينوس جونيورز",
       "rawIsoTime": "2026-10-17T18:00:00.000Z",
-      "time": "18:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇩🇿 Algerian League",
@@ -4551,8 +4551,8 @@
       "matchEn": "MC Oran v USM Khenchela",
       "matchAr": "مولودية وهران × اتحاد خنشلة",
       "rawIsoTime": "2026-10-17T18:00:00.000Z",
-      "time": "18:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇦🇷 Argentine Primera B",
