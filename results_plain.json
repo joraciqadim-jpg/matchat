@@ -402,7 +402,7 @@
       "matchEn": "Florgrade v Portimonense",
       "matchAr": "Florgrade × بورتيمونينسي",
       "rawIsoTime": "2026-10-17T14:00:00.000Z",
-      "time": "1 - 1 (live)",
+      "time": "1 - 2 (live)",
       "isLive": true
     },
     {
@@ -2463,8 +2463,8 @@
       "matchEn": "Al-Najma v Istiklol Dushanbe",
       "matchAr": "النجمة × استقلال دوشنبه",
       "rawIsoTime": "2026-10-17T14:00:00.000Z",
-      "time": "1 - 0 (live)",
-      "isLive": true
+      "time": "1 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scottish League One",
@@ -2805,7 +2805,7 @@
       "matchEn": "AFC Telford United v Darlington",
       "matchAr": "تيلفورد يونايتد × دارلينغتون",
       "rawIsoTime": "2026-10-17T14:00:00.000Z",
-      "time": "1 - 1 (live)",
+      "time": "2 - 1 (live)",
       "isLive": true
     },
     {
@@ -2967,8 +2967,8 @@
       "matchEn": "Sutton United v Truro City",
       "matchAr": "ساتون يونايتد × ترورو سيتي",
       "rawIsoTime": "2026-10-17T14:00:00.000Z",
-      "time": "1 - 0 (live)",
-      "isLive": true
+      "time": "1 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏁 Girabola",
@@ -3309,8 +3309,8 @@
       "matchEn": "Queen's University v Newry City",
       "matchAr": "كوينز يونيفيرسيتي × Newry City",
       "rawIsoTime": "2026-10-17T14:00:00.000Z",
-      "time": "1 - 1 (live)",
-      "isLive": true
+      "time": "1 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏆 FA Cup - Preliminary Rounds - Third Qualifying Round",
@@ -4002,7 +4002,7 @@
       "matchEn": "Fanja v Saham",
       "matchAr": "فنجاء × صحم",
       "rawIsoTime": "2026-10-17T15:30:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -4056,8 +4056,8 @@
       "matchEn": "Al-Naft v Zakho",
       "matchAr": "النفط × زاخو",
       "rawIsoTime": "2026-10-17T15:45:00.000Z",
-      "time": "15:45",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇦🇪 Emirati Pro League",
