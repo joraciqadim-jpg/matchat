@@ -6,7 +6,7 @@
       "matchEn": "CFFA Andoharanofotsy (Madagascar) v Young Africans (Tanzania)",
       "matchAr": "CFFA أندوهارانوفوتسي (مدغشقر) × يانج أفريكانز (تنزانيا)",
       "rawIsoTime": "2026-10-17T12:00:00Z",
-      "time": "0 - 1 (live)",
+      "time": "0 - 2 (live)",
       "isLive": true
     },
     {
@@ -523,8 +523,8 @@
       "isLive": false
     },
     {
-      "tournamentEn": "🏁 Botola Pro Inwi",
-      "tournamentAr": "🏁 البطولة الوطنية المغربية الاحترافية \"إنوي\"",
+      "tournamentEn": "🏁 Botola Pro \"Inwi\"",
+      "tournamentAr": "🏁 البطولة المغربية الاحترافية \"إنوي\"",
       "matchEn": "CODM Meknès v Union Touarga Sportif",
       "matchAr": "النادي المكناسي × الاتحاد التوركي",
       "rawIsoTime": "2026-10-17T16:00:00Z",
@@ -636,8 +636,8 @@
       "matchEn": "Gençlerbirliği v Galatasaray",
       "matchAr": "غنتشلربيرليجي × غلطة سراي",
       "rawIsoTime": "2026-10-17T13:00:00Z",
-      "time": "13:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇹🇷 Turkish Süper Lig",
@@ -762,8 +762,8 @@
       "matchEn": "City v Al Hamriyah",
       "matchAr": "سيتي × الحمرية",
       "rawIsoTime": "2026-10-17T13:05:00Z",
-      "time": "13:05",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scottish Premiership",
