@@ -1,4 +1,508 @@
 {
+  "Camarthen Town": {
+    "ar": "Camarthen Town",
+    "en": "Camarthen Town"
+  },
+  "Newport City FC": {
+    "ar": "Newport City FC",
+    "en": "Newport City FC"
+  },
+  "Ekenäs IF": {
+    "ar": "Ekenäs IF",
+    "en": "Ekenäs IF"
+  },
+  "Kapa": {
+    "ar": "Kapa",
+    "en": "Kapa"
+  },
+  "General Caballero CG": {
+    "ar": "General Caballero CG",
+    "en": "General Caballero CG"
+  },
+  "Atlético Juventud": {
+    "ar": "Atlético Juventud",
+    "en": "Atlético Juventud"
+  },
+  "APF Primera C": {
+    "ar": "APF Primera C",
+    "en": "APF Primera C"
+  },
+  "General Diaz": {
+    "ar": "General Diaz",
+    "en": "General Diaz"
+  },
+  "Llannefydd": {
+    "ar": "Llannefydd",
+    "en": "Llannefydd"
+  },
+  "Llantwit Fardre": {
+    "ar": "Llantwit Fardre",
+    "en": "Llantwit Fardre"
+  },
+  "Baglan Dragons": {
+    "ar": "Baglan Dragons",
+    "en": "Baglan Dragons"
+  },
+  "Llay Miners Welfare": {
+    "ar": "Llay Miners Welfare",
+    "en": "Llay Miners Welfare"
+  },
+  "Martín Ledesma": {
+    "ar": "Martín Ledesma",
+    "en": "Martín Ledesma"
+  },
+  "Presidente Hayes": {
+    "ar": "Presidente Hayes",
+    "en": "Presidente Hayes"
+  },
+  "Pardubice": {
+    "ar": "Pardubice",
+    "en": "Pardubice"
+  },
+  "Platense": {
+    "ar": "Platense",
+    "en": "Platense"
+  },
+  "Lito": {
+    "ar": "Lito",
+    "en": "Lito"
+  },
+  "Divisional C - Torneo Final": {
+    "ar": "Divisional C - Torneo Final",
+    "en": "Divisional C - Torneo Final"
+  },
+  "Progreso": {
+    "ar": "Progreso",
+    "en": "Progreso"
+  },
+  "Radnor": {
+    "ar": "Radnor",
+    "en": "Radnor"
+  },
+  "Cardiff Draconians": {
+    "ar": "Cardiff Draconians",
+    "en": "Cardiff Draconians"
+  },
+  "Recreativa de Lamelas": {
+    "ar": "Recreativa de Lamelas",
+    "en": "Recreativa de Lamelas"
+  },
+  "Sportivo Limpeño": {
+    "ar": "Sportivo Limpeño",
+    "en": "Sportivo Limpeño"
+  },
+  "River Plate Asuncion": {
+    "ar": "River Plate Asuncion",
+    "en": "River Plate Asuncion"
+  },
+  "Schwaben Augsburg": {
+    "ar": "Schwaben Augsburg",
+    "en": "Schwaben Augsburg"
+  },
+  "ترانس إنفيست": {
+    "ar": "ترانس إنفيست",
+    "en": "Transinvest"
+  },
+  "Dakar SC": {
+    "ar": "Dakar SC",
+    "en": "Dakar SC"
+  },
+  "Old Boys": {
+    "ar": "Old Boys",
+    "en": "Old Boys"
+  },
+  "UF Touraine": {
+    "ar": "UF Touraine",
+    "en": "UF Touraine"
+  },
+  "Wally Daan": {
+    "ar": "Wally Daan",
+    "en": "Wally Daan"
+  },
+  "Gaucho A2 - نصف النهائي": {
+    "ar": "Gaucho A2 - نصف النهائي",
+    "en": "Gaucho A2 - Semi-final"
+  },
+  "Argentino de Quilmes": {
+    "ar": "Argentino de Quilmes",
+    "en": "Argentino de Quilmes"
+  },
+  "Flandria": {
+    "ar": "Flandria",
+    "en": "Flandria"
+  },
+  "Bella Vista": {
+    "ar": "Bella Vista",
+    "en": "Bella Vista"
+  },
+  "Durazno": {
+    "ar": "Durazno",
+    "en": "Durazno"
+  },
+  "Berazategui": {
+    "ar": "Berazategui",
+    "en": "Berazategui"
+  },
+  "Club Luján": {
+    "ar": "Club Luján",
+    "en": "Club Luján"
+  },
+  "Cacahuatique Reserves": {
+    "ar": "Cacahuatique Reserves",
+    "en": "Cacahuatique Reserves"
+  },
+  "Alianza Reserves": {
+    "ar": "Alianza Reserves",
+    "en": "Alianza Reserves"
+  },
+  "Cd Constitución Unido": {
+    "ar": "Cd Constitución Unido",
+    "en": "Cd Constitución Unido"
+  },
+  "Rodelindo": {
+    "ar": "Rodelindo",
+    "en": "Rodelindo"
+  },
+  "Central Cordoba de Rosario": {
+    "ar": "Central Cordoba de Rosario",
+    "en": "Central Cordoba de Rosario"
+  },
+  "Centro Español": {
+    "ar": "Centro Español",
+    "en": "Centro Español"
+  },
+  "Centro Limoeirense": {
+    "ar": "Centro Limoeirense",
+    "en": "Centro Limoeirense"
+  },
+  "Águia de Cumaru": {
+    "ar": "Águia de Cumaru",
+    "en": "Águia de Cumaru"
+  },
+  "Chã Grande": {
+    "ar": "Chã Grande",
+    "en": "Chã Grande"
+  },
+  "Pesqueira": {
+    "ar": "Pesqueira",
+    "en": "Pesqueira"
+  },
+  "Comunal Cabrero": {
+    "ar": "Comunal Cabrero",
+    "en": "Comunal Cabrero"
+  },
+  "Comunicaciones": {
+    "ar": "Comunicaciones",
+    "en": "Comunicaciones"
+  },
+  "Brown Adrogue": {
+    "ar": "Brown Adrogue",
+    "en": "Brown Adrogue"
+  },
+  "Defensores Unidos": {
+    "ar": "Defensores Unidos",
+    "en": "Defensores Unidos"
+  },
+  "Deportivo Armenio": {
+    "ar": "Deportivo Armenio",
+    "en": "Deportivo Armenio"
+  },
+  "Deportes Rancagua": {
+    "ar": "Deportes Rancagua",
+    "en": "Deportes Rancagua"
+  },
+  "Deutscher": {
+    "ar": "Deutscher",
+    "en": "Deutscher"
+  },
+  "Club Atlético Artigas": {
+    "ar": "Club Atlético Artigas",
+    "en": "Club Atlético Artigas"
+  },
+  "General Lamadrid": {
+    "ar": "General Lamadrid",
+    "en": "General Lamadrid"
+  },
+  "Estrella del Sur": {
+    "ar": "Estrella del Sur",
+    "en": "Estrella del Sur"
+  },
+  "Irapuato \"B\"": {
+    "ar": "Irapuato \"B\"",
+    "en": "Irapuato \"B\""
+  },
+  "Internacional Laguna": {
+    "ar": "Internacional Laguna",
+    "en": "Internacional Laguna"
+  },
+  "Kimberley Mar Del Plata": {
+    "ar": "Kimberley Mar Del Plata",
+    "en": "Kimberley Mar Del Plata"
+  },
+  "Deportivo Rincón": {
+    "ar": "Deportivo Rincón",
+    "en": "Deportivo Rincón"
+  },
+  "Los Halcones": {
+    "ar": "Los Halcones",
+    "en": "Los Halcones"
+  },
+  "Terremoto": {
+    "ar": "Terremoto",
+    "en": "Terremoto"
+  },
+  "Mar de Fondo": {
+    "ar": "Mar de Fondo",
+    "en": "Mar de Fondo"
+  },
+  "Salto FC": {
+    "ar": "Salto FC",
+    "en": "Salto FC"
+  },
+  "Metropolitano": {
+    "ar": "Metropolitano",
+    "en": "Metropolitano"
+  },
+  "Santa Catarina": {
+    "ar": "Santa Catarina",
+    "en": "Santa Catarina"
+  },
+  "Copa Santa Catarina": {
+    "ar": "Copa Santa Catarina",
+    "en": "Copa Santa Catarina"
+  },
+  "Naval": {
+    "ar": "Naval",
+    "en": "Naval"
+  },
+  "Chimbarongo": {
+    "ar": "Chimbarongo",
+    "en": "Chimbarongo"
+  },
+  "Petrolina": {
+    "ar": "Petrolina",
+    "en": "Petrolina"
+  },
+  "Afogados": {
+    "ar": "Afogados",
+    "en": "Afogados"
+  },
+  "Puente Alto": {
+    "ar": "Puente Alto",
+    "en": "Puente Alto"
+  },
+  "Capitan Figari FBC": {
+    "ar": "Capitan Figari FBC",
+    "en": "Capitan Figari FBC"
+  },
+  "Humaitá": {
+    "ar": "Humaitá",
+    "en": "Humaitá"
+  },
+  "Club 26 de Febrero": {
+    "ar": "Club 26 de Febrero",
+    "en": "Club 26 de Febrero"
+  },
+  "Deportivo Fatic": {
+    "ar": "Deportivo Fatic",
+    "en": "Deportivo Fatic"
+  },
+  "Defensores Belgrano (VR)": {
+    "ar": "Defensores Belgrano (VR)",
+    "en": "Defensores Belgrano (VR)"
+  },
+  "Sportivo Las Parejas": {
+    "ar": "Sportivo Las Parejas",
+    "en": "Sportivo Las Parejas"
+  },
+  "I.N. San Juan FC": {
+    "ar": "I.N. San Juan FC",
+    "en": "I.N. San Juan FC"
+  },
+  "Chaco F.C.": {
+    "ar": "Chaco F.C.",
+    "en": "Chaco F.C."
+  },
+  "Independiente Cochabamba": {
+    "ar": "Independiente Cochabamba",
+    "en": "Independiente Cochabamba"
+  },
+  "Unión Tarija": {
+    "ar": "Unión Tarija",
+    "en": "Unión Tarija"
+  },
+  "Real Oruro": {
+    "ar": "Real Oruro",
+    "en": "Real Oruro"
+  },
+  "Sportivo Iteno": {
+    "ar": "Sportivo Iteno",
+    "en": "Sportivo Iteno"
+  },
+  "Cristobal Colon JAS": {
+    "ar": "Cristobal Colon JAS",
+    "en": "Cristobal Colon JAS"
+  },
+  "Sportivo Valois Rivarola": {
+    "ar": "Sportivo Valois Rivarola",
+    "en": "Sportivo Valois Rivarola"
+  },
+  "Deportivo Pinozá": {
+    "ar": "Deportivo Pinozá",
+    "en": "Deportivo Pinozá"
+  },
+  "Mercedes": {
+    "ar": "Mercedes",
+    "en": "Mercedes"
+  },
+  "Leones de Rosario FC": {
+    "ar": "Leones de Rosario FC",
+    "en": "Leones de Rosario FC"
+  },
+  "Tristan Suarez": {
+    "ar": "Tristan Suarez",
+    "en": "Tristan Suarez"
+  },
+  "Cavalry": {
+    "ar": "Cavalry",
+    "en": "Cavalry"
+  },
+  "Pacific": {
+    "ar": "Pacific",
+    "en": "Pacific"
+  },
+  "Centro Social de Pariacoto": {
+    "ar": "Centro Social de Pariacoto",
+    "en": "Centro Social de Pariacoto"
+  },
+  "Universitario De Deportes Reserve": {
+    "ar": "Universitario De Deportes Reserve",
+    "en": "Universitario De Deportes Reserve"
+  },
+  "Cultural Volante": {
+    "ar": "Cultural Volante",
+    "en": "Cultural Volante"
+  },
+  "CSD Juventud Santo Domingo": {
+    "ar": "CSD Juventud Santo Domingo",
+    "en": "CSD Juventud Santo Domingo"
+  },
+  "Deportivo Lute": {
+    "ar": "Deportivo Lute",
+    "en": "Deportivo Lute"
+  },
+  "Club Unión Santo Domingo": {
+    "ar": "Club Unión Santo Domingo",
+    "en": "Club Unión Santo Domingo"
+  },
+  "FC Moravia": {
+    "ar": "FC Moravia",
+    "en": "FC Moravia"
+  },
+  "CS Uruguay": {
+    "ar": "CS Uruguay",
+    "en": "CS Uruguay"
+  },
+  "Liga de Ascenso - Apertura": {
+    "ar": "Liga de Ascenso - Apertura",
+    "en": "Liga de Ascenso - Apertura"
+  },
+  "Juan Pablo II College": {
+    "ar": "Juan Pablo II College",
+    "en": "Juan Pablo II College"
+  },
+  "Juventud Huracán": {
+    "ar": "Juventud Huracán",
+    "en": "Juventud Huracán"
+  },
+  "Amazon Callao FC": {
+    "ar": "Amazon Callao FC",
+    "en": "Amazon Callao FC"
+  },
+  "Salcedo": {
+    "ar": "Salcedo",
+    "en": "Salcedo"
+  },
+  "Atlántico": {
+    "ar": "Atlántico",
+    "en": "Atlántico"
+  },
+  "Gualaceo SC": {
+    "ar": "Gualaceo SC",
+    "en": "Gualaceo SC"
+  },
+  "Caguas Sporting": {
+    "ar": "Caguas Sporting",
+    "en": "Caguas Sporting"
+  },
+  "Edusoccer": {
+    "ar": "Edusoccer",
+    "en": "Edusoccer"
+  },
+  "LPR Pro - Apertura": {
+    "ar": "LPR Pro - Apertura",
+    "en": "LPR Pro - Apertura"
+  },
+  "Almirante Brown": {
+    "ar": "Almirante Brown",
+    "en": "Almirante Brown"
+  },
+  "Cacahuatique": {
+    "ar": "Cacahuatique",
+    "en": "Cacahuatique"
+  },
+  "CD Platense": {
+    "ar": "CD Platense",
+    "en": "CD Platense"
+  },
+  "CD Motagua": {
+    "ar": "CD Motagua",
+    "en": "CD Motagua"
+  },
+  "Cd Universitario Ii": {
+    "ar": "Cd Universitario Ii",
+    "en": "Cd Universitario Ii"
+  },
+  "Veraguas Ii": {
+    "ar": "Veraguas Ii",
+    "en": "Veraguas Ii"
+  },
+  "Liga Prom - Apertura - Western Conference - North Zone": {
+    "ar": "Liga Prom - Apertura - Western Conference - North Zone",
+    "en": "Liga Prom - Apertura - Western Conference - North Zone"
+  },
+  "Champs Academy Guatemala": {
+    "ar": "Champs Academy Guatemala",
+    "en": "Champs Academy Guatemala"
+  },
+  "Deportivo Fraijanes": {
+    "ar": "Deportivo Fraijanes",
+    "en": "Deportivo Fraijanes"
+  },
+  "Primera Division - Apertura": {
+    "ar": "Primera Division - Apertura",
+    "en": "Primera Division - Apertura"
+  },
+  "CSCyD Gimnasia y Esgrima (Chivilcoy)": {
+    "ar": "CSCyD Gimnasia y Esgrima (Chivilcoy)",
+    "en": "CSCyD Gimnasia y Esgrima (Chivilcoy)"
+  },
+  "Defensores Pto. Vilelas": {
+    "ar": "Defensores Pto. Vilelas",
+    "en": "Defensores Pto. Vilelas"
+  },
+  "Hercilio Luz": {
+    "ar": "Hercilio Luz",
+    "en": "Hercilio Luz"
+  },
+  "Barra FC": {
+    "ar": "Barra FC",
+    "en": "Barra FC"
+  },
+  "Herrera Ii": {
+    "ar": "Herrera Ii",
+    "en": "Herrera Ii"
+  },
   "أم.أس. أشدود": {
     "ar": "أم.أس. أشدود",
     "en": "M.S. Ashdod"
