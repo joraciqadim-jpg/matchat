@@ -420,8 +420,8 @@
       "matchEn": "Atlético CP v Vizela",
       "matchAr": "اتليتكو سي بي × فيزيلا",
       "rawIsoTime": "2026-10-17T14:00:00Z",
-      "time": "14:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏆 Portuguese Cup",
@@ -771,7 +771,7 @@
       "matchEn": "Aberdeen v St Mirren",
       "matchAr": "أبردين × سانت ميرين",
       "rawIsoTime": "2026-10-17T14:00:00Z",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
