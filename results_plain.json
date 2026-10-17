@@ -321,7 +321,7 @@
       "matchEn": "Sparta Rotterdam v Willem II",
       "matchAr": "سبارتا روتردام × فيليم ٢",
       "rawIsoTime": "2026-10-17T19:00:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "0 - 1 (live)",
       "isLive": true
     },
     {
@@ -4182,7 +4182,7 @@
       "matchEn": "Ottawa Fury v Forge",
       "matchAr": "أوتاوا فيوري × فورج",
       "rawIsoTime": "2026-10-17T17:00:00.000Z",
-      "time": "1 - 2 (live)",
+      "time": "0 - 2 (live)",
       "isLive": true
     },
     {
@@ -4335,7 +4335,7 @@
       "matchEn": "Riet v Austria Vienna",
       "matchAr": "ريت × اوستريا فيينا",
       "rawIsoTime": "2026-10-17T17:30:00.000Z",
-      "time": "3 - 2 (live)",
+      "time": "3 - 1 (live)",
       "isLive": true
     },
     {
@@ -4695,7 +4695,7 @@
       "matchEn": "Union Royale Centre v RFC Liège",
       "matchAr": "أونيون رويال سنتر × آر إف سي لييج",
       "rawIsoTime": "2026-10-17T18:45:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -5794,15 +5794,6 @@
       "matchAr": "لوس أنجلوس غالاكسي × سان دييجو",
       "rawIsoTime": "2026-10-18T02:30:00.000Z",
       "time": "02:30",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🏁 Premier League",
-      "tournamentAr": "🏁 الدوري الممتاز",
-      "matchEn": "Auckland United v Ferrymead Bays Fc",
-      "matchAr": "Auckland United × Ferrymead Bays Fc",
-      "rawIsoTime": "2026-10-18T03:00:00.000Z",
-      "time": "03:00",
       "isLive": false
     }
   ]
