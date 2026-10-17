@@ -42,7 +42,7 @@
       "matchEn": "FC San-Pédro v FC Nouadhibou",
       "matchAr": "سان بيدرو × نواذيبو",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "1 - 0 (live)",
+      "time": "1 - 1 (live)",
       "isLive": true
     },
     {
@@ -285,7 +285,7 @@
       "matchEn": "Bologna v Inter Milan",
       "matchAr": "بولونيا × إنتر ميلان",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "1 - 0 (live)",
+      "time": "1 - 1 (live)",
       "isLive": true
     },
     {
@@ -469,15 +469,6 @@
       "isLive": false
     },
     {
-      "tournamentEn": "🇪🇪 Estonian Premium League",
-      "tournamentAr": "🇪🇪 دوري إستونيا الممتاز",
-      "matchEn": "Nõmme United v Nõmme Kalju",
-      "matchAr": "Nõmme United × نومي كاليو",
-      "rawIsoTime": "2026-10-17T09:30:00.000Z",
-      "time": "3 - 0 (done)",
-      "isLive": false
-    },
-    {
       "tournamentEn": "🏁 Belarusian Premier League",
       "tournamentAr": "🏁 الدوري البيلاروسي الممتاز",
       "matchEn": "Isloch v Minsk",
@@ -487,30 +478,12 @@
       "isLive": false
     },
     {
-      "tournamentEn": "🇺🇦 Ukrainian First League",
-      "tournamentAr": "🇺🇦 الدوري الأوكراني الدرجة الأولى",
-      "matchEn": "Illichivets Mariupol v Zorya Luhansk",
-      "matchAr": "إلييتشوفيتس ماريوبول × زوريا لوهانسك",
-      "rawIsoTime": "2026-10-17T10:00:00.000Z",
-      "time": "4 - 1 (done)",
-      "isLive": false
-    },
-    {
       "tournamentEn": "🏁 Premier League",
       "tournamentAr": "🏁 الدوري الممتاز",
       "matchEn": "Okzhetpes v Kyzyl-Zhar",
       "matchAr": "أوكجيتبيس × قزل جار",
       "rawIsoTime": "2026-10-17T10:00:00.000Z",
       "time": "1 - 0 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🏁 V.League",
-      "tournamentAr": "🏁 V-الدوري",
-      "matchEn": "Thanh Hóa v Nam Định",
-      "matchAr": "ثانه هوا × نام دين",
-      "rawIsoTime": "2026-10-17T10:00:00.000Z",
-      "time": "0 - 2 (done)",
       "isLive": false
     },
     {
@@ -538,15 +511,6 @@
       "matchAr": "FK Vakhsh × Parvoz",
       "rawIsoTime": "2026-10-17T10:00:00.000Z",
       "time": "3 - 1 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🏁 Liga BPI",
-      "tournamentAr": "🏁 Liga BPI",
-      "matchEn": "Racing Power (W) v Sporting Braga (W)",
-      "matchAr": "Racing Power (W) × Sporting Braga (W)",
-      "rawIsoTime": "2026-10-17T10:00:00.000Z",
-      "time": "0 - 2 (done)",
       "isLive": false
     },
     {
@@ -2427,8 +2391,8 @@
       "matchEn": "Eastleigh v Brentwood Town",
       "matchAr": "ايستلاي × برينتوود تاون",
       "rawIsoTime": "2026-10-17T14:00:00.000Z",
-      "time": "1 - 2 (live)",
-      "isLive": true
+      "time": "3 - 2 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏁 Southern Football League",
@@ -2868,8 +2832,8 @@
       "matchEn": "Recreativo do Libolo v Interclube",
       "matchAr": "ريكرياتيفو دو ليبولو × إنتر كلوب",
       "rawIsoTime": "2026-10-17T14:00:00.000Z",
-      "time": "0 - 0 (live)",
-      "isLive": true
+      "time": "0 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏁 Championship",
@@ -4335,7 +4299,7 @@
       "matchEn": "Ihud Bnei Sakhnin v Hapoel Petah Tikva",
       "matchAr": "اتحاد ابناء سخنين × هبوعيل بيتح تيكفا",
       "rawIsoTime": "2026-10-17T16:15:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -4389,7 +4353,7 @@
       "matchEn": "Fredrikstad v Hobro",
       "matchAr": "فريدريسيا × هوبرو",
       "rawIsoTime": "2026-10-17T16:30:00.000Z",
-      "time": "1 - 0 (live)",
+      "time": "2 - 0 (live)",
       "isLive": true
     },
     {
@@ -4407,7 +4371,7 @@
       "matchEn": "Maccabi Petah Tikva v Maccabi Haifa",
       "matchAr": "مكابي بيتح تيكفا × مكابي حيفا",
       "rawIsoTime": "2026-10-17T16:30:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -4443,8 +4407,8 @@
       "matchEn": "Lusail v Al-Shamal",
       "matchAr": "لوسيل × الشمال",
       "rawIsoTime": "2026-10-17T16:45:00.000Z",
-      "time": "16:45",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 CPL",
@@ -5707,10 +5671,73 @@
       "isLive": false
     },
     {
+      "tournamentEn": "🇺🇸 Major League Soccer",
+      "tournamentAr": "🇺🇸 الدوري الأمريكي الممتاز",
+      "matchEn": "أتلانتا يونايتد v انتر ميامي",
+      "matchAr": "أتلانتا يونايتد × انتر ميامي",
+      "rawIsoTime": "2026-10-17T23:30:00.000Z",
+      "time": "23:30",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🇺🇸 Major League Soccer",
+      "tournamentAr": "🇺🇸 الدوري الأمريكي الممتاز",
+      "matchEn": "أورلاندو سيتي v دي.سي. يونايتد",
+      "matchAr": "أورلاندو سيتي × دي.سي. يونايتد",
+      "rawIsoTime": "2026-10-17T23:30:00.000Z",
+      "time": "23:30",
+      "isLive": false
+    },
+    {
       "tournamentEn": "🏁 Bolivian League",
       "tournamentAr": "🏁 الدوري البوليفي",
       "matchEn": "بلومينغ سانتا كروس v Independiente Petrolero",
       "matchAr": "بلومينغ سانتا كروس × Independiente Petrolero",
+      "rawIsoTime": "2026-10-17T23:30:00.000Z",
+      "time": "23:30",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🇺🇸 Major League Soccer",
+      "tournamentAr": "🇺🇸 الدوري الأمريكي الممتاز",
+      "matchEn": "نيو إنغلاند ريفوليوشن v شيكاغو فاير",
+      "matchAr": "نيو إنغلاند ريفوليوشن × شيكاغو فاير",
+      "rawIsoTime": "2026-10-17T23:30:00.000Z",
+      "time": "23:30",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🇺🇸 Major League Soccer",
+      "tournamentAr": "🇺🇸 الدوري الأمريكي الممتاز",
+      "matchEn": "نيويورك ريد بولز v تورونتو",
+      "matchAr": "نيويورك ريد بولز × تورونتو",
+      "rawIsoTime": "2026-10-17T23:30:00.000Z",
+      "time": "23:30",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🇺🇸 Major League Soccer",
+      "tournamentAr": "🇺🇸 الدوري الأمريكي الممتاز",
+      "matchEn": "نيويورك سيتي v لوس أنجلوس",
+      "matchAr": "نيويورك سيتي × لوس أنجلوس",
+      "rawIsoTime": "2026-10-17T23:30:00.000Z",
+      "time": "23:30",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🏁 USL League One - Regular Season",
+      "tournamentAr": "🏁 USL League One - الموسم العادي",
+      "matchEn": "Fort Wayne v Sarasota Paradise",
+      "matchAr": "Fort Wayne × Sarasota Paradise",
+      "rawIsoTime": "2026-10-17T23:30:00.000Z",
+      "time": "23:30",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🏁 بطولة USL",
+      "tournamentAr": "🏁 بطولة USL",
+      "matchEn": "Rhode Island v Pittsburgh Riverhounds",
+      "matchAr": "Rhode Island × Pittsburgh Riverhounds",
       "rawIsoTime": "2026-10-17T23:30:00.000Z",
       "time": "23:30",
       "isLive": false
