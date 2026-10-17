@@ -69,7 +69,7 @@
       "matchEn": "Espérance Sportive de Zarzis v Real Bamako",
       "matchAr": "الترجي الجرجيسي × ريال باماكو",
       "rawIsoTime": "2026-10-17T14:30:00.000Z",
-      "time": "0 - 1 (live)",
+      "time": "0 - 2 (live)",
       "isLive": true
     },
     {
@@ -195,7 +195,7 @@
       "matchEn": "Elversberg v Augsburg",
       "matchAr": "إلفيرسبيرغ × أوغسبورغ",
       "rawIsoTime": "2026-10-17T13:30:00.000Z",
-      "time": "3 - 1 (live)",
+      "time": "3 - 2 (live)",
       "isLive": true
     },
     {
@@ -249,8 +249,8 @@
       "matchEn": "Strasbourg v Paris Saint-Germain",
       "matchAr": "ستراسبورج × باريس سان جيرمان",
       "rawIsoTime": "2026-10-17T15:15:00.000Z",
-      "time": "15:15",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇫🇷 French Ligue 1",
@@ -366,7 +366,7 @@
       "matchEn": "Atlético Clube de Portugal v Vizela",
       "matchAr": "أتلتيكو كلوب البرتغال × فيزيلا",
       "rawIsoTime": "2026-10-17T14:00:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -2067,7 +2067,7 @@
       "matchEn": "Buckley Town v Colwyn Bay",
       "matchAr": "Buckley Town × كولوينباي",
       "rawIsoTime": "2026-10-17T13:00:00.000Z",
-      "time": "3 - 4 (live)",
+      "time": "2 - 1 (live)",
       "isLive": true
     },
     {
@@ -2229,7 +2229,7 @@
       "matchEn": "Goa v Regar-TadAZ",
       "matchAr": "غوا × ريغار تاداز",
       "rawIsoTime": "2026-10-17T13:25:00.000Z",
-      "time": "1 - 1 (live)",
+      "time": "1 - 2 (live)",
       "isLive": true
     },
     {
@@ -2292,7 +2292,7 @@
       "matchEn": "Team Vienna v Admira",
       "matchAr": "تيم فيينا × أدميرا",
       "rawIsoTime": "2026-10-17T13:30:00.000Z",
-      "time": "0 - 1 (live)",
+      "time": "0 - 2 (live)",
       "isLive": true
     },
     {
@@ -2517,7 +2517,7 @@
       "matchEn": "Ilkeston Town v Avro",
       "matchAr": "إلكيستون تاون × Avro",
       "rawIsoTime": "2026-10-17T14:00:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -2625,7 +2625,7 @@
       "matchEn": "Ballinamallard United v Warrenpoint Town",
       "matchAr": "بالينامالارد يونايتد × وارين بوينت تاون",
       "rawIsoTime": "2026-10-17T14:00:00.000Z",
-      "time": "1 - 2 (live)",
+      "time": "2 - 2 (live)",
       "isLive": true
     },
     {
@@ -2643,7 +2643,7 @@
       "matchEn": "Banants v Van",
       "matchAr": "بانانتس × Van",
       "rawIsoTime": "2026-10-17T14:00:00.000Z",
-      "time": "1 - 1 (live)",
+      "time": "2 - 1 (live)",
       "isLive": true
     },
     {
@@ -2724,7 +2724,7 @@
       "matchEn": "Plymouth v Huddersfield Town",
       "matchAr": "بليموث × هدرسفيلد تاون",
       "rawIsoTime": "2026-10-17T14:00:00.000Z",
-      "time": "0 - 1 (live)",
+      "time": "0 - 2 (live)",
       "isLive": true
     },
     {
@@ -2823,7 +2823,7 @@
       "matchEn": "Tranmere Rovers v Barnet",
       "matchAr": "ترانمير روفرز × بارنت",
       "rawIsoTime": "2026-10-17T14:00:00.000Z",
-      "time": "1 - 0 (live)",
+      "time": "1 - 1 (live)",
       "isLive": true
     },
     {
@@ -3201,7 +3201,7 @@
       "matchEn": "Swindon Town v Walsall",
       "matchAr": "سويندون تاون × والسال",
       "rawIsoTime": "2026-10-17T14:00:00.000Z",
-      "time": "1 - 0 (live)",
+      "time": "1 - 1 (live)",
       "isLive": true
     },
     {
@@ -3246,7 +3246,7 @@
       "matchEn": "Sheffield Wednesday v Wimbledon",
       "matchAr": "شيفيلد وينزداي × ويمبلدون",
       "rawIsoTime": "2026-10-17T14:00:00.000Z",
-      "time": "3 - 0 (live)",
+      "time": "4 - 0 (live)",
       "isLive": true
     },
     {
@@ -3264,7 +3264,7 @@
       "matchEn": "Grimsby Town v Northampton Town",
       "matchAr": "غريمسبي تاون × نورثهامبتون تاون",
       "rawIsoTime": "2026-10-17T14:00:00.000Z",
-      "time": "0 - 1 (live)",
+      "time": "0 - 2 (live)",
       "isLive": true
     },
     {
@@ -3291,7 +3291,7 @@
       "matchEn": "Farnborough v Dagenham & Redbridge",
       "matchAr": "فارنبوروه × داجنهام اند ريدبريدج",
       "rawIsoTime": "2026-10-17T14:00:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -3345,7 +3345,7 @@
       "matchEn": "Crewe v Rochdale",
       "matchAr": "كرو × روشديل",
       "rawIsoTime": "2026-10-17T14:00:00.000Z",
-      "time": "2 - 0 (live)",
+      "time": "3 - 0 (live)",
       "isLive": true
     },
     {
@@ -3381,7 +3381,7 @@
       "matchEn": "Kidderminster v Solihull Moors",
       "matchAr": "كيدرمينستر × سوليهول مورس",
       "rawIsoTime": "2026-10-17T14:00:00.000Z",
-      "time": "2 - 0 (live)",
+      "time": "2 - 1 (live)",
       "isLive": true
     },
     {
@@ -3390,7 +3390,7 @@
       "matchEn": "Kilmarnock v Motherwell",
       "matchAr": "كيلمارنوك × ماذرويل",
       "rawIsoTime": "2026-10-17T14:00:00.000Z",
-      "time": "1 - 1 (live)",
+      "time": "1 - 2 (live)",
       "isLive": true
     },
     {
@@ -3480,7 +3480,7 @@
       "matchEn": "Malvern Town v Frome Town",
       "matchAr": "مالفيرن تاون × فرومي تاون",
       "rawIsoTime": "2026-10-17T14:00:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -3813,7 +3813,7 @@
       "matchEn": "Džiugas Telšiai v Transinvest",
       "matchAr": "Džiugas Telšiai × ترانس إنفيست",
       "rawIsoTime": "2026-10-17T14:30:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "0 - 1 (live)",
       "isLive": true
     },
     {
@@ -3912,7 +3912,7 @@
       "matchEn": "Vojvodina v Radnički Kragujevac",
       "matchAr": "فويفودينا × رادنيتشكي كراغوييفاتس",
       "rawIsoTime": "2026-10-17T15:00:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -3939,8 +3939,8 @@
       "matchEn": "Kwara United v Abia Warriors",
       "matchAr": "كوارا يونايتد × أبيا ووريرز",
       "rawIsoTime": "2026-10-17T15:00:00.000Z",
-      "time": "15:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 Premier League",
