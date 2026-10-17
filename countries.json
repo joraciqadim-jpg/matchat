@@ -1,5 +1,10 @@
 {
-
+  "al ahly": {
+    "en": "Al Ahly",
+    "ar": "الأهلي",
+    "countryen": "Egypt",
+    "countryar": "مصر"
+  },
   "apr fc": {
     "en": "APR FC",
     "ar": "الجيش الرواندي",
@@ -492,7 +497,6 @@
     "countryen": "DR Congo",
     "countryar": "الكونغو الديمقراطية"
   },
- 
   "al ahli madani": {
     "en": "Al Ahli Madani",
     "ar": "الأهلي ود مدني",
