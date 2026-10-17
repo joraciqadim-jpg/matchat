@@ -312,7 +312,7 @@
       "matchEn": "Telstar v Feyenoord",
       "matchAr": "تيلستار × فاينورد",
       "rawIsoTime": "2026-10-17T18:00:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "0 - 1 (live)",
       "isLive": true
     },
     {
@@ -1725,7 +1725,7 @@
       "matchEn": "Quidditch United v Guilsfield FC",
       "matchAr": "كويدبوث يونايتد × Guilsfield FC",
       "rawIsoTime": "2026-10-17T13:00:00.000Z",
-      "time": "13:00",
+      "time": "3 - 3 (done)",
       "isLive": false
     },
     {
@@ -4191,7 +4191,7 @@
       "matchEn": "Camioneros v Argentino de Merlo",
       "matchAr": "Camioneros × Argentino Merlo",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "2 - 2 (live)",
+      "time": "3 - 2 (live)",
       "isLive": true
     },
     {
@@ -4254,7 +4254,7 @@
       "matchEn": "Amutat v Beitar Jerusalem",
       "matchAr": "أموتات × بيتار جوراساليم",
       "rawIsoTime": "2026-10-17T16:15:00.000Z",
-      "time": "1 - 6 (live)",
+      "time": "1 - 4 (live)",
       "isLive": true
     },
     {
@@ -4308,7 +4308,7 @@
       "matchEn": "Lokomotiv Moscow v Krasnodar",
       "matchAr": "لوكوموتيف موسكو × كراسنودار",
       "rawIsoTime": "2026-10-17T16:30:00.000Z",
-      "time": "1 - 1 (live)",
+      "time": "2 - 1 (live)",
       "isLive": true
     },
     {
@@ -4524,8 +4524,8 @@
       "matchEn": "9 De Octubre v Vinotinto del Ecuador FC",
       "matchAr": "9 De Octubre × Vinotinto del Ecuador FC",
       "rawIsoTime": "2026-10-17T18:00:00.000Z",
-      "time": "18:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇸🇦 Saudi League",
@@ -4560,8 +4560,8 @@
       "matchEn": "Agropecuario v Colegiales",
       "matchAr": "Agropecuario × Colegiales",
       "rawIsoTime": "2026-10-17T18:00:00.000Z",
-      "time": "18:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 Tercera Division A",
@@ -4578,8 +4578,8 @@
       "matchEn": "APAFUT v Passo Fundo (RS)",
       "matchAr": "APAFUT × Passo Fundo (RS)",
       "rawIsoTime": "2026-10-17T18:00:00.000Z",
-      "time": "18:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 Metropolitana B",
@@ -4587,8 +4587,8 @@
       "matchEn": "Argentino de Quilmes v Flandria",
       "matchAr": "Argentino de Quilmes × Flandria",
       "rawIsoTime": "2026-10-17T18:00:00.000Z",
-      "time": "18:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 Divisional C - Torneo Final",
@@ -4749,8 +4749,8 @@
       "matchEn": "Metropolitano v Santa Catarina",
       "matchAr": "Metropolitano × Santa Catarina",
       "rawIsoTime": "2026-10-17T18:00:00.000Z",
-      "time": "18:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 Tercera Division A",
@@ -4794,8 +4794,8 @@
       "matchEn": "Sportivo Italiano v Arsenal de Sarandí",
       "matchAr": "Sportivo Italiano × آرسنال ساراندي",
       "rawIsoTime": "2026-10-17T18:00:00.000Z",
-      "time": "18:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 Metropolitana C - Relegation Playoffs",
