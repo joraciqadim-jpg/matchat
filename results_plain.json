@@ -267,7 +267,7 @@
       "matchEn": "Venezia v Napoli",
       "matchAr": "فينيزيا × نابولي",
       "rawIsoTime": "2026-10-17T13:00:00Z",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -339,7 +339,7 @@
       "matchEn": "West Bromwich Albion v Blackburn Rovers",
       "matchAr": "وست بروميتش ألبيون × بلاكبيرن روفرز",
       "rawIsoTime": "2026-10-17T14:00:00Z",
-      "time": "0 - 0 (live)",
+      "time": "0 - 1 (live)",
       "isLive": true
     },
     {
@@ -411,8 +411,8 @@
       "matchEn": "Florgrad v Portimonense",
       "matchAr": "فلورجراد × بورتيمونينسي",
       "rawIsoTime": "2026-10-17T14:00:00Z",
-      "time": "14:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏆 Portuguese Cup",
@@ -438,8 +438,8 @@
       "matchEn": "Farense v A.D. Marco 09",
       "matchAr": "فارينسي × أ دي ماركو 09",
       "rawIsoTime": "2026-10-17T14:00:00Z",
-      "time": "14:00",
-      "isLive": false
+      "time": "1 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏆 Portuguese Cup",
