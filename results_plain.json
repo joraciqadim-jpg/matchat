@@ -5271,7 +5271,7 @@
       "matchEn": "اتلتيكو توكومان v روزاريو سينترال",
       "matchAr": "اتلتيكو توكومان × روزاريو سينترال",
       "rawIsoTime": "2026-10-17T23:00:00.000Z",
-      "time": "0 - 2 (live)",
+      "time": "1 - 2 (live)",
       "isLive": true
     },
     {
@@ -5388,7 +5388,7 @@
       "matchEn": "Westchester SC v Union Omaha",
       "matchAr": "Westchester SC × Union Omaha",
       "rawIsoTime": "2026-10-17T23:00:00.000Z",
-      "time": "0 - 1 (live)",
+      "time": "1 - 1 (live)",
       "isLive": true
     },
     {
@@ -5487,8 +5487,8 @@
       "matchEn": "Rhode Island v Pittsburgh Riverhounds",
       "matchAr": "Rhode Island × Pittsburgh Riverhounds",
       "rawIsoTime": "2026-10-17T23:30:00.000Z",
-      "time": "23:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 بطولة USL",
@@ -5496,8 +5496,8 @@
       "matchEn": "Tampa Bay Rowdies v Detroit City",
       "matchAr": "Tampa Bay Rowdies × Detroit City",
       "rawIsoTime": "2026-10-17T23:30:00.000Z",
-      "time": "23:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 بطولة USL",
