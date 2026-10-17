@@ -285,7 +285,7 @@
       "matchEn": "Bologna v Inter Milan",
       "matchAr": "بولونيا × إنتر ميلان",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "1 - 1 (live)",
+      "time": "1 - 2 (live)",
       "isLive": true
     },
     {
@@ -3921,7 +3921,7 @@
       "matchEn": "Hapoel Tel Aviv v Ironi Tiberias",
       "matchAr": "هبوعيل تل أبيب × عيروني طبريا",
       "rawIsoTime": "2026-10-17T15:45:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -3939,7 +3939,7 @@
       "matchEn": "Ararat Yerevan v Shirak",
       "matchAr": "أرارات يريفان × شيراك",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "1 - 0 (live)",
+      "time": "1 - 1 (live)",
       "isLive": true
     },
     {
@@ -3993,7 +3993,7 @@
       "matchEn": "Osijek v Gorica",
       "matchAr": "أوسييك × جوريتشا",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "1 - 1 (live)",
+      "time": "1 - 2 (live)",
       "isLive": true
     },
     {
@@ -4020,7 +4020,7 @@
       "matchEn": "Bodrumspor v Bandırmaspor",
       "matchAr": "بودرامسبور × بانديرماسبور",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "0 - 1 (live)",
+      "time": "1 - 1 (live)",
       "isLive": true
     },
     {
@@ -4065,7 +4065,7 @@
       "matchEn": "Şanlıurfaspor v Hatayspor Antakya",
       "matchAr": "سانليورفا سبور × هاتاي سبور أنطاكيا",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "2 - 1 (live)",
+      "time": "3 - 1 (live)",
       "isLive": true
     },
     {
@@ -4200,7 +4200,7 @@
       "matchEn": "Camioneros v Argentino de Merlo",
       "matchAr": "Camioneros × Argentino Merlo",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "1 - 1 (live)",
+      "time": "2 - 1 (live)",
       "isLive": true
     },
     {
@@ -4209,7 +4209,7 @@
       "matchEn": "Racing Club de Montevideo v Montevideo Wanderers",
       "matchAr": "Racing Club Montevideo × مونتيفيديو واندررز",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "2 - 0 (live)",
+      "time": "3 - 0 (live)",
       "isLive": true
     },
     {
@@ -4398,7 +4398,7 @@
       "matchEn": "Cliftonville v Portadown",
       "matchAr": "كليتونفيل × بورتاداون",
       "rawIsoTime": "2026-10-17T17:00:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "0 - 1 (live)",
       "isLive": true
     },
     {
@@ -4488,8 +4488,8 @@
       "matchEn": "Al Qadsiah v Fortis",
       "matchAr": "القادسية × فورتيس",
       "rawIsoTime": "2026-10-17T17:30:00.000Z",
-      "time": "17:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇮🇶 Iraqi League",
@@ -4497,8 +4497,8 @@
       "matchEn": "Al-Quwa Al-Jawiya v Al-Karma",
       "matchAr": "القوة الجوية × الكرمة",
       "rawIsoTime": "2026-10-17T17:30:00.000Z",
-      "time": "17:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 First Division",
