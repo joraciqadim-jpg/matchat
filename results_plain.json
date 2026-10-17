@@ -3786,7 +3786,7 @@
       "matchEn": "KAM v Sion",
       "matchAr": "كام × سيون",
       "rawIsoTime": "2026-10-17T15:00:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "0 - 1 (live)",
       "isLive": true
     },
     {
@@ -4281,7 +4281,7 @@
       "matchEn": "Camioneros v Argentino de Merlo",
       "matchAr": "Camioneros × Argentino Merlo",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "0 - 1 (live)",
       "isLive": true
     },
     {
@@ -4335,8 +4335,8 @@
       "matchEn": "Ihud Bnei Sakhnin v Hapoel Petah Tikva",
       "matchAr": "اتحاد ابناء سخنين × هبوعيل بيتح تيكفا",
       "rawIsoTime": "2026-10-17T16:15:00.000Z",
-      "time": "16:15",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 Premier League - Youth",
