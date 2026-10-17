@@ -330,8 +330,8 @@
       "matchEn": "Botafogo v Chapecoense",
       "matchAr": "بوتافوغو × شابيكوينسي",
       "rawIsoTime": "2026-10-17T21:00:00.000Z",
-      "time": "1 - 0 (live)",
-      "isLive": true
+      "time": "1 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇧🇷 Brazilian Série A",
@@ -5037,8 +5037,8 @@
       "matchEn": "Caguas Sporting v Edusoccer",
       "matchAr": "Caguas Sporting × Edusoccer",
       "rawIsoTime": "2026-10-17T20:30:00.000Z",
-      "time": "1 - 1 (live)",
-      "isLive": true
+      "time": "1 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇺🇸 Major League Soccer",
@@ -5064,8 +5064,8 @@
       "matchEn": "Colón v Admiral Brown",
       "matchAr": "كولون × Almirante Brown",
       "rawIsoTime": "2026-10-17T21:00:00.000Z",
-      "time": "1 - 1 (live)",
-      "isLive": true
+      "time": "2 - 2 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏁 Premier League - Apertura",
@@ -5073,8 +5073,8 @@
       "matchEn": "Cacahuatique v Alianza",
       "matchAr": "Cacahuatique × أليانزا",
       "rawIsoTime": "2026-10-17T21:00:00.000Z",
-      "time": "0 - 0 (live)",
-      "isLive": true
+      "time": "0 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏁 Honduras League - Apertura - North Group",
@@ -5082,8 +5082,8 @@
       "matchEn": "Platense CD v Motagua CD",
       "matchAr": "CD Platense × CD Motagua",
       "rawIsoTime": "2026-10-17T21:00:00.000Z",
-      "time": "0 - 2 (live)",
-      "isLive": true
+      "time": "0 - 2 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏁 Pro League - Apertura - Western Conference - North Zone",
@@ -5100,8 +5100,8 @@
       "matchEn": "Champs Academy Guatemala v Fraijanes Sports Club",
       "matchAr": "Champs Academy Guatemala × Deportivo Fraijanes",
       "rawIsoTime": "2026-10-17T21:00:00.000Z",
-      "time": "1 - 2 (live)",
-      "isLive": true
+      "time": "1 - 3 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇦🇷 Argentine League - Revalida - Second Stage",
@@ -5109,8 +5109,8 @@
       "matchEn": "CSCyD Gymnastics and Fencing (Chivilcoy) v Defenders of Puerto Vilelas",
       "matchAr": "CSCyD Gimnasia y Esgrima (Chivilcoy) × Defensores Pto. Vilelas",
       "rawIsoTime": "2026-10-17T21:00:00.000Z",
-      "time": "3 - 3 (live)",
-      "isLive": true
+      "time": "3 - 3 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏆 Copa Santa Catarina",
@@ -5118,8 +5118,8 @@
       "matchEn": "Hercilio Luz v Barra FC",
       "matchAr": "Hercilio Luz × Barra FC",
       "rawIsoTime": "2026-10-17T21:00:00.000Z",
-      "time": "2 - 0 (live)",
-      "isLive": true
+      "time": "2 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏁 Pro League - Apertura - Western Conference - North Zone",
@@ -5136,8 +5136,8 @@
       "matchEn": "Pioneros de Cancún v Chiapas",
       "matchAr": "Pioneros de Cancún × شياباس",
       "rawIsoTime": "2026-10-17T21:00:00.000Z",
-      "time": "0 - 0 (live)",
-      "isLive": true
+      "time": "0 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏆 Paulista Cup - Final",
@@ -5145,7 +5145,7 @@
       "matchEn": "São José EC v União São João",
       "matchAr": "São José EC × União São João",
       "rawIsoTime": "2026-10-17T21:00:00.000Z",
-      "time": "2 - 3 (live)",
+      "time": "3 - 3 (live)",
       "isLive": true
     },
     {
@@ -5415,8 +5415,8 @@
       "matchEn": "Juticalpa v Atletico Choloma",
       "matchAr": "Juticalpa × Atletico Choloma",
       "rawIsoTime": "2026-10-17T23:15:00.000Z",
-      "time": "23:15",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇺🇸 Major League Soccer",
