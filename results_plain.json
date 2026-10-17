@@ -4182,7 +4182,7 @@
       "matchEn": "Ottawa Fury v Forge",
       "matchAr": "أوتاوا فيوري × فورج",
       "rawIsoTime": "2026-10-17T17:00:00.000Z",
-      "time": "0 - 2 (live)",
+      "time": "1 - 2 (live)",
       "isLive": true
     },
     {
@@ -4650,7 +4650,7 @@
       "matchEn": "Philadelphia Union v Charlotte",
       "matchAr": "فيلادلفيا يونيون × شارلوت",
       "rawIsoTime": "2026-10-17T18:30:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -4686,7 +4686,7 @@
       "matchEn": "Royal Excelsior Virton v Genk",
       "matchAr": "إكسيلسيور فيرتون × جينك",
       "rawIsoTime": "2026-10-17T18:45:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "0 - 1 (live)",
       "isLive": true
     },
     {
@@ -4794,7 +4794,7 @@
       "matchEn": "I.N. San Juan FC v Chaco F.C.",
       "matchAr": "I.N. San Juan FC × Chaco F.C.",
       "rawIsoTime": "2026-10-17T19:00:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "0 - 1 (live)",
       "isLive": true
     },
     {
@@ -5794,6 +5794,15 @@
       "matchAr": "لوس أنجلوس غالاكسي × سان دييجو",
       "rawIsoTime": "2026-10-18T02:30:00.000Z",
       "time": "02:30",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🏁 Premier League",
+      "tournamentAr": "🏁 الدوري الممتاز",
+      "matchEn": "Auckland United v Ferrymead Bays Fc",
+      "matchAr": "Auckland United × Ferrymead Bays Fc",
+      "rawIsoTime": "2026-10-18T03:00:00.000Z",
+      "time": "03:00",
       "isLive": false
     }
   ]
