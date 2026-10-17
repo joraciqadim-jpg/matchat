@@ -78,7 +78,7 @@
       "matchEn": "AFAD - Plateau v CS Sfaxien",
       "matchAr": "آفاد - بلاتوه × الصفاقسي",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "0 - 1 (live)",
       "isLive": true
     },
     {
@@ -249,7 +249,7 @@
       "matchEn": "Strasbourg v Paris Saint-Germain",
       "matchAr": "ستراسبورج × باريس سان جيرمان",
       "rawIsoTime": "2026-10-17T15:15:00.000Z",
-      "time": "1 - 3 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -3651,7 +3651,7 @@
       "matchEn": "Al-Jolan v Duhok",
       "matchAr": "الجولان × دهوك",
       "rawIsoTime": "2026-10-17T15:00:00.000Z",
-      "time": "2 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -4128,7 +4128,7 @@
       "matchEn": "Sigma Olomouc v Slovan Liberec",
       "matchAr": "سيغما أولوموتس × سلوفان ليبيريتس",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "1 - 0 (live)",
+      "time": "1 - 1 (live)",
       "isLive": true
     },
     {
@@ -4155,7 +4155,7 @@
       "matchEn": "Fenerbahçe v Alanyaspor",
       "matchAr": "فنربخشة × ألانيا سبور",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "1 - 0 (live)",
+      "time": "2 - 0 (live)",
       "isLive": true
     },
     {
@@ -4389,7 +4389,7 @@
       "matchEn": "Libertad v River Plate",
       "matchAr": "Libertad × ريفربليت",
       "rawIsoTime": "2026-10-17T16:30:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -4398,7 +4398,7 @@
       "matchEn": "Trefelin v Llantwit Major",
       "matchAr": "Trefelin × Llantwit Major",
       "rawIsoTime": "2026-10-17T16:30:00.000Z",
-      "time": "1 - 0 (live)",
+      "time": "2 - 0 (live)",
       "isLive": true
     },
     {
@@ -4461,7 +4461,7 @@
       "matchEn": "ASC HLM v Casa Sports",
       "matchAr": "ASC HLM × كاسا سبورت",
       "rawIsoTime": "2026-10-17T17:00:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "0 - 1 (live)",
       "isLive": true
     },
     {
@@ -4488,8 +4488,8 @@
       "matchEn": "Gorée v ASC Linguère",
       "matchAr": "Gorée × ASC Linguère",
       "rawIsoTime": "2026-10-17T17:00:00.000Z",
-      "time": "17:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 Ligue 1",
