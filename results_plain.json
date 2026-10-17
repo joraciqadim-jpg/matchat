@@ -213,8 +213,8 @@
       "matchEn": "Schalke 04 v Mainz 05",
       "matchAr": "شالكه × ماينز",
       "rawIsoTime": "2026-10-17T13:30:00Z",
-      "time": "13:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇩🇪 German Bundesliga",
@@ -231,8 +231,8 @@
       "matchEn": "Union Berlin v Borussia Dortmund",
       "matchAr": "يونيون برلين × بوروسيا دورتموند",
       "rawIsoTime": "2026-10-17T13:30:00Z",
-      "time": "13:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇩🇪 German Bundesliga",
@@ -321,8 +321,8 @@
       "matchEn": "Millwall v Lincoln City",
       "matchAr": "ميلوول × لينكولين سيتي",
       "rawIsoTime": "2026-10-17T11:30:00Z",
-      "time": "2 - 2 (live)",
-      "isLive": true
+      "time": "2 - 2 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇬🇧 English Championship",
@@ -537,8 +537,8 @@
       "matchEn": "Espoir Sportif de Hammam Sousse v Union Sportive de Ben Guerdane",
       "matchAr": "الأمل الرياضي بحمام سوسة × الاتحاد الرياضي ببنقردان",
       "rawIsoTime": "2026-10-17T13:30:00Z",
-      "time": "13:30",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇯🇴 Jordanian Pro League",
@@ -609,7 +609,7 @@
       "matchEn": "Al-Nasr v Hatta",
       "matchAr": "النصر × حتا",
       "rawIsoTime": "2026-10-17T13:05:00Z",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
