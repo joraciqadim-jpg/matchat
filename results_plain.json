@@ -330,8 +330,8 @@
       "matchEn": "Swansea City v West Ham United",
       "matchAr": "سوانزي سيتي × وست هام يونايتد",
       "rawIsoTime": "2026-10-17T14:00:00Z",
-      "time": "14:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇬🇧 English Championship",
@@ -339,8 +339,8 @@
       "matchEn": "West Bromwich Albion v Blackburn Rovers",
       "matchAr": "وست بروميتش ألبيون × بلاكبيرن روفرز",
       "rawIsoTime": "2026-10-17T14:00:00Z",
-      "time": "14:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇬🇧 English Championship",
@@ -348,8 +348,8 @@
       "matchEn": "Norwich City v Portsmouth",
       "matchAr": "نورويتش سيتي × بورتسموث",
       "rawIsoTime": "2026-10-17T14:00:00Z",
-      "time": "14:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇬🇧 English Championship",
@@ -357,8 +357,8 @@
       "matchEn": "Birmingham City v Queens Park Rangers",
       "matchAr": "برمنجهام سيتي × كوينز بارك رينجرز",
       "rawIsoTime": "2026-10-17T14:00:00Z",
-      "time": "14:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇬🇧 English Championship",
@@ -384,8 +384,8 @@
       "matchEn": "Southampton v Bolton Wanderers",
       "matchAr": "ساوثهامبتون × بولتون واندررز",
       "rawIsoTime": "2026-10-17T14:00:00Z",
-      "time": "14:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇬🇧 English Championship",
@@ -393,8 +393,8 @@
       "matchEn": "Wrexham v Preston North End",
       "matchAr": "وريكسهام × بريستون نورث ايند",
       "rawIsoTime": "2026-10-17T14:00:00Z",
-      "time": "14:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏆 Portuguese Cup",
@@ -447,8 +447,8 @@
       "matchEn": "Vianense v Leixões",
       "matchAr": "فيانينس × ليتشويس",
       "rawIsoTime": "2026-10-17T14:00:00Z",
-      "time": "14:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏆 Portuguese Cup",
@@ -771,8 +771,8 @@
       "matchEn": "Aberdeen v St Mirren",
       "matchAr": "أبردين × سانت ميرين",
       "rawIsoTime": "2026-10-17T14:00:00Z",
-      "time": "14:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scottish Premiership",
@@ -780,8 +780,8 @@
       "matchEn": "Hibernian v Falkirk",
       "matchAr": "هيبرنيان × فالكيرك",
       "rawIsoTime": "2026-10-17T14:00:00Z",
-      "time": "14:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scottish Premiership",
@@ -789,7 +789,7 @@
       "matchEn": "Kilmarnock v Motherwell",
       "matchAr": "كيلمارنوك × ماذرويل",
       "rawIsoTime": "2026-10-17T14:00:00Z",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
