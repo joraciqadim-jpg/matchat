@@ -541,24 +541,6 @@
       "isLive": true
     },
     {
-      "tournamentEn": "🇯🇴 Jordanian Pro League",
-      "tournamentAr": "🇯🇴 الدوري الأردني للمحترفين",
-      "matchEn": "Al-Faisaly v Al-Ramtha",
-      "matchAr": "الفيصلي × الرمثا",
-      "rawIsoTime": "2026-10-17T14:00:00Z",
-      "time": "14:00",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🇯🇴 Jordanian Pro League",
-      "tournamentAr": "🇯🇴 الدوري الأردني للمحترفين",
-      "matchEn": "Al-Wehdat v Al-Hussein",
-      "matchAr": "الوحدات × الحسين",
-      "rawIsoTime": "2026-10-17T16:30:00Z",
-      "time": "16:30",
-      "isLive": false
-    },
-    {
       "tournamentEn": "🇩🇿 Algerian Professional League",
       "tournamentAr": "🇩🇿 الدوري الجزائري للمحترفين",
       "matchEn": "CS Constantine v JSM El Biar",
@@ -574,6 +556,24 @@
       "matchAr": "مولودية وهران × اتحاد خنشلة",
       "rawIsoTime": "2026-10-17T18:00:00Z",
       "time": "18:00",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🇯🇴 Jordanian Pro League",
+      "tournamentAr": "🇯🇴 الدوري الأردني للمحترفين",
+      "matchEn": "Al-Faisaly v Al-Ramtha",
+      "matchAr": "الفيصلي × الرمثا",
+      "rawIsoTime": "2026-10-17T14:00:00Z",
+      "time": "14:00",
+      "isLive": false
+    },
+    {
+      "tournamentEn": "🇯🇴 Jordanian Pro League",
+      "tournamentAr": "🇯🇴 الدوري الأردني للمحترفين",
+      "matchEn": "Al-Wehdat v Al-Hussein",
+      "matchAr": "الوحدات × الحسين",
+      "rawIsoTime": "2026-10-17T16:30:00Z",
+      "time": "16:30",
       "isLive": false
     },
     {
@@ -735,7 +735,7 @@
       "matchEn": "Samail v Al-Musannah",
       "matchAr": "سمائل × المصنعة",
       "rawIsoTime": "2026-10-17T13:00:00Z",
-      "time": "0 - 1 (live)",
+      "time": "1 - 1 (live)",
       "isLive": true
     },
     {
