@@ -285,8 +285,8 @@
       "matchEn": "Bologna v Inter Milan",
       "matchAr": "بولونيا × إنتر ميلان",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "16:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇮🇹 Italian Serie A",
@@ -3687,7 +3687,7 @@
       "matchEn": "Havant & Waterlooville v Hanworth Villa",
       "matchAr": "Havant & waterloovile × هانورث فيلا",
       "rawIsoTime": "2026-10-17T14:00:00.000Z",
-      "time": "0 - 2 (live)",
+      "time": "2 - 2 (live)",
       "isLive": true
     },
     {
@@ -3696,7 +3696,7 @@
       "matchEn": "Liniers v UAI Urquiza",
       "matchAr": "Liniers × UAI Urquiza",
       "rawIsoTime": "2026-10-17T14:00:00.000Z",
-      "time": "1 - 1 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -4083,8 +4083,8 @@
       "matchEn": "Apollon Limassol v Nea Salamina",
       "matchAr": "أبولون ليماسول × نيا سلامانيا",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "16:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 First Division",
@@ -4092,8 +4092,8 @@
       "matchEn": "Ararat Yerevan v Shirak",
       "matchAr": "أرارات يريفان × شيراك",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "16:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 2. Lig",
@@ -4101,8 +4101,8 @@
       "matchEn": "Elazığspor v Arnavutköy Belediyespor",
       "matchAr": "إلازغ سبور × Arnavutköy Belediyespor",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "16:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇧🇭 Bahraini Premier League",
@@ -4110,8 +4110,8 @@
       "matchEn": "Al-Riffa v East Riffa",
       "matchAr": "الرفاع × الرفاع الشرقي",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "16:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇩🇿 Algerian League",
@@ -4119,8 +4119,17 @@
       "matchEn": "CS Constantine v JSM El Biar",
       "matchAr": "النادي القسنطيني × شبيبة الأبيار",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "16:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
+    },
+    {
+      "tournamentEn": "🇲🇦 Moroccan League",
+      "tournamentAr": "🇲🇦 الدوري المغربي",
+      "matchEn": "CODM Meknès v Union Touarga",
+      "matchAr": "النادي المكناسي × اتحاد تواركة",
+      "rawIsoTime": "2026-10-17T16:00:00.000Z",
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇧🇭 Bahraini Premier League",
@@ -4128,8 +4137,8 @@
       "matchEn": "Al-Najma v Al-Hidd",
       "matchAr": "النجمة × الحد",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "16:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇭🇷 Croatian First League",
@@ -4137,8 +4146,8 @@
       "matchEn": "Osijek v Gorica",
       "matchAr": "أوسييك × جوريتشا",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "16:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 First Division",
@@ -4164,8 +4173,8 @@
       "matchEn": "Bodrumspor v Bandırmaspor",
       "matchAr": "بودرامسبور × بانديرماسبور",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "16:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 National 1 - Group A",
@@ -4173,8 +4182,8 @@
       "matchEn": "Chambly v Dieppe",
       "matchAr": "تشامبلي × ديب",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "16:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇸🇾 Syrian Premier League",
@@ -4236,8 +4245,8 @@
       "matchEn": "Sigma Olomouc v Slovan Liberec",
       "matchAr": "سيغما أولوموتس × سلوفان ليبيريتس",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "16:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 Eliteserien",
@@ -4245,8 +4254,8 @@
       "matchEn": "Viking v Fredrikstad",
       "matchAr": "فايكينج × فريدريكستاد",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "16:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 2. Lig",
@@ -4272,8 +4281,8 @@
       "matchEn": "Winterthur v Luzern",
       "matchAr": "فينترتور × لوزيرن",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "16:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 Tanzanian Premier League",
@@ -4281,8 +4290,8 @@
       "matchEn": "Kagera Sugar v Polisi Tanzania FC",
       "matchAr": "كاجيرا شوجار × Polisi Tanzania FC",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "16:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 National 1 - Group A",
@@ -4299,8 +4308,8 @@
       "matchEn": "Kickers Emden v Phönix Lübeck",
       "matchAr": "كيكرز إمدين × فونيكس لوبيك",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "16:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 National 1 - Group A",
@@ -4335,8 +4344,8 @@
       "matchEn": "Hapoel Haifa v Hapoel Ramat Gan",
       "matchAr": "هبوعيل حيفا × هبوعيل رمات غان",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "16:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 Taiwan Premier League",
@@ -4353,8 +4362,8 @@
       "matchEn": "Camioneros v Argentino de Merlo",
       "matchAr": "Camioneros × Argentino Merlo",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "16:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 Premier League - Clausura",
@@ -4362,8 +4371,8 @@
       "matchEn": "Racing Club de Montevideo v Montevideo Wanderers",
       "matchAr": "Racing Club Montevideo × مونتيفيديو واندررز",
       "rawIsoTime": "2026-10-17T16:00:00.000Z",
-      "time": "16:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 National 1 - Group A",
@@ -4694,15 +4703,6 @@
       "tournamentAr": "🇸🇦 الدوري السعودي",
       "matchEn": "Al-Diriyah v Al-Taawoun",
       "matchAr": "الدرعية × التعاون",
-      "rawIsoTime": "2026-10-17T18:00:00.000Z",
-      "time": "18:00",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🇲🇦 Moroccan League",
-      "tournamentAr": "🇲🇦 الدوري المغربي",
-      "matchEn": "CODM Meknès v Union Touarga",
-      "matchAr": "النادي المكناسي × اتحاد تواركة",
       "rawIsoTime": "2026-10-17T18:00:00.000Z",
       "time": "18:00",
       "isLive": false
