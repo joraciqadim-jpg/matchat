@@ -172,9 +172,9 @@
       "matchEn": "Real Madrid v Sevilla",
       "matchAr": "ريال مدريد × إشبيلية",
       "rawIsoTime": "2026-10-18T19:00:00.000Z",
-      "time": "3 - 0 (72')",
+      "time": "3 - 0 (73')",
       "isLive": true,
-      "rawMinute": 72
+      "rawMinute": 73
     },
     {
       "matchId": 4755379,
@@ -249,9 +249,9 @@
       "matchEn": "Olympique Lyonnais v OGC Nice",
       "matchAr": "أولمبيك ليون × نيس",
       "rawIsoTime": "2026-10-18T18:45:00.000Z",
-      "time": "2 - 2 (95')",
+      "time": "2 - 1 (96')",
       "isLive": true,
-      "rawMinute": 95
+      "rawMinute": 96
     },
     {
       "matchId": 4732672,
@@ -293,9 +293,9 @@
       "matchEn": "Juventus v Lazio",
       "matchAr": "يوفنتوس × لاتسيو",
       "rawIsoTime": "2026-10-18T18:45:00.000Z",
-      "time": "0 - 1 (done)",
+      "time": "0 - 3 (done)",
       "isLive": false,
-      "rawMinute": 66
+      "rawMinute": 0
     },
     {
       "matchId": 4734558,
@@ -370,9 +370,9 @@
       "matchEn": "Grêmio v Cruzeiro",
       "matchAr": "غريميو × كروزيرو",
       "rawIsoTime": "2026-10-18T19:00:00.000Z",
-      "time": "2 - 3 (74')",
+      "time": "2 - 3 (75')",
       "isLive": true,
-      "rawMinute": 74
+      "rawMinute": 75
     },
     {
       "matchId": 4632646,
@@ -381,9 +381,9 @@
       "matchEn": "Fluminense v Santos",
       "matchAr": "فلومينينسي × سانتوس",
       "rawIsoTime": "2026-10-18T19:00:00.000Z",
-      "time": "1 - 2 (76')",
+      "time": "1 - 2 (77')",
       "isLive": true,
-      "rawMinute": 76
+      "rawMinute": 77
     },
     {
       "matchId": 4632638,
@@ -700,9 +700,9 @@
       "matchEn": "Wydad AC v Ittihad Tiznit",
       "matchAr": "الوداد الرياضي × إتحاد أمل تيزنيت",
       "rawIsoTime": "2026-10-18T20:00:00.000Z",
-      "time": "0 - 0 (39')",
+      "time": "0 - 0 (40')",
       "isLive": true,
-      "rawMinute": 39
+      "rawMinute": 40
     },
     {
       "matchId": 4621278,
