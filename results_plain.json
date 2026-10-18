@@ -42,8 +42,8 @@
       "matchEn": "Horoya AC (Guinea) v Al-Merrikh (Sudan)",
       "matchAr": "حوريا (غينيا) × المريخ (السودان)",
       "rawIsoTime": "2026-10-18T16:00:00.000Z",
-      "time": "1 - 0 (live)",
-      "isLive": true
+      "time": "1 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🛡️ CAF Champions League",
@@ -60,7 +60,7 @@
       "matchEn": "Tongyeong (Senegal) v CS Constantine (Cameroon)",
       "matchAr": "تونغيث (السنغال) × كولومبي سبورتيف (الكاميرون)",
       "rawIsoTime": "2026-10-18T17:00:00.000Z",
-      "time": "0 - 1 (live)",
+      "time": "0 - 2 (live)",
       "isLive": true
     },
     {
@@ -231,8 +231,8 @@
       "matchEn": "AC Milan v Atalanta",
       "matchAr": "ميلان × أتالانتا",
       "rawIsoTime": "2026-10-18T16:00:00.000Z",
-      "time": "3 - 2 (live)",
-      "isLive": true
+      "time": "3 - 2 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇮🇹 Italian Serie A",
@@ -528,8 +528,8 @@
       "matchEn": "İstanbul Başakşehir v Gaziantep FK",
       "matchAr": "باشاك شهير × غازي عنتاب",
       "rawIsoTime": "2026-10-18T16:00:00.000Z",
-      "time": "2 - 1 (live)",
-      "isLive": true
+      "time": "2 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇶🇦 Qatar Stars League",
