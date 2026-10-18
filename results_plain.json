@@ -240,8 +240,8 @@
       "matchEn": "Juventus v Lazio",
       "matchAr": "يوفنتوس × لاتسيو",
       "rawIsoTime": "2026-10-18T18:45:00.000Z",
-      "time": "18:45",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇳🇱 Dutch Eredivisie",
@@ -537,8 +537,8 @@
       "matchEn": "Al-Gharafa v Al-Rayyan",
       "matchAr": "الغرافة × الريان",
       "rawIsoTime": "2026-10-18T16:45:00.000Z",
-      "time": "0 - 0 (done)",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇬🇷 Greek Super League",
