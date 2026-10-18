@@ -213,8 +213,8 @@
       "matchEn": "Udinese v Lecce",
       "matchAr": "أودينيزي × ليتشي",
       "rawIsoTime": "2026-10-18T10:30:00.000Z",
-      "time": "0 - 2 (live)",
-      "isLive": true
+      "time": "0 - 3 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇮🇹 Italian Serie A",
@@ -249,8 +249,8 @@
       "matchEn": "PEC Zwolle v Go Ahead Eagles",
       "matchAr": "زفولي × غو أهيد إيغيلز",
       "rawIsoTime": "2026-10-18T10:15:00.000Z",
-      "time": "4 - 1 (live)",
-      "isLive": true
+      "time": "4 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇳🇱 Dutch Eredivisie",
@@ -258,7 +258,7 @@
       "matchEn": "SC Cambuur v AZ Alkmaar",
       "matchAr": "كامبور ليواردن × ألكمار",
       "rawIsoTime": "2026-10-18T12:30:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -402,8 +402,8 @@
       "matchEn": "Kasımpaşa v Samsunspor",
       "matchAr": "قاسم باشا × سامسون سبور",
       "rawIsoTime": "2026-10-18T10:30:00.000Z",
-      "time": "3 - 1 (live)",
-      "isLive": true
+      "time": "4 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇬🇷 Greek Super League",
