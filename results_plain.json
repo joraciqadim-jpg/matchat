@@ -267,8 +267,8 @@
       "matchEn": "FC Groningen v Ajax",
       "matchAr": "غرونينغين × أياكس",
       "rawIsoTime": "2026-10-18T14:45:00.000Z",
-      "time": "14:45",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇳🇱 Dutch Eredivisie",
@@ -492,7 +492,7 @@
       "matchEn": "Celtic v Heart of Midlothian",
       "matchAr": "سيلتيك × هارت اوف ميدلوثيان",
       "rawIsoTime": "2026-10-18T14:00:00.000Z",
-      "time": "4 - 1 (live)",
+      "time": "5 - 1 (live)",
       "isLive": true
     },
     {
