@@ -51,8 +51,8 @@
       "matchEn": "Al-Suwaiq (Libya) v Espérance de Tunis (Tunisia)",
       "matchAr": "السويحلي (ليبيا) × الترجي (تونس)",
       "rawIsoTime": "2026-10-18T17:00:00.000Z",
-      "time": "1 - 0 (live)",
-      "isLive": true
+      "time": "1 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🛡️ CAF Champions League",
@@ -60,8 +60,8 @@
       "matchEn": "Tongyeong (Senegal) v CS Constantine (Cameroon)",
       "matchAr": "تونغيث (السنغال) × كولومبي سبورتيف (الكاميرون)",
       "rawIsoTime": "2026-10-18T17:00:00.000Z",
-      "time": "0 - 2 (live)",
-      "isLive": true
+      "time": "0 - 2 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🛡️ CAF Champions League",
@@ -204,7 +204,7 @@
       "matchEn": "Olympique Lyonnais v OGC Nice",
       "matchAr": "أولمبيك ليون × نيس",
       "rawIsoTime": "2026-10-18T18:45:00.000Z",
-      "time": "1 - 1 (live)",
+      "time": "2 - 1 (live)",
       "isLive": true
     },
     {
@@ -546,8 +546,8 @@
       "matchEn": "Kifisia v Aris Thessaloniki",
       "matchAr": "كيفيسيا × آريس سالونيكي",
       "rawIsoTime": "2026-10-18T17:00:00.000Z",
-      "time": "1 - 2 (live)",
-      "isLive": true
+      "time": "1 - 2 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇲🇦 Moroccan Botola Pro",
@@ -564,7 +564,7 @@
       "matchEn": "PAOK v Iraklis",
       "matchAr": "باوك سالونيكا × إيراكليس سالونيكي",
       "rawIsoTime": "2026-10-18T18:00:00.000Z",
-      "time": "0 - 1 (live)",
+      "time": "1 - 1 (live)",
       "isLive": true
     },
     {
