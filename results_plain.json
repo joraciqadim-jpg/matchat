@@ -177,8 +177,8 @@
       "matchEn": "Paris FC v Stade Rennais",
       "matchAr": "باريس أف.سي. × ستاد رين",
       "rawIsoTime": "2026-10-18T15:15:00.000Z",
-      "time": "15:15",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇫🇷 French Ligue 1",
@@ -438,8 +438,8 @@
       "matchEn": "Ittihad Kalba v Al Jazira",
       "matchAr": "كلباء × الجزيرة",
       "rawIsoTime": "2026-10-18T13:05:00.000Z",
-      "time": "2 - 2 (done)",
-      "isLive": false
+      "time": "2 - 2 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇹🇳 Tunisian League",
@@ -474,7 +474,7 @@
       "matchEn": "AS Marsa v Étoile Métlaoui",
       "matchAr": "مستقبل المرسى × النجم الرياضي بالمتلوي",
       "rawIsoTime": "2026-10-18T13:30:00.000Z",
-      "time": "2 - 0 (live)",
+      "time": "3 - 0 (live)",
       "isLive": true
     },
     {
@@ -501,7 +501,7 @@
       "matchEn": "Al Sadd v Al-Duhail",
       "matchAr": "السد × الدحيل",
       "rawIsoTime": "2026-10-18T14:30:00.000Z",
-      "time": "1 - 2 (live)",
+      "time": "2 - 2 (live)",
       "isLive": true
     },
     {
