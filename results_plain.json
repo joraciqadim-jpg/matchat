@@ -523,51 +523,6 @@
       "isLive": false
     },
     {
-      "tournamentEn": "🇺🇸 Major League Soccer",
-      "tournamentAr": "🇺🇸 الدوري الأمريكي الممتاز",
-      "matchEn": "Portland Timbers v Colorado Rapids",
-      "matchAr": "بورتلاند تيمبرز × كولورادو رابيدز",
-      "rawIsoTime": "2026-10-18T02:30:00.000Z",
-      "time": "0 - 0 (done)",
-      "isLive": false
-    },
-    {
-      "tournamentEn": "🇺🇸 Major League Soccer",
-      "tournamentAr": "🇺🇸 الدوري الأمريكي الممتاز",
-      "matchEn": "Los Angeles Galaxy v San Diego",
-      "matchAr": "لوس أنجلوس غالاكسي × سان دييجو",
-      "rawIsoTime": "2026-10-18T02:30:00.000Z",
-      "time": "2 - 2 (live)",
-      "isLive": true
-    },
-    {
-      "tournamentEn": "🏁 Premier League",
-      "tournamentAr": "🏁 الدوري الممتاز",
-      "matchEn": "Auckland United v Ferrymead Bays FC",
-      "matchAr": "Auckland United × Ferrymead Bays Fc",
-      "rawIsoTime": "2026-10-18T03:00:00.000Z",
-      "time": "2 - 0 (live)",
-      "isLive": true
-    },
-    {
-      "tournamentEn": "🏁 Premier League",
-      "tournamentAr": "🏁 الدوري الممتاز",
-      "matchEn": "Birkenhead United v Napier City Rovers",
-      "matchAr": "Birkenhead United × Napier City Rovers",
-      "rawIsoTime": "2026-10-18T03:00:00.000Z",
-      "time": "1 - 0 (live)",
-      "isLive": true
-    },
-    {
-      "tournamentEn": "🇲🇽 Mexican Liga MX - Apertura",
-      "tournamentAr": "🇲🇽 الدوري المكسيكي الممتاز - Apertura",
-      "matchEn": "Cruz Azul v Juárez",
-      "matchAr": "كروز أزول × خواريز",
-      "rawIsoTime": "2026-10-18T03:10:00.000Z",
-      "time": "5 - 0 (live)",
-      "isLive": true
-    },
-    {
       "tournamentEn": "🏁 J1 League",
       "tournamentAr": "🏁 الدوري الياباني الممتاز",
       "matchEn": "Fagiano Okayama v Vissel Kobe",
