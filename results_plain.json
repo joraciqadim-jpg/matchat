@@ -700,9 +700,9 @@
       "matchEn": "Wydad AC v Ittihad Tiznit",
       "matchAr": "الوداد الرياضي × إتحاد أمل تيزنيت",
       "rawIsoTime": "2026-10-18T20:00:00.000Z",
-      "time": "0 - 0 (50')",
+      "time": "0 - 0 (52')",
       "isLive": true,
-      "rawMinute": 50
+      "rawMinute": 52
     },
     {
       "matchId": 4621278,
@@ -711,9 +711,9 @@
       "matchEn": "FC Cincinnati v Columbus Crew",
       "matchAr": "سينسيناتي × كولومبوس كرو",
       "rawIsoTime": "2026-10-18T21:00:00.000Z",
-      "time": "21:00",
-      "isLive": false,
-      "rawMinute": 0
+      "time": "0 - 0 (2')",
+      "isLive": true,
+      "rawMinute": 2
     },
     {
       "matchId": 4735656,
