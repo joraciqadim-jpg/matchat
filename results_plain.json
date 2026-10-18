@@ -9,7 +9,9 @@
       "rawIsoTime": "2026-10-18T13:00:00.000Z",
       "time": "2 - 0 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "2",
+      "awayGoals": "0"
     },
     {
       "matchId": 4854837,
@@ -20,7 +22,9 @@
       "rawIsoTime": "2026-10-18T13:00:00.000Z",
       "time": "2 - 0 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "2",
+      "awayGoals": "0"
     },
     {
       "matchId": 4855326,
@@ -31,7 +35,9 @@
       "rawIsoTime": "2026-10-18T13:00:00.000Z",
       "time": "0 - 2 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "0",
+      "awayGoals": "2"
     },
     {
       "matchId": 4852377,
@@ -42,7 +48,9 @@
       "rawIsoTime": "2026-10-18T15:00:00.000Z",
       "time": "0 - 0 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "0",
+      "awayGoals": "0"
     },
     {
       "matchId": 4855323,
@@ -53,7 +61,9 @@
       "rawIsoTime": "2026-10-18T16:00:00.000Z",
       "time": "1 - 0 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "1",
+      "awayGoals": "0"
     },
     {
       "matchId": 4855275,
@@ -64,7 +74,9 @@
       "rawIsoTime": "2026-10-18T17:00:00.000Z",
       "time": "1 - 0 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "1",
+      "awayGoals": "0"
     },
     {
       "matchId": 4855324,
@@ -75,7 +87,9 @@
       "rawIsoTime": "2026-10-18T17:00:00.000Z",
       "time": "0 - 2 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "0",
+      "awayGoals": "2"
     },
     {
       "matchId": 4855325,
@@ -86,7 +100,9 @@
       "rawIsoTime": "2026-10-18T18:00:00.000Z",
       "time": "1 - 1 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "1",
+      "awayGoals": "1"
     },
     {
       "matchId": 4742037,
@@ -97,7 +113,9 @@
       "rawIsoTime": "2026-10-18T13:00:00.000Z",
       "time": "5 - 0 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "5",
+      "awayGoals": "0"
     },
     {
       "matchId": 4742039,
@@ -108,7 +126,9 @@
       "rawIsoTime": "2026-10-18T13:00:00.000Z",
       "time": "2 - 0 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "2",
+      "awayGoals": "0"
     },
     {
       "matchId": 4742034,
@@ -119,7 +139,9 @@
       "rawIsoTime": "2026-10-18T13:00:00.000Z",
       "time": "1 - 1 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "1",
+      "awayGoals": "1"
     },
     {
       "matchId": 4742033,
@@ -130,7 +152,9 @@
       "rawIsoTime": "2026-10-18T15:30:00.000Z",
       "time": "0 - 1 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "0",
+      "awayGoals": "1"
     },
     {
       "matchId": 4750824,
@@ -141,7 +165,9 @@
       "rawIsoTime": "2026-10-18T12:00:00.000Z",
       "time": "2 - 0 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "2",
+      "awayGoals": "0"
     },
     {
       "matchId": 4750829,
@@ -152,7 +178,9 @@
       "rawIsoTime": "2026-10-18T14:15:00.000Z",
       "time": "2 - 1 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "2",
+      "awayGoals": "1"
     },
     {
       "matchId": 4750825,
@@ -163,7 +191,9 @@
       "rawIsoTime": "2026-10-18T16:30:00.000Z",
       "time": "2 - 5 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "2",
+      "awayGoals": "5"
     },
     {
       "matchId": 4750823,
@@ -174,7 +204,9 @@
       "rawIsoTime": "2026-10-18T19:00:00.000Z",
       "time": "4 - 1 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "4",
+      "awayGoals": "1"
     },
     {
       "matchId": 4755379,
@@ -185,7 +217,9 @@
       "rawIsoTime": "2026-10-18T13:30:00.000Z",
       "time": "2 - 1 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "2",
+      "awayGoals": "1"
     },
     {
       "matchId": 4755376,
@@ -196,7 +230,9 @@
       "rawIsoTime": "2026-10-18T15:30:00.000Z",
       "time": "1 - 2 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "1",
+      "awayGoals": "2"
     },
     {
       "matchId": 4735244,
@@ -207,7 +243,9 @@
       "rawIsoTime": "2026-10-18T13:00:00.000Z",
       "time": "2 - 5 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "2",
+      "awayGoals": "5"
     },
     {
       "matchId": 4735238,
@@ -218,7 +256,9 @@
       "rawIsoTime": "2026-10-18T15:15:00.000Z",
       "time": "4 - 3 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "4",
+      "awayGoals": "3"
     },
     {
       "matchId": 4735243,
@@ -229,7 +269,9 @@
       "rawIsoTime": "2026-10-18T15:15:00.000Z",
       "time": "1 - 3 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "1",
+      "awayGoals": "3"
     },
     {
       "matchId": 4735240,
@@ -240,7 +282,9 @@
       "rawIsoTime": "2026-10-18T15:15:00.000Z",
       "time": "1 - 0 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "1",
+      "awayGoals": "0"
     },
     {
       "matchId": 4735239,
@@ -251,7 +295,9 @@
       "rawIsoTime": "2026-10-18T18:45:00.000Z",
       "time": "2 - 1 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "2",
+      "awayGoals": "1"
     },
     {
       "matchId": 4732672,
@@ -262,7 +308,9 @@
       "rawIsoTime": "2026-10-18T10:30:00.000Z",
       "time": "0 - 3 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "0",
+      "awayGoals": "3"
     },
     {
       "matchId": 4732679,
@@ -273,7 +321,9 @@
       "rawIsoTime": "2026-10-18T13:00:00.000Z",
       "time": "1 - 3 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "1",
+      "awayGoals": "3"
     },
     {
       "matchId": 4732676,
@@ -284,7 +334,9 @@
       "rawIsoTime": "2026-10-18T16:00:00.000Z",
       "time": "3 - 2 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "3",
+      "awayGoals": "2"
     },
     {
       "matchId": 4732677,
@@ -295,7 +347,9 @@
       "rawIsoTime": "2026-10-18T18:45:00.000Z",
       "time": "0 - 3 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "0",
+      "awayGoals": "3"
     },
     {
       "matchId": 4734558,
@@ -306,7 +360,9 @@
       "rawIsoTime": "2026-10-18T10:15:00.000Z",
       "time": "4 - 1 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "4",
+      "awayGoals": "1"
     },
     {
       "matchId": 4734557,
@@ -317,7 +373,9 @@
       "rawIsoTime": "2026-10-18T12:30:00.000Z",
       "time": "2 - 2 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "2",
+      "awayGoals": "2"
     },
     {
       "matchId": 4734555,
@@ -328,7 +386,9 @@
       "rawIsoTime": "2026-10-18T14:45:00.000Z",
       "time": "2 - 5 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "2",
+      "awayGoals": "5"
     },
     {
       "matchId": 4734556,
@@ -339,7 +399,9 @@
       "rawIsoTime": "2026-10-18T18:00:00.000Z",
       "time": "1 - 2 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "1",
+      "awayGoals": "2"
     },
     {
       "matchId": 4734561,
@@ -350,7 +412,9 @@
       "rawIsoTime": "2026-10-18T18:00:00.000Z",
       "time": "2 - 2 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "2",
+      "awayGoals": "2"
     },
     {
       "matchId": 4789453,
@@ -361,7 +425,9 @@
       "rawIsoTime": "2026-10-18T18:00:00.000Z",
       "time": "2 - 3 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "2",
+      "awayGoals": "3"
     },
     {
       "matchId": 4632640,
@@ -372,7 +438,9 @@
       "rawIsoTime": "2026-10-18T19:00:00.000Z",
       "time": "2 - 4 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "2",
+      "awayGoals": "4"
     },
     {
       "matchId": 4632646,
@@ -383,7 +451,9 @@
       "rawIsoTime": "2026-10-18T19:00:00.000Z",
       "time": "1 - 2 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "1",
+      "awayGoals": "2"
     },
     {
       "matchId": 4632638,
@@ -394,7 +464,9 @@
       "rawIsoTime": "2026-10-18T21:30:00.000Z",
       "time": "21:30",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "",
+      "awayGoals": ""
     },
     {
       "matchId": 4632637,
@@ -405,7 +477,9 @@
       "rawIsoTime": "2026-10-18T22:30:00.000Z",
       "time": "22:30",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "",
+      "awayGoals": ""
     },
     {
       "matchId": 4739614,
@@ -416,7 +490,9 @@
       "rawIsoTime": "2026-10-18T04:55:00.000Z",
       "time": "0 - 3 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "0",
+      "awayGoals": "3"
     },
     {
       "matchId": 4652572,
@@ -427,7 +503,9 @@
       "rawIsoTime": "2026-10-18T05:00:00.000Z",
       "time": "3 - 2 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "3",
+      "awayGoals": "2"
     },
     {
       "matchId": 4652573,
@@ -438,7 +516,9 @@
       "rawIsoTime": "2026-10-18T05:00:00.000Z",
       "time": "3 - 2 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "3",
+      "awayGoals": "2"
     },
     {
       "matchId": 4739615,
@@ -449,7 +529,9 @@
       "rawIsoTime": "2026-10-18T07:00:00.000Z",
       "time": "3 - 0 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "3",
+      "awayGoals": "0"
     },
     {
       "matchId": 4652570,
@@ -460,7 +542,9 @@
       "rawIsoTime": "2026-10-18T07:30:00.000Z",
       "time": "0 - 0 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "0",
+      "awayGoals": "0"
     },
     {
       "matchId": 4652575,
@@ -471,7 +555,9 @@
       "rawIsoTime": "2026-10-18T07:30:00.000Z",
       "time": "2 - 2 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "2",
+      "awayGoals": "2"
     },
     {
       "matchId": 4652571,
@@ -482,7 +568,9 @@
       "rawIsoTime": "2026-10-18T07:30:00.000Z",
       "time": "1 - 1 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "1",
+      "awayGoals": "1"
     },
     {
       "matchId": 4764317,
@@ -493,7 +581,9 @@
       "rawIsoTime": "2026-10-18T10:30:00.000Z",
       "time": "4 - 1 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "4",
+      "awayGoals": "1"
     },
     {
       "matchId": 4776088,
@@ -504,7 +594,9 @@
       "rawIsoTime": "2026-10-18T13:00:00.000Z",
       "time": "4 - 3 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "4",
+      "awayGoals": "3"
     },
     {
       "matchId": 4764323,
@@ -515,7 +607,9 @@
       "rawIsoTime": "2026-10-18T13:00:00.000Z",
       "time": "1 - 2 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "1",
+      "awayGoals": "2"
     },
     {
       "matchId": 4851242,
@@ -526,7 +620,9 @@
       "rawIsoTime": "2026-10-18T13:05:00.000Z",
       "time": "2 - 3 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "2",
+      "awayGoals": "3"
     },
     {
       "matchId": 4851241,
@@ -537,7 +633,9 @@
       "rawIsoTime": "2026-10-18T13:05:00.000Z",
       "time": "2 - 2 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "2",
+      "awayGoals": "2"
     },
     {
       "matchId": 4798213,
@@ -548,7 +646,9 @@
       "rawIsoTime": "2026-10-18T13:30:00.000Z",
       "time": "1 - 0 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "1",
+      "awayGoals": "0"
     },
     {
       "matchId": 4798214,
@@ -559,7 +659,9 @@
       "rawIsoTime": "2026-10-18T13:30:00.000Z",
       "time": "1 - 2 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "1",
+      "awayGoals": "2"
     },
     {
       "matchId": 4798210,
@@ -570,7 +672,9 @@
       "rawIsoTime": "2026-10-18T13:30:00.000Z",
       "time": "1 - 1 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "1",
+      "awayGoals": "1"
     },
     {
       "matchId": 4798204,
@@ -581,7 +685,9 @@
       "rawIsoTime": "2026-10-18T13:30:00.000Z",
       "time": "3 - 0 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "3",
+      "awayGoals": "0"
     },
     {
       "matchId": 4776084,
@@ -592,7 +698,9 @@
       "rawIsoTime": "2026-10-18T14:00:00.000Z",
       "time": "0 - 2 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "0",
+      "awayGoals": "2"
     },
     {
       "matchId": 4741642,
@@ -603,7 +711,9 @@
       "rawIsoTime": "2026-10-18T14:00:00.000Z",
       "time": "7 - 1 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "7",
+      "awayGoals": "1"
     },
     {
       "matchId": 4779053,
@@ -614,7 +724,9 @@
       "rawIsoTime": "2026-10-18T14:30:00.000Z",
       "time": "2 - 3 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "2",
+      "awayGoals": "3"
     },
     {
       "matchId": 4776085,
@@ -625,7 +737,9 @@
       "rawIsoTime": "2026-10-18T14:30:00.000Z",
       "time": "5 - 1 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "5",
+      "awayGoals": "1"
     },
     {
       "matchId": 4851240,
@@ -636,7 +750,9 @@
       "rawIsoTime": "2026-10-18T15:45:00.000Z",
       "time": "1 - 3 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "1",
+      "awayGoals": "3"
     },
     {
       "matchId": 4764319,
@@ -647,7 +763,9 @@
       "rawIsoTime": "2026-10-18T16:00:00.000Z",
       "time": "2 - 1 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "2",
+      "awayGoals": "1"
     },
     {
       "matchId": 4779054,
@@ -658,7 +776,9 @@
       "rawIsoTime": "2026-10-18T16:45:00.000Z",
       "time": "0 - 0 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "0",
+      "awayGoals": "0"
     },
     {
       "matchId": 4776087,
@@ -669,7 +789,9 @@
       "rawIsoTime": "2026-10-18T17:00:00.000Z",
       "time": "1 - 2 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "1",
+      "awayGoals": "2"
     },
     {
       "matchId": 4870764,
@@ -680,7 +802,9 @@
       "rawIsoTime": "2026-10-18T18:00:00.000Z",
       "time": "0 - 1 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "0",
+      "awayGoals": "1"
     },
     {
       "matchId": 4776083,
@@ -691,7 +815,9 @@
       "rawIsoTime": "2026-10-18T18:00:00.000Z",
       "time": "2 - 1 (done)",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "2",
+      "awayGoals": "1"
     },
     {
       "matchId": 4870765,
@@ -700,9 +826,11 @@
       "matchEn": "Wydad AC v Ittihad Tiznit",
       "matchAr": "الوداد الرياضي × إتحاد أمل تيزنيت",
       "rawIsoTime": "2026-10-18T20:00:00.000Z",
-      "time": "0 - 1 (60')",
+      "time": "1 - 1 (62')",
       "isLive": true,
-      "rawMinute": 60
+      "rawMinute": 62,
+      "homeGoals": "1",
+      "awayGoals": "1"
     },
     {
       "matchId": 4621278,
@@ -711,9 +839,11 @@
       "matchEn": "FC Cincinnati v Columbus Crew",
       "matchAr": "سينسيناتي × كولومبوس كرو",
       "rawIsoTime": "2026-10-18T21:00:00.000Z",
-      "time": "0 - 0 (10')",
+      "time": "0 - 0 (12')",
       "isLive": true,
-      "rawMinute": 10
+      "rawMinute": 12,
+      "homeGoals": "0",
+      "awayGoals": "0"
     },
     {
       "matchId": 4735656,
@@ -724,7 +854,9 @@
       "rawIsoTime": "2026-10-19T01:00:00.000Z",
       "time": "01:00",
       "isLive": false,
-      "rawMinute": 0
+      "rawMinute": 0,
+      "homeGoals": "",
+      "awayGoals": ""
     }
   ]
 }
