@@ -172,8 +172,8 @@
       "matchEn": "Real Madrid v Sevilla",
       "matchAr": "ريال مدريد × إشبيلية",
       "rawIsoTime": "2026-10-18T19:00:00.000Z",
-      "time": "3 - 0 (done)",
-      "isLive": false,
+      "time": "3 - 0 (74')",
+      "isLive": true,
       "rawMinute": 74
     },
     {
@@ -381,8 +381,8 @@
       "matchEn": "Fluminense v Santos",
       "matchAr": "فلومينينسي × سانتوس",
       "rawIsoTime": "2026-10-18T19:00:00.000Z",
-      "time": "1 - 2 (done)",
-      "isLive": false,
+      "time": "1 - 2 (79')",
+      "isLive": true,
       "rawMinute": 79
     },
     {
@@ -700,9 +700,9 @@
       "matchEn": "Wydad AC v Ittihad Tiznit",
       "matchAr": "الوداد الرياضي × إتحاد أمل تيزنيت",
       "rawIsoTime": "2026-10-18T20:00:00.000Z",
-      "time": "0 - 0 (47')",
+      "time": "0 - 0 (48')",
       "isLive": true,
-      "rawMinute": 47
+      "rawMinute": 48
     },
     {
       "matchId": 4621278,
