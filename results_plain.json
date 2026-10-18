@@ -123,8 +123,8 @@
       "matchEn": "Celta Vigo v Alavés",
       "matchAr": "سيلتا فيجو × ألافيس",
       "rawIsoTime": "2026-10-18T14:15:00.000Z",
-      "time": "14:15",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇪🇸 Spanish La Liga 1",
@@ -483,7 +483,7 @@
       "matchEn": "Panetolikos v Olympiacos",
       "matchAr": "بانيتوليكوس × أولمبياكوس",
       "rawIsoTime": "2026-10-18T14:00:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "0 - 1 (live)",
       "isLive": true
     },
     {
