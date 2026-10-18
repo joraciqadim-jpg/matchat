@@ -528,8 +528,8 @@
       "matchEn": "Fagiano Okayama v Vissel Kobe",
       "matchAr": "فاغيانو أوكاياما × فيسيل كوبي",
       "rawIsoTime": "2026-10-18T04:55:00.000Z",
-      "time": "0 - 3 (live)",
-      "isLive": true
+      "time": "0 - 3 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇷🇺 Russian First League",
@@ -537,8 +537,8 @@
       "matchEn": "Energiya Khabarovsk v Volga Ulyanovsk",
       "matchAr": "إنيرغيا خاباروفسك × فولغا أوليانوفسك",
       "rawIsoTime": "2026-10-18T05:00:00.000Z",
-      "time": "1 - 2 (live)",
-      "isLive": true
+      "time": "1 - 2 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏁 K League Classic",
@@ -546,8 +546,8 @@
       "matchEn": "Jeonbuk Motors v Jeju United",
       "matchAr": "تشانبوك موتورز × جيجو يونايتد",
       "rawIsoTime": "2026-10-18T05:00:00.000Z",
-      "time": "3 - 1 (live)",
-      "isLive": true
+      "time": "3 - 2 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏁 K League Classic",
