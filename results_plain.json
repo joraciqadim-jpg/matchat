@@ -444,7 +444,7 @@
     {
       "tournamentEn": "🇹🇳 Tunisian League",
       "tournamentAr": "🇹🇳 الدوري التونسي",
-      "matchEn": "US Monastir v Al-Taqaddum Al-Riyadi Ba Saqia Al-Dair",
+      "matchEn": "US Monastir v التقدم الرياضي بساقية الداير",
       "matchAr": "الاتحاد المنستيري × التقدم الرياضي بساقية الداير",
       "rawIsoTime": "2026-10-18T13:30:00.000Z",
       "time": "13:30",
@@ -496,8 +496,8 @@
       "isLive": false
     },
     {
-      "tournamentEn": "🏁 Qatar Stars League",
-      "tournamentAr": "🏁 دوري نجوم قطر",
+      "tournamentEn": "🇶🇦 Qatar Stars League",
+      "tournamentAr": "🇶🇦 دوري نجوم قطر",
       "matchEn": "Al Sadd v Al-Duhail",
       "matchAr": "السد × الدحيل",
       "rawIsoTime": "2026-10-18T14:30:00.000Z",
@@ -532,8 +532,8 @@
       "isLive": false
     },
     {
-      "tournamentEn": "🏁 Qatar Stars League",
-      "tournamentAr": "🏁 دوري نجوم قطر",
+      "tournamentEn": "🇶🇦 Qatar Stars League",
+      "tournamentAr": "🇶🇦 دوري نجوم قطر",
       "matchEn": "Al-Gharafa v Al-Rayyan",
       "matchAr": "الغرافة × الريان",
       "rawIsoTime": "2026-10-18T16:45:00.000Z",
