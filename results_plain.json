@@ -222,8 +222,8 @@
       "matchEn": "Fiorentina v Como",
       "matchAr": "فيورنتينا × كومو",
       "rawIsoTime": "2026-10-18T13:00:00.000Z",
-      "time": "13:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇮🇹 Italian Serie A",
@@ -420,8 +420,8 @@
       "matchEn": "Kocaelispor v Göztepe",
       "matchAr": "كوجا يلي سبور × غوز تبة",
       "rawIsoTime": "2026-10-18T13:00:00.000Z",
-      "time": "13:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇦🇪 Emirati Pro League",
