@@ -267,8 +267,8 @@
       "matchEn": "FC Groningen v Ajax",
       "matchAr": "غرونينغين × أياكس",
       "rawIsoTime": "2026-10-18T14:45:00.000Z",
-      "time": "1 - 4 (live)",
-      "isLive": true
+      "time": "2 - 5 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇳🇱 Dutch Eredivisie",
@@ -501,8 +501,8 @@
       "matchEn": "Al Sadd v Al-Duhail",
       "matchAr": "السد × الدحيل",
       "rawIsoTime": "2026-10-18T14:30:00.000Z",
-      "time": "2 - 2 (live)",
-      "isLive": true
+      "time": "2 - 3 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇬🇷 Greek Super League",
@@ -510,8 +510,8 @@
       "matchEn": "Panathinaikos v Asteras Tripolis",
       "matchAr": "باناثينيكوس × أستيراس",
       "rawIsoTime": "2026-10-18T14:30:00.000Z",
-      "time": "4 - 1 (live)",
-      "isLive": true
+      "time": "5 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇦🇪 Emirati Pro League",
@@ -537,8 +537,8 @@
       "matchEn": "Al-Gharafa v Al-Rayyan",
       "matchAr": "الغرافة × الريان",
       "rawIsoTime": "2026-10-18T16:45:00.000Z",
-      "time": "16:45",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇬🇷 Greek Super League",
