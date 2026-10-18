@@ -564,7 +564,7 @@
       "matchEn": "PAOK v Iraklis",
       "matchAr": "باوك سالونيكا × إيراكليس سالونيكي",
       "rawIsoTime": "2026-10-18T18:00:00.000Z",
-      "time": "2 - 1 (live)",
+      "time": "1 - 1 (live)",
       "isLive": true
     },
     {
@@ -573,8 +573,8 @@
       "matchEn": "Wydad AC v Ittihad Tiznit",
       "matchAr": "الوداد الرياضي × إتحاد أمل تيزنيت",
       "rawIsoTime": "2026-10-18T20:00:00.000Z",
-      "time": "20:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇺🇸 Major League Soccer",
