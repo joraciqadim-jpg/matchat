@@ -12,10 +12,10 @@
     "countryar": "تنزانيا"
   },
   "اسكتلندا": {
-    "en": "Scotland",
+    "en": "Scottland FC",
     "ar": "اسكتلندا",
-    "countryen": "Scotland",
-    "countryar": "اسكتلندا"
+    "countryen": "Zimbabwe",
+    "countryar": "زيمبابوي"
   },
   "بترو اتليتكو": {
     "en": "Petro Atlético",
@@ -62,38 +62,14 @@
   "دي سي فيرونغا": {
     "en": "DC Virunga",
     "ar": "دي سي فيرونغا",
-    "countryen": "Democratic Republic of the Congo",
-    "countryar": "جمهورية الكونغو الديمقراطية"
+    "countryen": "Congo",
+    "countryar": "الكونغو"
   },
   "بريميرو دي اوجوستو": {
     "en": "Primeiro de Agosto",
     "ar": "بريميرو دي اوجوستو",
     "countryen": "Angola",
     "countryar": "أنغولا"
-  },
-  "Familia FC": {
-    "en": "Familia FC",
-    "ar": "Familia FC",
-    "countryen": "Panama",
-    "countryar": "بنما"
-  },
-  "Club Deportivo Bocas Fc": {
-    "en": "Club Deportivo Bocas Fc",
-    "ar": "Club Deportivo Bocas Fc",
-    "countryen": "Panama",
-    "countryar": "بنما"
-  },
-  "Umecit Fc Ii": {
-    "en": "Umecit FC II",
-    "ar": "Umecit Fc Ii",
-    "countryen": "Panama",
-    "countryar": "بنما"
-  },
-  "Academía Costa Del Este": {
-    "en": "Academía Costa Del Este",
-    "ar": "Academía Costa Del Este",
-    "countryen": "Panama",
-    "countryar": "بنما"
   },
   "الكانيمى واريورس": {
     "en": "El-Kanemi Warriors",
@@ -128,8 +104,8 @@
   "مانييما يونيون": {
     "en": "Maniema Union",
     "ar": "مانييما يونيون",
-    "countryen": "Democratic Republic of the Congo",
-    "countryar": "جمهورية الكونغو الديمقراطية"
+    "countryen": "Congo",
+    "countryar": "الكونغو"
   },
   "ويليت": {
     "en": "Willet",
@@ -227,44 +203,8 @@
     "countryen": "Tunisia",
     "countryar": "تونس"
   },
-  "Arabe Unido Ii": {
-    "en": "Arabe Unido II",
-    "ar": "Arabe Unido Ii",
-    "countryen": "Panama",
-    "countryar": "بنما"
-  },
-  "Sporting Sm Ii": {
-    "en": "Sporting SM II",
-    "ar": "Sporting Sm Ii",
-    "countryen": "Panama",
-    "countryar": "بنما"
-  },
-  "Udelas Fc": {
-    "en": "Udelas Fc",
-    "ar": "Udelas Fc",
-    "countryen": "Panama",
-    "countryar": "بنما"
-  },
-  "Unión Coclé II": {
-    "en": "Unión Coclé II",
-    "ar": "Unión Coclé II",
-    "countryen": "Panama",
-    "countryar": "بنما"
-  },
-  "Universidad De Panamá Fc": {
-    "en": "Universidad De Panamá Fc",
-    "ar": "Universidad De Panamá Fc",
-    "countryen": "Panama",
-    "countryar": "بنما"
-  },
-  "Independiente De La Chorrera U20": {
-    "en": "Independiente De La Chorrera U20",
-    "ar": "Independiente De La Chorrera U20",
-    "countryen": "Panama",
-    "countryar": "بنما"
-  },
   "الترجي الجرجيسي": {
-    "en": "Espérance Sportive de Zarzis",
+    "en": "Espérance de Zarzis",
     "ar": "الترجي الجرجيسي",
     "countryen": "Tunisia",
     "countryar": "تونس"
@@ -305,24 +245,7 @@
     "countryen": "Panama",
     "countryar": "بنما"
   },
-  "Veraguas Ii": {
-    "en": "Veraguas Ii",
-    "ar": "Veraguas Ii",
-    "countryen": "Panama",
-    "countryar": "بنما"
-  },
-  "Herrera Ii": {
-    "en": "Herrera Ii",
-    "ar": "Herrera Ii",
-    "countryen": "Panama",
-    "countryar": "بنما"
-  },
-  "Academia Mario Mendez": {
-    "en": "Academia Mario Mendez",
-    "ar": "Academia Mario Mendez",
-    "countryen": "Panama",
-    "countryar": "بنما"
-  },
+
   "CFFA أندوهارانوفوتسي": {
     "en": "CFFA Andoharanofotsy",
     "ar": "CFFA أندوهارانوفوتسي",
@@ -350,8 +273,8 @@
   "مازيمبي": {
     "en": "TP Mazembe",
     "ar": "مازيمبي",
-    "countryen": "Democratic Republic of the Congo",
-    "countryar": "جمهورية الكونغو الديمقراطية"
+    "countryen": "Congo",
+    "countryar": "الكونغو"
   },
   "النادي الإفريقي": {
     "en": "Club Africain",
@@ -420,7 +343,7 @@
     "countryar": "مصر"
   },
   "الترجي الرياضي الجرجيسي": {
-    "en": "Espérance Sportive de Zarzis",
+    "en": "Espérance de Zarzis",
     "ar": "الترجي الرياضي الجرجيسي",
     "countryen": "Tunisia",
     "countryar": "تونس"
@@ -444,14 +367,14 @@
     "countryar": "موزمبيق"
   },
   "أفاد جيكانو الإيفواري": {
-    "en": "Ivorian AFAD Djékanou",
-    "ar": "أفاد جيكانو الإيفواري",
+    "en": "AFAD Djékanou",
+    "ar": "أفاد جيكانو",
     "countryen": "Côte d'Ivoire",
     "countryar": "ساحل العاج"
   },
   "النادي الرياضي الصفاقسي": {
-    "en": "Club Sportif Sfaxien",
-    "ar": "النادي الرياضي الصفاقسي",
+    "en": "Club Sfaxien",
+    "ar": "النادي الصفاقسي",
     "countryen": "Tunisia",
     "countryar": "تونس"
   },
