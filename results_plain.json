@@ -186,8 +186,8 @@
       "matchEn": "Le Havre v AJ Auxerre",
       "matchAr": "لو آفر × أوكسير",
       "rawIsoTime": "2026-10-18T15:15:00.000Z",
-      "time": "15:15",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇫🇷 French Ligue 1",
@@ -195,8 +195,8 @@
       "matchEn": "FC Lorient v AS Monaco",
       "matchAr": "لوريان × موناكو",
       "rawIsoTime": "2026-10-18T15:15:00.000Z",
-      "time": "15:15",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇫🇷 French Ligue 1",
