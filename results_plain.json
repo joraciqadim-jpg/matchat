@@ -123,8 +123,8 @@
       "matchEn": "Celta Vigo v Alavés",
       "matchAr": "سيلتا فيجو × ألافيس",
       "rawIsoTime": "2026-10-18T14:15:00.000Z",
-      "time": "2 - 0 (live)",
-      "isLive": true
+      "time": "2 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇪🇸 Spanish La Liga 1",
@@ -231,7 +231,7 @@
       "matchEn": "AC Milan v Atalanta",
       "matchAr": "ميلان × أتالانتا",
       "rawIsoTime": "2026-10-18T16:00:00.000Z",
-      "time": "0 - 0 (live)",
+      "time": "1 - 0 (live)",
       "isLive": true
     },
     {
@@ -483,8 +483,8 @@
       "matchEn": "Panetolikos v Olympiacos",
       "matchAr": "بانيتوليكوس × أولمبياكوس",
       "rawIsoTime": "2026-10-18T14:00:00.000Z",
-      "time": "0 - 2 (live)",
-      "isLive": true
+      "time": "0 - 2 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scottish Premiership",
@@ -492,8 +492,8 @@
       "matchEn": "Celtic v Heart of Midlothian",
       "matchAr": "سيلتيك × هارت اوف ميدلوثيان",
       "rawIsoTime": "2026-10-18T14:00:00.000Z",
-      "time": "7 - 1 (live)",
-      "isLive": true
+      "time": "7 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇶🇦 Qatar Stars League",
