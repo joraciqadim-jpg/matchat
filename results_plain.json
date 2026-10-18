@@ -42,8 +42,8 @@
       "matchEn": "Horoya AC (Guinea) v Al-Merrikh (Sudan)",
       "matchAr": "حوريا (غينيا) × المريخ (السودان)",
       "rawIsoTime": "2026-10-18T16:00:00.000Z",
-      "time": "16:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🛡️ CAF Champions League",
@@ -267,7 +267,7 @@
       "matchEn": "FC Groningen v Ajax",
       "matchAr": "غرونينغين × أياكس",
       "rawIsoTime": "2026-10-18T14:45:00.000Z",
-      "time": "1 - 2 (live)",
+      "time": "1 - 3 (live)",
       "isLive": true
     },
     {
@@ -492,7 +492,7 @@
       "matchEn": "Celtic v Heart of Midlothian",
       "matchAr": "سيلتيك × هارت اوف ميدلوثيان",
       "rawIsoTime": "2026-10-18T14:00:00.000Z",
-      "time": "6 - 1 (live)",
+      "time": "7 - 1 (live)",
       "isLive": true
     },
     {
@@ -501,7 +501,7 @@
       "matchEn": "Al Sadd v Al-Duhail",
       "matchAr": "السد × الدحيل",
       "rawIsoTime": "2026-10-18T14:30:00.000Z",
-      "time": "2 - 2 (live)",
+      "time": "2 - 3 (live)",
       "isLive": true
     },
     {
