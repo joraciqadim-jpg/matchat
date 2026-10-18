@@ -150,8 +150,8 @@
       "matchEn": "Bayer Leverkusen v SC Freiburg",
       "matchAr": "باير ليفركوزن × فرايبورج",
       "rawIsoTime": "2026-10-18T13:30:00.000Z",
-      "time": "2 - 1 (done)",
-      "isLive": false
+      "time": "2 - 1 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇩🇪 German Bundesliga",
@@ -447,8 +447,8 @@
       "matchEn": "US Monastir v Al-Taqaddum Sports Club Saqia Al-Dair",
       "matchAr": "الاتحاد المنستيري × التقدم الرياضي بساقية الداير",
       "rawIsoTime": "2026-10-18T13:30:00.000Z",
-      "time": "1 - 0 (done)",
-      "isLive": false
+      "time": "1 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇹🇳 Tunisian League",
@@ -456,8 +456,8 @@
       "matchEn": "Olympique Béja v Étoile Sportive du Sahel",
       "matchAr": "الأولمبي الباجي × النجم الساحلي",
       "rawIsoTime": "2026-10-18T13:30:00.000Z",
-      "time": "1 - 2 (done)",
-      "isLive": false
+      "time": "1 - 2 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇹🇳 Tunisian League",
@@ -465,8 +465,8 @@
       "matchEn": "CS Hammam-Lif v JS El Omrane",
       "matchAr": "النادي الرياضي لحمام الأنف × الشبيبة الرياضية بالعمران",
       "rawIsoTime": "2026-10-18T13:30:00.000Z",
-      "time": "1 - 1 (done)",
-      "isLive": false
+      "time": "1 - 1 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇹🇳 Tunisian League",
@@ -474,8 +474,8 @@
       "matchEn": "AS Marsa v Étoile Métlaoui",
       "matchAr": "مستقبل المرسى × النجم الرياضي بالمتلوي",
       "rawIsoTime": "2026-10-18T13:30:00.000Z",
-      "time": "3 - 0 (done)",
-      "isLive": false
+      "time": "2 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇬🇷 Greek Super League",
