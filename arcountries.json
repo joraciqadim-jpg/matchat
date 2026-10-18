@@ -1,4 +1,190 @@
 {
+  "توسكير": {
+    "en": "Tusker",
+    "ar": "توسكير",
+    "countryen": "Kenya",
+    "countryar": "كينيا"
+  },
+  "سينجيدا بلاك ستارز": {
+    "en": "Singida Black Stars",
+    "ar": "سينجيدا بلاك ستارز",
+    "countryen": "Tanzania",
+    "countryar": "تنزانيا"
+  },
+  "اسكتلندا": {
+    "en": "Scotland",
+    "ar": "اسكتلندا",
+    "countryen": "Scotland",
+    "countryar": "اسكتلندا"
+  },
+  "بترو اتليتكو": {
+    "en": "Petro Atlético",
+    "ar": "بترو اتليتكو",
+    "countryen": "Angola",
+    "countryar": "أنغولا"
+  },
+  "إينوغو رينجرز": {
+    "en": "Enugu Rangers",
+    "ar": "إينوغو رينجرز",
+    "countryen": "Nigeria",
+    "countryar": "نيجيريا"
+  },
+  "مولودية الجزائر": {
+    "en": "Mouloudia Club of Algiers",
+    "ar": "مولودية الجزائر",
+    "countryen": "Algeria",
+    "countryar": "الجزائر"
+  },
+  "ديربان سيتي": {
+    "en": "Durban City",
+    "ar": "ديربان سيتي",
+    "countryen": "South Africa",
+    "countryar": "جنوب أفريقيا"
+  },
+  "بورت لويس 2000": {
+    "en": "Port Louis 2000",
+    "ar": "بورت لويس 2000",
+    "countryen": "Mauritius",
+    "countryar": "موريشيوس"
+  },
+  "سيداما بونا": {
+    "en": "Sidama Bunna",
+    "ar": "سيداما بونا",
+    "countryen": "Ethiopia",
+    "countryar": "إثيوبيا"
+  },
+  "الهلال السوداني": {
+    "en": "Al-Hilal Sudan",
+    "ar": "الهلال السوداني",
+    "countryen": "Sudan",
+    "countryar": "السودان"
+  },
+  "دي سي فيرونغا": {
+    "en": "DC Virunga",
+    "ar": "دي سي فيرونغا",
+    "countryen": "Democratic Republic of the Congo",
+    "countryar": "جمهورية الكونغو الديمقراطية"
+  },
+  "بريميرو دي اوجوستو": {
+    "en": "Primeiro de Agosto",
+    "ar": "بريميرو دي اوجوستو",
+    "countryen": "Angola",
+    "countryar": "أنغولا"
+  },
+  "Familia FC": {
+    "en": "Familia FC",
+    "ar": "Familia FC",
+    "countryen": "Panama",
+    "countryar": "بنما"
+  },
+  "Club Deportivo Bocas Fc": {
+    "en": "Club Deportivo Bocas Fc",
+    "ar": "Club Deportivo Bocas Fc",
+    "countryen": "Panama",
+    "countryar": "بنما"
+  },
+  "Umecit Fc Ii": {
+    "en": "Umecit FC II",
+    "ar": "Umecit Fc Ii",
+    "countryen": "Panama",
+    "countryar": "بنما"
+  },
+  "Academía Costa Del Este": {
+    "en": "Academía Costa Del Este",
+    "ar": "Academía Costa Del Este",
+    "countryen": "Panama",
+    "countryar": "بنما"
+  },
+  "الكانيمى واريورس": {
+    "en": "El-Kanemi Warriors",
+    "ar": "الكانيمى واريورس",
+    "countryen": "Nigeria",
+    "countryar": "نيجيريا"
+  },
+  "الرجاء البيضاوي": {
+    "en": "Raja Casablanca",
+    "ar": "الرجاء البيضاوي",
+    "countryen": "Morocco",
+    "countryar": "المغرب"
+  },
+  "ذا بانثيرس": {
+    "en": "The Panthers",
+    "ar": "ذا بانثيرس",
+    "countryen": "Benin",
+    "countryar": "بنين"
+  },
+  "اتحاد العاصمة": {
+    "en": "USM Alger",
+    "ar": "اتحاد العاصمة",
+    "countryen": "Algeria",
+    "countryar": "الجزائر"
+  },
+  "كابوسكورب": {
+    "en": "Kabuscorp",
+    "ar": "كابوسكورب",
+    "countryen": "Angola",
+    "countryar": "أنغولا"
+  },
+  "مانييما يونيون": {
+    "en": "Maniema Union",
+    "ar": "مانييما يونيون",
+    "countryen": "Democratic Republic of the Congo",
+    "countryar": "جمهورية الكونغو الديمقراطية"
+  },
+  "ويليت": {
+    "en": "Willet",
+    "ar": "ويليت",
+    "countryen": "Angola",
+    "countryar": "أنغولا"
+  },
+  "صن داونز": {
+    "en": "Mamelodi Sundowns",
+    "ar": "صن داونز",
+    "countryen": "South Africa",
+    "countryar": "جنوب أفريقيا"
+  },
+  "حوريا": {
+    "en": "Horoya",
+    "ar": "حوريا",
+    "countryen": "Guinea",
+    "countryar": "غينيا"
+  },
+  "ديارا": {
+    "en": "ديارا",
+    "ar": "ديارا",
+    "countryen": "Mali",
+    "countryar": "مالي"
+  },
+  "كارا": {
+    "en": "Kara",
+    "ar": "كارا",
+    "countryen": "Togo",
+    "countryar": "توغو"
+  },
+  "السويحلي": {
+    "en": "Al-Swehly",
+    "ar": "السويحلي",
+    "countryen": "Libya",
+    "countryar": "ليبيا"
+  },
+  "الترجي": {
+    "en": "Espérance de Tunis",
+    "ar": "الترجي",
+    "countryen": "Tunisia",
+    "countryar": "تونس"
+  },
+  "تونغيث": {
+    "en": "Teungueth",
+    "ar": "تونغيث",
+    "countryen": "Senegal",
+    "countryar": "السنغال"
+  },
+  "كولومبي سبورتيف": {
+    "en": "Colombe Sportive",
+    "ar": "كولومبي سبورتيف",
+    "countryen": "Cameroon",
+    "countryar": "الكاميرون"
+  },
   "كيفا": {
     "en": "Kifa",
     "ar": "كيفا",
