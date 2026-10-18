@@ -204,8 +204,8 @@
       "matchEn": "Olympique Lyonnais v OGC Nice",
       "matchAr": "أولمبيك ليون × نيس",
       "rawIsoTime": "2026-10-18T18:45:00.000Z",
-      "time": "18:45",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇮🇹 Italian Serie A",
@@ -537,8 +537,8 @@
       "matchEn": "Al-Gharafa v Al-Rayyan",
       "matchAr": "الغرافة × الريان",
       "rawIsoTime": "2026-10-18T16:45:00.000Z",
-      "time": "0 - 0 (live)",
-      "isLive": true
+      "time": "0 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇬🇷 Greek Super League",
