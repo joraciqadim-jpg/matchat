@@ -33,8 +33,8 @@
       "matchEn": "Willem II (Angola) v Mamelodi Sundowns (South Africa)",
       "matchAr": "ويليت (أنغولا) × صن داونز (جنوب أفريقيا)",
       "rawIsoTime": "2026-10-18T15:00:00.000Z",
-      "time": "15:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🛡️ CAF Champions League",
@@ -150,7 +150,7 @@
       "matchEn": "Bayer Leverkusen v SC Freiburg",
       "matchAr": "باير ليفركوزن × فرايبورج",
       "rawIsoTime": "2026-10-18T13:30:00.000Z",
-      "time": "1 - 1 (live)",
+      "time": "2 - 1 (live)",
       "isLive": true
     },
     {
@@ -492,7 +492,7 @@
       "matchEn": "Celtic v Heart of Midlothian",
       "matchAr": "سيلتيك × هارت اوف ميدلوثيان",
       "rawIsoTime": "2026-10-18T14:00:00.000Z",
-      "time": "5 - 1 (live)",
+      "time": "6 - 1 (live)",
       "isLive": true
     },
     {
