@@ -464,7 +464,7 @@
       "rawIsoTime": "2026-10-18T21:30:00.000Z",
       "time": "0 - 3 (done)",
       "isLive": false,
-      "rawMinute": 83,
+      "rawMinute": 75,
       "homeGoals": "0",
       "awayGoals": "3"
     },
@@ -475,8 +475,8 @@
       "matchEn": "Remo v Bragantino",
       "matchAr": "ريمو × براغانتينو",
       "rawIsoTime": "2026-10-18T22:30:00.000Z",
-      "time": "0 - 1 (45')",
-      "isLive": true,
+      "time": "halftime",
+      "isLive": false,
       "rawMinute": 45,
       "homeGoals": "0",
       "awayGoals": "1"
@@ -839,9 +839,9 @@
       "matchEn": "FC Cincinnati v Columbus Crew",
       "matchAr": "سينسيناتي × كولومبوس كرو",
       "rawIsoTime": "2026-10-18T21:00:00.000Z",
-      "time": "0 - 2 (done)",
-      "isLive": false,
-      "rawMinute": 0,
+      "time": "0 - 2 (90')",
+      "isLive": true,
+      "rawMinute": 90,
       "homeGoals": "0",
       "awayGoals": "2"
     },
