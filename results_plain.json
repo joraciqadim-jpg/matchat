@@ -462,11 +462,11 @@
       "matchEn": "Bahia v Flamengo",
       "matchAr": "باهيا × فلامنجو",
       "rawIsoTime": "2026-10-18T21:30:00.000Z",
-      "time": "0 - 1 (73')",
+      "time": "0 - 2 (74')",
       "isLive": true,
-      "rawMinute": 73,
+      "rawMinute": 74,
       "homeGoals": "0",
-      "awayGoals": "1"
+      "awayGoals": "2"
     },
     {
       "matchId": 4632637,
@@ -475,9 +475,9 @@
       "matchEn": "Remo v Bragantino",
       "matchAr": "ريمو × براغانتينو",
       "rawIsoTime": "2026-10-18T22:30:00.000Z",
-      "time": "0 - 1 (33')",
+      "time": "0 - 1 (34')",
       "isLive": true,
-      "rawMinute": 33,
+      "rawMinute": 34,
       "homeGoals": "0",
       "awayGoals": "1"
     },
@@ -839,9 +839,9 @@
       "matchEn": "FC Cincinnati v Columbus Crew",
       "matchAr": "سينسيناتي × كولومبوس كرو",
       "rawIsoTime": "2026-10-18T21:00:00.000Z",
-      "time": "0 - 2 (88')",
+      "time": "0 - 2 (89')",
       "isLive": true,
-      "rawMinute": 88,
+      "rawMinute": 89,
       "homeGoals": "0",
       "awayGoals": "2"
     },
