@@ -475,11 +475,11 @@
       "matchEn": "Remo v Bragantino",
       "matchAr": "ريمو × براغانتينو",
       "rawIsoTime": "2026-10-18T22:30:00.000Z",
-      "time": "22:30",
-      "isLive": false,
-      "rawMinute": 0,
-      "homeGoals": "",
-      "awayGoals": ""
+      "time": "0 - 0 (2')",
+      "isLive": true,
+      "rawMinute": 2,
+      "homeGoals": "0",
+      "awayGoals": "0"
     },
     {
       "matchId": 4739614,
@@ -839,9 +839,9 @@
       "matchEn": "FC Cincinnati v Columbus Crew",
       "matchAr": "سينسيناتي × كولومبوس كرو",
       "rawIsoTime": "2026-10-18T21:00:00.000Z",
-      "time": "0 - 2 (55')",
+      "time": "0 - 2 (56')",
       "isLive": true,
-      "rawMinute": 55,
+      "rawMinute": 56,
       "homeGoals": "0",
       "awayGoals": "2"
     },
