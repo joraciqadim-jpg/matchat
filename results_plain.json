@@ -475,9 +475,9 @@
       "matchEn": "Remo v Bragantino",
       "matchAr": "ريمو × براغانتينو",
       "rawIsoTime": "2026-10-18T22:30:00.000Z",
-      "time": "halftime",
-      "isLive": false,
-      "rawMinute": 45,
+      "time": "0 - 1 (47')",
+      "isLive": true,
+      "rawMinute": 47,
       "homeGoals": "0",
       "awayGoals": "1"
     },
