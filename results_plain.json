@@ -591,8 +591,8 @@
       "matchEn": "Jeonbuk Motors v Jeju United",
       "matchAr": "تشانبوك موتورز × جيجو يونايتد",
       "rawIsoTime": "2026-10-18T05:00:00.000Z",
-      "time": "05:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 K League Classic",
@@ -600,8 +600,8 @@
       "matchEn": "Daejeon Citizen v Gwangju",
       "matchAr": "دايجيون سيتيزن × غوانغجو",
       "rawIsoTime": "2026-10-18T05:00:00.000Z",
-      "time": "05:00",
-      "isLive": false
+      "time": "0 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 J1 League",
@@ -4026,7 +4026,7 @@
     {
       "tournamentEn": "🏁 Panama League - Apertura - East",
       "tournamentAr": "🏁 دوري بنما - Apertura - شرق",
-      "matchEn": "Unión Coclé Fc v Herrera",
+      "matchEn": "Unión Coclé FC v Herrera",
       "matchAr": "Unión Coclé Fc × Herrera",
       "rawIsoTime": "2026-10-18T21:00:00.000Z",
       "time": "21:00",
