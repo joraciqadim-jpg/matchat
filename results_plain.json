@@ -213,8 +213,8 @@
       "matchEn": "Udinese v Litex",
       "matchAr": "أودينيزي × ليتشي",
       "rawIsoTime": "2026-10-18T10:30:00.000Z",
-      "time": "10:30",
-      "isLive": false
+      "time": "0 - 2 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇮🇹 Italian Serie A",
@@ -249,8 +249,8 @@
       "matchEn": "Zavoli v Go Ahead Eagles",
       "matchAr": "زفولي × غو أهيد إيغيلز",
       "rawIsoTime": "2026-10-18T10:15:00.000Z",
-      "time": "10:15",
-      "isLive": false
+      "time": "0 - 1 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🇳🇱 Dutch Eredivisie",
@@ -366,8 +366,8 @@
       "matchEn": "Bohang Stylers v Anyang",
       "matchAr": "بوهانغ ستيليرز × أنيانغ",
       "rawIsoTime": "2026-10-18T07:30:00.000Z",
-      "time": "0 - 0 (live)",
-      "isLive": true
+      "time": "0 - 0 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏁 K League Classic",
@@ -375,8 +375,8 @@
       "matchEn": "Seoul v Guangzhou Sangmu",
       "matchAr": "سيؤول × كوانغتشو سانغمو",
       "rawIsoTime": "2026-10-18T07:30:00.000Z",
-      "time": "2 - 2 (live)",
-      "isLive": true
+      "time": "2 - 2 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🏁 K League Classic",
@@ -384,8 +384,8 @@
       "matchEn": "Gangwon v Union United",
       "matchAr": "غانغوون × انشيون يونايتد",
       "rawIsoTime": "2026-10-18T07:30:00.000Z",
-      "time": "1 - 1 (live)",
-      "isLive": true
+      "time": "1 - 1 (done)",
+      "isLive": false
     },
     {
       "tournamentEn": "🇹🇷 Turkish League",
@@ -393,8 +393,8 @@
       "matchEn": "Kasim Pasha v Samsunspor",
       "matchAr": "قاسم باشا × سامسون سبور",
       "rawIsoTime": "2026-10-18T10:30:00.000Z",
-      "time": "10:30",
-      "isLive": false
+      "time": "2 - 0 (live)",
+      "isLive": true
     },
     {
       "tournamentEn": "🏁 Super League Greece",
