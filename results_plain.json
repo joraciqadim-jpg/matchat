@@ -462,11 +462,11 @@
       "matchEn": "Bahia v Flamengo",
       "matchAr": "باهيا × فلامنجو",
       "rawIsoTime": "2026-10-18T21:30:00.000Z",
-      "time": "21:30",
-      "isLive": false,
-      "rawMinute": 0,
-      "homeGoals": "",
-      "awayGoals": ""
+      "time": "0 - 0 (1')",
+      "isLive": true,
+      "rawMinute": 1,
+      "homeGoals": "0",
+      "awayGoals": "0"
     },
     {
       "matchId": 4632637,
@@ -826,9 +826,9 @@
       "matchEn": "Wydad AC v Ittihad Tiznit",
       "matchAr": "الوداد الرياضي × إتحاد أمل تيزنيت",
       "rawIsoTime": "2026-10-18T20:00:00.000Z",
-      "time": "1 - 1 (67')",
+      "time": "1 - 1 (69')",
       "isLive": true,
-      "rawMinute": 67,
+      "rawMinute": 69,
       "homeGoals": "1",
       "awayGoals": "1"
     },
@@ -839,9 +839,9 @@
       "matchEn": "FC Cincinnati v Columbus Crew",
       "matchAr": "سينسيناتي × كولومبوس كرو",
       "rawIsoTime": "2026-10-18T21:00:00.000Z",
-      "time": "0 - 0 (16')",
+      "time": "0 - 0 (19')",
       "isLive": true,
-      "rawMinute": 16,
+      "rawMinute": 19,
       "homeGoals": "0",
       "awayGoals": "0"
     },
