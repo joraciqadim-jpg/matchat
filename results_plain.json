@@ -33,11 +33,11 @@
       "matchEn": "Monza v Cagliari",
       "matchAr": "مونزا × كالياري",
       "rawIsoTime": "2026-10-19T16:30:00.000Z",
-      "time": "16:30",
-      "isLive": false,
-      "rawMinute": 0,
-      "homeGoals": "",
-      "awayGoals": ""
+      "time": "0 - 0 (3')",
+      "isLive": true,
+      "rawMinute": 3,
+      "homeGoals": 0,
+      "awayGoals": 0
     },
     {
       "matchId": 4732674,
@@ -59,9 +59,9 @@
       "matchEn": "Al-Fayha v Al Ahly",
       "matchAr": "الفيحاء × الأهلي",
       "rawIsoTime": "2026-10-19T15:05:00.000Z",
-      "time": "1 - 2 (63')",
+      "time": "1 - 2 (65')",
       "isLive": true,
-      "rawMinute": 63,
+      "rawMinute": 65,
       "homeGoals": 1,
       "awayGoals": 2
     },
