@@ -124,9 +124,9 @@
       "matchEn": "Sporting Braga v Gil Vicente Barcelos",
       "matchAr": "سبورتينج براغا × جيل فيسنتي بارسيلوش",
       "rawIsoTime": "2026-10-19T19:15:00.000Z",
-      "time": "1 - 2 (97')",
-      "isLive": true,
-      "rawMinute": 97,
+      "time": "1 - 2 (done)",
+      "isLive": false,
+      "rawMinute": 0,
       "homeGoals": 1,
       "awayGoals": 2
     },
