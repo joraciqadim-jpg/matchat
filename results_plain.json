@@ -20,11 +20,11 @@
       "matchEn": "Getafe v Rayo Vallecano",
       "matchAr": "خيتافي × رايو فاييكانو",
       "rawIsoTime": "2026-10-19T19:00:00.000Z",
-      "time": "19:00",
-      "isLive": false,
-      "rawMinute": 0,
-      "homeGoals": "",
-      "awayGoals": ""
+      "time": "0 - 0 (1')",
+      "isLive": true,
+      "rawMinute": 1,
+      "homeGoals": 0,
+      "awayGoals": 0
     },
     {
       "matchId": 4732675,
@@ -46,9 +46,9 @@
       "matchEn": "Parma v Torino",
       "matchAr": "بارما × تورينو",
       "rawIsoTime": "2026-10-19T18:45:00.000Z",
-      "time": "0 - 1 (14')",
+      "time": "0 - 1 (16')",
       "isLive": true,
-      "rawMinute": 14,
+      "rawMinute": 16,
       "homeGoals": 0,
       "awayGoals": 1
     },
@@ -163,9 +163,9 @@
       "matchEn": "Al Masry v Abu Qair Fertilizers",
       "matchAr": "المصري × ابو قير للاسمدة",
       "rawIsoTime": "2026-10-19T17:00:00.000Z",
-      "time": "1 - 1 (98')",
+      "time": "1 - 1 (89')",
       "isLive": true,
-      "rawMinute": 98,
+      "rawMinute": 89,
       "homeGoals": 1,
       "awayGoals": 1
     },
