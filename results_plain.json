@@ -85,11 +85,11 @@
       "matchEn": "Al Shabab v Al-Faisaly",
       "matchAr": "الشباب × الفيصلي",
       "rawIsoTime": "2026-10-19T18:00:00.000Z",
-      "time": "2 - 0 (37')",
+      "time": "2 - 1 (39')",
       "isLive": true,
-      "rawMinute": 37,
+      "rawMinute": 39,
       "homeGoals": 2,
-      "awayGoals": 0
+      "awayGoals": 1
     },
     {
       "matchId": 4789451,
@@ -98,9 +98,9 @@
       "matchEn": "Al Hilal v Al Hazem",
       "matchAr": "الهلال × الحزم",
       "rawIsoTime": "2026-10-19T18:00:00.000Z",
-      "time": "0 - 0 (36')",
+      "time": "0 - 0 (38')",
       "isLive": true,
-      "rawMinute": 36,
+      "rawMinute": 38,
       "homeGoals": 0,
       "awayGoals": 0
     },
@@ -150,9 +150,9 @@
       "matchEn": "El Sharkia ENPPI v Al Mokawloon Al Arab",
       "matchAr": "الشرقية إنبي × المقاولون العرب",
       "rawIsoTime": "2026-10-19T17:00:00.000Z",
-      "time": "0 - 2 (74')",
+      "time": "0 - 2 (76')",
       "isLive": true,
-      "rawMinute": 74,
+      "rawMinute": 76,
       "homeGoals": 0,
       "awayGoals": 2
     },
@@ -163,9 +163,9 @@
       "matchEn": "Al Masry v Abu Qair Fertilizers",
       "matchAr": "المصري × ابو قير للاسمدة",
       "rawIsoTime": "2026-10-19T17:00:00.000Z",
-      "time": "0 - 1 (75')",
+      "time": "0 - 1 (78')",
       "isLive": true,
-      "rawMinute": 75,
+      "rawMinute": 78,
       "homeGoals": 0,
       "awayGoals": 1
     },
@@ -176,9 +176,9 @@
       "matchEn": "Trabzonspor v Beşiktaş",
       "matchAr": "طرابزون سبور × بشكتاش",
       "rawIsoTime": "2026-10-19T17:00:00.000Z",
-      "time": "2 - 0 (77')",
+      "time": "2 - 0 (79')",
       "isLive": true,
-      "rawMinute": 77,
+      "rawMinute": 79,
       "homeGoals": 2,
       "awayGoals": 0
     }
