@@ -33,9 +33,9 @@
       "matchEn": "Monza v Cagliari",
       "matchAr": "مونزا × كالياري",
       "rawIsoTime": "2026-10-19T16:30:00.000Z",
-      "time": "0 - 0 (34')",
+      "time": "0 - 0 (35')",
       "isLive": true,
-      "rawMinute": 34,
+      "rawMinute": 35,
       "homeGoals": 0,
       "awayGoals": 0
     },
@@ -59,9 +59,9 @@
       "matchEn": "Al-Fayha v Al Ahly",
       "matchAr": "الفيحاء × الأهلي",
       "rawIsoTime": "2026-10-19T15:05:00.000Z",
-      "time": "2 - 3 (96')",
-      "isLive": true,
-      "rawMinute": 96,
+      "time": "2 - 3 (done)",
+      "isLive": false,
+      "rawMinute": 79,
       "homeGoals": 2,
       "awayGoals": 3
     },
@@ -150,11 +150,11 @@
       "matchEn": "El Sharkia ENPPI v Al Mokawloon Al Arab",
       "matchAr": "الشرقية إنبي × المقاولون العرب",
       "rawIsoTime": "2026-10-19T17:00:00.000Z",
-      "time": "0 - 0 (4')",
+      "time": "0 - 1 (6')",
       "isLive": true,
-      "rawMinute": 4,
+      "rawMinute": 6,
       "homeGoals": 0,
-      "awayGoals": 0
+      "awayGoals": 1
     },
     {
       "matchId": 4804706,
@@ -163,9 +163,9 @@
       "matchEn": "Al Masry v Abu Qair Fertilizers",
       "matchAr": "المصري × ابو قير للاسمدة",
       "rawIsoTime": "2026-10-19T17:00:00.000Z",
-      "time": "0 - 0 (5')",
+      "time": "0 - 0 (7')",
       "isLive": true,
-      "rawMinute": 5,
+      "rawMinute": 7,
       "homeGoals": 0,
       "awayGoals": 0
     },
@@ -176,9 +176,9 @@
       "matchEn": "Trabzonspor v Beşiktaş",
       "matchAr": "طرابزون سبور × بشكتاش",
       "rawIsoTime": "2026-10-19T17:00:00.000Z",
-      "time": "0 - 0 (5')",
+      "time": "0 - 0 (6')",
       "isLive": true,
-      "rawMinute": 5,
+      "rawMinute": 6,
       "homeGoals": 0,
       "awayGoals": 0
     }
