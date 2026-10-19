@@ -7,11 +7,11 @@
       "matchEn": "Tottenham Hotspur v Coventry City",
       "matchAr": "توتنهام هوتسبر × كوفنتري سيتي",
       "rawIsoTime": "2026-10-19T19:00:00.000Z",
-      "time": "19:00",
-      "isLive": false,
-      "rawMinute": 0,
-      "homeGoals": "",
-      "awayGoals": ""
+      "time": "0 - 0 (3')",
+      "isLive": true,
+      "rawMinute": 3,
+      "homeGoals": 0,
+      "awayGoals": 0
     },
     {
       "matchId": 4750826,
@@ -20,9 +20,9 @@
       "matchEn": "Getafe v Rayo Vallecano",
       "matchAr": "خيتافي × رايو فاييكانو",
       "rawIsoTime": "2026-10-19T19:00:00.000Z",
-      "time": "0 - 0 (1')",
+      "time": "0 - 0 (3')",
       "isLive": true,
-      "rawMinute": 1,
+      "rawMinute": 3,
       "homeGoals": 0,
       "awayGoals": 0
     },
@@ -46,9 +46,9 @@
       "matchEn": "Parma v Torino",
       "matchAr": "بارما × تورينو",
       "rawIsoTime": "2026-10-19T18:45:00.000Z",
-      "time": "0 - 1 (16')",
+      "time": "0 - 1 (18')",
       "isLive": true,
-      "rawMinute": 16,
+      "rawMinute": 18,
       "homeGoals": 0,
       "awayGoals": 1
     },
