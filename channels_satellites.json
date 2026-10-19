@@ -1,4 +1,260 @@
 {
+  "Fox Deportes USA": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat (65.2W)",
+        "frequency": "11304 H 34000"
+      },
+      {
+        "satellite": "Galaxy (91.0W)",
+        "frequency": "4020 V 31250"
+      },
+      {
+        "satellite": "EchoStar (110.0W)",
+        "frequency": "12399 R 21500"
+      }
+    ]
+  },
+  "Arena Premium 1 BiH HD": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat (16.0E)",
+        "frequency": "11366 V 30000"
+      }
+    ]
+  },
+  "Arena Premium 2 BiH HD": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat (16.0E)",
+        "frequency": "11366 V 30000"
+      }
+    ]
+  },
+  "Arena Premium 3 BiH HD": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat (16.0E)",
+        "frequency": "11366 V 30000"
+      }
+    ]
+  },
+  "beIN Sports Australia 2 HD": {
+    "satellites": [
+      {
+        "satellite": "Optus (156.0E)",
+        "frequency": "11845 H 29450"
+      },
+      {
+        "satellite": "Optus (156.0E)",
+        "frequency": "12518 H 27800"
+      }
+    ]
+  },
+  "beIN Sports Australia 3 HD": {
+    "satellites": [
+      {
+        "satellite": "Optus (156.0E)",
+        "frequency": "11845 H 29450"
+      },
+      {
+        "satellite": "Optus (156.0E)",
+        "frequency": "12518 H 27800"
+      }
+    ]
+  },
+  "Cytavision Sports 3 HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Cytavision Sports 4 HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Cytavision Sports 8 HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Cytavision Sports 4K 1 UHD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Sport TV Belarus": {
+    "satellites": [
+      {
+        "satellite": "Belintersat (51.5E)",
+        "frequency": "11230 H 30000"
+      }
+    ]
+  },
+  "TSN Malta 2 HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "TSN Malta 3 HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "TSN Malta 4 HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "TSN Malta 6 HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "YouTube: TNT Sports": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Fox Soccer Plus USA": {
+    "satellites": [
+      {
+        "satellite": "Galaxy (91.0W)",
+        "frequency": "4020 V 31250"
+      },
+      {
+        "satellite": "EchoStar (110.0W)",
+        "frequency": "12239 L 21500"
+      }
+    ]
+  },
+  "Setanta Sports 2 Baltic": {
+    "satellites": [
+      {
+        "satellite": "Astra (31.5E)",
+        "frequency": "12070 H 30000"
+      },
+      {
+        "satellite": "Kazsat (58.5E)",
+        "frequency": "10804 V 30000"
+      }
+    ]
+  },
+  "SportKlub 8 Hrvatska": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat (16.0E)",
+        "frequency": "11471 H 30000"
+      },
+      {
+        "satellite": "Eutelsat (16.0E)",
+        "frequency": "11678 V 30000"
+      }
+    ]
+  },
+  "Arena Sport 1 Slovenija HD": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat (16.0E)",
+        "frequency": "11366 V 30000"
+      },
+      {
+        "satellite": "Hotbird (13.0E)",
+        "frequency": "11642 V 27500"
+      }
+    ]
+  },
+  "NBC Universo USA": {
+    "satellites": [
+      {
+        "satellite": "Galaxy (91.0W)",
+        "frequency": "4020 V 31250"
+      },
+      {
+        "satellite": "EchoStar (110.0W)",
+        "frequency": "12399 R 21500"
+      }
+    ]
+  },
+  "Setanta Sports 1 Georgia HD": {
+    "satellites": [
+      {
+        "satellite": "Kazsat (58.5E)",
+        "frequency": "10804 V 30000"
+      },
+      {
+        "satellite": "Turksat (42.0E)",
+        "frequency": "11916 V 30000"
+      }
+    ]
+  },
+  "Sky Sport 8 NZ HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "SÝN Sport 1 Ísland HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "SÝN Sport Island 1 HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "USA Network HD": {
+    "satellites": [
+      {
+        "satellite": "Galaxy (91.0W)",
+        "frequency": "4020 V 31250"
+      },
+      {
+        "satellite": "EchoStar (110.0W)",
+        "frequency": "12399 R 21500"
+      }
+    ]
+  },
+  "Digi 4K UHD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Sportdigital FUSSBALL 2": {
+    "satellites": [
+      {
+        "satellite": "Astra (19.2E)",
+        "frequency": "11186 V 22000"
+      }
+    ]
+  },
+
   "Premier Sports 2 Ireland HD": {
     "satellites": [
       {
