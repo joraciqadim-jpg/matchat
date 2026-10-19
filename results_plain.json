@@ -150,9 +150,9 @@
       "matchEn": "El Sharkia ENPPI v Al Mokawloon Al Arab",
       "matchAr": "الشرقية إنبي × المقاولون العرب",
       "rawIsoTime": "2026-10-19T17:00:00.000Z",
-      "time": "0 - 1 (20')",
+      "time": "0 - 1 (21')",
       "isLive": true,
-      "rawMinute": 20,
+      "rawMinute": 21,
       "homeGoals": 0,
       "awayGoals": 1
     },
@@ -163,9 +163,9 @@
       "matchEn": "Al Masry v Abu Qair Fertilizers",
       "matchAr": "المصري × ابو قير للاسمدة",
       "rawIsoTime": "2026-10-19T17:00:00.000Z",
-      "time": "0 - 0 (21')",
+      "time": "0 - 0 (22')",
       "isLive": true,
-      "rawMinute": 21,
+      "rawMinute": 22,
       "homeGoals": 0,
       "awayGoals": 0
     },
@@ -176,10 +176,10 @@
       "matchEn": "Trabzonspor v Beşiktaş",
       "matchAr": "طرابزون سبور × بشكتاش",
       "rawIsoTime": "2026-10-19T17:00:00.000Z",
-      "time": "0 - 0 (20')",
+      "time": "1 - 0 (22')",
       "isLive": true,
-      "rawMinute": 20,
-      "homeGoals": 0,
+      "rawMinute": 22,
+      "homeGoals": 1,
       "awayGoals": 0
     }
   ]
