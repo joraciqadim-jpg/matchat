@@ -46,9 +46,9 @@
       "matchEn": "Parma v Torino",
       "matchAr": "بارما × تورينو",
       "rawIsoTime": "2026-10-19T18:45:00.000Z",
-      "time": "0 - 2 (56')",
+      "time": "0 - 2 (58')",
       "isLive": true,
-      "rawMinute": 56,
+      "rawMinute": 58,
       "homeGoals": 0,
       "awayGoals": 2
     },
@@ -85,9 +85,9 @@
       "matchEn": "Al Shabab v Al-Faisaly",
       "matchAr": "الشباب × الفيصلي",
       "rawIsoTime": "2026-10-19T18:00:00.000Z",
-      "time": "2 - 2 (92')",
-      "isLive": true,
-      "rawMinute": 92,
+      "time": "2 - 2 (done)",
+      "isLive": false,
+      "rawMinute": 73,
       "homeGoals": 2,
       "awayGoals": 2
     },
@@ -98,11 +98,11 @@
       "matchEn": "Al Hilal v Al Hazem",
       "matchAr": "الهلال × الحزم",
       "rawIsoTime": "2026-10-19T18:00:00.000Z",
-      "time": "1 - 0 (98')",
-      "isLive": true,
-      "rawMinute": 98,
+      "time": "(done)",
+      "isLive": false,
+      "rawMinute": 72,
       "homeGoals": 1,
-      "awayGoals": 0
+      "awayGoals": ""
     },
     {
       "matchId": 4632643,
@@ -124,9 +124,9 @@
       "matchEn": "Sporting Braga v Gil Vicente Barcelos",
       "matchAr": "سبورتينج براغا × جيل فيسنتي بارسيلوش",
       "rawIsoTime": "2026-10-19T19:15:00.000Z",
-      "time": "1 - 0 (43')",
+      "time": "1 - 0 (46')",
       "isLive": true,
-      "rawMinute": 43,
+      "rawMinute": 46,
       "homeGoals": 1,
       "awayGoals": 0
     },
