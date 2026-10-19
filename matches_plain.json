@@ -152,18 +152,6 @@
     {
       "tournamentEn": "🇸🇦 Saudi Pro League",
       "tournamentAr": "🇸🇦 الدوري السعودي للمحترفين",
-      "matchEn": "Al-Fayha v Al-Ahli",
-      "matchAr": "الفيحاء × الأهلي",
-      "time": "15:05",
-      "channels": [
-        "📺 Sport TV 1 [Hispasat 30W 12360 H 27500]",
-        "📺 M+ Vamos 2 [Astra 19.2E 10758 V 22000]",
-        "📺 Thmanyah 2 [Badrsat 26.0E 11919 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🇸🇦 Saudi Pro League",
-      "tournamentAr": "🇸🇦 الدوري السعودي للمحترفين",
       "matchEn": "Al-Hilal v Al-Hazem",
       "matchAr": "الهلال × الحزم",
       "time": "18:00",
@@ -226,18 +214,6 @@
       "time": "17:00",
       "channels": [
         "📺 On Sport MAX [Nilesat 7.0W 11977 V 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🏆 International Youth U17 Gulf Cup 2026",
-      "tournamentAr": "🏆 كأس الخليج الدولي للشباب تحت 17 سنة 2026",
-      "matchEn": "Bahrain v Qatar",
-      "matchAr": "البحرين × قطر",
-      "time": "14:45",
-      "channels": [
-        "📺 Al Kass One [Nilesat 7.0W 11919 H 27500]",
-        "📺 Al Kass One [Badrsat 26.0E 12245 V 27500]",
-        "📺 Al Kass One [Badrsat 26.0E 10770 V 27500]"
       ]
     },
     {
