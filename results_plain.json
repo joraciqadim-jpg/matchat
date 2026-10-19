@@ -59,11 +59,11 @@
       "matchEn": "Al-Fayha v Al Ahly",
       "matchAr": "الفيحاء × الأهلي",
       "rawIsoTime": "2026-10-19T15:05:00.000Z",
-      "time": "1 - 0 (47')",
-      "isLive": true,
-      "rawMinute": 47,
+      "time": "halftime",
+      "isLive": false,
+      "rawMinute": 45,
       "homeGoals": 1,
-      "awayGoals": 0
+      "awayGoals": 1
     },
     {
       "matchId": 4789455,
@@ -137,9 +137,9 @@
       "matchEn": "El Gouna v Smouha",
       "matchAr": "الجونة × سموحة",
       "rawIsoTime": "2026-10-19T14:00:00.000Z",
-      "time": "0 - 2 (90')",
+      "time": "0 - 2 (92')",
       "isLive": true,
-      "rawMinute": 90,
+      "rawMinute": 92,
       "homeGoals": 0,
       "awayGoals": 2
     },
