@@ -135,7 +135,7 @@
     "satellites": [
       {
         "satellite": "Hotbird (13.0E)",
-        "frequency": "10834 V 27500"
+        "frequency": "11449 H 27500"
       }
     ]
   },
@@ -168,6 +168,10 @@
       {
         "satellite": "Hotbird (13.0E)",
         "frequency": "10796 V 27500"
+      },
+      {
+        "satellite": "Hotbird (13.0E)",
+        "frequency": "11117 V 27500"
       }
     ]
   },
@@ -271,7 +275,7 @@
     "satellites": [
       {
         "satellite": "Hispasat (30.0W)",
-        "frequency": "12360 H 27500"
+        "frequency": "12246 H 27500"
       }
     ]
   },
@@ -531,11 +535,7 @@
     "satellites": [
       {
         "satellite": "Hotbird (13.0E)",
-        "frequency": "11449 H 27500"
-      },
-      {
-        "satellite": "Hotbird (13.0E)",
-        "frequency": "10719 V 27500"
+        "frequency": "11278 V 27500"
       }
     ]
   },
@@ -919,7 +919,7 @@
     "satellites": [
       {
         "satellite": "Hotbird (13.0E)",
-        "frequency": "11278 V 27500"
+        "frequency": "10719 V 27500"
       }
     ]
   },
@@ -1199,7 +1199,7 @@
     "satellites": [
       {
         "satellite": "Hotbird (13.0E)",
-        "frequency": "11449 H 27500"
+        "frequency": "11278 V 27500"
       }
     ]
   },
@@ -1500,6 +1500,10 @@
       {
         "satellite": "Hotbird (13.0E)",
         "frequency": "10796 V 27500"
+      },
+      {
+        "satellite": "Hotbird (13.0E)",
+        "frequency": "11117 V 27500"
       }
     ]
   },
@@ -1559,7 +1563,7 @@
       },
       {
         "satellite": "Hotbird (13.0E)",
-        "frequency": "11278 V 27500"
+        "frequency": "11117 V 27500"
       }
     ]
   },
@@ -1584,6 +1588,10 @@
       {
         "satellite": "Hotbird (13.0E)",
         "frequency": "10796 V 27500"
+      },
+      {
+        "satellite": "Hotbird (13.0E)",
+        "frequency": "11117 V 27500"
       }
     ]
   },
@@ -4527,7 +4535,7 @@
     "satellites": [
       {
         "satellite": "Hotbird (13.0E)",
-        "frequency": "11158 V 27500"
+        "frequency": "12265 V 27500"
       }
     ]
   },
