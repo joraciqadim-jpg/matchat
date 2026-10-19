@@ -131,6 +131,19 @@
       "awayGoals": 2
     },
     {
+      "matchId": 4875929,
+      "tournamentEn": "🇴🇲 Oman Professional League",
+      "tournamentAr": "🇴🇲 الدوري العماني",
+      "matchEn": "Al-Nahda v Sur",
+      "matchAr": "النهضة × صور",
+      "rawIsoTime": "2026-10-19T13:00:00.000Z",
+      "time": "5 - 1 (done)",
+      "isLive": false,
+      "rawMinute": 0,
+      "homeGoals": 5,
+      "awayGoals": 1
+    },
+    {
       "matchId": 4804696,
       "tournamentEn": "🇪🇬 Egyptian Premier League",
       "tournamentAr": "🇪🇬 الدوري المصري",
@@ -142,6 +155,45 @@
       "rawMinute": 0,
       "homeGoals": 0,
       "awayGoals": 2
+    },
+    {
+      "matchId": 4869960,
+      "tournamentEn": "🏁 Kuwait Premier League",
+      "tournamentAr": "🏁 الدوري الكويتي",
+      "matchEn": "Al Kuwait v Al-Sulaibikhat",
+      "matchAr": "الكويت × الصليبيخات",
+      "rawIsoTime": "2026-10-19T14:40:00.000Z",
+      "time": "7 - 0 (done)",
+      "isLive": false,
+      "rawMinute": 0,
+      "homeGoals": 7,
+      "awayGoals": 0
+    },
+    {
+      "matchId": 4875931,
+      "tournamentEn": "🇴🇲 Oman Professional League",
+      "tournamentAr": "🇴🇲 الدوري العماني",
+      "matchEn": "Sohar v Al Shabab",
+      "matchAr": "صحار × الشباب العماني",
+      "rawIsoTime": "2026-10-19T15:30:00.000Z",
+      "time": "0 - 5 (done)",
+      "isLive": false,
+      "rawMinute": 0,
+      "homeGoals": 0,
+      "awayGoals": 5
+    },
+    {
+      "matchId": 4869961,
+      "tournamentEn": "🏁 Kuwait Premier League",
+      "tournamentAr": "🏁 الدوري الكويتي",
+      "matchEn": "Al Jahra v Kazma",
+      "matchAr": "الجهراء × كاظمة",
+      "rawIsoTime": "2026-10-19T16:55:00.000Z",
+      "time": "0 - 1 (done)",
+      "isLive": false,
+      "rawMinute": 0,
+      "homeGoals": 0,
+      "awayGoals": 1
     },
     {
       "matchId": 4804702,
@@ -181,6 +233,71 @@
       "rawMinute": 0,
       "homeGoals": 2,
       "awayGoals": 0
+    },
+    {
+      "matchId": 4869963,
+      "tournamentEn": "🏁 Kuwait Premier League",
+      "tournamentAr": "🏁 الدوري الكويتي",
+      "matchEn": "Al-Arabi v Al Salmiya",
+      "matchAr": "العربي × السالمية",
+      "rawIsoTime": "2026-10-19T17:05:00.000Z",
+      "time": "17:05 (canceled)",
+      "isLive": false,
+      "rawMinute": 0,
+      "homeGoals": "",
+      "awayGoals": ""
+    },
+    {
+      "matchId": 4869962,
+      "tournamentEn": "🏁 Kuwait Premier League",
+      "tournamentAr": "🏁 الدوري الكويتي",
+      "matchEn": "Al Qadsia v Al Sahel",
+      "matchAr": "القادسية × الساحل",
+      "rawIsoTime": "2026-10-19T17:05:00.000Z",
+      "time": "17:05 (canceled)",
+      "isLive": false,
+      "rawMinute": 0,
+      "homeGoals": "",
+      "awayGoals": ""
+    },
+    {
+      "matchId": 4633252,
+      "tournamentEn": "🇦🇷 Argentine Primera División - Clausura",
+      "tournamentAr": "🇦🇷 الدوري الأرجنتيني الممتاز - Clausura",
+      "matchEn": "Newell's Old Boys v Central Córdoba",
+      "matchAr": "نيويلز أولد بويز × سنترال كوردوبا",
+      "rawIsoTime": "2026-10-19T22:00:00.000Z",
+      "time": "1 - 0 (45')",
+      "isLive": true,
+      "rawMinute": 45,
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "matchId": 4633247,
+      "tournamentEn": "🇦🇷 Argentine Primera División - Clausura",
+      "tournamentAr": "🇦🇷 الدوري الأرجنتيني الممتاز - Clausura",
+      "matchEn": "Sarmiento Junín v Barracas Central",
+      "matchAr": "Sarmiento Junin × Barracas Central",
+      "rawIsoTime": "2026-10-19T22:00:00.000Z",
+      "time": "1 - 0 (45')",
+      "isLive": true,
+      "rawMinute": 45,
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "matchId": 4633254,
+      "tournamentEn": "🇦🇷 Argentine Primera División - Clausura",
+      "tournamentAr": "🇦🇷 الدوري الأرجنتيني الممتاز - Clausura",
+      "matchEn": "Riestra v Unión Santa Fe",
+      "matchAr": "Riestra × Union Santa Fe",
+      "rawIsoTime": "2026-10-20T00:15:00.000Z",
+      "time": "00:15",
+      "isLive": false,
+      "rawMinute": 0,
+      "homeGoals": "",
+      "awayGoals": ""
     }
   ]
 }
