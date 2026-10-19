@@ -267,8 +267,8 @@
       "matchEn": "Newell's Old Boys v Central Córdoba",
       "matchAr": "نيويلز أولد بويز × سنترال كوردوبا",
       "rawIsoTime": "2026-10-19T22:00:00.000Z",
-      "time": "2 - 1 (done)",
-      "isLive": false,
+      "time": "2 - 1 (88')",
+      "isLive": true,
       "rawMinute": 88,
       "homeGoals": 2,
       "awayGoals": 1
@@ -280,9 +280,9 @@
       "matchEn": "Sarmiento Junín v Barracas Central",
       "matchAr": "سارمينتو جونين × براكاس سنترال",
       "rawIsoTime": "2026-10-19T22:00:00.000Z",
-      "time": "1 - 1 (97')",
+      "time": "1 - 1 (99')",
       "isLive": true,
-      "rawMinute": 97,
+      "rawMinute": 99,
       "homeGoals": 1,
       "awayGoals": 1
     },
