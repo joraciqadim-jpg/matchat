@@ -67,8 +67,8 @@
         "📺 Super Sport 2 [Eutelsat 16.0E 10845 H 30000]",
         "📺 DAZN 1 GER [Astra 19.2E 12382 H 27500]",
         "📺 DAZN LaLiga [Astra 19.2E 10906 V 22000]",
-        "📺 Nova Sport 4 CZ [Astra 23.5E 11934 V 29900]",
-        "📺 Ziggo Sport 2 [Astra 23.5E 12129 V 29900]",
+        "📺 Nova Sport 4 CZ [Eutelsat 23.5E 11934 V 29900]",
+        "📺 Ziggo Sport 2 [Eutelsat 23.5E 12129 V 29900]",
         "📺 Bein Sport 3 [Badrsat 26.0E 10810 H 27500]",
         "📺 Premier Sports 1 [Astra 28.2E 12188 H 27500]",
         "📺 Premier Sports 1 UK [Astra 28.2E 11671 H 23000]",
@@ -140,7 +140,7 @@
         "📺 Sport 1 CZE [Eutelsat 16.0E 11055 V 27500]",
         "📺 Tring Sport 1 [Eutelsat 16.0E 10804 H 29950]",
         "📺 DAZN 2 GER [Astra 19.2E 12382 H 27500]",
-        "📺 Sport 1 CZE [Astra 23.5E 12070 H 27500]",
+        "📺 Sport 1 CZE [Eutelsat 23.5E 12070 H 27500]",
         "📺 SuperSport Football [Eutelsat 36.0E 12341 V 27500]",
         "📺 Prima Sport 3 [Hellas-Sat 39.0E 12251 V 30000]",
         "📺 Persiana Sports 2 [Turkmenlem 52.0E 11343 H 27500]",
@@ -236,6 +236,30 @@
       "time": "17:00",
       "channels": [
         "📺 On Sport MAX [Nilesat 7.0W 11977 V 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "🏆 International Youth U17 Gulf Cup 2026",
+      "tournamentAr": "🏆 كأس الخليج الدولي للشباب تحت 17 سنة 2026",
+      "matchEn": "Bahrain v Qatar",
+      "matchAr": "البحرين × قطر",
+      "time": "14:45",
+      "channels": [
+        "📺 Al Kass One [Nilesat 7.0W 11919 H 27500]",
+        "📺 Al Kass One [Badrsat 26.0E 12245 V 27500]",
+        "📺 Al Kass One [Badrsat 26.0E 10770 V 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "🏆 International Youth U17 Gulf Cup 2026",
+      "tournamentAr": "🏆 كأس الخليج الدولي للشباب تحت 17 سنة 2026",
+      "matchEn": "China v Oman",
+      "matchAr": "الصين × عمان",
+      "time": "17:00",
+      "channels": [
+        "📺 Al Kass Two [Nilesat 7.0W 11919 H 27500]",
+        "📺 Al Kass Two [Badrsat 26.0E 12245 V 27500]",
+        "📺 Al Kass Two [Badrsat 26.0E 10770 V 27500]"
       ]
     }
   ]
