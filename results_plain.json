@@ -137,11 +137,11 @@
       "matchEn": "El Gouna v Smouha",
       "matchAr": "الجونة × سموحة",
       "rawIsoTime": "2026-10-19T14:00:00.000Z",
-      "time": "14:00",
-      "isLive": false,
-      "rawMinute": 0,
-      "homeGoals": "",
-      "awayGoals": ""
+      "time": "0 - 0 (8')",
+      "isLive": true,
+      "rawMinute": 8,
+      "homeGoals": 0,
+      "awayGoals": 0
     },
     {
       "matchId": 4804702,
