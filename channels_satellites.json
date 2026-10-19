@@ -27,7 +27,7 @@
     "satellites": [
       {
         "satellite": "Hispasat (30.0W)",
-        "frequency": "12246 H 27500"
+        "frequency": "12360 H 27500"
       }
     ]
   },
@@ -35,11 +35,11 @@
     "satellites": [
       {
         "satellite": "Hellas (39.0E)",
-        "frequency": "12223 H 13381"
+        "frequency": "12242 H 13381"
       },
       {
         "satellite": "Hellas (39.0E)",
-        "frequency": "12242 H 13381"
+        "frequency": "12223 H 13381"
       },
       {
         "satellite": "Hotbird (13.0E)",
@@ -167,7 +167,7 @@
     "satellites": [
       {
         "satellite": "Hotbird (13.0E)",
-        "frequency": "11488 H 27500"
+        "frequency": "10796 V 27500"
       }
     ]
   },
@@ -271,7 +271,7 @@
     "satellites": [
       {
         "satellite": "Hispasat (30.0W)",
-        "frequency": "12246 H 27500"
+        "frequency": "12360 H 27500"
       }
     ]
   },
@@ -395,7 +395,7 @@
     "satellites": [
       {
         "satellite": "Astra (19.2E)",
-        "frequency": "11856 V 29700"
+        "frequency": "12168 V 29700"
       },
       {
         "satellite": "Eutelsat (5.0W)",
@@ -523,7 +523,7 @@
     "satellites": [
       {
         "satellite": "Hotbird (13.0E)",
-        "frequency": "10892 H 27500"
+        "frequency": "11449 H 27500"
       }
     ]
   },
@@ -542,24 +542,24 @@
   "TNT Sports 1 HD": {
     "satellites": [
       {
+        "satellite": "Astra (28.2E)",
+        "frequency": "11582 H 23000"
+      },
+      {
+        "satellite": "Astra (28.2E)",
+        "frequency": "11597 V 23000"
+      },
+      {
         "satellite": "NSS (57.0E)",
-        "frequency": "3775 L 09583"
+        "frequency": "3775 L 9583"
       },
       {
         "satellite": "NSS (57.0E)",
         "frequency": "3798 R 19167"
       },
       {
-        "satellite": "Astra (28.2E)",
-        "frequency": "11612 H 22000"
-      },
-      {
-        "satellite": "Astra (28.2E)",
-        "frequency": "11582 H 23000"
-      },
-      {
         "satellite": "Eutelsat (10.0E)",
-        "frequency": "11222 V 30000"
+        "frequency": "11221 V 30000"
       },
       {
         "satellite": "SES (40.5W)",
@@ -607,7 +607,7 @@
     "satellites": [
       {
         "satellite": "Eutelsat (10.0E)",
-        "frequency": "3736 R 07307"
+        "frequency": "3736 R 7307"
       },
       {
         "satellite": "Thor (5.0E)",
@@ -747,7 +747,7 @@
     "satellites": [
       {
         "satellite": "Astra (19.2E)",
-        "frequency": "11856 V 29700"
+        "frequency": "12168 V 29700"
       },
       {
         "satellite": "Eutelsat (5.0W)",
@@ -759,11 +759,11 @@
     "satellites": [
       {
         "satellite": "Eshail (25.5E)",
-        "frequency": "10810 V 27500"
+        "frequency": "10810 H 27500"
       },
       {
         "satellite": "Eutelsat (8.0W)",
-        "frequency": "11054 H 27500"
+        "frequency": "11013 H 27500"
       }
     ]
   },
@@ -935,7 +935,7 @@
     "satellites": [
       {
         "satellite": "Astra (19.2E)",
-        "frequency": "11856 V 29700"
+        "frequency": "12402 V 29700"
       }
     ]
   },
@@ -1055,19 +1055,31 @@
     "satellites": [
       {
         "satellite": "Astra (28.2E)",
-        "frequency": "11934 V 27500"
-      },
-      {
-        "satellite": "Astra (28.2E)",
-        "frequency": "12090 V 29500"
-      },
-      {
-        "satellite": "Astra (28.2E)",
         "frequency": "12012 V 27500"
       },
       {
         "satellite": "Astra (28.2E)",
-        "frequency": "11856 V 27500"
+        "frequency": "12207 V 27500"
+      },
+      {
+        "satellite": "Astra (28.2E)",
+        "frequency": "12265 H 27500"
+      },
+      {
+        "satellite": "NSS (57.0E)",
+        "frequency": "3775 L 9583"
+      },
+      {
+        "satellite": "NSS (57.0E)",
+        "frequency": "3798 R 19167"
+      },
+      {
+        "satellite": "Eutelsat (10.0E)",
+        "frequency": "11221 V 30000"
+      },
+      {
+        "satellite": "SES (40.5W)",
+        "frequency": "4132 R 22500"
       }
     ]
   },
@@ -1275,7 +1287,7 @@
     "satellites": [
       {
         "satellite": "Astra (28.2E)",
-        "frequency": "11686 V 23000"
+        "frequency": "11671 H 23000"
       }
     ]
   },
@@ -1387,11 +1399,11 @@
     "satellites": [
       {
         "satellite": "Astra (28.2E)",
-        "frequency": "11597 V 22000"
+        "frequency": "11585 H 23000"
       },
       {
         "satellite": "Astra (28.2E)",
-        "frequency": "11582 H 23000"
+        "frequency": "11597 V 23000"
       }
     ]
   },
@@ -1399,11 +1411,11 @@
     "satellites": [
       {
         "satellite": "Astra (28.2E)",
-        "frequency": "11597 V 22000"
+        "frequency": "11585 H 23000"
       },
       {
         "satellite": "Astra (28.2E)",
-        "frequency": "11582 H 23000"
+        "frequency": "11597 V 23000"
       }
     ]
   },
@@ -1487,11 +1499,7 @@
     "satellites": [
       {
         "satellite": "Hotbird (13.0E)",
-        "frequency": "11488 H 27500"
-      },
-      {
-        "satellite": "Hotbird (13.0E)",
-        "frequency": "11488 V 27500"
+        "frequency": "10796 V 27500"
       }
     ]
   },
@@ -1511,7 +1519,7 @@
     "satellites": [
       {
         "satellite": "Astra (19.2E)",
-        "frequency": "12032 H 27500"
+        "frequency": "11914 H 27500"
       }
     ]
   },
@@ -1547,6 +1555,10 @@
     "satellites": [
       {
         "satellite": "Hotbird (13.0E)",
+        "frequency": "10796 V 27500"
+      },
+      {
+        "satellite": "Hotbird (13.0E)",
         "frequency": "11278 V 27500"
       }
     ]
@@ -1555,7 +1567,7 @@
     "satellites": [
       {
         "satellite": "Astra (19.2E)",
-        "frequency": "12032 H 27500"
+        "frequency": "11914 H 27500"
       }
     ]
   },
@@ -1571,7 +1583,7 @@
     "satellites": [
       {
         "satellite": "Hotbird (13.0E)",
-        "frequency": "11488 H 27500"
+        "frequency": "10796 V 27500"
       }
     ]
   },
@@ -1579,7 +1591,7 @@
     "satellites": [
       {
         "satellite": "Astra (19.2E)",
-        "frequency": "12304 H 27500"
+        "frequency": "11914 H 27500"
       }
     ]
   },
@@ -1610,7 +1622,7 @@
   "Astro Sports UHD": {
     "satellites": [
       {
-        "satellite": "Measat (91.4E)",
+        "satellite": "Measat (91.5E)",
         "frequency": "11775 V 30000"
       }
     ]
@@ -1631,7 +1643,7 @@
     "satellites": [
       {
         "satellite": "Astra (19.2E)",
-        "frequency": "12728 V 29700"
+        "frequency": "12402 V 29700"
       }
     ]
   },
@@ -1731,7 +1743,7 @@
       },
       {
         "satellite": "Telstar (63.0W)",
-        "frequency": "11564 H 03320"
+        "frequency": "11564 H 3320"
       }
     ]
   },
@@ -1779,11 +1791,11 @@
     "satellites": [
       {
         "satellite": "Intelsat (68.5E)",
-        "frequency": "11130 V 30000"
+        "frequency": "11554 V 30000"
       },
       {
         "satellite": "Intelsat (68.5E)",
-        "frequency": "11554 V 30000"
+        "frequency": "11130 V 30000"
       }
     ]
   },
@@ -1819,11 +1831,11 @@
     "satellites": [
       {
         "satellite": "Astra (19.2E)",
-        "frequency": "11856 V 29700"
+        "frequency": "12324 V 29700"
       },
       {
         "satellite": "Eutelsat (5.0W)",
-        "frequency": "11471 V 29950"
+        "frequency": "11679 V 29950"
       }
     ]
   },
@@ -1924,6 +1936,10 @@
       {
         "satellite": "Thor (0.8W)",
         "frequency": "10809 V 25000"
+      },
+      {
+        "satellite": "Thor (0.8W)",
+        "frequency": "12437 H 30000"
       }
     ]
   },
@@ -2135,11 +2151,11 @@
     "satellites": [
       {
         "satellite": "Astra (19.2E)",
-        "frequency": "11856 V 29700"
+        "frequency": "12324 V 29700"
       },
       {
         "satellite": "Eutelsat (5.0W)",
-        "frequency": "11471 V 29950"
+        "frequency": "11679 V 29950"
       }
     ]
   },
@@ -2279,7 +2295,7 @@
     "satellites": [
       {
         "satellite": "Astra (19.2E)",
-        "frequency": "11895 V 29700"
+        "frequency": "12324 V 29700"
       },
       {
         "satellite": "Eutelsat (5.0W)",
@@ -2355,7 +2371,7 @@
     "satellites": [
       {
         "satellite": "Astra (19.2E)",
-        "frequency": "11895 V 29700"
+        "frequency": "12324 V 29700"
       },
       {
         "satellite": "Eutelsat (5.0W)",
@@ -2435,7 +2451,7 @@
     "satellites": [
       {
         "satellite": "Astra (19.2E)",
-        "frequency": "12304 H 27500"
+        "frequency": "11914 H 27500"
       }
     ]
   },
@@ -2479,7 +2495,7 @@
     "satellites": [
       {
         "satellite": "Hotbird (13.0E)",
-        "frequency": "12169 H 27500"
+        "frequency": "11823 H 27500"
       }
     ]
   },
@@ -2495,7 +2511,7 @@
     "satellites": [
       {
         "satellite": "Astra (19.2E)",
-        "frequency": "11895 V 29700"
+        "frequency": "12324 V 29700"
       },
       {
         "satellite": "Eutelsat (5.0W)",
@@ -2523,7 +2539,7 @@
     "satellites": [
       {
         "satellite": "Astra (19.2E)",
-        "frequency": "11758 H 27500"
+        "frequency": "11914 H 27500"
       }
     ]
   },
@@ -2559,7 +2575,7 @@
     "satellites": [
       {
         "satellite": "Hotbird (13.0E)",
-        "frequency": "11804 V 29700"
+        "frequency": "11823 H 27500"
       }
     ]
   },
@@ -2567,7 +2583,7 @@
     "satellites": [
       {
         "satellite": "Hotbird (13.0E)",
-        "frequency": "11804 V 29700"
+        "frequency": "11823 H 27500"
       }
     ]
   },
@@ -2655,7 +2671,7 @@
     "satellites": [
       {
         "satellite": "Hotbird (13.0E)",
-        "frequency": "12169 H 27500"
+        "frequency": "11823 H 27500"
       }
     ]
   },
@@ -2687,11 +2703,11 @@
       },
       {
         "satellite": "Eutelsat (5.0W)",
-        "frequency": "4154 L 02985"
+        "frequency": "4154 L 2985"
       },
       {
         "satellite": "Eutelsat (8.0W)",
-        "frequency": "3889 L 02982"
+        "frequency": "3889 L 2982"
       },
       {
         "satellite": "SES (22.0W)",
@@ -2746,16 +2762,20 @@
   "TV Miramar Mozambique": {
     "satellites": [
       {
-        "satellite": "Eutelsat (35.9E)",
-        "frequency": "12245 H 2750034"
+        "satellite": "Intelsat (72.1E)",
+        "frequency": "3856 R 17590"
+      },
+      {
+        "satellite": "Express (36.1E)",
+        "frequency": "12130 H 27500"
       },
       {
         "satellite": "SES (5.0E)",
-        "frequency": "11785 V 2750034"
+        "frequency": "11785 V 27500"
       },
       {
         "satellite": "Eutelsat (3.1E)",
-        "frequency": "4630 L 33900"
+        "frequency": "4063 L 33900"
       },
       {
         "satellite": "Intelsat (18.0W)",
@@ -2855,7 +2875,7 @@
     "satellites": [
       {
         "satellite": "Hotbird (13.0E)",
-        "frequency": "11804 V 29700"
+        "frequency": "12130 H 27500"
       }
     ]
   },
@@ -3007,7 +3027,7 @@
     "satellites": [
       {
         "satellite": "Eshail (25.5E)",
-        "frequency": "10850 V 27500"
+        "frequency": "10810 V 27500"
       },
       {
         "satellite": "Eutelsat (8.0W)",
@@ -3140,10 +3160,6 @@
       {
         "satellite": "Dror (4.0W)",
         "frequency": "11259 V 30000"
-      },
-      {
-        "satellite": "Dror (4.0W)",
-        "frequency": "11140 V 27500"
       }
     ]
   },
@@ -3432,10 +3448,6 @@
       {
         "satellite": "Dror (4.0W)",
         "frequency": "11259 V 30000"
-      },
-      {
-        "satellite": "Dror (4.0W)",
-        "frequency": "11140 V 27500"
       }
     ]
   },
@@ -3507,11 +3519,11 @@
       },
       {
         "satellite": "Eutelsat (3.1E)",
-        "frequency": "11084 V 02500"
+        "frequency": "11084 V 2500"
       },
       {
         "satellite": "Eutelsat (8.0W)",
-        "frequency": "4153 L 60000"
+        "frequency": "3732 L 40410"
       }
     ]
   },
@@ -3787,11 +3799,11 @@
     "satellites": [
       {
         "satellite": "Astra (28.2E)",
-        "frequency": "11597 V 22000"
+        "frequency": "11585 H 23000"
       },
       {
         "satellite": "Astra (28.2E)",
-        "frequency": "11582 H 23000"
+        "frequency": "11597 V 23000"
       }
     ]
   },
@@ -3975,7 +3987,7 @@
     "satellites": [
       {
         "satellite": "KazSat (86.5E)",
-        "frequency": "11495 V 09000"
+        "frequency": "11495 V 9000"
       },
       {
         "satellite": "KazSat (86.5E)",
@@ -4099,11 +4111,11 @@
     "satellites": [
       {
         "satellite": "Eshail (25.5E)",
-        "frequency": "10810 V 27500"
+        "frequency": "10850 H 27500"
       },
       {
         "satellite": "Eutelsat (8.0W)",
-        "frequency": "11054 H 27500"
+        "frequency": "12604 H 27500"
       }
     ]
   },
@@ -4239,11 +4251,7 @@
       },
       {
         "satellite": "Eutelsat (8.0W)",
-        "frequency": "3732 L 40140"
-      },
-      {
-        "satellite": "SES (22.0W)",
-        "frequency": "3749 L 45830"
+        "frequency": "3732 L 40410"
       },
       {
         "satellite": "Intelsat (34.5W)",
@@ -4263,7 +4271,7 @@
     "satellites": [
       {
         "satellite": "Astra (28.2E)",
-        "frequency": "11597 V 23000"
+        "frequency": "11597 V 22000"
       }
     ]
   },
@@ -4704,18 +4712,6 @@
       {
         "satellite": "Thor (0.8W)",
         "frequency": "11727 V 28000"
-      },
-      {
-        "satellite": "Thor (0.8W)",
-        "frequency": "11785 H 28000"
-      },
-      {
-        "satellite": "Amos (4.0W)",
-        "frequency": "10806 V 30000"
-      },
-      {
-        "satellite": "Amos (4.0W)",
-        "frequency": "11222 H 30000"
       }
     ]
   },
@@ -4830,7 +4826,7 @@
         "frequency": "12246 V 27500"
       },
       {
-        "satellite": "Eutel (9.0E)",
+        "satellite": "Eutelsat (9.0E)",
         "frequency": "20192 L 12500"
       }
     ]
@@ -5079,4 +5075,4 @@
       }
     ]
   }
-}
+      }
