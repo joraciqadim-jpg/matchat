@@ -111,9 +111,9 @@
       "matchEn": "Corinthians v Vitoria",
       "matchAr": "كورينثيانز × فيتوريا",
       "rawIsoTime": "2026-10-19T23:00:00.000Z",
-      "time": "0 - 0 (37')",
+      "time": "0 - 0 (39')",
       "isLive": true,
-      "rawMinute": 37,
+      "rawMinute": 39,
       "homeGoals": 0,
       "awayGoals": 0
     },
@@ -267,11 +267,11 @@
       "matchEn": "Newell's Old Boys v Central Córdoba",
       "matchAr": "نيويلز أولد بويز × سنترال كوردوبا",
       "rawIsoTime": "2026-10-19T22:00:00.000Z",
-      "time": "2 - 0 (79')",
+      "time": "2 - 1 (81')",
       "isLive": true,
-      "rawMinute": 79,
+      "rawMinute": 81,
       "homeGoals": 2,
-      "awayGoals": 0
+      "awayGoals": 1
     },
     {
       "matchId": 4633247,
@@ -280,9 +280,9 @@
       "matchEn": "Sarmiento Junín v Barracas Central",
       "matchAr": "سارمينتو جونين × براكاس سنترال",
       "rawIsoTime": "2026-10-19T22:00:00.000Z",
-      "time": "1 - 1 (80')",
+      "time": "1 - 1 (82')",
       "isLive": true,
-      "rawMinute": 80,
+      "rawMinute": 82,
       "homeGoals": 1,
       "awayGoals": 1
     },
