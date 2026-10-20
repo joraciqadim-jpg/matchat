@@ -118,6 +118,19 @@
       "awayGoals": ""
     },
     {
+      "matchId": 4857199,
+      "tournamentEn": "🛡️ CAF Confederation Cup - Qualifiers",
+      "tournamentAr": "🛡️ الكونفدرالية الافريقية - تصفيات",
+      "matchEn": "The Panthers v USM Alger",
+      "matchAr": "ذا بانثيرس × اتحاد العاصمة",
+      "rawIsoTime": "2026-10-20T19:00:00.000Z",
+      "time": "19:00 (canceled)",
+      "isLive": false,
+      "rawMinute": 0,
+      "homeGoals": "",
+      "awayGoals": ""
+    },
+    {
       "matchId": 4789447,
       "tournamentEn": "🇸🇦 Saudi Pro League",
       "tournamentAr": "🇸🇦 دوري روشن السعودي",
@@ -183,17 +196,69 @@
       "awayGoals": 1
     },
     {
+      "matchId": 4875951,
+      "tournamentEn": "🛡️ AFC Challenge League",
+      "tournamentAr": "🛡️ دوري التحدي الآسيوي",
+      "matchEn": "Homs Al-Fidaa v Al Nejmeh",
+      "matchAr": "حمص الفداء × النجمة",
+      "rawIsoTime": "2026-10-20T11:00:00.000Z",
+      "time": "2 - 1 (done)",
+      "isLive": false,
+      "rawMinute": 0,
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "matchId": 4875944,
+      "tournamentEn": "🛡️ AFC Challenge League",
+      "tournamentAr": "🛡️ دوري التحدي الآسيوي",
+      "matchEn": "Paro v Al Ansar",
+      "matchAr": "بارو × الأنصار",
+      "rawIsoTime": "2026-10-20T12:00:00.000Z",
+      "time": "1 - 2 (done)",
+      "isLive": false,
+      "rawMinute": 0,
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
+      "matchId": 4875957,
+      "tournamentEn": "🛡️ AFC Challenge League",
+      "tournamentAr": "🛡️ دوري التحدي الآسيوي",
+      "matchEn": "Fortis v Goa",
+      "matchAr": "فورتيس × غوا",
+      "rawIsoTime": "2026-10-20T13:25:00.000Z",
+      "time": "0 - 1 (50')",
+      "isLive": true,
+      "rawMinute": 50,
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "matchId": 4875950,
+      "tournamentEn": "🛡️ AFC Challenge League",
+      "tournamentAr": "🛡️ دوري التحدي الآسيوي",
+      "matchEn": "FC Istiklol Dushanbe v Al-Arabi",
+      "matchAr": "استقلال دوشنبه × العربي",
+      "rawIsoTime": "2026-10-20T14:00:00.000Z",
+      "time": "0 - 0 (35')",
+      "isLive": true,
+      "rawMinute": 35,
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
       "matchId": 4804707,
       "tournamentEn": "🇪🇬 Egyptian Premier League",
       "tournamentAr": "🇪🇬 الدوري المصري",
       "matchEn": "Asyut Petroleum v Zamalek",
       "matchAr": "بترول اسيوط × الزمالك",
       "rawIsoTime": "2026-10-20T14:00:00.000Z",
-      "time": "0 - 0 (13')",
+      "time": "0 - 1 (37')",
       "isLive": true,
-      "rawMinute": 13,
+      "rawMinute": 37,
       "homeGoals": 0,
-      "awayGoals": 0
+      "awayGoals": 1
     },
     {
       "matchId": 4804718,
@@ -202,11 +267,24 @@
       "matchEn": "ZED FC v Modern Sport",
       "matchAr": "زد × مودرن سبورت",
       "rawIsoTime": "2026-10-20T14:00:00.000Z",
-      "time": "0 - 0 (8')",
+      "time": "0 - 1 (32')",
       "isLive": true,
-      "rawMinute": 8,
+      "rawMinute": 32,
       "homeGoals": 0,
-      "awayGoals": 0
+      "awayGoals": 1
+    },
+    {
+      "matchId": 4875943,
+      "tournamentEn": "🛡️ AFC Challenge League",
+      "tournamentAr": "🛡️ دوري التحدي الآسيوي",
+      "matchEn": "Al Ahli Aleppo v Ahal",
+      "matchAr": "أهلي حلب × أهال",
+      "rawIsoTime": "2026-10-20T15:00:00.000Z",
+      "time": "15:00",
+      "isLive": false,
+      "rawMinute": 0,
+      "homeGoals": "",
+      "awayGoals": ""
     },
     {
       "matchId": 4804711,
@@ -229,6 +307,19 @@
       "matchAr": "وادي دجلة × البنك الاهلي",
       "rawIsoTime": "2026-10-20T17:00:00.000Z",
       "time": "17:00",
+      "isLive": false,
+      "rawMinute": 0,
+      "homeGoals": "",
+      "awayGoals": ""
+    },
+    {
+      "matchId": 4875956,
+      "tournamentEn": "🛡️ AFC Challenge League",
+      "tournamentAr": "🛡️ دوري التحدي الآسيوي",
+      "matchEn": "Regar-TadAZ v Al-Qadsia",
+      "matchAr": "ريغار تاداز × القادسية",
+      "rawIsoTime": "2026-10-20T17:30:00.000Z",
+      "time": "17:30",
       "isLive": false,
       "rawMinute": 0,
       "homeGoals": "",
