@@ -1,4 +1,40 @@
 {
+  "fenerbahe": {
+    "en": "Fenerbahçe",
+    "ar": "فنربخشة",
+    "countryen": "Turkey",
+    "countryar": "تركيا"
+  },
+  "dortmund": {
+    "en": "Dortmund",
+    "ar": "دورتموند",
+    "countryen": "Germany",
+    "countryar": "ألمانيا"
+  },
+  "psv eindhoven": {
+    "en": "PSV Eindhoven",
+    "ar": "ايندهوفن",
+    "countryen": "Netherlands",
+    "countryar": "هولندا"
+  },
+  "paris saintgermain": {
+    "en": "Paris Saint-Germain",
+    "ar": "باريس سان جيرمان",
+    "countryen": "France",
+    "countryar": "فرنسا"
+  },
+  "bodglimt": {
+    "en": "Bodø/Glimt",
+    "ar": "بودو/غليمت",
+    "countryen": "Norway",
+    "countryar": "النرويج"
+  },
+  "atltico madrid": {
+    "en": "Atlético Madrid",
+    "ar": "أتل. مدريد",
+    "countryen": "Spain",
+    "countryar": "إسبانيا"
+  },
   "al ahly": {
     "en": "Al Ahly",
     "ar": "الأهلي",
