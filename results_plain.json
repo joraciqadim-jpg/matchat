@@ -7,9 +7,9 @@
       "matchEn": "Sabah (Azerbaijan) v Borussia Dortmund (Germany)",
       "matchAr": "صباح (أذربيجان) × بوروسيا دورتموند (ألمانيا)",
       "rawIsoTime": "2026-10-20T16:45:00.000Z",
-      "time": "0 - 0 (1')",
+      "time": "0 - 0 (2')",
       "isLive": true,
-      "rawMinute": 1,
+      "rawMinute": 2,
       "homeGoals": 0,
       "awayGoals": 0
     },
@@ -20,11 +20,11 @@
       "matchEn": "Fenerbahçe (Turkey) v Slavia Prague (Czech Republic)",
       "matchAr": "فنربخشة (تركيا) × سلافيا براغ (التشيك)",
       "rawIsoTime": "2026-10-20T16:45:00.000Z",
-      "time": "16:45",
-      "isLive": false,
-      "rawMinute": 0,
-      "homeGoals": "",
-      "awayGoals": ""
+      "time": "0 - 0 (2')",
+      "isLive": true,
+      "rawMinute": 2,
+      "homeGoals": 0,
+      "awayGoals": 0
     },
     {
       "matchId": 4828461,
@@ -137,9 +137,9 @@
       "matchEn": "Al-Diriyah v Al-Riyadh",
       "matchAr": "الدرعية × الرياض",
       "rawIsoTime": "2026-10-20T15:00:00.000Z",
-      "time": "1 - 0 (84')",
+      "time": "1 - 0 (86')",
       "isLive": true,
-      "rawMinute": 84,
+      "rawMinute": 86,
       "homeGoals": 1,
       "awayGoals": 0
     },
@@ -150,9 +150,9 @@
       "matchEn": "Al-Taawoun v Al-Qadsia",
       "matchAr": "التعاون × القادسية",
       "rawIsoTime": "2026-10-20T15:10:00.000Z",
-      "time": "0 - 0 (75')",
+      "time": "0 - 0 (76')",
       "isLive": true,
-      "rawMinute": 75,
+      "rawMinute": 76,
       "homeGoals": 0,
       "awayGoals": 0
     },
@@ -293,10 +293,10 @@
       "matchEn": "Al Ahli Aleppo (Syria) v Ahal (Turkmenistan)",
       "matchAr": "أهلي حلب (سوريا) × أهال (تركمانستان)",
       "rawIsoTime": "2026-10-20T15:00:00.000Z",
-      "time": "4 - 1 (89')",
+      "time": "5 - 1 (91')",
       "isLive": true,
-      "rawMinute": 89,
-      "homeGoals": 4,
+      "rawMinute": 91,
+      "homeGoals": 5,
       "awayGoals": 1
     },
     {
