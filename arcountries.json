@@ -1,4 +1,112 @@
 {
+  "صباح": {
+    "en": "Sabah",
+    "ar": "صباح",
+    "countryen": "Azerbaijan",
+    "countryar": "أذربيجان"
+  },
+  "بوروسيا دورتموند": {
+    "en": "Borussia Dortmund",
+    "ar": "بوروسيا دورتموند",
+    "countryen": "Germany",
+    "countryar": "ألمانيا"
+  },
+  "فنربخشة": {
+    "en": "Fenerbahçe",
+    "ar": "فنربخشة",
+    "countryen": "Turkey",
+    "countryar": "تركيا"
+  },
+  "سلافيا براغ": {
+    "en": "Slavia Prague",
+    "ar": "سلافيا براغ",
+    "countryen": "Czech Republic",
+    "countryar": "التشيك"
+  },
+  "باريس سان جيرمان": {
+    "en": "Paris Saint-Germain",
+    "ar": "باريس سان جيرمان",
+    "countryen": "France",
+    "countryar": "فرنسا"
+  },
+  "برشلونة": {
+    "en": "Barcelona",
+    "ar": "برشلونة",
+    "countryen": "Spain",
+    "countryar": "إسبانيا"
+  },
+  "بورتو": {
+    "en": "Porto",
+    "ar": "بورتو",
+    "countryen": "Portugal",
+    "countryar": "البرتغال"
+  },
+  "آيندهوفن": {
+    "en": "PSV Eindhoven",
+    "ar": "آيندهوفن",
+    "countryen": "Netherlands",
+    "countryar": "هولندا"
+  },
+  "روما": {
+    "en": "AS Roma",
+    "ar": "روما",
+    "countryen": "Italy",
+    "countryar": "إيطاليا"
+  },
+  "سلوفان براتيسلافا": {
+    "en": "Slovan Bratislava",
+    "ar": "سلوفان براتيسلافا",
+    "countryen": "Slovakia",
+    "countryar": "سلوفاكيا"
+  },
+  "شتوتجارت": {
+    "en": "VfB Stuttgart",
+    "ar": "شتوتجارت",
+    "countryen": "Germany",
+    "countryar": "ألمانيا"
+  },
+  "أتلتيكو مدريد": {
+    "en": "Atlético Madrid",
+    "ar": "أتلتيكو مدريد",
+    "countryen": "Spain",
+    "countryar": "إسبانيا"
+  },
+  "ليفربول": {
+    "en": "Liverpool",
+    "ar": "ليفربول",
+    "countryen": "England",
+    "countryar": "إنجلترا"
+  },
+  "فياريال": {
+    "en": "Villarreal",
+    "ar": "فياريال",
+    "countryen": "Spain",
+    "countryar": "إسبانيا"
+  },
+  "مانشستر سيتي": {
+    "en": "Manchester City",
+    "ar": "مانشستر سيتي",
+    "countryen": "England",
+    "countryar": "إنجلترا"
+  },
+  "أيك أثينا": {
+    "en": "AEK Athens",
+    "ar": "أيك أثينا",
+    "countryen": "Greece",
+    "countryar": "اليونان"
+  },
+  "نابولي": {
+    "en": "Napoli",
+    "ar": "نابولي",
+    "countryen": "Italy",
+    "countryar": "إيطاليا"
+  },
+  "بودو جليمت": {
+    "en": "Bodø/Glimt",
+    "ar": "بودو جليمت",
+    "countryen": "Norway",
+    "countryar": "النرويج"
+  },
   "توسكير": {
     "en": "Tusker",
     "ar": "توسكير",
@@ -245,7 +353,6 @@
     "countryen": "Panama",
     "countryar": "بنما"
   },
-
   "CFFA أندوهارانوفوتسي": {
     "en": "CFFA Andoharanofotsy",
     "ar": "CFFA أندوهارانوفوتسي",
