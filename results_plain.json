@@ -33,9 +33,9 @@
       "matchEn": "Paris Saint-Germain (France) v Barcelona (Spain)",
       "matchAr": "باريس سان جيرمان (فرنسا) × برشلونة (إسبانيا)",
       "rawIsoTime": "2026-10-20T19:00:00.000Z",
-      "time": "1 - 0 (49')",
+      "time": "1 - 0 (51')",
       "isLive": true,
-      "rawMinute": 49,
+      "rawMinute": 51,
       "homeGoals": 1,
       "awayGoals": 0
     },
@@ -46,11 +46,11 @@
       "matchEn": "Porto (Portugal) v PSV Eindhoven (Netherlands)",
       "matchAr": "بورتو (البرتغال) × أيندهوفن (هولندا)",
       "rawIsoTime": "2026-10-20T19:00:00.000Z",
-      "time": "0 - 0 (55')",
+      "time": "0 - 1 (57')",
       "isLive": true,
-      "rawMinute": 55,
+      "rawMinute": 57,
       "homeGoals": 0,
-      "awayGoals": 0
+      "awayGoals": 1
     },
     {
       "matchId": 4828464,
@@ -59,10 +59,10 @@
       "matchEn": "AS Roma (Italy) v Slovan Bratislava (Slovakia)",
       "matchAr": "روما (إيطاليا) × سلوفان براتيسلافا (سلوفاكيا)",
       "rawIsoTime": "2026-10-20T19:00:00.000Z",
-      "time": "3 - 0 (56')",
+      "time": "4 - 0 (58')",
       "isLive": true,
-      "rawMinute": 56,
-      "homeGoals": 3,
+      "rawMinute": 58,
+      "homeGoals": 4,
       "awayGoals": 0
     },
     {
@@ -72,9 +72,9 @@
       "matchEn": "VfB Stuttgart (Germany) v Atlético Madrid (Spain)",
       "matchAr": "شتوتجارت (ألمانيا) × أتلتيكو مدريد (إسبانيا)",
       "rawIsoTime": "2026-10-20T19:00:00.000Z",
-      "time": "1 - 1 (56')",
+      "time": "1 - 1 (58')",
       "isLive": true,
-      "rawMinute": 56,
+      "rawMinute": 58,
       "homeGoals": 1,
       "awayGoals": 1
     },
@@ -85,9 +85,9 @@
       "matchEn": "Liverpool (England) v Villarreal (Spain)",
       "matchAr": "ليفربول (إنجلترا) × فياريال (إسبانيا)",
       "rawIsoTime": "2026-10-20T19:00:00.000Z",
-      "time": "2 - 2 (53')",
+      "time": "2 - 2 (55')",
       "isLive": true,
-      "rawMinute": 53,
+      "rawMinute": 55,
       "homeGoals": 2,
       "awayGoals": 2
     },
@@ -98,9 +98,9 @@
       "matchEn": "Manchester City (England) v AEK Athens (Greece)",
       "matchAr": "مانشستر سيتي (إنجلترا) × أيك أثينا (اليونان)",
       "rawIsoTime": "2026-10-20T19:00:00.000Z",
-      "time": "2 - 1 (54')",
+      "time": "2 - 1 (56')",
       "isLive": true,
-      "rawMinute": 54,
+      "rawMinute": 56,
       "homeGoals": 2,
       "awayGoals": 1
     },
@@ -111,9 +111,9 @@
       "matchEn": "Napoli (Italy) v Bodø/Glimt (Norway)",
       "matchAr": "نابولي (إيطاليا) × بودو جليمت (النرويج)",
       "rawIsoTime": "2026-10-20T19:00:00.000Z",
-      "time": "2 - 1 (52')",
+      "time": "2 - 1 (54')",
       "isLive": true,
-      "rawMinute": 52,
+      "rawMinute": 54,
       "homeGoals": 2,
       "awayGoals": 1
     },
@@ -163,11 +163,11 @@
       "matchEn": "Al-Ettifaq v Al-Ittihad",
       "matchAr": "الاتفاق × الاتحاد",
       "rawIsoTime": "2026-10-20T18:00:00.000Z",
-      "time": "1 - 3 (81')",
-      "isLive": true,
-      "rawMinute": 81,
+      "time": "1 - 4 (done)",
+      "isLive": false,
+      "rawMinute": 0,
       "homeGoals": 1,
-      "awayGoals": 3
+      "awayGoals": 4
     },
     {
       "matchId": 4789450,
@@ -189,9 +189,9 @@
       "matchEn": "Wolverhampton Wanderers v Portsmouth",
       "matchAr": "وولفرهامبتون × بورتسموث",
       "rawIsoTime": "2026-10-20T18:45:00.000Z",
-      "time": "1 - 0 (69')",
+      "time": "1 - 0 (71')",
       "isLive": true,
-      "rawMinute": 69,
+      "rawMinute": 71,
       "homeGoals": 1,
       "awayGoals": 0
     },
