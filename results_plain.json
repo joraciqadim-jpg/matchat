@@ -137,9 +137,9 @@
       "matchEn": "Al-Diriyah v Al-Riyadh",
       "matchAr": "الدرعية × الرياض",
       "rawIsoTime": "2026-10-20T15:00:00.000Z",
-      "time": "0 - 0 (10')",
+      "time": "0 - 0 (11')",
       "isLive": true,
-      "rawMinute": 10,
+      "rawMinute": 11,
       "homeGoals": 0,
       "awayGoals": 0
     },
@@ -150,11 +150,11 @@
       "matchEn": "Al-Taawoun v Al-Qadsia",
       "matchAr": "التعاون × القادسية",
       "rawIsoTime": "2026-10-20T15:10:00.000Z",
-      "time": "15:10",
-      "isLive": false,
-      "rawMinute": 0,
-      "homeGoals": "",
-      "awayGoals": ""
+      "time": "0 - 0 (1')",
+      "isLive": true,
+      "rawMinute": 1,
+      "homeGoals": 0,
+      "awayGoals": 0
     },
     {
       "matchId": 4789454,
@@ -228,11 +228,11 @@
       "matchEn": "Fortis (Bangladesh) v Goa (India)",
       "matchAr": "فورتيس (بنغلاديش) × غوا (الهند)",
       "rawIsoTime": "2026-10-20T13:25:00.000Z",
-      "time": "1 - 1 (85')",
+      "time": "1 - 2 (86')",
       "isLive": true,
-      "rawMinute": 85,
+      "rawMinute": 86,
       "homeGoals": 1,
-      "awayGoals": 1
+      "awayGoals": 2
     },
     {
       "matchId": 4875950,
@@ -241,9 +241,9 @@
       "matchEn": "FC Istiklol Dushanbe (Tajikistan) v Al-Arabi (Kuwait)",
       "matchAr": "استقلال دوشنبه (طاجيكستان) × العربي (الكويت)",
       "rawIsoTime": "2026-10-20T14:00:00.000Z",
-      "time": "1 - 0 (52')",
+      "time": "1 - 0 (53')",
       "isLive": true,
-      "rawMinute": 52,
+      "rawMinute": 53,
       "homeGoals": 1,
       "awayGoals": 0
     },
@@ -254,9 +254,9 @@
       "matchEn": "Asyut Petroleum v Zamalek",
       "matchAr": "بترول اسيوط × الزمالك",
       "rawIsoTime": "2026-10-20T14:00:00.000Z",
-      "time": "0 - 1 (52')",
+      "time": "0 - 1 (53')",
       "isLive": true,
-      "rawMinute": 52,
+      "rawMinute": 53,
       "homeGoals": 0,
       "awayGoals": 1
     },
@@ -280,9 +280,9 @@
       "matchEn": "Al Ahli Aleppo (Syria) v Ahal (Turkmenistan)",
       "matchAr": "أهلي حلب (سوريا) × أهال (تركمانستان)",
       "rawIsoTime": "2026-10-20T15:00:00.000Z",
-      "time": "0 - 0 (9')",
+      "time": "0 - 0 (11')",
       "isLive": true,
-      "rawMinute": 9,
+      "rawMinute": 11,
       "homeGoals": 0,
       "awayGoals": 0
     },
