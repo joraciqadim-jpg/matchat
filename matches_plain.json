@@ -474,12 +474,14 @@
         "📺 Eurosport 2 [Thor 0.8W 10903 H 27500]",
         "📺 Eurosport Norge [Thor 0.8W 10903 H 27500]",
         "📺 Nova Sport 2 CZ [Thor 0.8W 12380 V 30000]",
+        "📺 Eurosport 3 [Hotbird 13.0E 12015 H 27500]",
+        "📺 Magenta Sport 4 [Hotbird 13.0E 11938 H 30000]",
         "📺 Sky Sport Basket [Hotbird 13.0E 11843 V 29900]",
         "📺 Arena Premium 2 SRB [Eutelsat 16.0E 11429 V 28330]",
         "📺 Sport Klub 1 HRV [Eutelsat 16.0E 11471 H 30000]",
         "📺 Sport Klub 3 SLO [Eutelsat 16.0E 11231 V 42000]",
         "📺 BeIn Sports 1 France [Astra 19.2E 12168 V 29700]",
-        "📺 Nova Sport 2 CZ [Astra 23.5E 11973 V 29900]",
+        "📺 Nova Sport 2 CZ [Eutelsat 23.5E 11973 V 29900]",
         "📺 Bein Sport 8 [Badrsat 26.0E 10810 V 27500]",
         "📺 S Sport [Turksat 42.0E 11853 H 25000]"
       ]
@@ -493,6 +495,9 @@
       "channels": [
         "📺 Sport TV 2 [Hispasat 30W 12360 H 27500]",
         "📺 Bein Sport 8 [Nilesat 7.0W 11054 H 27500]",
+        "📺 5 Sport [Amos 4.0W 11259 V 30000]",
+        "📺 Eurosport 3 [Hotbird 13.0E 12015 H 27500]",
+        "📺 Magenta Sport 4 [Hotbird 13.0E 11938 H 30000]",
         "📺 Sky Sport Basket [Hotbird 13.0E 11843 V 29900]",
         "📺 Arena Premium 1 SRB [Eutelsat 16.0E 11366 V 30000]",
         "📺 Sport Klub 1 HRV [Eutelsat 16.0E 11471 H 30000]",
@@ -500,7 +505,6 @@
         "📺 BeIn Sports 1 France [Astra 19.2E 12168 V 29700]",
         "📺 Bein Sport 8 [Badrsat 26.0E 10810 V 27500]",
         "📺 Sky Sports Main Event [Astra 28.2E 12012 V 27500]",
-        "📺 Sky Sports+ ( Arena ) [Astra 28.2E 12226 H 27500]",
         "📺 SuperSport Action [Eutelsat 36.0E 12341 V 27500]",
         "📺 SuperSport Grandstand [Eutelsat 36.0E 12341 V 27500]",
         "📺 SuperSport Máximo 1 [Eutelsat 36.0E 12169 H 27500]",
