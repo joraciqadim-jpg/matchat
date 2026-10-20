@@ -7,9 +7,9 @@
       "matchEn": "Sabah (Azerbaijan) v Borussia Dortmund (Germany)",
       "matchAr": "صباح (أذربيجان) × بوروسيا دورتموند (ألمانيا)",
       "rawIsoTime": "2026-10-20T16:45:00.000Z",
-      "time": "1 - 1 (43')",
+      "time": "1 - 1 (46')",
       "isLive": true,
-      "rawMinute": 43,
+      "rawMinute": 46,
       "homeGoals": 1,
       "awayGoals": 1
     },
@@ -20,9 +20,9 @@
       "matchEn": "Fenerbahçe (Turkey) v Slavia Prague (Czech Republic)",
       "matchAr": "فنربخشة (تركيا) × سلافيا براغ (التشيك)",
       "rawIsoTime": "2026-10-20T16:45:00.000Z",
-      "time": "2 - 1 (43')",
-      "isLive": true,
-      "rawMinute": 43,
+      "time": "2 - 1 (halftime)",
+      "isLive": false,
+      "rawMinute": 45,
       "homeGoals": 2,
       "awayGoals": 1
     },
@@ -306,9 +306,9 @@
       "matchEn": "Tala'ea El Gaish v Pyramids FC",
       "matchAr": "طلائع الجيش × بيراميدز",
       "rawIsoTime": "2026-10-20T17:00:00.000Z",
-      "time": "0 - 2 (27')",
+      "time": "0 - 2 (30')",
       "isLive": true,
-      "rawMinute": 27,
+      "rawMinute": 30,
       "homeGoals": 0,
       "awayGoals": 2
     },
@@ -319,9 +319,9 @@
       "matchEn": "Wadi Degla v National Bank of Egypt",
       "matchAr": "وادي دجلة × البنك الاهلي",
       "rawIsoTime": "2026-10-20T17:00:00.000Z",
-      "time": "1 - 0 (27')",
+      "time": "1 - 0 (30')",
       "isLive": true,
-      "rawMinute": 27,
+      "rawMinute": 30,
       "homeGoals": 1,
       "awayGoals": 0
     },
@@ -332,11 +332,11 @@
       "matchEn": "Regar-TadAZ (Tajikistan) v Al-Qadsia (Kuwait)",
       "matchAr": "ريغار تاداز (طاجيكستان) × القادسية (الكويت)",
       "rawIsoTime": "2026-10-20T17:30:00.000Z",
-      "time": "17:30",
-      "isLive": false,
-      "rawMinute": 0,
-      "homeGoals": "",
-      "awayGoals": ""
+      "time": "0 - 0 (1')",
+      "isLive": true,
+      "rawMinute": 1,
+      "homeGoals": 0,
+      "awayGoals": 0
     }
   ]
 }
