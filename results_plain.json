@@ -306,10 +306,10 @@
       "matchEn": "Tala'ea El Gaish v Pyramids FC",
       "matchAr": "طلائع الجيش × بيراميدز",
       "rawIsoTime": "2026-10-20T17:00:00.000Z",
-      "time": "0 - 2 (33')",
-      "isLive": true,
-      "rawMinute": 33,
-      "homeGoals": 0,
+      "time": "1 - 2 (halftime)",
+      "isLive": false,
+      "rawMinute": 34,
+      "homeGoals": 1,
       "awayGoals": 2
     },
     {
@@ -319,9 +319,9 @@
       "matchEn": "Wadi Degla v National Bank of Egypt",
       "matchAr": "وادي دجلة × البنك الاهلي",
       "rawIsoTime": "2026-10-20T17:00:00.000Z",
-      "time": "1 - 0 (33')",
-      "isLive": true,
-      "rawMinute": 33,
+      "time": "1 - 0 (halftime)",
+      "isLive": false,
+      "rawMinute": 34,
       "homeGoals": 1,
       "awayGoals": 0
     },
@@ -332,9 +332,9 @@
       "matchEn": "Regar-TadAZ (Tajikistan) v Al-Qadsia (Kuwait)",
       "matchAr": "ريغار تاداز (طاجيكستان) × القادسية (الكويت)",
       "rawIsoTime": "2026-10-20T17:30:00.000Z",
-      "time": "0 - 0 (4')",
-      "isLive": true,
-      "rawMinute": 4,
+      "time": "0 - 0 (halftime)",
+      "isLive": false,
+      "rawMinute": 5,
       "homeGoals": 0,
       "awayGoals": 0
     }
