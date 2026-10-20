@@ -189,9 +189,9 @@
       "matchEn": "Asyut Petroleum v Zamalek",
       "matchAr": "بترول اسيوط × الزمالك",
       "rawIsoTime": "2026-10-20T14:00:00.000Z",
-      "time": "0 - 0 (3')",
+      "time": "0 - 0 (13')",
       "isLive": true,
-      "rawMinute": 3,
+      "rawMinute": 13,
       "homeGoals": 0,
       "awayGoals": 0
     },
@@ -202,11 +202,11 @@
       "matchEn": "ZED FC v Modern Sport",
       "matchAr": "زد × مودرن سبورت",
       "rawIsoTime": "2026-10-20T14:00:00.000Z",
-      "time": "14:00",
-      "isLive": false,
-      "rawMinute": 0,
-      "homeGoals": "",
-      "awayGoals": ""
+      "time": "0 - 0 (8')",
+      "isLive": true,
+      "rawMinute": 8,
+      "homeGoals": 0,
+      "awayGoals": 0
     },
     {
       "matchId": 4804711,
