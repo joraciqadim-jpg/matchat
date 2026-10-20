@@ -33,11 +33,11 @@
       "matchEn": "Paris Saint-Germain (France) v Barcelona (Spain)",
       "matchAr": "باريس سان جيرمان (فرنسا) × برشلونة (إسبانيا)",
       "rawIsoTime": "2026-10-20T19:00:00.000Z",
-      "time": "19:00",
+      "time": "0 - 0 (halftime)",
       "isLive": false,
-      "rawMinute": 0,
-      "homeGoals": "",
-      "awayGoals": ""
+      "rawMinute": 16,
+      "homeGoals": 0,
+      "awayGoals": 0
     },
     {
       "matchId": 4828459,
@@ -46,11 +46,11 @@
       "matchEn": "Porto (Portugal) v PSV Eindhoven (Netherlands)",
       "matchAr": "بورتو (البرتغال) × أيندهوفن (هولندا)",
       "rawIsoTime": "2026-10-20T19:00:00.000Z",
-      "time": "19:00",
+      "time": "0 - 0 (halftime)",
       "isLive": false,
-      "rawMinute": 0,
-      "homeGoals": "",
-      "awayGoals": ""
+      "rawMinute": 18,
+      "homeGoals": 0,
+      "awayGoals": 0
     },
     {
       "matchId": 4828464,
@@ -59,11 +59,11 @@
       "matchEn": "AS Roma (Italy) v Slovan Bratislava (Slovakia)",
       "matchAr": "روما (إيطاليا) × سلوفان براتيسلافا (سلوفاكيا)",
       "rawIsoTime": "2026-10-20T19:00:00.000Z",
-      "time": "19:00",
+      "time": "0 - 0 (halftime)",
       "isLive": false,
-      "rawMinute": 0,
-      "homeGoals": "",
-      "awayGoals": ""
+      "rawMinute": 18,
+      "homeGoals": 0,
+      "awayGoals": 0
     },
     {
       "matchId": 4828460,
@@ -72,11 +72,11 @@
       "matchEn": "VfB Stuttgart (Germany) v Atlético Madrid (Spain)",
       "matchAr": "شتوتجارت (ألمانيا) × أتلتيكو مدريد (إسبانيا)",
       "rawIsoTime": "2026-10-20T19:00:00.000Z",
-      "time": "19:00",
+      "time": "0 - 0 (halftime)",
       "isLive": false,
-      "rawMinute": 0,
-      "homeGoals": "",
-      "awayGoals": ""
+      "rawMinute": 18,
+      "homeGoals": 0,
+      "awayGoals": 0
     },
     {
       "matchId": 4828458,
@@ -85,11 +85,11 @@
       "matchEn": "Liverpool (England) v Villarreal (Spain)",
       "matchAr": "ليفربول (إنجلترا) × فياريال (إسبانيا)",
       "rawIsoTime": "2026-10-20T19:00:00.000Z",
-      "time": "19:00",
+      "time": "0 - 1 (halftime)",
       "isLive": false,
-      "rawMinute": 0,
-      "homeGoals": "",
-      "awayGoals": ""
+      "rawMinute": 18,
+      "homeGoals": 0,
+      "awayGoals": 1
     },
     {
       "matchId": 4828463,
@@ -98,11 +98,11 @@
       "matchEn": "Manchester City (England) v AEK Athens (Greece)",
       "matchAr": "مانشستر سيتي (إنجلترا) × أيك أثينا (اليونان)",
       "rawIsoTime": "2026-10-20T19:00:00.000Z",
-      "time": "19:00",
+      "time": "1 - 0 (halftime)",
       "isLive": false,
-      "rawMinute": 0,
-      "homeGoals": "",
-      "awayGoals": ""
+      "rawMinute": 17,
+      "homeGoals": 1,
+      "awayGoals": 0
     },
     {
       "matchId": 4828462,
@@ -111,11 +111,11 @@
       "matchEn": "Napoli (Italy) v Bodø/Glimt (Norway)",
       "matchAr": "نابولي (إيطاليا) × بودو جليمت (النرويج)",
       "rawIsoTime": "2026-10-20T19:00:00.000Z",
-      "time": "19:00",
+      "time": "1 - 0 (halftime)",
       "isLive": false,
-      "rawMinute": 0,
-      "homeGoals": "",
-      "awayGoals": ""
+      "rawMinute": 16,
+      "homeGoals": 1,
+      "awayGoals": 0
     },
     {
       "matchId": 4857199,
@@ -163,11 +163,11 @@
       "matchEn": "Al-Ettifaq v Al-Ittihad",
       "matchAr": "الاتفاق × الاتحاد",
       "rawIsoTime": "2026-10-20T18:00:00.000Z",
-      "time": "1 - 1 (halftime)",
+      "time": "1 - 2 (halftime)",
       "isLive": false,
-      "rawMinute": 52,
+      "rawMinute": 56,
       "homeGoals": 1,
-      "awayGoals": 1
+      "awayGoals": 2
     },
     {
       "matchId": 4789450,
@@ -178,7 +178,7 @@
       "rawIsoTime": "2026-10-20T18:00:00.000Z",
       "time": "0 - 0 (halftime)",
       "isLive": false,
-      "rawMinute": 45,
+      "rawMinute": 55,
       "homeGoals": 0,
       "awayGoals": 0
     },
@@ -191,7 +191,7 @@
       "rawIsoTime": "2026-10-20T18:45:00.000Z",
       "time": "0 - 0 (halftime)",
       "isLive": false,
-      "rawMinute": 7,
+      "rawMinute": 33,
       "homeGoals": 0,
       "awayGoals": 0
     },
@@ -334,7 +334,7 @@
       "rawIsoTime": "2026-10-20T17:30:00.000Z",
       "time": "0 - 1 (halftime)",
       "isLive": false,
-      "rawMinute": 61,
+      "rawMinute": 88,
       "homeGoals": 0,
       "awayGoals": 1
     }
