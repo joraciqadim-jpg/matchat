@@ -35,7 +35,7 @@
       "rawIsoTime": "2026-10-20T19:00:00.000Z",
       "time": "1 - 0 (halftime)",
       "isLive": false,
-      "rawMinute": 42,
+      "rawMinute": 45,
       "homeGoals": 1,
       "awayGoals": 0
     },
@@ -48,7 +48,7 @@
       "rawIsoTime": "2026-10-20T19:00:00.000Z",
       "time": "0 - 0 (halftime)",
       "isLive": false,
-      "rawMinute": 44,
+      "rawMinute": 45,
       "homeGoals": 0,
       "awayGoals": 0
     },
@@ -61,7 +61,7 @@
       "rawIsoTime": "2026-10-20T19:00:00.000Z",
       "time": "2 - 0 (halftime)",
       "isLive": false,
-      "rawMinute": 44,
+      "rawMinute": 45,
       "homeGoals": 2,
       "awayGoals": 0
     },
@@ -85,10 +85,10 @@
       "matchEn": "Liverpool (England) v Villarreal (Spain)",
       "matchAr": "ليفربول (إنجلترا) × فياريال (إسبانيا)",
       "rawIsoTime": "2026-10-20T19:00:00.000Z",
-      "time": "1 - 2 (halftime)",
+      "time": "2 - 2 (halftime)",
       "isLive": false,
-      "rawMinute": 44,
-      "homeGoals": 1,
+      "rawMinute": 45,
+      "homeGoals": 2,
       "awayGoals": 2
     },
     {
@@ -100,7 +100,7 @@
       "rawIsoTime": "2026-10-20T19:00:00.000Z",
       "time": "2 - 0 (halftime)",
       "isLive": false,
-      "rawMinute": 43,
+      "rawMinute": 45,
       "homeGoals": 2,
       "awayGoals": 0
     },
@@ -113,7 +113,7 @@
       "rawIsoTime": "2026-10-20T19:00:00.000Z",
       "time": "2 - 1 (halftime)",
       "isLive": false,
-      "rawMinute": 42,
+      "rawMinute": 45,
       "homeGoals": 2,
       "awayGoals": 1
     },
@@ -163,11 +163,11 @@
       "matchEn": "Al-Ettifaq v Al-Ittihad",
       "matchAr": "الاتفاق × الاتحاد",
       "rawIsoTime": "2026-10-20T18:00:00.000Z",
-      "time": "1 - 3 (halftime)",
-      "isLive": false,
-      "rawMinute": 82,
+      "time": "1 - 4 (90')",
+      "isLive": true,
+      "rawMinute": 90,
       "homeGoals": 1,
-      "awayGoals": 3
+      "awayGoals": 4
     },
     {
       "matchId": 4789450,
@@ -176,9 +176,9 @@
       "matchEn": "Al-Nassr v NEOM SC",
       "matchAr": "النصر × نيوم",
       "rawIsoTime": "2026-10-20T18:00:00.000Z",
-      "time": "1 - 0 (halftime)",
-      "isLive": false,
-      "rawMinute": 81,
+      "time": "1 - 0 (89')",
+      "isLive": true,
+      "rawMinute": 89,
       "homeGoals": 1,
       "awayGoals": 0
     },
@@ -189,9 +189,9 @@
       "matchEn": "Wolverhampton Wanderers v Portsmouth",
       "matchAr": "وولفرهامبتون × بورتسموث",
       "rawIsoTime": "2026-10-20T18:45:00.000Z",
-      "time": "0 - 0 (halftime)",
-      "isLive": false,
-      "rawMinute": 45,
+      "time": "0 - 0 (49')",
+      "isLive": true,
+      "rawMinute": 49,
       "homeGoals": 0,
       "awayGoals": 0
     },
