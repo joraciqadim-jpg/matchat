@@ -150,9 +150,9 @@
       "matchEn": "Al-Taawoun v Al-Qadsia",
       "matchAr": "التعاون × القادسية",
       "rawIsoTime": "2026-10-20T15:10:00.000Z",
-      "time": "0 - 0 (49')",
-      "isLive": true,
-      "rawMinute": 49,
+      "time": "0 - 0 (halftime)",
+      "isLive": false,
+      "rawMinute": 45,
       "homeGoals": 0,
       "awayGoals": 0
     },
@@ -267,10 +267,10 @@
       "matchEn": "ZED FC v Modern Sport",
       "matchAr": "زد × مودرن سبورت",
       "rawIsoTime": "2026-10-20T14:00:00.000Z",
-      "time": "2 - 2 (93')",
+      "time": "3 - 2 (95')",
       "isLive": true,
-      "rawMinute": 93,
-      "homeGoals": 2,
+      "rawMinute": 95,
+      "homeGoals": 3,
       "awayGoals": 2
     },
     {
