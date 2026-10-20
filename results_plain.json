@@ -33,10 +33,10 @@
       "matchEn": "Paris Saint-Germain (France) v Barcelona (Spain)",
       "matchAr": "باريس سان جيرمان (فرنسا) × برشلونة (إسبانيا)",
       "rawIsoTime": "2026-10-20T19:00:00.000Z",
-      "time": "0 - 0 (halftime)",
+      "time": "1 - 0 (halftime)",
       "isLive": false,
-      "rawMinute": 16,
-      "homeGoals": 0,
+      "rawMinute": 42,
+      "homeGoals": 1,
       "awayGoals": 0
     },
     {
@@ -48,7 +48,7 @@
       "rawIsoTime": "2026-10-20T19:00:00.000Z",
       "time": "0 - 0 (halftime)",
       "isLive": false,
-      "rawMinute": 18,
+      "rawMinute": 44,
       "homeGoals": 0,
       "awayGoals": 0
     },
@@ -59,10 +59,10 @@
       "matchEn": "AS Roma (Italy) v Slovan Bratislava (Slovakia)",
       "matchAr": "روما (إيطاليا) × سلوفان براتيسلافا (سلوفاكيا)",
       "rawIsoTime": "2026-10-20T19:00:00.000Z",
-      "time": "0 - 0 (halftime)",
+      "time": "2 - 0 (halftime)",
       "isLive": false,
-      "rawMinute": 18,
-      "homeGoals": 0,
+      "rawMinute": 44,
+      "homeGoals": 2,
       "awayGoals": 0
     },
     {
@@ -72,10 +72,10 @@
       "matchEn": "VfB Stuttgart (Germany) v Atlético Madrid (Spain)",
       "matchAr": "شتوتجارت (ألمانيا) × أتلتيكو مدريد (إسبانيا)",
       "rawIsoTime": "2026-10-20T19:00:00.000Z",
-      "time": "0 - 0 (halftime)",
+      "time": "1 - 0 (halftime)",
       "isLive": false,
-      "rawMinute": 18,
-      "homeGoals": 0,
+      "rawMinute": 45,
+      "homeGoals": 1,
       "awayGoals": 0
     },
     {
@@ -85,11 +85,11 @@
       "matchEn": "Liverpool (England) v Villarreal (Spain)",
       "matchAr": "ليفربول (إنجلترا) × فياريال (إسبانيا)",
       "rawIsoTime": "2026-10-20T19:00:00.000Z",
-      "time": "0 - 1 (halftime)",
+      "time": "1 - 2 (halftime)",
       "isLive": false,
-      "rawMinute": 18,
-      "homeGoals": 0,
-      "awayGoals": 1
+      "rawMinute": 44,
+      "homeGoals": 1,
+      "awayGoals": 2
     },
     {
       "matchId": 4828463,
@@ -98,10 +98,10 @@
       "matchEn": "Manchester City (England) v AEK Athens (Greece)",
       "matchAr": "مانشستر سيتي (إنجلترا) × أيك أثينا (اليونان)",
       "rawIsoTime": "2026-10-20T19:00:00.000Z",
-      "time": "1 - 0 (halftime)",
+      "time": "2 - 0 (halftime)",
       "isLive": false,
-      "rawMinute": 17,
-      "homeGoals": 1,
+      "rawMinute": 43,
+      "homeGoals": 2,
       "awayGoals": 0
     },
     {
@@ -111,11 +111,11 @@
       "matchEn": "Napoli (Italy) v Bodø/Glimt (Norway)",
       "matchAr": "نابولي (إيطاليا) × بودو جليمت (النرويج)",
       "rawIsoTime": "2026-10-20T19:00:00.000Z",
-      "time": "1 - 0 (halftime)",
+      "time": "2 - 1 (halftime)",
       "isLive": false,
-      "rawMinute": 16,
-      "homeGoals": 1,
-      "awayGoals": 0
+      "rawMinute": 42,
+      "homeGoals": 2,
+      "awayGoals": 1
     },
     {
       "matchId": 4857199,
@@ -163,11 +163,11 @@
       "matchEn": "Al-Ettifaq v Al-Ittihad",
       "matchAr": "الاتفاق × الاتحاد",
       "rawIsoTime": "2026-10-20T18:00:00.000Z",
-      "time": "1 - 2 (halftime)",
+      "time": "1 - 3 (halftime)",
       "isLive": false,
-      "rawMinute": 56,
+      "rawMinute": 82,
       "homeGoals": 1,
-      "awayGoals": 2
+      "awayGoals": 3
     },
     {
       "matchId": 4789450,
@@ -176,10 +176,10 @@
       "matchEn": "Al-Nassr v NEOM SC",
       "matchAr": "النصر × نيوم",
       "rawIsoTime": "2026-10-20T18:00:00.000Z",
-      "time": "0 - 0 (halftime)",
+      "time": "1 - 0 (halftime)",
       "isLive": false,
-      "rawMinute": 55,
-      "homeGoals": 0,
+      "rawMinute": 81,
+      "homeGoals": 1,
       "awayGoals": 0
     },
     {
@@ -191,7 +191,7 @@
       "rawIsoTime": "2026-10-20T18:45:00.000Z",
       "time": "0 - 0 (halftime)",
       "isLive": false,
-      "rawMinute": 33,
+      "rawMinute": 45,
       "homeGoals": 0,
       "awayGoals": 0
     },
@@ -306,11 +306,11 @@
       "matchEn": "Tala'ea El Gaish v Pyramids FC",
       "matchAr": "طلائع الجيش × بيراميدز",
       "rawIsoTime": "2026-10-20T17:00:00.000Z",
-      "time": "1 - 3 (halftime)",
+      "time": "1 - 4 (done)",
       "isLive": false,
-      "rawMinute": 88,
+      "rawMinute": 0,
       "homeGoals": 1,
-      "awayGoals": 3
+      "awayGoals": 4
     },
     {
       "matchId": 4804710,
@@ -319,9 +319,9 @@
       "matchEn": "Wadi Degla v National Bank of Egypt",
       "matchAr": "وادي دجلة × البنك الاهلي",
       "rawIsoTime": "2026-10-20T17:00:00.000Z",
-      "time": "1 - 1 (halftime)",
+      "time": "1 - 1 (done)",
       "isLive": false,
-      "rawMinute": 86,
+      "rawMinute": 0,
       "homeGoals": 1,
       "awayGoals": 1
     },
@@ -332,9 +332,9 @@
       "matchEn": "Regar-TadAZ (Tajikistan) v Al-Qadsia (Kuwait)",
       "matchAr": "ريغار تاداز (طاجيكستان) × القادسية (الكويت)",
       "rawIsoTime": "2026-10-20T17:30:00.000Z",
-      "time": "0 - 1 (halftime)",
+      "time": "0 - 1 (done)",
       "isLive": false,
-      "rawMinute": 88,
+      "rawMinute": 0,
       "homeGoals": 0,
       "awayGoals": 1
     }
