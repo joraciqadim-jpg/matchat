@@ -308,29 +308,6 @@
     {
       "tournamentEn": "🇸🇦 Saudi Pro League",
       "tournamentAr": "🇸🇦 الدوري السعودي للمحترفين",
-      "matchEn": "Diriyah v Al-Riyadh",
-      "matchAr": "الدرعية × الرياض",
-      "time": "15:00",
-      "channels": [
-        "📺 Thmanyah 3 [Badrsat 26.0E 11919 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🇸🇦 Saudi Pro League",
-      "tournamentAr": "🇸🇦 الدوري السعودي للمحترفين",
-      "matchEn": "Al-Taawoun v Al-Qadsiah",
-      "matchAr": "التعاون × القادسية",
-      "time": "15:10",
-      "channels": [
-        "📺 Sportitalia HD [Eutelsat 9.0E 12341 V 31400]",
-        "📺 Thmanyah 2 [Badrsat 26.0E 11919 H 27500]",
-        "📺 ESPN South Africa [Eutelsat 36.0E 12476 H 27500]",
-        "📺 HT Spor [Turksat 42.0E 11837 V 30000]"
-      ]
-    },
-    {
-      "tournamentEn": "🇸🇦 Saudi Pro League",
-      "tournamentAr": "🇸🇦 الدوري السعودي للمحترفين",
       "matchEn": "Al-Ettifaq v Al-Ittihad",
       "matchAr": "الاتفاق × الاتحاد",
       "time": "18:00",
@@ -378,16 +355,6 @@
       ]
     },
     {
-      "tournamentEn": "🇸🇦 Saudi Arabia Division 1",
-      "tournamentAr": "🇸🇦 الدوري السعودي - الدرجة الأولى",
-      "matchEn": "Hajer v Al-Najma",
-      "matchAr": "هجر × النجمة",
-      "time": "14:45",
-      "channels": [
-        "📺 Thmanyah 1 [Badrsat 26.0E 11919 H 27500]"
-      ]
-    },
-    {
       "tournamentEn": "🛡️ AFC Challenge League",
       "tournamentAr": "🛡️ دوري التحدي الآسيوي",
       "matchEn": "Regar-TadAZ (Tajikistan) v Al-Qadsia (Kuwait)",
@@ -398,18 +365,6 @@
         "📺 الكويت الرياضية 1 [Nilesat 7.0W 12169 V 27500]",
         "📺 الكويت الرياضية 1 [Badrsat 26.0E 12523 H 27500]",
         "📺 Futbol [Al-Yah 52.5E 11785 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🏆 International Youth U17 Gulf Cup 2026",
-      "tournamentAr": "🏆 كأس الخليج الدولي للشباب تحت 17 سنة 2026",
-      "matchEn": "Egypt v Kuwait",
-      "matchAr": "مصر × الكويت",
-      "time": "14:45",
-      "channels": [
-        "📺 Al Kass One [Nilesat 7.0W 11919 H 27500]",
-        "📺 Al Kass One [Badrsat 26.0E 12245 V 27500]",
-        "📺 Al Kass One [Badrsat 26.0E 10770 V 27500]"
       ]
     },
     {
