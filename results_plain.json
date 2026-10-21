@@ -7,11 +7,11 @@
       "matchEn": "15 de Agosto (Equatorial Guinea) v Simba (Tanzania)",
       "matchAr": "15 دي أجوستو (غينيا الإستوائية) × سيمبا (تنزانيا)",
       "rawIsoTime": "2026-10-21T12:00:00.000Z",
-      "time": "12:00 (canceled)",
-      "isLive": false,
-      "rawMinute": 0,
-      "homeGoals": "",
-      "awayGoals": ""
+      "time": "0 - 5 (85')",
+      "isLive": true,
+      "rawMinute": 85,
+      "homeGoals": 0,
+      "awayGoals": 5
     },
     {
       "matchId": 4854346,
@@ -384,9 +384,9 @@
       "matchEn": "Tainan City (Taiwan) v Borneo Samarinda (Indonesia)",
       "matchAr": "تاينان سيتي (تايوان) × بورنيو ساماريندا (إندونيسيا)",
       "rawIsoTime": "2026-10-21T12:00:00.000Z",
-      "time": "1 - 3 (88')",
+      "time": "1 - 3 (90')",
       "isLive": true,
-      "rawMinute": 88,
+      "rawMinute": 90,
       "homeGoals": 1,
       "awayGoals": 3
     },
@@ -397,9 +397,9 @@
       "matchEn": "Hang Yuen (Taiwan) v Manila Digger (Philippines)",
       "matchAr": "هونغ يوان (تايوان) × مانيلا ديغر (الفلبين)",
       "rawIsoTime": "2026-10-21T12:30:00.000Z",
-      "time": "1 - 1 (58')",
+      "time": "1 - 1 (60')",
       "isLive": true,
-      "rawMinute": 58,
+      "rawMinute": 60,
       "homeGoals": 1,
       "awayGoals": 1
     },
