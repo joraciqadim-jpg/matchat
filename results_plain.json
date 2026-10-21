@@ -410,11 +410,11 @@
       "matchEn": "Ghazl El Mahalla v Al Ittihad Alexandria",
       "matchAr": "غزل المحلة × الاتحاد السكندري",
       "rawIsoTime": "2026-10-21T14:00:00.000Z",
-      "time": "2 - 0 (halftime)",
-      "isLive": false,
-      "rawMinute": 45,
+      "time": "2 - 1 (51')",
+      "isLive": true,
+      "rawMinute": 51,
       "homeGoals": 2,
-      "awayGoals": 0
+      "awayGoals": 1
     },
     {
       "matchId": 4800302,
