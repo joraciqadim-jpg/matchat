@@ -1,5 +1,5 @@
 {
-  "timestamp": 1792607057942,
+  "timestamp": 1792607126051,
   "matches": [
     {
       "matchId": 4869894,
@@ -47,9 +47,9 @@
       "matchEn": "Lille (France) v Galatasaray (Turkey)",
       "matchAr": "ليل (فرنسا) × جلطة سراي (تركيا)",
       "rawIsoTime": "2026-10-21T16:45:00.000Z",
-      "time": "2 - 4 (82')",
+      "time": "2 - 4 (83')",
       "isLive": true,
-      "rawMinute": 82,
+      "rawMinute": 83,
       "homeGoals": 2,
       "awayGoals": 4
     },
@@ -151,10 +151,10 @@
       "matchEn": "Levante v Athletic Bilbao",
       "matchAr": "ليفانتي × أتلتيك بلباو",
       "rawIsoTime": "2026-10-21T18:00:00.000Z",
-      "time": "1 - 0 (22')",
+      "time": "2 - 0 (22')",
       "isLive": true,
       "rawMinute": 22,
-      "homeGoals": 1,
+      "homeGoals": 2,
       "awayGoals": 0
     },
     {
@@ -541,9 +541,9 @@
       "matchEn": "Ceramica Cleopatra v Montakhab El Suez Petrojet",
       "matchAr": "سيراميكا كليوباترا × منتخب السويس بتروجت",
       "rawIsoTime": "2026-10-21T17:00:00.000Z",
-      "time": "1 - 0 (62')",
+      "time": "1 - 0 (63')",
       "isLive": true,
-      "rawMinute": 62,
+      "rawMinute": 63,
       "homeGoals": 1,
       "awayGoals": 0
     },
