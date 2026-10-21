@@ -1,5 +1,5 @@
 {
-  "timestamp": 1792604835935,
+  "timestamp": 1792604955215,
   "matches": [
     {
       "matchId": 4869894,
@@ -21,9 +21,9 @@
       "matchEn": "Young Africans (Tanzania) v Kifaa (Mauritania)",
       "matchAr": "يانج افريكانز (تنزانيا) × كيفا (موريتانيا)",
       "rawIsoTime": "2026-10-21T16:00:00.000Z",
-      "time": "4 - 1 (88')",
+      "time": "4 - 1 (90')",
       "isLive": true,
-      "rawMinute": 88,
+      "rawMinute": 90,
       "homeGoals": 4,
       "awayGoals": 1
     },
@@ -34,9 +34,9 @@
       "matchEn": "Como (Italy) v Manchester United (England)",
       "matchAr": "كومو (إيطاليا) × مانشستر يونايتد (إنجلترا)",
       "rawIsoTime": "2026-10-21T16:45:00.000Z",
-      "time": "1 - 0 (halftime)",
+      "time": "1 - 0 (46')",
       "isLive": true,
-      "rawMinute": 45,
+      "rawMinute": 46,
       "homeGoals": 1,
       "awayGoals": 0
     },
@@ -47,9 +47,9 @@
       "matchEn": "Lille (France) v Galatasaray (Turkey)",
       "matchAr": "ليل (فرنسا) × جلطة سراي (تركيا)",
       "rawIsoTime": "2026-10-21T16:45:00.000Z",
-      "time": "2 - 2 (halftime)",
+      "time": "2 - 2 (47')",
       "isLive": true,
-      "rawMinute": 45,
+      "rawMinute": 47,
       "homeGoals": 2,
       "awayGoals": 2
     },
@@ -450,9 +450,9 @@
       "matchEn": "Al Ahly v Al Qanah",
       "matchAr": "الأهلي × القناة",
       "rawIsoTime": "2026-10-21T17:00:00.000Z",
-      "time": "2 - 1 (46')",
+      "time": "2 - 1 (48')",
       "isLive": true,
-      "rawMinute": 46,
+      "rawMinute": 48,
       "homeGoals": 2,
       "awayGoals": 1
     },
@@ -541,9 +541,9 @@
       "matchEn": "Ceramica Cleopatra v Montakhab El Suez Petrojet",
       "matchAr": "سيراميكا كليوباترا × منتخب السويس بتروجت",
       "rawIsoTime": "2026-10-21T17:00:00.000Z",
-      "time": "1 - 0 (48')",
+      "time": "1 - 0 (50')",
       "isLive": true,
-      "rawMinute": 48,
+      "rawMinute": 50,
       "homeGoals": 1,
       "awayGoals": 0
     },
