@@ -1,4 +1,389 @@
 {
+  "Ziggo Sport 3": {
+    "satellites": [
+      {
+        "satellite": "Astra (23.5E)",
+        "frequency": "12129 V 29900"
+      }
+    ]
+  },
+  "Real Madrid TV": {
+    "satellites": [
+      {
+        "satellite": "Astra (19.2E)",
+        "frequency": "11009 V 23500"
+      }
+    ]
+  },
+  "Blue Sport 2 Live HDR": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Blue Sport 8 Live HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Pickx+ Sports 2 HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Blue Sport 9 Live HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Cytavision Sports 4K 2 UHD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Pickx+ Sports 3 HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Setanta Sports 2 Georgia HD": {
+    "satellites": [
+      {
+        "satellite": "Kazsat (58.5E)",
+        "frequency": "10804 V 30000"
+      }
+    ]
+  },
+  "TSN Malta 7 HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Canal+ Sport 1 Polska HD": {
+    "satellites": [
+      {
+        "satellite": "Hotbird (13.0E)",
+        "frequency": "11278 V 27500"
+      }
+    ]
+  },
+  "M+ LaLiga HDR": {
+    "satellites": [
+      {
+        "satellite": "Astra (19.2E)",
+        "frequency": "10818 V 22000"
+      }
+    ]
+  },
+  "SportKlub 5 Slovenija": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat (16.0E)",
+        "frequency": "11366 V 30000"
+      }
+    ]
+  },
+  "Blue Sport 4 Live HDR": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Blue Sport 6 Live HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Blue Sport D 2 HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Orange Fútbol 1 HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Pickx+ Sports 4 HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Blue Sport 1 Live UHD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Blue Sport 3 Live HDR": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Blue Sport D 1 HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Jurnal TV Moldova": {
+    "satellites": [
+      {
+        "satellite": "Astra (31.5E)",
+        "frequency": "12070 H 30000"
+      }
+    ]
+  },
+  "Blue Sport 3 Live HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Cytavision Sports 5 HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Pickx+ Sports 6 HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Prime Video Italia [$]": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "TSN Malta 5 HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Ziggo Sport 5": {
+    "satellites": [
+      {
+        "satellite": "Astra (23.5E)",
+        "frequency": "12129 V 29900"
+      }
+    ]
+  },
+  "Blue Sport 1 Live HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Cytavision Sports 6 HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "MTV Urheilu 3 Suomi HD": {
+    "satellites": [
+      {
+        "satellite": "Thor (0.8W)",
+        "frequency": "11727 V 28000"
+      }
+    ]
+  },
+  "Pickx+ Sports 7 HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Q Sport Football HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Sky Sport Max Italia HD": {
+    "satellites": [
+      {
+        "satellite": "Hotbird (13.0E)",
+        "frequency": "12073 V 29900"
+      }
+    ]
+  },
+  "Tring Sport 6 HD": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat (16.0E)",
+        "frequency": "11366 V 30000"
+      }
+    ]
+  },
+  "TSN Malta 1 HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "beIN Sports MENA 9 HD": {
+    "satellites": [
+      {
+        "satellite": "Eshail (25.5E)",
+        "frequency": "11230 H 27500"
+      }
+    ]
+  },
+  "Blue Sport 5 Live HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Canal+ Extra 7 Polska HD": {
+    "satellites": [
+      {
+        "satellite": "Hotbird (13.0E)",
+        "frequency": "11278 V 27500"
+      }
+    ]
+  },
+  "Pickx+ Sports 8": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Tring Sport 5 HD": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat (16.0E)",
+        "frequency": "11366 V 30000"
+      }
+    ]
+  },
+  "TSN Malta 8 HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Arena Premium 4 BiH HD": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat (16.0E)",
+        "frequency": "11366 V 30000"
+      }
+    ]
+  },
+  "Blue Sport 4 Live HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Canal+ Extra 6 Polska HD": {
+    "satellites": [
+      {
+        "satellite": "Hotbird (13.0E)",
+        "frequency": "11278 V 27500"
+      }
+    ]
+  },
+  "Cytavision Sports 7 HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Pickx+ Sports 5 HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Prima Sport RO 5 HD": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat (16.0E)",
+        "frequency": "11512 H 30000"
+      }
+    ]
+  },
+  "Arena Premium 5 BiH HD": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat (16.0E)",
+        "frequency": "11366 V 30000"
+      }
+    ]
+  },
+  "Blue Sport 2 Live HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Canal+ Extra 5 Polska HD": {
+    "satellites": [
+      {
+        "satellite": "Hotbird (13.0E)",
+        "frequency": "11278 V 27500"
+      }
+    ]
+  },
+  "Canal+ France UHD HDR": {
+    "satellites": [
+      {
+        "satellite": "Astra (19.2E)",
+        "frequency": "12012 V 29700"
+      }
+    ]
+  }
+,
   "M+ #Vamos Bar 1": {
     "satellites": [
       {
