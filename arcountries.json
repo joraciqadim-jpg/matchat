@@ -1,4 +1,196 @@
 {
+  "فاسكو دي غاما": {
+    "en": "Vasco da Gama",
+    "ar": "فاسكو دي غاما",
+    "countryen": "Brazil",
+    "countryar": "البرازيل"
+  },
+  "بوكا جونيورز": {
+    "en": "Boca Juniors",
+    "ar": "بوكا جونيورز",
+    "countryen": "Argentina",
+    "countryar": "الأرجنتين"
+  },
+  "يانغون يونايتد": {
+    "en": "Yangon United",
+    "ar": "يانغون يونايتد",
+    "countryen": "Myanmar",
+    "countryar": "ميانمار"
+  },
+  "وان تاغويغ": {
+    "en": "One Taguig",
+    "ar": "وان تاغويغ",
+    "countryen": "Philippines",
+    "countryar": "الفلبين"
+  },
+  "كاسوكا": {
+    "en": "Kasuka",
+    "ar": "كاسوكا",
+    "countryen": "Brunei",
+    "countryar": "بروناي"
+  },
+  "شان يونايتد": {
+    "en": "Shan United",
+    "ar": "شان يونايتد",
+    "countryen": "Myanmar",
+    "countryar": "ميانمار"
+  },
+  "15 دي أجوستو": {
+    "en": "15 de Agosto",
+    "ar": "15 دي أجوستو",
+    "countryen": "Paraguay",
+    "countryar": "باراغواي"
+  },
+  "سيمبا": {
+    "en": "Simba",
+    "ar": "سيمبا",
+    "countryen": "Tanzania",
+    "countryar": "تنزانيا"
+  },
+  "تاينان سيتي": {
+    "en": "Tainan City",
+    "ar": "تاينان سيتي",
+    "countryen": "Taiwan",
+    "countryar": "تايوان"
+  },
+  "بورنيو ساماريندا": {
+    "en": "Borneo Samarinda",
+    "ar": "بورنيو ساماريندا",
+    "countryen": "Indonesia",
+    "countryar": "إندونيسيا"
+  },
+  "هونغ يوان": {
+    "en": "Hang Yuen",
+    "ar": "هونغ يوان",
+    "countryen": "Taiwan",
+    "countryar": "تايوان"
+  },
+  "مانيلا ديغر": {
+    "en": "Manila Digger",
+    "ar": "مانيلا ديغر",
+    "countryen": "Philippines",
+    "countryar": "الفلبين"
+  },
+  "كومو": {
+    "en": "Como",
+    "ar": "كومو",
+    "countryen": "Italy",
+    "countryar": "إيطاليا"
+  },
+  "مانشستر يونايتد": {
+    "en": "Manchester United",
+    "ar": "مانشستر يونايتد",
+    "countryen": "England",
+    "countryar": "إنجلترا"
+  },
+  "ليل": {
+    "en": "Lille",
+    "ar": "ليل",
+    "countryen": "France",
+    "countryar": "فرنسا"
+  },
+  "جلطة سراي": {
+    "en": "Galatasaray",
+    "ar": "جلطة سراي",
+    "countryen": "Turkey",
+    "countryar": "تركيا"
+  },
+  "أستون فيلا": {
+    "en": "Aston Villa",
+    "ar": "أستون فيلا",
+    "countryen": "England",
+    "countryar": "إنجلترا"
+  },
+  "فايكينج": {
+    "en": "Viking",
+    "ar": "فايكينج",
+    "countryen": "Norway",
+    "countryar": "النرويج"
+  },
+  "إنتر ميلان": {
+    "en": "Inter Milan",
+    "ar": "إنتر ميلان",
+    "countryen": "Italy",
+    "countryar": "إيطاليا"
+  },
+  "شاختار دونيتسك": {
+    "en": "Shakhtar Donetsk",
+    "ar": "شاختار دونيتسك",
+    "countryen": "Ukraine",
+    "countryar": "أوكرانيا"
+  },
+  "بايرن ميونخ": {
+    "en": "Bayern Munich",
+    "ar": "بايرن ميونخ",
+    "countryen": "Germany",
+    "countryar": "ألمانيا"
+  },
+  "أرسنال": {
+    "en": "Arsenal",
+    "ar": "أرسنال",
+    "countryen": "England",
+    "countryar": "إنجلترا"
+  },
+  "ريال بيتيس": {
+    "en": "Real Betis",
+    "ar": "ريال بيتيس",
+    "countryen": "Spain",
+    "countryar": "إسبانيا"
+  },
+  "فاينورد": {
+    "en": "Feyenoord",
+    "ar": "فاينورد",
+    "countryen": "Netherlands",
+    "countryar": "هولندا"
+  },
+  "ريال مدريد": {
+    "en": "Real Madrid",
+    "ar": "ريال مدريد",
+    "countryen": "Spain",
+    "countryar": "إسبانيا"
+  },
+  "لايبزيج": {
+    "en": "RB Leipzig",
+    "ar": "لايبزيج",
+    "countryen": "Germany",
+    "countryar": "ألمانيا"
+  },
+  "سبورتنج لشبونة": {
+    "en": "Sporting CP",
+    "ar": "سبورتنج لشبونة",
+    "countryen": "Portugal",
+    "countryar": "البرتغال"
+  },
+  "لاسك لينز": {
+    "en": "LASK Linz",
+    "ar": "لاسك لينز",
+    "countryen": "Austria",
+    "countryar": "النمسا"
+  },
+  "كلوب بروج": {
+    "en": "Club Brugge",
+    "ar": "كلوب بروج",
+    "countryen": "Belgium",
+    "countryar": "بلجيكا"
+  },
+  "لانس": {
+    "en": "Lens",
+    "ar": "لانس",
+    "countryen": "France",
+    "countryar": "فرنسا"
+  },
+  "Montevideo City Torque": {
+    "en": "Montevideo City Torque",
+    "ar": "Montevideo City Torque",
+    "countryen": "Uruguay",
+    "countryar": "أوروغواي"
+  },
+  "أتليتيكو مينيرو": {
+    "en": "Atlético Mineiro",
+    "ar": "أتليتيكو مينيرو",
+    "countryen": "Brazil",
+    "countryar": "البرازيل"
+  },
   "حمص الفداء": {
     "en": "Homs Al-Fidaa",
     "ar": "حمص الفداء",
@@ -266,7 +458,7 @@
   "ذا بانثيرس": {
     "en": "The Panthers",
     "ar": "ذا بانثيرس",
-   "countryen": "Equatorial Guinea",
+    "countryen": "Equatorial Guinea",
     "countryar": "غينيا الإستوائية"
   },
   "اتحاد العاصمة": {
