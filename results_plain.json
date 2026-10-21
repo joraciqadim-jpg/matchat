@@ -163,9 +163,9 @@
       "matchEn": "Guadalajara v Necaxa",
       "matchAr": "غوادالاهارا × نيكاسا",
       "rawIsoTime": "2026-10-21T00:07:00.000Z",
-      "time": "0 - 0 (20')",
+      "time": "0 - 0 (22')",
       "isLive": true,
-      "rawMinute": 20,
+      "rawMinute": 22,
       "homeGoals": 0,
       "awayGoals": 0
     },
@@ -176,11 +176,11 @@
       "matchEn": "Vasco da Gama (Brazil) v Boca Juniors (Argentina)",
       "matchAr": "فاسكو دي غاما (البرازيل) × بوكا جونيورز (الأرجنتين)",
       "rawIsoTime": "2026-10-21T00:30:00.000Z",
-      "time": "00:30",
-      "isLive": false,
-      "rawMinute": 0,
-      "homeGoals": "",
-      "awayGoals": ""
+      "time": "0 - 0 (1')",
+      "isLive": true,
+      "rawMinute": 1,
+      "homeGoals": 0,
+      "awayGoals": 0
     },
     {
       "matchId": 4735654,
