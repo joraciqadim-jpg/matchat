@@ -1,5 +1,5 @@
 {
-  "timestamp": 1792608634320,
+  "timestamp": 1792608675183,
   "matches": [
     {
       "matchId": 4869894,
@@ -47,9 +47,9 @@
       "matchEn": "Lille (France) v Galatasaray (Turkey)",
       "matchAr": "ليل (فرنسا) × جلطة سراي (تركيا)",
       "rawIsoTime": "2026-10-21T16:45:00.000Z",
-      "time": "2 - 4 (done)",
-      "isLive": false,
-      "rawMinute": 0,
+      "time": "2 - 4 (87')",
+      "isLive": true,
+      "rawMinute": 87,
       "homeGoals": 2,
       "awayGoals": 4
     },
@@ -541,9 +541,9 @@
       "matchEn": "Ceramica Cleopatra v Montakhab El Suez Petrojet",
       "matchAr": "سيراميكا كليوباترا × منتخب السويس بتروجت",
       "rawIsoTime": "2026-10-21T17:00:00.000Z",
-      "time": "1 - 0 (88')",
+      "time": "1 - 0 (89')",
       "isLive": true,
-      "rawMinute": 88,
+      "rawMinute": 89,
       "homeGoals": 1,
       "awayGoals": 0
     },
