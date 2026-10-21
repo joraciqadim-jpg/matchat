@@ -1,5 +1,5 @@
 {
-  "timestamp": 1792609153680,
+  "timestamp": 1792609338002,
   "matches": [
     {
       "matchId": 4869894,
@@ -34,11 +34,11 @@
       "matchEn": "Como (Italy) v Manchester United (England)",
       "matchAr": "كومو (إيطاليا) × مانشستر يونايتد (إنجلترا)",
       "rawIsoTime": "2026-10-21T16:45:00.000Z",
-      "time": "4 - 0 (85')",
-      "isLive": true,
-      "rawMinute": 85,
+      "time": "4 - 1 (done)",
+      "isLive": false,
+      "rawMinute": 0,
       "homeGoals": 4,
-      "awayGoals": 0
+      "awayGoals": 1
     },
     {
       "matchId": 4828457,
@@ -47,9 +47,9 @@
       "matchEn": "Lille (France) v Galatasaray (Turkey)",
       "matchAr": "ليل (فرنسا) × جلطة سراي (تركيا)",
       "rawIsoTime": "2026-10-21T16:45:00.000Z",
-      "time": "2 - 4 (87')",
-      "isLive": true,
-      "rawMinute": 87,
+      "time": "2 - 4 (done)",
+      "isLive": false,
+      "rawMinute": 0,
       "homeGoals": 2,
       "awayGoals": 4
     },
@@ -60,11 +60,11 @@
       "matchEn": "Aston Villa (England) v Viking (Norway)",
       "matchAr": "أستون فيلا (إنجلترا) × فايكينج (النرويج)",
       "rawIsoTime": "2026-10-21T19:00:00.000Z",
-      "time": "19:00",
-      "isLive": false,
-      "rawMinute": 0,
-      "homeGoals": "",
-      "awayGoals": ""
+      "time": "0 - 0 (2')",
+      "isLive": true,
+      "rawMinute": 2,
+      "homeGoals": 0,
+      "awayGoals": 0
     },
     {
       "matchId": 4828453,
@@ -73,11 +73,11 @@
       "matchEn": "Inter Milan (Italy) v Shakhtar Donetsk (Ukraine)",
       "matchAr": "إنتر ميلان (إيطاليا) × شاختار دونيتسك (أوكرانيا)",
       "rawIsoTime": "2026-10-21T19:00:00.000Z",
-      "time": "19:00",
-      "isLive": false,
-      "rawMinute": 0,
-      "homeGoals": "",
-      "awayGoals": ""
+      "time": "0 - 0 (1')",
+      "isLive": true,
+      "rawMinute": 1,
+      "homeGoals": 0,
+      "awayGoals": 0
     },
     {
       "matchId": 4828450,
@@ -86,11 +86,11 @@
       "matchEn": "Bayern Munich (Germany) v Arsenal (England)",
       "matchAr": "بايرن ميونخ (ألمانيا) × أرسنال (إنجلترا)",
       "rawIsoTime": "2026-10-21T19:00:00.000Z",
-      "time": "19:00",
-      "isLive": false,
-      "rawMinute": 0,
-      "homeGoals": "",
-      "awayGoals": ""
+      "time": "0 - 0 (2')",
+      "isLive": true,
+      "rawMinute": 2,
+      "homeGoals": 0,
+      "awayGoals": 0
     },
     {
       "matchId": 4828452,
@@ -99,11 +99,11 @@
       "matchEn": "Real Betis (Spain) v Feyenoord (Netherlands)",
       "matchAr": "ريال بيتيس (إسبانيا) × فاينورد (هولندا)",
       "rawIsoTime": "2026-10-21T19:00:00.000Z",
-      "time": "19:00",
-      "isLive": false,
-      "rawMinute": 0,
-      "homeGoals": "",
-      "awayGoals": ""
+      "time": "0 - 0 (2')",
+      "isLive": true,
+      "rawMinute": 2,
+      "homeGoals": 0,
+      "awayGoals": 0
     },
     {
       "matchId": 4828451,
@@ -112,11 +112,11 @@
       "matchEn": "Real Madrid (Spain) v RB Leipzig (Germany)",
       "matchAr": "ريال مدريد (إسبانيا) × لايبزيج (ألمانيا)",
       "rawIsoTime": "2026-10-21T19:00:00.000Z",
-      "time": "19:00",
-      "isLive": false,
-      "rawMinute": 0,
-      "homeGoals": "",
-      "awayGoals": ""
+      "time": "0 - 0 (1')",
+      "isLive": true,
+      "rawMinute": 1,
+      "homeGoals": 0,
+      "awayGoals": 0
     },
     {
       "matchId": 4828456,
@@ -125,11 +125,11 @@
       "matchEn": "Sporting CP (Portugal) v LASK Linz (Austria)",
       "matchAr": "سبورتنج لشبونة (البرتغال) × لاسك لينز (النمسا)",
       "rawIsoTime": "2026-10-21T19:00:00.000Z",
-      "time": "19:00",
-      "isLive": false,
-      "rawMinute": 0,
-      "homeGoals": "",
-      "awayGoals": ""
+      "time": "0 - 0 (1')",
+      "isLive": true,
+      "rawMinute": 1,
+      "homeGoals": 0,
+      "awayGoals": 0
     },
     {
       "matchId": 4828449,
@@ -138,11 +138,11 @@
       "matchEn": "Club Brugge (Belgium) v Lens (France)",
       "matchAr": "كلوب بروج (بلجيكا) × لانس (فرنسا)",
       "rawIsoTime": "2026-10-21T19:00:00.000Z",
-      "time": "19:00",
-      "isLive": false,
-      "rawMinute": 0,
-      "homeGoals": "",
-      "awayGoals": ""
+      "time": "0 - 0 (2')",
+      "isLive": true,
+      "rawMinute": 2,
+      "homeGoals": 0,
+      "awayGoals": 0
     },
     {
       "matchId": 4750854,
@@ -450,10 +450,10 @@
       "matchEn": "Al Ahly v Al Qanah",
       "matchAr": "الأهلي × القناة",
       "rawIsoTime": "2026-10-21T17:00:00.000Z",
-      "time": "2 - 3 (93')",
-      "isLive": true,
-      "rawMinute": 93,
-      "homeGoals": 2,
+      "time": "3 - 3 (done)",
+      "isLive": false,
+      "rawMinute": 0,
+      "homeGoals": 3,
       "awayGoals": 3
     },
     {
