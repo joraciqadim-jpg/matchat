@@ -176,9 +176,9 @@
       "matchEn": "Vasco da Gama (Brazil) v Boca Juniors (Argentina)",
       "matchAr": "فاسكو دي غاما (البرازيل) × بوكا جونيورز (الأرجنتين)",
       "rawIsoTime": "2026-10-21T00:30:00.000Z",
-      "time": "0 - 1 (30')",
+      "time": "0 - 1 (31')",
       "isLive": true,
-      "rawMinute": 30,
+      "rawMinute": 31,
       "homeGoals": 0,
       "awayGoals": 1
     },
@@ -189,9 +189,9 @@
       "matchEn": "Juárez v Atlante",
       "matchAr": "خواريز × أتلانتي",
       "rawIsoTime": "2026-10-21T01:00:00.000Z",
-      "time": "0 - 0 (1')",
+      "time": "0 - 0 (2')",
       "isLive": true,
-      "rawMinute": 1,
+      "rawMinute": 2,
       "homeGoals": 0,
       "awayGoals": 0
     },
@@ -202,11 +202,11 @@
       "matchEn": "San Luis v Querétaro",
       "matchAr": "سان لويس × كويريتارو",
       "rawIsoTime": "2026-10-21T01:00:00.000Z",
-      "time": "01:00",
-      "isLive": false,
-      "rawMinute": 0,
-      "homeGoals": "",
-      "awayGoals": ""
+      "time": "0 - 0 (2')",
+      "isLive": true,
+      "rawMinute": 2,
+      "homeGoals": 0,
+      "awayGoals": 0
     },
     {
       "matchId": 4735652,
