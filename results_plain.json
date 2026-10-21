@@ -1,5 +1,5 @@
 {
-  "timestamp": 1792605138475,
+  "timestamp": 1792605256212,
   "matches": [
     {
       "matchId": 4869894,
@@ -21,9 +21,9 @@
       "matchEn": "Young Africans (Tanzania) v Kifaa (Mauritania)",
       "matchAr": "يانج افريكانز (تنزانيا) × كيفا (موريتانيا)",
       "rawIsoTime": "2026-10-21T16:00:00.000Z",
-      "time": "4 - 1 (90')",
-      "isLive": true,
-      "rawMinute": 90,
+      "time": "4 - 1 (done)",
+      "isLive": false,
+      "rawMinute": 0,
       "homeGoals": 4,
       "awayGoals": 1
     },
@@ -34,10 +34,10 @@
       "matchEn": "Como (Italy) v Manchester United (England)",
       "matchAr": "كومو (إيطاليا) × مانشستر يونايتد (إنجلترا)",
       "rawIsoTime": "2026-10-21T16:45:00.000Z",
-      "time": "1 - 0 (48')",
+      "time": "2 - 0 (50')",
       "isLive": true,
-      "rawMinute": 48,
-      "homeGoals": 1,
+      "rawMinute": 50,
+      "homeGoals": 2,
       "awayGoals": 0
     },
     {
@@ -47,9 +47,9 @@
       "matchEn": "Lille (France) v Galatasaray (Turkey)",
       "matchAr": "ليل (فرنسا) × جلطة سراي (تركيا)",
       "rawIsoTime": "2026-10-21T16:45:00.000Z",
-      "time": "2 - 2 (50')",
+      "time": "2 - 2 (52')",
       "isLive": true,
-      "rawMinute": 50,
+      "rawMinute": 52,
       "homeGoals": 2,
       "awayGoals": 2
     },
