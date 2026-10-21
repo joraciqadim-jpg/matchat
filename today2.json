@@ -1,5 +1,5 @@
 {
-  "timestamp": 1792609034168,
+  "timestamp": 1792609153680,
   "matches": [
     {
       "matchId": 4869894,
@@ -450,9 +450,9 @@
       "matchEn": "Al Ahly v Al Qanah",
       "matchAr": "الأهلي × القناة",
       "rawIsoTime": "2026-10-21T17:00:00.000Z",
-      "time": "2 - 3 (91')",
+      "time": "2 - 3 (93')",
       "isLive": true,
-      "rawMinute": 91,
+      "rawMinute": 93,
       "homeGoals": 2,
       "awayGoals": 3
     },
@@ -541,10 +541,10 @@
       "matchEn": "Ceramica Cleopatra v Montakhab El Suez Petrojet",
       "matchAr": "سيراميكا كليوباترا × منتخب السويس بتروجت",
       "rawIsoTime": "2026-10-21T17:00:00.000Z",
-      "time": "1 - 0 (95')",
-      "isLive": true,
-      "rawMinute": 95,
-      "homeGoals": 1,
+      "time": "2 - 0 (done)",
+      "isLive": false,
+      "rawMinute": 0,
+      "homeGoals": 2,
       "awayGoals": 0
     },
     {
