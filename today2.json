@@ -1,5 +1,5 @@
 {
-  "timestamp": 1792610776263,
+  "timestamp": 1792610897326,
   "matches": [
     {
       "matchId": 4869894,
@@ -60,9 +60,9 @@
       "matchEn": "Aston Villa (England) v Viking (Norway)",
       "matchAr": "أستون فيلا (إنجلترا) × فايكينج (النرويج)",
       "rawIsoTime": "2026-10-21T19:00:00.000Z",
-      "time": "1 - 0 (26')",
+      "time": "1 - 0 (28')",
       "isLive": true,
-      "rawMinute": 26,
+      "rawMinute": 28,
       "homeGoals": 1,
       "awayGoals": 0
     },
@@ -73,9 +73,9 @@
       "matchEn": "Inter Milan (Italy) v Shakhtar Donetsk (Ukraine)",
       "matchAr": "إنتر ميلان (إيطاليا) × شاختار دونيتسك (أوكرانيا)",
       "rawIsoTime": "2026-10-21T19:00:00.000Z",
-      "time": "0 - 0 (25')",
+      "time": "0 - 0 (27')",
       "isLive": true,
-      "rawMinute": 25,
+      "rawMinute": 27,
       "homeGoals": 0,
       "awayGoals": 0
     },
@@ -86,9 +86,9 @@
       "matchEn": "Bayern Munich (Germany) v Arsenal (England)",
       "matchAr": "بايرن ميونخ (ألمانيا) × أرسنال (إنجلترا)",
       "rawIsoTime": "2026-10-21T19:00:00.000Z",
-      "time": "0 - 1 (26')",
+      "time": "0 - 1 (28')",
       "isLive": true,
-      "rawMinute": 26,
+      "rawMinute": 28,
       "homeGoals": 0,
       "awayGoals": 1
     },
@@ -99,9 +99,9 @@
       "matchEn": "Real Betis (Spain) v Feyenoord (Netherlands)",
       "matchAr": "ريال بيتيس (إسبانيا) × فاينورد (هولندا)",
       "rawIsoTime": "2026-10-21T19:00:00.000Z",
-      "time": "0 - 0 (26')",
+      "time": "0 - 0 (28')",
       "isLive": true,
-      "rawMinute": 26,
+      "rawMinute": 28,
       "homeGoals": 0,
       "awayGoals": 0
     },
@@ -112,9 +112,9 @@
       "matchEn": "Real Madrid (Spain) v RB Leipzig (Germany)",
       "matchAr": "ريال مدريد (إسبانيا) × لايبزيج (ألمانيا)",
       "rawIsoTime": "2026-10-21T19:00:00.000Z",
-      "time": "0 - 0 (25')",
+      "time": "0 - 0 (27')",
       "isLive": true,
-      "rawMinute": 25,
+      "rawMinute": 27,
       "homeGoals": 0,
       "awayGoals": 0
     },
@@ -125,9 +125,9 @@
       "matchEn": "Sporting CP (Portugal) v LASK Linz (Austria)",
       "matchAr": "سبورتنج لشبونة (البرتغال) × لاسك لينز (النمسا)",
       "rawIsoTime": "2026-10-21T19:00:00.000Z",
-      "time": "1 - 1 (25')",
+      "time": "1 - 1 (27')",
       "isLive": true,
-      "rawMinute": 25,
+      "rawMinute": 27,
       "homeGoals": 1,
       "awayGoals": 1
     },
@@ -138,9 +138,9 @@
       "matchEn": "Club Brugge (Belgium) v Lens (France)",
       "matchAr": "كلوب بروج (بلجيكا) × لانس (فرنسا)",
       "rawIsoTime": "2026-10-21T19:00:00.000Z",
-      "time": "0 - 0 (26')",
+      "time": "0 - 0 (28')",
       "isLive": true,
-      "rawMinute": 26,
+      "rawMinute": 28,
       "homeGoals": 0,
       "awayGoals": 0
     },
@@ -151,9 +151,9 @@
       "matchEn": "Levante v Athletic Bilbao",
       "matchAr": "ليفانتي × أتلتيك بلباو",
       "rawIsoTime": "2026-10-21T18:00:00.000Z",
-      "time": "2 - 0 (64')",
+      "time": "2 - 0 (66')",
       "isLive": true,
-      "rawMinute": 64,
+      "rawMinute": 66,
       "homeGoals": 2,
       "awayGoals": 0
     },
