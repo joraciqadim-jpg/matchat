@@ -1,5 +1,5 @@
 {
-  "timestamp": 1792605737632,
+  "timestamp": 1792605858554,
   "matches": [
     {
       "matchId": 4869894,
@@ -34,9 +34,9 @@
       "matchEn": "Como (Italy) v Manchester United (England)",
       "matchAr": "كومو (إيطاليا) × مانشستر يونايتد (إنجلترا)",
       "rawIsoTime": "2026-10-21T16:45:00.000Z",
-      "time": "3 - 0 (59')",
+      "time": "3 - 0 (61')",
       "isLive": true,
-      "rawMinute": 59,
+      "rawMinute": 61,
       "homeGoals": 3,
       "awayGoals": 0
     },
@@ -47,11 +47,11 @@
       "matchEn": "Lille (France) v Galatasaray (Turkey)",
       "matchAr": "ليل (فرنسا) × جلطة سراي (تركيا)",
       "rawIsoTime": "2026-10-21T16:45:00.000Z",
-      "time": "2 - 3 (60')",
+      "time": "2 - 4 (62')",
       "isLive": true,
-      "rawMinute": 60,
+      "rawMinute": 62,
       "homeGoals": 2,
-      "awayGoals": 3
+      "awayGoals": 4
     },
     {
       "matchId": 4828454,
@@ -151,11 +151,11 @@
       "matchEn": "Levante v Athletic Bilbao",
       "matchAr": "ليفانتي × أتلتيك بلباو",
       "rawIsoTime": "2026-10-21T18:00:00.000Z",
-      "time": "18:00",
-      "isLive": false,
-      "rawMinute": 0,
-      "homeGoals": "",
-      "awayGoals": ""
+      "time": "0 - 0 (2')",
+      "isLive": true,
+      "rawMinute": 2,
+      "homeGoals": 0,
+      "awayGoals": 0
     },
     {
       "matchId": 4735651,
