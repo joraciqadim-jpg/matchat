@@ -215,9 +215,9 @@
       "matchEn": "Tigres v León",
       "matchAr": "تيغريس × ليون",
       "rawIsoTime": "2026-10-21T03:00:00.000Z",
-      "time": "0 - 2 (95')",
-      "isLive": true,
-      "rawMinute": 95,
+      "time": "0 - 2 (done)",
+      "isLive": false,
+      "rawMinute": 0,
       "homeGoals": 0,
       "awayGoals": 2
     },
