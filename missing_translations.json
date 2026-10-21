@@ -1,4 +1,20 @@
 {
+  "nets": {
+    "en": "Brooklyn Nets",
+    "ar": "بروكلين نتس"
+  },
+  "hornets": {
+    "en": "Charlotte Hornets",
+    "ar": "شارلوت هورنتس"
+  },
+  "heat": {
+    "en": "Miami Heat",
+    "ar": "ميامي هيت"
+  },
+  "timberwolves": {
+    "en": "Minnesota Timberwolves",
+    "ar": "مينيسوتا تمبرولفز"
+  },
   "torque": {
     "en": "Torque",
     "ar": "توركي"
