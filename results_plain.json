@@ -1,5 +1,5 @@
 {
-  "timestamp": 1792605669855,
+  "timestamp": 1792605737632,
   "matches": [
     {
       "matchId": 4869894,
@@ -34,9 +34,9 @@
       "matchEn": "Como (Italy) v Manchester United (England)",
       "matchAr": "كومو (إيطاليا) × مانشستر يونايتد (إنجلترا)",
       "rawIsoTime": "2026-10-21T16:45:00.000Z",
-      "time": "3 - 0 (57')",
+      "time": "3 - 0 (59')",
       "isLive": true,
-      "rawMinute": 57,
+      "rawMinute": 59,
       "homeGoals": 3,
       "awayGoals": 0
     },
@@ -47,9 +47,9 @@
       "matchEn": "Lille (France) v Galatasaray (Turkey)",
       "matchAr": "ليل (فرنسا) × جلطة سراي (تركيا)",
       "rawIsoTime": "2026-10-21T16:45:00.000Z",
-      "time": "2 - 3 (59')",
+      "time": "2 - 3 (60')",
       "isLive": true,
-      "rawMinute": 59,
+      "rawMinute": 60,
       "homeGoals": 2,
       "awayGoals": 3
     },
