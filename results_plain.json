@@ -1,5 +1,5 @@
 {
-  "timestamp": 1792604736703,
+  "timestamp": 1792604835935,
   "matches": [
     {
       "matchId": 4869894,
@@ -21,9 +21,9 @@
       "matchEn": "Young Africans (Tanzania) v Kifaa (Mauritania)",
       "matchAr": "يانج افريكانز (تنزانيا) × كيفا (موريتانيا)",
       "rawIsoTime": "2026-10-21T16:00:00.000Z",
-      "time": "4 - 1 (86')",
+      "time": "4 - 1 (88')",
       "isLive": true,
-      "rawMinute": 86,
+      "rawMinute": 88,
       "homeGoals": 4,
       "awayGoals": 1
     },
@@ -450,9 +450,9 @@
       "matchEn": "Al Ahly v Al Qanah",
       "matchAr": "الأهلي × القناة",
       "rawIsoTime": "2026-10-21T17:00:00.000Z",
-      "time": "2 - 1 (44')",
+      "time": "2 - 1 (46')",
       "isLive": true,
-      "rawMinute": 44,
+      "rawMinute": 46,
       "homeGoals": 2,
       "awayGoals": 1
     },
@@ -541,9 +541,9 @@
       "matchEn": "Ceramica Cleopatra v Montakhab El Suez Petrojet",
       "matchAr": "سيراميكا كليوباترا × منتخب السويس بتروجت",
       "rawIsoTime": "2026-10-21T17:00:00.000Z",
-      "time": "1 - 0 (47')",
+      "time": "1 - 0 (48')",
       "isLive": true,
-      "rawMinute": 47,
+      "rawMinute": 48,
       "homeGoals": 1,
       "awayGoals": 0
     },
