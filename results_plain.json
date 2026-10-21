@@ -1,5 +1,5 @@
 {
-  "timestamp": 1792606755132,
+  "timestamp": 1792606836157,
   "matches": [
     {
       "matchId": 4869894,
@@ -34,10 +34,10 @@
       "matchEn": "Como (Italy) v Manchester United (England)",
       "matchAr": "كومو (إيطاليا) × مانشستر يونايتد (إنجلترا)",
       "rawIsoTime": "2026-10-21T16:45:00.000Z",
-      "time": "3 - 0 (76')",
+      "time": "4 - 0 (77')",
       "isLive": true,
-      "rawMinute": 76,
-      "homeGoals": 3,
+      "rawMinute": 77,
+      "homeGoals": 4,
       "awayGoals": 0
     },
     {
@@ -47,9 +47,9 @@
       "matchEn": "Lille (France) v Galatasaray (Turkey)",
       "matchAr": "ليل (فرنسا) × جلطة سراي (تركيا)",
       "rawIsoTime": "2026-10-21T16:45:00.000Z",
-      "time": "2 - 4 (77')",
+      "time": "2 - 4 (78')",
       "isLive": true,
-      "rawMinute": 77,
+      "rawMinute": 78,
       "homeGoals": 2,
       "awayGoals": 4
     },
@@ -151,9 +151,9 @@
       "matchEn": "Levante v Athletic Bilbao",
       "matchAr": "ليفانتي × أتلتيك بلباو",
       "rawIsoTime": "2026-10-21T18:00:00.000Z",
-      "time": "0 - 0 (16')",
+      "time": "0 - 0 (18')",
       "isLive": true,
-      "rawMinute": 16,
+      "rawMinute": 18,
       "homeGoals": 0,
       "awayGoals": 0
     },
@@ -450,11 +450,11 @@
       "matchEn": "Al Ahly v Al Qanah",
       "matchAr": "الأهلي × القناة",
       "rawIsoTime": "2026-10-21T17:00:00.000Z",
-      "time": "2 - 1 (53')",
+      "time": "2 - 2 (54')",
       "isLive": true,
-      "rawMinute": 53,
+      "rawMinute": 54,
       "homeGoals": 2,
-      "awayGoals": 1
+      "awayGoals": 2
     },
     {
       "matchId": 4800306,
@@ -541,9 +541,9 @@
       "matchEn": "Ceramica Cleopatra v Montakhab El Suez Petrojet",
       "matchAr": "سيراميكا كليوباترا × منتخب السويس بتروجت",
       "rawIsoTime": "2026-10-21T17:00:00.000Z",
-      "time": "1 - 0 (57')",
+      "time": "1 - 0 (58')",
       "isLive": true,
-      "rawMinute": 57,
+      "rawMinute": 58,
       "homeGoals": 1,
       "awayGoals": 0
     },
