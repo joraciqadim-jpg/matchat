@@ -1,4 +1,22 @@
 {
+  "bayern munchen": {
+    "en": "Bayern Munchen",
+    "ar": "بايرن",
+    "countryen": "Germany",
+    "countryar": "ألمانيا"
+  },
+  "inter milan": {
+    "en": "Inter Milan",
+    "ar": "انتر",
+    "countryen": "Italy",
+    "countryar": "إيطاليا"
+  },
+  "sporting": {
+    "en": "Sporting",
+    "ar": "سبورتنج",
+    "countryen": "Portugal",
+    "countryar": "البرتغال"
+  },
   "homs alfidaa": {
     "en": "Homs Al-Fidaa",
     "ar": "حمص الفداء",
