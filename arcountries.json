@@ -36,7 +36,7 @@
     "countryar": "هولندا"
   },
   "النجم الأحمر": {
-    "en": "Red Star Belgrade",
+    "en": "Red Star",
     "ar": "النجم الأحمر",
     "countryen": "Serbia",
     "countryar": "صربيا"
@@ -114,13 +114,13 @@
     "countryar": "جورجيا"
   },
   "ميالبو سولفسبورغ": {
-    "en": "Mjällby AIF",
+    "en": "Malmö, Silkeborg",
     "ar": "ميالبو سولفسبورغ",
-    "countryen": "Sweden",
-    "countryar": "السويد"
+    "countryen": "Sweden, Denmark",
+    "countryar": "السويد، الدنمارك"
   },
   "سبيريس كاوناس": {
-    "en": "Spėris Kaunas",
+    "en": "Spyris Kaunas",
     "ar": "سبيريس كاوناس",
     "countryen": "Lithuania",
     "countryar": "ليتوانيا"
@@ -156,13 +156,13 @@
     "countryar": "اسكتلندا"
   },
   "فيرينتسفاروشي": {
-    "en": "Ferencváros",
+    "en": "Ferencvárosi",
     "ar": "فيرينتسفاروشي",
     "countryen": "Hungary",
     "countryar": "المجر"
   },
   "توريينسي": {
-    "en": "Torreense",
+    "en": "Torrense",
     "ar": "توريينسي",
     "countryen": "Portugal",
     "countryar": "البرتغال"
@@ -195,7 +195,7 @@
     "en": "Jablonec",
     "ar": "يابلونك",
     "countryen": "Czech Republic",
-    "countryar": "التشيك"
+    "countryar": "جمهورية التشيك"
   },
   "برايتون": {
     "en": "Brighton",
@@ -234,10 +234,10 @@
     "countryar": "الدنمارك"
   },
   "روغورجينة": {
-    "en": "Ružomberok",
+    "en": "Rogorjina",
     "ar": "روغورجينة",
-    "countryen": "Slovakia",
-    "countryar": "سلوفاكيا"
+    "countryen": "Albania",
+    "countryar": "ألبانيا"
   },
   "أولمبياكوس": {
     "en": "Olympiacos",
