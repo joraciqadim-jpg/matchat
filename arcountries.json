@@ -36,7 +36,7 @@
     "countryar": "هولندا"
   },
   "النجم الأحمر": {
-    "en": "Red Star",
+    "en": "Red Star Belgrade",
     "ar": "النجم الأحمر",
     "countryen": "Serbia",
     "countryar": "صربيا"
@@ -114,10 +114,10 @@
     "countryar": "جورجيا"
   },
   "ميالبو سولفسبورغ": {
-    "en": "Malmö, Silkeborg",
+    "en": "Malmö Sölvesborg",
     "ar": "ميالبو سولفسبورغ",
-    "countryen": "Sweden, Denmark",
-    "countryar": "السويد، الدنمارك"
+    "countryen": "Sweden",
+    "countryar": "السويد"
   },
   "سبيريس كاوناس": {
     "en": "Spyris Kaunas",
@@ -156,13 +156,13 @@
     "countryar": "اسكتلندا"
   },
   "فيرينتسفاروشي": {
-    "en": "Ferencvárosi",
+    "en": "Ferencváros",
     "ar": "فيرينتسفاروشي",
     "countryen": "Hungary",
     "countryar": "المجر"
   },
   "توريينسي": {
-    "en": "Torrense",
+    "en": "Torreense",
     "ar": "توريينسي",
     "countryen": "Portugal",
     "countryar": "البرتغال"
@@ -234,10 +234,10 @@
     "countryar": "الدنمارك"
   },
   "روغورجينة": {
-    "en": "Rogorjina",
+    "en": "Rogorzhina",
     "ar": "روغورجينة",
-    "countryen": "Albania",
-    "countryar": "ألبانيا"
+    "countryen": "Unknown",
+    "countryar": "غير معروف"
   },
   "أولمبياكوس": {
     "en": "Olympiacos",
@@ -294,7 +294,7 @@
     "countryar": "البوسنة والهرسك"
   },
   "كوبيون بالوسورا": {
-    "en": "Kuopion Palloseura",
+    "en": "KuPS Kuopio",
     "ar": "كوبيون بالوسورا",
     "countryen": "Finland",
     "countryar": "فنلندا"
@@ -363,7 +363,7 @@
     "en": "Viktoria Plzeň",
     "ar": "فيكتوريا بلزن",
     "countryen": "Czech Republic",
-    "countryar": "جمهورية التشيك"
+    "countryar": "التشيك"
   },
   "ليفسكي صوفيا": {
     "en": "Levski Sofia",
