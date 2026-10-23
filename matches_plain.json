@@ -183,31 +183,6 @@
     {
       "tournamentEn": "🇸🇦 Saudi Pro League",
       "tournamentAr": "🇸🇦 الدوري السعودي للمحترفين",
-      "matchEn": "Al Faisaly v Al-Nassr",
-      "matchAr": "الفيصلي × النصر",
-      "time": "13:30",
-      "channels": [
-        "📺 Sport TV 1 [Hispasat 30W 12360 H 27500]",
-        "📺 Spiler TV 1 [Thor 0.8W 12130 H 28000]",
-        "📺 Strike TV [Thor 0.8W 12245 H 30000]",
-        "📺 Max Sport 3 [BulgariaSat 1.9E 12303 H 30000]",
-        "📺 Polsat Sport 2 [Hotbird 13.0E 12265 V 27500]",
-        "📺 Sport Klub 1 HRV [Eutelsat 16.0E 11471 H 30000]",
-        "📺 Super Sport 2 [Eutelsat 16.0E 10845 H 30000]",
-        "📺 DAZN 1 GER [Astra 19.2E 12382 H 27500]",
-        "📺 M+ Liga de Campeones [Astra 19.2E 11259 V 22000]",
-        "📺 Sportdigital Fussball [Astra 19.2E 11186 V 22000]",
-        "📺 Thmanyah 1 [Badrsat 26.0E 11919 H 27500]",
-        "📺 ESPN South Africa [Eutelsat 36.0E 12476 H 27500]",
-        "📺 Sporty TV [Eutelsat 36.0E 12265 V 27500]",
-        "📺 Prima Sport 3 [Hellas-Sat 39.0E 12251 V 30000]",
-        "📺 HT Spor [Turksat 42.0E 11837 V 30000]",
-        "📺 Persiana Sports 1 [Turkmenlem 52.0E 11343 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🇸🇦 Saudi Pro League",
-      "tournamentAr": "🇸🇦 الدوري السعودي للمحترفين",
       "matchEn": "Al-Ittihad v Diriyah",
       "matchAr": "الاتحاد × الدرعية",
       "time": "15:30",
@@ -274,28 +249,6 @@
     {
       "tournamentEn": "🛡️ AFC Challenge League",
       "tournamentAr": "🛡️ دوري التحدي الآسيوي",
-      "matchEn": "Fortis (Bhutan) v Regar-TadAZ (Tajikistan)",
-      "matchAr": "فورتيس (بوتان) × ريغار-تاداز (طاجيكستان)",
-      "time": "13:25",
-      "channels": [
-        "📺 الكويت الرياضية 1 [Eutelsat 8W 11054 V 27500]",
-        "📺 الكويت الرياضية 1 [Nilesat 7.0W 12169 V 27500]",
-        "📺 الكويت الرياضية 1 [Badrsat 26.0E 12523 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🛡️ AFC Challenge League",
-      "tournamentAr": "🛡️ دوري التحدي الآسيوي",
-      "matchEn": "Istiklol (Tajikistan) v Homs Al-Fidaa (Syria)",
-      "matchAr": "استقلال (طاجيكستان) × حمص الفداء (سوريا)",
-      "time": "14:00",
-      "channels": [
-        "📺 Varzish TV [Al-Yah 52.5E 11785 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🛡️ AFC Challenge League",
-      "tournamentAr": "🛡️ دوري التحدي الآسيوي",
       "matchEn": "Goa (India) v Al-Qadsia (Kuwait)",
       "matchAr": "غوا (الهند) × القادسية (الكويت)",
       "time": "17:30",
@@ -303,20 +256,6 @@
         "📺 الكويت الرياضية 1 [Eutelsat 8W 11054 V 27500]",
         "📺 الكويت الرياضية 1 [Nilesat 7.0W 12169 V 27500]",
         "📺 الكويت الرياضية 1 [Badrsat 26.0E 12523 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🏆 UAE President's Cup",
-      "tournamentAr": "🏆 كأس رئيس الإمارات",
-      "matchEn": "Fujairah FC v Al Wahda",
-      "matchAr": "الفجيرة × الوحدة",
-      "time": "12:55",
-      "channels": [
-        "📺 Dubai Sports 1 [Nilesat 7.0W 12418 H 30000]",
-        "📺 Sharjah Sports [Nilesat 7.0W 11013 V 27500]",
-        "📺 Abu Dhabi Sports 1 [Nilesat 7.0W 11411 H 30000]",
-        "📺 Dubai Sports 1 [Badrsat 26.0E 12130 V 30000]",
-        "📺 Abu Dhabi Sports 1 [Badrsat 26.0E 11804 H 30000]"
       ]
     },
     {
