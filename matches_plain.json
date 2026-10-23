@@ -1,6 +1,27 @@
 {
   "matches": [
     {
+      "tournamentEn": "🛡️ CAF Champions League",
+      "tournamentAr": "🛡️ دوري أبطال إفريقيا",
+      "matchEn": "MC Alger (Algeria) v Enugu Rangers (Nigeria)",
+      "matchAr": "مولودية الجزائر (الجزائر) × رينجرز إينوجو (نيجيريا)",
+      "time": "19:00",
+      "channels": [
+        "📺 ENTV Algeria [Nilesat 7.0W 11680 H 27500]",
+        "📺 ENTV Algeria [Badrsat 26.0E 12523 V 30000]"
+      ]
+    },
+    {
+      "tournamentEn": "🛡️ CAF Confederation Cup",
+      "tournamentAr": "🛡️ كأس الكونفدرالية الأفريقية",
+      "matchEn": "Raja Casablanca (Morocco) v El Kanemi Warriors (Nigeria)",
+      "matchAr": "الرجاء (المغرب) × إل كانيمي ووريورز (نيجيريا)",
+      "time": "20:00",
+      "channels": [
+        "📺 Arryadia TNT [Badrsat 26.0E 11623 V 27500]"
+      ]
+    },
+    {
       "tournamentEn": "🇬🇧 English Premier League",
       "tournamentAr": "🇬🇧 الدوري الإنجليزي الممتاز",
       "matchEn": "Ipswich Town v Nottingham Forest",
@@ -21,14 +42,19 @@
         "📺 Arena Sport 1 BIH [Eutelsat 16.0E 11678 V 30000]",
         "📺 Arena Sport 1 HRV [Eutelsat 16.0E 11678 H 30000]",
         "📺 Super Sport 3 [Eutelsat 16.0E 10845 H 30000]",
-        "📺 BeIn Sports Max 7 France [Astra 19.2E 12324 V 29700]",
         "📺 DAZN 1 SPA [Astra 19.2E 10788 V 22000]",
         "📺 Sky Sport Premier League [Astra 19.2E 12032 H 27500]",
         "📺 Bein Sport 1 [Badrsat 26.0E 10810 H 27500]",
+        "📺 TV 3 [Badrsat 26.0E 11881 H 27500]",
         "📺 Premier Sports 2 [Astra 28.2E 12188 H 27500]",
         "📺 Sky Sports Main Event [Astra 28.2E 12012 V 27500]",
         "📺 SuperSport Máximo 2 [Eutelsat 36.0E 12169 H 27500]",
         "📺 SuperSport Premier League [Eutelsat 36.0E 12169 H 27500]",
+        "📺 TV 3 [Eutelsat 40.0E 11640 H 30000]",
+        "📺 AZ TV [Azerspace 46.0E 11175 V 30000]",
+        "📺 Persiana Sports 2 [Turkmenlem 52.0E 11343 H 27500]",
+        "📺 TV 3 [Thaicom 78.5E 11640 H 30000]",
+        "📺 Star 4K [SES 108.3E 12281 H 44920]",
         "📺 Star Sports Select 1 [SES 108.3E 11483 H 29000]"
       ]
     },
@@ -39,9 +65,9 @@
       "matchAr": "ألافيس × ملقا",
       "time": "19:00",
       "channels": [
-        "📺 DAZN 1 POR [Hispasat 30W 12399 H 27500]",
         "📺 DAZN 3 POR [Hispasat 30W 12399 H 27500]",
         "📺 Bein Sport 3 [Nilesat 7.0W 12245 V 27500]",
+        "📺 One HD [Amos 4.0W 11259 V 30000]",
         "📺 Nova Sport 6 CZ [Thor 0.8W 12527 H 28800]",
         "📺 Prima Sport 2 [Thor 0.8W 12723 H 27500]",
         "📺 Spiler TV 2 [Thor 0.8W 11727 V 28000]",
@@ -58,7 +84,7 @@
         "📺 Bein Sport 3 [Badrsat 26.0E 10810 H 27500]",
         "📺 SuperSport LaLiga [Eutelsat 36.0E 12169 H 27500]",
         "📺 Prima Sport 2 [Hellas-Sat 39.0E 12290 V 30000]",
-        "📺 S Sport [Turksat 42.0E 11853 H 25000]",
+        "📺 Persiana Sports 3 [Turkmenlem 52.0E 11343 H 27500]",
         "📺 Match! Futbol 2 [Eutelsat 80.0E 11044 V 45000]"
       ]
     },
@@ -69,7 +95,6 @@
       "matchAr": "شتوتغارت × بوروسيا مونشنغلادباخ",
       "time": "18:30",
       "channels": [
-        "📺 DAZN 1 POR [Hispasat 30W 12399 H 27500]",
         "📺 DAZN 2 POR [Hispasat 30W 12399 H 27500]",
         "📺 Sport 1 [Amos 4.0W 11259 V 30000]",
         "📺 Arena 4 [Thor 0.8W 12265 V 28000]",
@@ -92,6 +117,7 @@
         "📺 Nova Sport 3 CZ [Astra 23.5E 11934 V 29900]",
         "📺 TNT Sports 3 [Astra 28.2E 11582 H 23000]",
         "📺 Idman TV [Azerspace 46.0E 11175 H 30000]",
+        "📺 Persiana Sports 1 [Turkmenlem 52.0E 11343 H 27500]",
         "📺 Unite8 Sports 2 [SES 108.3E 11640 H 30000]"
       ]
     },
@@ -129,7 +155,6 @@
       "time": "18:45",
       "channels": [
         "📺 Sport TV 2 [Hispasat 30W 12360 H 27500]",
-        "📺 Bein Sport 2 [Nilesat 7.0W 11013 H 27500]",
         "📺 Sport 3 [Amos 4.0W 11259 V 30000]",
         "📺 Arena Sport 1 SVK [Thor 0.8W 12456 V 30000]",
         "📺 Sport 1 CZE [Thor 0.8W 12149 V 30000]",
@@ -147,10 +172,8 @@
         "📺 Arena Sport 5 HRV [Eutelsat 16.0E 11678 H 30000]",
         "📺 Sport 1 CZE [Eutelsat 16.0E 11055 V 27500]",
         "📺 Tring Sport 1 [Eutelsat 16.0E 10804 H 29950]",
-        "📺 LaLiga TV Bar [Astra 19.2E 10818 V 22000]",
         "📺 Arena Sport 1 SVK [Astra 23.5E 12012 V 29900]",
         "📺 Sport 1 CZE [Astra 23.5E 12070 H 27500]",
-        "📺 Bein Sport 2 [Badrsat 26.0E 10810 H 27500]",
         "📺 SuperSport Football [Eutelsat 36.0E 12341 V 27500]",
         "📺 Prima Sport 3 [Hellas-Sat 39.0E 12251 V 30000]",
         "📺 Match! Futbol 1 [Eutelsat 80.0E 11044 V 45000]",
@@ -166,15 +189,20 @@
       "channels": [
         "📺 Sport TV 1 [Hispasat 30W 12360 H 27500]",
         "📺 Spiler TV 1 [Thor 0.8W 12130 H 28000]",
+        "📺 Strike TV [Thor 0.8W 12245 H 30000]",
         "📺 Max Sport 3 [BulgariaSat 1.9E 12303 H 30000]",
         "📺 Polsat Sport 2 [Hotbird 13.0E 12265 V 27500]",
         "📺 Sport Klub 1 HRV [Eutelsat 16.0E 11471 H 30000]",
         "📺 Super Sport 2 [Eutelsat 16.0E 10845 H 30000]",
+        "📺 DAZN 1 GER [Astra 19.2E 12382 H 27500]",
         "📺 M+ Liga de Campeones [Astra 19.2E 11259 V 22000]",
         "📺 Sportdigital Fussball [Astra 19.2E 11186 V 22000]",
+        "📺 Thmanyah 1 [Badrsat 26.0E 11919 H 27500]",
         "📺 ESPN South Africa [Eutelsat 36.0E 12476 H 27500]",
         "📺 Sporty TV [Eutelsat 36.0E 12265 V 27500]",
-        "📺 Prima Sport 3 [Hellas-Sat 39.0E 12251 V 30000]"
+        "📺 Prima Sport 3 [Hellas-Sat 39.0E 12251 V 30000]",
+        "📺 HT Spor [Turksat 42.0E 11837 V 30000]",
+        "📺 Persiana Sports 1 [Turkmenlem 52.0E 11343 H 27500]"
       ]
     },
     {
@@ -189,8 +217,10 @@
         "📺 Sport Klub 3 HRV [Eutelsat 16.0E 11387 H 32000]",
         "📺 DAZN 2 GER [Astra 19.2E 12382 H 27500]",
         "📺 M+ Liga de Campeones 2 [Astra 19.2E 10758 V 22000]",
+        "📺 Thmanyah 2 [Badrsat 26.0E 11919 H 27500]",
         "📺 ESPN South Africa [Eutelsat 36.0E 12476 H 27500]",
-        "📺 Prima Sport 3 [Hellas-Sat 39.0E 12251 V 30000]"
+        "📺 Prima Sport 3 [Hellas-Sat 39.0E 12251 V 30000]",
+        "📺 HT Spor [Turksat 42.0E 11837 V 30000]"
       ]
     },
     {
@@ -200,8 +230,7 @@
       "matchAr": "الأهلي × الخليج",
       "time": "18:00",
       "channels": [
-        "📺 Sporty TV [Eutelsat 36.0E 12265 V 27500]",
-        "📺 HT Spor [Turksat 42.0E 11837 V 30000]"
+        "📺 Thmanyah 2 [Badrsat 26.0E 11919 H 27500]"
       ]
     },
     {
@@ -211,13 +240,16 @@
       "matchAr": "القادسية × الهلال",
       "time": "18:00",
       "channels": [
-        "📺 Sport TV 5 [Hispasat 30W 12360 H 27500]",
         "📺 Sport TV 6 [Hispasat 30W 12360 H 27500]",
         "📺 Spiler TV 1 [Thor 0.8W 12130 H 28000]",
+        "📺 SoloCalcio [Hotbird 13.0E 11179 H 27500]",
         "📺 Super Sport 5 [Eutelsat 16.0E 10804 H 29950]",
         "📺 M+ Liga de Campeones [Astra 19.2E 11259 V 22000]",
+        "📺 Thmanyah 1 [Badrsat 26.0E 11919 H 27500]",
         "📺 ESPN South Africa [Eutelsat 36.0E 12476 H 27500]",
-        "📺 Sporty TV [Eutelsat 36.0E 12265 V 27500]"
+        "📺 Sporty TV [Eutelsat 36.0E 12265 V 27500]",
+        "📺 HT Spor [Turksat 42.0E 11837 V 30000]",
+        "📺 Futbol [Al-Yah 52.5E 11785 H 27500]"
       ]
     },
     {
@@ -230,7 +262,6 @@
         "📺 Bein Sport 2 [Nilesat 7.0W 11013 H 27500]",
         "📺 V Sport 3 [Thor 0.8W 10809 V 25000]",
         "📺 Diema Sport [Hotbird 13.0E 12673 V 30000]",
-        "📺 Arena Sport 3 HRV [Eutelsat 16.0E 11512 H 30000]",
         "📺 Arena Sport 3 SRB [Eutelsat 16.0E 10721 H 30000]",
         "📺 Arena Sport 6 HRV [Eutelsat 16.0E 11554 V 30000]",
         "📺 Super Sport 4 [Eutelsat 16.0E 10845 H 30000]",
@@ -270,12 +301,13 @@
       "tournamentEn": "🛡️ AFC Challenge League",
       "tournamentAr": "🛡️ دوري التحدي الآسيوي",
       "matchEn": "Al-Arabi (Kuwait) v Nejmeh (Lebanon)",
-      "matchAr": "العربي الأردني (الكويت) × النجمة (لبنان)",
+      "matchAr": "العربي (الكويت) × النجمة (لبنان)",
       "time": "11:00",
       "channels": [
         "📺 الكويت الرياضية 1 [Eutelsat 8W 11054 V 27500]",
         "📺 الكويت الرياضية 1 [Nilesat 7.0W 12169 V 27500]",
-        "📺 الكويت الرياضية 1 [Badrsat 26.0E 12523 H 27500]"
+        "📺 الكويت الرياضية 1 [Badrsat 26.0E 12523 H 27500]",
+        "📺 Futbol [Al-Yah 52.5E 11785 H 27500]"
       ]
     },
     {
@@ -303,25 +335,75 @@
     {
       "tournamentEn": "🛡️ AFC Challenge League",
       "tournamentAr": "🛡️ دوري التحدي الآسيوي",
-      "matchEn": "Al-Ittihad (Syria) v Paro FC (Bhutan)",
-      "matchAr": "الاتحاد (سوريا) × بارو (بوتان)",
-      "time": "15:00",
-      "channels": [
-        "📺 Sport TV 1 [Hispasat 30W 12360 H 27500]",
-        "📺 Prima Sport 3 [Hellas-Sat 39.0E 12251 V 30000]"
-      ]
-    },
-    {
-      "tournamentEn": "🛡️ AFC Challenge League",
-      "tournamentAr": "🛡️ دوري التحدي الآسيوي",
       "matchEn": "Goa (India) v Al-Qadsia (Kuwait)",
       "matchAr": "غوا (الهند) × القادسية (الكويت)",
       "time": "17:30",
       "channels": [
         "📺 الكويت الرياضية 1 [Eutelsat 8W 11054 V 27500]",
         "📺 الكويت الرياضية 1 [Nilesat 7.0W 12169 V 27500]",
-        "📺 الكويت الرياضية 1 [Badrsat 26.0E 12523 H 27500]",
-        "📺 Futbol TV [NSS 57.0E 11610 H 20200]"
+        "📺 الكويت الرياضية 1 [Badrsat 26.0E 12523 H 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "🏆 UAE President's Cup",
+      "tournamentAr": "🏆 كأس رئيس الإمارات",
+      "matchEn": "Fujairah FC v Al Wahda",
+      "matchAr": "الفجيرة × الوحدة",
+      "time": "12:55",
+      "channels": [
+        "📺 Dubai Sports 1 [Nilesat 7.0W 12418 H 30000]",
+        "📺 Sharjah Sports [Nilesat 7.0W 11013 V 27500]",
+        "📺 Abu Dhabi Sports 1 [Nilesat 7.0W 11411 H 30000]",
+        "📺 Dubai Sports 1 [Badrsat 26.0E 12130 V 30000]",
+        "📺 Abu Dhabi Sports 1 [Badrsat 26.0E 11804 H 30000]"
+      ]
+    },
+    {
+      "tournamentEn": "🏆 UAE President's Cup",
+      "tournamentAr": "🏆 كأس رئيس الإمارات",
+      "matchEn": "Al Nasr Dubai v Baniyas",
+      "matchAr": "النصر دبي × بني ياس",
+      "time": "16:00",
+      "channels": [
+        "📺 Dubai Sports 1 [Nilesat 7.0W 12418 H 30000]",
+        "📺 Sharjah Sports [Nilesat 7.0W 11013 V 27500]",
+        "📺 Abu Dhabi Sports 1 [Nilesat 7.0W 11411 H 30000]",
+        "📺 Dubai Sports 1 [Badrsat 26.0E 12130 V 30000]",
+        "📺 Abu Dhabi Sports 1 [Badrsat 26.0E 11804 H 30000]"
+      ]
+    },
+    {
+      "tournamentEn": "🏆 Youth U17 Gulf Cup",
+      "tournamentAr": "🏆 كأس الخليج للشباب تحت 17 سنة",
+      "matchEn": "Kuwait v Iraq",
+      "matchAr": "الكويت × العراق",
+      "time": "14:45",
+      "channels": [
+        "📺 Al Kass One [Nilesat 7.0W 11919 H 27500]",
+        "📺 Al Kass One [Badrsat 26.0E 12245 V 27500]",
+        "📺 Al Kass One [Badrsat 26.0E 10770 V 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "🏆 Youth U17 Gulf Cup",
+      "tournamentAr": "🏆 كأس الخليج للشباب تحت 17 سنة",
+      "matchEn": "Egypt v Yemen",
+      "matchAr": "مصر × اليمن",
+      "time": "17:00",
+      "channels": [
+        "📺 Al Kass One [Nilesat 7.0W 11919 H 27500]",
+        "📺 Al Kass One [Badrsat 26.0E 12245 V 27500]",
+        "📺 Al Kass One [Badrsat 26.0E 10770 V 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "🇶🇦 Qatar Stars League",
+      "tournamentAr": "🇶🇦 الدوري القطري",
+      "matchEn": "Al Shamal v Qatar SC",
+      "matchAr": "الشمال × قطر",
+      "time": "14:30",
+      "channels": [
+        "📺 Al Kass Five [Badrsat 26.0E 10770 H 27500]"
       ]
     },
     {
