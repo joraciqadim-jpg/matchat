@@ -1,4 +1,22 @@
 {
+  "almerrikh": {
+    "en": "Al-Merrikh",
+    "ar": "المريخ",
+    "countryen": "Sudan",
+    "countryar": "السودان"
+  },
+  "alahli tripoli": {
+    "en": "Al-Ahli Tripoli",
+    "ar": "الأهلي طرابلس",
+    "countryen": "Libya",
+    "countryar": "ليبيا"
+  },
+  "welwalo adigrat university": {
+    "en": "Welwalo Adigrat University",
+    "ar": "ويلوالو أديغرات",
+    "countryen": "Ethiopia",
+    "countryar": "إثيوبيا"
+  },
   "enugu rangers": {
     "en": "Enugu Rangers",
     "ar": "إنوجو رينجرز",
