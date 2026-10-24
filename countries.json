@@ -1,4 +1,22 @@
 {
+  "estonia": {
+    "en": "Estonia",
+    "ar": "الترجي الرياضي التونسي",
+    "countryen": "Tunisia",
+    "countryar": "تونس"
+  },
+  "alswehly": {
+    "en": "Al-Swehly",
+    "ar": "السويحلي",
+    "countryen": "Libya",
+    "countryar": "ليبيا"
+  },
+  "renaissance berkane": {
+    "en": "Renaissance Berkane",
+    "ar": "نهضة بركان",
+    "countryen": "Morocco",
+    "countryar": "المغرب"
+  },
   "almerrikh": {
     "en": "Al-Merrikh",
     "ar": "المريخ",
