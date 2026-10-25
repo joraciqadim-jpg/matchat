@@ -1,4 +1,662 @@
 {
+  "Sporting TV": {
+    "satellites": [
+      {
+        "satellite": "Hispasat 30.0W",
+        "frequency": "12476 H 27500"
+      }
+    ]
+  },
+  "Porto Canal": {
+    "satellites": [
+      {
+        "satellite": "Hispasat 30.0W",
+        "frequency": "12130 H 27500"
+      }
+    ]
+  },
+  "TV4 Latvija": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Sport TV3 Slovenija": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat 16.0E",
+        "frequency": "11366 V 30000"
+      }
+    ]
+  },
+  "SportKlub 5 Hrvatska": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat 16.0E",
+        "frequency": "11471 H 30000"
+      }
+    ]
+  },
+  "Sport TV2 Slovenija": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat 16.0E",
+        "frequency": "11366 V 30000"
+      }
+    ]
+  },
+  "SportKlub 6 Hrvatska": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat 16.0E",
+        "frequency": "11471 H 30000"
+      }
+    ]
+  },
+  "NOW Sports HK 1 4K": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Prime Video Dansk [$]": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Prime Video Sverige [$]": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Sun Sports TV Zambia": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "TNT Sports Digital Exclusive": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Arena Sport 3 Slovenija HD": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat 16.0E",
+        "frequency": "11366 V 30000"
+      }
+    ]
+  },
+  "Setanta Sports 3 Georgia HD": {
+    "satellites": [
+      {
+        "satellite": "Kazsat 58.5E",
+        "frequency": "10804 V 30000"
+      }
+    ]
+  },
+  "BBC One HD": {
+    "satellites": [
+      {
+        "satellite": "Astra 28.2E",
+        "frequency": "10847 V 23000"
+      }
+    ]
+  },
+  "Sky Sport 7 NZ HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "SportKlub 6 Slovenija": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat 16.0E",
+        "frequency": "11366 V 30000"
+      }
+    ]
+  },
+  "SportKlub 11 Hrvatska": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat 16.0E",
+        "frequency": "11471 H 30000"
+      }
+    ]
+  },
+  "Sifir TV Türkiye": {
+    "satellites": [
+      {
+        "satellite": "Turksat 42.0E",
+        "frequency": "12379 H 30000"
+      }
+    ]
+  },
+  "SportKlub 7 Hrvatska": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat 16.0E",
+        "frequency": "11471 H 30000"
+      }
+    ]
+  },
+  "BR Fernsehen HD": {
+    "satellites": [
+      {
+        "satellite": "Astra 19.2E",
+        "frequency": "11347 V 22000"
+      }
+    ]
+  },
+  "Arena Sport 7 BiH HD": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat 16.0E",
+        "frequency": "11366 V 30000"
+      }
+    ]
+  },
+  "Arena Premium 1 Slovenija": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat 16.0E",
+        "frequency": "11366 V 30000"
+      }
+    ]
+  },
+  "Arena Sport 4 Slovenija HD": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat 16.0E",
+        "frequency": "11366 V 30000"
+      }
+    ]
+  },
+  "Silk Sport 2 HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "beIN Sports HABER HD": {
+    "satellites": [
+      {
+        "satellite": "Turksat 42.0E",
+        "frequency": "12379 H 30000"
+      }
+    ]
+  },
+  "SportKlub 12 Hrvatska": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat 16.0E",
+        "frequency": "11471 H 30000"
+      }
+    ]
+  },
+  "MBC Action HD": {
+    "satellites": [
+      {
+        "satellite": "Badr 26.0E",
+        "frequency": "11270 V 27500"
+      }
+    ]
+  },
+  "Arena Sport 6 BiH HD": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat 16.0E",
+        "frequency": "11366 V 30000"
+      }
+    ]
+  },
+  "SuperSport Africa HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "UTV Tanzania": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Sport 1 Baltic": {
+    "satellites": [
+      {
+        "satellite": "Astra 31.5E",
+        "frequency": "12070 H 30000"
+      }
+    ]
+  },
+  "Sport 1 Ukraine": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "ESPN Extra Nederland": {
+    "satellites": [
+      {
+        "satellite": "Astra 23.5E",
+        "frequency": "12129 V 29900"
+      }
+    ]
+  },
+  "Sky Sport 1 Austria HD [s/cast]": {
+    "satellites": [
+      {
+        "satellite": "Astra 19.2E",
+        "frequency": "11347 V 22000"
+      }
+    ]
+  },
+  "Sky Sport 9 NZ HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Orange Fútbol 3 HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "LaLiga Hypermotion 2": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "LaLiga TV Bar 3": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "LaLiga TV Bar 2": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "MLS Season Pass [$]": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Sport 2 Baltic": {
+    "satellites": [
+      {
+        "satellite": "Astra 31.5E",
+        "frequency": "12070 H 30000"
+      }
+    ]
+  },
+  "Sport 2 Ukraine": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "beIN Sports Australia 1 HD": {
+    "satellites": [
+      {
+        "satellite": "Optus 156.0E",
+        "frequency": "11845 H 29450"
+      }
+    ]
+  },
+  "beIN Sports France 7 HD max": {
+    "satellites": [
+      {
+        "satellite": "Astra 19.2E",
+        "frequency": "12402 V 29700"
+      }
+    ]
+  },
+  "SportKlub 4 Hrvatska": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat 16.0E",
+        "frequency": "11471 H 30000"
+      }
+    ]
+  },
+  "SportKlub 4 Slovenija": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat 16.0E",
+        "frequency": "11366 V 30000"
+      }
+    ]
+  },
+  "Arena Sport 2 Slovenija HD": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat 16.0E",
+        "frequency": "11366 V 30000"
+      }
+    ]
+  },
+  "Zor TV Uzbekistan": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Sport+ France HD": {
+    "satellites": [
+      {
+        "satellite": "Astra 19.2E",
+        "frequency": "12402 V 29700"
+      }
+    ]
+  },
+  "Orange Sport RO 2 HD": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat 16.0E",
+        "frequency": "11512 H 30000"
+      }
+    ]
+  },
+  "Fox Sports 2 USA HD": {
+    "satellites": [
+      {
+        "satellite": "Galaxy 91.0W",
+        "frequency": "4020 V 31250"
+      }
+    ]
+  },
+  "Azam Sports 5 HD": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat 7.0E",
+        "frequency": "11262 H 27500"
+      }
+    ]
+  },
+  "ESPN 4 Nederland HD": {
+    "satellites": [
+      {
+        "satellite": "Astra 23.5E",
+        "frequency": "12129 V 29900"
+      }
+    ]
+  },
+  "ESPN 3 Nederland HD": {
+    "satellites": [
+      {
+        "satellite": "Astra 23.5E",
+        "frequency": "12129 V 29900"
+      }
+    ]
+  },
+  "Blue ZOOM D Schweiz": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "** POSTPONED **": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "LaLiga TV Bar 4": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "beIN Sports Türkiye 5 HD": {
+    "satellites": [
+      {
+        "satellite": "Turksat 42.0E",
+        "frequency": "12379 H 30000"
+      }
+    ]
+  },
+  "** P-O-S-T-P-O-N-E-D **": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "SporTV 3 Brazil HD": {
+    "satellites": [
+      {
+        "satellite": "Star One 70.0W",
+        "frequency": "11780 H 29900"
+      }
+    ]
+  },
+  "Canal+ Live 14 France HD": {
+    "satellites": [
+      {
+        "satellite": "Astra 19.2E",
+        "frequency": "12402 V 29700"
+      }
+    ]
+  },
+  "Canal+ Live 16 France HD": {
+    "satellites": [
+      {
+        "satellite": "Astra 19.2E",
+        "frequency": "12402 V 29700"
+      }
+    ]
+  },
+  "TV8 Italia HD": {
+    "satellites": [
+      {
+        "satellite": "Hotbird 13.0E",
+        "frequency": "12073 V 29900"
+      }
+    ]
+  },
+  "Blue Sport 14 Live HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Blue Sport 13 Live HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Blue Sport 12 Live HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Blue Sport 11 Live HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "TV6 Polska HD": {
+    "satellites": [
+      {
+        "satellite": "Hotbird 13.0E",
+        "frequency": "11158 V 27500"
+      }
+    ]
+  },
+  "Blue Sport 10 Live HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Blue Sport 7 Live HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Canal+ Live 11 France HD": {
+    "satellites": [
+      {
+        "satellite": "Astra 19.2E",
+        "frequency": "12402 V 29700"
+      }
+    ]
+  },
+  "Canal+ Live 12 France HD": {
+    "satellites": [
+      {
+        "satellite": "Astra 19.2E",
+        "frequency": "12402 V 29700"
+      }
+    ]
+  },
+  "Canal+ Live 13 France HD": {
+    "satellites": [
+      {
+        "satellite": "Astra 19.2E",
+        "frequency": "12402 V 29700"
+      }
+    ]
+  },
+  "Canal+ Live 18 France HD": {
+    "satellites": [
+      {
+        "satellite": "Astra 19.2E",
+        "frequency": "12402 V 29700"
+      }
+    ]
+  },
+  "Canal+ Live 17 France HD": {
+    "satellites": [
+      {
+        "satellite": "Astra 19.2E",
+        "frequency": "12402 V 29700"
+      }
+    ]
+  },
+  "Canal+ Live 15 France HD": {
+    "satellites": [
+      {
+        "satellite": "Astra 19.2E",
+        "frequency": "12402 V 29700"
+      }
+    ]
+  },
+  "TVM+ Malta HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Blue Sport 21 Live HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Blue Sport 17 Live HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Blue Sport 15 Live HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Blue Sport 16 Live HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Blue Sport 18 Live HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Blue Sport 19 Live HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Blue Sport 20 Live HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Blue Sport 22 Live HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "RTSH 1 Albania": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat 16.0E",
+        "frequency": "11366 V 30000"
+      }
+    ]
+  },    
   "Ziggo Sport 3": {
     "satellites": [
       {
