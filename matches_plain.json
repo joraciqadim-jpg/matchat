@@ -355,48 +355,6 @@
     {
       "tournamentEn": "🇮🇹 Italian Serie A",
       "tournamentAr": "🇮🇹 الدوري الإيطالي الممتاز",
-      "matchEn": "Inter Milan v Fiorentina",
-      "matchAr": "إنتر ميلان × فيورنتينا",
-      "time": "11:30",
-      "channels": [
-        "📺 Sport TV 2 [Hispasat 30W 12360 H 27500]",
-        "📺 Sport 2 [Amos 4.0W 11259 V 30000]",
-        "📺 Sport 1 CZE [Thor 0.8W 12149 V 30000]",
-        "📺 Digi Sport 3 [Thor 0.8W 12687 H 27500]",
-        "📺 Premier Sport 1 [Thor 0.8W 12245 H 30000]",
-        "📺 Prima Sport 1 [Thor 0.8W 11900 H 28000]",
-        "📺 Sport 1 HD HUN [Thor 0.8W 12034 V 30000]",
-        "📺 TV 4 Sport Live 1 [Thor 0.8W 10778 H 25000]",
-        "📺 Max Sport 3 [BulgariaSat 1.9E 12303 H 30000]",
-        "📺 Go 3 Sport 1 [Astra 4.8E 11938 V 27500]",
-        "📺 DAZN 1 ITA [Hotbird 13.0E 11843 V 29900]",
-        "📺 Eleven Sports 1 [Hotbird 13.0E 10796 V 27500]",
-        "📺 Magenta Sport 3 [Hotbird 13.0E 12169 H 30000]",
-        "📺 Polsat Sport Premium 2 [Hotbird 13.0E 11117 V 27500]",
-        "📺 Arena Premium 2 BIH [Eutelsat 16.0E 11595 V 30000]",
-        "📺 Arena Premium 2 SRB [Eutelsat 16.0E 11429 V 28330]",
-        "📺 Arena Sport 1 HRV [Eutelsat 16.0E 11678 H 30000]",
-        "📺 Sport 1 CZE [Eutelsat 16.0E 11055 V 27500]",
-        "📺 Tring Sport 1 [Eutelsat 16.0E 10804 H 29950]",
-        "📺 DAZN 1 GER [Astra 19.2E 12382 H 27500]",
-        "📺 M+ Liga de Campeones [Astra 19.2E 11259 V 22000]",
-        "📺 Sport 1 CZE [Astra 23.5E 12070 H 27500]",
-        "📺 TNT Sports 5 [Astra 28.2E 11582 H 23000]",
-        "📺 Sporty TV [Eutelsat 36.0E 12265 V 27500]",
-        "📺 SuperSport Football [Eutelsat 36.0E 12341 V 27500]",
-        "📺 SuperSport Máximo 1 [Eutelsat 36.0E 12169 H 27500]",
-        "📺 SuperSport Variety 3 [Eutelsat 36.0E 11808 H 30000]",
-        "📺 Prima Sport 1 [Hellas-Sat 39.0E 12290 V 30000]",
-        "📺 Prima Sport 3 [Hellas-Sat 39.0E 12251 V 30000]",
-        "📺 Persiana Sports 1 [Turkmenlem 52.0E 11343 H 27500]",
-        "📺 GEM Sport [Al-Yah 52.5E 12034 V 27500]",
-        "📺 Match! Futbol 1 [Eutelsat 80.0E 11044 V 45000]",
-        "📺 Unite8 Sports 1 [SES 108.3E 11640 H 30000]"
-      ]
-    },
-    {
-      "tournamentEn": "🇮🇹 Italian Serie A",
-      "tournamentAr": "🇮🇹 الدوري الإيطالي الممتاز",
       "matchEn": "Atalanta v Frosinone",
       "matchAr": "أتلانتا × فروزينوني",
       "time": "14:00",
@@ -513,24 +471,6 @@
         "📺 IRIB Varzesh [Thaicom 78.5E 11640 H 30000]",
         "📺 Match! Futbol 1 [Eutelsat 80.0E 11044 V 45000]",
         "📺 Unite8 Sports 1 [SES 108.3E 11640 H 30000]"
-      ]
-    },
-    {
-      "tournamentEn": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scottish Premiership",
-      "tournamentAr": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 الدوري الاسكتلندي الممتاز",
-      "matchEn": "Hibernian v Celtic",
-      "matchAr": "هيبرنيان × سلتيك",
-      "time": "12:00",
-      "channels": [
-        "📺 Sport TV 3 [Hispasat 30W 12360 H 27500]",
-        "📺 Sharjah Sports 2 [Nilesat 7.0W 11013 V 27500]",
-        "📺 Magenta Sport 3 [Hotbird 13.0E 12169 H 30000]",
-        "📺 Polsat Sport Extra 1 [Hotbird 13.0E 12265 V 27500]",
-        "📺 Arena Premium 3 SRB [Eutelsat 16.0E 10721 H 30000]",
-        "📺 Arena Sport 3 HRV [Eutelsat 16.0E 11512 H 30000]",
-        "📺 Sport Klub 1 HRV [Eutelsat 16.0E 11471 H 30000]",
-        "📺 Super Sport 1 [Eutelsat 16.0E 10845 H 30000]",
-        "📺 Sky Sports Football [Astra 28.2E 12012 V 27500]"
       ]
     },
     {
