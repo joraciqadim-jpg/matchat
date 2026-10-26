@@ -1,4 +1,272 @@
 {
+  "Sacramento Kings": {
+    "en": "Sacramento Kings",
+    "ar": "ملوك سكرامنتو"
+  },
+  "Memphis Grizzlies": {
+    "en": "Memphis Grizzlies",
+    "ar": "غريزليز ممفيس"
+  },
+  "NBA": {
+    "en": "NBA",
+    "ar": "الدوري الأميركي للمحترفين"
+  },
+  "Xin-Yu Wang": {
+    "en": "Xin-Yu Wang",
+    "ar": "وانغ شين-يو"
+  },
+  "Alycia Parks": {
+    "en": "Alycia Parks",
+    "ar": "أليسيا باركس"
+  },
+  "Tokyo - Round of 32": {
+    "en": "Tokyo - Round of 32",
+    "ar": "طوكيو - دور الـ32"
+  },
+  "Daria Kasatkina": {
+    "en": "Daria Kasatkina",
+    "ar": "داريا كاساتكينا"
+  },
+  "Talia Gibson": {
+    "en": "Talia Gibson",
+    "ar": "تاليا غيبسون"
+  },
+  "Moyuka Uchijima": {
+    "en": "Moyuka Uchijima",
+    "ar": "مويكا أوتشجيما"
+  },
+  "Elise Mertens": {
+    "en": "Elise Mertens",
+    "ar": "إليز ميرتنز"
+  },
+  "Alexandra Eala": {
+    "en": "Alexandra Eala",
+    "ar": "ألكسندرا إيالا"
+  },
+  "Mika Stojsavljevic": {
+    "en": "Mika Stojsavljevic",
+    "ar": "ميكا ستوجسافلييفيتش"
+  },
+  "Alejandro Davidovich Fokina": {
+    "en": "Alejandro Davidovich Fokina",
+    "ar": "أليخاندرو دافيدوفيتش فوكينا"
+  },
+  "Zizou Bergs": {
+    "en": "Zizou Bergs",
+    "ar": "زيزو بيرغس"
+  },
+  "Basel - Round of 32": {
+    "en": "Basel - Round of 32",
+    "ar": "بازل - دور الـ32"
+  },
+  "Hubert Hurkacz": {
+    "en": "Hubert Hurkacz",
+    "ar": "هوبرت هوركاتش"
+  },
+  "Arthur Fils": {
+    "en": "Arthur Fils",
+    "ar": "آرثر فيلس"
+  },
+  "Valentin Vacherot": {
+    "en": "Valentin Vacherot",
+    "ar": "فالنتين فاشيرو"
+  },
+  "Mariano Navone": {
+    "en": "Mariano Navone",
+    "ar": "ماريانو نافوني"
+  },
+  "Mika Brunold": {
+    "en": "Mika Brunold",
+    "ar": "ميكا برونولد"
+  },
+  "Nuno Borges": {
+    "en": "Nuno Borges",
+    "ar": "نونو بورغيس"
+  },
+  "Holger Rune": {
+    "en": "Holger Rune",
+    "ar": "هولغر رونه"
+  },
+  "Quentin Halys": {
+    "en": "Quentin Halys",
+    "ar": "كوينتن هاليس"
+  },
+  "Başakşehir": {
+    "en": "Başakşehir",
+    "ar": "باشاك شهير"
+  },
+  "Super Lig": {
+    "en": "Super Lig",
+    "ar": "الدوري الممتاز"
+  },
+  "Rizespor": {
+    "en": "Rizespor",
+    "ar": "ريزسبور"
+  },
+  "Maccabi Haifa (W)": {
+    "en": "Maccabi Haifa (W)",
+    "ar": "مكابي حيفا (سيدات)"
+  },
+  "Maccabi Ramat Gan (W)": {
+    "en": "Maccabi Ramat Gan (W)",
+    "ar": "مكابي رمات غان (سيدات)"
+  },
+  "WBL - Regular Season": {
+    "en": "WBL - Regular Season",
+    "ar": "دوري كرة السلة للسيدات - الموسم العادي"
+  },
+  "1. Lig": {
+    "en": "1. Lig",
+    "ar": "الدرجة الأولى"
+  },
+  "Ramat Hasharon/Karmiel (W)": {
+    "en": "Ramat Hasharon/Karmiel (W)",
+    "ar": "رمات هاشارون/كرميئيل (سيدات)"
+  },
+  "Hapoel Rishon Lezion (W)": {
+    "en": "Hapoel Rishon Lezion (W)",
+    "ar": "هبوعيل ريشون لتسيون (سيدات)"
+  },
+  "Odense": {
+    "en": "Odense",
+    "ar": "أودنسه"
+  },
+  "Superliga": {
+    "en": "Superliga",
+    "ar": "الدوري الممتاز"
+  },
+  "Fenerbahçe SK": {
+    "en": "Fenerbahçe SK",
+    "ar": "فنربخشة إس كيه"
+  },
+  "Liga Portugal": {
+    "en": "Liga Portugal",
+    "ar": "الدوري البرتغالي"
+  },
+  "PSG": {
+    "en": "PSG",
+    "ar": "باريس سان جيرمان"
+  },
+  "Ligue 1": {
+    "en": "Ligue 1",
+    "ar": "الدوري الفرنسي الدرجة الأولى"
+  },
+  "Andorra CF": {
+    "en": "Andorra CF",
+    "ar": "أندورا إف سي"
+  },
+  "Burgos CF": {
+    "en": "Burgos CF",
+    "ar": "بورغوس إف سي"
+  },
+  "LaLiga 2": {
+    "en": "LaLiga 2",
+    "ar": "الدوري الإسباني الدرجة الثانية"
+  },
+  "Red Star FC93": {
+    "en": "Red Star FC93",
+    "ar": "النجم الأحمر إف سي 93"
+  },
+  "Ligue 2": {
+    "en": "Ligue 2",
+    "ar": "الدوري الفرنسي الدرجة الثانية"
+  },
+  "Salford City": {
+    "en": "Salford City",
+    "ar": "سالford سيتي"
+  },
+  "League Two": {
+    "en": "League Two",
+    "ar": "دوري الدرجة الثانية"
+  },
+  "LaLiga": {
+    "en": "LaLiga",
+    "ar": "الدوري الإسباني"
+  },
+  "Dominic Stricker": {
+    "en": "Dominic Stricker",
+    "ar": "دومينيك شتريكر"
+  },
+  "Casper Ruud": {
+    "en": "Casper Ruud",
+    "ar": "كاسبر رود"
+  },
+  "Universidad de Chile": {
+    "en": "Universidad de Chile",
+    "ar": "جامعة تشيلي"
+  },
+  "Everton De Vina": {
+    "en": "Everton De Vina",
+    "ar": "إيفرتون دي فينيا"
+  },
+  "First Division": {
+    "en": "First Division",
+    "ar": "الدرجة الأولى"
+  },
+  "Coritiba": {
+    "en": "Coritiba",
+    "ar": "كوريتيبا"
+  },
+  "Gremio": {
+    "en": "Gremio",
+    "ar": "غريميو"
+  },
+  "Brasileirão Série A": {
+    "en": "Brasileirão Série A",
+    "ar": "الدوري البرازيلي الدرجة الأولى"
+  },
+  "América Mineiro": {
+    "en": "América Mineiro",
+    "ar": "أمريكا مينيرو"
+  },
+  "Cuiabá": {
+    "en": "Cuiabá",
+    "ar": "كويابا"
+  },
+  "Brasileirão - Série B": {
+    "en": "Brasileirão - Série B",
+    "ar": "الدوري البرازيلي الدرجة الثانية"
+  },
+  "Cleveland Cavaliers": {
+    "en": "Cleveland Cavaliers",
+    "ar": "كافالييرز كليفلاند"
+  },
+  "Minnesota Timberwolves": {
+    "en": "Minnesota Timberwolves",
+    "ar": "تيمبروولفز مينيسوتا"
+  },
+  "Charlotte Hornets": {
+    "en": "Charlotte Hornets",
+    "ar": "هورنتس شارلوت"
+  },
+  "Washington Wizards": {
+    "en": "Washington Wizards",
+    "ar": "ويزاردز واشنطن"
+  },
+  "Juventude": {
+    "en": "Juventude",
+    "ar": "جوفنتودي"
+  },
+  "Náutico": {
+    "en": "Náutico",
+    "ar": "ناوتيكو"
+  },
+  "Boston Celtics": {
+    "en": "Boston Celtics",
+    "ar": "سيلتكس بوسطن"
+  },
+  "Chicago Bulls": {
+    "en": "Chicago Bulls",
+    "ar": "بولز شيكاغو"
+  },
+  "Miami Heat": {
+    "en": "Miami Heat",
+    "ar": "هيت ميامي"
+  },
+  "Dallas Mavericks": {
+    "en": "Dallas Mavericks",
+    "ar": "مافريكس دالاس"
+  },
   "bulls": {
     "en": "Chicago Bulls",
     "ar": "شيكاغو بولز"
