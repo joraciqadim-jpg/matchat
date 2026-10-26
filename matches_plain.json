@@ -14,7 +14,7 @@
         "📺 Nova Sport BUL [Hotbird 13.0E 12654 H 30000]",
         "📺 Sport Klub 1 HRV [Eutelsat 16.0E 11471 H 30000]",
         "📺 Sport Klub 1 SLO [Eutelsat 16.0E 11471 H 30000]",
-        "📺 ESPN Netherlands [Astra 23.5E 11739 V 29900]",
+        "📺 ESPN Netherlands [Eutelsat 23.5E 11739 V 29900]",
         "📺 Bein Sport 2 [Badrsat 26.0E 10810 H 27500]",
         "📺 BeIn Sports English 1 [Badrsat 26.0E 10850 V 27500]",
         "📺 Bein Sport 1 [Badrsat 26.0E 10810 H 27500]",
@@ -70,7 +70,7 @@
         "📺 Bein Sport 2 [Nilesat 7.0W 11013 H 27500]",
         "📺 Nova Sport BUL [Hotbird 13.0E 12654 H 30000]",
         "📺 Sport Klub 3 HRV [Eutelsat 16.0E 11387 H 32000]",
-        "📺 ESPN 2 Netherlands [Astra 23.5E 11856 V 29900]",
+        "📺 ESPN 2 Netherlands [Eutelsat 23.5E 11856 V 29900]",
         "📺 Bein Sport 1 [Badrsat 26.0E 10810 H 27500]",
         "📺 Bein Sport 2 [Badrsat 26.0E 10810 H 27500]",
         "📺 Al Kass Five [Badrsat 26.0E 10770 H 27500]"
@@ -86,6 +86,91 @@
         "📺 Bein Sport 3 [Nilesat 7.0W 12245 V 27500]",
         "📺 Bein Sport 3 [Badrsat 26.0E 10810 H 27500]",
         "📺 Al Kass Seven [Badrsat 26.0E 10770 H 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "🇪🇸 Spanish La Liga 1",
+      "tournamentAr": "🇪🇸 الدوري الإسباني الممتاز",
+      "matchEn": "Sevilla v Osasuna",
+      "matchAr": "إشبيلية × أوساسونا",
+      "time": "20:00",
+      "channels": [
+        "📺 DAZN 1 POR [Hispasat 30W 12399 H 27500]",
+        "📺 DAZN 2 POR [Hispasat 30W 12399 H 27500]",
+        "📺 Bein Sport 1 [Nilesat 7.0W 11013 H 27500]",
+        "📺 Bein Sport 4 [Nilesat 7.0W 11054 H 27500]",
+        "📺 Bein Sport 5 [Nilesat 7.0W 12188 H 27500]",
+        "📺 5 Sport [Amos 4.0W 11259 V 30000]",
+        "📺 Digi Sport 2 [Thor 0.8W 11823 H 30000]",
+        "📺 Nova Sport 4 CZ [Thor 0.8W 11977 H 30000]",
+        "📺 Spiler TV 2 [Thor 0.8W 11727 V 28000]",
+        "📺 TV 2 Sport 1 [Thor 0.8W 10747 H 25000]",
+        "📺 Max Sport 4 [BulgariaSat 1.9E 12303 H 30000]",
+        "📺 Magenta Sport 3 League [Hotbird 13.0E 11823 H 27500]",
+        "📺 Arena Premium 1 SRB [Eutelsat 16.0E 11366 V 30000]",
+        "📺 Arena Premium 3 BIH [Eutelsat 16.0E 11231 V 42000]",
+        "📺 NW Sport 3 [Eutelsat 16.0E 12604 H 30000]",
+        "📺 Super Sport 2 [Eutelsat 16.0E 10845 H 30000]",
+        "📺 DAZN 2 GER [Astra 19.2E 12382 H 27500]",
+        "📺 LaLiga TV Bar [Astra 19.2E 10818 V 22000]",
+        "📺 M+ LaLiga [Astra 19.2E 10818 V 22000]",
+        "📺 Nova Sport 4 CZ [Astra 23.5E 11934 V 29900]",
+        "📺 Ziggo Sport 2 [Astra 23.5E 12129 V 29900]",
+        "📺 Bein Sport 1 [Badrsat 26.0E 10810 H 27500]",
+        "📺 Bein Sport 4 [Badrsat 26.0E 11390 V 27500]",
+        "📺 Bein Sport 5 [Badrsat 26.0E 10810 H 27500]",
+        "📺 Premier Sports 1 [Astra 28.2E 12188 H 27500]",
+        "📺 Premier Sports 1 UK [Astra 28.2E 11671 H 23000]",
+        "📺 SuperSport LaLiga [Eutelsat 36.0E 12169 H 27500]",
+        "📺 SuperSport Máximo 1 [Eutelsat 36.0E 12169 H 27500]",
+        "📺 SuperSport Máximo 3 [Eutelsat 36.0E 12169 H 27500]",
+        "📺 Prima Sport 3 [Hellas-Sat 39.0E 12251 V 30000]",
+        "📺 S Sport [Turksat 42.0E 11853 H 25000]",
+        "📺 Match! Futbol 2 [Eutelsat 80.0E 11044 V 45000]"
+      ]
+    },
+    {
+      "tournamentEn": "🇵🇹 Portuguese Liga 1",
+      "tournamentAr": "🇵🇹 الدوري البرتغالي الممتاز",
+      "matchEn": "Santa Clara v Benfica",
+      "matchAr": "سانتا كلارا × بنفيكا",
+      "time": "18:45",
+      "channels": [
+        "📺 Sport TV 1 [Hispasat 30W 12360 H 27500]",
+        "📺 TVI [Hispasat 30W 12130 H 27500]",
+        "📺 Sport 1 [Amos 4.0W 11259 V 30000]",
+        "📺 Arena Sport 1 SVK [Thor 0.8W 12456 V 30000]",
+        "📺 Digi Sport 3 [Thor 0.8W 12687 H 27500]",
+        "📺 Eleven Sports 1 [Hotbird 13.0E 10796 V 27500]",
+        "📺 Eleven Sports 1 4K [Hotbird 13.0E 11117 V 27500]",
+        "📺 Magenta Sport 1 [Hotbird 13.0E 12130 H 30000]",
+        "📺 Arena Sport 1 SVK [Eutelsat 16.0E 11055 V 27500]",
+        "📺 BeIn Sports Max 4 France [Astra 19.2E 12324 V 29700]",
+        "📺 Sportdigital Fussball [Astra 19.2E 11186 V 22000]",
+        "📺 Arena Sport 1 SVK [Astra 23.5E 12012 V 29900]"
+      ]
+    },
+    {
+      "tournamentEn": "🇬🇧 English League Two",
+      "tournamentAr": "🇬🇧 الدوري الإنجليزي - الدرجة 2",
+      "matchEn": "Walsall v Salford",
+      "matchAr": "والسال × سالفورد",
+      "time": "20:00",
+      "channels": [
+        "📺 Bein Sport 2 [Nilesat 7.0W 11013 H 27500]",
+        "📺 Match 4 [Thor 0.8W 12188 V 28000]",
+        "📺 Nova Sport 6 CZ [Thor 0.8W 12527 H 28800]",
+        "📺 Diema Sport [Hotbird 13.0E 12673 V 30000]",
+        "📺 Diema Sport 2 [Hotbird 13.0E 12673 V 30000]",
+        "📺 Magenta Sport 3 [Hotbird 13.0E 12169 H 30000]",
+        "📺 Arena Premium 1 BIH [Eutelsat 16.0E 11595 V 30000]",
+        "📺 Arena Premium 1 SLO [Eutelsat 16.0E 11678 V 30000]",
+        "📺 Arena Premium 3 SRB [Eutelsat 16.0E 10721 H 30000]",
+        "📺 Arena Sport 1 HRV [Eutelsat 16.0E 11678 H 30000]",
+        "📺 Nova Sport 6 CZ [Eutelsat 23.5E 12090 V 29900]",
+        "📺 Bein Sport 2 [Badrsat 26.0E 10810 H 27500]",
+        "📺 Sky Sports Football [Astra 28.2E 12012 V 27500]",
+        "📺 Sky Sports Main Event [Astra 28.2E 12012 V 27500]"
       ]
     },
     {
@@ -161,6 +246,30 @@
         "📺 ESPN South Africa [Eutelsat 36.0E 12476 H 27500]",
         "📺 Prima Sport 2 [Hellas-Sat 39.0E 12290 V 30000]",
         "📺 Match! Futbol 1 [Eutelsat 80.0E 11044 V 45000]"
+      ]
+    },
+    {
+      "tournamentEn": "🏆 Youth U17 Gulf Cup",
+      "tournamentAr": "🏆 كأس الخليج للشباب تحت 17 سنة",
+      "matchEn": "Kuwait v Saudi Arabia",
+      "matchAr": "الكويت × السعودية",
+      "time": "14:45",
+      "channels": [
+        "📺 Al Kass One [Nilesat 7.0W 11919 H 27500]",
+        "📺 Al Kass One [Badrsat 26.0E 12245 V 27500]",
+        "📺 Al Kass One [Badrsat 26.0E 10770 V 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "🏆 Youth U17 Gulf Cup",
+      "tournamentAr": "🏆 كأس الخليج للشباب تحت 17 سنة",
+      "matchEn": "Iraq v Egypt",
+      "matchAr": "العراق × مصر",
+      "time": "17:00",
+      "channels": [
+        "📺 Al Kass One [Nilesat 7.0W 11919 H 27500]",
+        "📺 Al Kass One [Badrsat 26.0E 12245 V 27500]",
+        "📺 Al Kass One [Badrsat 26.0E 10770 V 27500]"
       ]
     }
   ]
