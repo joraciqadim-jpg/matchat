@@ -1,4 +1,52 @@
 {
+  "neftchi": {
+    "en": "Neftchi",
+    "ar": "نفطجي",
+    "countryen": "Uzbekistan",
+    "countryar": "أوزبكستان"
+  },
+  "al gharafa": {
+    "en": "Al Gharafa",
+    "ar": "الغرافة",
+    "countryen": "Qatar",
+    "countryar": "قطر"
+  },
+  "alain": {
+    "en": "Al-Ain",
+    "ar": "العين",
+    "countryen": "United Arab Emirates",
+    "countryar": "الإمارات"
+  },
+  "tractor sazi": {
+    "en": "Tractor Sazi",
+    "ar": "تراكتور",
+    "countryen": "Iran",
+    "countryar": "إيران"
+  },
+  "alqadsiah": {
+    "en": "Al-Qadsiah",
+    "ar": "القادسية",
+    "countryen": "Saudi Arabia",
+    "countryar": "السعودية"
+  },
+  "al sadd": {
+    "en": "Al Sadd",
+    "ar": "السد",
+    "countryen": "Qatar",
+    "countryar": "قطر"
+  },
+  "alquwa aljawiya": {
+    "en": "Al-Quwa Al-Jawiya",
+    "ar": "القوة الجوية",
+    "countryen": "Iraq",
+    "countryar": "العراق"
+  },
+  "pakhtakor": {
+    "en": "Pakhtakor",
+    "ar": "باختاكور",
+    "countryen": "Uzbekistan",
+    "countryar": "أوزبكستان"
+  },
   "estonia": {
     "en": "Estonia",
     "ar": "الترجي الرياضي التونسي",
