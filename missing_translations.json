@@ -1,33 +1,41 @@
 {
-  "Los Angeles FC": {
+  "bulls": {
+    "en": "Chicago Bulls",
+    "ar": "شيكاغو بولز"
+  },
+  "mavericks": {
+    "en": "Dallas Mavericks",
+    "ar": "دالاس مافريكس"
+  },
+  "los angeles fc": {
     "en": "Los Angeles FC",
     "ar": "لوس أنجلوس"
   },
-  "L.A. Galaxy": {
+  "la galaxy": {
     "en": "LA Galaxy",
     "ar": "لوس أنجلوس غالاكسي"
   },
-  "Ramnicu Valcea": {
+  "ramnicu valcea": {
     "en": "Râmnicu Vâlcea",
     "ar": "رامنيكو فالتشا"
   },
-  "Latvian Virsliga": {
+  "latvian virsliga": {
     "en": "Latvian Virsliga",
     "ar": "الدوري اللاتفي الممتاز"
   },
-  "Grobina": {
+  "grobina": {
     "en": "Grobiņa",
     "ar": "غروبينيا"
   },
-  "FIFA Ballon d'Or Ceremony": {
+  "fifa ballon dor ceremony": {
     "en": "FIFA Ballon d'Or Ceremony",
     "ar": "حفل الكرة الذهبية من فيفا"
   },
-  "** FIFA Ballon d`Or 2026 **": {
+  "fifa ballon dor 2026": {
     "en": "FIFA Ballon d'Or 2026",
     "ar": "الكرة الذهبية من فيفا 2026"
   },
-  "Asofifa": {
+  "asofifa": {
     "en": "AsoFIFA",
     "ar": "أسو فيفا"
   },
