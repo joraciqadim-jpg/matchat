@@ -283,6 +283,37 @@
         "📺 Al Kass One [Badrsat 26.0E 12245 V 27500]",
         "📺 Al Kass One [Badrsat 26.0E 10770 V 27500]"
       ]
+    },
+    {
+      "tournamentEn": "🏁 USA NBA",
+      "tournamentAr": "🏁 الدوري الأميركي لكرة السلة",
+      "matchEn": "Cavaliers v Minnesota Timberwolves",
+      "matchAr": "كافالييرز × مينيسوتا تمبرولفز",
+      "time": "23:00",
+      "channels": [
+        "📺 Sport Klub 1 HRV [Eutelsat 16.0E 11471 H 30000]"
+      ]
+    },
+    {
+      "tournamentEn": "🏁 USA NBA",
+      "tournamentAr": "🏁 الدوري الأميركي لكرة السلة",
+      "matchEn": "Celtics v Chicago Bulls",
+      "matchAr": "سيلتكس × شيكاغو بولز",
+      "time": "23:30",
+      "channels": [
+        "📺 Sport TV 1 [Hispasat 30W 12360 H 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "🏁 USA NBA",
+      "tournamentAr": "🏁 الدوري الأميركي لكرة السلة",
+      "matchEn": "Miami Heat v Dallas Mavericks",
+      "matchAr": "ميامي هيت × دالاس مافريكس",
+      "time": "23:30",
+      "channels": [
+        "📺 5 Sport [Amos 4.0W 11259 V 30000]",
+        "📺 Magenta Sport 4 [Hotbird 13.0E 11938 H 30000]"
+      ]
     }
   ]
 }
