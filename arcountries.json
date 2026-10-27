@@ -1,4 +1,28 @@
 {
+  "السيب": {
+    "en": "Al-Seeb",
+    "ar": "السيب",
+    "countryen": "Oman",
+    "countryar": "عُمان"
+  },
+  "إيست بنغال": {
+    "en": "East Bengal",
+    "ar": "إيست بنغال",
+    "countryen": "India",
+    "countryar": "الهند"
+  },
+  "الشرطة": {
+    "en": "Al-Shorta",
+    "ar": "الشرطة",
+    "countryen": "Iraq",
+    "countryar": "العراق"
+  },
+  "الحسين إربد": {
+    "en": "Al-Hussein Irbid",
+    "ar": "الحسين إربد",
+    "countryen": "Jordan",
+    "countryar": "الأردن"
+  },
   "جوهور": {
     "en": "Johor",
     "ar": "جوهور",
