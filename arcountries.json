@@ -1,4 +1,40 @@
 {
+  "كاظمة": {
+    "en": "Kazma",
+    "ar": "كاظمة",
+    "countryen": "Kuwait",
+    "countryar": "الكويت"
+  },
+  "عجمان": {
+    "en": "Ajman",
+    "ar": "عجمان",
+    "countryen": "United Arab Emirates",
+    "countryar": "الإمارات العربية المتحدة"
+  },
+  "الشباب العماني": {
+    "en": "Al-Shabab",
+    "ar": "الشباب العماني",
+    "countryen": "Oman",
+    "countryar": "عُمان"
+  },
+  "نيوم": {
+    "en": "NEOM SC",
+    "ar": "نيوم",
+    "countryen": "Saudi Arabia",
+    "countryar": "المملكة العربية السعودية"
+  },
+  "الرفاع": {
+    "en": "Al-Riffa",
+    "ar": "الرفاع",
+    "countryen": "Bahrain",
+    "countryar": "البحرين"
+  },
+  "قطر": {
+    "en": "Qatar",
+    "ar": "قطر",
+    "countryen": "Qatar",
+    "countryar": "قطر"
+  },
   "السيب": {
     "en": "Al-Seeb",
     "ar": "السيب",
