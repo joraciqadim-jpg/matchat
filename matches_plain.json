@@ -3,26 +3,6 @@
     {
       "tournamentEn": "🛡️ AFC Champions League Elite",
       "tournamentAr": "🛡️ دوري أبطال آسيا للنخبة",
-      "matchEn": "Shabab Al Ahli (United Arab Emirates) v Esteghlal Tehran (Iran)",
-      "matchAr": "شباب الأهلي (الإمارات) × استقلال طهران (إيران)",
-      "time": "16:00",
-      "channels": [
-        "📺 Bein Sport 3 [Nilesat 7.0W 12245 V 27500]",
-        "📺 Diema Sport 2 [Hotbird 13.0E 12673 V 30000]",
-        "📺 Sport Klub 3 HRV [Eutelsat 16.0E 11387 H 32000]",
-        "📺 Bein Sport 3 [Badrsat 26.0E 10810 H 27500]",
-        "📺 Al Kass Six [Badrsat 26.0E 10770 H 27500]",
-        "📺 IRIB Varzesh [Badrsat 26.0E 11881 H 27500]",
-        "📺 IRIB Varzesh [Eutelsat 40.0E 11640 H 30000]",
-        "📺 Spor Smart 2 [Turksat 42.0E 12245 H 27500]",
-        "📺 Persiana Sports 1 [Turkmenlem 52.0E 11343 H 27500]",
-        "📺 Varzish TV [Al-Yah 52.5E 11785 H 27500]",
-        "📺 IRIB Varzesh [Thaicom 78.5E 11640 H 30000]"
-      ]
-    },
-    {
-      "tournamentEn": "🛡️ AFC Champions League Elite",
-      "tournamentAr": "🛡️ دوري أبطال آسيا للنخبة",
       "matchEn": "Al Shamal (Qatar) v Al-Hilal (Saudi Arabia)",
       "matchAr": "الشمال (قطر) × الهلال (السعودية)",
       "time": "18:15",
@@ -38,50 +18,13 @@
     {
       "tournamentEn": "🛡️ AFC Gulf Club Champions League",
       "tournamentAr": "🛡️ دوري أبطال الخليج للأندية",
-      "matchEn": "Kazma (Kuwait) v Ajman (United Arab Emirates)",
-      "matchAr": "كاظمة (الكويت) × عجمان (الإمارات)",
-      "time": "14:00",
-      "channels": [
-        "📺 Al Kass One [Nilesat 7.0W 11919 H 27500]",
-        "📺 Al Kass One [Badrsat 26.0E 12245 V 27500]",
-        "📺 Al Kass One [Badrsat 26.0E 10770 V 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🛡️ AFC Gulf Club Champions League",
-      "tournamentAr": "🛡️ دوري أبطال الخليج للأندية",
-      "matchEn": "Al-Shabab (Saudi Arabia) v Neom (Saudi Arabia)",
-      "matchAr": "الشباب (السعودية) × نيوم (السعودية)",
-      "time": "14:45",
-      "channels": [
-        "📺 Al Kass Two [Nilesat 7.0W 11919 H 27500]",
-        "📺 Al Kass Two [Badrsat 26.0E 12245 V 27500]",
-        "📺 Al Kass Two [Badrsat 26.0E 10770 V 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🛡️ AFC Gulf Club Champions League",
-      "tournamentAr": "🛡️ دوري أبطال الخليج للأندية",
-      "matchEn": "Al-Riffa (Bahrain) v Qatar SC (Qatar)",
+      "matchEn": "Riffa (Bahrain) v Qatar SC (Qatar)",
       "matchAr": "الرفاع (البحرين) × قطر",
       "time": "17:00",
       "channels": [
         "📺 Al Kass One [Nilesat 7.0W 11919 H 27500]",
         "📺 Al Kass One [Badrsat 26.0E 12245 V 27500]",
         "📺 Al Kass One [Badrsat 26.0E 10770 V 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🛡️ AFC Champions League Two",
-      "tournamentAr": "🛡️ دوري أبطال آسيا 2",
-      "matchEn": "Al Seeb (Oman) v East Bengal (India)",
-      "matchAr": "السيب (عُمان) × إيست بنغال (الهند)",
-      "time": "16:00",
-      "channels": [
-        "📺 Bein Sport 4 [Nilesat 7.0W 11054 H 27500]",
-        "📺 Bein Sport 4 [Badrsat 26.0E 11390 V 27500]",
-        "📺 Al Kass Six [Badrsat 26.0E 10770 H 27500]",
-        "📺 Spor Smart 2 [Turksat 42.0E 12245 H 27500]"
       ]
     },
     {
@@ -198,10 +141,10 @@
       ]
     },
     {
-      "tournamentEn": "🏆 Germany DFB-Pokal",
+      "tournamentEn": "🏆 German DFB-Pokal",
       "tournamentAr": "🏆 كأس ألمانيا",
-      "matchEn": "Hamburger SV v Eintracht Frankfurt",
-      "matchAr": "هامبورغ × آينتراخت فرانكفورت",
+      "matchEn": "Hamburger SV v Frankfurt",
+      "matchAr": "هامبورغ × فرانكفورت",
       "time": "17:00",
       "channels": [
         "📺 DAZN 1 POR [Hispasat 30W 12399 H 27500]",
@@ -236,7 +179,7 @@
       ]
     },
     {
-      "tournamentEn": "🏆 Germany DFB-Pokal",
+      "tournamentEn": "🏆 German DFB-Pokal",
       "tournamentAr": "🏆 كأس ألمانيا",
       "matchEn": "Rot-Weiss Essen v RB Leipzig",
       "matchAr": "روت فايس إيسن × لايبزيغ",
@@ -253,9 +196,9 @@
       ]
     },
     {
-      "tournamentEn": "🏆 Germany DFB-Pokal",
+      "tournamentEn": "🏆 German DFB-Pokal",
       "tournamentAr": "🏆 كأس ألمانيا",
-      "matchEn": "FC Köln v Union Berlin",
+      "matchEn": "Köln v Union Berlin",
       "matchAr": "كولن × يونيون برلين",
       "time": "19:45",
       "channels": [
@@ -269,7 +212,7 @@
       ]
     },
     {
-      "tournamentEn": "🏆 Germany DFB-Pokal",
+      "tournamentEn": "🏆 German DFB-Pokal",
       "tournamentAr": "🏆 كأس ألمانيا",
       "matchEn": "Dortmund v Bremen",
       "matchAr": "دورتموند × بريمن",
@@ -312,7 +255,7 @@
       ]
     },
     {
-      "tournamentEn": "🏆 Germany DFB-Pokal",
+      "tournamentEn": "🏆 German DFB-Pokal",
       "tournamentAr": "🏆 كأس ألمانيا",
       "matchEn": "Borussia Mönchengladbach v Karlsruhe",
       "matchAr": "بوروسيا مونشنغلادباخ × كارلسروه",
@@ -378,7 +321,7 @@
       ]
     },
     {
-      "tournamentEn": "🏆 Spain Copa del Rey",
+      "tournamentEn": "🏆 Spanish Copa del Rey",
       "tournamentAr": "🏆 كأس ملك إسبانيا",
       "matchEn": "Sestao v Espanyol",
       "matchAr": "سيستاو × إسبانيول",
@@ -394,7 +337,7 @@
       ]
     },
     {
-      "tournamentEn": "🏆 Spain Copa del Rey",
+      "tournamentEn": "🏆 Spanish Copa del Rey",
       "tournamentAr": "🏆 كأس ملك إسبانيا",
       "matchEn": "Manacor v Villarreal",
       "matchAr": "ماناكور × فياريال",
@@ -411,7 +354,7 @@
       ]
     },
     {
-      "tournamentEn": "🇵🇹 Portugal Taça da Liga",
+      "tournamentEn": "🇵🇹 Portuguese Taça da Liga",
       "tournamentAr": "🇵🇹 كأس الرابطة البرتغالية",
       "matchEn": "Sporting v Marítimo",
       "matchAr": "سبورتينغ × ماريتيمو",
