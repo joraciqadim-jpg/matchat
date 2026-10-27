@@ -1,4 +1,22 @@
 {
+  "Al Ahly SC": {
+    "en": "Al Ahly SC",
+    "ar": "الأهلي",
+    "countryen": "Egypt",
+    "countryar": "مصر"
+  },
+  "Maghreb Fès": {
+    "en": "Maghreb Fès",
+    "ar": "المغرب الفاسي",
+    "countryen": "Morocco",
+    "countryar": "المغرب"
+  },
+  "AS Far Rabat": {
+    "en": "AS Far Rabat",
+    "ar": "الجيش الملكي",
+    "countryen": "Morocco",
+    "countryar": "المغرب"
+  },
   "Azam (Tan)": {
     "en": "Azam (Tan)",
     "ar": "أزام التنزاني",
