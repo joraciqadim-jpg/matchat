@@ -1,4 +1,100 @@
 {
+  "Daejeon Hana Citizen": {
+    "en": "Daejeon Hana Citizen",
+    "ar": "دايجون هانا سيتيزن",
+    "countryen": "South Korea",
+    "countryar": "كوريا الجنوبية"
+  },
+  "Vissel Kobe": {
+    "en": "Vissel Kobe",
+    "ar": "فيسيل كوبي",
+    "countryen": "Japan",
+    "countryar": "اليابان"
+  },
+  "Kyoto": {
+    "en": "Kyoto",
+    "ar": "كيوتو",
+    "countryen": "Japan",
+    "countryar": "اليابان"
+  },
+  "Newcastle Jets FC": {
+    "en": "Newcastle Jets FC",
+    "ar": "نيوكاسل جيتس",
+    "countryen": "Australia",
+    "countryar": "أستراليا"
+  },
+  "Johor Darul Ta’zim": {
+    "en": "Johor Darul Ta’zim",
+    "ar": "جوهور دار التعظيم",
+    "countryen": "Malaysia",
+    "countryar": "ماليزيا"
+  },
+  "Thai Port FC": {
+    "en": "Thai Port FC",
+    "ar": "بورت التايلاندي",
+    "countryen": "Thailand",
+    "countryar": "تايلاند"
+  },
+  "Shanghai Port FC": {
+    "en": "Shanghai Port FC",
+    "ar": "شنغهاي بورت",
+    "countryen": "China",
+    "countryar": "الصين"
+  },
+  "Công An Hà Nội": {
+    "en": "Công An Hà Nội",
+    "ar": "كونغ آن هانوي",
+    "countryen": "Vietnam",
+    "countryar": "فيتنام"
+  },
+  "Ratchaburi FC": {
+    "en": "Ratchaburi FC",
+    "ar": "راتشابوري",
+    "countryen": "Thailand",
+    "countryar": "تايلاند"
+  },
+  "Kashiwa Reysol": {
+    "en": "Kashiwa Reysol",
+    "ar": "كاشيوا ريسول",
+    "countryen": "Japan",
+    "countryar": "اليابان"
+  },
+  "Beijing Guoan": {
+    "en": "Beijing Guoan",
+    "ar": "بكين غوان",
+    "countryen": "China",
+    "countryar": "الصين"
+  },
+  "Jeonbuk Hyundai Motors": {
+    "en": "Jeonbuk Hyundai Motors",
+    "ar": "جيونبوك هيونداي موتورز",
+    "countryen": "South Korea",
+    "countryar": "كوريا الجنوبية"
+  },
+  "Shabab Al Ahly": {
+    "en": "Shabab Al Ahly",
+    "ar": "شباب الأهلي",
+    "countryen": "United Arab Emirates",
+    "countryar": "الإمارات العربية المتحدة"
+  },
+  "Esteghlal FC Tehran": {
+    "en": "Esteghlal FC Tehran",
+    "ar": "استقلال طهران",
+    "countryen": "Iran",
+    "countryar": "إيران"
+  },
+  "Al Shamal": {
+    "en": "Al Shamal",
+    "ar": "الشمال",
+    "countryen": "Qatar",
+    "countryar": "قطر"
+  },
+  "Al Hilal Riyadh": {
+    "en": "Al Hilal Riyadh",
+    "ar": "الهلال الرياض",
+    "countryen": "Saudi Arabia",
+    "countryar": "السعودية"
+  },
   "neftchi": {
     "en": "Neftchi",
     "ar": "نفطجي",
