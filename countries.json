@@ -1,4 +1,28 @@
 {
+  "Al Seeb SC": {
+    "en": "Al Seeb SC",
+    "ar": "السيب",
+    "countryen": "Oman",
+    "countryar": "عُمان"
+  },
+  "East Bengal": {
+    "en": "East Bengal",
+    "ar": "شرق البنغال",
+    "countryen": "India",
+    "countryar": "الهند"
+  },
+  "Al Shorta Baghdad": {
+    "en": "Al Shorta Baghdad",
+    "ar": "الشرطة بغداد",
+    "countryen": "Iraq",
+    "countryar": "العراق"
+  },
+  "Al Hussein": {
+    "en": "Al Hussein",
+    "ar": "الحسين",
+    "countryen": "Jordan",
+    "countryar": "الأردن"
+  },
   "Daejeon Hana Citizen": {
     "en": "Daejeon Hana Citizen",
     "ar": "دايجون هانا سيتيزن",
