@@ -1,119 +1,191 @@
 {
-  "Al Seeb SC": {
+  "shabab al ahli": {
+    "en": "Shabab Al Ahli",
+    "ar": "شباب الأهلي",
+    "countryen": "United Arab Emirates",
+    "countryar": "الإمارات"
+  },
+  "esteghlal tehran": {
+    "en": "Esteghlal Tehran",
+    "ar": "استقلال",
+    "countryen": "Iran",
+    "countryar": "إيران"
+  },
+  "alhilal": {
+    "en": "Al-Hilal",
+    "ar": "الهلال",
+    "countryen": "Saudi Arabia",
+    "countryar": "السعودية"
+  },
+  "kazma": {
+    "en": "Kazma",
+    "ar": "كاظمة",
+    "countryen": "Kuwait",
+    "countryar": "الكويت"
+  },
+  "ajman": {
+    "en": "Ajman",
+    "ar": "عجمان",
+    "countryen": "United Arab Emirates",
+    "countryar": "الإمارات"
+  },
+  "alshabab": {
+    "en": "Al-Shabab",
+    "ar": "الشباب",
+    "countryen": "Saudi Arabia",
+    "countryar": "السعودية"
+  },
+  "neom": {
+    "en": "Neom",
+    "ar": "نيوم",
+    "countryen": "Saudi Arabia",
+    "countryar": "السعودية"
+  },
+  "riffa": {
+    "en": "Riffa",
+    "ar": "الرفاع",
+    "countryen": "Bahrain",
+    "countryar": "البحرين"
+  },
+  "qatar sc": {
+    "en": "Qatar SC",
+    "ar": "قطر",
+    "countryen": "Qatar",
+    "countryar": "قطر"
+  },
+  "al seeb": {
+    "en": "Al Seeb",
+    "ar": "السيب",
+    "countryen": "Oman",
+    "countryar": "عُمان"
+  },
+  "alshorta": {
+    "en": "Al-Shorta",
+    "ar": "الشرطة",
+    "countryen": "Iraq",
+    "countryar": "العراق"
+  },
+  "alhussein irbid": {
+    "en": "Al-Hussein Irbid",
+    "ar": "الحسين إربد",
+    "countryen": "Jordan",
+    "countryar": "الأردن"
+  },
+  "al seeb sc": {
     "en": "Al Seeb SC",
     "ar": "السيب",
     "countryen": "Oman",
     "countryar": "عُمان"
   },
-  "East Bengal": {
+  "east bengal": {
     "en": "East Bengal",
     "ar": "إيست بنغال",
     "countryen": "India",
     "countryar": "الهند"
   },
-  "Al Shorta Baghdad": {
+  "al shorta baghdad": {
     "en": "Al Shorta Baghdad",
     "ar": "الشرطة بغداد",
     "countryen": "Iraq",
     "countryar": "العراق"
   },
-  "Al Hussein": {
+  "al hussein": {
     "en": "Al Hussein",
     "ar": "الحسين",
     "countryen": "Jordan",
     "countryar": "الأردن"
   },
-  "Daejeon Hana Citizen": {
+  "daejeon hana citizen": {
     "en": "Daejeon Hana Citizen",
     "ar": "دايجون هانا سيتيزن",
     "countryen": "South Korea",
     "countryar": "كوريا الجنوبية"
   },
-  "Vissel Kobe": {
+  "vissel kobe": {
     "en": "Vissel Kobe",
     "ar": "فيسيل كوبي",
     "countryen": "Japan",
     "countryar": "اليابان"
   },
-  "Kyoto": {
+  "kyoto": {
     "en": "Kyoto",
     "ar": "كيوتو",
     "countryen": "Japan",
     "countryar": "اليابان"
   },
-  "Newcastle Jets FC": {
+  "newcastle jets fc": {
     "en": "Newcastle Jets FC",
     "ar": "نيوكاسل جيتس",
     "countryen": "Australia",
     "countryar": "أستراليا"
   },
-  "Johor Darul Ta’zim": {
+  "johor darul tazim": {
     "en": "Johor Darul Ta’zim",
     "ar": "جوهور دار التعظيم",
     "countryen": "Malaysia",
     "countryar": "ماليزيا"
   },
-  "Thai Port FC": {
+  "thai port fc": {
     "en": "Thai Port FC",
     "ar": "الميناء التايلاندي",
     "countryen": "Thailand",
     "countryar": "تايلاند"
   },
-  "Shanghai Port FC": {
+  "shanghai port fc": {
     "en": "Shanghai Port FC",
     "ar": "شنغهاي بورت",
     "countryen": "China",
     "countryar": "الصين"
   },
-  "Công An Hà Nội": {
+  "cng an h ni": {
     "en": "Công An Hà Nội",
     "ar": "شرطة هانوي",
     "countryen": "Vietnam",
     "countryar": "فيتنام"
   },
-  "Ratchaburi FC": {
+  "ratchaburi fc": {
     "en": "Ratchaburi FC",
     "ar": "راتشابوري",
     "countryen": "Thailand",
     "countryar": "تايلاند"
   },
-  "Kashiwa Reysol": {
+  "kashiwa reysol": {
     "en": "Kashiwa Reysol",
     "ar": "كاشيوا ريسول",
     "countryen": "Japan",
     "countryar": "اليابان"
   },
-  "Beijing Guoan": {
+  "beijing guoan": {
     "en": "Beijing Guoan",
     "ar": "بكين غوان",
     "countryen": "China",
     "countryar": "الصين"
   },
-  "Jeonbuk Hyundai Motors": {
+  "jeonbuk hyundai motors": {
     "en": "Jeonbuk Hyundai Motors",
     "ar": "تشونبوك هيونداي موتورز",
     "countryen": "South Korea",
     "countryar": "كوريا الجنوبية"
   },
-  "Shabab Al Ahly": {
+  "shabab al ahly": {
     "en": "Shabab Al Ahly",
     "ar": "شباب الأهلي",
     "countryen": "United Arab Emirates",
     "countryar": "الإمارات العربية المتحدة"
   },
-  "Esteghlal FC Tehran": {
+  "esteghlal fc tehran": {
     "en": "Esteghlal FC Tehran",
     "ar": "استقلال طهران",
     "countryen": "Iran",
     "countryar": "إيران"
   },
-  "Al Shamal": {
+  "al shamal": {
     "en": "Al Shamal",
     "ar": "الشمال",
     "countryen": "Qatar",
     "countryar": "قطر"
   },
-  "Al Hilal Riyadh": {
+  "al hilal riyadh": {
     "en": "Al Hilal Riyadh",
     "ar": "الهلال الرياض",
     "countryen": "Saudi Arabia",
