@@ -1,4 +1,148 @@
 {
+  "As Port-Louis 2000": {
+    "en": "As Port-Louis 2000",
+    "ar": "جمعية بورت لويس 2000",
+    "countryen": "Mauritius",
+    "countryar": "موريشيوس"
+  },
+  "Durban City": {
+    "en": "Durban City",
+    "ar": "ديربان سيتي",
+    "countryen": "South Africa",
+    "countryar": "جنوب أفريقيا"
+  },
+  "As Maniema Union": {
+    "en": "As Maniema Union",
+    "ar": "اتحاد مانييما",
+    "countryen": "Democratic Republic of the Congo",
+    "countryar": "جمهورية الكونغو الديمقراطية"
+  },
+  "KabuSCorp SC": {
+    "en": "KabuSCorp SC",
+    "ar": "كابوسكورب",
+    "countryen": "Angola",
+    "countryar": "أنغولا"
+  },
+  "Simba SC": {
+    "en": "Simba SC",
+    "ar": "سيمبا",
+    "countryen": "Tanzania",
+    "countryar": "تنزانيا"
+  },
+  "15 De Agosto": {
+    "en": "15 De Agosto",
+    "ar": "15 دي أغوستو",
+    "countryen": "Equatorial Guinea",
+    "countryar": "غينيا الاستوائية"
+  },
+  "Colombe": {
+    "en": "Colombe",
+    "ar": "كولومب",
+    "countryen": "Cameroon",
+    "countryar": "الكاميرون"
+  },
+  "Teungueth": {
+    "en": "Teungueth",
+    "ar": "تونغيث",
+    "countryen": "Senegal",
+    "countryar": "السنغال"
+  },
+  "ASKO Kara": {
+    "en": "ASKO Kara",
+    "ar": "أسكو كارا",
+    "countryen": "Togo",
+    "countryar": "توغو"
+  },
+  "Diarra": {
+    "en": "Diarra",
+    "ar": "ديارا",
+    "countryen": "Mali",
+    "countryar": "مالي"
+  },
+  "Al-Ahly Cairo": {
+    "en": "Al-Ahly Cairo",
+    "ar": "الأهلي المصري",
+    "countryen": "Egypt",
+    "countryar": "مصر"
+  },
+  "Kitara Fc": {
+    "en": "Kitara Fc",
+    "ar": "كيتارا",
+    "countryen": "Uganda",
+    "countryar": "أوغندا"
+  },
+  "Singida Black Stars SC": {
+    "en": "Singida Black Stars SC",
+    "ar": "سينغيدا بلاك ستارز",
+    "countryen": "Tanzania",
+    "countryar": "تنزانيا"
+  },
+  "Tusker FC": {
+    "en": "Tusker FC",
+    "ar": "توسكر",
+    "countryen": "Kenya",
+    "countryar": "كينيا"
+  },
+  "ASEC Mimosas": {
+    "en": "ASEC Mimosas",
+    "ar": "أسيك ميموزا",
+    "countryen": "Côte d'Ivoire",
+    "countryar": "ساحل العاج"
+  },
+  "Maghreb AS de Fès": {
+    "en": "Maghreb AS de Fès",
+    "ar": "المغرب الفاسي",
+    "countryen": "Morocco",
+    "countryar": "المغرب"
+  },
+  "Al Hilal Omdurman": {
+    "en": "Al Hilal Omdurman",
+    "ar": "الهلال أم درمان",
+    "countryen": "Sudan",
+    "countryar": "السودان"
+  },
+  "Sidama Bunna": {
+    "en": "Sidama Bunna",
+    "ar": "سيداما بونا",
+    "countryen": "Ethiopia",
+    "countryar": "إثيوبيا"
+  },
+  "Club Africain Tunis": {
+    "en": "Club Africain Tunis",
+    "ar": "النادي الأفريقي",
+    "countryen": "Tunisia",
+    "countryar": "تونس"
+  },
+  "TP Mazembe": {
+    "en": "TP Mazembe",
+    "ar": "تي بي مازيمبي",
+    "countryen": "Democratic Republic of the Congo",
+    "countryar": "جمهورية الكونغو الديمقراطية"
+  },
+  "FC Nouadhibou": {
+    "en": "FC Nouadhibou",
+    "ar": "نواذيبو",
+    "countryen": "Mauritania",
+    "countryar": "موريتانيا"
+  },
+  "San Pédro": {
+    "en": "San Pédro",
+    "ar": "سان بيدرو",
+    "countryen": "Ivory Coast",
+    "countryar": "ساحل العاج"
+  },
+  "AS Forces Armées Royales de Rabat": {
+    "en": "AS Forces Armées Royales de Rabat",
+    "ar": "الجيش الملكي",
+    "countryen": "Morocco",
+    "countryar": "المغرب"
+  },
+  "CO Korhogo": {
+    "en": "CO Korhogo",
+    "ar": "أولمبيك كورهوغو",
+    "countryen": "Ivory Coast",
+    "countryar": "ساحل العاج"
+  },
   "Daejeon Hana Citizen": {
     "en": "Daejeon Hana Citizen",
     "ar": "دايجوون هانا سيتيزن",
