@@ -1,4 +1,380 @@
 {
+  "Clube Náutico Capibaribe": {
+    "en": "Clube Náutico Capibaribe",
+    "ar": "نادي ناوتيكو كابيباربي"
+  },
+  "Workington": {
+    "en": "Workington",
+    "ar": "وركينغتون"
+  },
+  "Cleethorpes Town": {
+    "en": "Cleethorpes Town",
+    "ar": "كليثوربس تاون"
+  },
+  "FA Trophy - 2nd Round": {
+    "en": "FA Trophy - 2nd Round",
+    "ar": "كأس الاتحاد الإنجليزي - الدور الثاني"
+  },
+  "FK Fakel Voronezh": {
+    "en": "FK Fakel Voronezh",
+    "ar": "نادي فاكيل فورونيج"
+  },
+  "FK Akhmat Grozny": {
+    "en": "FK Akhmat Grozny",
+    "ar": "نادي أخمات غروزني"
+  },
+  "Russian Cup - Group B": {
+    "en": "Russian Cup - Group B",
+    "ar": "كأس روسيا - المجموعة ب"
+  },
+  "US Sassuolo Calcio": {
+    "en": "US Sassuolo Calcio",
+    "ar": "اتحاد ساسولو لكرة القدم"
+  },
+  "SS Lazio": {
+    "en": "SS Lazio",
+    "ar": "لاتسيو"
+  },
+  "Serie A": {
+    "en": "Serie A",
+    "ar": "الدوري الإيطالي"
+  },
+  "FK Dinamo Moskva": {
+    "en": "FK Dinamo Moskva",
+    "ar": "نادي دينامو موسكو"
+  },
+  "Cd Cuarte Industrial": {
+    "en": "Cd Cuarte Industrial",
+    "ar": "نادي كوارتي الصناعي"
+  },
+  "Girona FC": {
+    "en": "Girona FC",
+    "ar": "جيرونا"
+  },
+  "Copa del Rey - 1st Round": {
+    "en": "Copa del Rey - 1st Round",
+    "ar": "كأس ملك إسبانيا - الدور الأول"
+  },
+  "AIK Solna": {
+    "en": "AIK Solna",
+    "ar": "إيه آي كيه سولنا"
+  },
+  "IF Elfsborg": {
+    "en": "IF Elfsborg",
+    "ar": "إلفسبورغ"
+  },
+  "Allsvenskan": {
+    "en": "Allsvenskan",
+    "ar": "الدوري السويدي"
+  },
+  "Sestao River Club": {
+    "en": "Sestao River Club",
+    "ar": "سيستاو ريفر"
+  },
+  "Reial Club Deportiu Espanyol de Barcelona": {
+    "en": "Reial Club Deportiu Espanyol de Barcelona",
+    "ar": "نادي إسبانيول الملكي الرياضي لبرشلونة"
+  },
+  "Pinatar Cf": {
+    "en": "Pinatar Cf",
+    "ar": "بيناتار"
+  },
+  "Elche CF": {
+    "en": "Elche CF",
+    "ar": "إلتشي"
+  },
+  "Calamocha": {
+    "en": "Calamocha",
+    "ar": "كالاموتشا"
+  },
+  "CE Europa": {
+    "en": "CE Europa",
+    "ar": "نادي أوروبا الرياضي"
+  },
+  "UD Castellonense": {
+    "en": "UD Castellonense",
+    "ar": "أونيون ديبورتيفا كاستيونينسي"
+  },
+  "UD Almería": {
+    "en": "UD Almería",
+    "ar": "أونيون ديبورتيفا ألميريا"
+  },
+  "Gimnastica Segoviana": {
+    "en": "Gimnastica Segoviana",
+    "ar": "خيمناستيكا سيغوفيانا"
+  },
+  "Cultural y Deportiva Leonesa": {
+    "en": "Cultural y Deportiva Leonesa",
+    "ar": "كولتورال إي ديبورتيفا ليونيسا"
+  },
+  "RSD Alcala": {
+    "en": "RSD Alcala",
+    "ar": "ريال سوكييداد ديبورتيفا ألكالا"
+  },
+  "UD Las Palmas": {
+    "en": "UD Las Palmas",
+    "ar": "أونيون ديبورتيفا لاس بالماس"
+  },
+  "Atlético Tordesillas": {
+    "en": "Atlético Tordesillas",
+    "ar": "أتلتيكو تورديسيّاس"
+  },
+  "CD Mirandés": {
+    "en": "CD Mirandés",
+    "ar": "نادي ميرانديس"
+  },
+  "Llanera": {
+    "en": "Llanera",
+    "ar": "يانيرا"
+  },
+  "SD Ponferradina": {
+    "en": "SD Ponferradina",
+    "ar": "بونفيرادينا"
+  },
+  "CD Ciudad de Lucena": {
+    "en": "CD Ciudad de Lucena",
+    "ar": "نادي مدينة لوسينا"
+  },
+  "CF Rayo Majadahonda": {
+    "en": "CF Rayo Majadahonda",
+    "ar": "رايو ماخاداهوندا"
+  },
+  "CE Manresa": {
+    "en": "CE Manresa",
+    "ar": "مانريسا"
+  },
+  "Sant Andreu": {
+    "en": "Sant Andreu",
+    "ar": "سانت أندرو"
+  },
+  "Don Benito": {
+    "en": "Don Benito",
+    "ar": "دون بينيتو"
+  },
+  "CD Extremadura 1924": {
+    "en": "CD Extremadura 1924",
+    "ar": "نادي إكستريمادورا 1924"
+  },
+  "Calcio Como 1907": {
+    "en": "Calcio Como 1907",
+    "ar": "كومو 1907"
+  },
+  "AS Roma": {
+    "en": "AS Roma",
+    "ar": "روما"
+  },
+  "Cagliari Calcio": {
+    "en": "Cagliari Calcio",
+    "ar": "كالياري"
+  },
+  "Ross County": {
+    "en": "Ross County",
+    "ar": "روس كاونتي"
+  },
+  "Hamilton": {
+    "en": "Hamilton",
+    "ar": "هاميلتون"
+  },
+  "League One": {
+    "en": "League One",
+    "ar": "الدوري الأول"
+  },
+  "Sheffield Wed": {
+    "en": "Sheffield Wed",
+    "ar": "شيفيلد وينزداي"
+  },
+  "Cambridge United FC": {
+    "en": "Cambridge United FC",
+    "ar": "كامبريدج يونايتد"
+  },
+  "Oxford United": {
+    "en": "Oxford United",
+    "ar": "أوكسفورد يونايتد"
+  },
+  "Stockport County FC": {
+    "en": "Stockport County FC",
+    "ar": "ستوكبورت كاونتي"
+  },
+  "Luton": {
+    "en": "Luton",
+    "ar": "لوتون"
+  },
+  "Doncaster Rovers FC": {
+    "en": "Doncaster Rovers FC",
+    "ar": "دونكاستر روفرز"
+  },
+  "MK Dons": {
+    "en": "MK Dons",
+    "ar": "إم كيه دونز"
+  },
+  "Bromley FC": {
+    "en": "Bromley FC",
+    "ar": "بروملي"
+  },
+  "Leicester City FC": {
+    "en": "Leicester City FC",
+    "ar": "ليستر سيتي"
+  },
+  "Wigan Athletic FC": {
+    "en": "Wigan Athletic FC",
+    "ar": "ويغان أتلتيك"
+  },
+  "Barnet FC": {
+    "en": "Barnet FC",
+    "ar": "بارنت"
+  },
+  "York City FC": {
+    "en": "York City FC",
+    "ar": "يورك سيتي"
+  },
+  "Worthing United": {
+    "en": "Worthing United",
+    "ar": "وورثينغ يونايتد"
+  },
+  "Southend United FC": {
+    "en": "Southend United FC",
+    "ar": "ساوثيند يونايتد"
+  },
+  "National League": {
+    "en": "National League",
+    "ar": "الدوري الوطني"
+  },
+  "Woking FC": {
+    "en": "Woking FC",
+    "ar": "ووكنغ"
+  },
+  "Boreham Wood FC": {
+    "en": "Boreham Wood FC",
+    "ar": "بورهام وود"
+  },
+  "Wealdstone FC": {
+    "en": "Wealdstone FC",
+    "ar": "ويلدستون"
+  },
+  "Solihull Moors": {
+    "en": "Solihull Moors",
+    "ar": "سوليهل مورز"
+  },
+  "Tamworth": {
+    "en": "Tamworth",
+    "ar": "تاموورث"
+  },
+  "Scunthorpe United FC": {
+    "en": "Scunthorpe United FC",
+    "ar": "سكونثورب يونايتد"
+  },
+  "AFC Hornchurch": {
+    "en": "AFC Hornchurch",
+    "ar": "إيه إف سي هورنشيرتش"
+  },
+  "Yeovil Town FC": {
+    "en": "Yeovil Town FC",
+    "ar": "ييوفيل تاون"
+  },
+  "Halifax": {
+    "en": "Halifax",
+    "ar": "هاليفاكس"
+  },
+  "Barrow AFC": {
+    "en": "Barrow AFC",
+    "ar": "بارو"
+  },
+  "Boston United FC": {
+    "en": "Boston United FC",
+    "ar": "بوسطن يونايتد"
+  },
+  "Gateshead": {
+    "en": "Gateshead",
+    "ar": "غيتسهيد"
+  },
+  "Altrincham": {
+    "en": "Altrincham",
+    "ar": "ألترينشام"
+  },
+  "Kidderminster Harriers FC": {
+    "en": "Kidderminster Harriers FC",
+    "ar": "كيدرمينستر هارييرز"
+  },
+  "AFC Fylde": {
+    "en": "AFC Fylde",
+    "ar": "إيه إف سي فيلد"
+  },
+  "Hartlepool": {
+    "en": "Hartlepool",
+    "ar": "هارتلبول"
+  },
+  "Bradford City AFC": {
+    "en": "Bradford City AFC",
+    "ar": "برادفورد سيتي"
+  },
+  "Peterborough": {
+    "en": "Peterborough",
+    "ar": "بيتربورو"
+  },
+  "EFL Cup - 4th Round": {
+    "en": "EFL Cup - 4th Round",
+    "ar": "كأس رابطة الأندية الإنجليزية - الدور الرابع"
+  },
+  "Fleetwood Town": {
+    "en": "Fleetwood Town",
+    "ar": "فليتوود تاون"
+  },
+  "Arsenal FC": {
+    "en": "Arsenal FC",
+    "ar": "أرسنال"
+  },
+  "CD Atletico Paso": {
+    "en": "CD Atletico Paso",
+    "ar": "نادي أتلتيكو باسو"
+  },
+  "Córdoba FC": {
+    "en": "Córdoba FC",
+    "ar": "قرطبة"
+  },
+  "CD Manacor": {
+    "en": "CD Manacor",
+    "ar": "نادي ماناكور"
+  },
+  "Villarreal CF": {
+    "en": "Villarreal CF",
+    "ar": "فياريال"
+  },
+  "Arosa SC": {
+    "en": "Arosa SC",
+    "ar": "أروسا"
+  },
+  "Pontevedra CF": {
+    "en": "Pontevedra CF",
+    "ar": "بونتيفيدرا"
+  },
+  "Gimnástico De Alcázar": {
+    "en": "Gimnástico De Alcázar",
+    "ar": "خيمناستيكو دي ألكاثار"
+  },
+  "Málaga CF": {
+    "en": "Málaga CF",
+    "ar": "ملقة"
+  },
+  "RC Recreativo de Huelva": {
+    "en": "RC Recreativo de Huelva",
+    "ar": "ريال كلوب ريكرياتيفو دي ويلفا"
+  },
+  "Rayo Vallecano de Madrid": {
+    "en": "Rayo Vallecano de Madrid",
+    "ar": "رايو فاييكانو دي مدريد"
+  },
+  "Real Zaragoza": {
+    "en": "Real Zaragoza",
+    "ar": "ريال سرقسطة"
+  },
+  "Ceara": {
+    "en": "Ceara",
+    "ar": "سيارا"
+  },
+  "Goias": {
+    "en": "Goias",
+    "ar": "غوياس"
+  },
   "Bosnia-Herzegovina Cup": {
     "en": "Bosnia and Herzegovina Cup",
     "ar": "كأس البوسنة والهرسك"
