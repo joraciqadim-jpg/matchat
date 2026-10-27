@@ -1,4 +1,100 @@
 {
+  "جوهور": {
+    "en": "Johor",
+    "ar": "جوهور",
+    "countryen": "Malaysia",
+    "countryar": "ماليزيا"
+  },
+  "تاي بورت": {
+    "en": "Thai Port",
+    "ar": "تاي بورت",
+    "countryen": "Thailand",
+    "countryar": "تايلاند"
+  },
+  "دايجيون سيتيزن": {
+    "en": "Daejeon Hana Citizen",
+    "ar": "دايجيون سيتيزن",
+    "countryen": "South Korea",
+    "countryar": "كوريا الجنوبية"
+  },
+  "فيسيل كوبي": {
+    "en": "Vissel Kobe",
+    "ar": "فيسيل كوبي",
+    "countryen": "Japan",
+    "countryar": "اليابان"
+  },
+  "شنغهاي بورت": {
+    "en": "Shanghai Port",
+    "ar": "شنغهاي بورت",
+    "countryen": "China",
+    "countryar": "الصين"
+  },
+  "كونغ آن هانوي": {
+    "en": "Cong An Hanoi",
+    "ar": "كونغ آن هانوي",
+    "countryen": "Vietnam",
+    "countryar": "فيتنام"
+  },
+  "كيوتو سانغا": {
+    "en": "Kyoto Sanga",
+    "ar": "كيوتو سانغا",
+    "countryen": "Japan",
+    "countryar": "اليابان"
+  },
+  "نيوكاسل جيتس": {
+    "en": "Newcastle Jets",
+    "ar": "نيوكاسل جيتس",
+    "countryen": "Australia",
+    "countryar": "أستراليا"
+  },
+  "بكين كوان": {
+    "en": "Beijing Guoan",
+    "ar": "بكين كوان",
+    "countryen": "China",
+    "countryar": "الصين"
+  },
+  "تشانبوك موتورز": {
+    "en": "Jeonbuk Hyundai Motors",
+    "ar": "تشانبوك موتورز",
+    "countryen": "South Korea",
+    "countryar": "كوريا الجنوبية"
+  },
+  "راتشابوري": {
+    "en": "Ratchaburi",
+    "ar": "راتشابوري",
+    "countryen": "Thailand",
+    "countryar": "تايلاند"
+  },
+  "كاشيوا ريسول": {
+    "en": "Kashiwa Reysol",
+    "ar": "كاشيوا ريسول",
+    "countryen": "Japan",
+    "countryar": "اليابان"
+  },
+  "شباب الاهلي": {
+    "en": "Shabab Al Ahli",
+    "ar": "شباب الاهلي",
+    "countryen": "United Arab Emirates",
+    "countryar": "الإمارات العربية المتحدة"
+  },
+  "استقلال": {
+    "en": "Esteghlal",
+    "ar": "استقلال",
+    "countryen": "Iran",
+    "countryar": "إيران"
+  },
+  "الشمال": {
+    "en": "Al Shamal",
+    "ar": "الشمال",
+    "countryen": "Qatar",
+    "countryar": "قطر"
+  },
+  "الهلال": {
+    "en": "Al Hilal",
+    "ar": "الهلال",
+    "countryen": "Saudi Arabia",
+    "countryar": "السعودية"
+  },
   "نيفتشي فرغانة": {
     "en": "Neftchi Fergana",
     "ar": "نيفتشي فرغانة",
