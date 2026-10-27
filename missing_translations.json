@@ -8,7 +8,7 @@
     "ar": "ديبورتيفو ريسترا"
   },
   "Argentina Liga Profesional - Clausura": {
-    "en": "Argentina Liga Profesional - Clausura",
+    "en": "Argentinean Liga Profesional - Clausura",
     "ar": "الدوري الأرجنتيني للمحترفين - مرحلة الإياب"
   },
   "Daejeon Hana Citizen": {
@@ -117,7 +117,7 @@
   },
   "Algeria Ligue 1": {
     "en": "Algeria Ligue 1",
-    "ar": "الدوري الجزائري الدرجة الأولى"
+    "ar": "الدوري الجزائري الدرجة 1"
   },
   "Al Wehda Mecca": {
     "en": "Al Wehda Mecca",
@@ -165,7 +165,7 @@
   },
   "Germany DFB-Pokal - 2nd Round": {
     "en": "Germany DFB-Pokal - 2nd Round",
-    "ar": "كأس ألمانيا - الدور الثاني"
+    "ar": "كأس ألمانيا - الدور 2"
   },
   "Hamburger SV": {
     "en": "Hamburger SV",
@@ -191,9 +191,9 @@
     "en": "SS Lazio",
     "ar": "لاتسيو"
   },
-  "Italy Serie A": {
+  "Italian Serie A": {
     "en": "Italy Serie A",
-    "ar": "الدوري الإيطالي الدرجة الأولى"
+    "ar":  "الدوري الإيطالي"
   },
   "Cd Cuarte Industrial": {
     "en": "Cd Cuarte Industrial",
@@ -205,7 +205,7 @@
   },
   "Spain Copa del Rey - 1st Round": {
     "en": "Spain Copa del Rey - 1st Round",
-    "ar": "كأس ملك إسبانيا - الدور الأول"
+    "ar": "كأس ملك إسبانيا - الدور 1"
   },
   "Excelsior '31": {
     "en": "Excelsior '31",
@@ -213,7 +213,7 @@
   },
   "Netherlands KNVB Cup - 1st Round": {
     "en": "Netherlands KNVB Cup - 1st Round",
-    "ar": "كأس هولندا - الدور الأول"
+    "ar": "كأس هولندا - الدور 1"
   },
   "AIK Solna": {
     "en": "AIK Solna",
@@ -230,10 +230,6 @@
   "Sestao River Club": {
     "en": "Sestao River Club",
     "ar": "سيستاو ريفر"
-  },
-  "Reial Club Deportiu Espanyol de Barcelona": {
-    "en": "Reial Club Deportiu Espanyol de Barcelona",
-    "ar": "ريال كلوب ديبورتيو إسبانيول برشلونة"
   },
   "Pinatar Cf": {
     "en": "Pinatar Cf",
@@ -417,7 +413,7 @@
   },
   "England EFL Cup - 4th Round": {
     "en": "England EFL Cup - 4th Round",
-    "ar": "كأس رابطة الأندية الإنجليزية - الدور الرابع"
+    "ar": "كأس رابطة الأندية الإنجليزية - الدور 4"
   },
   "Penicuik Athletic": {
     "en": "Penicuik Athletic",
@@ -429,7 +425,7 @@
   },
   "Scotland FA Cup - 2nd Round": {
     "en": "Scotland FA Cup - 2nd Round",
-    "ar": "كأس اسكتلندا - الدور الثاني"
+    "ar": "كأس اسكتلندا - الدور 2"
   },
   "Fleetwood Town": {
     "en": "Fleetwood Town",
@@ -625,7 +621,7 @@
   },
   "saudi arabia first division": {
     "en": "Saudi First Division",
-    "ar": "دوري الدرجة الأولى السعودي"
+    "ar": "دوري الدرجة 1 السعودي"
   },
   "us biskra": {
     "en": "US Biskra",
@@ -637,7 +633,7 @@
   },
   "algeria ligue 1": {
     "en": "Algerian Ligue 1",
-    "ar": "الدوري الجزائري الدرجة الأولى"
+    "ar": "الدوري الجزائري الدرجة 1"
   },
   "olympic zawiya": {
     "en": "Olympic Zawiya",
@@ -693,7 +689,7 @@
   },
   "germany dfbpokal 2nd round": {
     "en": "DFB-Pokal - 2nd Round",
-    "ar": "كأس ألمانيا - الدور الثاني"
+    "ar": "كأس ألمانيا - الدور 2"
   },
   "hamburger sv": {
     "en": "Hamburger SV",
@@ -733,7 +729,7 @@
   },
   "spain copa del rey 1st round": {
     "en": "Copa del Rey - 1st Round",
-    "ar": "كأس ملك إسبانيا - الدور الأول"
+    "ar": "كأس ملك إسبانيا - الدور 1"
   },
   "excelsior 31": {
     "en": "Excelsior '31",
@@ -741,7 +737,7 @@
   },
   "netherlands knvb cup 1st round": {
     "en": "KNVB Cup - 1st Round",
-    "ar": "كأس هولندا - الدور الأول"
+    "ar": "كأس هولندا - الدور 1"
   },
   "aik solna": {
     "en": "AIK",
@@ -945,7 +941,7 @@
   },
   "england efl cup 4th round": {
     "en": "EFL Cup - 4th Round",
-    "ar": "كأس رابطة الأندية الإنجليزية - الدور الرابع"
+    "ar": "كأس رابطة الأندية الإنجليزية - الدور 4"
   },
   "penicuik athletic": {
     "en": "Penicuik Athletic",
@@ -957,7 +953,7 @@
   },
   "scotland fa cup 2nd round": {
     "en": "Scottish FA Cup - 2nd Round",
-    "ar": "كأس اسكتلندا - الدور الثاني"
+    "ar": "كأس اسكتلندا - الدور 2"
   },
   "fleetwood town": {
     "en": "Fleetwood Town",
@@ -1057,15 +1053,15 @@
   },
   "dfbpokal 2nd round": {
     "en": "DFB-Pokal - 2nd Round",
-    "ar": "كأس ألمانيا - الدور الثاني"
+    "ar": "كأس ألمانيا - الدور 2"
   },
   "knvb cup 1st round": {
     "en": "KNVB Cup - 1st Round",
-    "ar": "كأس هولندا - الدور الأول"
+    "ar": "كأس هولندا - الدور 1"
   },
   "fa cup 2nd round": {
     "en": "FA Cup - 2nd Round",
-    "ar": "كأس الاتحاد الإنجليزي - الدور الثاني"
+    "ar": "كأس الاتحاد الإنجليزي - الدور 2"
   },
   "clube nutico capibaribe": {
     "en": "Náutico",
@@ -1081,7 +1077,7 @@
   },
   "fa trophy 2nd round": {
     "en": "FA Trophy - 2nd Round",
-    "ar": "كأس الاتحاد الإنجليزي للهواة - الدور الثاني"
+    "ar": "كأس الاتحاد الإنجليزي للهواة - الدور 2"
   },
   "fk fakel voronezh": {
     "en": "Fakel Voronezh",
@@ -1105,7 +1101,7 @@
   },
   "copa del rey 1st round": {
     "en": "Copa del Rey - 1st Round",
-    "ar": "كأس ملك إسبانيا - الدور الأول"
+    "ar": "كأس ملك إسبانيا - الدور 1"
   },
   "allsvenskan": {
     "en": "Allsvenskan",
@@ -1121,7 +1117,7 @@
   },
   "league one": {
     "en": "League One",
-    "ar": "الدوري الإنجليزي الدرجة الأولى"
+    "ar": "الدوري الإنجليزي الدرجة 1"
   },
   "sheffield wed": {
     "en": "Sheffield Wednesday",
@@ -1249,7 +1245,7 @@
   },
   "efl cup 4th round": {
     "en": "EFL Cup - 4th Round",
-    "ar": "كأس رابطة الأندية الإنجليزية - الدور الرابع"
+    "ar": "كأس رابطة الأندية الإنجليزية - الدور 4"
   },
   "ceara": {
     "en": "Ceará",
@@ -1493,7 +1489,7 @@
   },
   "1 lig": {
     "en": "1. Lig",
-    "ar": "الدوري التركي الدرجة الأولى"
+    "ar": "الدوري التركي الدرجة 1"
   },
   "ramat hasharonkarmiel": {
     "en": "Ramat Hasharon/Karmiel (W)",
@@ -1525,7 +1521,7 @@
   },
   "ligue 1": {
     "en": "Ligue 1",
-    "ar": "الدوري الفرنسي الدرجة الأولى"
+    "ar": "الدوري الفرنسي الدرجة 1"
   },
   "andorra cf": {
     "en": "FC Andorra",
@@ -1577,7 +1573,7 @@
   },
   "first division": {
     "en": "First Division",
-    "ar": "الدرجة الأولى"
+    "ar": "الدرجة 1"
   },
   "coritiba": {
     "en": "Coritiba",
@@ -1589,7 +1585,7 @@
   },
   "brasileiro srie a": {
     "en": "Brasileirão Série A",
-    "ar": "الدوري البرازيلي الدرجة الأولى"
+    "ar": "الدوري البرازيلي الدرجة 1"
   },
   "amrica mineiro": {
     "en": "América Mineiro",
@@ -1961,7 +1957,7 @@
   },
   "saudi arabia division 1": {
     "en": "Saudi First Division",
-    "ar": "دوري الدرجة الأولى السعودي"
+    "ar": "دوري الدرجة 1 السعودي"
   },
   "damac": {
     "en": "Damac",
@@ -2521,7 +2517,7 @@
   },
   "brazilian serie a": {
     "en": "Brasileirão Série A",
-    "ar": "الدوري البرازيلي الدرجة الأولى"
+    "ar": "الدوري البرازيلي الدرجة 1"
   },
   "atletico mineiro": {
     "en": "Atlético Mineiro",
@@ -2533,7 +2529,7 @@
   },
   "argentinean primera division": {
     "en": "Argentine Primera División",
-    "ar": "الدوري الأرجنتيني الدرجة الأولى"
+    "ar": "الدوري الأرجنتيني الدرجة 1"
   },
   "gimnasia y esgrima la plata": {
     "en": "Gimnasia La Plata",
@@ -2573,7 +2569,7 @@
   },
   "japanese j1 league": {
     "en": "J1 League",
-    "ar": "الدوري الياباني الدرجة الأولى"
+    "ar": "الدوري الياباني الدرجة 1"
   },
   "kashima antlers": {
     "en": "Kashima Antlers",
@@ -2865,7 +2861,7 @@
   },
   "dutch eerste divisie": {
     "en": "Eerste Divisie",
-    "ar": "الدوري الهولندي الدرجة الأولى"
+    "ar": "الدوري الهولندي الدرجة 1"
   },
   "jong psv": {
     "en": "Jong PSV",
@@ -2937,7 +2933,7 @@
   },
   "romanian liga i": {
     "en": "Liga I",
-    "ar": "الدوري الروماني الدرجة الأولى"
+    "ar": "الدوري الروماني الدرجة 1"
   },
   "kokand 1912": {
     "en": "Kokand 1912",
@@ -2977,7 +2973,7 @@
   },
   "indonesian liga 1": {
     "en": "Liga 1 Indonesia",
-    "ar": "الدوري الإندونيسي الدرجة الأولى"
+    "ar": "الدوري الإندونيسي الدرجة 1"
   },
   "adhyaksa": {
     "en": "Adhyaksa",
@@ -2993,7 +2989,7 @@
   },
   "thai league 1": {
     "en": "Thai League 1",
-    "ar": "الدوري التايلندي الدرجة الأولى"
+    "ar": "الدوري التايلندي الدرجة 1"
   },
   "velez": {
     "en": "Velež Mostar",
@@ -3025,7 +3021,7 @@
   },
   "cypriot first division": {
     "en": "Cypriot First Division",
-    "ar": "الدوري القبرصي الدرجة الأولى"
+    "ar": "الدوري القبرصي الدرجة 1"
   },
   "montevideo city torque": {
     "en": "Montevideo City Torque",
@@ -3081,7 +3077,7 @@
   },
   "colombian primera a": {
     "en": "Categoría Primera A",
-    "ar": "الدوري الكولومبي الدرجة الأولى"
+    "ar": "الدوري الكولومبي الدرجة 1"
   },
   "millonarios": {
     "en": "Millonarios",
@@ -3629,7 +3625,7 @@
   },
   "emirati first division league": {
     "en": "UAE First Division League",
-    "ar": "الدوري الإماراتي الدرجة الأولى"
+    "ar": "الدوري الإماراتي الدرجة 1"
   },
   "gulf united": {
     "en": "Gulf United",
