@@ -1,0 +1,562 @@
+{
+  "Instituto AC Cordoba": {
+    "en": "Instituto AC Cordoba",
+    "ar": "إنستيتوتو أي سي كوردوبا"
+  },
+  "Deportivo Riestra": {
+    "en": "Deportivo Riestra",
+    "ar": "ديبورتيفو ريسترا"
+  },
+  "Argentina Liga Profesional - Clausura": {
+    "en": "Argentine Liga Profesional - Clausura",
+    "ar": "الدوري الأرجنتيني للمحترفين - مرحلة الإياب"
+  },
+  "Daejeon Hana Citizen": {
+    "en": "Daejeon Hana Citizen",
+    "ar": "دايجون هانا سيتيزن"
+  },
+  "Vissel Kobe": {
+    "en": "Vissel Kobe",
+    "ar": "فيسيل كوبي"
+  },
+  "Asia AFC Champions League Elite": {
+    "en": "Asian AFC Champions League Elite",
+    "ar": "دوري أبطال آسيا للنخبة"
+  },
+  "Kyoto": {
+    "en": "Kyoto",
+    "ar": "كيوتو"
+  },
+  "Newcastle Jets FC": {
+    "en": "Newcastle Jets FC",
+    "ar": "نيوكاسل جيتس"
+  },
+  "Johor Darul Ta’zim": {
+    "en": "Johor Darul Ta’zim",
+    "ar": "جوهور دار التعظيم"
+  },
+  "Thai Port FC": {
+    "en": "Thai Port FC",
+    "ar": "بورت إف سي التايلاندي"
+  },
+  "Shanghai Port FC": {
+    "en": "Shanghai Port FC",
+    "ar": "شنغهاي بورت"
+  },
+  "Công An Hà Nội": {
+    "en": "Công An Hà Nội",
+    "ar": "شرطة هانوي"
+  },
+  "Ratchaburi FC": {
+    "en": "Ratchaburi FC",
+    "ar": "راتشابوري"
+  },
+  "Kashiwa Reysol": {
+    "en": "Kashiwa Reysol",
+    "ar": "كاشيوا ريسول"
+  },
+  "Beijing Guoan": {
+    "en": "Beijing Guoan",
+    "ar": "بكين غوان"
+  },
+  "Jeonbuk Hyundai Motors": {
+    "en": "Jeonbuk Hyundai Motors",
+    "ar": "جيونبوك هيونداي موتورز"
+  },
+  "Abha Club": {
+    "en": "Abha Club",
+    "ar": "نادي أبها"
+  },
+  "Al Faysaly": {
+    "en": "Al Faysaly",
+    "ar": "الفيصلي"
+  },
+  "Saudi Arabia Saudi League": {
+    "en": "Saudi Saudi League",
+    "ar": "الدوري السعودي"
+  },
+  "Al-Afreky SC": {
+    "en": "Al-Afreky SC",
+    "ar": "الأفريقي"
+  },
+  "Al Taawun": {
+    "en": "Al Taawun",
+    "ar": "التعاون"
+  },
+  "Libya Premier League - Group Stage": {
+    "en": "Libyan Premier League - Group Stage",
+    "ar": "الدوري الليبي الممتاز - دور المجموعات"
+  },
+  "Olympic Zawiya": {
+    "en": "Olympic Zawiya",
+    "ar": "أولمبي الزاوية"
+  },
+  "Al Ittehad Misrata": {
+    "en": "Al Ittehad Misrata",
+    "ar": "الاتحاد مصراتة"
+  },
+  "Al Ta'i": {
+    "en": "Al Ta'i",
+    "ar": "الطائي"
+  },
+  "Jeddah Club": {
+    "en": "Jeddah Club",
+    "ar": "نادي جدة"
+  },
+  "Saudi Arabia First Division": {
+    "en": "Saudi First Division",
+    "ar": "الدوري السعودي للدرجة الأولى"
+  },
+  "Us Biskra": {
+    "en": "US Biskra",
+    "ar": "اتحاد بسكرة"
+  },
+  "MC Alger": {
+    "en": "MC Alger",
+    "ar": "مولودية الجزائر"
+  },
+  "Algeria Ligue 1": {
+    "en": "Algerian Ligue 1",
+    "ar": "الدوري الجزائري"
+  },
+  "Tahaddy Benghazi": {
+    "en": "Tahaddy Benghazi",
+    "ar": "التحدي بنغازي"
+  },
+  "Military Union SC": {
+    "en": "Military Union SC",
+    "ar": "الاتحاد العسكري"
+  },
+  "Al Ittihad": {
+    "en": "Al Ittihad",
+    "ar": "الاتحاد"
+  },
+  "Shabab Al-Ghar": {
+    "en": "Shabab Al-Ghar",
+    "ar": "شباب الغار"
+  },
+  "Al Wehda Mecca": {
+    "en": "Al Wehda Mecca",
+    "ar": "الوحدة مكة"
+  },
+  "Al-Saqer": {
+    "en": "Al-Saqer",
+    "ar": "الصقر"
+  },
+  "Shabab Al Ahly": {
+    "en": "Shabab Al Ahly",
+    "ar": "شباب الأهلي"
+  },
+  "Esteghlal FC Tehran": {
+    "en": "Esteghlal FC Tehran",
+    "ar": "استقلال طهران"
+  },
+  "Al Seeb SC": {
+    "en": "Al Seeb SC",
+    "ar": "السيب"
+  },
+  "East Bengal": {
+    "en": "East Bengal",
+    "ar": "إيست بنغال"
+  },
+  "Asia AFC Champions League Two": {
+    "en": "Asian AFC Champions League Two",
+    "ar": "دوري أبطال آسيا 2"
+  },
+  "Al-Adalah": {
+    "en": "Al-Adalah",
+    "ar": "العدالة"
+  },
+  "Al Jeel": {
+    "en": "Al Jeel",
+    "ar": "الجيل"
+  },
+  "Rot-Weiss Essen": {
+    "en": "Rot-Weiss Essen",
+    "ar": "روت فايس إيسن"
+  },
+  "RB Leipzig": {
+    "en": "RB Leipzig",
+    "ar": "لايبزيغ"
+  },
+  "Germany DFB-Pokal - 2nd Round": {
+    "en": "German DFB-Pokal - 2nd Round",
+    "ar": "كأس ألمانيا - الدور الثاني"
+  },
+  "Hamburger SV": {
+    "en": "Hamburger SV",
+    "ar": "هامبورغ"
+  },
+  "Eintracht Frankfurt": {
+    "en": "Eintracht Frankfurt",
+    "ar": "آينتراخت فرانكفورت"
+  },
+  "Sonnenhof Großaspach": {
+    "en": "Sonnenhof Großaspach",
+    "ar": "زونهون غروس آسباخ"
+  },
+  "FC Augsburg": {
+    "en": "FC Augsburg",
+    "ar": "أوغسبورغ"
+  },
+  "VfL Bochum 1848": {
+    "en": "VfL Bochum 1848",
+    "ar": "بوخوم 1848"
+  },
+  "1. FSV Mainz 05": {
+    "en": "1. FSV Mainz 05",
+    "ar": "ماينتس 05"
+  },
+  "US Sassuolo Calcio": {
+    "en": "US Sassuolo Calcio",
+    "ar": "ساسولو"
+  },
+  "SS Lazio": {
+    "en": "SS Lazio",
+    "ar": "لاتسيو"
+  },
+  "Italy Serie A": {
+    "en": "Italian Serie A",
+    "ar": "الدوري الإيطالي"
+  },
+  "Cd Cuarte Industrial": {
+    "en": "CD Cuarte Industrial",
+    "ar": "كوارتي إندستريال"
+  },
+  "Girona FC": {
+    "en": "Girona FC",
+    "ar": "جيرونا"
+  },
+  "Spain Copa del Rey - 1st Round": {
+    "en": "Spanish Copa del Rey - 1st Round",
+    "ar": "كأس ملك إسبانيا - الدور الأول"
+  },
+  "Excelsior '31": {
+    "en": "Excelsior '31",
+    "ar": "إكسلسيور 31"
+  },
+  "ADO Den Haag": {
+    "en": "ADO Den Haag",
+    "ar": "أدو دين هاغ"
+  },
+  "Netherlands KNVB Cup - 1st Round": {
+    "en": "Dutch KNVB Cup - 1st Round",
+    "ar": "كأس هولندا - الدور الأول"
+  },
+  "AIK Solna": {
+    "en": "AIK Solna",
+    "ar": "إيه آي كيه سولنا"
+  },
+  "IF Elfsborg": {
+    "en": "IF Elfsborg",
+    "ar": "إلفسبورغ"
+  },
+  "Sweden Allsvenskan": {
+    "en": "Swedish Allsvenskan",
+    "ar": "الدوري السويدي"
+  },
+  "Sestao River Club": {
+    "en": "Sestao River Club",
+    "ar": "سيستاو ريفر"
+  },
+  "Reial Club Deportiu Espanyol de Barcelona": {
+    "en": "Reial Club Deportiu Espanyol de Barcelona",
+    "ar": "إسبانيول برشلونة"
+  },
+  "Pinatar Cf": {
+    "en": "Pinatar CF",
+    "ar": "بيناتار"
+  },
+  "Elche CF": {
+    "en": "Elche CF",
+    "ar": "إلتشي"
+  },
+  "Calamocha": {
+    "en": "Calamocha",
+    "ar": "كالاموتشا"
+  },
+  "CE Europa": {
+    "en": "CE Europa",
+    "ar": "أوروبا"
+  },
+  "Al Shamal": {
+    "en": "Al Shamal",
+    "ar": "الشمال"
+  },
+  "Al Hilal Riyadh": {
+    "en": "Al Hilal Riyadh",
+    "ar": "الهلال السعودي"
+  },
+  "Al Shorta Baghdad": {
+    "en": "Al Shorta Baghdad",
+    "ar": "الشرطة العراقي"
+  },
+  "Al Hussein": {
+    "en": "Al Hussein",
+    "ar": "الحسين"
+  },
+  "UD Castellonense": {
+    "en": "UD Castellonense",
+    "ar": "كاستيونينسي"
+  },
+  "UD Almería": {
+    "en": "UD Almería",
+    "ar": "ألميريا"
+  },
+  "Roda JC Kerkrade": {
+    "en": "Roda JC Kerkrade",
+    "ar": "رودا كيركراده"
+  },
+  "De Graafschap": {
+    "en": "De Graafschap",
+    "ar": "دي غرافشاب"
+  },
+  "Rijnsburgse Boys": {
+    "en": "Rijnsburgse Boys",
+    "ar": "راينسبورغسه بويز"
+  },
+  "Den Bosch": {
+    "en": "Den Bosch",
+    "ar": "دن بوش"
+  },
+  "SC Telstar": {
+    "en": "SC Telstar",
+    "ar": "تيلستار"
+  },
+  "Almere City FC": {
+    "en": "Almere City FC",
+    "ar": "ألميره سيتي"
+  },
+  "Barendrecht": {
+    "en": "Barendrecht",
+    "ar": "بارندريخت"
+  },
+  "RKC Waalwijk": {
+    "en": "RKC Waalwijk",
+    "ar": "فالفيك"
+  },
+  "Kloetinge": {
+    "en": "Kloetinge",
+    "ar": "كلوتينغه"
+  },
+  "Cambuur": {
+    "en": "Cambuur",
+    "ar": "كامبور"
+  },
+  "Helmond": {
+    "en": "Helmond",
+    "ar": "هيلموند"
+  },
+  "Jong Willem II Tilburg": {
+    "en": "Jong Willem II Tilburg",
+    "ar": "يونغ فيليم الثاني تيلبورغ"
+  },
+  "FC Eindhoven": {
+    "en": "FC Eindhoven",
+    "ar": "إيندهوفن"
+  },
+  "FC Volendam": {
+    "en": "FC Volendam",
+    "ar": "فوليندام"
+  },
+  "Gimnastica Segoviana": {
+    "en": "Gimnástica Segoviana",
+    "ar": "جيمناستيكا سيغوفيانا"
+  },
+  "Cultural y Deportiva Leonesa": {
+    "en": "Cultural y Deportiva Leonesa",
+    "ar": "كولتورال ليونيسا"
+  },
+  "RSD Alcala": {
+    "en": "RSD Alcalá",
+    "ar": "ألكالا"
+  },
+  "UD Las Palmas": {
+    "en": "UD Las Palmas",
+    "ar": "لاس بالماس"
+  },
+  "Atlético Tordesillas": {
+    "en": "Atlético Tordesillas",
+    "ar": "أتلتيكو تورديسياس"
+  },
+  "CD Mirandés": {
+    "en": "CD Mirandés",
+    "ar": "ميرانديس"
+  },
+  "Llanera": {
+    "en": "Llanera",
+    "ar": "يانيرا"
+  },
+  "SD Ponferradina": {
+    "en": "SD Ponferradina",
+    "ar": "بونفيرادينا"
+  },
+  "CD Ciudad de Lucena": {
+    "en": "CD Ciudad de Lucena",
+    "ar": "سيوداد دي لوسينا"
+  },
+  "CF Rayo Majadahonda": {
+    "en": "CF Rayo Majadahonda",
+    "ar": "رايو ماجاداهوندا"
+  },
+  "CE Manresa": {
+    "en": "CE Manresa",
+    "ar": "مانريسا"
+  },
+  "Sant Andreu": {
+    "en": "Sant Andreu",
+    "ar": "سانت أندرو"
+  },
+  "Don Benito": {
+    "en": "Don Benito",
+    "ar": "دون بينيتو"
+  },
+  "CD Extremadura 1924": {
+    "en": "CD Extremadura 1924",
+    "ar": "إكستريمادورا 1924"
+  },
+  "Torino": {
+    "en": "Torino",
+    "ar": "تورينو"
+  },
+  "Calcio Como 1907": {
+    "en": "Calcio Como 1907",
+    "ar": "كومو 1907"
+  },
+  "AS Roma": {
+    "en": "AS Roma",
+    "ar": "روما"
+  },
+  "Cagliari Calcio": {
+    "en": "Cagliari Calcio",
+    "ar": "كالياري"
+  },
+  "1. FC Köln": {
+    "en": "1. FC Köln",
+    "ar": "كولن"
+  },
+  "1. FC Union Berlin": {
+    "en": "1. FC Union Berlin",
+    "ar": "يونيون برلين"
+  },
+  "Borussia Mönchengladbach": {
+    "en": "Borussia Mönchengladbach",
+    "ar": "بوروسيا مونشنغلادباخ"
+  },
+  "Karlsruher": {
+    "en": "Karlsruher",
+    "ar": "كارلسروه"
+  },
+  "Borussia Dortmund": {
+    "en": "Borussia Dortmund",
+    "ar": "بوروسيا دورتموند"
+  },
+  "SV Werder Bremen": {
+    "en": "SV Werder Bremen",
+    "ar": "فيردر بريمن"
+  },
+  "SV 07 Elversberg": {
+    "en": "SV 07 Elversberg",
+    "ar": "إلفرسبرغ"
+  },
+  "SV Darmstadt 98": {
+    "en": "SV Darmstadt 98",
+    "ar": "دارمشتات 98"
+  },
+  "Bradford City AFC": {
+    "en": "Bradford City AFC",
+    "ar": "برادفورد سيتي"
+  },
+  "Peterborough": {
+    "en": "Peterborough",
+    "ar": "بيتربورو"
+  },
+  "England EFL Cup - 4th Round": {
+    "en": "English EFL Cup - 4th Round",
+    "ar": "كأس رابطة الأندية الإنجليزية - الدور الرابع"
+  },
+  "Penicuik Athletic": {
+    "en": "Penicuik Athletic",
+    "ar": "بينيكويك أثليتيك"
+  },
+  "Clyde": {
+    "en": "Clyde",
+    "ar": "كلايد"
+  },
+  "Scotland FA Cup - 2nd Round": {
+    "en": "Scottish FA Cup - 2nd Round",
+    "ar": "كأس اسكتلندا - الدور الثاني"
+  },
+  "Fleetwood Town": {
+    "en": "Fleetwood Town",
+    "ar": "فليتوود تاون"
+  },
+  "Arsenal FC": {
+    "en": "Arsenal FC",
+    "ar": "أرسنال"
+  },
+  "Koninklijke HFC": {
+    "en": "Koninklijke HFC",
+    "ar": "كونينكليكي إتش إف سي"
+  },
+  "Go Ahead Eagles": {
+    "en": "Go Ahead Eagles",
+    "ar": "غو أهيد إيغلز"
+  },
+  "CD Atletico Paso": {
+    "en": "CD Atlético Paso",
+    "ar": "أتلتيكو باسو"
+  },
+  "Córdoba FC": {
+    "en": "Córdoba FC",
+    "ar": "قرطبة"
+  },
+  "CD Manacor": {
+    "en": "CD Manacor",
+    "ar": "ماناكور"
+  },
+  "Villarreal CF": {
+    "en": "Villarreal CF",
+    "ar": "فياريال"
+  },
+  "Arosa SC": {
+    "en": "Arosa SC",
+    "ar": "أروسا"
+  },
+  "Pontevedra CF": {
+    "en": "Pontevedra CF",
+    "ar": "بونتيفيدرا"
+  },
+  "Gimnástico De Alcázar": {
+    "en": "Gimnástico de Alcázar",
+    "ar": "جيمناستيكو دي ألكاثار"
+  },
+  "Málaga CF": {
+    "en": "Málaga CF",
+    "ar": "مالقة"
+  },
+  "RC Recreativo de Huelva": {
+    "en": "RC Recreativo de Huelva",
+    "ar": "ري크رياتيفو هويلفا"
+  },
+  "Rayo Vallecano de Madrid": {
+    "en": "Rayo Vallecano de Madrid",
+    "ar": "رايو فايكانو"
+  },
+  "Tudelano": {
+    "en": "Tudelano",
+    "ar": "توديلانو"
+  },
+  "Real Zaragoza": {
+    "en": "Real Zaragoza",
+    "ar": "ريال سرقسطة"
+  },
+  "AA Argentinos Juniors": {
+    "en": "AA Argentinos Juniors",
+    "ar": "أرجنتينوس جونيورز"
+  },
+  "Independiente Rivadavia": {
+    "en": "Independiente Rivadavia",
+    "ar": "إنديبندينتي ريفادافيا"
+  }
+}
