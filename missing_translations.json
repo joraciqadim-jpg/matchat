@@ -16,7 +16,7 @@
     "ar": "ديبورتيفو ريسترا"
   },
   "Argentina Liga Profesional - Clausura": {
-    "en": "Argentina Liga Profesional - Clausura",
+    "en": "Argentinean Liga Profesional - Clausura",
     "ar": "الدوري الأرجنتيني للمحترفين - مرحلة الإياب"
   },
   "Daejeon Hana Citizen": {
@@ -76,7 +76,7 @@
     "ar": "الفيصلي"
   },
   "Saudi Arabia Saudi League": {
-    "en": "Saudi Arabia Saudi League",
+    "en": "Saudi Arabia League",
     "ar": "الدوري السعودي"
   },
   "Al-Afreky SC": {
@@ -97,7 +97,7 @@
   },
   "Saudi Arabia First Division": {
     "en": "Saudi Arabia First Division",
-    "ar": "الدوري السعودي للدرجة الأولى"
+    "ar": "الدوري السعودي للدرجة 1"
   },
   "Us Biskra": {
     "en": "Us Biskra",
@@ -108,8 +108,8 @@
     "ar": "مولودية الجزائر"
   },
   "Algeria Ligue 1": {
-    "en": "Algeria Ligue 1",
-    "ar": "الدوري الجزائري الأول"
+    "en": "Algerian Ligue 1",
+    "ar": "الدوري الجزائري"
   },
   "Olympic Zawiya": {
     "en": "Olympic Zawiya",
@@ -164,7 +164,7 @@
     "ar": "الاتحاد العسكري"
   },
   "Germany DFB-Pokal - 2nd Round": {
-    "en": "Germany DFB-Pokal - 2nd Round",
+    "en": "German DFB-Pokal - 2nd Round",
     "ar": "كأس ألمانيا - الدور الثاني"
   },
   "Hamburger SV": {
@@ -212,7 +212,7 @@
     "ar": "إكسلسيور 31"
   },
   "Netherlands KNVB Cup - 1st Round": {
-    "en": "Netherlands KNVB Cup - 1st Round",
+    "en": "Dutch KNVB Cup - 1st Round",
     "ar": "كأس هولندا - الدور الأول"
   },
   "AIK Solna": {
@@ -224,7 +224,7 @@
     "ar": "إلفسبورغ"
   },
   "Sweden Allsvenskan": {
-    "en": "Sweden Allsvenskan",
+    "en": "Sweden League",
     "ar": "الدوري السويدي الممتاز"
   },
   "Sestao River Club": {
@@ -305,7 +305,7 @@
   },
   "Jong Willem II Tilburg": {
     "en": "Jong Willem II Tilburg",
-    "ar": "يونغ فيليم الثاني تيلبورغ"
+    "ar": "يونغ فيليم 2 تيلبورغ"
   },
   "FC Volendam": {
     "en": "FC Volendam",
@@ -417,7 +417,7 @@
   },
   "England EFL Cup - 4th Round": {
     "en": "England EFL Cup - 4th Round",
-    "ar": "كأس رابطة الأندية الإنجليزية - الدور الرابع"
+    "ar": "كأس رابطة الأندية الإنجليزية - الدور 4"
   },
   "Penicuik Athletic": {
     "en": "Penicuik Athletic",
@@ -429,7 +429,7 @@
   },
   "Scotland FA Cup - 2nd Round": {
     "en": "Scotland FA Cup - 2nd Round",
-    "ar": "كأس اسكتلندا - الدور الثاني"
+    "ar": "كأس اسكتلندا - الدور 2"
   },
   "Fleetwood Town": {
     "en": "Fleetwood Town",
@@ -484,8 +484,8 @@
     "ar": "ريال كلوب ريكرياتيفو دي هويلفا"
   },
   "Rayo Vallecano de Madrid": {
-    "en": "Rayo Vallecano de Madrid",
-    "ar": "رايو فايكانو دي مدريد"
+    "en": "Rayo Vallecano",
+    "ar": "رايو فايكانو"
   },
   "Tudelano": {
     "en": "Tudelano",
@@ -496,7 +496,7 @@
     "ar": "ريال سرقسطة"
   },
   "AA Argentinos Juniors": {
-    "en": "AA Argentinos Juniors",
+    "en": "Argentinos Juniors",
     "ar": "أرجنتينوس جونيورز"
   },
   "Independiente Rivadavia": {
@@ -513,11 +513,11 @@
   },
   "libya premier league group stage": {
     "en": "Libya Premier League - Group Stage",
-    "ar": "الدوري الليبي الممتاز - دور المجموعات"
+    "ar": "الدوري الليبي - دور المجموعات"
   },
   "argentina liga profesional clausura": {
-    "en": "Argentina Liga Profesional - Clausura",
-    "ar": "الدوري الأرجنتيني للمحترفين - مرحلة كلاوسورا"
+    "en": "Argentinean Liga Profesional - Clausura",
+    "ar": "الدوري الأرجنتيني للمحترفين - كلاوسورا"
   },
   "asia afc champions league elite": {
     "en": "Asia AFC Champions League Elite",
@@ -545,15 +545,15 @@
   },
   "italy serie a": {
     "en": "Italy Serie A",
-    "ar": "الدوري الإيطالي الدرجة الأولى"
+    "ar": "الدوري الإيطالي"
   },
   "spain copa del rey 1st round": {
     "en": "Spain Copa del Rey - 1st Round",
-    "ar": "كأس ملك إسبانيا - الدور الأول"
+    "ar": "كأس ملك إسبانيا - الدور 1"
   },
   "netherlands knvb cup 1st round": {
     "en": "Netherlands KNVB Cup - 1st Round",
-    "ar": "كأس هولندا - الدور الأول"
+    "ar": "كأس هولندا - الدور 1"
   },
   "sweden allsvenskan": {
     "en": "Sweden Allsvenskan",
