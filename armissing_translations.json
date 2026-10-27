@@ -1,4 +1,228 @@
 {
+  "Agri 1970": {
+    "ar": "Agri 1970",
+    "en": "Ağrı 1970"
+  },
+  "اسطنبول سبور": {
+    "ar": "اسطنبول سبور",
+    "en": "Istanbulspor"
+  },
+  "كأس تركيا": {
+    "ar": "كأس تركيا",
+    "en": "Turkish Cup"
+  },
+  "اتيميسغوت": {
+    "ar": "اتيميسغوت",
+    "en": "Etimesgut Belediyespor"
+  },
+  "بازار سبور": {
+    "ar": "بازار سبور",
+    "en": "Pazarspor"
+  },
+  "Aliaga": {
+    "ar": "Aliaga",
+    "en": "Aliağa"
+  },
+  "Inegol Kafkas": {
+    "ar": "Inegol Kafkas",
+    "en": "İnegöl Kafkas"
+  },
+  "Maras Istiklal": {
+    "ar": "Maras Istiklal",
+    "en": "Maraş İstiklalspor"
+  },
+  "إلازغ سبور": {
+    "ar": "إلازغ سبور",
+    "en": "Elazığspor"
+  },
+  "أرجية سبور": {
+    "ar": "أرجية سبور",
+    "en": "Erciyespor"
+  },
+  "سارير": {
+    "ar": "سارير",
+    "en": "Sarıyer"
+  },
+  "Ayvalıkgücü BS": {
+    "ar": "Ayvalıkgücü BS",
+    "en": "Ayvalıkgücü Belediyespor"
+  },
+  "Orduspor 1967": {
+    "ar": "Orduspor 1967",
+    "en": "Orduspor 1967"
+  },
+  "وان سبور": {
+    "ar": "وان سبور",
+    "en": "Vanspor"
+  },
+  "بولو سبور": {
+    "ar": "بولو سبور",
+    "en": "Boluspor"
+  },
+  "كارسياكا": {
+    "ar": "كارسياكا",
+    "en": "Karşıyaka"
+  },
+  "الأفريقي": {
+    "ar": "الأفريقي",
+    "en": "Club Africain"
+  },
+  "الدوري الليبي - المجموعات": {
+    "ar": "الدوري الليبي - المجموعات",
+    "en": "Libyan League - Group Stage"
+  },
+  "الأولمبي": {
+    "ar": "الأولمبي",
+    "en": "Al-Olympic"
+  },
+  "الاتحاد المصراتي": {
+    "ar": "الاتحاد المصراتي",
+    "en": "Al-Ittihad Al-Misrati"
+  },
+  "دوري أبطال الخليج للأندية": {
+    "ar": "دوري أبطال الخليج للأندية",
+    "en": "Gulf Club Champions League"
+  },
+  "Mazıdağı Fosfat Spor Kulübü": {
+    "ar": "Mazıdağı Fosfat Spor Kulübü",
+    "en": "Mazıdağı Fosfat Sports Club"
+  },
+  "مرسين إدمان يوردو": {
+    "ar": "مرسين إدمان يوردو",
+    "en": "Mersin İdmanyurdu"
+  },
+  "Muş Spor": {
+    "ar": "Muş Spor",
+    "en": "Muşspor"
+  },
+  "التحدي": {
+    "ar": "التحدي",
+    "en": "Al-Tahaddi"
+  },
+  "الاتحاد العسكري": {
+    "ar": "الاتحاد العسكري",
+    "en": "Al-Ittihad Al-Askari"
+  },
+  "الإتحاد": {
+    "ar": "الإتحاد",
+    "en": "Al-Ittihad"
+  },
+  "شباب الغار": {
+    "ar": "شباب الغار",
+    "en": "Shabab Al-Ghar"
+  },
+  "12 بينجول سبور": {
+    "ar": "12 بينجول سبور",
+    "en": "12 Bingölspor"
+  },
+  "إكسيلسيور 31": {
+    "ar": "إكسيلسيور 31",
+    "en": "Excelsior '31"
+  },
+  "كأس هولندا - الدور 1": {
+    "ar": "كأس هولندا - الدور 1",
+    "en": "Dutch Cup - Round 1"
+  },
+  "ويمبلدون": {
+    "ar": "ويمبلدون",
+    "en": "Wimbledon"
+  },
+  "كأس رابطة الأندية الإنجليزية المحترفة": {
+    "ar": "كأس رابطة الأندية الإنجليزية المحترفة",
+    "en": "EFL Cup"
+  },
+  "فولندام": {
+    "ar": "فولندام",
+    "en": "FC Volendam"
+  },
+  "بلاكبول": {
+    "ar": "بلاكبول",
+    "en": "Blackpool"
+  },
+  "استون فيلا": {
+    "ar": "استون فيلا",
+    "en": "Aston Villa"
+  },
+  "بورت فيل": {
+    "ar": "بورت فيل",
+    "en": "Port Vale"
+  },
+  "ألميري سيتي": {
+    "ar": "ألميري سيتي",
+    "en": "Almere City"
+  },
+  "رودا جيه.سي.": {
+    "ar": "رودا جيه.سي.",
+    "en": "Roda JC"
+  },
+  "دي خرافسخاب": {
+    "ar": "دي خرافسخاب",
+    "en": "De Graafschap"
+  },
+  "رينسبورغسة بويز": {
+    "ar": "رينسبورغسة بويز",
+    "en": "Rijnsburgse Boys"
+  },
+  "دن بوس": {
+    "ar": "دن بوس",
+    "en": "Den Bosch"
+  },
+  "شروزبري": {
+    "ar": "شروزبري",
+    "en": "Shrewsbury"
+  },
+  "ايفرتون": {
+    "ar": "ايفرتون",
+    "en": "Everton"
+  },
+  "هيلموند سبورت": {
+    "ar": "هيلموند سبورت",
+    "en": "Helmond Sport"
+  },
+  "Barendrecht": {
+    "ar": "Barendrecht",
+    "en": "Barendrecht"
+  },
+  "آر كاي سي فالفيك": {
+    "ar": "آر كاي سي فالفيك",
+    "en": "RKC Waalwijk"
+  },
+  "Kloetinge": {
+    "ar": "Kloetinge",
+    "en": "Kloetinge"
+  },
+  "ووركينجتون": {
+    "ar": "ووركينجتون",
+    "en": "Workington"
+  },
+  "كليثوربيس تاون": {
+    "ar": "كليثوربيس تاون",
+    "en": "Cleethorpes Town"
+  },
+  "كأس الإتحاد الإنجليزي - الدور 2": {
+    "ar": "كأس الإتحاد الإنجليزي - الدور 2",
+    "en": "FA Cup - Round 2"
+  },
+  "Penicuik Athletic": {
+    "ar": "Penicuik Athletic",
+    "en": "Penicuik Athletic"
+  },
+  "كلايد": {
+    "ar": "كلايد",
+    "en": "Clyde"
+  },
+  "كأس اسكتلندا - الدور 2": {
+    "ar": "كأس اسكتلندا - الدور 2",
+    "en": "Scottish Cup - Round 2"
+  },
+  "كونينكلجكي اتش": {
+    "ar": "كونينكلجكي اتش",
+    "en": "Koninklijke HFC"
+  },
+  "كاس الدوري البرتغالي - ربع النهائي": {
+    "ar": "كاس الدوري البرتغالي - ربع النهائي",
+    "en": "Portuguese League Cup - Quarter-finals"
+  },
   "إيست بنغال": {
     "ar": "إيست بنغال",
     "en": "East Bengal"
