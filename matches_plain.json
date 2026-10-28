@@ -3,32 +3,6 @@
     {
       "tournamentEn": "🛡️ AFC Champions League Two",
       "tournamentAr": "🛡️ دوري أبطال آسيا 2",
-      "matchEn": "Al Jazira (United Arab Emirates) v Muharraq (Bahrain)",
-      "matchAr": "الجزيرة (الإمارات) × المحرق (البحرين)",
-      "time": "16:00",
-      "channels": [
-        "📺 Bein Sport 2 [Nilesat 7.0W 11013 H 27500]",
-        "📺 Bein Sport 2 [Badrsat 26.0E 10810 H 27500]",
-        "📺 Al Kass Six [Badrsat 26.0E 10770 H 27500]",
-        "📺 Spor Smart [Turksat 42.0E 12188 V 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🛡️ AFC Champions League Two",
-      "tournamentAr": "🛡️ دوري أبطال آسيا 2",
-      "matchEn": "Al Nahda (Oman) v Al Rayyan (Qatar)",
-      "matchAr": "النهضة (عُمان) × الريان (قطر)",
-      "time": "16:00",
-      "channels": [
-        "📺 Bein Sport 1 [Nilesat 7.0W 11013 H 27500]",
-        "📺 Bein Sport 1 [Badrsat 26.0E 10810 H 27500]",
-        "📺 Al Kass Five [Badrsat 26.0E 10770 H 27500]",
-        "📺 Spor Smart 2 [Turksat 42.0E 12245 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🛡️ AFC Champions League Two",
-      "tournamentAr": "🛡️ دوري أبطال آسيا 2",
       "matchEn": "Al Khaldiya (Bahrain) v Al Wahda (United Arab Emirates)",
       "matchAr": "الخالدية (البحرين) × الوحدة (الإمارات)",
       "time": "18:15",
@@ -50,30 +24,6 @@
         "📺 Bein Sport 2 [Badrsat 26.0E 10810 H 27500]",
         "📺 Al Kass Five [Badrsat 26.0E 10770 H 27500]",
         "📺 Spor Smart [Turksat 42.0E 12188 V 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🛡️ AFC Gulf Club Champions League",
-      "tournamentAr": "🛡️ دوري أبطال الخليج للأندية",
-      "matchEn": "Erbil (Iraq) v Al-Ettifaq (Saudi Arabia)",
-      "matchAr": "أربيل (العراق) × الاتفاق (السعودية)",
-      "time": "14:30",
-      "channels": [
-        "📺 Al Kass Four [Nilesat 7.0W 11919 H 27500]",
-        "📺 Al Kass Four [Badrsat 26.0E 12245 V 27500]",
-        "📺 Al Kass Four [Badrsat 26.0E 10770 V 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🛡️ AFC Gulf Club Champions League",
-      "tournamentAr": "🛡️ دوري أبطال الخليج للأندية",
-      "matchEn": "Shaab Hadramout (Yemen) v Al Duhail (Qatar)",
-      "matchAr": "شعب حضرموت (اليمن) × الدحيل (قطر)",
-      "time": "15:15",
-      "channels": [
-        "📺 Al Kass One [Nilesat 7.0W 11919 H 27500]",
-        "📺 Al Kass One [Badrsat 26.0E 12245 V 27500]",
-        "📺 Al Kass One [Badrsat 26.0E 10770 V 27500]"
       ]
     },
     {
@@ -524,30 +474,6 @@
       "channels": [
         "📺 Sport TV 1 [Hispasat 30W 12360 H 27500]",
         "📺 On Sport Plus [Nilesat 7.0W 11977 V 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🏆 Youth U17 Gulf Cup",
-      "tournamentAr": "🏆 كأس الخليج للشباب تحت 17 سنة",
-      "matchEn": "Qatar v Emirates",
-      "matchAr": "قطر × الإمارات",
-      "time": "14:45",
-      "channels": [
-        "📺 Al Kass One [Nilesat 7.0W 11919 H 27500]",
-        "📺 Al Kass One [Badrsat 26.0E 12245 V 27500]",
-        "📺 Al Kass One [Badrsat 26.0E 10770 V 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🏆 Youth U17 Gulf Cup",
-      "tournamentAr": "🏆 كأس الخليج للشباب تحت 17 سنة",
-      "matchEn": "Bahrain v Oman",
-      "matchAr": "البحرين × عمان",
-      "time": "14:45",
-      "channels": [
-        "📺 Al Kass Two [Nilesat 7.0W 11919 H 27500]",
-        "📺 Al Kass Two [Badrsat 26.0E 12245 V 27500]",
-        "📺 Al Kass Two [Badrsat 26.0E 10770 V 27500]"
       ]
     },
     {
