@@ -1,4 +1,124 @@
 {
+  "Gamba Osaka": {
+    "en": "Gamba Osaka",
+    "ar": "غامبا أوساكا",
+    "countryen": "Japan",
+    "countryar": "اليابان"
+  },
+  "Buriram United": {
+    "en": "Buriram United",
+    "ar": "بوريرام يونايتد",
+    "countryen": "Thailand",
+    "countryar": "تايلاند"
+  },
+  "Kashima Antlers": {
+    "en": "Kashima Antlers",
+    "ar": "كاشيما أنتلرز",
+    "countryen": "Japan",
+    "countryar": "اليابان"
+  },
+  "Pohang Steelers": {
+    "en": "Pohang Steelers",
+    "ar": "بوهانغ ستيلرز",
+    "countryen": "South Korea",
+    "countryar": "كوريا الجنوبية"
+  },
+  "Viettel": {
+    "en": "Viettel",
+    "ar": "فييتل",
+    "countryen": "Vietnam",
+    "countryar": "فيتنام"
+  },
+  "FC Seoul": {
+    "en": "FC Seoul",
+    "ar": "سيول",
+    "countryen": "South Korea",
+    "countryar": "كوريا الجنوبية"
+  },
+  "Persatuan Sepakbola Indonesia Bandung": {
+    "en": "Persatuan Sepakbola Indonesia Bandung",
+    "ar": "نادي اتحاد كرة القدم الإندونيسي باندونغ",
+    "countryen": "Indonesia",
+    "countryar": "إندونيسيا"
+  },
+  "Melbourne Victory": {
+    "en": "Melbourne Victory",
+    "ar": "ملبورن فيكتوري",
+    "countryen": "Australia",
+    "countryar": "أستراليا"
+  },
+  "Gol Gohar": {
+    "en": "Gol Gohar",
+    "ar": "گل گهر",
+    "countryen": "Iran",
+    "countryar": "إيران"
+  },
+  "Arkadag": {
+    "en": "Arkadag",
+    "ar": "أركاداغ",
+    "countryen": "Turkmenistan",
+    "countryar": "تركمانستان"
+  },
+  "Nasaf Qarshi": {
+    "en": "Nasaf Qarshi",
+    "ar": "ناساف قرشي",
+    "countryen": "Uzbekistan",
+    "countryar": "أوزبكستان"
+  },
+  "Kuwait SC": {
+    "en": "Kuwait SC",
+    "ar": "الكويت",
+    "countryen": "Kuwait",
+    "countryar": "الكويت"
+  },
+  "Al Nahda": {
+    "en": "Al Nahda",
+    "ar": "النهضة",
+    "countryen": "Oman",
+    "countryar": "عُمان"
+  },
+  "Al Rayyan": {
+    "en": "Al Rayyan",
+    "ar": "الريان",
+    "countryen": "Qatar",
+    "countryar": "قطر"
+  },
+  "Jazira Abu Dhabi": {
+    "en": "Jazira Abu Dhabi",
+    "ar": "الجزيرة أبوظبي",
+    "countryen": "United Arab Emirates",
+    "countryar": "الإمارات العربية المتحدة"
+  },
+  "Muharraq SC": {
+    "en": "Muharraq SC",
+    "ar": "المحرق",
+    "countryen": "Bahrain",
+    "countryar": "البحرين"
+  },
+  "Al Faisaly": {
+    "en": "Al Faisaly",
+    "ar": "الفيصلي",
+    "countryen": "Saudi Arabia",
+    "countryar": "السعودية"
+  },
+  "Al Taawoun": {
+    "en": "Al Taawoun",
+    "ar": "التعاون",
+    "countryen": "Saudi Arabia",
+    "countryar": "السعودية"
+  },
+  "Al Khalidiyah (Bhr)": {
+    "en": "Al Khalidiyah (Bhr)",
+    "ar": "الخالدية البحريني",
+    "countryen": "Bahrain",
+    "countryar": "البحرين"
+  },
+  "Wahda Abu Dhabi": {
+    "en": "Wahda Abu Dhabi",
+    "ar": "الوحدة أبوظبي",
+    "countryen": "United Arab Emirates",
+    "countryar": "الإمارات العربية المتحدة"
+  },
   "erbil": {
     "en": "Erbil",
     "ar": "أربيل",
