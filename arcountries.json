@@ -1,4 +1,154 @@
 {
+  "غامبا أوساكا": {
+    "en": "Gamba Osaka",
+    "ar": "غامبا أوساكا",
+    "countryen": "Japan",
+    "countryar": "اليابان"
+  },
+  "بوريرام يونايتد": {
+    "en": "Buriram United",
+    "ar": "بوريرام يونايتد",
+    "countryen": "Thailand",
+    "countryar": "تايلاند"
+  },
+  "كاشيما أنتليرز": {
+    "en": "Kashima Antlers",
+    "ar": "كاشيما أنتليرز",
+    "countryen": "Japan",
+    "countryar": "اليابان"
+  },
+  "بوهانغ ستيليرز": {
+    "en": "Pohang Steelers",
+    "ar": "بوهانغ ستيليرز",
+    "countryen": "South Korea",
+    "countryar": "كوريا الجنوبية"
+  },
+  "فيتيل": {
+    "en": "Viettel",
+    "ar": "فيتيل",
+    "countryen": "Vietnam",
+    "countryar": "فيتنام"
+  },
+  "سيؤول": {
+    "en": "FC Seoul",
+    "ar": "سيؤول",
+    "countryen": "South Korea",
+    "countryar": "كوريا الجنوبية"
+  },
+  "يرسيب باندونغ": {
+    "en": "Persib Bandung",
+    "ar": "يرسيب باندونغ",
+    "countryen": "Indonesia",
+    "countryar": "إندونيسيا"
+  },
+  "ملبورن فيكتوري": {
+    "en": "Melbourne Victory",
+    "ar": "ملبورن فيكتوري",
+    "countryen": "Australia",
+    "countryar": "أستراليا"
+  },
+  "گل گهر سیرجان": {
+    "en": "Gol Gohar Sirjan",
+    "ar": "گل گهر سیرجان",
+    "countryen": "Iran",
+    "countryar": "إيران"
+  },
+  "أركاداج": {
+    "en": "Arkadag",
+    "ar": "أركاداج",
+    "countryen": "Turkmenistan",
+    "countryar": "تركمانستان"
+  },
+  "ناساف كارشي": {
+    "en": "Nasaf Qarshi",
+    "ar": "ناساف كارشي",
+    "countryen": "Uzbekistan",
+    "countryar": "أوزبكستان"
+  },
+  "الكويت": {
+    "en": "Al-Kuwait",
+    "ar": "الكويت",
+    "countryen": "Kuwait",
+    "countryar": "الكويت"
+  },
+  "أربيل": {
+    "en": "Erbil",
+    "ar": "أربيل",
+    "countryen": "Iraq",
+    "countryar": "العراق"
+  },
+  "الاتفاق": {
+    "en": "Al-Ettifaq",
+    "ar": "الاتفاق",
+    "countryen": "Saudi Arabia",
+    "countryar": "السعودية"
+  },
+  "الشعب حضرموت": {
+    "en": "Al-Shaab Hadramout",
+    "ar": "الشعب حضرموت",
+    "countryen": "Yemen",
+    "countryar": "اليمن"
+  },
+  "الدحيل": {
+    "en": "Al-Duhail",
+    "ar": "الدحيل",
+    "countryen": "Qatar",
+    "countryar": "قطر"
+  },
+  "الجزيرة": {
+    "en": "Al Jazira",
+    "ar": "الجزيرة",
+    "countryen": "United Arab Emirates",
+    "countryar": "الإمارات العربية المتحدة"
+  },
+  "المحرق": {
+    "en": "Al-Muharraq",
+    "ar": "المحرق",
+    "countryen": "Bahrain",
+    "countryar": "البحرين"
+  },
+  "النهضة": {
+    "en": "Al-Nahda",
+    "ar": "النهضة",
+    "countryen": "Oman",
+    "countryar": "عُمان"
+  },
+  "الريان": {
+    "en": "Al-Rayyan",
+    "ar": "الريان",
+    "countryen": "Qatar",
+    "countryar": "قطر"
+  },
+  "الزوراء": {
+    "en": "Al-Zawraa",
+    "ar": "الزوراء",
+    "countryen": "Iraq",
+    "countryar": "العراق"
+  },
+  "الخالدية": {
+    "en": "Al-Khaldiya",
+    "ar": "الخالدية",
+    "countryen": "Bahrain",
+    "countryar": "البحرين"
+  },
+  "الوحدة": {
+    "en": "Al-Wehda",
+    "ar": "الوحدة",
+    "countryen": "Saudi Arabia",
+    "countryar": "المملكة العربية السعودية"
+  },
+  "الفيصلي": {
+    "en": "Al-Faisaly",
+    "ar": "الفيصلي",
+    "countryen": "Saudi Arabia",
+    "countryar": "المملكة العربية السعودية"
+  },
+  "التعاون": {
+    "en": "Al-Taawoun",
+    "ar": "التعاون",
+    "countryen": "Saudi Arabia",
+    "countryar": "السعودية"
+  },
   "كاظمة": {
     "en": "Kazma",
     "ar": "كاظمة",
