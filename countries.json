@@ -1,4 +1,28 @@
 {
+  "erbil": {
+    "en": "Erbil",
+    "ar": "أربيل",
+    "countryen": "Iraq",
+    "countryar": "العراق"
+  },
+  "alettifaq": {
+    "en": "Al-Ettifaq",
+    "ar": "الإتفاق",
+    "countryen": "Saudi Arabia",
+    "countryar": "السعودية"
+  },
+  "alzawraa": {
+    "en": "Al-Zawraa",
+    "ar": "الزوراء",
+    "countryen": "Iraq",
+    "countryar": "العراق"
+  },
+  "al nasr dubai": {
+    "en": "Al Nasr Dubai",
+    "ar": "النصر",
+    "countryen": "United Arab Emirates",
+    "countryar": "الإمارات"
+  },
   "nasaf": {
     "en": "Nasaf",
     "ar": "ناساف كارشي",
