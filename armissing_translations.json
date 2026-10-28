@@ -1,4 +1,472 @@
 {
+  "بوريرام يونايتد": {
+    "ar": "بوريرام يونايتد",
+    "en": "Buriram United"
+  },
+  "Karsspor": {
+    "ar": "Karsspor",
+    "en": "Kars Spor"
+  },
+  "أنطاليا سبور": {
+    "ar": "أنطاليا سبور",
+    "en": "Antalyaspor"
+  },
+  "انجول سبور": {
+    "ar": "انجول سبور",
+    "en": "İnegölspor"
+  },
+  "Sebat Genclikspor": {
+    "ar": "Sebat Genclikspor",
+    "en": "Sebat Gençlikspor"
+  },
+  "أوسمان سبور": {
+    "ar": "أوسمان سبور",
+    "en": "Osman Spor"
+  },
+  "كيركلارليسبور": {
+    "ar": "كيركلارليسبور",
+    "en": "Kırklarelispor"
+  },
+  "بلدية منيمين": {
+    "ar": "بلدية منيمين",
+    "en": "Menemen Belediyespor"
+  },
+  "Karacabey Birlikspor": {
+    "ar": "Karacabey Birlikspor",
+    "en": "Karacabey Belediyespor"
+  },
+  "دوسي سبور": {
+    "ar": "دوسي سبور",
+    "en": "Düzcespor"
+  },
+  "Isparta Davrazspor": {
+    "ar": "Isparta Davrazspor",
+    "en": "Isparta Davrazspor"
+  },
+  "سيليفريسبور": {
+    "ar": "سيليفريسبور",
+    "en": "Silivrispor"
+  },
+  "Beyoglu Yeni Carsi Fk": {
+    "ar": "Beyoglu Yeni Carsi Fk",
+    "en": "Beyoğlu Yeni Çarşı FK"
+  },
+  "كاستامونى سبور": {
+    "ar": "كاستامونى سبور",
+    "en": "Kastamonuspor"
+  },
+  "أرزنجان سبور": {
+    "ar": "أرزنجان سبور",
+    "en": "Erzincanspor"
+  },
+  "Anadolu Universitesi": {
+    "ar": "Anadolu Universitesi",
+    "en": "Anadolu University"
+  },
+  "أكساراي سبور": {
+    "ar": "أكساراي سبور",
+    "en": "Aksarayspor"
+  },
+  "Guzide Gebzespor": {
+    "ar": "Guzide Gebzespor",
+    "en": "Güzide Gebzespor"
+  },
+  "Malatya Yesilyurt": {
+    "ar": "Malatya Yesilyurt",
+    "en": "Malatya Yeşilyurt"
+  },
+  "باليكيسير سبور": {
+    "ar": "باليكيسير سبور",
+    "en": "Balıkesirspor"
+  },
+  "Arnavutköy Belediyespor": {
+    "ar": "Arnavutköy Belediyespor",
+    "en": "Arnavutköy Belediyespor"
+  },
+  "سانليورفا سبور": {
+    "ar": "سانليورفا سبور",
+    "en": "Şanlıurfaspor"
+  },
+  "غولكوك سبور": {
+    "ar": "غولكوك سبور",
+    "en": "Gölcükspor"
+  },
+  "فاتح قره جمرك": {
+    "ar": "فاتح قره جمرك",
+    "en": "Fatih Karagümrük"
+  },
+  "Somaspor": {
+    "ar": "Somaspor",
+    "en": "Somaspor"
+  },
+  "قره بوك سبور": {
+    "ar": "قره بوك سبور",
+    "en": "Karabükspor"
+  },
+  "Körfez İskenderunspor": {
+    "ar": "Körfez İskenderunspor",
+    "en": "Körfez İskenderunspor"
+  },
+  "Adana": {
+    "ar": "Adana",
+    "en": "Adana"
+  },
+  "Kütahyaspor": {
+    "ar": "Kütahyaspor",
+    "en": "Kütahyaspor"
+  },
+  "فيتيل": {
+    "ar": "فيتيل",
+    "en": "Viettel"
+  },
+  "يرسيب باندونغ": {
+    "ar": "يرسيب باندونغ",
+    "en": "Persib Bandung"
+  },
+  "ملبورن فيكتوري": {
+    "ar": "ملبورن فيكتوري",
+    "en": "Melbourne Victory"
+  },
+  "فتحية سبور": {
+    "ar": "فتحية سبور",
+    "en": "Fethiyespor"
+  },
+  "الصداقة": {
+    "ar": "الصداقة",
+    "en": "Al-Sadaqa"
+  },
+  "المدينة": {
+    "ar": "المدينة",
+    "en": "Al-Madina"
+  },
+  "گل گهر سیرجان": {
+    "ar": "گل گهر سیرجان",
+    "en": "Gol Gohar Sirjan"
+  },
+  "أركاداج": {
+    "ar": "أركاداج",
+    "en": "Arkadag"
+  },
+  "ناساف كارشي": {
+    "ar": "ناساف كارشي",
+    "en": "Nasaf Qarshi"
+  },
+  "أربيل": {
+    "ar": "أربيل",
+    "en": "Erbil"
+  },
+  "الفحيحيل": {
+    "ar": "الفحيحيل",
+    "en": "Al-Fahaheel"
+  },
+  "سقاريا سبور": {
+    "ar": "سقاريا سبور",
+    "en": "Sakaryaspor"
+  },
+  "Bursa Yıldırımspor": {
+    "ar": "Bursa Yıldırımspor",
+    "en": "Bursa Yıldırımspor"
+  },
+  "الشعب حضرموت": {
+    "ar": "الشعب حضرموت",
+    "en": "Al-Shaab Hadramout"
+  },
+  "المحرق": {
+    "ar": "المحرق",
+    "en": "Al-Muharraq"
+  },
+  "الأخضر": {
+    "ar": "الأخضر",
+    "en": "Al-Akhdar"
+  },
+  "اس اس في جيديلوه": {
+    "ar": "اس اس في جيديلوه",
+    "en": "SSV Jeddeloh"
+  },
+  "هرتا برلين": {
+    "ar": "هرتا برلين",
+    "en": "Hertha Berlin"
+  },
+  "البشائر": {
+    "ar": "البشائر",
+    "en": "Al-Bashaer"
+  },
+  "دينامو دريسدين": {
+    "ar": "دينامو دريسدين",
+    "en": "Dynamo Dresden"
+  },
+  "فولفسبورج": {
+    "ar": "فولفسبورج",
+    "en": "Wolfsburg"
+  },
+  "الزوراء": {
+    "ar": "الزوراء",
+    "en": "Al-Zawraa"
+  },
+  "أوردو سبور": {
+    "ar": "أوردو سبور",
+    "en": "Orduspor"
+  },
+  "دوزيورتسبور": {
+    "ar": "دوزيورتسبور",
+    "en": "Duisburg"
+  },
+  "أتوبي": {
+    "ar": "أتوبي",
+    "en": "Atubi"
+  },
+  "ساباديل": {
+    "ar": "ساباديل",
+    "en": "Sabadell"
+  },
+  "حسنية أكادير": {
+    "ar": "حسنية أكادير",
+    "en": "Hassania Agadir"
+  },
+  "أنايتاسونا": {
+    "ar": "أنايتاسونا",
+    "en": "Anaitasuna"
+  },
+  "بامبالونا": {
+    "ar": "بامبالونا",
+    "en": "Pamplona"
+  },
+  "إيبار": {
+    "ar": "إيبار",
+    "en": "Eibar"
+  },
+  "بوبلينس": {
+    "ar": "بوبلينس",
+    "en": "L'Entregu"
+  },
+  "سبتة": {
+    "ar": "سبتة",
+    "en": "Ceuta"
+  },
+  "بينا سبورت": {
+    "ar": "بينا سبورت",
+    "en": "Peña Sport"
+  },
+  "هويسكا": {
+    "ar": "هويسكا",
+    "en": "Huesca"
+  },
+  "تارانكون": {
+    "ar": "تارانكون",
+    "en": "Tarancón"
+  },
+  "كلوب بورتوغاليتى": {
+    "ar": "كلوب بورتوغاليتى",
+    "en": "Club Portugalete"
+  },
+  "ريال يونيون": {
+    "ar": "ريال يونيون",
+    "en": "Real Unión"
+  },
+  "كوروكسز": {
+    "ar": "كوروكسز",
+    "en": "Coruxo"
+  },
+  "زامورا": {
+    "ar": "زامورا",
+    "en": "Zamora"
+  },
+  "الخالدية": {
+    "ar": "الخالدية",
+    "en": "Al-Khaldiya"
+  },
+  "ألكويانو": {
+    "ar": "ألكويانو",
+    "en": "Alcoyano"
+  },
+  "ريال مايوركا": {
+    "ar": "ريال مايوركا",
+    "en": "Real Mallorca"
+  },
+  "أموربييتا": {
+    "ar": "أموربييتا",
+    "en": "Amorebieta"
+  },
+  "لوغرونيس": {
+    "ar": "لوغرونيس",
+    "en": "Logroñés"
+  },
+  "باداخوز": {
+    "ar": "باداخوز",
+    "en": "Badajoz"
+  },
+  "تنريفة": {
+    "ar": "تنريفة",
+    "en": "Tenerife"
+  },
+  "بويرتويانو": {
+    "ar": "بويرتويانو",
+    "en": "Puertollano"
+  },
+  "ألباسيتي": {
+    "ar": "ألباسيتي",
+    "en": "Albacete"
+  },
+  "تريفال فالديراس": {
+    "ar": "تريفال فالديراس",
+    "en": "Trival Valderas"
+  },
+  "ليجانيس": {
+    "ar": "ليجانيس",
+    "en": "Leganés"
+  },
+  "جوز واترغرافسمير": {
+    "ar": "جوز واترغرافسمير",
+    "en": "JOS Watergraafsmeer"
+  },
+  "أن آي سي بريدا": {
+    "ar": "أن آي سي بريدا",
+    "en": "NAC Breda"
+  },
+  "توب أوس": {
+    "ar": "توب أوس",
+    "en": "TOP Oss"
+  },
+  "سينت بافو": {
+    "ar": "سينت بافو",
+    "en": "Sint-Baafs"
+  },
+  "إيخت": {
+    "ar": "إيخت",
+    "en": "Echt"
+  },
+  "فينلو": {
+    "ar": "فينلو",
+    "en": "VVV-Venlo"
+  },
+  "فيتيسه آرنهم": {
+    "ar": "فيتيسه آرنهم",
+    "en": "Vitesse Arnhem"
+  },
+  "كوفادونغا": {
+    "ar": "كوفادونغا",
+    "en": "Covadonga"
+  },
+  "بلد الوليد": {
+    "ar": "بلد الوليد",
+    "en": "Real Valladolid"
+  },
+  "كويك بويز": {
+    "ar": "كويك بويز",
+    "en": "Quick Boys"
+  },
+  "Eemdijk": {
+    "ar": "Eemdijk",
+    "en": "Eemdijk"
+  },
+  "ماستريخت": {
+    "ar": "ماستريخت",
+    "en": "MVV Maastricht"
+  },
+  "ميخاس لاس لاغوناس": {
+    "ar": "ميخاس لاس لاغوناس",
+    "en": "Mijas Las Lagunas"
+  },
+  "ريال جيان": {
+    "ar": "ريال جيان",
+    "en": "Real Jaén"
+  },
+  "نومانسيا": {
+    "ar": "نومانسيا",
+    "en": "Numancia"
+  },
+  "ريال أوفييدو": {
+    "ar": "ريال أوفييدو",
+    "en": "Real Oviedo"
+  },
+  "SC Genemuiden": {
+    "ar": "SC Genemuiden",
+    "en": "SC Genemuiden"
+  },
+  "دوردريخت": {
+    "ar": "دوردريخت",
+    "en": "Dordrecht"
+  },
+  "جيمناستكا تورريلافيغا": {
+    "ar": "جيمناستكا تورريلافيغا",
+    "en": "Gimnástica Torrelavega"
+  },
+  "أونيون أورينسي": {
+    "ar": "أونيون أورينسي",
+    "en": "Unión Ourense"
+  },
+  "ديبورتيفو مينيرا": {
+    "ar": "ديبورتيفو مينيرا",
+    "en": "Deportivo Minera"
+  },
+  "كارتاخينا": {
+    "ar": "كارتاخينا",
+    "en": "Cartagena"
+  },
+  "ريوس ريديس": {
+    "ar": "ريوس ريديس",
+    "en": "Reus Reddis"
+  },
+  "باراكالدو": {
+    "ar": "باراكالدو",
+    "en": "Barakaldo"
+  },
+  "سيزا": {
+    "ar": "سيزا",
+    "en": "Sestao"
+  },
+  "غرناطة": {
+    "ar": "غرناطة",
+    "en": "Granada"
+  },
+  "نورنبيرج": {
+    "ar": "نورنبيرج",
+    "en": "Nürnberg"
+  },
+  "ماغديبورغ": {
+    "ar": "ماغديبورغ",
+    "en": "Magdeburg"
+  },
+  "هانوفر": {
+    "ar": "هانوفر",
+    "en": "Hannover"
+  },
+  "كايزرسلاوترن": {
+    "ar": "كايزرسلاوترن",
+    "en": "Kaiserslautern"
+  },
+  "هولشتاين كيل": {
+    "ar": "هولشتاين كيل",
+    "en": "Holstein Kiel"
+  },
+  "إكسيلسيور ماسلويس": {
+    "ar": "إكسيلسيور ماسلويس",
+    "en": "Excelsior Maassluis"
+  },
+  "اتحاد طنجة": {
+    "ar": "اتحاد طنجة",
+    "en": "Ittihad Tanger"
+  },
+  "تافيرنيس": {
+    "ar": "تافيرنيس",
+    "en": "Tavernes"
+  },
+  "ديبورتيفو خيريث": {
+    "ar": "ديبورتيفو خيريث",
+    "en": "Deportivo Xerez"
+  },
+  "قادش": {
+    "ar": "قادش",
+    "en": "Cádiz"
+  },
+  "سالامانكا": {
+    "ar": "سالامانكا",
+    "en": "Salamanca"
+  },
+  "نافالكارنيرو": {
+    "ar": "نافالكارنيرو",
+    "en": "Navalcarnero"
+  },
   "Agri 1970": {
     "ar": "Agri 1970",
     "en": "Ağrı 1970"
