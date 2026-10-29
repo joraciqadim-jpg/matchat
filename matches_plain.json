@@ -234,16 +234,6 @@
       ]
     },
     {
-      "tournamentEn": "🇧🇷 Brazilian Serie A",
-      "tournamentAr": "🇧🇷 الدوري البرازيلي الممتاز",
-      "matchEn": "Bahia v São Paulo",
-      "matchAr": "باهيا × ساو باولو",
-      "time": "00:30",
-      "channels": [
-        "📺 Arena Premium 3 SRB [Eutelsat 16.0E 10721 H 30000]"
-      ]
-    },
-    {
       "tournamentEn": "🏆 Youth U17 Gulf Cup",
       "tournamentAr": "🏆 كأس الخليج للشباب تحت 17 سنة",
       "matchEn": "Saudi Arabia v Iraq",
@@ -284,22 +274,6 @@
       "time": "17:00",
       "channels": [
         "📺 On Sport MAX [Nilesat 7.0W 11977 V 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🇺🇸 USA NBA",
-      "tournamentAr": "🇺🇸 الدوري الأميركي لكرة السلة",
-      "matchEn": "Dallas Mavericks v Thunder",
-      "matchAr": "دالاس مافريكس × ثاندر",
-      "time": "01:30",
-      "channels": [
-        "📺 Bein Sport 8 [Nilesat 7.0W 11054 H 27500]",
-        "📺 Arena Premium 1 SRB [Eutelsat 16.0E 11366 V 30000]",
-        "📺 ESPN 2 Netherlands [Astra 23.5E 11856 V 29900]",
-        "📺 Bein Sport 8 [Badrsat 26.0E 10810 V 27500]",
-        "📺 BeIn Sports English 2 [Badrsat 26.0E 11390 V 27500]",
-        "📺 ESPN South Africa [Eutelsat 36.0E 12476 H 27500]",
-        "📺 S Sport [Turksat 42.0E 11853 H 25000]"
       ]
     },
     {
