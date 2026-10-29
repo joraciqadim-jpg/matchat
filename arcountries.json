@@ -1,4 +1,14 @@
 {
+  "866": {
+    "ar": "بوكا جونيورز",
+    "countryen": "Argentina",
+    "countryar": "الأرجنتين"
+  },
+  "1227": {
+    "ar": "فاسكو دي غاما",
+    "countryen": "Brazil",
+    "countryar": "البرازيل"
+  },
   "2146": {
     "ar": "كاشيما أنتليرز",
     "countryen": "Japan",
@@ -19,6 +29,16 @@
     "countryen": "Japan",
     "countryar": "اليابان"
   },
+  "2179": {
+    "ar": "شنغهاي شنهوا",
+    "countryen": "China",
+    "countryar": "الصين"
+  },
+  "2200": {
+    "ar": "أدليد يونايتد",
+    "countryen": "Australia",
+    "countryar": "أستراليا"
+  },
   "2202": {
     "ar": "ملبورن فيكتوري",
     "countryen": "Australia",
@@ -29,15 +49,10 @@
     "countryen": "Australia",
     "countryar": "أستراليا"
   },
-  "866": {
-    "ar": "بوكا جونيورز",
-    "countryen": "Argentina",
-    "countryar": "الأرجنتين"
-  },
-  "1227": {
-    "ar": "فاسكو دي غاما",
-    "countryen": "Brazil",
-    "countryar": "البرازيل"
+  "2369": {
+    "ar": "تامبينيز روفرز",
+    "countryen": "Singapore",
+    "countryar": "سنغافورة"
   },
   "5457": {
     "ar": "الهلال",
@@ -56,6 +71,11 @@
   },
   "7747": {
     "ar": "بوريرام يونايتد",
+    "countryen": "Thailand",
+    "countryar": "تايلاند"
+  },
+  "7767": {
+    "ar": "باثوم يونايتد",
     "countryen": "Thailand",
     "countryar": "تايلاند"
   },
@@ -104,6 +124,11 @@
     "countryen": "Emirates",
     "countryar": "الإمارات"
   },
+  "8521": {
+    "ar": "كيتشي",
+    "countryen": "Hong Kong",
+    "countryar": "هونغ كونغ"
+  },
   "8596": {
     "ar": "ناساف كارشي",
     "countryen": "Uzbekistan",
@@ -124,6 +149,11 @@
     "countryen": "Saudi Arabia",
     "countryar": "السعودية"
   },
+  "9133": {
+    "ar": "ماتشيدا زيروبيا",
+    "countryen": "Japan",
+    "countryar": "اليابان"
+  },
   "9294": {
     "ar": "ماراثون",
     "countryen": "Honduras",
@@ -141,6 +171,11 @@
   },
   "9822": {
     "ar": "بوهانغ ستيليرز",
+    "countryen": "South Korea",
+    "countryar": "كوريا الجنوبية"
+  },
+  "9825": {
+    "ar": "غانغوون",
     "countryen": "South Korea",
     "countryar": "كوريا الجنوبية"
   },
@@ -184,20 +219,45 @@
     "countryen": "Bahrain",
     "countryar": "البحرين"
   },
+  "16976": {
+    "ar": "تاي بو",
+    "countryen": "Hong Kong",
+    "countryar": "هونغ كونغ"
+  },
   "19198": {
     "ar": "يانغون يونايتد",
     "countryen": "Myanmar",
     "countryar": "ميانمار"
+  },
+  "20457": {
+    "ar": "رويال سورد",
+    "countryen": "Bhutan",
+    "countryar": "بوتان"
   },
   "29873": {
     "ar": "فيتيل",
     "countryen": "Vietnam",
     "countryar": "فيتنام"
   },
+  "46828": {
+    "ar": "فنوم بينه كراون",
+    "countryen": "Cambodia",
+    "countryar": "كمبوديا"
+  },
   "50901": {
     "ar": "شان يونايتد",
     "countryen": "Myanmar",
     "countryar": "ميانمار"
+  },
+  "51307": {
+    "ar": "كوتشينج سيتي",
+    "countryen": "Malaysia",
+    "countryar": "ماليزيا"
+  },
+  "67508": {
+    "ar": "ليون سيتي",
+    "countryen": "Singapore",
+    "countryar": "سنغافورة"
   },
   "68294": {
     "ar": "كاسوكا",
