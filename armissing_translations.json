@@ -1,6 +1,28 @@
 {
- 
- 
+  "Bitlis Ozguzelderespor": {
+    "ar": "Bitlis Ozguzelderespor",
+    "en": "بيتليس أوزغوزيلديريسبور"
+  },
+  "Karakopru": {
+    "ar": "Karakopru",
+    "en": "كاراكوبرو"
+  },
+  "Corluspor": {
+    "ar": "Corluspor",
+    "en": "تشورلوسبور"
+  },
+  "Purmersteijn": {
+    "ar": "Purmersteijn",
+    "en": "بورميرستاين"
+  },
+  "Rkav Volendam": {
+    "ar": "Rkav Volendam",
+    "en": "آر كيه إيه في فولندام"
+  },
+  "Rohda Raalte": {
+    "ar": "Rohda Raalte",
+    "en": "رودا رالته"
+  },
   "بينا سبورت": {
     "ar": "بينيا سبورت",
     "en": "Peña Sport"
@@ -101,7 +123,6 @@
     "ar": "كوتشينج سيتي",
     "en": "Kuching City"
   },
-
   "قيصري سبور": {
     "ar": "قيصري سبور",
     "en": "Kayserispor"
@@ -130,7 +151,6 @@
     "ar": "كيتشي",
     "en": "Kitchee"
   },
-
   "الموصل": {
     "ar": "الموصل",
     "en": "Mosul"
@@ -295,12 +315,10 @@
     "ar": "سبارتا نيكيرك",
     "en": "Sparta Nijkerk"
   },
-
   "غيميرت": {
     "ar": "غيميرت",
     "en": "Gemert"
   },
-
   "كأس الكاراباو": {
     "ar": "كأس الكاراباو",
     "en": "Carabao Cup"
@@ -869,7 +887,6 @@
     "ar": "الكانيمى واريورس",
     "en": "El-Kanemi Warriors"
   },
-
   "إستوديانتيس": {
     "ar": "إستوديانتيس",
     "en": "Estudiantes"
@@ -1286,7 +1303,6 @@
     "ar": "لانس",
     "en": "Lens"
   },
- 
   "أتليتيكو مينيرو": {
     "ar": "أتليتيكو مينيرو",
     "en": "Atlético Mineiro"
@@ -2308,7 +2324,7 @@
     "en": "Al-Shamal"
   },
   "CFFA أندوهارانوفوتسي": {
-    "ar":  "أندوهارانوفوتسي",
+    "ar": "أندوهارانوفوتسي",
     "en": "CFFA Andoharanofotsy"
   },
   "يانج أفريكانز": {
@@ -2483,7 +2499,6 @@
     "ar": "الاتحاد التوركي",
     "en": "Union Touarga"
   },
-
   "الأمل الرياضي بحمام سوسة": {
     "ar": "الأمل الرياضي بحمام سوسة",
     "en": "ES Hammam-Sousse"
