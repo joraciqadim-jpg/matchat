@@ -1,4 +1,646 @@
 {
+  "ZBC Channel 2": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "beIN Sports 1 HD (Astro)": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Cablenet Sports 3 HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "TV12 Sverige HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "beIN Sports 3 HD (Astro)": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Cablenet Sports 2 HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "SporTV 2 Brazil HD": {
+    "satellites": [
+      {
+        "satellite": "Star One C4 70.0W",
+        "frequency": "12600 V 29892"
+      }
+    ]
+  },
+  "M+ LaLiga 3 HD": {
+    "satellites": [
+      {
+        "satellite": "Astra 19.2E",
+        "frequency": "10818 V 22000"
+      }
+    ]
+  },
+  "M+ LaLiga 2 HD": {
+    "satellites": [
+      {
+        "satellite": "Astra 19.2E",
+        "frequency": "10818 V 22000"
+      }
+    ]
+  },
+  "Sport TV7 Portugal HD": {
+    "satellites": [
+      {
+        "satellite": "Hispasat 30.0W",
+        "frequency": "12360 H 27500"
+      }
+    ]
+  },
+  "BBC Two HD": {
+    "satellites": [
+      {
+        "satellite": "Astra 28.2E",
+        "frequency": "10847 V 23000"
+      }
+    ]
+  },
+  "MEGA News HD": {
+    "satellites": [
+      {
+        "satellite": "Hotbird 13.0E",
+        "frequency": "11938 H 30000"
+      }
+    ]
+  },
+  "M+ LaLiga 4": {
+    "satellites": [
+      {
+        "satellite": "Astra 19.2E",
+        "frequency": "10818 V 22000"
+      }
+    ]
+  },
+  "ON Sport Plus HD": {
+    "satellites": [
+      {
+        "satellite": "Nilesat 7.0W",
+        "frequency": "11977 V 27500"
+      }
+    ]
+  },
+  "Al Kass 6 HD": {
+    "satellites": [
+      {
+        "satellite": "Es'hail 2 25.8E",
+        "frequency": "10770 H 27500"
+      }
+    ]
+  },
+  "Cytavision Sports 1 HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Benfica TV HD": {
+    "satellites": [
+      {
+        "satellite": "Hispasat 30.0W",
+        "frequency": "12322 H 27500"
+      }
+    ]
+  },
+  "Cablenet Sports 1 HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Sky Sport 4 Deutsch HD": {
+    "satellites": [
+      {
+        "satellite": "Astra 19.2E",
+        "frequency": "11914 H 27500"
+      }
+    ]
+  },
+  "Sky Sport 2 Deutsch HD": {
+    "satellites": [
+      {
+        "satellite": "Astra 19.2E",
+        "frequency": "11914 H 27500"
+      }
+    ]
+  },
+  "Sky Sport 3 Deutsch HD": {
+    "satellites": [
+      {
+        "satellite": "Astra 19.2E",
+        "frequency": "11914 H 27500"
+      }
+    ]
+  },
+  "Sky Sport 5 Deutsch HD": {
+    "satellites": [
+      {
+        "satellite": "Astra 19.2E",
+        "frequency": "11914 H 27500"
+      }
+    ]
+  },
+  "Astro Arena HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "TV4 Sport Live 2 HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "beIN Sports 2 HD (Astro)": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "TV4 Sport Live 3 HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "TV4 Sport Live 4 HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Sky Sport 9 Deutsch HD": {
+    "satellites": [
+      {
+        "satellite": "Astra 19.2E",
+        "frequency": "11914 H 27500"
+      }
+    ]
+  },
+  "Servus TV Österreich HD": {
+    "satellites": [
+      {
+        "satellite": "Astra 19.2E",
+        "frequency": "11347 V 22000"
+      }
+    ]
+  },
+  "Sky Sport News Deutsch HD": {
+    "satellites": [
+      {
+        "satellite": "Astra 19.2E",
+        "frequency": "11914 H 27500"
+      }
+    ]
+  },
+  "Sky Sport 7 Deutsch HD": {
+    "satellites": [
+      {
+        "satellite": "Astra 19.2E",
+        "frequency": "11914 H 27500"
+      }
+    ]
+  },
+  "V Sport+ Norge HD": {
+    "satellites": [
+      {
+        "satellite": "Thor 0.8W",
+        "frequency": "11727 V 28000"
+      }
+    ]
+  },
+  "Sky Sport 8 Deutsch HD": {
+    "satellites": [
+      {
+        "satellite": "Astra 19.2E",
+        "frequency": "11914 H 27500"
+      }
+    ]
+  },
+  "Action 24 Hellas": {
+    "satellites": [
+      {
+        "satellite": "Hotbird 13.0E",
+        "frequency": "11034 V 30000"
+      }
+    ]
+  },
+  "Azam Sports 1 HD": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat 7.0E",
+        "frequency": "11262 H 27500"
+      }
+    ]
+  },
+  "STV Scotland HD": {
+    "satellites": [
+      {
+        "satellite": "Astra 28.2E",
+        "frequency": "10847 V 23000"
+      }
+    ]
+  },
+  "UTV Northern Ireland HD": {
+    "satellites": [
+      {
+        "satellite": "Astra 28.2E",
+        "frequency": "10847 V 23000"
+      }
+    ]
+  },
+  "5 MAX Israel HD": {
+    "satellites": [
+      {
+        "satellite": "Amos 4.0W",
+        "frequency": "11485 H 30000"
+      }
+    ]
+  },
+  "Sky UK Ultra HD 2": {
+    "satellites": [
+      {
+        "satellite": "Astra 28.2E",
+        "frequency": "10964 H 23000"
+      }
+    ]
+  },
+  "Aragón TV HD": {
+    "satellites": [
+      {
+        "satellite": "Astra 19.2E",
+        "frequency": "11009 V 23500"
+      }
+    ]
+  },
+  "À Punt TV (Pais Valencià)": {
+    "satellites": [
+      {
+        "satellite": "Astra 19.2E",
+        "frequency": "11009 V 23500"
+      }
+    ]
+  },
+  "TV Canaria": {
+    "satellites": [
+      {
+        "satellite": "Astra 19.2E",
+        "frequency": "11009 V 23500"
+      }
+    ]
+  },
+  "beIN Sports MENA French 2 HD": {
+    "satellites": [
+      {
+        "satellite": "Eshail 25.5E",
+        "frequency": "11230 H 27500"
+      }
+    ]
+  },
+  "beIN Sports US 4": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Cytavision Sports 2 HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "MATCH! Planeta": {
+    "satellites": [
+      {
+        "satellite": "Express 80.0E",
+        "frequency": "11720 H 27500"
+      }
+    ]
+  },
+  "beIN Sports France 3 HD": {
+    "satellites": [
+      {
+        "satellite": "Astra 19.2E",
+        "frequency": "12402 V 29700"
+      }
+    ]
+  },
+  "beIN Sports HK 1 HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "beIN Sports Philippines 3 HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "beIN Sports Singapore HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "beIN Sports Thailand 3 HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "ESPN 3 Sur Latin": {
+    "satellites": [
+      {
+        "satellite": "Galaxy 91.0W",
+        "frequency": "4020 V 31250"
+      }
+    ]
+  },
+  "ESPN Mexico": {
+    "satellites": [
+      {
+        "satellite": "Galaxy 91.0W",
+        "frequency": "4020 V 31250"
+      }
+    ]
+  },
+  "ZhiBo8 TV (China)": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Sport 1 Lithuania HD [$]": {
+    "satellites": [
+      {
+        "satellite": "Astra 31.5E",
+        "frequency": "12070 H 30000"
+      }
+    ]
+  },
+  "TVi V+ Portugal": {
+    "satellites": [
+      {
+        "satellite": "Hispasat 30.0W",
+        "frequency": "12322 H 27500"
+      }
+    ]
+  },
+  "Canal+ Sport 7 Polska HD": {
+    "satellites": [
+      {
+        "satellite": "Hotbird 13.0E",
+        "frequency": "11278 V 27500"
+      }
+    ]
+  },
+  "Nova Sport 1 Czech HD": {
+    "satellites": [
+      {
+        "satellite": "Thor 0.8W",
+        "frequency": "11727 V 28000"
+      }
+    ]
+  },
+  "Tivibu Spor 1 HD": {
+    "satellites": [
+      {
+        "satellite": "Turksat 42.0E",
+        "frequency": "12303 V 27500"
+      }
+    ]
+  },
+  "TV2 Sport 2 Norge HD": {
+    "satellites": [
+      {
+        "satellite": "Thor 0.8W",
+        "frequency": "11727 V 28000"
+      }
+    ]
+  },
+  "Al Kass 7 HD": {
+    "satellites": [
+      {
+        "satellite": "Es'hail 2 25.8E",
+        "frequency": "10770 H 27500"
+      }
+    ]
+  },
+  "TVP Polonia HD": {
+    "satellites": [
+      {
+        "satellite": "Hotbird 13.0E",
+        "frequency": "10719 V 27500"
+      }
+    ]
+  },
+  "Sky Sport 1 NZ HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Sky Sport 4 NZ HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Sky Sport 6 Deutsch HD": {
+    "satellites": [
+      {
+        "satellite": "Astra 19.2E",
+        "frequency": "11914 H 27500"
+      }
+    ]
+  },
+  "Astro Premier League 4 HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Sky Sport 5 NZ HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Sky Sports Golf HD": {
+    "satellites": [
+      {
+        "satellite": "Astra 28.2E",
+        "frequency": "10964 H 23000"
+      }
+    ]
+  },
+  "V Sport Premier League 3 HD": {
+    "satellites": [
+      {
+        "satellite": "Thor 0.8W",
+        "frequency": "11727 V 28000"
+      }
+    ]
+  },
+  "beIN Sports Türkiye Max 2 HD": {
+    "satellites": [
+      {
+        "satellite": "Turksat 42.0E",
+        "frequency": "12379 H 30000"
+      }
+    ]
+  },
+  "Sky Sport 3 NZ HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "SuperSport OTT 2": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "SuperSport 7 Albania HD": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat 16.0E",
+        "frequency": "11366 V 30000"
+      }
+    ]
+  },
+  "Sky Sport Select NZ HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "V Sport Premier League 4 HD": {
+    "satellites": [
+      {
+        "satellite": "Thor 0.8W",
+        "frequency": "11727 V 28000"
+      }
+    ]
+  },
+  "Canal+ Premium Polska HD": {
+    "satellites": [
+      {
+        "satellite": "Hotbird 13.0E",
+        "frequency": "11278 V 27500"
+      }
+    ]
+  },
+  "** C-A-N-C-E-L-L-E-D **": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "LaLiga TV Bar 5": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Canal+ Sport 2 Polska HD": {
+    "satellites": [
+      {
+        "satellite": "Hotbird 13.0E",
+        "frequency": "11488 H 27500"
+      }
+    ]
+  },
+  "Orange Fútbol 2 HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Sky One UK HD": {
+    "satellites": [
+      {
+        "satellite": "Astra 28.2E",
+        "frequency": "10964 H 23000"
+      }
+    ]
+  },
+  "ABC USA": {
+    "satellites": [
+      {
+        "satellite": "Galaxy 91.0W",
+        "frequency": "4020 V 31250"
+      }
+    ]
+  },
+  "ESPN Deportes": {
+    "satellites": [
+      {
+        "satellite": "Galaxy 91.0W",
+        "frequency": "4020 V 31250"
+      }
+    ]
+  },
+  "Z Sports LaLiga Angola": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  }
+,
   "Sporting TV": {
     "satellites": [
       {
