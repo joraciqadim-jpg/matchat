@@ -9,10 +9,40 @@
     "countryen": "Japan",
     "countryar": "اليابان"
   },
+  "2151": {
+    "ar": "فيسيل كوبي",
+    "countryen": "Japan",
+    "countryar": "اليابان"
+  },
+  "2154": {
+    "ar": "كيوتو سانغا",
+    "countryen": "Japan",
+    "countryar": "اليابان"
+  },
   "2202": {
     "ar": "ملبورن فيكتوري",
     "countryen": "Australia",
     "countryar": "أستراليا"
+  },
+  "2203": {
+    "ar": "نيوكاسل جيتس",
+    "countryen": "Australia",
+    "countryar": "أستراليا"
+  },
+  "866": {
+    "ar": "بوكا جونيورز",
+    "countryen": "Argentina",
+    "countryar": "الأرجنتين"
+  },
+  "1227": {
+    "ar": "فاسكو دي غاما",
+    "countryen": "Brazil",
+    "countryar": "البرازيل"
+  },
+  "5457": {
+    "ar": "الهلال",
+    "countryen": "Saudi Arabia",
+    "countryar": "السعودية"
   },
   "6034": {
     "ar": "يرسيب باندونغ",
@@ -29,6 +59,11 @@
     "countryen": "Thailand",
     "countryar": "تايلاند"
   },
+  "7769": {
+    "ar": "تاي بورت",
+    "countryen": "Thailand",
+    "countryar": "تايلاند"
+  },
   "8248": {
     "ar": "الزوراء",
     "countryen": "Iraq",
@@ -41,8 +76,8 @@
   },
   "8276": {
     "ar": "الفيصلي",
-    "countryen": "Saudi Arabia",
-    "countryar": "السعودية"
+    "countryen": "Jordan",
+    "countryar": "الأردن"
   },
   "8329": {
     "ar": "الدحيل",
@@ -51,8 +86,13 @@
   },
   "8344": {
     "ar": "الجزيرة",
-    "countryen": "United Arab Emirates",
-    "countryar": "الإمارات العربية المتحدة"
+    "countryen": "Emirates",
+    "countryar": "الإمارات"
+  },
+  "8347": {
+    "ar": "شباب الأهلي",
+    "countryen": "Emirates",
+    "countryar": "الإمارات"
   },
   "8349": {
     "ar": "النصر",
@@ -61,8 +101,8 @@
   },
   "8350": {
     "ar": "الوحدة",
-    "countryen": "United Arab Emirates",
-    "countryar": "الإمارات العربية المتحدة"
+    "countryen": "Emirates",
+    "countryar": "الإمارات"
   },
   "8596": {
     "ar": "ناساف كارشي",
@@ -79,6 +119,21 @@
     "countryen": "Saudi Arabia",
     "countryar": "السعودية"
   },
+  "8946": {
+    "ar": "الأهلي",
+    "countryen": "Saudi Arabia",
+    "countryar": "السعودية"
+  },
+  "9294": {
+    "ar": "ماراثون",
+    "countryen": "Honduras",
+    "countryar": "هندوراس"
+  },
+  "9816": {
+    "ar": "دايجيون سيتيزن",
+    "countryen": "South Korea",
+    "countryar": "كوريا الجنوبية"
+  },
   "9820": {
     "ar": "سيؤول",
     "countryen": "South Korea",
@@ -89,10 +144,20 @@
     "countryen": "South Korea",
     "countryar": "كوريا الجنوبية"
   },
+  "10080": {
+    "ar": "جوهور دار التعظيم",
+    "countryen": "Malaysia",
+    "countryar": "ماليزيا"
+  },
   "10290": {
     "ar": "الكويت",
     "countryen": "Kuwait",
     "countryar": "الكويت"
+  },
+  "10300": {
+    "ar": "شنغهاي بورت",
+    "countryen": "China",
+    "countryar": "الصين"
   },
   "11492": {
     "ar": "الشعب حضرموت",
@@ -104,6 +169,11 @@
     "countryen": "Oman",
     "countryar": "عُمان"
   },
+  "12721": {
+    "ar": "أليانزا",
+    "countryen": "El Salvador",
+    "countryar": "السلفادور"
+  },
   "16533": {
     "ar": "گل گهر سیرجان",
     "countryen": "Iran",
@@ -114,19 +184,44 @@
     "countryen": "Bahrain",
     "countryar": "البحرين"
   },
+  "19198": {
+    "ar": "يانغون يونايتد",
+    "countryen": "Myanmar",
+    "countryar": "ميانمار"
+  },
   "29873": {
     "ar": "فيتيل",
     "countryen": "Vietnam",
     "countryar": "فيتنام"
+  },
+  "50901": {
+    "ar": "شان يونايتد",
+    "countryen": "Myanmar",
+    "countryar": "ميانمار"
+  },
+  "68294": {
+    "ar": "كاسوكا",
+    "countryen": "Cambodia",
+    "countryar": "كمبوديا"
   },
   "68794": {
     "ar": "الخالدية",
     "countryen": "Bahrain",
     "countryar": "البحرين"
   },
+  "72909": {
+    "ar": "كونغ آن هانوي",
+    "countryen": "Vietnam",
+    "countryar": "فيتنام"
+  },
   "74158": {
     "ar": "أركاداج",
     "countryen": "Turkmenistan",
     "countryar": "تركمانستان"
+  },
+  "87222": {
+    "ar": "وان تاغويغ",
+    "countryen": "Philippines",
+    "countryar": "الفلبين"
   }
 }
