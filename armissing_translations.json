@@ -1,8 +1,6 @@
 {
-  "Corluspor": {
-    "ar": "Corluspor",
-    "en": "Çorluspor"
-  },
+ 
+ 
   "بينا سبورت": {
     "ar": "بينا سبورت",
     "en": "Peña Sport"
@@ -103,10 +101,7 @@
     "ar": "كوتشينج سيتي",
     "en": "Kuching City"
   },
-  "Bitlis Ozguzelderespor": {
-    "ar": "Bitlis Ozguzelderespor",
-    "en": "Bitlis Özgüzeldere Spor"
-  },
+
   "قيصري سبور": {
     "ar": "قيصري سبور",
     "en": "Kayserispor"
@@ -135,10 +130,7 @@
     "ar": "كيتشي",
     "en": "Kitchee"
   },
-  "Karakopru": {
-    "ar": "Karakopru",
-    "en": "Karaköprü"
-  },
+
   "الموصل": {
     "ar": "الموصل",
     "en": "Mosul"
@@ -303,22 +295,12 @@
     "ar": "سبارتا نيكيرك",
     "en": "Sparta Nijkerk"
   },
-  "Purmersteijn": {
-    "ar": "Purmersteijn",
-    "en": "Purmersteijn"
-  },
+
   "غيميرت": {
     "ar": "غيميرت",
     "en": "Gemert"
   },
-  "Rkav Volendam": {
-    "ar": "Rkav Volendam",
-    "en": "RKAV Volendam"
-  },
-  "Rohda Raalte": {
-    "ar": "Rohda Raalte",
-    "en": "Rohda Raalte"
-  },
+
   "كأس الكاراباو": {
     "ar": "كأس الكاراباو",
     "en": "Carabao Cup"
@@ -887,18 +869,7 @@
     "ar": "الكانيمى واريورس",
     "en": "El-Kanemi Warriors"
   },
-  "Gimnasia Mendoza": {
-    "ar": "Gimnasia Mendoza",
-    "en": "Gimnasia y Esgrima de Mendoza"
-  },
-  "Platense": {
-    "ar": "Platense",
-    "en": "Platense"
-  },
-  "Gimnasia La Plata": {
-    "ar": "Gimnasia La Plata",
-    "en": "Gimnasia y Esgrima La Plata"
-  },
+
   "إستوديانتيس": {
     "ar": "إستوديانتيس",
     "en": "Estudiantes"
@@ -1315,10 +1286,7 @@
     "ar": "لانس",
     "en": "Lens"
   },
-  "Montevideo City Torque": {
-    "ar": "Montevideo City Torque",
-    "en": "Montevideo City Torque"
-  },
+ 
   "أتليتيكو مينيرو": {
     "ar": "أتليتيكو مينيرو",
     "en": "Atlético Mineiro"
@@ -1689,7 +1657,7 @@
   },
   "التقدم الرياضي بساقية الداير": {
     "ar": "التقدم الرياضي بساقية الداير",
-    "en": "Al-Taqaddum Sports Club Saqia Al-Dair"
+    "en": "Al-Taqaddum Saqia Al-Dair"
   },
   "بانيتوليكوس": {
     "ar": "بانيتوليكوس",
@@ -1753,7 +1721,7 @@
   },
   "النجم الساحلي": {
     "ar": "النجم الساحلي",
-    "en": "Étoile Sportive du Sahel"
+    "en": "Étoile du Sahel"
   },
   "النادي الرياضي لحمام الأنف": {
     "ar": "النادي الرياضي لحمام الأنف",
@@ -1856,7 +1824,7 @@
     "en": "AS Monaco"
   },
   "بوروسيا مونشنجلادباخ": {
-    "ar": "بوروسيا مونشنجلادباخ",
+    "ar": "بوروسيا مونشنغلادباخ",
     "en": "Borussia Mönchengladbach"
   },
   "هوفنهايم": {
@@ -2004,7 +1972,7 @@
     "en": "Pachuca"
   },
   "الدوري المكسيكي الممتاز - Apertura": {
-    "ar": "الدوري المكسيكي - Apertura",
+    "ar": "الدوري المكسيكي - الذهاب",
     "en": "Mexican League - Apertura"
   },
   "فاغيانو أوكاياما": {
@@ -2340,7 +2308,7 @@
     "en": "Al-Shamal"
   },
   "CFFA أندوهارانوفوتسي": {
-    "ar": "CFFA أندوهارانوفوتسي",
+    "ar":  "أندوهارانوفوتسي",
     "en": "CFFA Andoharanofotsy"
   },
   "يانج أفريكانز": {
@@ -2468,7 +2436,7 @@
     "en": "Al Ahly"
   },
   "الترجي الرياضي الجرجيسي": {
-    "ar": "الترجي الرياضي الجرجيسي",
+    "ar": "الترجي الجرجيسي",
     "en": "Espérance de Zarzis"
   },
   "ريال باماكو": {
@@ -2484,11 +2452,11 @@
     "en": "Black Bulls"
   },
   "أفاد جيكانو الإيفواري": {
-    "ar": "أفاد جيكانو الإيفواري",
+    "ar": "أفاد جيكانو",
     "en": "AFAD Djékanou"
   },
   "النادي الرياضي الصفاقسي": {
-    "ar": "النادي الرياضي الصفاقسي",
+    "ar": "النادي الصفاقسي",
     "en": "CS Sfaxien"
   },
   "كو دي كورهوغو": {
@@ -2515,10 +2483,7 @@
     "ar": "الاتحاد التوركي",
     "en": "Union Touarga"
   },
-  "البطولة الوطنية الاحترافية \"إنوي\"": {
-    "ar": "البطولة الوطنية الاحترافية \"إنوي\"",
-    "en": "Botola Pro"
-  },
+
   "الأمل الرياضي بحمام سوسة": {
     "ar": "الأمل الرياضي بحمام سوسة",
     "en": "ES Hammam-Sousse"
@@ -2728,7 +2693,7 @@
     "en": "ADO Den Haag"
   },
   "إيندهوفن": {
-    "ar": "إيندهوفن",
+    "ar": "أيندهوفن",
     "en": "PSV Eindhoven"
   },
   "تلستار": {
@@ -3156,7 +3121,7 @@
     "en": "French Ligue 1"
   },
   "آينتراخت فرانكفورت": {
-    "ar": "آينتراخت فرانكفورت",
+    "ar": "أينتراخت فرانكفورت",
     "en": "Eintracht Frankfurt"
   },
   "كولن": {
@@ -3168,7 +3133,7 @@
     "en": "German Bundesliga"
   },
   "إستوديانتيس دي لا بلاتا": {
-    "ar": "إستوديانتيس دي لا بلاتا",
+    "ar": "إستوديانتيس",
     "en": "Estudiantes"
   },
   "فلامينغو": {
@@ -3282,10 +3247,6 @@
   "يونايتد": {
     "ar": "يونايتد",
     "en": "United"
-  },
-  "دوري أدنوك للمحترفين": {
-    "ar": "دوري أدنوك للمحترفين",
-    "en": "UAE Pro League"
   },
   "بني ياس": {
     "ar": "بني ياس",
