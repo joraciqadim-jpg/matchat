@@ -1,17 +1,21 @@
 {
-  "Agram": {
+  "wizards": {
+    "en": "Wizards",
+    "ar": "ويزاردز"
+  },
+  "agram": {
     "en": "Agram",
     "ar": "أجرام"
   },
-  "Rilski Sportist": {
+  "rilski sportist": {
     "en": "Rilski Sportist",
     "ar": "ريلسكي سبورتيست"
   },
-  "Dubrava Zagreb": {
+  "dubrava zagreb": {
     "en": "Dubrava Zagreb",
     "ar": "دوبرافا زغرب"
   },
-  "Premier League International Cup": {
+  "premier league international cup": {
     "en": "Premier League International Cup",
     "ar": "كأس الدوري الإنجليزي الممتاز الدولي"
   },
