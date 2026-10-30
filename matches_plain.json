@@ -139,16 +139,6 @@
     {
       "tournamentEn": "🇸🇦 Saudi Pro League",
       "tournamentAr": "🇸🇦 الدوري السعودي للمحترفين",
-      "matchEn": "Diriyah v Neom",
-      "matchAr": "الدرعية × نيوم",
-      "time": "14:50",
-      "channels": [
-        "📺 Thmanyah 3 [Badrsat 26.0E 11919 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🇸🇦 Saudi Pro League",
-      "tournamentAr": "🇸🇦 الدوري السعودي للمحترفين",
       "matchEn": "Al-Shabab v Al-Ahli",
       "matchAr": "الشباب × الأهلي",
       "time": "18:00",
@@ -217,16 +207,6 @@
     {
       "tournamentEn": "🇶🇦 Qatar Stars League",
       "tournamentAr": "🇶🇦 الدوري القطري",
-      "matchEn": "Al Shahaniya v Al Ahli",
-      "matchAr": "الشحانية × الأهلي",
-      "time": "14:15",
-      "channels": [
-        "📺 Al Kass Five [Badrsat 26.0E 10770 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🇶🇦 Qatar Stars League",
-      "tournamentAr": "🇶🇦 الدوري القطري",
       "matchEn": "Al Gharafa v Qatar SC",
       "matchAr": "الغرافة × قطر",
       "time": "16:30",
@@ -242,6 +222,37 @@
       "time": "16:30",
       "channels": [
         "📺 Al Kass Six [Badrsat 26.0E 10770 H 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "🇺🇸 USA NBA",
+      "tournamentAr": "🇺🇸 الدوري الأميركي لكرة السلة",
+      "matchEn": "Wizards v Charlotte Hornets",
+      "matchAr": "ويزاردز × شارلوت هورنتس",
+      "time": "23:00",
+      "channels": [
+        "📺 5 Sport [Amos 4.0W 11259 V 30000]"
+      ]
+    },
+    {
+      "tournamentEn": "🇺🇸 USA NBA",
+      "tournamentAr": "🇺🇸 الدوري الأميركي لكرة السلة",
+      "matchEn": "Brooklyn Nets v Pistons",
+      "matchAr": "بروكلين نتس × بيستونز",
+      "time": "23:30",
+      "channels": [
+        "📺 5 Sport [Amos 4.0W 11259 V 30000]"
+      ]
+    },
+    {
+      "tournamentEn": "🇺🇸 USA NBA",
+      "tournamentAr": "🇺🇸 الدوري الأميركي لكرة السلة",
+      "matchEn": "Philadelphia 76ers v New York Knicks",
+      "matchAr": "فيلادلفيا سفنتي سيكسرز × نيويورك نيكس",
+      "time": "23:30",
+      "channels": [
+        "📺 TVP Sport [Hotbird 13.0E 11449 H 27500]",
+        "📺 ESPN 2 Netherlands [Astra 23.5E 11856 V 29900]"
       ]
     }
   ]
