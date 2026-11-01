@@ -50,40 +50,6 @@
     {
       "tournamentEn": "🇪🇸 Spanish La Liga 1",
       "tournamentAr": "🇪🇸 الدوري الإسباني الممتاز",
-      "matchEn": "Racing Club v Real Madrid",
-      "matchAr": "راسينغ كلوب × ريال مدريد",
-      "time": "15:15",
-      "channels": [
-        "📺 DAZN 2 POR [Hispasat 30W 12399 H 27500]",
-        "📺 Bein Sport 2 [Nilesat 7.0W 11013 H 27500]",
-        "📺 One HD [Amos 4.0W 11259 V 30000]",
-        "📺 Digi Sport 2 [Thor 0.8W 11823 H 30000]",
-        "📺 Nova Sport 4 CZ [Thor 0.8W 11977 H 30000]",
-        "📺 Prima Sport 2 [Thor 0.8W 12723 H 27500]",
-        "📺 Spiler TV 2 [Thor 0.8W 11727 V 28000]",
-        "📺 Max Sport 4 [BulgariaSat 1.9E 12303 H 30000]",
-        "📺 Go 3 Sport 1 [Astra 4.8E 11938 V 27500]",
-        "📺 CANAL+ Sport 6 [Hotbird 13.0E 11449 H 27500]",
-        "📺 Magenta Sport 4 League [Hotbird 13.0E 11823 H 27500]",
-        "📺 Arena Premium 3 BIH [Eutelsat 16.0E 11231 V 42000]",
-        "📺 Arena Premium 3 SRB [Eutelsat 16.0E 10721 H 30000]",
-        "📺 Sport Klub 1 HRV [Eutelsat 16.0E 11471 H 30000]",
-        "📺 Sport Klub 2 SLO [Eutelsat 16.0E 11387 H 32000]",
-        "📺 Super Sport 2 [Eutelsat 16.0E 10845 H 30000]",
-        "📺 DAZN LaLiga [Astra 19.2E 10906 V 22000]",
-        "📺 Nova Sport 4 CZ [Astra 23.5E 11934 V 29900]",
-        "📺 Ziggo Sport [Astra 23.5E 12129 V 29900]",
-        "📺 Bein Sport 2 [Badrsat 26.0E 10810 H 27500]",
-        "📺 Premier Sports 2 [Astra 28.2E 12188 H 27500]",
-        "📺 SuperSport LaLiga [Eutelsat 36.0E 12169 H 27500]",
-        "📺 Prima Sport 2 [Hellas-Sat 39.0E 12290 V 30000]",
-        "📺 Persiana Sports 2 [Al-Yah 52.5E 11343 H 27500]",
-        "📺 Match! Futbol 2 [Eutelsat 80.0E 11044 V 45000]"
-      ]
-    },
-    {
-      "tournamentEn": "🇪🇸 Spanish La Liga 1",
-      "tournamentAr": "🇪🇸 الدوري الإسباني الممتاز",
       "matchEn": "Elche v Valencia",
       "matchAr": "إلتشي × فالنسيا",
       "time": "17:30",
@@ -291,27 +257,6 @@
       ]
     },
     {
-      "tournamentEn": "🇹🇷 Turkish Süper Lig",
-      "tournamentAr": "🇹🇷 الدوري التركي الممتاز",
-      "matchEn": "Kasimpasa v Beşiktaş",
-      "matchAr": "قاسم باشا × بشكتاش",
-      "time": "16:00",
-      "channels": [
-        "📺 Bein Sport 6 [Nilesat 7.0W 11054 H 27500]",
-        "📺 Sport 2 [Amos 4.0W 11259 V 30000]",
-        "📺 Sport 2 CZE [Thor 0.8W 12149 V 30000]",
-        "📺 Sport 2 HD HUN [Thor 0.8W 12111 V 30000]",
-        "📺 Arena Premium 5 SRB [Eutelsat 16.0E 11429 V 28330]",
-        "📺 Sport 2 CZE [Eutelsat 16.0E 11094 V 27500]",
-        "📺 Sport Klub 4 [Eutelsat 16.0E 11595 V 30000]",
-        "📺 BeIn Sports Max 6 France [Astra 19.2E 12324 V 29700]",
-        "📺 Sport 2 CZE [Astra 23.5E 12090 V 29900]",
-        "📺 Bein Sport 6 [Badrsat 26.0E 11390 V 27500]",
-        "📺 ESPN 2 South Africa [Eutelsat 36.0E 12092 H 27500]",
-        "📺 Match! Futbol 3 [Eutelsat 80.0E 11044 V 45000]"
-      ]
-    },
-    {
       "tournamentEn": "🏆 Brazil Cup",
       "tournamentAr": "🏆 كأس البرازيل",
       "matchEn": "Palmeiras v Vasco da Gama",
@@ -354,18 +299,6 @@
         "📺 Premier Sports 1 UK [Astra 28.2E 11671 H 23000]",
         "📺 Spor Smart [Turksat 42.0E 12188 V 27500]",
         "📺 Persiana Sports 2 [Al-Yah 52.5E 11343 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🏆 Youth U17 Gulf Cup",
-      "tournamentAr": "🏆 كأس الخليج للشباب تحت 17 سنة",
-      "matchEn": "Emirates v Yemen",
-      "matchAr": "الإمارات × اليمن",
-      "time": "15:45",
-      "channels": [
-        "📺 Al Kass One [Nilesat 7.0W 11919 H 27500]",
-        "📺 Al Kass One [Badrsat 26.0E 12245 V 27500]",
-        "📺 Al Kass One [Badrsat 26.0E 10770 V 27500]"
       ]
     },
     {
