@@ -1,5 +1,12 @@
 {
-
+  "New England Revolution": {
+    "en": "New England Revolution",
+    "ar": "نيو إنجلاند ريفولوشن"
+  },
+  "Kristianstad": {
+    "en": "Kristianstad",
+    "ar": "كريستيانستاد"
+  },
   "de treffers": {
     "en": "De Treffers",
     "ar": "دي تريفرز"
@@ -2856,4 +2863,4 @@
     "en": "Guinea-Bissau U-20",
     "ar": "غينيل بيساو تحت 20 سنة"
   }
-  }
+}
