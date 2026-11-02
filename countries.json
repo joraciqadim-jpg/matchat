@@ -1,191 +1,203 @@
 {
-  "Adelaide United FC": {
+  "alnassr": {
+    "en": "Al-Nassr",
+    "ar": "النصر",
+    "countryen": "Saudi Arabia",
+    "countryar": "السعودية"
+  },
+  "alwasl": {
+    "en": "Al-Wasl",
+    "ar": "الوصل",
+    "countryen": "United Arab Emirates",
+    "countryar": "الإمارات"
+  },
+  "adelaide united fc": {
     "en": "Adelaide United FC",
     "ar": "أديلايد يونايتد إف سي",
     "countryen": "Australia",
     "countryar": "أستراليا"
   },
-  "Lion City": {
+  "lion city": {
     "en": "Lion City",
     "ar": "ليون سيتي",
     "countryen": "Singapore",
     "countryar": "سنغافورة"
   },
-  "Gangwon FC": {
+  "gangwon fc": {
     "en": "Gangwon FC",
     "ar": "غانغوون إف سي",
     "countryen": "South Korea",
     "countryar": "كوريا الجنوبية"
   },
-  "Kuching City FC": {
+  "kuching city fc": {
     "en": "Kuching City FC",
     "ar": "كوتشينغ سيتي إف سي",
     "countryen": "Malaysia",
     "countryar": "ماليزيا"
   },
-  "Tampines Rovers FC": {
+  "tampines rovers fc": {
     "en": "Tampines Rovers FC",
     "ar": "تامبينيس روفرز إف سي",
     "countryen": "Singapore",
     "countryar": "سنغافورة"
   },
-  "Svay Rieng": {
+  "svay rieng": {
     "en": "Svay Rieng",
     "ar": "سفاي رينغ",
     "countryen": "Cambodia",
     "countryar": "كمبوديا"
   },
-  "Phnom Penh Crown": {
+  "phnom penh crown": {
     "en": "Phnom Penh Crown",
     "ar": "بنوم بنه كراون",
     "countryen": "Cambodia",
     "countryar": "كمبوديا"
   },
-  "Kitchee": {
+  "kitchee": {
     "en": "Kitchee",
     "ar": "كيتشي",
     "countryen": "Hong Kong",
     "countryar": "هونغ كونغ"
   },
-  "Shanghai Shenhua FC": {
+  "shanghai shenhua fc": {
     "en": "Shanghai Shenhua FC",
     "ar": "شنغهاي شينهوا إف سي",
     "countryen": "China",
     "countryar": "الصين"
   },
-  "Machida Zelvia": {
+  "machida zelvia": {
     "en": "Machida Zelvia",
     "ar": "ماتشيدا زيلفيا",
     "countryen": "Japan",
     "countryar": "اليابان"
   },
-  "Tai Po FC": {
+  "tai po fc": {
     "en": "Tai Po FC",
     "ar": "تاي بو إف سي",
     "countryen": "Hong Kong",
     "countryar": "هونغ كونغ"
   },
-  "BG Pathum United FC": {
+  "bg pathum united fc": {
     "en": "BG Pathum United FC",
     "ar": "بي جي باثوم يونايتد إف سي",
     "countryen": "Thailand",
     "countryar": "تايلاند"
   },
-  "Gamba Osaka": {
+  "gamba osaka": {
     "en": "Gamba Osaka",
     "ar": "غامبا أوساكا",
     "countryen": "Japan",
     "countryar": "اليابان"
   },
-  "Buriram United": {
+  "buriram united": {
     "en": "Buriram United",
     "ar": "بوريرام يونايتد",
     "countryen": "Thailand",
     "countryar": "تايلاند"
   },
-  "Kashima Antlers": {
+  "kashima antlers": {
     "en": "Kashima Antlers",
     "ar": "كاشيما أنتلرز",
     "countryen": "Japan",
     "countryar": "اليابان"
   },
-  "Pohang Steelers": {
+  "pohang steelers": {
     "en": "Pohang Steelers",
     "ar": "بوهانغ ستيلرز",
     "countryen": "South Korea",
     "countryar": "كوريا الجنوبية"
   },
-  "Viettel": {
+  "viettel": {
     "en": "Viettel",
     "ar": "فييتل",
     "countryen": "Vietnam",
     "countryar": "فيتنام"
   },
-  "FC Seoul": {
+  "fc seoul": {
     "en": "FC Seoul",
     "ar": "سيول",
     "countryen": "South Korea",
     "countryar": "كوريا الجنوبية"
   },
-  "Persatuan Sepakbola Indonesia Bandung": {
+  "persatuan sepakbola indonesia bandung": {
     "en": "Persatuan Sepakbola Indonesia Bandung",
     "ar": "نادي اتحاد كرة القدم الإندونيسي باندونغ",
     "countryen": "Indonesia",
     "countryar": "إندونيسيا"
   },
-  "Melbourne Victory": {
+  "melbourne victory": {
     "en": "Melbourne Victory",
     "ar": "ملبورن فيكتوري",
     "countryen": "Australia",
     "countryar": "أستراليا"
   },
-  "Gol Gohar": {
+  "gol gohar": {
     "en": "Gol Gohar",
     "ar": "گل گهر",
     "countryen": "Iran",
     "countryar": "إيران"
   },
-  "Arkadag": {
+  "arkadag": {
     "en": "Arkadag",
     "ar": "أركاداغ",
     "countryen": "Turkmenistan",
     "countryar": "تركمانستان"
   },
-  "Nasaf Qarshi": {
+  "nasaf qarshi": {
     "en": "Nasaf Qarshi",
     "ar": "ناساف قرشي",
     "countryen": "Uzbekistan",
     "countryar": "أوزبكستان"
   },
-  "Kuwait SC": {
+  "kuwait sc": {
     "en": "Kuwait SC",
     "ar": "الكويت",
     "countryen": "Kuwait",
     "countryar": "الكويت"
   },
-  "Al Nahda": {
+  "al nahda": {
     "en": "Al Nahda",
     "ar": "النهضة",
     "countryen": "Oman",
     "countryar": "عُمان"
   },
-  "Al Rayyan": {
+  "al rayyan": {
     "en": "Al Rayyan",
     "ar": "الريان",
     "countryen": "Qatar",
     "countryar": "قطر"
   },
-  "Jazira Abu Dhabi": {
+  "jazira abu dhabi": {
     "en": "Jazira Abu Dhabi",
     "ar": "الجزيرة أبوظبي",
     "countryen": "United Arab Emirates",
     "countryar": "الإمارات العربية المتحدة"
   },
-  "Muharraq SC": {
+  "muharraq sc": {
     "en": "Muharraq SC",
     "ar": "المحرق",
     "countryen": "Bahrain",
     "countryar": "البحرين"
   },
-  "Al Faisaly": {
+  "al faisaly": {
     "en": "Al Faisaly",
     "ar": "الفيصلي",
-    "countryen": "Saudi Arabia",
-    "countryar": "السعودية"
+    "countryen": "Jordan",
+    "countryar": "الأردن"
   },
-  "Al Taawoun": {
+  "al taawoun": {
     "en": "Al Taawoun",
     "ar": "التعاون",
     "countryen": "Saudi Arabia",
     "countryar": "السعودية"
   },
-  "Al Khalidiyah (Bhr)": {
+  "al khalidiyah": {
     "en": "Al Khalidiyah (Bhr)",
     "ar": "الخالدية البحريني",
     "countryen": "Bahrain",
     "countryar": "البحرين"
   },
-  "Wahda Abu Dhabi": {
+  "wahda abu dhabi": {
     "en": "Wahda Abu Dhabi",
     "ar": "الوحدة أبوظبي",
     "countryen": "United Arab Emirates",
@@ -239,18 +251,6 @@
     "countryen": "Bahrain",
     "countryar": "البحرين"
   },
-  "al nahda": {
-    "en": "Al Nahda",
-    "ar": "النهضة",
-    "countryen": "Oman",
-    "countryar": "عُمان"
-  },
-  "al rayyan": {
-    "en": "Al Rayyan",
-    "ar": "الريان",
-    "countryen": "Qatar",
-    "countryar": "قطر"
-  },
   "al khaldiya": {
     "en": "Al Khaldiya",
     "ar": "الخالدية",
@@ -262,12 +262,6 @@
     "ar": "الوحدة",
     "countryen": "United Arab Emirates",
     "countryar": "الإمارات"
-  },
-  "al faisaly": {
-    "en": "Al Faisaly",
-    "ar": "الفيصلي",
-    "countryen": "Jordan",
-    "countryar": "الأردن"
   },
   "altaawoun": {
     "en": "Al-Taawoun",
