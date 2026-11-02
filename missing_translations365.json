@@ -408,8 +408,8 @@
     "ar": "ديفينسا إي خوستيسيا"
   },
   "Red Bull Bragantino": {
-    "en": "Red Bull Bragantino",
-    "ar": "ريد بول براغانتينو"
+    "en": "Bragantino",
+    "ar": "براغانتينو"
   },
   "Brazil Brasileiro Série A": {
     "en": "Brazilian Série A",
@@ -464,7 +464,7 @@
     "ar": "قاسم باشا"
   },
   "brazil copa do brasil": {
-    "en": "Brazilian Copa do Brasil",
+    "en": "Brazilian Cup",
     "ar": "كأس البرازيل"
   },
   "magic": {
@@ -510,10 +510,6 @@
   "grizzlies": {
     "en": "Memphis Grizzlies",
     "ar": "ممفيس غريزليز"
-  },
-  "brazil brasileiro srie a": {
-    "en": "Brazilian Campeonato Brasileiro Série A",
-    "ar": "الدوري البرازيلي"
   },
   "bahia": {
     "en": "Esporte Clube Bahia",
@@ -616,11 +612,11 @@
     "ar": "الملعب التونسي"
   },
   "esperance zarzis": {
-    "en": "Espérance Sportive de Zarzis",
+    "en": "Espérance de Zarzis",
     "ar": "الترجي الجرجيسي"
   },
   "tunisia division 1": {
-    "en": "Tunisian Ligue Professionnelle 1",
+    "en": "Tunisian Ligue 1",
     "ar": "الدوري التونسي الدرجة الأولى"
   },
   "club africain tunis": {
@@ -628,7 +624,7 @@
     "ar": "النادي الإفريقي"
   },
   "ca bizertin": {
-    "en": "Club Athlétique Bizertin",
+    "en": "Club Bizertin",
     "ar": "النادي البنزرتي"
   },
   "club sportif sfaxien": {
@@ -636,8 +632,8 @@
     "ar": "النادي الصفاقسي"
   },
   "esperance st": {
-    "en": "Espérance Sportive de Tunis",
-    "ar": "الترجي الرياضي التونسي"
+    "en": "Espérance de Tunis",
+    "ar": "الترجي الرياضي"
   },
   "al watan": {
     "en": "Al-Watan",
@@ -733,7 +729,7 @@
   },
   "al ahli benghazi": {
     "en": "Al-Ahli Benghazi",
-    "ar": "الأهلي بنغازي"
+    "ar": "أهلي بنغازي"
   },
   "darnes": {
     "en": "Darnes",
@@ -760,12 +756,12 @@
     "ar": "المغرب الفاسي"
   },
   "renaissance sportive de berkane": {
-    "en": "Renaissance Sportive de Berkane",
+    "en": "Renaissance de Berkane",
     "ar": "نهضة بركان"
   },
   "morocco botola pro": {
     "en": "Moroccan Botola Pro",
-    "ar": "البطولة الوطنية الاحترافية المغربية"
+    "ar": "الدوري المغربي"
   },
   "frosinone calcio": {
     "en": "Frosinone",
@@ -816,8 +812,8 @@
     "ar": "سبتة"
   },
   "san sebastian de los reyes": {
-    "en": "San Sebastián de los Reyes",
-    "ar": "سان سيباستيان دي لوس رييس"
+    "en": "San Sebastián",
+    "ar": "سان سيباستيان"
   },
   "cd coria": {
     "en": "Coria",
@@ -937,7 +933,7 @@
   },
   "real valladolid cf": {
     "en": "Real Valladolid",
-    "ar": "ريال بلد الوليد"
+    "ar":  "بلد الوليد"
   },
   "ub conquense": {
     "en": "Conquense",
@@ -957,7 +953,7 @@
   },
   "england efl cup 4th round": {
     "en": "English EFL Cup - 4th Round",
-    "ar": "كأس رابطة الأندية الإنجليزية المحترفة - الدور الرابع"
+    "ar": "كأس رابطة الأندية الإنجليزية - الدور الرابع"
   },
   "fc groningen": {
     "en": "Groningen",
@@ -980,7 +976,7 @@
     "ar": "أوريينسي"
   },
   "rc deportivo de a corua": {
-    "en": "Deportivo de La Coruña",
+    "en": "Deportivo La Coruña",
     "ar": "ديبورتيفو لاكورونيا"
   },
   "ribadesella cf": {
@@ -988,7 +984,7 @@
     "ar": "ريباديسيا"
   },
   "racing santander": {
-    "en": "Racing de Santander",
+    "en": "Racing Santander",
     "ar": "راسينغ سانتاندير"
   },
   "sporting hortaleza": {
