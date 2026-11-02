@@ -1,4 +1,76 @@
 {
+  "Pakhtakor": {
+    "en": "Pakhtakor",
+    "ar": "باختاكور",
+    "countryen": "Uzbekistan",
+    "countryar": "أوزبكستان"
+  },
+  "Al Nassr FC Riyadh": {
+    "en": "Al Nassr FC Riyadh",
+    "ar": "نادي النصر الرياض",
+    "countryen": "Saudi Arabia",
+    "countryar": "السعودية"
+  },
+  "Tractor FC": {
+    "en": "Tractor FC",
+    "ar": "نادي تراكتور",
+    "countryen": "Iran",
+    "countryar": "إيران"
+  },
+  "Neftchi Fargona": {
+    "en": "Neftchi Fargona",
+    "ar": "نفطشي فرغانة",
+    "countryen": "Uzbekistan",
+    "countryar": "أوزبكستان"
+  },
+  "Al Wasl": {
+    "en": "Al Wasl",
+    "ar": "الوصل",
+    "countryen": "United Arab Emirates",
+    "countryar": "الإمارات العربية المتحدة"
+  },
+  "Quwa Al Jawiya": {
+    "en": "Quwa Al Jawiya",
+    "ar": "القوة الجوية",
+    "countryen": "Iraq",
+    "countryar": "العراق"
+  },
+  "Al Sadd": {
+    "en": "Al Sadd",
+    "ar": "السد",
+    "countryen": "Qatar",
+    "countryar": "قطر"
+  },
+  "Al Ahli Jeddah": {
+    "en": "Al Ahli Jeddah",
+    "ar": "الأهلي جدة",
+    "countryen": "Saudi Arabia",
+    "countryar": "السعودية"
+  },
+  "Al-Ittihad Club": {
+    "en": "Al-Ittihad Club",
+    "ar": "نادي الاتحاد",
+    "countryen": "Saudi Arabia",
+    "countryar": "المملكة العربية السعودية"
+  },
+  "Al Ain": {
+    "en": "Al Ain",
+    "ar": "العين",
+    "countryen": "United Arab Emirates",
+    "countryar": "الإمارات العربية المتحدة"
+  },
+  "Al Gharafa": {
+    "en": "Al Gharafa",
+    "ar": "الغرافة",
+    "countryen": "Qatar",
+    "countryar": "دولة قطر"
+  },
+  "Al Qadsiah FC": {
+    "en": "Al Qadsiah FC",
+    "ar": "نادي القادسية",
+    "countryen": "Saudi Arabia",
+    "countryar": "المملكة العربية السعودية"
+  },
   "alnassr": {
     "en": "Al-Nassr",
     "ar": "النصر",
