@@ -3,27 +3,6 @@
     {
       "tournamentEn": "🛡️ AFC Champions League Elite",
       "tournamentAr": "🛡️ دوري أبطال آسيا للنخبة",
-      "matchEn": "Pakhtakor (Uzbekistan) v Al-Nassr (Saudi Arabia)",
-      "matchAr": "باختاكور (أوزبكستان) × النصر (السعودية)",
-      "time": "13:45",
-      "channels": [
-        "📺 Canal 11 [Hispasat 30W 12437 H 27500]",
-        "📺 Bein Sport 2 [Nilesat 7.0W 11013 H 27500]",
-        "📺 Sport 4 [Amos 4.0W 11259 V 30000]",
-        "📺 Nova Sport BUL [Hotbird 13.0E 12654 H 30000]",
-        "📺 Sport Klub 1 HRV [Eutelsat 16.0E 11471 H 30000]",
-        "📺 Sport Klub 3 SLO [Eutelsat 16.0E 11231 V 42000]",
-        "📺 ESPN Netherlands [Astra 23.5E 11739 V 29900]",
-        "📺 Bein Sport 2 [Badrsat 26.0E 10810 H 27500]",
-        "📺 Al Kass Six [Badrsat 26.0E 10770 H 27500]",
-        "📺 Sporty TV [Eutelsat 36.0E 12265 V 27500]",
-        "📺 Spor Smart [Turksat 42.0E 12188 V 27500]",
-        "📺 Persiana Sports 1 [Al-Yah 52.5E 11343 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🛡️ AFC Champions League Elite",
-      "tournamentAr": "🛡️ دوري أبطال آسيا للنخبة",
       "matchEn": "Al Sadd (Qatar) v Al-Ahli (Libya)",
       "matchAr": "السد (قطر) × الأهلي (ليبيا)",
       "time": "16:00",
@@ -47,7 +26,7 @@
       "channels": [
         "📺 Bein Sport 2 [Nilesat 7.0W 11013 H 27500]",
         "📺 Nova Sport BUL [Hotbird 13.0E 12654 H 30000]",
-        "📺 ESPN Netherlands [Astra 23.5E 11739 V 29900]",
+        "📺 ESPN Netherlands [Eutelsat 23.5E 11739 V 29900]",
         "📺 Bein Sport 2 [Badrsat 26.0E 10810 H 27500]",
         "📺 Al Kass Six [Badrsat 26.0E 10770 H 27500]",
         "📺 Spor Smart 2 [Turksat 42.0E 12245 H 27500]"
@@ -150,8 +129,8 @@
         "📺 Sport 1 CZE [Eutelsat 16.0E 11055 V 27500]",
         "📺 Tring Sport 1 [Eutelsat 16.0E 10804 H 29950]",
         "📺 DAZN 2 GER [Astra 19.2E 12382 H 27500]",
-        "📺 Sport 1 CZE [Astra 23.5E 12070 H 27500]",
-        "📺 Ziggo Sport 2 [Astra 23.5E 12129 V 29900]",
+        "📺 Sport 1 CZE [Eutelsat 23.5E 12070 H 27500]",
+        "📺 Ziggo Sport 2 [Eutelsat 23.5E 12129 V 29900]",
         "📺 SuperSport Football [Eutelsat 36.0E 12341 V 27500]",
         "📺 SuperSport Máximo 1 [Eutelsat 36.0E 12169 H 27500]",
         "📺 Prima Sport 2 [Hellas-Sat 39.0E 12290 V 30000]",
@@ -187,8 +166,8 @@
         "📺 Sport 1 CZE [Eutelsat 16.0E 11055 V 27500]",
         "📺 Tring Sport 1 [Eutelsat 16.0E 10804 H 29950]",
         "📺 DAZN 2 GER [Astra 19.2E 12382 H 27500]",
-        "📺 Sport 1 CZE [Astra 23.5E 12070 H 27500]",
-        "📺 Ziggo Sport 2 [Astra 23.5E 12129 V 29900]",
+        "📺 Sport 1 CZE [Eutelsat 23.5E 12070 H 27500]",
+        "📺 Ziggo Sport 2 [Eutelsat 23.5E 12129 V 29900]",
         "📺 TNT Sports 1 [Astra 28.2E 11582 H 23000]",
         "📺 SuperSport Football [Eutelsat 36.0E 12341 V 27500]",
         "📺 SuperSport Máximo 1 [Eutelsat 36.0E 12169 H 27500]",
@@ -197,26 +176,6 @@
         "📺 Persiana Sports 1 [Al-Yah 52.5E 11343 H 27500]",
         "📺 Match! Futbol 1 [Eutelsat 80.0E 11044 V 45000]",
         "📺 Match! TV [Eutelsat 80.0E 11044 V 45000]"
-      ]
-    },
-    {
-      "tournamentEn": "🇸🇦 Saudi Arabia Division 1",
-      "tournamentAr": "🇸🇦 الدوري السعودي - الدرجة 1",
-      "matchEn": "Al-Jabalain v Al Bukayriyah",
-      "matchAr": "الجبلين × البكيرية",
-      "time": "12:30",
-      "channels": [
-        "📺 Thmanyah 2 [Badrsat 26.0E 11919 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🇸🇦 Saudi Arabia Division 1",
-      "tournamentAr": "🇸🇦 الدوري السعودي - الدرجة 1",
-      "matchEn": "Al Orobah v Al-Anwar",
-      "matchAr": "العروبة × الأنوار",
-      "time": "12:30",
-      "channels": [
-        "📺 Thmanyah 3 [Badrsat 26.0E 11919 H 27500]"
       ]
     },
     {
