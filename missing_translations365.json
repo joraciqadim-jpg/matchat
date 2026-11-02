@@ -1,1 +1,954 @@
-
+{
+  "Lanus": {
+    "en": "Lanús",
+    "ar": "لانوس"
+  },
+  "Gimnasia Mendoza": {
+    "en": "Gimnasia y Esgrima de Mendoza",
+    "ar": "جيمناسيا إي إسغريما ميندوزا"
+  },
+  "Argentina Liga Profesional - Clausura": {
+    "en": "Argentine Liga Profesional - Clausura",
+    "ar": "الدوري الأرجنتيني - كلاوسورا"
+  },
+  "CF Cruz Azul": {
+    "en": "Cruz Azul",
+    "ar": "كروز أزول"
+  },
+  "Club Leon": {
+    "en": "León",
+    "ar": "ليون"
+  },
+  "Mexico Liga MX - Apertura": {
+    "en": "Mexican Liga MX - Apertura",
+    "ar": "الدوري المكسيكي - أبرتورا"
+  },
+  "FC Zorya Luhansk": {
+    "en": "Zorya Luhansk",
+    "ar": "زوريا لوغانسك"
+  },
+  "FC Epitsentr Kamianets-Podilskyi": {
+    "en": "Epitsentr Kamianets-Podilskyi",
+    "ar": "إبيتسنتر كاميانيتس بوديلسكي"
+  },
+  "Ukraine Premier League": {
+    "en": "Ukrainian Premier League",
+    "ar": "الدوري الأوكراني الممتاز"
+  },
+  "FC Kryvbas Kriviy Rih": {
+    "en": "Kryvbas Kryvyi Rih",
+    "ar": "كريفباس كريفي ريه"
+  },
+  "FC Dynamo Kyiv": {
+    "en": "Dynamo Kyiv",
+    "ar": "دينامو كييف"
+  },
+  "Al Ittihad Aleppo": {
+    "en": "Al-Ittihad Aleppo",
+    "ar": "الاتحاد الحلبي"
+  },
+  "Qamislo Sport": {
+    "en": "Qamislo Sport",
+    "ar": "قامشلو سبورت"
+  },
+  "Syrian Premier League": {
+    "en": "Syrian Premier League",
+    "ar": "الدوري السوري الممتاز"
+  },
+  "Al Taliya Hama": {
+    "en": "Al-Taliya",
+    "ar": "الطليعة"
+  },
+  "Homs Al Fidaa SC": {
+    "en": "Al-Fidaa",
+    "ar": "الفداء"
+  },
+  "Al Jabalain": {
+    "en": "Al-Jabalain",
+    "ar": "الجبلين"
+  },
+  "Al Bukayriyah": {
+    "en": "Al-Bukayriyah",
+    "ar": "البكيرية"
+  },
+  "Saudi Arabia First Division": {
+    "en": "Saudi First Division League",
+    "ar": "دوري الدرجة الأولى السعودي"
+  },
+  "Al Oruba": {
+    "en": "Al-Orobah",
+    "ar": "العروبة"
+  },
+  "Al Anwar": {
+    "en": "Al-Anwar",
+    "ar": "الأنوار"
+  },
+  "Al Nassr FC Riyadh": {
+    "en": "Al-Nassr",
+    "ar": "النصر"
+  },
+  "Asia AFC Champions League Elite": {
+    "en": "AFC Champions League Elite",
+    "ar": "دوري أبطال آسيا للنخبة"
+  },
+  "Al Jeel": {
+    "en": "Al-Jeel",
+    "ar": "الجيل"
+  },
+  "Al-Najma": {
+    "en": "Al-Najma",
+    "ar": "النجمة"
+  },
+  "Zulfi Club": {
+    "en": "Al-Zulfi",
+    "ar": "الزلفي"
+  },
+  "Al-Jndal": {
+    "en": "Al-Jandal",
+    "ar": "الجندل"
+  },
+  "PFK Krylya Sovetov Samara": {
+    "en": "Krylia Sovetov Samara",
+    "ar": "كريليا سوفيتوف سامارا"
+  },
+  "FK Zenit St. Petersburg": {
+    "en": "Zenit Saint Petersburg",
+    "ar": "زينيت سانت بطرسبرغ"
+  },
+  "Russia Premier Liga": {
+    "en": "Russian Premier League",
+    "ar": "الدوري الروسي الممتاز"
+  },
+  "Umm Al Hassam": {
+    "en": "Umm Al Hassam",
+    "ar": "أم الحصم"
+  },
+  "Bahrain SC": {
+    "en": "Bahrain",
+    "ar": "البحرين"
+  },
+  "Bahrain King's Cup - Qualification": {
+    "en": "Bahraini King's Cup - Qualification",
+    "ar": "كأس ملك البحرين - التصفيات"
+  },
+  "Shabab Manama": {
+    "en": "Al-Shabab Manama",
+    "ar": "شباب المنامة"
+  },
+  "Al Tadamun Buri": {
+    "en": "Al-Tadamun",
+    "ar": "التضامن"
+  },
+  "Al Nasr": {
+    "en": "Al-Nasr",
+    "ar": "النصر"
+  },
+  "Kuwait Premier Division": {
+    "en": "Kuwaiti Premier League",
+    "ar": "الدوري الكويتي الممتاز"
+  },
+  "Karpaty Lviv": {
+    "en": "Karpaty Lviv",
+    "ar": "كارباتي لفيف"
+  },
+  "Kudrivka": {
+    "en": "Kudrivka",
+    "ar": "كودريفكا"
+  },
+  "Tractor FC": {
+    "en": "Tractor",
+    "ar": "تراكتور"
+  },
+  "Neftchi Fargona": {
+    "en": "Neftchi Fergana",
+    "ar": "نفطشي فرغانة"
+  },
+  "Al Wasl": {
+    "en": "Al Wasl",
+    "ar": "الوصل"
+  },
+  "Quwa Al Jawiya": {
+    "en": "Al-Quwa Al-Jawiya",
+    "ar": "القوة الجوية"
+  },
+  "Al Sadd": {
+    "en": "Al-Sadd",
+    "ar": "السد"
+  },
+  "Al Ahli Jeddah": {
+    "en": "Al-Ahli Saudi",
+    "ar": "الأهلي السعودي"
+  },
+  "Cr Temouchent": {
+    "en": "CR Témouchent",
+    "ar": "شباب عين تيموشنت"
+  },
+  "Us Biskra": {
+    "en": "US Biskra",
+    "ar": "اتحاد بسكرة"
+  },
+  "Algeria Ligue 1": {
+    "en": "Algerian Ligue 1",
+    "ar": "الدوري الجزائري"
+  },
+  "Poland Ekstraklasa": {
+    "en": "Polish Ekstraklasa",
+    "ar": "الدوري البولندي الممتاز"
+  },
+  "Genclerbirligi SK": {
+    "en": "Gençlerbirliği",
+    "ar": "جنشلربيرليغي"
+  },
+  "Turkiye Super Lig": {
+    "en": "Turkish Süper Lig",
+    "ar": "الدوري التركي الممتاز"
+  },
+  "Al Ahli Tripoli": {
+    "en": "Al-Ahli Tripoli",
+    "ar": "الأهلي طرابلس"
+  },
+  "Al-Khmes": {
+    "en": "Al-Khums",
+    "ar": "الخمس"
+  },
+  "Libya Premier League - Group Stage": {
+    "en": "Libyan Premier League - Stage",
+    "ar": "الدوري الليبي الممتاز - المجموعات"
+  },
+  "US Sassuolo Calcio": {
+    "en": "Sassuolo",
+    "ar": "ساسولو"
+  },
+  "Italy Serie A": {
+    "en": "Italian Serie A",
+    "ar": "الدوري الإيطالي"
+  },
+  "Kalmar FF": {
+    "en": "Kalmar",
+    "ar": "كالمار"
+  },
+  "Sweden Allsvenskan": {
+    "en": "Swedish Allsvenskan",
+    "ar": "الدوري السويدي الممتاز"
+  },
+  "Gais": {
+    "en": "GAIS",
+    "ar": "غايس"
+  },
+  "AIK Solna": {
+    "en": "AIK",
+    "ar": "أيك سولنا"
+  },
+  "Sonderjyske": {
+    "en": "SønderjyskE",
+    "ar": "سوندرييسكه"
+  },
+  "Denmark Superliga": {
+    "en": "Danish Superliga",
+    "ar": "الدوري الدنماركي الممتاز"
+  },
+  "Al-Ittihad Club": {
+    "en": "Al-Ittihad",
+    "ar": "الاتحاد"
+  },
+  "Al Ain": {
+    "en": "Al Ain",
+    "ar": "العين"
+  },
+  "Al Gharafa": {
+    "en": "Al-Gharafa",
+    "ar": "الغرافة"
+  },
+  "Al Qadsiah FC": {
+    "en": "Al-Qadsiah",
+    "ar": "القادسية"
+  },
+  "CR Belouizdad": {
+    "en": "CR Belouizdad",
+    "ar": "شباب بلوزداد"
+  },
+  "JS Saoura": {
+    "en": "JS Saoura",
+    "ar": "شبيبة الساورة"
+  },
+  "Rakow Czestochowa": {
+    "en": "Raków Częstochowa",
+    "ar": "راكوف تشنستوخوفا"
+  },
+  "Pogoń Szczecin": {
+    "en": "Pogoń Szczecin",
+    "ar": "بوجون شتشيتسين"
+  },
+  "Atalanta Bergamo": {
+    "en": "Atalanta",
+    "ar": "أتلانتا"
+  },
+  "Parma Calcio 1913": {
+    "en": "Parma 1913",
+    "ar": "بارما 1913"
+  },
+  "FC Lorient": {
+    "en": "Lorient",
+    "ar": "لوريان"
+  },
+  "Stade Brestois 29": {
+    "en": "Brest",
+    "ar": "بريست"
+  },
+  "France Ligue 1": {
+    "en": "French Ligue 1",
+    "ar": "الدوري الفرنسي"
+  },
+  "Newcastle United FC": {
+    "en": "Newcastle United",
+    "ar": "نيوكاسل يونايتد"
+  },
+  "Everton FC": {
+    "en": "Everton",
+    "ar": "إيفرتون"
+  },
+  "England Premier League": {
+    "en": "English Premier League",
+    "ar": "الدوري الإنجليزي الممتاز"
+  },
+  "RC Deportivo de A Coruña": {
+    "en": "Deportivo de La Coruña",
+    "ar": "ديبورتيفو لاكورونيا"
+  },
+  "Spain LaLiga": {
+    "en": "Spanish La Liga 1",
+    "ar": "الدوري الإسباني"
+  },
+  "Gil Vicente FC": {
+    "en": "Gil Vicente",
+    "ar": "جيل فيسنتي"
+  },
+  "Liga Portugal": {
+    "en": "Portuguese Primeira Liga",
+    "ar": "الدوري البرتغالي الممتاز"
+  },
+  "SL Benfica FC": {
+    "en": "Benfica",
+    "ar": "بنفيكا"
+  },
+  "Central Córdoba SdE": {
+    "en": "Central Córdoba",
+    "ar": "سنترال كوردوبا"
+  },
+  "Defensa Y Justicia": {
+    "en": "Defensa y Justicia",
+    "ar": "ديفينسا إي خوستيسيا"
+  },
+  "Red Bull Bragantino": {
+    "en": "Red Bull Bragantino",
+    "ar": "ريد بول براغانتينو"
+  },
+  "Brazil Brasileiro Série A": {
+    "en": "Brazilian Série A",
+    "ar": "الدوري البرازيلي"
+  },
+  "new england": {
+    "en": "New England Revolution",
+    "ar": "نيو إنغلاند ريفولوشن"
+  },
+  "al bukayriyah": {
+    "en": "Al-Bukayriyah",
+    "ar": "البكيرية"
+  },
+  "al orobah": {
+    "en": "Al-Orobah",
+    "ar": "العروبة"
+  },
+  "al zulfi": {
+    "en": "Al-Zulfi",
+    "ar": "الزلفي"
+  },
+  "raptors": {
+    "en": "Toronto Raptors",
+    "ar": "تورونتو رابتورز"
+  },
+  "latvian virsliga": {
+    "en": "Latvian Higher League",
+    "ar": "الدوري اللاتفي الممتاز"
+  },
+  "grobina": {
+    "en": "FK Grobiņa",
+    "ar": "غروبينيا"
+  },
+  "ogre united": {
+    "en": "Ogre United",
+    "ar": "أوغري يونايتد"
+  },
+  "blackpool": {
+    "en": "Blackpool",
+    "ar": "بلاكبول"
+  },
+  "omonia 29is maiou": {
+    "en": "Omonia 29th of May",
+    "ar": "أومونيا 29 مايو"
+  },
+  "nea salamis": {
+    "en": "Nea Salamis Famagusta",
+    "ar": "نيا سلاميس فاماغوستا"
+  },
+  "kasmpaa": {
+    "en": "Kasımpaşa",
+    "ar": "قاسم باشا"
+  },
+  "brazil copa do brasil": {
+    "en": "Brazilian Copa do Brasil",
+    "ar": "كأس البرازيل"
+  },
+  "magic": {
+    "en": "Orlando Magic",
+    "ar": "أورلاندو ماجيك"
+  },
+  "netherlands eredivisie": {
+    "en": "Dutch Eredivisie",
+    "ar": "الدوري الهولندي الممتاز"
+  },
+  "fortuna": {
+    "en": "Fortuna Sittard",
+    "ar": "فورتونا سيتارد"
+  },
+  "jazz": {
+    "en": "Utah Jazz",
+    "ar": "يوتا جاز"
+  },
+  "wizards": {
+    "en": "Washington Wizards",
+    "ar": "واشنطن ويزاردز"
+  },
+  "agram": {
+    "en": "Agram",
+    "ar": "أجرام"
+  },
+  "rilski sportist": {
+    "en": "Rilski Sportist",
+    "ar": "ريلسكي سبورتيست"
+  },
+  "dubrava zagreb": {
+    "en": "Dubrava",
+    "ar": "دوبرافا زغرب"
+  },
+  "premier league international cup": {
+    "en": "English Premier League International Cup",
+    "ar": "كأس الدوري الإنجليزي الممتاز الدولي"
+  },
+  "hawks": {
+    "en": "Atlanta Hawks",
+    "ar": "أتلانتا هوكس"
+  },
+  "grizzlies": {
+    "en": "Memphis Grizzlies",
+    "ar": "ممفيس غريزليز"
+  },
+  "brazil brasileiro srie a": {
+    "en": "Brazilian Campeonato Brasileiro Série A",
+    "ar": "الدوري البرازيلي"
+  },
+  "bahia": {
+    "en": "Esporte Clube Bahia",
+    "ar": "باهيا"
+  },
+  "so paulo fc": {
+    "en": "São Paulo",
+    "ar": "ساو باولو"
+  },
+  "club amrica": {
+    "en": "América",
+    "ar": "أمريكا"
+  },
+  "xolos de tijuana": {
+    "en": "Tijuana",
+    "ar": "تيخوانا"
+  },
+  "mexico liga mx apertura": {
+    "en": "Mexican Liga MX - Apertura",
+    "ar": "الدوري المكسيكي - مرحلة الافتتاح"
+  },
+  "adelaide united fc": {
+    "en": "Adelaide United",
+    "ar": "أديلايد يونايتد"
+  },
+  "lion city": {
+    "en": "Lion City Sailors",
+    "ar": "ليون سيتي سايلرز"
+  },
+  "asia afc champions league two": {
+    "en": "Asian AFC Champions League Two",
+    "ar": "دوري أبطال آسيا 2"
+  },
+  "gangwon fc": {
+    "en": "Gangwon",
+    "ar": "جانجون"
+  },
+  "kuching city fc": {
+    "en": "Kuching City",
+    "ar": "كوتشينغ سيتي"
+  },
+  "tampines rovers fc": {
+    "en": "Tampines Rovers",
+    "ar": "تامبينيس روفرز"
+  },
+  "svay rieng": {
+    "en": "Svay Rieng",
+    "ar": "سفاي رينغ"
+  },
+  "phnom penh crown": {
+    "en": "Phnom Penh Crown",
+    "ar": "فنوم بينه كراون"
+  },
+  "kitchee": {
+    "en": "Kitchee",
+    "ar": "كيتشي"
+  },
+  "shanghai shenhua fc": {
+    "en": "Shanghai Shenhua",
+    "ar": "شنغهاي شينهوا"
+  },
+  "machida zelvia": {
+    "en": "Machida Zelvia",
+    "ar": "ماتشيدا زيلفيا"
+  },
+  "tai po fc": {
+    "en": "Tai Po",
+    "ar": "تاي بو"
+  },
+  "bg pathum united fc": {
+    "en": "BG Pathum United",
+    "ar": "بي جي باثوم يونايتد"
+  },
+  "al mosoul": {
+    "en": "Al-Mosoul",
+    "ar": "الموصل"
+  },
+  "al julan": {
+    "en": "Al-Julan",
+    "ar": "الجولان"
+  },
+  "iraqi league": {
+    "en": "Iraqi Stars League",
+    "ar": "دوري نجوم العراق"
+  },
+  "khaleej sirte": {
+    "en": "Khaleej Sirte",
+    "ar": "خليج سرت"
+  },
+  "al butnan fc": {
+    "en": "Al-Butnan",
+    "ar": "البطنان"
+  },
+  "libya premier league group stage": {
+    "en": "Libyan Premier League - Group Stage",
+    "ar": "الدوري الليبي الممتاز - دور المجموعات"
+  },
+  "stade tunisien": {
+    "en": "Stade Tunisien",
+    "ar": "الملعب التونسي"
+  },
+  "esperance zarzis": {
+    "en": "Espérance Sportive de Zarzis",
+    "ar": "الترجي الجرجيسي"
+  },
+  "tunisia division 1": {
+    "en": "Tunisian Ligue Professionnelle 1",
+    "ar": "الدوري التونسي الدرجة الأولى"
+  },
+  "club africain tunis": {
+    "en": "Club Africain",
+    "ar": "النادي الإفريقي"
+  },
+  "ca bizertin": {
+    "en": "Club Athlétique Bizertin",
+    "ar": "النادي البنزرتي"
+  },
+  "club sportif sfaxien": {
+    "en": "Club Sfaxien",
+    "ar": "النادي الصفاقسي"
+  },
+  "esperance st": {
+    "en": "Espérance Sportive de Tunis",
+    "ar": "الترجي الرياضي التونسي"
+  },
+  "al watan": {
+    "en": "Al-Watan",
+    "ar": "الوطن"
+  },
+  "al swehly sc": {
+    "en": "Al-Swehly",
+    "ar": "السويحلي"
+  },
+  "al naft": {
+    "en": "Al-Naft",
+    "ar": "النفط"
+  },
+  "al kahrabaa": {
+    "en": "Al-Kahrabaa",
+    "ar": "الكهرباء"
+  },
+  "al waab": {
+    "en": "Al-Waab",
+    "ar": "الوعب"
+  },
+  "al kharitiyat": {
+    "en": "Al-Kharitiyath",
+    "ar": "الخريطيات"
+  },
+  "qatar q league": {
+    "en": "Qatari Qatargas League",
+    "ar": "دوري الدرجة الثانية القطري"
+  },
+  "al khaleej club": {
+    "en": "Al-Khaleej",
+    "ar": "الخليج"
+  },
+  "al hazm fc": {
+    "en": "Al-Hazem",
+    "ar": "الحزم"
+  },
+  "saudi arabia saudi league": {
+    "en": "Saudi Pro League",
+    "ar": "دوري روشن السعودي"
+  },
+  "al salt": {
+    "en": "Al-Salt",
+    "ar": "السلط"
+  },
+  "al jazeera": {
+    "en": "Al-Jazeera Amman",
+    "ar": "الجزيرة الأردني"
+  },
+  "jordan pro league": {
+    "en": "Jordanian Pro League",
+    "ar": "الدوري الأردني للمحترفين"
+  },
+  "minaa basra": {
+    "en": "Al-Mina'a",
+    "ar": "الميناء"
+  },
+  "samail": {
+    "en": "Samail",
+    "ar": "سمائل"
+  },
+  "bidiya club": {
+    "en": "Bidiya",
+    "ar": "بدية"
+  },
+  "oman sultan cup qualification": {
+    "en": "Omani Sultan Qaboos Cup - Qualification",
+    "ar": "كأس السلطان قابوس - التصفيات"
+  },
+  "umm salal": {
+    "en": "Umm Salal",
+    "ar": "أم صلال"
+  },
+  "albidda": {
+    "en": "Al-Bidda",
+    "ar": "البدع"
+  },
+  "al rayyan next generation": {
+    "en": "Al Rayyan Reserves",
+    "ar": "رديف الريان"
+  },
+  "mesaimeer sc": {
+    "en": "Mesaimeer",
+    "ar": "المسيمير"
+  },
+  "new benghazi fc": {
+    "en": "New Benghazi",
+    "ar": "نيو بنغازي"
+  },
+  "al sharara": {
+    "en": "Al-Sharara",
+    "ar": "الشرارة"
+  },
+  "al ahli benghazi": {
+    "en": "Al-Ahli Benghazi",
+    "ar": "الأهلي بنغازي"
+  },
+  "darnes": {
+    "en": "Darnes",
+    "ar": "دارنس"
+  },
+  "cd numancia de soria": {
+    "en": "Numancia",
+    "ar": "نومانسيا"
+  },
+  "spain copa del rey 1st round": {
+    "en": "Spanish Copa del Rey - 1st Round",
+    "ar": "كأس ملك إسبانيا - الدور الأول"
+  },
+  "pea sport fc": {
+    "en": "Peña Sport",
+    "ar": "بينيا سبورت"
+  },
+  "sd huesca": {
+    "en": "Huesca",
+    "ar": "هويسكا"
+  },
+  "maghreb as de fs": {
+    "en": "Maghreb de Fès",
+    "ar": "المغرب الفاسي"
+  },
+  "renaissance sportive de berkane": {
+    "en": "Renaissance Sportive de Berkane",
+    "ar": "نهضة بركان"
+  },
+  "morocco botola pro": {
+    "en": "Moroccan Botola Pro",
+    "ar": "البطولة الوطنية الاحترافية المغربية"
+  },
+  "frosinone calcio": {
+    "en": "Frosinone",
+    "ar": "فروزينوني"
+  },
+  "us lecce": {
+    "en": "Lecce",
+    "ar": "ليتشي"
+  },
+  "netherlands knvb cup 1st round": {
+    "en": "Dutch KNVB Cup - 1st Round",
+    "ar": "كأس هولندا - الدور الأول"
+  },
+  "rgryte is": {
+    "en": "Örgryte",
+    "ar": "أورغريته"
+  },
+  "al riyadh sc": {
+    "en": "Al-Riyadh",
+    "ar": "الرياض"
+  },
+  "alkholood": {
+    "en": "Al-Kholood",
+    "ar": "الخلود"
+  },
+  "coruxo fc": {
+    "en": "Coruxo",
+    "ar": "كوروخو"
+  },
+  "zamora cf": {
+    "en": "Zamora",
+    "ar": "زامورا"
+  },
+  "atletico baleares": {
+    "en": "Atlético Baleares",
+    "ar": "أتلتيكو بالياريس"
+  },
+  "cd eldense": {
+    "en": "Eldense",
+    "ar": "إلدينسي"
+  },
+  "ud poblense": {
+    "en": "Poblense",
+    "ar": "بويبلينسي"
+  },
+  "ad ceuta fc": {
+    "en": "Ceuta",
+    "ar": "سبتة"
+  },
+  "san sebastian de los reyes": {
+    "en": "San Sebastián de los Reyes",
+    "ar": "سان سيباستيان دي لوس رييس"
+  },
+  "cd coria": {
+    "en": "Coria",
+    "ar": "كوريا"
+  },
+  "ub lebrijana": {
+    "en": "Lebrijana",
+    "ar": "ليبريخانا"
+  },
+  "getafe cf": {
+    "en": "Getafe",
+    "ar": "خيتافي"
+  },
+  "cd cieza": {
+    "en": "Cieza",
+    "ar": "ثييثا"
+  },
+  "granada cf": {
+    "en": "Granada",
+    "ar": "غرناطة"
+  },
+  "mijas las lagunas": {
+    "en": "Mijas Las Lagunas",
+    "ar": "ميخاس لاس لاغوناس"
+  },
+  "real jan cf": {
+    "en": "Real Jaén",
+    "ar": "ريال خاين"
+  },
+  "purmersteijn": {
+    "en": "Purmersteijn",
+    "ar": "بورميرستاين"
+  },
+  "gemert": {
+    "en": "Gemert",
+    "ar": "خيميرت"
+  },
+  "rkav volendam": {
+    "en": "RKAV Volendam",
+    "ar": "آر كيه إيه في فولندام"
+  },
+  "rohda raalte": {
+    "en": "Rohda Raalte",
+    "ar": "رودا رالته"
+  },
+  "acv assen": {
+    "en": "ACV Assen",
+    "ar": "أسي في آسن"
+  },
+  "amsterdanshe fc": {
+    "en": "Amsterdamse",
+    "ar": "أمستردامشه"
+  },
+  "gvvv": {
+    "en": "GVVV",
+    "ar": "خي في في في"
+  },
+  "noordwijk": {
+    "en": "Noordwijk",
+    "ar": "نوردفيك"
+  },
+  "hsv hoek": {
+    "en": "Hoek",
+    "ar": "هوك"
+  },
+  "sparta nijkerk": {
+    "en": "Sparta Nijkerk",
+    "ar": "سبارتا ناكيرك"
+  },
+  "heracles": {
+    "en": "Heracles Almelo",
+    "ar": "هيراكليس ألميلو"
+  },
+  "real vila cf": {
+    "en": "Real Ávila",
+    "ar": "ريال أفيلا"
+  },
+  "unionistas de salamanca": {
+    "en": "Unionistas de Salamanca",
+    "ar": "أونيونيستاس سالامانكا"
+  },
+  "cd varea": {
+    "en": "Varea",
+    "ar": "فاريا"
+  },
+  "andorra cf": {
+    "en": "Andorra",
+    "ar": "أندورا"
+  },
+  "antequera cf": {
+    "en": "Antequera",
+    "ar": "أنتيكيرا"
+  },
+  "guilas cf": {
+    "en": "Águilas",
+    "ar": "أغيلاس"
+  },
+  "sd laredo": {
+    "en": "Laredo",
+    "ar": "لاريدو"
+  },
+  "burgos cf": {
+    "en": "Burgos",
+    "ar": "بورغوس"
+  },
+  "cd guijuelo": {
+    "en": "Guijuelo",
+    "ar": "غيخويلو"
+  },
+  "real sporting de gijn": {
+    "en": "Sporting Gijón",
+    "ar": "سبورتينغ خيخون"
+  },
+  "cd covadonga": {
+    "en": "Covadonga",
+    "ar": "كوفادونغا"
+  },
+  "real valladolid cf": {
+    "en": "Real Valladolid",
+    "ar": "ريال بلد الوليد"
+  },
+  "ub conquense": {
+    "en": "Conquense",
+    "ar": "كونكينسي"
+  },
+  "cd castelln": {
+    "en": "Castellón",
+    "ar": "كاستيون"
+  },
+  "gimnastica torrelavega": {
+    "en": "Gimnástica de Torrelavega",
+    "ar": "خيمناستيكا توريلابييغا"
+  },
+  "ud ourense": {
+    "en": "Ourense",
+    "ar": "أورينسي"
+  },
+  "england efl cup 4th round": {
+    "en": "English EFL Cup - 4th Round",
+    "ar": "كأس رابطة الأندية الإنجليزية المحترفة - الدور الرابع"
+  },
+  "fc groningen": {
+    "en": "Groningen",
+    "ar": "غرونينغن"
+  },
+  "fc emmen": {
+    "en": "Emmen",
+    "ar": "إيمن"
+  },
+  "xerez": {
+    "en": "Xerez",
+    "ar": "خيريث"
+  },
+  "cadiz cf": {
+    "en": "Cádiz",
+    "ar": "قادش"
+  },
+  "auriense": {
+    "en": "Ourense",
+    "ar": "أوريينسي"
+  },
+  "rc deportivo de a corua": {
+    "en": "Deportivo de La Coruña",
+    "ar": "ديبورتيفو لاكورونيا"
+  },
+  "ribadesella cf": {
+    "en": "Ribadesella",
+    "ar": "ريباديسيا"
+  },
+  "racing santander": {
+    "en": "Racing de Santander",
+    "ar": "راسينغ سانتاندير"
+  },
+  "sporting hortaleza": {
+    "en": "Sporting Hortaleza",
+    "ar": "سبورتينغ هورتاليزا"
+  },
+  "sevilla fc": {
+    "en": "Sevilla",
+    "ar": "إشبيلية"
+  },
+  "ae prat": {
+    "en": "AE Prat",
+    "ar": "إي إي برات"
+  },
+  "cruzeiro mg": {
+    "en": "Cruzeiro",
+    "ar": "كروزيرو"
+  },
+  "kozakken boys": {
+    "en": "Kozakken Boys",
+    "ar": "كوزاكن بويز"
+  },
+  "lebrijana": {
+    "en": "Lebrijana",
+    "ar": "ليبريخانا"
+  },
+  "atltico calatayud": {
+    "en": "Atlético Calatayud",
+    "ar": "أتلتيكو كالاتايود"
+  }
+  }
