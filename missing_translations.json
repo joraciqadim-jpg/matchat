@@ -1,11 +1,23 @@
 {
-  "New England Revolution": {
-    "en": "New England Revolution",
-    "ar": "نيو إنجلاند ريفولوشن"
+  "new england": {
+    "en": "New England",
+    "ar": "نيو إنجلاند"
   },
-  "Kristianstad": {
-    "en": "Kristianstad",
-    "ar": "كريستيانستاد"
+  "al bukayriyah": {
+    "en": "Al Bukayriyah",
+    "ar": "البكيرية"
+  },
+  "al orobah": {
+    "en": "Al Orobah",
+    "ar": "العروبة"
+  },
+  "al zulfi": {
+    "en": "Al Zulfi",
+    "ar": "الزلفي"
+  },
+  "raptors": {
+    "en": "Raptors",
+    "ar": "رابتورز"
   },
   "de treffers": {
     "en": "De Treffers",
