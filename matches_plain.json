@@ -3,38 +3,6 @@
     {
       "tournamentEn": "🛡️ AFC Champions League Elite",
       "tournamentAr": "🛡️ دوري أبطال آسيا للنخبة",
-      "matchEn": "Al Sadd (Qatar) v Al-Ahli (Libya)",
-      "matchAr": "السد (قطر) × الأهلي (ليبيا)",
-      "time": "16:00",
-      "channels": [
-        "📺 Canal 11 [Hispasat 30W 12437 H 27500]",
-        "📺 Bein Sport 1 [Nilesat 7.0W 11013 H 27500]",
-        "📺 Sport Klub 1 HRV [Eutelsat 16.0E 11471 H 30000]",
-        "📺 Sport Klub 3 SLO [Eutelsat 16.0E 11231 V 42000]",
-        "📺 Bein Sport 1 [Badrsat 26.0E 10810 H 27500]",
-        "📺 Al Kass Five [Badrsat 26.0E 10770 H 27500]",
-        "📺 Persiana Sports 3 [Al-Yah 52.5E 11343 H 27500]",
-        "📺 Varzish TV [Al-Yah 52.5E 11785 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🛡️ AFC Champions League Elite",
-      "tournamentAr": "🛡️ دوري أبطال آسيا للنخبة",
-      "matchEn": "Al-Wasl (United Arab Emirates) v Al-Quwa Al-Jawiya (Iraq)",
-      "matchAr": "الوصل (الإمارات) × القوة الجوية (العراق)",
-      "time": "16:00",
-      "channels": [
-        "📺 Bein Sport 2 [Nilesat 7.0W 11013 H 27500]",
-        "📺 Nova Sport BUL [Hotbird 13.0E 12654 H 30000]",
-        "📺 ESPN Netherlands [Eutelsat 23.5E 11739 V 29900]",
-        "📺 Bein Sport 2 [Badrsat 26.0E 10810 H 27500]",
-        "📺 Al Kass Six [Badrsat 26.0E 10770 H 27500]",
-        "📺 Spor Smart 2 [Turksat 42.0E 12245 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🛡️ AFC Champions League Elite",
-      "tournamentAr": "🛡️ دوري أبطال آسيا للنخبة",
       "matchEn": "Al Gharafa (Qatar) v Al-Qadsiah (Saudi Arabia)",
       "matchAr": "الغرافة (قطر) × القادسية (السعودية)",
       "time": "18:15",
@@ -176,26 +144,6 @@
         "📺 Persiana Sports 1 [Al-Yah 52.5E 11343 H 27500]",
         "📺 Match! Futbol 1 [Eutelsat 80.0E 11044 V 45000]",
         "📺 Match! TV [Eutelsat 80.0E 11044 V 45000]"
-      ]
-    },
-    {
-      "tournamentEn": "🇸🇦 Saudi Arabia Division 1",
-      "tournamentAr": "🇸🇦 الدوري السعودي - الدرجة 1",
-      "matchEn": "Al-Jeel v Al-Najma",
-      "matchAr": "الجيل × النجمة",
-      "time": "14:40",
-      "channels": [
-        "📺 Thmanyah 1 [Badrsat 26.0E 11919 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🇸🇦 Saudi Arabia Division 1",
-      "tournamentAr": "🇸🇦 الدوري السعودي - الدرجة 1",
-      "matchEn": "Al Zulfi v Al-Jandal",
-      "matchAr": "الزلفي × الجندل",
-      "time": "14:55",
-      "channels": [
-        "📺 Thmanyah 2 [Badrsat 26.0E 11919 H 27500]"
       ]
     }
   ]
