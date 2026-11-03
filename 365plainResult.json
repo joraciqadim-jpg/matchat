@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793735355363,
+  "timestamp": 1793735437339,
   "matches": [
     {
       "matchId": 4818600,
@@ -151,8 +151,8 @@
       "matchEn": "Al Hilal (Saudi Arabia) v Shabab Al Ahly (Emirates)",
       "matchAr": "الهلال (السعودية) × شباب الأهلي (الإمارات)",
       "rawIsoTime": "2026-11-03T18:15:00+00:00",
-      "time": "2 - 0 (74')",
-      "rawMinute": 74,
+      "time": "2 - 0 (75')",
+      "rawMinute": 75,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -340,6 +340,19 @@
       "isLive": false
     },
     {
+      "matchId": 4635966,
+      "tournamentEn": "🇸🇪 Swedish Allsvenskan",
+      "tournamentAr": "🇸🇪 الدوري السويدي الممتاز",
+      "matchEn": "Sirius v Halmstad",
+      "matchAr": "سيريوس × هالمستاد",
+      "rawIsoTime": "2026-11-03T18:00:00+00:00",
+      "time": "2 - 0 (done)",
+      "rawMinute": 90,
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "isLive": false
+    },
+    {
       "matchId": 4870793,
       "tournamentEn": "🏆 Spain Copa del Rey - 1st Round",
       "tournamentAr": "🏆 كأس ملك إسبانيا - الدور الأول",
@@ -364,19 +377,6 @@
       "homeGoals": -1,
       "awayGoals": -1,
       "isLive": false
-    },
-    {
-      "matchId": 4635966,
-      "tournamentEn": "🇸🇪 Swedish Allsvenskan",
-      "tournamentAr": "🇸🇪 الدوري السويدي الممتاز",
-      "matchEn": "Sirius v Halmstad",
-      "matchAr": "سيريوس × هالمستاد",
-      "rawIsoTime": "2026-11-03T18:00:00+00:00",
-      "time": "2 - 0 (90+3')",
-      "rawMinute": 93,
-      "homeGoals": 2,
-      "awayGoals": 0,
-      "isLive": true
     }
   ]
 }
