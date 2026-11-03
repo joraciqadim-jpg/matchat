@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793719636314,
+  "timestamp": 1793719699296,
   "matches": [
     {
       "matchId": 4818600,
@@ -86,10 +86,10 @@
       "matchEn": "East Bengal (India) v Al Seeb (Oman)",
       "matchAr": "إيست بنغال (الهند) × السيب (عُمان)",
       "rawIsoTime": "2026-11-03T13:45:00+00:00",
-      "time": "0 - 0 (85')",
-      "rawMinute": 85,
+      "time": "0 - 1 (86')",
+      "rawMinute": 86,
       "homeGoals": 0,
-      "awayGoals": 0,
+      "awayGoals": 1,
       "isLive": true
     },
     {
@@ -346,8 +346,8 @@
       "matchEn": "Al Raed v Al Wehda",
       "matchAr": "الرائد × الوحدة",
       "rawIsoTime": "2026-11-03T15:00:00+00:00",
-      "time": "0 - 1 (27')",
-      "rawMinute": 27,
+      "time": "0 - 1 (29')",
+      "rawMinute": 29,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
