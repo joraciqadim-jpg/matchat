@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793719035706,
+  "timestamp": 1793719099898,
   "matches": [
     {
       "matchId": 4818600,
@@ -86,8 +86,8 @@
       "matchEn": "East Bengal (India) v Al Seeb (Oman)",
       "matchAr": "إيست بنغال (الهند) × السيب (عُمان)",
       "rawIsoTime": "2026-11-03T13:45:00+00:00",
-      "time": "0 - 0 (75')",
-      "rawMinute": 75,
+      "time": "0 - 0 (76')",
+      "rawMinute": 76,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -333,8 +333,8 @@
       "matchEn": "Stade Tunisien v Africain Tunis",
       "matchAr": "الملعب التونسي × النادي الإفريقي",
       "rawIsoTime": "2026-11-03T13:30:00+00:00",
-      "time": "1 - 1 (82')",
-      "rawMinute": 82,
+      "time": "1 - 1 (83')",
+      "rawMinute": 83,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -346,8 +346,8 @@
       "matchEn": "Al Raed v Al Wehda",
       "matchAr": "الرائد × الوحدة",
       "rawIsoTime": "2026-11-03T15:00:00+00:00",
-      "time": "0 - 1 (17')",
-      "rawMinute": 17,
+      "time": "0 - 1 (19')",
+      "rawMinute": 19,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
