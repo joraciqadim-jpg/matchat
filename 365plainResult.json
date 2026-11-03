@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793716155709,
+  "timestamp": 1793716256433,
   "matches": [
     {
       "matchId": 4818600,
@@ -86,8 +86,8 @@
       "matchEn": "East Bengal (India) v Al Seeb (Oman)",
       "matchAr": "إيست بنغال (الهند) × السيب (عُمان)",
       "rawIsoTime": "2026-11-03T13:45:00+00:00",
-      "time": "0 - 0 (45')",
-      "rawMinute": 45,
+      "time": "0 - 0 (45+1')",
+      "rawMinute": 46,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
