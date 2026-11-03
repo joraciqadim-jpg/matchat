@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793723356288,
+  "timestamp": 1793723458663,
   "matches": [
     {
       "matchId": 4818600,
@@ -99,8 +99,8 @@
       "matchEn": "Esteghlal Tehran (Iran) v Al Shamal (Qatar)",
       "matchAr": "استقلال طهران (إيران) × الشمال (قطر)",
       "rawIsoTime": "2026-11-03T16:00:00+00:00",
-      "time": "0 - 0 (29')",
-      "rawMinute": 29,
+      "time": "0 - 0 (31')",
+      "rawMinute": 31,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -112,8 +112,8 @@
       "matchEn": "Al Hussein (Jordan) v Al Shorta (Iraq)",
       "matchAr": "الحسين (الأردن) × الشرطة (العراق)",
       "rawIsoTime": "2026-11-03T16:00:00+00:00",
-      "time": "0 - 1 (30')",
-      "rawMinute": 30,
+      "time": "0 - 1 (31')",
+      "rawMinute": 31,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -346,8 +346,8 @@
       "matchEn": "Al Raed v Al Wehda",
       "matchAr": "الرائد × الوحدة",
       "rawIsoTime": "2026-11-03T15:00:00+00:00",
-      "time": "0 - 1 (71')",
-      "rawMinute": 71,
+      "time": "0 - 1 (72')",
+      "rawMinute": 72,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
