@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793706675782,
+  "timestamp": 1793706739066,
   "matches": [
     {
       "matchId": 4818600,
@@ -28,29 +28,29 @@
       "isLive": false
     },
     {
-      "matchId": 4818598,
-      "tournamentEn": "🛡️ AFC Champions League Elite",
-      "tournamentAr": "🛡️ دوري أبطال آسيا للنخبة",
-      "matchEn": "Vissel Kobe (Japan) v Ratchaburi (Thailand)",
-      "matchAr": "فيسيل كوبي (اليابان) × راتشابوري (تايلاند)",
-      "rawIsoTime": "2026-11-03T10:00:00+00:00",
-      "time": "3 - 2 (90+3')",
-      "rawMinute": 93,
-      "homeGoals": 3,
-      "awayGoals": 2,
-      "isLive": true
-    },
-    {
       "matchId": 4818599,
       "tournamentEn": "🛡️ AFC Champions League Elite",
       "tournamentAr": "🛡️ دوري أبطال آسيا للنخبة",
       "matchEn": "Jeonbuk Motors (South Korea) v Johor Darul Ta’zim (Malaysia)",
       "matchAr": "جونبوك هيونداي موتورز (كوريا الجنوبية) × جوهور دار التعظيم (ماليزيا)",
       "rawIsoTime": "2026-11-03T10:00:00+00:00",
-      "time": "2 - 0 (90+3')",
-      "rawMinute": 93,
+      "time": "2 - 0 (done)",
+      "rawMinute": 90,
       "homeGoals": 2,
       "awayGoals": 0,
+      "isLive": false
+    },
+    {
+      "matchId": 4818598,
+      "tournamentEn": "🛡️ AFC Champions League Elite",
+      "tournamentAr": "🛡️ دوري أبطال آسيا للنخبة",
+      "matchEn": "Vissel Kobe (Japan) v Ratchaburi (Thailand)",
+      "matchAr": "فيسيل كوبي (اليابان) × راتشابوري (تايلاند)",
+      "rawIsoTime": "2026-11-03T10:00:00+00:00",
+      "time": "3 - 2 (90+4')",
+      "rawMinute": 94,
+      "homeGoals": 3,
+      "awayGoals": 2,
       "isLive": true
     },
     {
