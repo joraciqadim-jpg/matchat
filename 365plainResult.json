@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793709738707,
+  "timestamp": 1793709795167,
   "matches": [
     {
       "matchId": 4818600,
@@ -60,8 +60,8 @@
       "matchEn": "Thai Port (Thailand) v Beijing Guoan (China)",
       "matchAr": "تاي بورت (تايلاند) × بكين غوان (الصين)",
       "rawIsoTime": "2026-11-03T12:15:00+00:00",
-      "time": "2 - 2 (27')",
-      "rawMinute": 27,
+      "time": "2 - 2 (28')",
+      "rawMinute": 28,
       "homeGoals": 2,
       "awayGoals": 2,
       "isLive": true
@@ -73,8 +73,8 @@
       "matchEn": "Công An Hà Nội (Vietnam) v Kyoto (Japan)",
       "matchAr": "كونغ آن هانوي (فيتنام) × كيوتو (اليابان)",
       "rawIsoTime": "2026-11-03T12:15:00+00:00",
-      "time": "0 - 0 (28')",
-      "rawMinute": 28,
+      "time": "0 - 0 (29')",
+      "rawMinute": 29,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -320,10 +320,10 @@
       "matchEn": "Damac v Al-Okhdood",
       "matchAr": "ضمك × الأخدود",
       "rawIsoTime": "2026-11-03T12:35:00+00:00",
-      "time": "0 - 0 (8')",
-      "rawMinute": 8,
+      "time": "0 - 1 (9')",
+      "rawMinute": 9,
       "homeGoals": 0,
-      "awayGoals": 0,
+      "awayGoals": 1,
       "isLive": true
     },
     {
