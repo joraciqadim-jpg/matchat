@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793741456434,
+  "timestamp": 1793741475909,
   "matches": [
     {
       "matchId": 4818600,
@@ -164,7 +164,7 @@
       "matchEn": "Feyenoord (Netherlands) v Inter Milan (Italy)",
       "matchAr": "فينورد (هولندا) × إنتر ميلان (إيطاليا)",
       "rawIsoTime": "2026-11-03T20:00:00+00:00",
-      "time": "0 - 3 (70')",
+      "time": "0 - 3 (71')",
       "rawMinute": 71,
       "homeGoals": 0,
       "awayGoals": 3,
@@ -217,7 +217,7 @@
       "matchAr": "أتلتيكو مدريد (إسبانيا) × بايرن ميونخ (ألمانيا)",
       "rawIsoTime": "2026-11-03T20:00:00+00:00",
       "time": "0 - 1 (72')",
-      "rawMinute": 72,
+      "rawMinute": 73,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
