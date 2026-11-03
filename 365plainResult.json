@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793734637179,
+  "timestamp": 1793734699263,
   "matches": [
     {
       "matchId": 4818600,
@@ -138,8 +138,8 @@
       "matchEn": "Galatasaray Istanbul (Turkey) v VfB Stuttgart (Germany)",
       "matchAr": "غلطة سراي إسطنبول (تركيا) × شتوتغارت (ألمانيا)",
       "rawIsoTime": "2026-11-03T17:45:00+00:00",
-      "time": "2 - 0 (90+2')",
-      "rawMinute": 92,
+      "time": "2 - 0 (90+3')",
+      "rawMinute": 93,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -151,8 +151,8 @@
       "matchEn": "Al Hilal (Saudi Arabia) v Shabab Al Ahly (Emirates)",
       "matchAr": "الهلال (السعودية) × شباب الأهلي (الإمارات)",
       "rawIsoTime": "2026-11-03T18:15:00+00:00",
-      "time": "2 - 0 (62')",
-      "rawMinute": 62,
+      "time": "2 - 0 (63')",
+      "rawMinute": 63,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -372,8 +372,8 @@
       "matchEn": "Sirius v Halmstad",
       "matchAr": "سيريوس × هالمستاد",
       "rawIsoTime": "2026-11-03T18:00:00+00:00",
-      "time": "2 - 0 (81')",
-      "rawMinute": 81,
+      "time": "2 - 0 (82')",
+      "rawMinute": 83,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
