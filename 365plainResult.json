@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793715036551,
+  "timestamp": 1793715075627,
   "matches": [
     {
       "matchId": 4818600,
@@ -73,8 +73,8 @@
       "matchEn": "Thai Port (Thailand) v Beijing Guoan (China)",
       "matchAr": "تاي بورت (تايلاند) × بكين غوان (الصين)",
       "rawIsoTime": "2026-11-03T12:15:00+00:00",
-      "time": "7 - 4 (90+7')",
-      "rawMinute": 97,
+      "time": "7 - 4 (90+8')",
+      "rawMinute": 98,
       "homeGoals": 7,
       "awayGoals": 4,
       "isLive": true
@@ -86,8 +86,8 @@
       "matchEn": "East Bengal (India) v Al Seeb (Oman)",
       "matchAr": "إيست بنغال (الهند) × السيب (عُمان)",
       "rawIsoTime": "2026-11-03T13:45:00+00:00",
-      "time": "0 - 0 (26')",
-      "rawMinute": 26,
+      "time": "0 - 0 (27')",
+      "rawMinute": 27,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -333,8 +333,8 @@
       "matchEn": "Stade Tunisien v Africain Tunis",
       "matchAr": "الملعب التونسي × النادي الإفريقي",
       "rawIsoTime": "2026-11-03T13:30:00+00:00",
-      "time": "0 - 1 (40')",
-      "rawMinute": 40,
+      "time": "0 - 1 (41')",
+      "rawMinute": 41,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
