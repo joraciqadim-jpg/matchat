@@ -1,4 +1,194 @@
 {
+  "105": {
+    "nameEn": "Manchester United FC",
+    "countryEn": "England",
+    "countryAr": "إنجلترا"
+  },
+  "109": {
+    "nameEn": "Aston Villa FC",
+    "countryEn": "England",
+    "countryAr": "إنجلترا"
+  },
+  "132": {
+    "nameEn": "FC Barcelona",
+    "countryEn": "Spain",
+    "countryAr": "إسبانيا"
+  },
+  "133": {
+    "nameEn": "Villarreal CF",
+    "countryEn": "Spain",
+    "countryAr": "إسبانيا"
+  },
+  "134": {
+    "nameEn": "Club Atlético de Madrid",
+    "countryEn": "Spain",
+    "countryAr": "إسبانيا"
+  },
+  "224": {
+    "nameEn": "Inter Milan",
+    "countryEn": "Italy",
+    "countryAr": "إيطاليا"
+  },
+  "225": {
+    "nameEn": "AS Roma",
+    "countryEn": "Italy",
+    "countryAr": "إيطاليا"
+  },
+  "331": {
+    "nameEn": "Bayern München",
+    "countryEn": "Germany",
+    "countryAr": "ألمانيا"
+  },
+  "338": {
+    "nameEn": "VfB Stuttgart",
+    "countryEn": "Germany",
+    "countryAr": "ألمانيا"
+  },
+  "478": {
+    "nameEn": "LOSC Lille",
+    "countryEn": "France",
+    "countryAr": "فرنسا"
+  },
+  "480": {
+    "nameEn": "Paris Saint-Germain",
+    "countryEn": "France",
+    "countryAr": "فرنسا"
+  },
+  "691": {
+    "nameEn": "Feyenoord",
+    "countryEn": "Netherlands",
+    "countryAr": "هولندا"
+  },
+  "890": {
+    "nameEn": "Sporting Lisbon",
+    "countryEn": "Portugal",
+    "countryAr": "البرتغال"
+  },
+  "945": {
+    "nameEn": "Galatasaray Istanbul",
+    "countryEn": "Turkey",
+    "countryAr": "تركيا"
+  },
+  "1743": {
+    "nameEn": "LASK Linz",
+    "countryEn": "Austria",
+    "countryAr": "النمسا"
+  },
+  "1955": {
+    "nameEn": "FC Shakhtar Donetsk",
+    "countryEn": "Ukraine",
+    "countryAr": "أوكرانيا"
+  },
+  "1978": {
+    "nameEn": "Bodo Glimt",
+    "countryEn": "Norway",
+    "countryAr": "النرويج"
+  },
+  "2112": {
+    "nameEn": "SK Slovan Bratislava",
+    "countryEn": "Slovakia",
+    "countryAr": "سلوفاكيا"
+  },
+  "2145": {
+    "nameEn": "Kashiwa Reysol",
+    "countryEn": "Japan",
+    "countryAr": "اليابان"
+  },
+  "2151": {
+    "nameEn": "Vissel Kobe",
+    "countryEn": "Japan",
+    "countryAr": "اليابان"
+  },
+  "2154": {
+    "nameEn": "Kyoto",
+    "countryEn": "Japan",
+    "countryAr": "اليابان"
+  },
+  "2182": {
+    "nameEn": "Beijing Guoan",
+    "countryEn": "China",
+    "countryAr": "الصين"
+  },
+  "2203": {
+    "nameEn": "Newcastle Jets FC",
+    "countryEn": "Australia",
+    "countryAr": "أستراليا"
+  },
+  "5457": {
+    "nameEn": "Al Hilal Riyadh",
+    "countryEn": "Saudi Arabia",
+    "countryAr": "السعودية"
+  },
+  "7081": {
+    "nameEn": "Al Shamal",
+    "countryEn": "Qatar",
+    "countryAr": "قطر"
+  },
+  "7769": {
+    "nameEn": "Thai Port FC",
+    "countryEn": "Thailand",
+    "countryAr": "تايلاند"
+  },
+  "8246": {
+    "nameEn": "Al Shorta Baghdad",
+    "countryEn": "Iraq",
+    "countryAr": "العراق"
+  },
+  "8285": {
+    "nameEn": "Al Hussein",
+    "countryEn": "Jordan",
+    "countryAr": "الأردن"
+  },
+  "8347": {
+    "nameEn": "Shabab Al Ahly",
+    "countryEn": "United Arab Emirates",
+    "countryAr": "الإمارات العربية المتحدة"
+  },
+  "8592": {
+    "nameEn": "Jeonbuk Hyundai Motors",
+    "countryEn": "South Korea",
+    "countryAr": "كوريا الجنوبية"
+  },
+  "9358": {
+    "nameEn": "Esteghlal FC Tehran",
+    "countryEn": "Iran",
+    "countryAr": "إيران"
+  },
+  "9816": {
+    "nameEn": "Daejeon Hana Citizen",
+    "countryEn": "South Korea",
+    "countryAr": "كوريا الجنوبية"
+  },
+  "10080": {
+    "nameEn": "Johor Darul Ta’zim",
+    "countryEn": "Malaysia",
+    "countryAr": "ماليزيا"
+  },
+  "10300": {
+    "nameEn": "Shanghai Port FC",
+    "countryEn": "China",
+    "countryAr": "الصين"
+  },
+  "10318": {
+    "nameEn": "Ratchaburi FC",
+    "countryEn": "Thailand",
+    "countryAr": "تايلاند"
+  },
+  "12181": {
+    "nameEn": "Al Seeb SC",
+    "countryEn": "Oman",
+    "countryAr": "عُمان"
+  },
+  "15458": {
+    "nameEn": "East Bengal",
+    "countryEn": "India",
+    "countryAr": "الهند"
+  },
+  "72909": {
+    "nameEn": "Công An Hà Nội",
+    "countryEn": "Vietnam",
+    "countryAr": "فيتنام"
+  },
   "Newcastle Jets FC": {
     "en": "Newcastle Jets FC",
     "ar": "نيوكاسل جيتس",
