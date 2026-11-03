@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793731538638,
+  "timestamp": 1793731578760,
   "matches": [
     {
       "matchId": 4818600,
@@ -372,8 +372,8 @@
       "matchEn": "Sirius v Halmstad",
       "matchAr": "سيريوس × هالمستاد",
       "rawIsoTime": "2026-11-03T18:00:00+00:00",
-      "time": "2 - 0 (45+1')",
-      "rawMinute": 46,
+      "time": "2 - 0 (Halftime)",
+      "rawMinute": 45,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
