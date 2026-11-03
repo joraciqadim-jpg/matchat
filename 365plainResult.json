@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793745054305,
+  "timestamp": 1793746578067,
   "matches": [
     {
       "matchId": 4818600,
@@ -255,11 +255,11 @@
       "matchEn": "Chapecoense B v Mirassol",
       "matchAr": "شابيكوينسي ب × ميراسول",
       "rawIsoTime": "2026-11-03T22:30:00+00:00",
-      "time": "22:30",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "time": "1 - 0 (24')",
+      "rawMinute": 24,
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4633213,
