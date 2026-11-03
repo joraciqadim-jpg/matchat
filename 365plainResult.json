@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793738956259,
+  "timestamp": 1793739037595,
   "matches": [
     {
       "matchId": 4818600,
@@ -164,8 +164,8 @@
       "matchEn": "Feyenoord (Netherlands) v Inter Milan (Italy)",
       "matchAr": "فينورد (هولندا) × إنتر ميلان (إيطاليا)",
       "rawIsoTime": "2026-11-03T20:00:00+00:00",
-      "time": "0 - 2 (45+2')",
-      "rawMinute": 48,
+      "time": "0 - 2 (Halftime)",
+      "rawMinute": 45,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -203,8 +203,8 @@
       "matchEn": "LASK Linz (Austria) v Slovan Bratislava (Slovakia)",
       "matchAr": "لاسک لينتس (النمسا) × سلوفان براتيسلافا (سلوفاكيا)",
       "rawIsoTime": "2026-11-03T20:00:00+00:00",
-      "time": "3 - 0 (45+3')",
-      "rawMinute": 48,
+      "time": "3 - 0 (Halftime)",
+      "rawMinute": 45,
       "homeGoals": 3,
       "awayGoals": 0,
       "isLive": true
