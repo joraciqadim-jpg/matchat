@@ -283,7 +283,7 @@
       "time": "20:00",
       "channels": [
         "📺 DAZN 4 POR [Hispasat 30W 12399 H 27500]",
-        "📺 Bein Sport 1 [Nilesat 7.0W 11013 H 27500]",
+        "📺 Bein Sport 3 [Nilesat 7.0W 12245 V 27500]",
         "📺 V Sport 1 Sverige [Thor 0.8W 10809 V 25000]",
         "📺 Max Sport 1 [BulgariaSat 1.9E 12303 H 30000]",
         "📺 Magenta Sport 5 [Hotbird 13.0E 11938 H 30000]",
@@ -294,7 +294,7 @@
         "📺 M+ Liga de Campeones 3 [Astra 19.2E 10758 V 22000]",
         "📺 Sky Sport Austria 6 [Astra 19.2E 11798 H 27500]",
         "📺 Ziggo Sport 6 [Eutelsat 23.5E 12129 V 29900]",
-        "📺 Bein Sport 1 [Badrsat 26.0E 10810 H 27500]",
+        "📺 Bein Sport 3 [Badrsat 26.0E 10810 H 27500]",
         "📺 TNT Sports 4 [Astra 28.2E 11582 H 23000]",
         "📺 Prima Sport 3 [Hellas-Sat 39.0E 12251 V 30000]"
       ]
@@ -457,36 +457,6 @@
         "📺 Al Kass Two [Nilesat 7.0W 11919 H 27500]",
         "📺 Al Kass Two [Badrsat 26.0E 12245 V 27500]",
         "📺 Al Kass Two [Badrsat 26.0E 10770 V 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🇺🇸 USA NBA",
-      "tournamentAr": "🇺🇸 الدوري الأميركي لكرة السلة",
-      "matchEn": "New York Knicks v Brooklyn Nets",
-      "matchAr": "نيويورك نيكس × بروكلين نتس",
-      "time": "00:30",
-      "channels": [
-        "📺 5 Stars [Amos 4.0W 11259 V 30000]"
-      ]
-    },
-    {
-      "tournamentEn": "🇺🇸 USA NBA",
-      "tournamentAr": "🇺🇸 الدوري الأميركي لكرة السلة",
-      "matchEn": "Rockets v Celtics",
-      "matchAr": "روكتس × سيلتكس",
-      "time": "01:30",
-      "channels": [
-        "📺 Sport TV 1 [Hispasat 30W 12360 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🇺🇸 USA NBA",
-      "tournamentAr": "🇺🇸 الدوري الأميركي لكرة السلة",
-      "matchEn": "Nuggets v Trail Blazers",
-      "matchAr": "ناغتس × ترايل بلايزرز",
-      "time": "02:00",
-      "channels": [
-        "📺 5 Sport [Amos 4.0W 11259 V 30000]"
       ]
     },
     {
