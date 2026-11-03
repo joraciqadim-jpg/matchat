@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793728237887,
+  "timestamp": 1793728276138,
   "matches": [
     {
       "matchId": 4818600,
@@ -112,7 +112,7 @@
       "matchEn": "Al Hussein (Jordan) v Al Shorta (Iraq)",
       "matchAr": "الحسين (الأردن) × الشرطة (العراق)",
       "rawIsoTime": "2026-11-03T16:00:00+00:00",
-      "time": "0 - 3 (90+3')",
+      "time": "0 - 3 (90+4')",
       "rawMinute": 94,
       "homeGoals": 0,
       "awayGoals": 3,
@@ -126,7 +126,7 @@
       "matchAr": "شاختار دونيتسك (أوكرانيا) × سبورتينغ لشبونة (البرتغال)",
       "rawIsoTime": "2026-11-03T17:45:00+00:00",
       "time": "0 - 0 (5')",
-      "rawMinute": 5,
+      "rawMinute": 6,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -138,8 +138,8 @@
       "matchEn": "Galatasaray Istanbul (Turkey) v VfB Stuttgart (Germany)",
       "matchAr": "غلطة سراي إسطنبول (تركيا) × شتوتغارت (ألمانيا)",
       "rawIsoTime": "2026-11-03T17:45:00+00:00",
-      "time": "0 - 0 (4')",
-      "rawMinute": 4,
+      "time": "0 - 0 (5')",
+      "rawMinute": 5,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
