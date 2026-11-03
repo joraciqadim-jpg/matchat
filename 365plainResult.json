@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793708138428,
+  "timestamp": 1793708178780,
   "matches": [
     {
       "matchId": 4818600,
@@ -60,11 +60,11 @@
       "matchEn": "Thai Port (Thailand) v Beijing Guoan (China)",
       "matchAr": "تاي بورت (تايلاند) × بكين غوان (الصين)",
       "rawIsoTime": "2026-11-03T12:15:00+00:00",
-      "time": "12:15",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4853977,
@@ -74,7 +74,7 @@
       "matchAr": "كونغ آن هانوي (فيتنام) × كيوتو (اليابان)",
       "rawIsoTime": "2026-11-03T12:15:00+00:00",
       "time": "0 - 0 (1')",
-      "rawMinute": 1,
+      "rawMinute": 2,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
