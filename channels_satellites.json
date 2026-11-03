@@ -1,4 +1,242 @@
 {
+  "Canal+ Sport 4 Polska HD": {
+    "satellites": [
+      {
+        "satellite": "Hotbird 13.0E",
+        "frequency": "11449 H 27500"
+      }
+    ]
+  },
+  "Kunskapskanalen HD": {
+    "satellites": [
+      {
+        "satellite": "Thor 0.8W",
+        "frequency": "11216 V 25000"
+      }
+    ]
+  },
+  "Sport 3 Ukraine": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "TV3 Catalunya HD": {
+    "satellites": [
+      {
+        "satellite": "Astra 19.2E",
+        "frequency": "11288 V 22000"
+      }
+    ]
+  },
+  "Nova Sports Start Cyprus HD": {
+    "satellites": [
+      {
+        "satellite": "Hotbird 13.0E",
+        "frequency": "12130 H 30000"
+      }
+    ]
+  },
+  "SWR Fernsehen BW HD": {
+    "satellites": [
+      {
+        "satellite": "Astra 19.2E",
+        "frequency": "11494 H 22000"
+      }
+    ]
+  },
+  "Myach Russia HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Sky Sport 6 NZ HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Nova Sports 4 Cyprus HD": {
+    "satellites": [
+      {
+        "satellite": "Hotbird 13.0E",
+        "frequency": "12130 H 30000"
+      }
+    ]
+  },
+  "Canal+ Cesko HD": {
+    "satellites": [
+      {
+        "satellite": "Thor 0.8W",
+        "frequency": "11727 V 28000"
+      }
+    ]
+  },
+  "Diema Sport 2 4K": {
+    "satellites": [
+      {
+        "satellite": "Hellas Sat 39.0E",
+        "frequency": "12156 H 30000"
+      }
+    ]
+  },
+  "NBC Sports Network": {
+    "satellites": [
+      {
+        "satellite": "Galaxy 91.0W",
+        "frequency": "4020 V 31250"
+      }
+    ]
+  },
+  "Telemundo USA": {
+    "satellites": [
+      {
+        "satellite": "Galaxy 91.0W",
+        "frequency": "4020 V 31250"
+      }
+    ]
+  },
+  "Z Sports 2 Angola": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "TV Sport Russia HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "SuperSport OTT 7": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Nova Sports Extra 3 Hellas HD": {
+    "satellites": [
+      {
+        "satellite": "Hotbird 13.0E",
+        "frequency": "12130 H 30000"
+      }
+    ]
+  },
+  "Sky Sport 2 NZ HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "SuperSport OTT 5": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Astro Premier League 5 HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "SuperSport OTT 6": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "beIN Sports Indonesia 3 HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "beIN Sports US 5": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "ESPN 2 Africa": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Fox Sports 2 Chile": {
+    "satellites": [
+      {
+        "satellite": "Star One 70.0W",
+        "frequency": "11780 H 29900"
+      }
+    ]
+  },
+  "Fox Sports 3 Argentina HD": {
+    "satellites": [
+      {
+        "satellite": "Star One 70.0W",
+        "frequency": "11780 H 29900"
+      }
+    ]
+  },
+  "S4C Digital HD": {
+    "satellites": [
+      {
+        "satellite": "Astra 28.2E",
+        "frequency": "10847 V 23000"
+      }
+    ]
+  },
+  "NBC USA HD": {
+    "satellites": [
+      {
+        "satellite": "Galaxy 91.0W",
+        "frequency": "4020 V 31250"
+      }
+    ]
+  },
+  "SABC 1 HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "SABC 2 HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Persiana Sports 4 HD": {
+    "satellites": [
+      {
+        "satellite": "MonacoSat 52.0E",
+        "frequency": "11344 H 27500"
+      },
+      {
+        "satellite": "MonacoSat 52.0E",
+        "frequency": "11382 H 27500"
+      }
+    ]
+  }
+,
   "ZBC Channel 2": {
     "satellites": [
       {
