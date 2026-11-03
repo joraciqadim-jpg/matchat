@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793714899152,
+  "timestamp": 1793714956343,
   "matches": [
     {
       "matchId": 4818600,
@@ -54,29 +54,29 @@
       "isLive": false
     },
     {
-      "matchId": 4818596,
-      "tournamentEn": "🛡️ AFC Champions League Elite",
-      "tournamentAr": "🛡️ دوري أبطال آسيا للنخبة",
-      "matchEn": "Thai Port (Thailand) v Beijing Guoan (China)",
-      "matchAr": "تاي بورت (تايلاند) × بكين غوان (الصين)",
-      "rawIsoTime": "2026-11-03T12:15:00+00:00",
-      "time": "6 - 4 (90+5')",
-      "rawMinute": 95,
-      "homeGoals": 6,
-      "awayGoals": 4,
-      "isLive": true
-    },
-    {
       "matchId": 4853977,
       "tournamentEn": "🛡️ AFC Champions League Elite",
       "tournamentAr": "🛡️ دوري أبطال آسيا للنخبة",
       "matchEn": "Công An Hà Nội (Vietnam) v Kyoto (Japan)",
       "matchAr": "كونغ آن هانوي (فيتنام) × كيوتو (اليابان)",
       "rawIsoTime": "2026-11-03T12:15:00+00:00",
-      "time": "0 - 0 (90+5')",
-      "rawMinute": 95,
+      "time": "0 - 0 (done)",
+      "rawMinute": 90,
       "homeGoals": 0,
       "awayGoals": 0,
+      "isLive": false
+    },
+    {
+      "matchId": 4818596,
+      "tournamentEn": "🛡️ AFC Champions League Elite",
+      "tournamentAr": "🛡️ دوري أبطال آسيا للنخبة",
+      "matchEn": "Thai Port (Thailand) v Beijing Guoan (China)",
+      "matchAr": "تاي بورت (تايلاند) × بكين غوان (الصين)",
+      "rawIsoTime": "2026-11-03T12:15:00+00:00",
+      "time": "7 - 4 (90+6')",
+      "rawMinute": 96,
+      "homeGoals": 7,
+      "awayGoals": 4,
       "isLive": true
     },
     {
@@ -86,8 +86,8 @@
       "matchEn": "East Bengal (India) v Al Seeb (Oman)",
       "matchAr": "إيست بنغال (الهند) × السيب (عُمان)",
       "rawIsoTime": "2026-11-03T13:45:00+00:00",
-      "time": "0 - 0 (24')",
-      "rawMinute": 24,
+      "time": "0 - 0 (25')",
+      "rawMinute": 25,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -320,8 +320,8 @@
       "matchEn": "Damac v Al-Okhdood",
       "matchAr": "ضمك × الأخدود",
       "rawIsoTime": "2026-11-03T12:35:00+00:00",
-      "time": "2 - 2 (70')",
-      "rawMinute": 70,
+      "time": "2 - 2 (71')",
+      "rawMinute": 71,
       "homeGoals": 2,
       "awayGoals": 2,
       "isLive": true
@@ -333,8 +333,8 @@
       "matchEn": "Stade Tunisien v Africain Tunis",
       "matchAr": "الملعب التونسي × النادي الإفريقي",
       "rawIsoTime": "2026-11-03T13:30:00+00:00",
-      "time": "0 - 1 (38')",
-      "rawMinute": 38,
+      "time": "0 - 1 (39')",
+      "rawMinute": 39,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
