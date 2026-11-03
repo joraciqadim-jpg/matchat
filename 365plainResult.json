@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793736327124,
+  "timestamp": 1793736379387,
   "matches": [
     {
       "matchId": 4818600,
@@ -151,8 +151,8 @@
       "matchEn": "Al Hilal (Saudi Arabia) v Shabab Al Ahly (Emirates)",
       "matchAr": "الهلال (السعودية) × شباب الأهلي (الإمارات)",
       "rawIsoTime": "2026-11-03T18:15:00+00:00",
-      "time": "2 - 0 (90')",
-      "rawMinute": 90,
+      "time": "2 - 0 (90+1')",
+      "rawMinute": 91,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -164,8 +164,8 @@
       "matchEn": "Feyenoord (Netherlands) v Inter Milan (Italy)",
       "matchAr": "فينورد (هولندا) × إنتر ميلان (إيطاليا)",
       "rawIsoTime": "2026-11-03T20:00:00+00:00",
-      "time": "0 - 0 (4')",
-      "rawMinute": 4,
+      "time": "0 - 0 (5')",
+      "rawMinute": 5,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -177,8 +177,8 @@
       "matchEn": "Manchester United (England) v Roma (Italy)",
       "matchAr": "مانشستر يونايتد (إنجلترا) × روما (إيطاليا)",
       "rawIsoTime": "2026-11-03T20:00:00+00:00",
-      "time": "0 - 0 (4')",
-      "rawMinute": 4,
+      "time": "0 - 0 (5')",
+      "rawMinute": 5,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -191,7 +191,7 @@
       "matchAr": "بودو غليمت (النرويج) × ليل (فرنسا)",
       "rawIsoTime": "2026-11-03T20:00:00+00:00",
       "time": "0 - 0 (5')",
-      "rawMinute": 5,
+      "rawMinute": 6,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -217,7 +217,7 @@
       "matchAr": "أتلتيكو مدريد (إسبانيا) × بايرن ميونخ (ألمانيا)",
       "rawIsoTime": "2026-11-03T20:00:00+00:00",
       "time": "0 - 0 (4')",
-      "rawMinute": 4,
+      "rawMinute": 5,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -229,8 +229,8 @@
       "matchEn": "Barcelona (Spain) v Aston Villa (England)",
       "matchAr": "برشلونة (إسبانيا) × أستون فيلا (إنجلترا)",
       "rawIsoTime": "2026-11-03T20:00:00+00:00",
-      "time": "0 - 0 (4')",
-      "rawMinute": 4,
+      "time": "0 - 0 (5')",
+      "rawMinute": 5,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -242,7 +242,7 @@
       "matchEn": "Villarreal (Spain) v Paris Saint-Germain (France)",
       "matchAr": "فياريال (إسبانيا) × باريس سان جيرمان (فرنسا)",
       "rawIsoTime": "2026-11-03T20:00:00+00:00",
-      "time": "0 - 0 (4')",
+      "time": "0 - 0 (5')",
       "rawMinute": 5,
       "homeGoals": 0,
       "awayGoals": 0,
