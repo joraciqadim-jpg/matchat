@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793736076343,
+  "timestamp": 1793736139350,
   "matches": [
     {
       "matchId": 4818600,
@@ -151,8 +151,8 @@
       "matchEn": "Al Hilal (Saudi Arabia) v Shabab Al Ahly (Emirates)",
       "matchAr": "الهلال (السعودية) × شباب الأهلي (الإمارات)",
       "rawIsoTime": "2026-11-03T18:15:00+00:00",
-      "time": "2 - 0 (85')",
-      "rawMinute": 85,
+      "time": "2 - 0 (87')",
+      "rawMinute": 87,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -164,11 +164,11 @@
       "matchEn": "Feyenoord (Netherlands) v Inter Milan (Italy)",
       "matchAr": "فينورد (هولندا) × إنتر ميلان (إيطاليا)",
       "rawIsoTime": "2026-11-03T20:00:00+00:00",
-      "time": "20:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4828441,
@@ -177,11 +177,11 @@
       "matchEn": "Manchester United (England) v Roma (Italy)",
       "matchAr": "مانشستر يونايتد (إنجلترا) × روما (إيطاليا)",
       "rawIsoTime": "2026-11-03T20:00:00+00:00",
-      "time": "20:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4828442,
@@ -191,7 +191,7 @@
       "matchAr": "بودو غليمت (النرويج) × ليل (فرنسا)",
       "rawIsoTime": "2026-11-03T20:00:00+00:00",
       "time": "0 - 0 (1')",
-      "rawMinute": 1,
+      "rawMinute": 2,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -203,11 +203,11 @@
       "matchEn": "LASK Linz (Austria) v Slovan Bratislava (Slovakia)",
       "matchAr": "لاسک لينتس (النمسا) × سلوفان براتيسلافا (سلوفاكيا)",
       "rawIsoTime": "2026-11-03T20:00:00+00:00",
-      "time": "20:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4828444,
@@ -216,11 +216,11 @@
       "matchEn": "Atlético de Madrid (Spain) v Bayern München (Germany)",
       "matchAr": "أتلتيكو مدريد (إسبانيا) × بايرن ميونخ (ألمانيا)",
       "rawIsoTime": "2026-11-03T20:00:00+00:00",
-      "time": "20:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4828445,
@@ -229,11 +229,11 @@
       "matchEn": "Barcelona (Spain) v Aston Villa (England)",
       "matchAr": "برشلونة (إسبانيا) × أستون فيلا (إنجلترا)",
       "rawIsoTime": "2026-11-03T20:00:00+00:00",
-      "time": "20:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4828446,
@@ -242,11 +242,11 @@
       "matchEn": "Villarreal (Spain) v Paris Saint-Germain (France)",
       "matchAr": "فياريال (إسبانيا) × باريس سان جيرمان (فرنسا)",
       "rawIsoTime": "2026-11-03T20:00:00+00:00",
-      "time": "20:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4632608,
