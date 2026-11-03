@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793736938552,
+  "timestamp": 1793736978823,
   "matches": [
     {
       "matchId": 4818600,
@@ -165,7 +165,7 @@
       "matchAr": "فينورد (هولندا) × إنتر ميلان (إيطاليا)",
       "rawIsoTime": "2026-11-03T20:00:00+00:00",
       "time": "0 - 1 (14')",
-      "rawMinute": 14,
+      "rawMinute": 15,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -177,8 +177,8 @@
       "matchEn": "Manchester United (England) v Roma (Italy)",
       "matchAr": "مانشستر يونايتد (إنجلترا) × روما (إيطاليا)",
       "rawIsoTime": "2026-11-03T20:00:00+00:00",
-      "time": "0 - 1 (14')",
-      "rawMinute": 14,
+      "time": "0 - 1 (15')",
+      "rawMinute": 15,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -190,8 +190,8 @@
       "matchEn": "Bodo Glimt (Norway) v Lille (France)",
       "matchAr": "بودو غليمت (النرويج) × ليل (فرنسا)",
       "rawIsoTime": "2026-11-03T20:00:00+00:00",
-      "time": "0 - 0 (15')",
-      "rawMinute": 15,
+      "time": "0 - 0 (16')",
+      "rawMinute": 16,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -216,8 +216,8 @@
       "matchEn": "Atlético de Madrid (Spain) v Bayern München (Germany)",
       "matchAr": "أتلتيكو مدريد (إسبانيا) × بايرن ميونخ (ألمانيا)",
       "rawIsoTime": "2026-11-03T20:00:00+00:00",
-      "time": "0 - 0 (14')",
-      "rawMinute": 14,
+      "time": "0 - 0 (15')",
+      "rawMinute": 15,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -230,7 +230,7 @@
       "matchAr": "برشلونة (إسبانيا) × أستون فيلا (إنجلترا)",
       "rawIsoTime": "2026-11-03T20:00:00+00:00",
       "time": "1 - 0 (14')",
-      "rawMinute": 14,
+      "rawMinute": 15,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
