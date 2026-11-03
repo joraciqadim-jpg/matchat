@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793718939902,
+  "timestamp": 1793718978898,
   "matches": [
     {
       "matchId": 4818600,
@@ -333,9 +333,9 @@
       "matchEn": "Stade Tunisien v Africain Tunis",
       "matchAr": "الملعب التونسي × النادي الإفريقي",
       "rawIsoTime": "2026-11-03T13:30:00+00:00",
-      "time": "2 - 1 (80')",
+      "time": "1 - 1 (81')",
       "rawMinute": 81,
-      "homeGoals": 2,
+      "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
     },
@@ -346,8 +346,8 @@
       "matchEn": "Al Raed v Al Wehda",
       "matchAr": "الرائد × الوحدة",
       "rawIsoTime": "2026-11-03T15:00:00+00:00",
-      "time": "0 - 1 (16')",
-      "rawMinute": 16,
+      "time": "0 - 1 (17')",
+      "rawMinute": 17,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
