@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793729127418,
+  "timestamp": 1793729179424,
   "matches": [
     {
       "matchId": 4818600,
@@ -126,7 +126,7 @@
       "matchAr": "شاختار دونيتسك (أوكرانيا) × سبورتينغ لشبونة (البرتغال)",
       "rawIsoTime": "2026-11-03T17:45:00+00:00",
       "time": "0 - 0 (20')",
-      "rawMinute": 20,
+      "rawMinute": 21,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -138,8 +138,8 @@
       "matchEn": "Galatasaray Istanbul (Turkey) v VfB Stuttgart (Germany)",
       "matchAr": "غلطة سراي إسطنبول (تركيا) × شتوتغارت (ألمانيا)",
       "rawIsoTime": "2026-11-03T17:45:00+00:00",
-      "time": "2 - 0 (19')",
-      "rawMinute": 19,
+      "time": "2 - 0 (20')",
+      "rawMinute": 20,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -372,8 +372,8 @@
       "matchEn": "Sirius v Halmstad",
       "matchAr": "سيريوس × هالمستاد",
       "rawIsoTime": "2026-11-03T18:00:00+00:00",
-      "time": "0 - 0 (6')",
-      "rawMinute": 6,
+      "time": "0 - 0 (7')",
+      "rawMinute": 7,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
