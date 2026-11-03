@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793733556209,
+  "timestamp": 1793733639897,
   "matches": [
     {
       "matchId": 4818600,
@@ -125,8 +125,8 @@
       "matchEn": "Shakhtar Donetsk (Ukraine) v Sporting Lisbon (Portugal)",
       "matchAr": "شاختار دونيتسك (أوكرانيا) × سبورتينغ لشبونة (البرتغال)",
       "rawIsoTime": "2026-11-03T17:45:00+00:00",
-      "time": "0 - 1 (77')",
-      "rawMinute": 77,
+      "time": "0 - 1 (78')",
+      "rawMinute": 78,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -138,8 +138,8 @@
       "matchEn": "Galatasaray Istanbul (Turkey) v VfB Stuttgart (Germany)",
       "matchAr": "غلطة سراي إسطنبول (تركيا) × شتوتغارت (ألمانيا)",
       "rawIsoTime": "2026-11-03T17:45:00+00:00",
-      "time": "2 - 0 (74')",
-      "rawMinute": 74,
+      "time": "2 - 0 (75')",
+      "rawMinute": 75,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -333,10 +333,10 @@
       "matchEn": "Al Swehly v Al Bashaer",
       "matchAr": "السويحلي × البشائر",
       "rawIsoTime": "2026-11-03T17:00:00+00:00",
-      "time": "17:00",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
+      "time": "1 - 0 (done)",
+      "rawMinute": 90,
+      "homeGoals": 1,
+      "awayGoals": 0,
       "isLive": false
     },
     {
@@ -372,8 +372,8 @@
       "matchEn": "Sirius v Halmstad",
       "matchAr": "سيريوس × هالمستاد",
       "rawIsoTime": "2026-11-03T18:00:00+00:00",
-      "time": "2 - 0 (63')",
-      "rawMinute": 63,
+      "time": "2 - 0 (65')",
+      "rawMinute": 65,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
