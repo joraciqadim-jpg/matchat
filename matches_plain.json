@@ -366,11 +366,38 @@
         "📺 Sharjah Sports [Nilesat 7.0W 11013 V 27500]",
         "📺 Nova Sport BUL [Hotbird 13.0E 12654 H 30000]",
         "📺 Sportdigital 1+ [Astra 19.2E 11186 V 22000]",
-        "📺 ESPN Netherlands [Astra 23.5E 11739 V 29900]",
+        "📺 ESPN Netherlands [Eutelsat 23.5E 11739 V 29900]",
         "📺 Bein Sport 2 [Badrsat 26.0E 10810 H 27500]",
         "📺 Dubai Sports 1 [Badrsat 26.0E 12130 V 30000]",
         "📺 Al Kass Five [Badrsat 26.0E 10770 H 27500]",
         "📺 Abu Dhabi Sports 1 [Badrsat 26.0E 11804 H 30000]"
+      ]
+    },
+    {
+      "tournamentEn": "🛡️ AFC Champions League Two",
+      "tournamentAr": "🛡️ دوري أبطال آسيا 2",
+      "matchEn": "East Bengal (India) v Al Seeb (Oman)",
+      "matchAr": "إيست بنغال (الهند) × السيب (عُمان)",
+      "time": "13:45",
+      "channels": [
+        "📺 Bein Sport 8 [Nilesat 7.0W 11054 H 27500]",
+        "📺 Nova Sport BUL [Hotbird 13.0E 12654 H 30000]",
+        "📺 Bein Sport 8 [Badrsat 26.0E 10810 V 27500]",
+        "📺 Al Kass Six [Badrsat 26.0E 10770 H 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "🛡️ AFC Champions League Two",
+      "tournamentAr": "🛡️ دوري أبطال آسيا 2",
+      "matchEn": "Al-Hussein Irbid (Jordan) v Al-Shorta (Iraq)",
+      "matchAr": "الحسين إربد (الأردن) × الشرطة (العراق)",
+      "time": "16:00",
+      "channels": [
+        "📺 Bein Sport 5 [Nilesat 7.0W 12188 H 27500]",
+        "📺 Nova Sport BUL [Hotbird 13.0E 12654 H 30000]",
+        "📺 Sport Klub 3 HRV [Eutelsat 16.0E 11387 H 32000]",
+        "📺 Bein Sport 5 [Badrsat 26.0E 10810 H 27500]",
+        "📺 Al Kass Six [Badrsat 26.0E 10770 H 27500]"
       ]
     },
     {
@@ -397,6 +424,17 @@
         "📺 Sky Sports Football [Astra 28.2E 12012 V 27500]",
         "📺 Sky Sports Main Event [Astra 28.2E 12012 V 27500]",
         "📺 ESPN South Africa [Eutelsat 36.0E 12476 H 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "🏆 Spanish Copa del Rey",
+      "tournamentAr": "🏆 كأس ملك إسبانيا",
+      "matchEn": "Anaitasuna v Alavés",
+      "matchAr": "أنايتاسونا × ألافيس",
+      "time": "18:00",
+      "channels": [
+        "📺 M+ LaLiga [Astra 19.2E 10818 V 22000]",
+        "📺 Match! Futbol 2 [Eutelsat 80.0E 11044 V 45000]"
       ]
     },
     {
