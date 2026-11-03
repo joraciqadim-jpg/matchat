@@ -302,30 +302,6 @@
     {
       "tournamentEn": "🛡️ AFC Gulf Club Champions League",
       "tournamentAr": "🛡️ دوري أبطال الخليج للأندية",
-      "matchEn": "Al-Zawraa (Iraq) v Riffa (Bahrain)",
-      "matchAr": "الزوراء (العراق) × الرفاع (البحرين)",
-      "time": "14:30",
-      "channels": [
-        "📺 Al Kass One [Nilesat 7.0W 11919 H 27500]",
-        "📺 Al Kass One [Badrsat 26.0E 12245 V 27500]",
-        "📺 Al Kass One [Badrsat 26.0E 10770 V 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🛡️ AFC Gulf Club Champions League",
-      "tournamentAr": "🛡️ دوري أبطال الخليج للأندية",
-      "matchEn": "Al-Shabab (Saudi Arabia) v Shaab Hadramout (Yemen)",
-      "matchAr": "الشباب (السعودية) × شعب حضرموت (اليمن)",
-      "time": "14:45",
-      "channels": [
-        "📺 Al Kass Four [Nilesat 7.0W 11919 H 27500]",
-        "📺 Al Kass Four [Badrsat 26.0E 12245 V 27500]",
-        "📺 Al Kass Four [Badrsat 26.0E 10770 V 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🛡️ AFC Gulf Club Champions League",
-      "tournamentAr": "🛡️ دوري أبطال الخليج للأندية",
       "matchEn": "Neom (Saudi Arabia) v Al Duhail (Qatar)",
       "matchAr": "نيوم (السعودية) × الدحيل (قطر)",
       "time": "18:00",
@@ -333,27 +309,6 @@
         "📺 Al Kass One [Nilesat 7.0W 11919 H 27500]",
         "📺 Al Kass One [Badrsat 26.0E 12245 V 27500]",
         "📺 Al Kass One [Badrsat 26.0E 10770 V 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🛡️ AFC Champions League Elite",
-      "tournamentAr": "🛡️ دوري أبطال آسيا للنخبة",
-      "matchEn": "Esteghlal Tehran (Iran) v Al Shamal (Qatar)",
-      "matchAr": "استقلال طهران (إيران) × الشمال (قطر)",
-      "time": "16:00",
-      "channels": [
-        "📺 Bein Sport 2 [Nilesat 7.0W 11013 H 27500]",
-        "📺 Diema Sport 3 [Hotbird 13.0E 12673 V 30000]",
-        "📺 Sport Klub 1 HRV [Eutelsat 16.0E 11471 H 30000]",
-        "📺 Sport Klub 3 SLO [Eutelsat 16.0E 11231 V 42000]",
-        "📺 Bein Sport 2 [Badrsat 26.0E 10810 H 27500]",
-        "📺 Al Kass Five [Badrsat 26.0E 10770 H 27500]",
-        "📺 TV 3 [Badrsat 26.0E 11881 H 27500]",
-        "📺 TV 3 [Eutelsat 40.0E 11640 H 30000]",
-        "📺 Spor Smart [Turksat 42.0E 12188 V 27500]",
-        "📺 GEM Sport [Al-Yah 52.5E 12034 V 27500]",
-        "📺 Persiana Sports 1 [Al-Yah 52.5E 11343 H 27500]",
-        "📺 TV 3 [Thaicom 78.5E 11640 H 30000]"
       ]
     },
     {
@@ -369,21 +324,6 @@
         "📺 ESPN Netherlands [Eutelsat 23.5E 11739 V 29900]",
         "📺 Bein Sport 2 [Badrsat 26.0E 10810 H 27500]",
         "📺 Al Kass Five [Badrsat 26.0E 10770 H 27500]",
-        "📺 Spor Smart 2 [Turksat 42.0E 12245 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🛡️ AFC Champions League Two",
-      "tournamentAr": "🛡️ دوري أبطال آسيا 2",
-      "matchEn": "Al-Hussein Irbid (Jordan) v Al-Shorta (Iraq)",
-      "matchAr": "الحسين إربد (الأردن) × الشرطة (العراق)",
-      "time": "16:00",
-      "channels": [
-        "📺 Bein Sport 5 [Nilesat 7.0W 12188 H 27500]",
-        "📺 Nova Sport BUL [Hotbird 13.0E 12654 H 30000]",
-        "📺 Sport Klub 3 HRV [Eutelsat 16.0E 11387 H 32000]",
-        "📺 Bein Sport 5 [Badrsat 26.0E 10810 H 27500]",
-        "📺 Al Kass Six [Badrsat 26.0E 10770 H 27500]",
         "📺 Spor Smart 2 [Turksat 42.0E 12245 H 27500]"
       ]
     },
@@ -420,30 +360,6 @@
       "channels": [
         "📺 M+ LaLiga [Astra 19.2E 10818 V 22000]",
         "📺 Match! Futbol 2 [Eutelsat 80.0E 11044 V 45000]"
-      ]
-    },
-    {
-      "tournamentEn": "🏆 Asia Gulf Cup of Legends",
-      "tournamentAr": "🏆 كأس الخليج الآسيوي للأساطير",
-      "matchEn": "Saudi Arabia Veterans v Bahrain Veterans",
-      "matchAr": "قدامى السعودية × قدامى البحرين",
-      "time": "14:30",
-      "channels": [
-        "📺 Al Kass Two [Nilesat 7.0W 11919 H 27500]",
-        "📺 Al Kass Two [Badrsat 26.0E 12245 V 27500]",
-        "📺 Al Kass Two [Badrsat 26.0E 10770 V 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🏆 Asia Gulf Cup of Legends",
-      "tournamentAr": "🏆 كأس الخليج الآسيوي للأساطير",
-      "matchEn": "Qatar Veterans v Iraq Veterans",
-      "matchAr": "قدامى قطر × قدامى العراق",
-      "time": "16:00",
-      "channels": [
-        "📺 Al Kass Two [Nilesat 7.0W 11919 H 27500]",
-        "📺 Al Kass Two [Badrsat 26.0E 12245 V 27500]",
-        "📺 Al Kass Two [Badrsat 26.0E 10770 V 27500]"
       ]
     }
   ]
