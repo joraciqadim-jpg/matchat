@@ -485,8 +485,13 @@
       "matchAr": "نوفاك ديوكوفيتش × رينكي هيجيكاتا",
       "time": "13:40",
       "channels": [
+        "📺 Sport TV 2 [Hispasat 30W 12360 H 27500]",
         "📺 Bein Sport 7 [Nilesat 7.0W 12188 H 27500]",
-        "📺 Bein Sport 7 [Badrsat 26.0E 10850 V 27500]"
+        "📺 Max Sport 1 [BulgariaSat 1.9E 12303 H 30000]",
+        "📺 Sport Klub 2 HRV [Eutelsat 16.0E 11678 V 30000]",
+        "📺 Eurosport 1 France [Astra 19.2E 12168 V 29700]",
+        "📺 Bein Sport 7 [Badrsat 26.0E 10850 V 27500]",
+        "📺 Sky Sports Tennis UK [Astra 28.2E 12188 H 27500]"
       ]
     },
     {
@@ -496,8 +501,17 @@
       "matchAr": "أليكس ميكيلسن × كارلوس ألكاراز",
       "time": "18:00",
       "channels": [
+        "📺 Sport TV 2 [Hispasat 30W 12360 H 27500]",
         "📺 Bein Sport 7 [Nilesat 7.0W 12188 H 27500]",
-        "📺 Bein Sport 7 [Badrsat 26.0E 10850 V 27500]"
+        "📺 Polsat Sport Premium 1 [Hotbird 13.0E 11117 V 27500]",
+        "📺 Polsat Sport Premium 2 [Hotbird 13.0E 11117 V 27500]",
+        "📺 Sky Sport Tennis ITA [Hotbird 13.0E 11958 V 27500]",
+        "📺 Arena Tenis [Eutelsat 16.0E 10721 H 30000]",
+        "📺 Sport Klub 2 HRV [Eutelsat 16.0E 11678 V 30000]",
+        "📺 Eurosport 1 France [Astra 19.2E 12168 V 29700]",
+        "📺 Arena Tenis [Astra 23.5E 12246 V 30000]",
+        "📺 Bein Sport 7 [Badrsat 26.0E 10850 V 27500]",
+        "📺 Sky Sports Tennis UK [Astra 28.2E 12188 H 27500]"
       ]
     }
   ]
