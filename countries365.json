@@ -1,6 +1,16 @@
 {
+  "104": {
+    "nameEn": "Arsenal FC",
+    "countryEn": "England",
+    "countryAr": "إنجلترا"
+  },
   "105": {
     "nameEn": "Manchester United FC",
+    "countryEn": "England",
+    "countryAr": "إنجلترا"
+  },
+  "108": {
+    "nameEn": "Liverpool FC",
     "countryEn": "England",
     "countryAr": "إنجلترا"
   },
@@ -8,6 +18,16 @@
     "nameEn": "Aston Villa FC",
     "countryEn": "England",
     "countryAr": "إنجلترا"
+  },
+  "110": {
+    "nameEn": "Manchester City FC",
+    "countryEn": "England",
+    "countryAr": "إنجلترا"
+  },
+  "131": {
+    "nameEn": "Real Madrid CF",
+    "countryEn": "Spain",
+    "countryAr": "إسبانيا"
   },
   "132": {
     "nameEn": "FC Barcelona",
@@ -24,6 +44,11 @@
     "countryEn": "Spain",
     "countryAr": "إسبانيا"
   },
+  "146": {
+    "nameEn": "Real Betis Balompié",
+    "countryEn": "Spain",
+    "countryAr": "إسبانيا"
+  },
   "224": {
     "nameEn": "Inter Milan",
     "countryEn": "Italy",
@@ -31,6 +56,11 @@
   },
   "225": {
     "nameEn": "AS Roma",
+    "countryEn": "Italy",
+    "countryAr": "إيطاليا"
+  },
+  "234": {
+    "nameEn": "SSC Napoli",
     "countryEn": "Italy",
     "countryAr": "إيطاليا"
   },
@@ -44,6 +74,16 @@
     "countryEn": "Germany",
     "countryAr": "ألمانيا"
   },
+  "341": {
+    "nameEn": "Borussia Dortmund",
+    "countryEn": "Germany",
+    "countryAr": "ألمانيا"
+  },
+  "477": {
+    "nameEn": "FC Stade Rennes",
+    "countryEn": "France",
+    "countryAr": "فرنسا"
+  },
   "478": {
     "nameEn": "LOSC Lille",
     "countryEn": "France",
@@ -54,10 +94,25 @@
     "countryEn": "France",
     "countryAr": "فرنسا"
   },
+  "481": {
+    "nameEn": "RC Lens",
+    "countryEn": "France",
+    "countryAr": "فرنسا"
+  },
   "691": {
     "nameEn": "Feyenoord",
     "countryEn": "Netherlands",
     "countryAr": "هولندا"
+  },
+  "725": {
+    "nameEn": "PSV Eindhoven",
+    "countryEn": "Netherlands",
+    "countryAr": "هولندا"
+  },
+  "887": {
+    "nameEn": "FC Porto",
+    "countryEn": "Portugal",
+    "countryAr": "البرتغال"
   },
   "890": {
     "nameEn": "Sporting Lisbon",
@@ -69,10 +124,35 @@
     "countryEn": "Turkey",
     "countryAr": "تركيا"
   },
+  "946": {
+    "nameEn": "Fenerbahce Istanbul",
+    "countryEn": "Turkey",
+    "countryAr": "تركيا"
+  },
+  "1023": {
+    "nameEn": "Olympiacos FC",
+    "countryEn": "Greece",
+    "countryAr": "اليونان"
+  },
+  "1024": {
+    "nameEn": "AEK Athens FC",
+    "countryEn": "Greece",
+    "countryAr": "اليونان"
+  },
+  "1169": {
+    "nameEn": "Club Brugge KV",
+    "countryEn": "Belgium",
+    "countryAr": "بلجيكا"
+  },
   "1743": {
     "nameEn": "LASK Linz",
     "countryEn": "Austria",
     "countryAr": "النمسا"
+  },
+  "1789": {
+    "nameEn": "SK Slavia Praha",
+    "countryEn": "Czech Republic",
+    "countryAr": "التشيك"
   },
   "1955": {
     "nameEn": "FC Shakhtar Donetsk",
@@ -84,6 +164,11 @@
     "countryEn": "Norway",
     "countryAr": "النرويج"
   },
+  "1980": {
+    "nameEn": "Viking",
+    "countryEn": "Norway",
+    "countryAr": "النرويج"
+  },
   "2112": {
     "nameEn": "SK Slovan Bratislava",
     "countryEn": "Slovakia",
@@ -91,6 +176,16 @@
   },
   "2145": {
     "nameEn": "Kashiwa Reysol",
+    "countryEn": "Japan",
+    "countryAr": "اليابان"
+  },
+  "2146": {
+    "nameEn": "Kashima Antlers",
+    "countryEn": "Japan",
+    "countryAr": "اليابان"
+  },
+  "2150": {
+    "nameEn": "Gamba Osaka",
     "countryEn": "Japan",
     "countryAr": "اليابان"
   },
@@ -109,6 +204,11 @@
     "countryEn": "China",
     "countryAr": "الصين"
   },
+  "2202": {
+    "nameEn": "Melbourne Victory",
+    "countryEn": "Australia",
+    "countryAr": "أستراليا"
+  },
   "2203": {
     "nameEn": "Newcastle Jets FC",
     "countryEn": "Australia",
@@ -119,10 +219,35 @@
     "countryEn": "Saudi Arabia",
     "countryAr": "السعودية"
   },
+  "6034": {
+    "nameEn": "Persatuan Sepakbola Indonesia Bandung",
+    "countryEn": "Indonesia",
+    "countryAr": "إندونيسيا"
+  },
+  "6117": {
+    "nameEn": "Calcio Como 1907",
+    "countryEn": "Italy",
+    "countryAr": "إيطاليا"
+  },
+  "7077": {
+    "nameEn": "Al Rayyan",
+    "countryEn": "Qatar",
+    "countryAr": "قطر"
+  },
   "7081": {
     "nameEn": "Al Shamal",
     "countryEn": "Qatar",
     "countryAr": "قطر"
+  },
+  "7171": {
+    "nameEn": "RB Leipzig",
+    "countryEn": "Germany",
+    "countryAr": "ألمانيا"
+  },
+  "7747": {
+    "nameEn": "Buriram United",
+    "countryEn": "Thailand",
+    "countryAr": "تايلاند"
   },
   "7769": {
     "nameEn": "Thai Port FC",
@@ -134,20 +259,45 @@
     "countryEn": "Iraq",
     "countryAr": "العراق"
   },
+  "8276": {
+    "nameEn": "Al Faisaly",
+    "countryEn": "Saudi Arabia",
+    "countryAr": "المملكة العربية السعودية"
+  },
   "8285": {
     "nameEn": "Al Hussein",
     "countryEn": "Jordan",
     "countryAr": "الأردن"
+  },
+  "8344": {
+    "nameEn": "Jazira Abu Dhabi",
+    "countryEn": "United Arab Emirates",
+    "countryAr": "الإمارات العربية المتحدة"
   },
   "8347": {
     "nameEn": "Shabab Al Ahly",
     "countryEn": "Emirates",
     "countryAr": "الإمارات"
   },
+  "8350": {
+    "nameEn": "Wahda Abu Dhabi",
+    "countryEn": "United Arab Emirates",
+    "countryAr": "الإمارات العربية المتحدة"
+  },
   "8592": {
     "nameEn": "Jeonbuk Hyundai Motors",
     "countryEn": "South Korea",
     "countryAr": "كوريا الجنوبية"
+  },
+  "8596": {
+    "nameEn": "Nasaf Qarshi",
+    "countryEn": "Uzbekistan",
+    "countryAr": "أوزبكستان"
+  },
+  "8941": {
+    "nameEn": "Al Taawoun",
+    "countryEn": "Saudi Arabia",
+    "countryAr": "المملكة العربية السعودية"
   },
   "9358": {
     "nameEn": "Esteghlal FC Tehran",
@@ -159,10 +309,25 @@
     "countryEn": "South Korea",
     "countryAr": "كوريا الجنوبية"
   },
+  "9820": {
+    "nameEn": "FC Seoul",
+    "countryEn": "South Korea",
+    "countryAr": "كوريا الجنوبية"
+  },
+  "9822": {
+    "nameEn": "Pohang Steelers",
+    "countryEn": "South Korea",
+    "countryAr": "كوريا الجنوبية"
+  },
   "10080": {
     "nameEn": "Johor Darul Ta’zim",
     "countryEn": "Malaysia",
     "countryAr": "ماليزيا"
+  },
+  "10290": {
+    "nameEn": "Kuwait SC",
+    "countryEn": "Kuwait",
+    "countryAr": "الكويت"
   },
   "10300": {
     "nameEn": "Shanghai Port FC",
@@ -179,14 +344,49 @@
     "countryEn": "Oman",
     "countryAr": "عُمان"
   },
+  "12184": {
+    "nameEn": "Al Nahda",
+    "countryEn": "Oman",
+    "countryAr": "عُمان"
+  },
   "15458": {
     "nameEn": "East Bengal",
     "countryEn": "India",
     "countryAr": "الهند"
   },
+  "16533": {
+    "nameEn": "Gol Gohar",
+    "countryEn": "Iran",
+    "countryAr": "إيران"
+  },
+  "16941": {
+    "nameEn": "Muharraq SC",
+    "countryEn": "Bahrain",
+    "countryAr": "البحرين"
+  },
+  "29873": {
+    "nameEn": "Viettel",
+    "countryEn": "Vietnam",
+    "countryAr": "فيتنام"
+  },
+  "50201": {
+    "nameEn": "Sabah FC",
+    "countryEn": "Azerbaijan",
+    "countryAr": "أذربيجان"
+  },
+  "68794": {
+    "nameEn": "Al Khalidiyah (Bhr)",
+    "countryEn": "Bahrain",
+    "countryAr": "البحرين"
+  },
   "72909": {
     "nameEn": "Công An Hà Nội",
     "countryEn": "Vietnam",
     "countryAr": "فيتنام"
+  },
+  "74158": {
+    "nameEn": "Arkadag",
+    "countryEn": "Turkmenistan",
+    "countryAr": "تركمانستان"
   }
 }
