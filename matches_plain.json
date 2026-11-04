@@ -320,46 +320,6 @@
     {
       "tournamentEn": "🛡️ AFC Champions League Two",
       "tournamentAr": "🛡️ دوري أبطال آسيا 2",
-      "matchEn": "Al Wahda (United Arab Emirates) v Al Khaldiya (Bahrain)",
-      "matchAr": "الوحدة (الإمارات) × الخالدية (البحرين)",
-      "time": "16:00",
-      "channels": [
-        "📺 Bein Sport 5 [Nilesat 7.0W 12188 H 27500]",
-        "📺 Bein Sport 5 [Badrsat 26.0E 10810 H 27500]",
-        "📺 Al Kass Six [Badrsat 26.0E 10770 H 27500]",
-        "📺 Spor Smart 2 [Turksat 42.0E 12245 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🛡️ AFC Champions League Two",
-      "tournamentAr": "🛡️ دوري أبطال آسيا 2",
-      "matchEn": "Al Kuwait (Kuwait) v Nasaf (Uzbekistan)",
-      "matchAr": "الكويت × ناساف (أوزبكستان)",
-      "time": "16:00",
-      "channels": [
-        "📺 Bein Sport 6 [Nilesat 7.0W 11054 H 27500]",
-        "📺 Diema Sport 2 [Hotbird 13.0E 12673 V 30000]",
-        "📺 Bein Sport 6 [Badrsat 26.0E 11390 V 27500]",
-        "📺 Al Kass Eight [Badrsat 26.0E 10770 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🛡️ AFC Champions League Two",
-      "tournamentAr": "🛡️ دوري أبطال آسيا 2",
-      "matchEn": "Al Rayyan (Qatar) v Al Nahda (Oman)",
-      "matchAr": "الريان (قطر) × النهضة (عُمان)",
-      "time": "16:00",
-      "channels": [
-        "📺 Bein Sport 3 [Nilesat 7.0W 12245 V 27500]",
-        "📺 Nova Sport BUL [Hotbird 13.0E 12654 H 30000]",
-        "📺 Bein Sport 3 [Badrsat 26.0E 10810 H 27500]",
-        "📺 Al Kass Five [Badrsat 26.0E 10770 H 27500]",
-        "📺 Spor Smart [Turksat 42.0E 12188 V 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🛡️ AFC Champions League Two",
-      "tournamentAr": "🛡️ دوري أبطال آسيا 2",
       "matchEn": "Muharraq (Bahrain) v Al Jazira (United Arab Emirates)",
       "matchAr": "المحرق (البحرين) × الجزيرة (الإمارات)",
       "time": "18:15",
@@ -388,18 +348,6 @@
     {
       "tournamentEn": "🛡️ AFC Gulf Club Champions League",
       "tournamentAr": "🛡️ دوري أبطال الخليج للأندية",
-      "matchEn": "Al Nasr Dubai (United Arab Emirates) v Qatar SC (Qatar)",
-      "matchAr": "النصر دبي (الإمارات) × قطر",
-      "time": "15:00",
-      "channels": [
-        "📺 Al Kass One [Nilesat 7.0W 11919 H 27500]",
-        "📺 Al Kass One [Badrsat 26.0E 12245 V 27500]",
-        "📺 Al Kass One [Badrsat 26.0E 10770 V 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🛡️ AFC Gulf Club Champions League",
-      "tournamentAr": "🛡️ دوري أبطال الخليج للأندية",
       "matchEn": "Erbil (Iraq) v Kazma (Kuwait)",
       "matchAr": "أربيل (العراق) × كاظمة (الكويت)",
       "time": "17:00",
@@ -417,30 +365,6 @@
         "📺 Al Kass One [Nilesat 7.0W 11919 H 27500]",
         "📺 Al Kass One [Badrsat 26.0E 12245 V 27500]",
         "📺 Al Kass One [Badrsat 26.0E 10770 V 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🛡️ UEFA Europa League",
-      "tournamentAr": "🛡️ الدوري الأوروبي",
-      "matchEn": "Rennes (France) v Olympiacos (Greece)",
-      "matchAr": "رين (فرنسا) × أولمبياكوس (اليونان)",
-      "time": "15:30",
-      "channels": [
-        "📺 Bein Sport 1 [Nilesat 7.0W 11013 H 27500]",
-        "📺 Sport 1 CZE [Thor 0.8W 12149 V 30000]",
-        "📺 Premier Sport 1 [Thor 0.8W 12245 H 30000]",
-        "📺 Magenta Sport 3 [Hotbird 13.0E 12169 H 30000]",
-        "📺 Sky Sport Calcio [Hotbird 13.0E 11958 V 27500]",
-        "📺 Arena Premium 2 SRB [Eutelsat 16.0E 11429 V 28330]",
-        "📺 Arena Sport 8 HRV [Eutelsat 16.0E 11554 V 30000]",
-        "📺 Sport 1 CZE [Eutelsat 16.0E 11055 V 27500]",
-        "📺 M+ Liga de Campeones 2 [Astra 19.2E 10758 V 22000]",
-        "📺 Sky Sport Austria 1 [Astra 19.2E 12032 H 27500]",
-        "📺 Sport 1 CZE [Eutelsat 23.5E 12070 H 27500]",
-        "📺 Megogo Sport [Eutelsat 23.5E 12285 V 30000]",
-        "📺 Bein Sport 1 [Badrsat 26.0E 10810 H 27500]",
-        "📺 TNT Sports 2 [Astra 28.2E 11582 H 23000]",
-        "📺 CBC Sport [Azerspace 46.0E 11175 H 30000]"
       ]
     },
     {
@@ -466,35 +390,6 @@
       ]
     },
     {
-      "tournamentEn": "🏆 Youth U17 Gulf Cup",
-      "tournamentAr": "🏆 كأس الخليج للشباب تحت 17 سنة",
-      "matchEn": "Egypt v Emirates",
-      "matchAr": "مصر × الإمارات",
-      "time": "14:30",
-      "channels": [
-        "📺 Al Kass Four [Nilesat 7.0W 11919 H 27500]",
-        "📺 On Sport Plus [Nilesat 7.0W 11977 V 27500]",
-        "📺 Al Kass Four [Badrsat 26.0E 12245 V 27500]",
-        "📺 Al Kass Four [Badrsat 26.0E 10770 V 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🏁 ATP Paris",
-      "tournamentAr": "🏁 بطولة باريس",
-      "matchEn": "Novak Djokovic v Rinky Hijikata",
-      "matchAr": "نوفاك ديوكوفيتش × رينكي هيجيكاتا",
-      "time": "13:40",
-      "channels": [
-        "📺 Sport TV 2 [Hispasat 30W 12360 H 27500]",
-        "📺 Bein Sport 7 [Nilesat 7.0W 12188 H 27500]",
-        "📺 Max Sport 1 [BulgariaSat 1.9E 12303 H 30000]",
-        "📺 Sport Klub 2 HRV [Eutelsat 16.0E 11678 V 30000]",
-        "📺 Eurosport 1 France [Astra 19.2E 12168 V 29700]",
-        "📺 Bein Sport 7 [Badrsat 26.0E 10850 V 27500]",
-        "📺 Sky Sports Tennis UK [Astra 28.2E 12188 H 27500]"
-      ]
-    },
-    {
       "tournamentEn": "🏁 ATP Paris",
       "tournamentAr": "🏁 بطولة باريس",
       "matchEn": "Alex Michelsen v Carlos Alcaraz",
@@ -509,7 +404,7 @@
         "📺 Arena Tenis [Eutelsat 16.0E 10721 H 30000]",
         "📺 Sport Klub 2 HRV [Eutelsat 16.0E 11678 V 30000]",
         "📺 Eurosport 1 France [Astra 19.2E 12168 V 29700]",
-        "📺 Arena Tenis [Astra 23.5E 12246 V 30000]",
+        "📺 Arena Tenis [Eutelsat 23.5E 12246 V 30000]",
         "📺 Bein Sport 7 [Badrsat 26.0E 10850 V 27500]",
         "📺 Sky Sports Tennis UK [Astra 28.2E 12188 H 27500]"
       ]
