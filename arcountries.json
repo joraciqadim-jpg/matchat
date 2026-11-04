@@ -1,13 +1,108 @@
 {
+  "105": {
+    "ar": "مانشستر يونايتد",
+    "countryen": "England",
+    "countryar": "إنجلترا"
+  },
+  "109": {
+    "ar": "أستون فيلا",
+    "countryen": "England",
+    "countryar": "إنجلترا"
+  },
+  "132": {
+    "ar": "برشلونة",
+    "countryen": "Spain",
+    "countryar": "إسبانيا"
+  },
+  "133": {
+    "ar": "فياريال",
+    "countryen": "Spain",
+    "countryar": "إسبانيا"
+  },
+  "134": {
+    "ar": "أتلتيكو مدريد",
+    "countryen": "Spain",
+    "countryar": "إسبانيا"
+  },
+  "224": {
+    "ar": "إنتر ميلان",
+    "countryen": "Italy",
+    "countryar": "إيطاليا"
+  },
+  "225": {
+    "ar": "روما",
+    "countryen": "Italy",
+    "countryar": "إيطاليا"
+  },
+  "331": {
+    "ar": "بايرن ميونخ",
+    "countryen": "Germany",
+    "countryar": "ألمانيا"
+  },
+  "338": {
+    "ar": "شتوتجارت",
+    "countryen": "Germany",
+    "countryar": "ألمانيا"
+  },
+  "478": {
+    "ar": "ليل",
+    "countryen": "France",
+    "countryar": "فرنسا"
+  },
+  "480": {
+    "ar": "باريس سان جيرمان",
+    "countryen": "France",
+    "countryar": "فرنسا"
+  },
+  "691": {
+    "ar": "فاينورد",
+    "countryen": "Netherlands",
+    "countryar": "هولندا"
+  },
   "866": {
     "ar": "بوكا جونيورز",
     "countryen": "Argentina",
     "countryar": "الأرجنتين"
   },
+  "890": {
+    "ar": "سبورتنج لشبونة",
+    "countryen": "Portugal",
+    "countryar": "البرتغال"
+  },
+  "945": {
+    "ar": "جلطة سراي",
+    "countryen": "Turkey",
+    "countryar": "تركيا"
+  },
   "1227": {
     "ar": "فاسكو دي غاما",
     "countryen": "Brazil",
     "countryar": "البرازيل"
+  },
+  "1743": {
+    "ar": "لاسك لينز",
+    "countryen": "Austria",
+    "countryar": "النمسا"
+  },
+  "1955": {
+    "ar": "شاختار دونيتسك",
+    "countryen": "Ukraine",
+    "countryar": "أوكرانيا"
+  },
+  "1978": {
+    "ar": "بودو جليمت",
+    "countryen": "Norway",
+    "countryar": "النرويج"
+  },
+  "2112": {
+    "ar": "سلوفان براتيسلافا",
+    "countryen": "Slovakia",
+    "countryar": "سلوفاكيا"
+  },
+  "2145": {
+    "ar": "كاشيوا ريسول",
+    "countryen": "Japan",
+    "countryar": "اليابان"
   },
   "2146": {
     "ar": "كاشيما أنتليرز",
@@ -31,6 +126,11 @@
   },
   "2179": {
     "ar": "شنغهاي شنهوا",
+    "countryen": "China",
+    "countryar": "الصين"
+  },
+  "2182": {
+    "ar": "بكين كوان",
     "countryen": "China",
     "countryar": "الصين"
   },
@@ -69,6 +169,11 @@
     "countryen": "Qatar",
     "countryar": "قطر"
   },
+  "7081": {
+    "ar": "الشمال",
+    "countryen": "Qatar",
+    "countryar": "قطر"
+  },
   "7747": {
     "ar": "بوريرام يونايتد",
     "countryen": "Thailand",
@@ -84,6 +189,11 @@
     "countryen": "Thailand",
     "countryar": "تايلاند"
   },
+  "8246": {
+    "ar": "الشرطة",
+    "countryen": "Iraq",
+    "countryar": "العراق"
+  },
   "8248": {
     "ar": "الزوراء",
     "countryen": "Iraq",
@@ -96,6 +206,11 @@
   },
   "8276": {
     "ar": "الفيصلي",
+    "countryen": "Jordan",
+    "countryar": "الأردن"
+  },
+  "8285": {
+    "ar": "الحسين إربد",
     "countryen": "Jordan",
     "countryar": "الأردن"
   },
@@ -129,6 +244,11 @@
     "countryen": "Hong Kong",
     "countryar": "هونغ كونغ"
   },
+  "8592": {
+    "ar": "تشانبوك موتورز",
+    "countryen": "South Korea",
+    "countryar": "كوريا الجنوبية"
+  },
   "8596": {
     "ar": "ناساف كارشي",
     "countryen": "Uzbekistan",
@@ -158,6 +278,11 @@
     "ar": "ماراثون",
     "countryen": "Honduras",
     "countryar": "هندوراس"
+  },
+  "9358": {
+    "ar": "استقلال",
+    "countryen": "Iran",
+    "countryar": "إيران"
   },
   "9816": {
     "ar": "دايجيون سيتيزن",
@@ -194,13 +319,28 @@
     "countryen": "China",
     "countryar": "الصين"
   },
+  "10318": {
+    "ar": "راتشابوري",
+    "countryen": "Thailand",
+    "countryar": "تايلاند"
+  },
   "11492": {
     "ar": "الشعب حضرموت",
     "countryen": "Yemen",
     "countryar": "اليمن"
   },
+  "12181": {
+    "ar": "السيب",
+    "countryen": "Oman",
+    "countryar": "عُمان"
+  },
   "12184": {
     "ar": "النهضة",
+    "countryen": "Oman",
+    "countryar": "عُمان"
+  },
+  "12185": {
+    "ar": "الشباب العماني",
     "countryen": "Oman",
     "countryar": "عُمان"
   },
@@ -209,10 +349,20 @@
     "countryen": "El Salvador",
     "countryar": "السلفادور"
   },
+  "15458": {
+    "ar": "إيست بنغال",
+    "countryen": "India",
+    "countryar": "الهند"
+  },
   "16533": {
     "ar": "گل گهر سیرجان",
     "countryen": "Iran",
     "countryar": "إيران"
+  },
+  "16935": {
+    "ar": "الرفاع",
+    "countryen": "Bahrain",
+    "countryar": "البحرين"
   },
   "16941": {
     "ar": "المحرق",
@@ -253,6 +403,11 @@
     "ar": "كوتشينج سيتي",
     "countryen": "Malaysia",
     "countryar": "ماليزيا"
+  },
+  "55793": {
+    "ar": "نيوم",
+    "countryen": "Saudi Arabia",
+    "countryar": "السعودية"
   },
   "67508": {
     "ar": "ليون سيتي",
