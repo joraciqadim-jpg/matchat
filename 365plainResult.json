@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793752338594,
+  "timestamp": 1793752395771,
   "matches": [
     {
       "matchId": 4829984,
@@ -268,8 +268,8 @@
       "matchEn": "Chapecoense B v Mirassol",
       "matchAr": "شابيكوينسي ب × ميراسول",
       "rawIsoTime": "2026-11-03T22:30:00+00:00",
-      "time": "1 - 2 (90+4')",
-      "rawMinute": 95,
+      "time": "1 - 2 (90+5')",
+      "rawMinute": 96,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -281,8 +281,8 @@
       "matchEn": "Internacional v Coritiba",
       "matchAr": "إنترناسيونال × كوريتيبا",
       "rawIsoTime": "2026-11-04T00:30:00+00:00",
-      "time": "0 - 0 (2')",
-      "rawMinute": 2,
+      "time": "0 - 0 (3')",
+      "rawMinute": 3,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
