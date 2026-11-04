@@ -1,6 +1,16 @@
 {
+  "104": {
+    "ar": "أرسنال",
+    "countryen": "England",
+    "countryar": "إنجلترا"
+  },
   "105": {
     "ar": "مانشستر يونايتد",
+    "countryen": "England",
+    "countryar": "إنجلترا"
+  },
+  "108": {
+    "ar": "ليفربول",
     "countryen": "England",
     "countryar": "إنجلترا"
   },
@@ -8,6 +18,16 @@
     "ar": "أستون فيلا",
     "countryen": "England",
     "countryar": "إنجلترا"
+  },
+  "110": {
+    "ar": "مانشستر سيتي",
+    "countryen": "England",
+    "countryar": "إنجلترا"
+  },
+  "131": {
+    "ar": "ريال مدريد",
+    "countryen": "Spain",
+    "countryar": "إسبانيا"
   },
   "132": {
     "ar": "برشلونة",
@@ -24,6 +44,11 @@
     "countryen": "Spain",
     "countryar": "إسبانيا"
   },
+  "146": {
+    "ar": "ريال بيتيس",
+    "countryen": "Spain",
+    "countryar": "إسبانيا"
+  },
   "224": {
     "ar": "إنتر ميلان",
     "countryen": "Italy",
@@ -31,6 +56,11 @@
   },
   "225": {
     "ar": "روما",
+    "countryen": "Italy",
+    "countryar": "إيطاليا"
+  },
+  "234": {
+    "ar": "نابولي",
     "countryen": "Italy",
     "countryar": "إيطاليا"
   },
@@ -44,6 +74,16 @@
     "countryen": "Germany",
     "countryar": "ألمانيا"
   },
+  "341": {
+    "ar": "بوروسيا دورتموند",
+    "countryen": "Germany",
+    "countryar": "ألمانيا"
+  },
+  "477": {
+    "ar": "ستاد رين",
+    "countryen": "France",
+    "countryar": "فرنسا"
+  },
   "478": {
     "ar": "ليل",
     "countryen": "France",
@@ -54,8 +94,18 @@
     "countryen": "France",
     "countryar": "فرنسا"
   },
+  "481": {
+    "ar": "لانس",
+    "countryen": "France",
+    "countryar": "فرنسا"
+  },
   "691": {
     "ar": "فاينورد",
+    "countryen": "Netherlands",
+    "countryar": "هولندا"
+  },
+  "725": {
+    "ar": "آيندهوفن",
     "countryen": "Netherlands",
     "countryar": "هولندا"
   },
@@ -63,6 +113,11 @@
     "ar": "بوكا جونيورز",
     "countryen": "Argentina",
     "countryar": "الأرجنتين"
+  },
+  "887": {
+    "ar": "بورتو",
+    "countryen": "Portugal",
+    "countryar": "البرتغال"
   },
   "890": {
     "ar": "سبورتنج لشبونة",
@@ -74,6 +129,26 @@
     "countryen": "Turkey",
     "countryar": "تركيا"
   },
+  "946": {
+    "ar": "فنربخشة",
+    "countryen": "Turkey",
+    "countryar": "تركيا"
+  },
+  "1023": {
+    "ar": "أولمبياكوس",
+    "countryen": "Greece",
+    "countryar": "اليونان"
+  },
+  "1024": {
+    "ar": "أيك أثينا",
+    "countryen": "Greece",
+    "countryar": "اليونان"
+  },
+  "1169": {
+    "ar": "كلوب بروج",
+    "countryen": "Belgium",
+    "countryar": "بلجيكا"
+  },
   "1227": {
     "ar": "فاسكو دي غاما",
     "countryen": "Brazil",
@@ -84,6 +159,11 @@
     "countryen": "Austria",
     "countryar": "النمسا"
   },
+  "1789": {
+    "ar": "سلافيا براغ",
+    "countryen": "Czech Republic",
+    "countryar": "جمهورية التشيك"
+  },
   "1955": {
     "ar": "شاختار دونيتسك",
     "countryen": "Ukraine",
@@ -91,6 +171,11 @@
   },
   "1978": {
     "ar": "بودو جليمت",
+    "countryen": "Norway",
+    "countryar": "النرويج"
+  },
+  "1980": {
+    "ar": "فايكينج",
     "countryen": "Norway",
     "countryar": "النرويج"
   },
@@ -164,6 +249,11 @@
     "countryen": "Indonesia",
     "countryar": "إندونيسيا"
   },
+  "6117": {
+    "ar": "كومو",
+    "countryen": "Italy",
+    "countryar": "إيطاليا"
+  },
   "7077": {
     "ar": "الريان",
     "countryen": "Qatar",
@@ -173,6 +263,16 @@
     "ar": "الشمال",
     "countryen": "Qatar",
     "countryar": "قطر"
+  },
+  "7086": {
+    "ar": "قطر",
+    "countryen": "Qatar",
+    "countryar": "قطر"
+  },
+  "7171": {
+    "ar": "لايبزيج",
+    "countryen": "Germany",
+    "countryar": "ألمانيا"
   },
   "7747": {
     "ar": "بوريرام يونايتد",
@@ -254,6 +354,11 @@
     "countryen": "Uzbekistan",
     "countryar": "أوزبكستان"
   },
+  "8652": {
+    "ar": "عجمان",
+    "countryen": "United Arab Emirates",
+    "countryar": "الإمارات العربية المتحدة"
+  },
   "8941": {
     "ar": "التعاون",
     "countryen": "Saudi Arabia",
@@ -311,6 +416,11 @@
   },
   "10290": {
     "ar": "الكويت",
+    "countryen": "Kuwait",
+    "countryar": "الكويت"
+  },
+  "10293": {
+    "ar": "كاظمة",
     "countryen": "Kuwait",
     "countryar": "الكويت"
   },
@@ -393,6 +503,11 @@
     "ar": "فنوم بينه كراون",
     "countryen": "Cambodia",
     "countryar": "كمبوديا"
+  },
+  "50201": {
+    "ar": "صباح",
+    "countryen": "Azerbaijan",
+    "countryar": "أذربيجان"
   },
   "50901": {
     "ar": "شان يونايتد",
