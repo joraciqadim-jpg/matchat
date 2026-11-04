@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793752395771,
+  "timestamp": 1793752459852,
   "matches": [
     {
       "matchId": 4829984,
@@ -262,27 +262,14 @@
       "isLive": false
     },
     {
-      "matchId": 4632608,
-      "tournamentEn": "🇧🇷 Brazilian Série A",
-      "tournamentAr": "🇧🇷 الدوري البرازيلي",
-      "matchEn": "Chapecoense B v Mirassol",
-      "matchAr": "شابيكوينسي ب × ميراسول",
-      "rawIsoTime": "2026-11-03T22:30:00+00:00",
-      "time": "1 - 2 (90+5')",
-      "rawMinute": 96,
-      "homeGoals": 1,
-      "awayGoals": 2,
-      "isLive": true
-    },
-    {
       "matchId": 4632610,
       "tournamentEn": "🇧🇷 Brazilian Série A",
       "tournamentAr": "🇧🇷 الدوري البرازيلي",
       "matchEn": "Internacional v Coritiba",
       "matchAr": "إنترناسيونال × كوريتيبا",
       "rawIsoTime": "2026-11-04T00:30:00+00:00",
-      "time": "0 - 0 (3')",
-      "rawMinute": 3,
+      "time": "0 - 0 (4')",
+      "rawMinute": 4,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
