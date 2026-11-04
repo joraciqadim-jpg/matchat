@@ -477,6 +477,28 @@
         "📺 Al Kass Four [Badrsat 26.0E 12245 V 27500]",
         "📺 Al Kass Four [Badrsat 26.0E 10770 V 27500]"
       ]
+    },
+    {
+      "tournamentEn": "🏁 ATP Paris",
+      "tournamentAr": "🏁 بطولة باريس",
+      "matchEn": "Novak Djokovic v Rinky Hijikata",
+      "matchAr": "نوفاك ديوكوفيتش × رينكي هيجيكاتا",
+      "time": "13:40",
+      "channels": [
+        "📺 Bein Sport 7 [Nilesat 7.0W 12188 H 27500]",
+        "📺 Bein Sport 7 [Badrsat 26.0E 10850 V 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "🏁 ATP Paris",
+      "tournamentAr": "🏁 بطولة باريس",
+      "matchEn": "Alex Michelsen v Carlos Alcaraz",
+      "matchAr": "أليكس ميكيلسن × كارلوس ألكاراز",
+      "time": "18:00",
+      "channels": [
+        "📺 Bein Sport 7 [Nilesat 7.0W 12188 H 27500]",
+        "📺 Bein Sport 7 [Badrsat 26.0E 10850 V 27500]"
+      ]
     }
   ]
 }
