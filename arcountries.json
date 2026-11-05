@@ -1,4 +1,19 @@
 {
+  "10": {
+    "ar": "كريستال بالاس",
+    "countryen": "England",
+    "countryar": "إنجلترا"
+  },
+  "38": {
+    "ar": "برايتون",
+    "countryen": "England",
+    "countryar": "إنجلترا"
+  },
+  "50": {
+    "ar": "بورنموث",
+    "countryen": "England",
+    "countryar": "إنجلترا"
+  },
   "104": {
     "ar": "أرسنال",
     "countryen": "England",
@@ -24,6 +39,11 @@
     "countryen": "England",
     "countryar": "إنجلترا"
   },
+  "117": {
+    "ar": "سندرلاند",
+    "countryen": "England",
+    "countryar": "إنجلترا"
+  },
   "131": {
     "ar": "ريال مدريد",
     "countryen": "Spain",
@@ -44,8 +64,23 @@
     "countryen": "Spain",
     "countryar": "إسبانيا"
   },
+  "140": {
+    "ar": "خيتافي",
+    "countryen": "Spain",
+    "countryar": "إسبانيا"
+  },
   "146": {
     "ar": "ريال بيتيس",
+    "countryen": "Spain",
+    "countryar": "إسبانيا"
+  },
+  "154": {
+    "ar": "ريال سوسيداد",
+    "countryen": "Spain",
+    "countryar": "إسبانيا"
+  },
+  "158": {
+    "ar": "سيلتا فيجو",
     "countryen": "Spain",
     "countryar": "إسبانيا"
   },
@@ -59,6 +94,21 @@
     "countryen": "Italy",
     "countryar": "إيطاليا"
   },
+  "226": {
+    "ar": "يوفنتوس",
+    "countryen": "Italy",
+    "countryar": "إيطاليا"
+  },
+  "227": {
+    "ar": "ميلان",
+    "countryen": "Italy",
+    "countryar": "إيطاليا"
+  },
+  "232": {
+    "ar": "أتالانتا",
+    "countryen": "Italy",
+    "countryar": "إيطاليا"
+  },
   "234": {
     "ar": "نابولي",
     "countryen": "Italy",
@@ -66,6 +116,11 @@
   },
   "331": {
     "ar": "بايرن ميونخ",
+    "countryen": "Germany",
+    "countryar": "ألمانيا"
+  },
+  "333": {
+    "ar": "باير ليفركوزن",
     "countryen": "Germany",
     "countryar": "ألمانيا"
   },
@@ -78,6 +133,31 @@
     "ar": "بوروسيا دورتموند",
     "countryen": "Germany",
     "countryar": "ألمانيا"
+  },
+  "351": {
+    "ar": "هوفنهايم",
+    "countryen": "Germany",
+    "countryar": "ألمانيا"
+  },
+  "354": {
+    "ar": "فرايبورج",
+    "countryen": "Germany",
+    "countryar": "ألمانيا"
+  },
+  "465": {
+    "ar": "أولمبيك ليون",
+    "countryen": "France",
+    "countryar": "فرنسا"
+  },
+  "469": {
+    "ar": "أولمبيك مارسيليا",
+    "countryen": "France",
+    "countryar": "فرنسا"
+  },
+  "471": {
+    "ar": "موناكو",
+    "countryen": "Monaco",
+    "countryar": "موناكو"
   },
   "477": {
     "ar": "ستاد رين",
@@ -99,8 +179,33 @@
     "countryen": "France",
     "countryar": "فرنسا"
   },
+  "579": {
+    "ar": "هبوعيل بئر سبع",
+    "countryen": "Israel",
+    "countryar": "إسرائيل"
+  },
+  "690": {
+    "ar": "أياكس",
+    "countryen": "Netherlands",
+    "countryar": "هولندا"
+  },
   "691": {
     "ar": "فاينورد",
+    "countryen": "Netherlands",
+    "countryar": "هولندا"
+  },
+  "696": {
+    "ar": "تفينتي",
+    "countryen": "Netherlands",
+    "countryar": "هولندا"
+  },
+  "699": {
+    "ar": "ألكمار",
+    "countryen": "Netherlands",
+    "countryar": "هولندا"
+  },
+  "700": {
+    "ar": "نيميخين",
     "countryen": "Netherlands",
     "countryar": "هولندا"
   },
@@ -108,6 +213,16 @@
     "ar": "آيندهوفن",
     "countryen": "Netherlands",
     "countryar": "هولندا"
+  },
+  "754": {
+    "ar": "سيلتيك",
+    "countryen": "Scotland",
+    "countryar": "اسكتلندا"
+  },
+  "759": {
+    "ar": "هارت اوف ميدلوثيان",
+    "countryen": "Scotland",
+    "countryar": "اسكتلندا"
   },
   "866": {
     "ar": "بوكا جونيورز",
@@ -119,8 +234,23 @@
     "countryen": "Portugal",
     "countryar": "البرتغال"
   },
+  "888": {
+    "ar": "بنفيكا",
+    "countryen": "Portugal",
+    "countryar": "البرتغال"
+  },
   "890": {
     "ar": "سبورتنج لشبونة",
+    "countryen": "Portugal",
+    "countryar": "البرتغال"
+  },
+  "895": {
+    "ar": "سبورتينج براغا",
+    "countryen": "Portugal",
+    "countryar": "البرتغال"
+  },
+  "921": {
+    "ar": "توريينسي",
     "countryen": "Portugal",
     "countryar": "البرتغال"
   },
@@ -134,6 +264,21 @@
     "countryen": "Turkey",
     "countryar": "تركيا"
   },
+  "947": {
+    "ar": "بشكتاش",
+    "countryen": "Turkey",
+    "countryar": "تركيا"
+  },
+  "950": {
+    "ar": "طرابزون سبور",
+    "countryen": "Turkey",
+    "countryar": "تركيا"
+  },
+  "1022": {
+    "ar": "باناثينيكوس",
+    "countryen": "Greece",
+    "countryar": "اليونان"
+  },
   "1023": {
     "ar": "أولمبياكوس",
     "countryen": "Greece",
@@ -144,8 +289,43 @@
     "countryen": "Greece",
     "countryar": "اليونان"
   },
+  "1032": {
+    "ar": "أوفي كريت",
+    "countryen": "Greece",
+    "countryar": "اليونان"
+  },
+  "1147": {
+    "ar": "تون",
+    "countryen": "Switzerland",
+    "countryar": "سويسرا"
+  },
+  "1155": {
+    "ar": "لوغانو",
+    "countryen": "Switzerland",
+    "countryar": "سويسرا"
+  },
   "1169": {
     "ar": "كلوب بروج",
+    "countryen": "Belgium",
+    "countryar": "بلجيكا"
+  },
+  "1173": {
+    "ar": "أندرلخت",
+    "countryen": "Belgium",
+    "countryar": "بلجيكا"
+  },
+  "1174": {
+    "ar": "غينت",
+    "countryen": "Belgium",
+    "countryar": "بلجيكا"
+  },
+  "1185": {
+    "ar": "سينت ترويدن",
+    "countryen": "Belgium",
+    "countryar": "بلجيكا"
+  },
+  "1204": {
+    "ar": "يونيون سانت جيلواز",
     "countryen": "Belgium",
     "countryar": "بلجيكا"
   },
@@ -154,15 +334,70 @@
     "countryen": "Brazil",
     "countryar": "البرازيل"
   },
+  "1739": {
+    "ar": "ريد بول سالزبورغ",
+    "countryen": "Austria",
+    "countryar": "النمسا"
+  },
+  "1741": {
+    "ar": "شتورم غراتس",
+    "countryen": "Austria",
+    "countryar": "النمسا"
+  },
   "1743": {
     "ar": "لاسك لينز",
     "countryen": "Austria",
     "countryar": "النمسا"
   },
+  "1788": {
+    "ar": "سبارتا براغ",
+    "countryen": "Czech Republic",
+    "countryar": "جمهورية التشيك"
+  },
   "1789": {
     "ar": "سلافيا براغ",
     "countryen": "Czech Republic",
     "countryar": "جمهورية التشيك"
+  },
+  "1796": {
+    "ar": "فيكتوريا بلزن",
+    "countryen": "Czech Republic",
+    "countryar": "التشيك"
+  },
+  "1800": {
+    "ar": "يابلونك",
+    "countryen": "Czech Republic",
+    "countryar": "جمهورية التشيك"
+  },
+  "1823": {
+    "ar": "ميتييلاند",
+    "countryen": "Denmark",
+    "countryar": "الدنمارك"
+  },
+  "1824": {
+    "ar": "كوبنهاجن",
+    "countryen": "Denmark",
+    "countryar": "الدنمارك"
+  },
+  "1827": {
+    "ar": "نوردشيللان",
+    "countryen": "Denmark",
+    "countryar": "الدنمارك"
+  },
+  "1831": {
+    "ar": "آرهوس",
+    "countryen": "Denmark",
+    "countryar": "الدنمارك"
+  },
+  "1906": {
+    "ar": "ميالبو سولفسبورغ",
+    "countryen": "Sweden",
+    "countryar": "السويد"
+  },
+  "1935": {
+    "ar": "كوبيون بالوسورا",
+    "countryen": "Finland",
+    "countryar": "فنلندا"
   },
   "1955": {
     "ar": "شاختار دونيتسك",
@@ -178,6 +413,21 @@
     "ar": "فايكينج",
     "countryen": "Norway",
     "countryar": "النرويج"
+  },
+  "1982": {
+    "ar": "بران بيرغن",
+    "countryen": "Norway",
+    "countryar": "النرويج"
+  },
+  "1985": {
+    "ar": "ليلستروم",
+    "countryen": "Norway",
+    "countryar": "النرويج"
+  },
+  "2048": {
+    "ar": "أونيفرسيتاتيا كرايوفا",
+    "countryen": "Romania",
+    "countryar": "رومانيا"
   },
   "2112": {
     "ar": "سلوفان براتيسلافا",
@@ -234,6 +484,51 @@
     "countryen": "Australia",
     "countryar": "أستراليا"
   },
+  "2211": {
+    "ar": "ليخ بوزنان",
+    "countryen": "Poland",
+    "countryar": "بولندا"
+  },
+  "2220": {
+    "ar": "ياغييلونيا بياويستوك",
+    "countryen": "Poland",
+    "countryar": "بولندا"
+  },
+  "2245": {
+    "ar": "دينامو زغرب",
+    "countryen": "Croatia",
+    "countryar": "كرواتيا"
+  },
+  "2249": {
+    "ar": "هايدوك سبليت",
+    "countryen": "Croatia",
+    "countryar": "كرواتيا"
+  },
+  "2262": {
+    "ar": "أومونيا نيقوسيا",
+    "countryen": "Cyprus",
+    "countryar": "قبرص"
+  },
+  "2273": {
+    "ar": "أيه.أي. بافوس",
+    "countryen": "Cyprus",
+    "countryar": "قبرص"
+  },
+  "2276": {
+    "ar": "سيسكا - صوفيا",
+    "countryen": "Bulgaria",
+    "countryar": "بلغاريا"
+  },
+  "2277": {
+    "ar": "ليفسكي صوفيا",
+    "countryen": "Bulgaria",
+    "countryar": "بلغاريا"
+  },
+  "2345": {
+    "ar": "تسيليى",
+    "countryen": "Slovenia",
+    "countryar": "سلوفينيا"
+  },
   "2369": {
     "ar": "تامبينيز روفرز",
     "countryen": "Singapore",
@@ -244,6 +539,11 @@
     "countryen": "Saudi Arabia",
     "countryar": "السعودية"
   },
+  "6020": {
+    "ar": "فيرينتسفاروشي",
+    "countryen": "Hungary",
+    "countryar": "المجر"
+  },
   "6034": {
     "ar": "يرسيب باندونغ",
     "countryen": "Indonesia",
@@ -253,6 +553,11 @@
     "ar": "كومو",
     "countryen": "Italy",
     "countryar": "إيطاليا"
+  },
+  "6913": {
+    "ar": "إنتر إسكالديس",
+    "countryen": "Andorra",
+    "countryar": "أندورا"
   },
   "7077": {
     "ar": "الريان",
@@ -273,6 +578,11 @@
     "ar": "لايبزيج",
     "countryen": "Germany",
     "countryar": "ألمانيا"
+  },
+  "7528": {
+    "ar": "بوراك بانيالوكا",
+    "countryen": "Bosnia and Herzegovina",
+    "countryar": "البوسنة والهرسك"
   },
   "7747": {
     "ar": "بوريرام يونايتد",
@@ -374,6 +684,11 @@
     "countryen": "Saudi Arabia",
     "countryar": "السعودية"
   },
+  "8957": {
+    "ar": "النجم الأحمر",
+    "countryen": "Serbia",
+    "countryar": "صربيا"
+  },
   "9133": {
     "ar": "ماتشيدا زيروبيا",
     "countryen": "Japan",
@@ -434,6 +749,11 @@
     "countryen": "Thailand",
     "countryar": "تايلاند"
   },
+  "10564": {
+    "ar": "كايرات ألماتي",
+    "countryen": "Kazakhstan",
+    "countryar": "كازاخستان"
+  },
   "11492": {
     "ar": "الشعب حضرموت",
     "countryen": "Yemen",
@@ -459,10 +779,20 @@
     "countryen": "El Salvador",
     "countryar": "السلفادور"
   },
+  "14390": {
+    "ar": "سابورتالو",
+    "countryen": "Georgia",
+    "countryar": "جورجيا"
+  },
   "15458": {
     "ar": "إيست بنغال",
     "countryen": "India",
     "countryar": "الهند"
+  },
+  "16037": {
+    "ar": "لينكولن ريد امبس",
+    "countryen": "Gibraltar",
+    "countryar": "جبل طارق"
   },
   "16533": {
     "ar": "گل گهر سیرجان",
@@ -494,6 +824,16 @@
     "countryen": "Bhutan",
     "countryar": "بوتان"
   },
+  "29362": {
+    "ar": "ريجا",
+    "countryen": "Latvia",
+    "countryar": "لاتفيا"
+  },
+  "29716": {
+    "ar": "سبيريس كاوناس",
+    "countryen": "Lithuania",
+    "countryar": "ليتوانيا"
+  },
   "29873": {
     "ar": "فيتيل",
     "countryen": "Vietnam",
@@ -503,6 +843,16 @@
     "ar": "فنوم بينه كراون",
     "countryen": "Cambodia",
     "countryar": "كمبوديا"
+  },
+  "48879": {
+    "ar": "أرارات أرمينيا",
+    "countryen": "Armenia",
+    "countryar": "أرمينيا"
+  },
+  "49773": {
+    "ar": "روغورجينة",
+    "countryen": "Albania",
+    "countryar": "ألبانيا"
   },
   "50201": {
     "ar": "صباح",
