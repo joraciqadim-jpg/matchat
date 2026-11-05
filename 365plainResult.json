@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793884982850,
+  "timestamp": 1793885230010,
   "matches": [
     {
       "matchId": 4818658,
@@ -34,11 +34,11 @@
       "matchEn": "Lion City (Singapore) v Adelaide United (Australia)",
       "matchAr": "ليون سيتي (سنغافورة) × أديلايد يونايتد (أستراليا)",
       "rawIsoTime": "2026-11-05T10:00:00+00:00",
-      "time": "5 - 0 (90+3')",
-      "rawMinute": 93,
+      "time": "5 - 0 (done)",
+      "rawMinute": 90,
       "homeGoals": 5,
       "awayGoals": 0,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4818655,
@@ -47,8 +47,8 @@
       "matchEn": "Kuching City (Malaysia) v Gangwon (South Korea)",
       "matchAr": "كوتشينغ سيتي (ماليزيا) × Gangwon FC (كوريا الجنوبية)",
       "rawIsoTime": "2026-11-05T12:15:00+00:00",
-      "time": "2 - 0 (48')",
-      "rawMinute": 48,
+      "time": "2 - 0 (52')",
+      "rawMinute": 52,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -60,8 +60,8 @@
       "matchEn": "Svay Rieng (Cambodia) v Tampines Rovers (Singapore)",
       "matchAr": "سفاي رينغ (كمبوديا) × تامبينس روفرز (سنغافورة)",
       "rawIsoTime": "2026-11-05T12:15:00+00:00",
-      "time": "1 - 0 (49')",
-      "rawMinute": 49,
+      "time": "1 - 0 (53')",
+      "rawMinute": 53,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -73,8 +73,8 @@
       "matchEn": "BG Pathum United (Thailand) v Tai Po (Hong Kong)",
       "matchAr": "باثوم يونايتد (تايلاند) × تاي بو (هونغ كونغ)",
       "rawIsoTime": "2026-11-05T12:15:00+00:00",
-      "time": "2 - 0 (50')",
-      "rawMinute": 50,
+      "time": "2 - 0 (54')",
+      "rawMinute": 54,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -587,6 +587,19 @@
       "isLive": false
     },
     {
+      "matchId": 4865235,
+      "tournamentEn": "🇮🇳 Indian Super League",
+      "tournamentAr": "🇮🇳 الدوري الهندي",
+      "matchEn": "Churchill Brothers v Northeast United",
+      "matchAr": "شيرشل براذرز × نورث إيست يونايتد",
+      "rawIsoTime": "2026-11-05T11:30:00+00:00",
+      "time": "0 - 2 (done)",
+      "rawMinute": 90,
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "isLive": false
+    },
+    {
       "matchId": 4886866,
       "tournamentEn": "🇴🇲 Omani Professional League",
       "tournamentAr": "🇴🇲 Oman Professional League",
@@ -678,19 +691,6 @@
       "isLive": false
     },
     {
-      "matchId": 4865235,
-      "tournamentEn": "🇮🇳 Indian Super League",
-      "tournamentAr": "🇮🇳 الدوري الهندي",
-      "matchEn": "Churchill Brothers v Northeast United",
-      "matchAr": "شيرشل براذرز × نورث إيست يونايتد",
-      "rawIsoTime": "2026-11-05T11:30:00+00:00",
-      "time": "0 - 2 (90+4')",
-      "rawMinute": 94,
-      "homeGoals": 0,
-      "awayGoals": 2,
-      "isLive": true
-    },
-    {
       "matchId": 4885267,
       "tournamentEn": "🏆 Egyptian Cup - Round of 32",
       "tournamentAr": "🏆 Egypt Cup - Round of 32",
@@ -710,8 +710,8 @@
       "matchEn": "Fanja v Mussanah",
       "matchAr": "فنجاء × المصنعة",
       "rawIsoTime": "2026-11-05T12:45:00+00:00",
-      "time": "1 - 1 (38')",
-      "rawMinute": 38,
+      "time": "1 - 1 (43')",
+      "rawMinute": 43,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -723,8 +723,8 @@
       "matchEn": "Al Kahrabaa v Zakho",
       "matchAr": "الكهرباء × زاخو",
       "rawIsoTime": "2026-11-05T13:00:00+00:00",
-      "time": "1 - 0 (22')",
-      "rawMinute": 22,
+      "time": "1 - 0 (26')",
+      "rawMinute": 26,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
