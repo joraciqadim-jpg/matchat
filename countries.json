@@ -1,71 +1,77 @@
 {
-  "Pakhtakor": {
+  "ferencvros": {
+    "en": "Ferencváros",
+    "ar": "فيرينتسفاروش",
+    "countryen": "Hungary",
+    "countryar": "المجر"
+  },
+  "pakhtakor": {
     "en": "Pakhtakor",
     "ar": "باختاكور",
     "countryen": "Uzbekistan",
     "countryar": "أوزبكستان"
   },
-  "Al Nassr FC Riyadh": {
+  "al nassr fc riyadh": {
     "en": "Al Nassr FC Riyadh",
     "ar": "نادي النصر الرياض",
     "countryen": "Saudi Arabia",
     "countryar": "السعودية"
   },
-  "Tractor FC": {
+  "tractor fc": {
     "en": "Tractor FC",
     "ar": "نادي تراكتور",
     "countryen": "Iran",
     "countryar": "إيران"
   },
-  "Neftchi Fargona": {
+  "neftchi fargona": {
     "en": "Neftchi Fargona",
     "ar": "نفطشي فرغانة",
     "countryen": "Uzbekistan",
     "countryar": "أوزبكستان"
   },
-  "Al Wasl": {
+  "al wasl": {
     "en": "Al Wasl",
     "ar": "الوصل",
     "countryen": "United Arab Emirates",
     "countryar": "الإمارات العربية المتحدة"
   },
-  "Quwa Al Jawiya": {
+  "quwa al jawiya": {
     "en": "Quwa Al Jawiya",
     "ar": "القوة الجوية",
     "countryen": "Iraq",
     "countryar": "العراق"
   },
-  "Al Sadd": {
+  "al sadd": {
     "en": "Al Sadd",
     "ar": "السد",
     "countryen": "Qatar",
     "countryar": "قطر"
   },
-  "Al Ahli Jeddah": {
+  "al ahli jeddah": {
     "en": "Al Ahli Jeddah",
     "ar": "الأهلي جدة",
     "countryen": "Saudi Arabia",
     "countryar": "السعودية"
   },
-  "Al-Ittihad Club": {
+  "alittihad club": {
     "en": "Al-Ittihad Club",
     "ar": "نادي الاتحاد",
     "countryen": "Saudi Arabia",
     "countryar": "المملكة العربية السعودية"
   },
-  "Al Ain": {
+  "al ain": {
     "en": "Al Ain",
     "ar": "العين",
     "countryen": "United Arab Emirates",
     "countryar": "الإمارات العربية المتحدة"
   },
-  "Al Gharafa": {
+  "al gharafa": {
     "en": "Al Gharafa",
     "ar": "الغرافة",
     "countryen": "Qatar",
-    "countryar": "دولة قطر"
+    "countryar": "قطر"
   },
-  "Al Qadsiah FC": {
+  "al qadsiah fc": {
     "en": "Al Qadsiah FC",
     "ar": "نادي القادسية",
     "countryen": "Saudi Arabia",
@@ -851,12 +857,6 @@
     "countryen": "Uzbekistan",
     "countryar": "أوزبكستان"
   },
-  "al gharafa": {
-    "en": "Al Gharafa",
-    "ar": "الغرافة",
-    "countryen": "Qatar",
-    "countryar": "قطر"
-  },
   "alain": {
     "en": "Al-Ain",
     "ar": "العين",
@@ -875,23 +875,11 @@
     "countryen": "Saudi Arabia",
     "countryar": "السعودية"
   },
-  "al sadd": {
-    "en": "Al Sadd",
-    "ar": "السد",
-    "countryen": "Qatar",
-    "countryar": "قطر"
-  },
   "alquwa aljawiya": {
     "en": "Al-Quwa Al-Jawiya",
     "ar": "القوة الجوية",
     "countryen": "Iraq",
     "countryar": "العراق"
-  },
-  "pakhtakor": {
-    "en": "Pakhtakor",
-    "ar": "باختاكور",
-    "countryen": "Uzbekistan",
-    "countryar": "أوزبكستان"
   },
   "estonia": {
     "en": "Estonia",
