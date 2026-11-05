@@ -1,4 +1,19 @@
 {
+  "10": {
+    "nameEn": "Crystal Palace FC",
+    "countryEn": "England",
+    "countryAr": "إنجلترا"
+  },
+  "38": {
+    "nameEn": "Brighton & Hove Albion FC",
+    "countryEn": "England",
+    "countryAr": "إنجلترا"
+  },
+  "50": {
+    "nameEn": "AFC Bournemouth",
+    "countryEn": "England",
+    "countryAr": "إنجلترا"
+  },
   "104": {
     "nameEn": "Arsenal FC",
     "countryEn": "England",
@@ -24,6 +39,11 @@
     "countryEn": "England",
     "countryAr": "إنجلترا"
   },
+  "117": {
+    "nameEn": "Sunderland AFC",
+    "countryEn": "England",
+    "countryAr": "إنجلترا"
+  },
   "131": {
     "nameEn": "Real Madrid CF",
     "countryEn": "Spain",
@@ -44,8 +64,23 @@
     "countryEn": "Spain",
     "countryAr": "إسبانيا"
   },
+  "140": {
+    "nameEn": "Getafe CF",
+    "countryEn": "Spain",
+    "countryAr": "إسبانيا"
+  },
   "146": {
     "nameEn": "Real Betis Balompié",
+    "countryEn": "Spain",
+    "countryAr": "إسبانيا"
+  },
+  "154": {
+    "nameEn": "Real Sociedad de Fútbol",
+    "countryEn": "Spain",
+    "countryAr": "إسبانيا"
+  },
+  "158": {
+    "nameEn": "Real Club Celta de Vigo",
     "countryEn": "Spain",
     "countryAr": "إسبانيا"
   },
@@ -59,6 +94,16 @@
     "countryEn": "Italy",
     "countryAr": "إيطاليا"
   },
+  "227": {
+    "nameEn": "AC Milan",
+    "countryEn": "Italy",
+    "countryAr": "إيطاليا"
+  },
+  "232": {
+    "nameEn": "Atalanta Bergamo",
+    "countryEn": "Italy",
+    "countryAr": "إيطاليا"
+  },
   "234": {
     "nameEn": "SSC Napoli",
     "countryEn": "Italy",
@@ -66,6 +111,11 @@
   },
   "331": {
     "nameEn": "Bayern München",
+    "countryEn": "Germany",
+    "countryAr": "ألمانيا"
+  },
+  "333": {
+    "nameEn": "Bayer 04 Leverkusen",
     "countryEn": "Germany",
     "countryAr": "ألمانيا"
   },
@@ -78,6 +128,31 @@
     "nameEn": "Borussia Dortmund",
     "countryEn": "Germany",
     "countryAr": "ألمانيا"
+  },
+  "351": {
+    "nameEn": "TSG 1899 Hoffenheim",
+    "countryEn": "Germany",
+    "countryAr": "ألمانيا"
+  },
+  "354": {
+    "nameEn": "SC Freiburg",
+    "countryEn": "Germany",
+    "countryAr": "ألمانيا"
+  },
+  "465": {
+    "nameEn": "Olympique Lyonnais",
+    "countryEn": "France",
+    "countryAr": "فرنسا"
+  },
+  "469": {
+    "nameEn": "Olympique de Marseille",
+    "countryEn": "France",
+    "countryAr": "فرنسا"
+  },
+  "471": {
+    "nameEn": "AS Monaco",
+    "countryEn": "Monaco",
+    "countryAr": "موناكو"
   },
   "477": {
     "nameEn": "FC Stade Rennes",
@@ -99,8 +174,33 @@
     "countryEn": "France",
     "countryAr": "فرنسا"
   },
+  "579": {
+    "nameEn": "Hapoel Be'er Sheva FC",
+    "countryEn": "Israel",
+    "countryAr": "إسرائيل"
+  },
+  "690": {
+    "nameEn": "Ajax Amsterdam",
+    "countryEn": "Netherlands",
+    "countryAr": "هولندا"
+  },
   "691": {
     "nameEn": "Feyenoord",
+    "countryEn": "Netherlands",
+    "countryAr": "هولندا"
+  },
+  "696": {
+    "nameEn": "FC Twente Enschede",
+    "countryEn": "Netherlands",
+    "countryAr": "هولندا"
+  },
+  "699": {
+    "nameEn": "AZ Alkmaar",
+    "countryEn": "Netherlands",
+    "countryAr": "هولندا"
+  },
+  "700": {
+    "nameEn": "N.E.C. Nijmegen",
     "countryEn": "Netherlands",
     "countryAr": "هولندا"
   },
@@ -109,13 +209,38 @@
     "countryEn": "Netherlands",
     "countryAr": "هولندا"
   },
+  "754": {
+    "nameEn": "Celtic FC",
+    "countryEn": "Scotland",
+    "countryAr": "اسكتلندا"
+  },
+  "759": {
+    "nameEn": "Hearts",
+    "countryEn": "Scotland",
+    "countryAr": "اسكتلندا"
+  },
   "887": {
     "nameEn": "FC Porto",
     "countryEn": "Portugal",
     "countryAr": "البرتغال"
   },
+  "888": {
+    "nameEn": "SL Benfica FC",
+    "countryEn": "Portugal",
+    "countryAr": "البرتغال"
+  },
   "890": {
     "nameEn": "Sporting Lisbon",
+    "countryEn": "Portugal",
+    "countryAr": "البرتغال"
+  },
+  "895": {
+    "nameEn": "SC Braga",
+    "countryEn": "Portugal",
+    "countryAr": "البرتغال"
+  },
+  "921": {
+    "nameEn": "Torreense",
     "countryEn": "Portugal",
     "countryAr": "البرتغال"
   },
@@ -129,6 +254,21 @@
     "countryEn": "Turkey",
     "countryAr": "تركيا"
   },
+  "947": {
+    "nameEn": "Besiktas Istanbul",
+    "countryEn": "Turkey",
+    "countryAr": "تركيا"
+  },
+  "950": {
+    "nameEn": "Trabzonspor",
+    "countryEn": "Turkey",
+    "countryAr": "تركيا"
+  },
+  "1022": {
+    "nameEn": "Panathinaikos FC",
+    "countryEn": "Greece",
+    "countryAr": "اليونان"
+  },
   "1023": {
     "nameEn": "Olympiacos FC",
     "countryEn": "Greece",
@@ -139,20 +279,110 @@
     "countryEn": "Greece",
     "countryAr": "اليونان"
   },
+  "1032": {
+    "nameEn": "OFI Crete",
+    "countryEn": "Greece",
+    "countryAr": "اليونان"
+  },
+  "1147": {
+    "nameEn": "FC Thun",
+    "countryEn": "Switzerland",
+    "countryAr": "سويسرا"
+  },
+  "1155": {
+    "nameEn": "FC Lugano",
+    "countryEn": "Switzerland",
+    "countryAr": "سويسرا"
+  },
   "1169": {
     "nameEn": "Club Brugge KV",
     "countryEn": "Belgium",
     "countryAr": "بلجيكا"
+  },
+  "1173": {
+    "nameEn": "RSC Anderlecht",
+    "countryEn": "Belgium",
+    "countryAr": "بلجيكا"
+  },
+  "1174": {
+    "nameEn": "KAA Gent",
+    "countryEn": "Belgium",
+    "countryAr": "بلجيكا"
+  },
+  "1185": {
+    "nameEn": "Sint-Truiden",
+    "countryEn": "Belgium",
+    "countryAr": "بلجيكا"
+  },
+  "1204": {
+    "nameEn": "Union Saint-Gilloise",
+    "countryEn": "Belgium",
+    "countryAr": "بلجيكا"
+  },
+  "1739": {
+    "nameEn": "Red Bull Salzburg",
+    "countryEn": "Austria",
+    "countryAr": "النمسا"
+  },
+  "1741": {
+    "nameEn": "SK Sturm Graz",
+    "countryEn": "Austria",
+    "countryAr": "النمسا"
   },
   "1743": {
     "nameEn": "LASK Linz",
     "countryEn": "Austria",
     "countryAr": "النمسا"
   },
+  "1788": {
+    "nameEn": "AC Sparta Praha",
+    "countryEn": "Czech Republic",
+    "countryAr": "جمهورية التشيك"
+  },
   "1789": {
     "nameEn": "SK Slavia Praha",
     "countryEn": "Czech Republic",
     "countryAr": "جمهورية التشيك"
+  },
+  "1796": {
+    "nameEn": "FC Viktoria Plzen",
+    "countryEn": "Czech Republic",
+    "countryAr": "التشيك"
+  },
+  "1800": {
+    "nameEn": "FK Jablonec",
+    "countryEn": "Czech Republic",
+    "countryAr": "التشيك"
+  },
+  "1823": {
+    "nameEn": "FC Midtjylland",
+    "countryEn": "Denmark",
+    "countryAr": "الدنمارك"
+  },
+  "1824": {
+    "nameEn": "FC Copenhagen",
+    "countryEn": "Denmark",
+    "countryAr": "الدنمارك"
+  },
+  "1827": {
+    "nameEn": "FC Nordsjælland",
+    "countryEn": "Denmark",
+    "countryAr": "الدنمارك"
+  },
+  "1831": {
+    "nameEn": "AGF Aarhus",
+    "countryEn": "Denmark",
+    "countryAr": "الدنمارك"
+  },
+  "1906": {
+    "nameEn": "Mjällby AIF",
+    "countryEn": "Sweden",
+    "countryAr": "السويد"
+  },
+  "1935": {
+    "nameEn": "KuPS Akatemia",
+    "countryEn": "Finland",
+    "countryAr": "فنلندا"
   },
   "1955": {
     "nameEn": "FC Shakhtar Donetsk",
@@ -168,6 +398,21 @@
     "nameEn": "Viking",
     "countryEn": "Norway",
     "countryAr": "النرويج"
+  },
+  "1982": {
+    "nameEn": "Brann",
+    "countryEn": "Norway",
+    "countryAr": "النرويج"
+  },
+  "1985": {
+    "nameEn": "Lillestrom",
+    "countryEn": "Norway",
+    "countryAr": "النرويج"
+  },
+  "2048": {
+    "nameEn": "CS Universitatea Craiova",
+    "countryEn": "Romania",
+    "countryAr": "رومانيا"
   },
   "2112": {
     "nameEn": "SK Slovan Bratislava",
@@ -214,10 +459,60 @@
     "countryEn": "Australia",
     "countryAr": "أستراليا"
   },
+  "2211": {
+    "nameEn": "Lech Poznan",
+    "countryEn": "Poland",
+    "countryAr": "بولندا"
+  },
+  "2220": {
+    "nameEn": "Jagiellonia Bialystok",
+    "countryEn": "Poland",
+    "countryAr": "بولندا"
+  },
+  "2245": {
+    "nameEn": "Dinamo Zagreb",
+    "countryEn": "Croatia",
+    "countryAr": "كرواتيا"
+  },
+  "2249": {
+    "nameEn": "HNK Hajduk Split",
+    "countryEn": "Croatia",
+    "countryAr": "كرواتيا"
+  },
+  "2262": {
+    "nameEn": "Omonia",
+    "countryEn": "Cyprus",
+    "countryAr": "قبرص"
+  },
+  "2273": {
+    "nameEn": "Pafos FC",
+    "countryEn": "Cyprus",
+    "countryAr": "قبرص"
+  },
+  "2276": {
+    "nameEn": "PFC CSKA Sofia",
+    "countryEn": "Bulgaria",
+    "countryAr": "بلغاريا"
+  },
+  "2277": {
+    "nameEn": "PFC Levski Sofia",
+    "countryEn": "Bulgaria",
+    "countryAr": "بلغاريا"
+  },
+  "2345": {
+    "nameEn": "NK Celje",
+    "countryEn": "Slovenia",
+    "countryAr": "سلوفينيا"
+  },
   "5457": {
     "nameEn": "Al Hilal Riyadh",
     "countryEn": "Saudi Arabia",
     "countryAr": "السعودية"
+  },
+  "6020": {
+    "nameEn": "Ferencvaros TC",
+    "countryEn": "Hungary",
+    "countryAr": "المجر"
   },
   "6034": {
     "nameEn": "Persatuan Sepakbola Indonesia Bandung",
@@ -228,6 +523,11 @@
     "nameEn": "Calcio Como 1907",
     "countryEn": "Italy",
     "countryAr": "إيطاليا"
+  },
+  "6913": {
+    "nameEn": "Inter Club de Escaldes",
+    "countryEn": "Andorra",
+    "countryAr": "أندورا"
   },
   "7077": {
     "nameEn": "Al Rayyan",
@@ -243,6 +543,11 @@
     "nameEn": "RB Leipzig",
     "countryEn": "Germany",
     "countryAr": "ألمانيا"
+  },
+  "7528": {
+    "nameEn": "FK Borac Banja Luka",
+    "countryEn": "Bosnia and Herzegovina",
+    "countryAr": "البوسنة والهرسك"
   },
   "7747": {
     "nameEn": "Buriram United",
@@ -299,6 +604,11 @@
     "countryEn": "Saudi Arabia",
     "countryAr": "السعودية"
   },
+  "8957": {
+    "nameEn": "Red Star Belgrade",
+    "countryEn": "Serbia",
+    "countryAr": "صربيا"
+  },
   "9358": {
     "nameEn": "Esteghlal FC Tehran",
     "countryEn": "Iran",
@@ -339,6 +649,11 @@
     "countryEn": "Thailand",
     "countryAr": "تايلاند"
   },
+  "10564": {
+    "nameEn": "FC Kairat Almaty",
+    "countryEn": "Kazakhstan",
+    "countryAr": "كازاخستان"
+  },
   "12181": {
     "nameEn": "Al Seeb SC",
     "countryEn": "Oman",
@@ -349,10 +664,20 @@
     "countryEn": "Oman",
     "countryAr": "عُمان"
   },
+  "14390": {
+    "nameEn": "FC Iberia 1999",
+    "countryEn": "Georgia",
+    "countryAr": "جورجيا"
+  },
   "15458": {
     "nameEn": "East Bengal",
     "countryEn": "India",
     "countryAr": "الهند"
+  },
+  "16037": {
+    "nameEn": "Lincoln Red Imps",
+    "countryEn": "Gibraltar",
+    "countryAr": "جبل طارق"
   },
   "16533": {
     "nameEn": "Gol Gohar",
@@ -364,10 +689,30 @@
     "countryEn": "Bahrain",
     "countryAr": "البحرين"
   },
+  "29362": {
+    "nameEn": "Riga",
+    "countryEn": "Latvia",
+    "countryAr": "لاتفيا"
+  },
+  "29716": {
+    "nameEn": "FK Kauno Žalgiris",
+    "countryEn": "Lithuania",
+    "countryAr": "ليتوانيا"
+  },
   "29873": {
     "nameEn": "Viettel",
     "countryEn": "Vietnam",
     "countryAr": "فيتنام"
+  },
+  "48879": {
+    "nameEn": "FC Ararat-Armenia",
+    "countryEn": "Armenia",
+    "countryAr": "أرمينيا"
+  },
+  "49773": {
+    "nameEn": "Egnatia Rrogozhinë",
+    "countryEn": "Albania",
+    "countryAr": "ألبانيا"
   },
   "50201": {
     "nameEn": "Sabah FC",
