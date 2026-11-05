@@ -1,4 +1,300 @@
 {
+  "JS El Biar": {
+    "en": "JS El Biar",
+    "ar": "شبيبة الأبيار"
+  },
+  "ASO Chlef": {
+    "en": "ASO Chlef",
+    "ar": "أولمبي الشلف"
+  },
+  "Olympique Akbou": {
+    "en": "Olympique Akbou",
+    "ar": "أولمبيك أقبو"
+  },
+  "Cr Temouchent": {
+    "en": "Cr Temouchent",
+    "ar": "شباب تموشنت"
+  },
+  "JS Saoura": {
+    "en": "JS Saoura",
+    "ar": "شبيبة الساورة"
+  },
+  "JS Kabylie": {
+    "en": "JS Kabylie",
+    "ar": "شبيبة القبائل"
+  },
+  "CR Belouizdad": {
+    "en": "CR Belouizdad",
+    "ar": "شباب بلوزداد"
+  },
+  "CS Constantine": {
+    "en": "CS Constantine",
+    "ar": "شباب قسنطينة"
+  },
+  "Levante UD": {
+    "en": "Levante UD",
+    "ar": "ليفانتي"
+  },
+  "Real Club Deportivo Mallorca": {
+    "en": "Real Deportivo Mallorca",
+    "ar": "ريال مايوركا"
+  },
+  "N.E.C. Nijmegen": {
+    "en": "N.E.C. Nijmegen",
+    "ar": "إن إي سي نيميخن"
+  },
+  "Omonia": {
+    "en": "Omonia",
+    "ar": "أومونيا"
+  },
+  "AC Milan": {
+    "en": "Milan",
+    "ar": "ميلان"
+  },
+  "Ferencvaros TC": {
+    "en": "Ferencvaros TC",
+    "ar": "فيرينتسفاروش"
+  },
+  "Crystal Palace FC": {
+    "en": "Crystal Palace",
+    "ar": "كريستال بالاس"
+  },
+  "TSG 1899 Hoffenheim": {
+    "en": "TSG 1899 Hoffenheim",
+    "ar": "هوفنهايم"
+  },
+  "Lillestrom": {
+    "en": "Lillestrom",
+    "ar": "ليلستروم"
+  },
+  "FC Viktoria Plzen": {
+    "en": "Viktoria Plzen",
+    "ar": "فيكتوريا بلزن"
+  },
+  "AC Sparta Praha": {
+    "en": "Sparta Praha",
+    "ar": "سبارتا براغ"
+  },
+  "AFC Bournemouth": {
+    "en": "AFC Bournemouth",
+    "ar": "بورنموث"
+  },
+  "PFC Levski Sofia": {
+    "en": "PFC Levski Sofia",
+    "ar": "ليف####ски صوفيا"
+  },
+  "Jagiellonia Bialystok": {
+    "en": "Jagiellonia Bialystok",
+    "ar": "ياجيلونيا بياويستوك"
+  },
+  "Real Sociedad de Fútbol": {
+    "en": "Real Sociedad de Fútbol",
+    "ar": "ريال سوسيداد"
+  },
+  "Olympique Lyonnais": {
+    "en": "Olympique Lyonnais",
+    "ar": "أولمبيك ليون"
+  },
+  "RSC Anderlecht": {
+    "en": "RSC Anderlecht",
+    "ar": "أندرلخت"
+  },
+  "SC Freiburg": {
+    "en": "Freiburg",
+    "ar": "فرايبورغ"
+  },
+  "Europe UEFA Conference League": {
+    "en": "Europe UEFA Conference League",
+    "ar": "دوري المؤتمر الأوروبي"
+  },
+  "Mjällby AIF": {
+    "en": "Mjällby AIF",
+    "ar": "مييلبي"
+  },
+  "FK Borac Banja Luka": {
+    "en": "Borac Banja Luka",
+    "ar": "بوراك بانيا لوكا"
+  },
+  "HNK Hajduk Split": {
+    "en": "HNK Hajduk Split",
+    "ar": "هايدوك سبليت"
+  },
+  "KuPS Akatemia": {
+    "en": "KuPS Akatemia",
+    "ar": "أكاديمية كوبس"
+  },
+  "KAA Gent": {
+    "en": "KAA Gent",
+    "ar": "خنت"
+  },
+  "Inter Club de Escaldes": {
+    "en": "Inter de Escaldes",
+    "ar": "إنتر dإسكلدس"
+  },
+  "FC Thun": {
+    "en": "Thun",
+    "ar": "تون"
+  },
+  "Hearts": {
+    "en": "Hearts",
+    "ar": "هارتس"
+  },
+  "FC Midtjylland": {
+    "en": "Midtjylland",
+    "ar": "ميتلاند"
+  },
+  "Ajax Amsterdam": {
+    "en": "Ajax Amsterdam",
+    "ar": "أياكس أمستردام"
+  },
+  "Atalanta Bergamo": {
+    "en": "Atalanta Bergamo",
+    "ar": "أتالانتا بيرغامو"
+  },
+  "FC Kairat Almaty": {
+    "en": "Kairat Almaty",
+    "ar": "كايرات ألماتي"
+  },
+  "SC Braga": {
+    "en": "Braga",
+    "ar": "براغا"
+  },
+  "Aldosivi": {
+    "en": "Aldosivi",
+    "ar": "ألدوسيفي"
+  },
+  "River Plate arg": {
+    "en": "River Plate arg",
+    "ar": "ريفر بليت الأرجنتيني"
+  },
+  "Juventus FC": {
+    "en": "Juventus",
+    "ar": "يوفنتوس"
+  },
+  "FC Ararat-Armenia": {
+    "en": "Ararat-Armenia",
+    "ar": "أرارات أرمينيا"
+  },
+  "Sunderland AFC": {
+    "en": "Sunderland AFC",
+    "ar": "سندرلاند"
+  },
+  "Celtic FC": {
+    "en": "Celtic",
+    "ar": "سلتيك"
+  },
+  "Besiktas Istanbul": {
+    "en": "Besiktas Istanbul",
+    "ar": "بشكتاش إسطنبول"
+  },
+  "SK Sturm Graz": {
+    "en": "SK Sturm Graz",
+    "ar": "شتورم غراتس"
+  },
+  "NK Celje": {
+    "en": "NK Celje",
+    "ar": "تسيلي"
+  },
+  "SL Benfica FC": {
+    "en": "SL Benfica",
+    "ar": "بنفيكا"
+  },
+  "Lech Poznan": {
+    "en": "Lech Poznan",
+    "ar": "ليخ بوزنان"
+  },
+  "Bayer 04 Leverkusen": {
+    "en": "Bayer 04 Leverkusen",
+    "ar": "باير 04 ليفركوزن"
+  },
+  "Olympique de Marseille": {
+    "en": "Olympique de Marseille",
+    "ar": "أولمبيك مارسيليا"
+  },
+  "Real Club Celta de Vigo": {
+    "en": "Real Celta de Vigo",
+    "ar": "ريال سيلتا فيغو"
+  },
+  "Hapoel Be'er Sheva FC": {
+    "en": "Hapoel Be'er Sheva",
+    "ar": "هبوعيل بئر السبع"
+  },
+  "CS Universitatea Craiova": {
+    "en": "CS Universitatea Craiova",
+    "ar": "جامعة كرايوفا"
+  },
+  "Egnatia Rrogozhinë": {
+    "en": "Egnatia Rrogozhinë",
+    "ar": "إغناتيا روغوجينه"
+  },
+  "Riga": {
+    "en": "Riga",
+    "ar": "ريغا"
+  },
+  "FK Jablonec": {
+    "en": "Jablonec",
+    "ar": "يابلونتس"
+  },
+  "Panathinaikos FC": {
+    "en": "Panathinaikos",
+    "ar": "باناثينايكوس"
+  },
+  "PFC CSKA Sofia": {
+    "en": "PFC CSKA Sofia",
+    "ar": "سسكا صوفيا"
+  },
+  "Brann": {
+    "en": "Brann",
+    "ar": "بران"
+  },
+  "Getafe CF": {
+    "en": "Getafe",
+    "ar": "خيتافي"
+  },
+  "Brighton & Hove Albion FC": {
+    "en": "Brighton & Hove Albion",
+    "ar": "برايتون وهوف ألبيون"
+  },
+  "FC Twente Enschede": {
+    "en": "Twente Enschede",
+    "ar": "تفنتي إنشيده"
+  },
+  "Pafos FC": {
+    "en": "Pafos",
+    "ar": "بافوس"
+  },
+  "FC Lugano": {
+    "en": "Lugano",
+    "ar": "لوغانو"
+  },
+  "FK Kauno Žalgiris": {
+    "en": "Kauno Žalgiris",
+    "ar": "كاونو زالغيريس"
+  },
+  "FC Copenhagen": {
+    "en": "Copenhagen",
+    "ar": "كوبنهاغن"
+  },
+  "FC Iberia 1999": {
+    "en": "Iberia 1999",
+    "ar": "إيبيريا 1999"
+  },
+  "AS Monaco": {
+    "en": "Monaco",
+    "ar": "موناكو"
+  },
+  "FC Nordsjælland": {
+    "en": "Nordsjælland",
+    "ar": "نوردشيلاند"
+  },
+  "Gimnasia Y Esgrima La Plata": {
+    "en": "Gimnasia Y Esgrima La Plata",
+    "ar": "جيمناسيا إي إسغريما لا بلاتا"
+  },
+  "Belgrano": {
+    "en": "Belgrano",
+    "ar": "بلغرانو"
+  },
   "Al Kholood": {
     "en": "Al Kholood",
     "ar": "الخلود"
