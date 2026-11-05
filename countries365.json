@@ -94,6 +94,11 @@
     "countryEn": "Italy",
     "countryAr": "إيطاليا"
   },
+  "226": {
+    "nameEn": "Juventus FC",
+    "countryEn": "Italy",
+    "countryAr": "إيطاليا"
+  },
   "227": {
     "nameEn": "AC Milan",
     "countryEn": "Italy",
@@ -444,10 +449,20 @@
     "countryEn": "Japan",
     "countryAr": "اليابان"
   },
+  "2179": {
+    "nameEn": "Shanghai Shenhua FC",
+    "countryEn": "China",
+    "countryAr": "الصين"
+  },
   "2182": {
     "nameEn": "Beijing Guoan",
     "countryEn": "China",
     "countryAr": "الصين"
+  },
+  "2200": {
+    "nameEn": "Adelaide United FC",
+    "countryEn": "Australia",
+    "countryAr": "أستراليا"
   },
   "2202": {
     "nameEn": "Melbourne Victory",
@@ -589,6 +604,11 @@
     "countryEn": "United Arab Emirates",
     "countryAr": "الإمارات العربية المتحدة"
   },
+  "8521": {
+    "nameEn": "Kitchee",
+    "countryEn": "Hong Kong",
+    "countryAr": "هونغ كونغ"
+  },
   "8592": {
     "nameEn": "Jeonbuk Hyundai Motors",
     "countryEn": "South Korea",
@@ -608,6 +628,11 @@
     "nameEn": "Red Star Belgrade",
     "countryEn": "Serbia",
     "countryAr": "صربيا"
+  },
+  "9133": {
+    "nameEn": "Machida Zelvia",
+    "countryEn": "Japan",
+    "countryAr": "اليابان"
   },
   "9358": {
     "nameEn": "Esteghlal FC Tehran",
@@ -704,6 +729,11 @@
     "countryEn": "Vietnam",
     "countryAr": "فيتنام"
   },
+  "46828": {
+    "nameEn": "Phnom Penh Crown",
+    "countryEn": "Cambodia",
+    "countryAr": "كمبوديا"
+  },
   "48879": {
     "nameEn": "FC Ararat-Armenia",
     "countryEn": "Armenia",
@@ -718,6 +748,11 @@
     "nameEn": "Sabah FC",
     "countryEn": "Malaysia",
     "countryAr": "ماليزيا"
+  },
+  "67508": {
+    "nameEn": "Lion City",
+    "countryEn": "Singapore",
+    "countryAr": "سنغافورة"
   },
   "68794": {
     "nameEn": "Al Khalidiyah (Bhr)",
