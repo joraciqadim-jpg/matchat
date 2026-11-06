@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793929664841,
+  "timestamp": 1793930233319,
   "matches": [
     {
       "matchId": 4742008,
@@ -125,8 +125,8 @@
       "matchEn": "Cruzeiro v Bahia",
       "matchAr": "كروزيرو × باهيا",
       "rawIsoTime": "2026-11-06T00:30:00+00:00",
-      "time": "1 - 1 (56')",
-      "rawMinute": 56,
+      "time": "1 - 1 (66')",
+      "rawMinute": 66,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -302,8 +302,8 @@
     },
     {
       "matchId": 4779077,
-      "tournamentEn": "🏁 Qatari Stars League",
-      "tournamentAr": "🏁 دوري نجوم قطر",
+      "tournamentEn": "🇶🇦 Qatari Stars League",
+      "tournamentAr": "🇶🇦 دوري نجوم قطر",
       "matchEn": "Al Arabi v Al-Ahli",
       "matchAr": "العربي × الأهلي",
       "rawIsoTime": "2026-11-06T14:15:00+00:00",
@@ -393,8 +393,8 @@
     },
     {
       "matchId": 4745491,
-      "tournamentEn": "🏁 Russian Premier Liga",
-      "tournamentAr": "🏁 الدوري الروسي",
+      "tournamentEn": "🇷🇺 Russian Premier Liga",
+      "tournamentAr": "🇷🇺 الدوري الروسي",
       "matchEn": "Lokomotiv Moskva v Rubin Kazan",
       "matchAr": "لوكوموتيف موسكو × روبين كازان",
       "rawIsoTime": "2026-11-06T16:30:00+00:00",
@@ -406,8 +406,8 @@
     },
     {
       "matchId": 4779079,
-      "tournamentEn": "🏁 Qatari Stars League",
-      "tournamentAr": "🏁 دوري نجوم قطر",
+      "tournamentEn": "🇶🇦 Qatari Stars League",
+      "tournamentAr": "🇶🇦 دوري نجوم قطر",
       "matchEn": "Al Wakrah v Shahaniya",
       "matchAr": "الوكرة × الشحانية",
       "rawIsoTime": "2026-11-06T16:30:00+00:00",
@@ -445,8 +445,8 @@
     },
     {
       "matchId": 4736350,
-      "tournamentEn": "🏁 Poland Ekstraklasa",
-      "tournamentAr": "🏁 الدوري البولندي",
+      "tournamentEn": "🇵🇱 Polish Ekstraklasa",
+      "tournamentAr": "🇵🇱 الدوري البولندي",
       "matchEn": "Motor Lublin v Wisla Plock",
       "matchAr": "موتور لوبلين × فيسوا بلوك",
       "rawIsoTime": "2026-11-06T17:00:00+00:00",
@@ -484,8 +484,8 @@
     },
     {
       "matchId": 4633201,
-      "tournamentEn": "🏁 Argentinean Liga Profesional - Clausura",
-      "tournamentAr": "🏁 الدوري الأرجنتيني للمحترفين - كلاوسورا",
+      "tournamentEn": "🇦🇷 Argentinean Liga Profesional - Clausura",
+      "tournamentAr": "🇦🇷 الدوري الأرجنتيني للمحترفين - كلاوسورا",
       "matchEn": "Barracas Central v Racing",
       "matchAr": "باراكاس سنترال × راسينغ",
       "rawIsoTime": "2026-11-06T18:00:00+00:00",
@@ -497,8 +497,8 @@
     },
     {
       "matchId": 4635963,
-      "tournamentEn": "🏁 Sweden Allsvenskan",
-      "tournamentAr": "🏁 الدوري السويدي",
+      "tournamentEn": "🇸🇪 Swedish Allsvenskan",
+      "tournamentAr": "🇸🇪 الدوري السويدي",
       "matchEn": "Hammarby v IF Elfsborg",
       "matchAr": "هاماربي × إلفسبورغ",
       "rawIsoTime": "2026-11-06T18:00:00+00:00",
@@ -510,8 +510,8 @@
     },
     {
       "matchId": 4731462,
-      "tournamentEn": "🏁 Denmark Superliga",
-      "tournamentAr": "🏁 الدوري الدنماركي",
+      "tournamentEn": "🇩🇰 Danish Superliga",
+      "tournamentAr": "🇩🇰 الدوري الدنماركي",
       "matchEn": "Silkeborg IF v Lyngby Boldklub",
       "matchAr": "سيلكيبورغ × لينغبي بولدكلوب",
       "rawIsoTime": "2026-11-06T18:00:00+00:00",
@@ -549,8 +549,8 @@
     },
     {
       "matchId": 4747936,
-      "tournamentEn": "🏁 Austria Bundesliga",
-      "tournamentAr": "🏁 الدوري النمساوي",
+      "tournamentEn": "🇦🇹 Austrian Bundesliga",
+      "tournamentAr": "🇦🇹 الدوري النمساوي",
       "matchEn": "SK Rapid Vienna v Wolfsberger",
       "matchAr": "رابيد فيينا × فولفسبيرغر",
       "rawIsoTime": "2026-11-06T18:30:00+00:00",
@@ -562,8 +562,8 @@
     },
     {
       "matchId": 4736348,
-      "tournamentEn": "🏁 Poland Ekstraklasa",
-      "tournamentAr": "🏁 الدوري البولندي",
+      "tournamentEn": "🇵🇱 Polish Ekstraklasa",
+      "tournamentAr": "🇵🇱 الدوري البولندي",
       "matchEn": "Wisla Krakow v Cracovia Krakow",
       "matchAr": "فيسوا كراكوف × كراكوفيا كراكوف",
       "rawIsoTime": "2026-11-06T19:30:00+00:00",
@@ -640,8 +640,8 @@
     },
     {
       "matchId": 4633206,
-      "tournamentEn": "🏁 Argentinean Liga Profesional - Clausura",
-      "tournamentAr": "🏁 الدوري الأرجنتيني للمحترفين - كلاوسورا",
+      "tournamentEn": "🇦🇷 Argentinean Liga Profesional - Clausura",
+      "tournamentAr": "🇦🇷 الدوري الأرجنتيني للمحترفين - كلاوسورا",
       "matchEn": "Independiente v Deportivo Riestra",
       "matchAr": "إنديبندينتي × ديبورتيفو ريسترا",
       "rawIsoTime": "2026-11-06T22:15:00+00:00",
@@ -653,8 +653,8 @@
     },
     {
       "matchId": 4633209,
-      "tournamentEn": "🏁 Argentinean Liga Profesional - Clausura",
-      "tournamentAr": "🏁 الدوري الأرجنتيني للمحترفين - كلاوسورا",
+      "tournamentEn": "🇦🇷 Argentinean Liga Profesional - Clausura",
+      "tournamentAr": "🇦🇷 الدوري الأرجنتيني للمحترفين - كلاوسورا",
       "matchEn": "Union de Santa Fe v Velez Sarsfield",
       "matchAr": "يونيون سانتا في × فيليز سارسفيلد",
       "rawIsoTime": "2026-11-06T22:15:00+00:00",
@@ -666,8 +666,8 @@
     },
     {
       "matchId": 4633210,
-      "tournamentEn": "🏁 Argentinean Liga Profesional - Clausura",
-      "tournamentAr": "🏁 الدوري الأرجنتيني للمحترفين - كلاوسورا",
+      "tournamentEn": "🇦🇷 Argentinean Liga Profesional - Clausura",
+      "tournamentAr": "🇦🇷 الدوري الأرجنتيني للمحترفين - كلاوسورا",
       "matchEn": "San Lorenzo v Platense",
       "matchAr": "سان لورينزو × بلاتينسي",
       "rawIsoTime": "2026-11-06T22:15:00+00:00",
