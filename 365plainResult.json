@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793988254542,
+  "timestamp": 1793988321163,
   "matches": [
     {
       "matchId": 4742008,
@@ -398,8 +398,8 @@
       "matchEn": "Lokomotiv Moskva v Rubin Kazan",
       "matchAr": "لوكوموتيف موسكو × روبين كازان",
       "rawIsoTime": "2026-11-06T16:30:00+00:00",
-      "time": "0 - 1 (76')",
-      "rawMinute": 76,
+      "time": "0 - 1 (77')",
+      "rawMinute": 78,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -411,8 +411,8 @@
       "matchEn": "Al Wakrah v Shahaniya",
       "matchAr": "الوكرة × الشحانية",
       "rawIsoTime": "2026-11-06T16:30:00+00:00",
-      "time": "0 - 1 (73')",
-      "rawMinute": 73,
+      "time": "0 - 1 (74')",
+      "rawMinute": 74,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -424,8 +424,8 @@
       "matchEn": "Newroz v Karbalaa",
       "matchAr": "نوروز × كربلاء",
       "rawIsoTime": "2026-11-06T16:30:00+00:00",
-      "time": "0 - 0 (79')",
-      "rawMinute": 79,
+      "time": "0 - 0 (80')",
+      "rawMinute": 80,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -437,8 +437,8 @@
       "matchEn": "Al Buqa'a v Al Wehdat",
       "matchAr": "البقعة × الوحدات",
       "rawIsoTime": "2026-11-06T16:30:00+00:00",
-      "time": "0 - 1 (76')",
-      "rawMinute": 76,
+      "time": "0 - 1 (77')",
+      "rawMinute": 77,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -450,8 +450,8 @@
       "matchEn": "Al Shabab v Tadamon",
       "matchAr": "الشباب × التضامن",
       "rawIsoTime": "2026-11-06T16:40:00+00:00",
-      "time": "1 - 1 (65')",
-      "rawMinute": 65,
+      "time": "1 - 1 (66')",
+      "rawMinute": 66,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -476,23 +476,10 @@
       "matchEn": "Gaziantep F.K. v Kasimpasa",
       "matchAr": "غازي عنتاب إف كيه × قاسم باشا",
       "rawIsoTime": "2026-11-06T17:00:00+00:00",
-      "time": "0 - 2 (Halftime)",
-      "rawMinute": 45,
+      "time": "0 - 2 (46')",
+      "rawMinute": 46,
       "homeGoals": 0,
       "awayGoals": 2,
-      "isLive": true
-    },
-    {
-      "matchId": 4882511,
-      "tournamentEn": "🇲🇦 Moroccan Botola Pro",
-      "tournamentAr": "🇲🇦 البطولة الاحترافية المغربية",
-      "matchEn": "Hassania Agadir v Renaissance Berkane",
-      "matchAr": "حسنية أكادير × نهضة بركان",
-      "rawIsoTime": "2026-11-06T17:00:00+00:00",
-      "time": "1 - 1 (46')",
-      "rawMinute": 46,
-      "homeGoals": 1,
-      "awayGoals": 1,
       "isLive": true
     },
     {
@@ -509,14 +496,27 @@
       "isLive": true
     },
     {
+      "matchId": 4882511,
+      "tournamentEn": "🇲🇦 Moroccan Botola Pro",
+      "tournamentAr": "🇲🇦 البطولة الاحترافية المغربية",
+      "matchEn": "Hassania Agadir v Renaissance Berkane",
+      "matchAr": "حسنية أكادير × نهضة بركان",
+      "rawIsoTime": "2026-11-06T17:00:00+00:00",
+      "time": "1 - 1 (47')",
+      "rawMinute": 47,
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "isLive": true
+    },
+    {
       "matchId": 4633201,
       "tournamentEn": "🇦🇷 Argentinean Liga Profesional - Clausura",
       "tournamentAr": "🇦🇷 الدوري الأرجنتيني للمحترفين - كلاوسورا",
       "matchEn": "Barracas Central v Racing",
       "matchAr": "باراكاس سنترال × راسينغ",
       "rawIsoTime": "2026-11-06T18:00:00+00:00",
-      "time": "0 - 0 (4')",
-      "rawMinute": 4,
+      "time": "0 - 0 (5')",
+      "rawMinute": 5,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -528,8 +528,8 @@
       "matchEn": "Hammarby v IF Elfsborg",
       "matchAr": "هاماربي × إلفسبورغ",
       "rawIsoTime": "2026-11-06T18:00:00+00:00",
-      "time": "0 - 0 (1')",
-      "rawMinute": 1,
+      "time": "0 - 0 (2')",
+      "rawMinute": 2,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -541,8 +541,8 @@
       "matchEn": "Silkeborg IF v Lyngby Boldklub",
       "matchAr": "سيلكيبورغ × لينغبي بولدكلوب",
       "rawIsoTime": "2026-11-06T18:00:00+00:00",
-      "time": "0 - 0 (5')",
-      "rawMinute": 5,
+      "time": "0 - 0 (6')",
+      "rawMinute": 6,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -554,8 +554,8 @@
       "matchEn": "Zamalek v Misr Insurance",
       "matchAr": "الزمالك × مصر للتأمين",
       "rawIsoTime": "2026-11-06T18:00:00+00:00",
-      "time": "0 - 0 (5')",
-      "rawMinute": 5,
+      "time": "0 - 0 (6')",
+      "rawMinute": 6,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
