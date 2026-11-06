@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794008053568,
+  "timestamp": 1794008121707,
   "matches": [
     {
       "matchId": 4742008,
@@ -151,8 +151,8 @@
       "matchEn": "Vitoria v Fluminense",
       "matchAr": "فيتوريا × فلومينينسي",
       "rawIsoTime": "2026-11-06T23:00:00+00:00",
-      "time": "0 - 1 (34')",
-      "rawMinute": 34,
+      "time": "0 - 1 (35')",
+      "rawMinute": 35,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -645,8 +645,8 @@
       "matchEn": "Independiente v Deportivo Riestra",
       "matchAr": "إنديبندينتي × ديبورتيفو ريسترا",
       "rawIsoTime": "2026-11-06T22:15:00+00:00",
-      "time": "1 - 0 (55')",
-      "rawMinute": 55,
+      "time": "1 - 0 (57')",
+      "rawMinute": 57,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -658,8 +658,8 @@
       "matchEn": "Union de Santa Fe v Velez Sarsfield",
       "matchAr": "يونيون سانتا في × فيليز سارسفيلد",
       "rawIsoTime": "2026-11-06T22:15:00+00:00",
-      "time": "2 - 0 (56')",
-      "rawMinute": 56,
+      "time": "2 - 0 (57')",
+      "rawMinute": 57,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -671,8 +671,8 @@
       "matchEn": "San Lorenzo v Platense",
       "matchAr": "سان لورينزو × بلاتينسي",
       "rawIsoTime": "2026-11-06T22:15:00+00:00",
-      "time": "0 - 2 (56')",
-      "rawMinute": 56,
+      "time": "0 - 2 (57')",
+      "rawMinute": 57,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
