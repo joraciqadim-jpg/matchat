@@ -1,4 +1,196 @@
 {
+  "Polissya": {
+    "en": "Polissya",
+    "ar": "بوليسيا"
+  },
+  "Veres Rivne": {
+    "en": "Veres Rivne",
+    "ar": "فيريس ريفني"
+  },
+  "Ukraine Premier League": {
+    "en": "Ukraine Premier League",
+    "ar": "الدوري الأوكراني الممتاز"
+  },
+  "Obolon Kyiv": {
+    "en": "Obolon Kyiv",
+    "ar": "أوبولون كييف"
+  },
+  "Livyi Bereh": {
+    "en": "Livyi Bereh",
+    "ar": "ليفي بيريه"
+  },
+  "Al Nawaeir": {
+    "en": "Al Nawaeir",
+    "ar": "النواعير"
+  },
+  "Al Taliya Hama": {
+    "en": "Al Taliya Hama",
+    "ar": "الطليعة حماة"
+  },
+  "Syrian Premier League": {
+    "en": "Syrian Premier League",
+    "ar": "الدوري السوري الممتاز"
+  },
+  "Hurriya Aleppo": {
+    "en": "Hurriya Aleppo",
+    "ar": "الحرية حلب"
+  },
+  "Al Shorta Damascus": {
+    "en": "Al Shorta Damascus",
+    "ar": "الشرطة دمشق"
+  },
+  "Qamislo Sport": {
+    "en": "Qamislo Sport",
+    "ar": "قامشلو سبورت"
+  },
+  "Hottin": {
+    "en": "Hottin",
+    "ar": "حطين"
+  },
+  "Al Wahda Damascus": {
+    "en": "Al Wahda Damascus",
+    "ar": "الوحدة دمشق"
+  },
+  "Al Ittihad Aleppo": {
+    "en": "Al Ittihad Aleppo",
+    "ar": "الاتحاد حلب"
+  },
+  "Al Suwaiq": {
+    "en": "Al Suwaiq",
+    "ar": "السويق"
+  },
+  "Nizwa Club": {
+    "en": "Nizwa",
+    "ar": "نزوى"
+  },
+  "Oman Professional League": {
+    "en": "Omani Professional League",
+    "ar": "الدوري العُماني للمحترفين"
+  },
+  "Goa": {
+    "en": "Goa",
+    "ar": "غوا"
+  },
+  "Bengaluru FC": {
+    "en": "Bengaluru",
+    "ar": "بنغالورو"
+  },
+  "Al Jazeera": {
+    "en": "Al Jazeera",
+    "ar": "الجزيرة"
+  },
+  "Al Ramtha": {
+    "en": "Al Ramtha",
+    "ar": "الرمثا"
+  },
+  "Jordan Pro League": {
+    "en": "Jordanian Pro League",
+    "ar": "الدوري الأردني للمحترفين"
+  },
+  "Fahaheel SC": {
+    "en": "Fahaheel",
+    "ar": "الفحيحيل"
+  },
+  "Sulaibikhat": {
+    "en": "Sulaibikhat",
+    "ar": "الصليبخات"
+  },
+  "Kuwait Premier Division": {
+    "en": "Kuwaiti Premier Division",
+    "ar": "الدوري الكويتي الممتاز"
+  },
+  "Tishreen SC": {
+    "en": "Tishreen",
+    "ar": "تشرين"
+  },
+  "Damascus Al Ahli Club": {
+    "en": "Damascus Al Ahli",
+    "ar": "الأهلي الدمشقي"
+  },
+  "Al Buqa'a": {
+    "en": "Al Buqa'a",
+    "ar": "البقعة"
+  },
+  "Al Wehdat": {
+    "en": "Al Wehdat",
+    "ar": "الوحدات"
+  },
+  "Al Shabab": {
+    "en": "Al Shabab",
+    "ar": "الشباب"
+  },
+  "Tadamon": {
+    "en": "Tadamon",
+    "ar": "التضامن"
+  },
+  "Motor Lublin": {
+    "en": "Motor Lublin",
+    "ar": "موتور لوبلين"
+  },
+  "Wisla Plock": {
+    "en": "Wisla Plock",
+    "ar": "فيسوا بلوك"
+  },
+  "Poland Ekstraklasa": {
+    "en": "Poland Ekstraklasa",
+    "ar": "الدوري البولندي الممتاز"
+  },
+  "Al Ahli Tripoli": {
+    "en": "Al Ahli Tripoli",
+    "ar": "الأهلي طرابلس"
+  },
+  "Al Shomooa SC": {
+    "en": "Al Shomooa",
+    "ar": "الشموع"
+  },
+  "Libya Premier League - Group Stage": {
+    "en": "Libyan Premier League - Group Stage",
+    "ar": "الدوري الليبي الممتاز - دور المجموعات"
+  },
+  "Hammarby": {
+    "en": "Hammarby",
+    "ar": "هاماربي"
+  },
+  "IF Elfsborg": {
+    "en": "IF Elfsborg",
+    "ar": "إلفسبورغ"
+  },
+  "Sweden Allsvenskan": {
+    "en": "Sweden Allsvenskan",
+    "ar": "الدوري السويدي الممتاز"
+  },
+  "Silkeborg IF": {
+    "en": "Silkeborg IF",
+    "ar": "سيلكيبورغ"
+  },
+  "Lyngby Boldklub": {
+    "en": "Lyngby Boldklub",
+    "ar": "لينغبي بولدكلوب"
+  },
+  "Denmark Superliga": {
+    "en": "Denmark Superliga",
+    "ar": "الدوري الدنماركي الممتاز"
+  },
+  "SK Rapid Vienna": {
+    "en": "SK Rapid Vienna",
+    "ar": "رابيد فيينا"
+  },
+  "Wolfsberger AC": {
+    "en": "Wolfsberger",
+    "ar": "فولفسبيرغر"
+  },
+  "Austria Bundesliga": {
+    "en": "Austria Bundesliga",
+    "ar": "الدوري النمساوي الممتاز"
+  },
+  "Wisla Krakow": {
+    "en": "Wisla Krakow",
+    "ar": "فيسوا كراكوف"
+  },
+  "Cracovia Krakow": {
+    "en": "Cracovia Krakow",
+    "ar": "كراكوفيا كراكوف"
+  },
   "Al-Adalah": {
     "en": "Al-Adalah",
     "ar": "العدالة"
