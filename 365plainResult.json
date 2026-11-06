@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793994373786,
+  "timestamp": 1793994431272,
   "matches": [
     {
       "matchId": 4742008,
@@ -34,8 +34,8 @@
       "matchEn": "Hamburger SV v Borussia Mönchengladbach",
       "matchAr": "هامبورغ × بوروسيا مونشنغلادباخ",
       "rawIsoTime": "2026-11-06T19:30:00+00:00",
-      "time": "1 - 0 (17')",
-      "rawMinute": 17,
+      "time": "1 - 0 (18')",
+      "rawMinute": 18,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -47,8 +47,8 @@
       "matchEn": "Toulouse v Strasbourg",
       "matchAr": "تولوز × ستراسبورغ",
       "rawIsoTime": "2026-11-06T19:45:00+00:00",
-      "time": "0 - 0 (1')",
-      "rawMinute": 1,
+      "time": "0 - 0 (2')",
+      "rawMinute": 2,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -86,8 +86,8 @@
       "matchEn": "Jong Willem II Tilburg v Zwolle",
       "matchAr": "يونغ فيليم 2 تيلبورغ × زفوله",
       "rawIsoTime": "2026-11-06T19:00:00+00:00",
-      "time": "1 - 1 (45')",
-      "rawMinute": 45,
+      "time": "1 - 1 (45+1')",
+      "rawMinute": 46,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -515,8 +515,8 @@
       "matchEn": "Barracas Central v Racing",
       "matchAr": "باراكاس سنترال × راسينغ",
       "rawIsoTime": "2026-11-06T18:00:00+00:00",
-      "time": "2 - 0 (84')",
-      "rawMinute": 84,
+      "time": "2 - 0 (85')",
+      "rawMinute": 85,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -528,8 +528,8 @@
       "matchEn": "Hammarby v IF Elfsborg",
       "matchAr": "هاماربي × إلفسبورغ",
       "rawIsoTime": "2026-11-06T18:00:00+00:00",
-      "time": "1 - 0 (47')",
-      "rawMinute": 47,
+      "time": "1 - 0 (48')",
+      "rawMinute": 48,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -541,8 +541,8 @@
       "matchEn": "Silkeborg IF v Lyngby Boldklub",
       "matchAr": "سيلكيبورغ × لينغبي بولدكلوب",
       "rawIsoTime": "2026-11-06T18:00:00+00:00",
-      "time": "1 - 0 (90')",
-      "rawMinute": 90,
+      "time": "1 - 0 (90+1')",
+      "rawMinute": 91,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -554,8 +554,8 @@
       "matchEn": "Zamalek v Misr Insurance",
       "matchAr": "الزمالك × مصر للتأمين",
       "rawIsoTime": "2026-11-06T18:00:00+00:00",
-      "time": "2 - 2 (84')",
-      "rawMinute": 84,
+      "time": "2 - 2 (85')",
+      "rawMinute": 85,
       "homeGoals": 2,
       "awayGoals": 2,
       "isLive": true
@@ -567,8 +567,8 @@
       "matchEn": "SK Rapid Vienna v Wolfsberger",
       "matchAr": "رابيد فيينا × فولفسبيرغر",
       "rawIsoTime": "2026-11-06T18:30:00+00:00",
-      "time": "2 - 0 (54')",
-      "rawMinute": 54,
+      "time": "2 - 0 (55')",
+      "rawMinute": 55,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -580,8 +580,8 @@
       "matchEn": "Wisla Krakow v Cracovia Krakow",
       "matchAr": "فيسوا كراكوف × كراكوفيا كراكوف",
       "rawIsoTime": "2026-11-06T19:30:00+00:00",
-      "time": "1 - 0 (17')",
-      "rawMinute": 17,
+      "time": "1 - 0 (18')",
+      "rawMinute": 18,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -593,8 +593,8 @@
       "matchEn": "Bristol Rovers v Cambridge United",
       "matchAr": "بريستول روفرز × كامبريدج يونايتد",
       "rawIsoTime": "2026-11-06T19:30:00+00:00",
-      "time": "0 - 0 (16')",
-      "rawMinute": 16,
+      "time": "0 - 0 (17')",
+      "rawMinute": 17,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -606,11 +606,11 @@
       "matchEn": "Standard de Liège v SK Beveren",
       "matchAr": "ستاندار دو لييج × إس كيه بيفيرين",
       "rawIsoTime": "2026-11-06T19:45:00+00:00",
-      "time": "19:45",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4882324,
@@ -620,7 +620,7 @@
       "matchAr": "أوكسفورد سيتي × ليستر سيتي",
       "rawIsoTime": "2026-11-06T19:45:00+00:00",
       "time": "0 - 0 (1')",
-      "rawMinute": 1,
+      "rawMinute": 2,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
