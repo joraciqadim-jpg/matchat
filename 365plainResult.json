@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793968832832,
+  "timestamp": 1793968870755,
   "matches": [
     {
       "matchId": 4742008,
@@ -190,8 +190,8 @@
       "matchEn": "Obolon Kyiv v Livyi Bereh",
       "matchAr": "أوبولون كييف × ليفي بيريه",
       "rawIsoTime": "2026-11-06T11:00:00+00:00",
-      "time": "1 - 1 (79')",
-      "rawMinute": 79,
+      "time": "1 - 1 (80')",
+      "rawMinute": 80,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -216,9 +216,9 @@
       "matchEn": "Hurriya Aleppo v Al Shorta",
       "matchAr": "الحرية حلب × الشرطة",
       "rawIsoTime": "2026-11-06T12:00:00+00:00",
-      "time": "1 - 1 (33')",
+      "time": "2 - 1 (33')",
       "rawMinute": 33,
-      "homeGoals": 1,
+      "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
     },
