@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794000921187,
+  "timestamp": 1794000973849,
   "matches": [
     {
       "matchId": 4742008,
@@ -9,7 +9,7 @@
       "matchAr": "إيفرتون × كوفنتري سيتي",
       "rawIsoTime": "2026-11-06T20:00:00+00:00",
       "time": "2 - 1 (77')",
-      "rawMinute": 77,
+      "rawMinute": 78,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -21,8 +21,8 @@
       "matchEn": "Sevilla v Deportivo Alavés",
       "matchAr": "إشبيلية × ديبورتيفو ألافيس",
       "rawIsoTime": "2026-11-06T20:00:00+00:00",
-      "time": "0 - 0 (73')",
-      "rawMinute": 73,
+      "time": "0 - 0 (74')",
+      "rawMinute": 74,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -47,8 +47,8 @@
       "matchEn": "Toulouse v Strasbourg",
       "matchAr": "تولوز × ستراسبورغ",
       "rawIsoTime": "2026-11-06T19:45:00+00:00",
-      "time": "3 - 1 (90+1')",
-      "rawMinute": 91,
+      "time": "3 - 1 (90+2')",
+      "rawMinute": 92,
       "homeGoals": 3,
       "awayGoals": 1,
       "isLive": true
@@ -606,8 +606,8 @@
       "matchEn": "Standard de Liège v SK Beveren",
       "matchAr": "ستاندار دو لييج × إس كيه بيفيرين",
       "rawIsoTime": "2026-11-06T19:45:00+00:00",
-      "time": "3 - 0 (90')",
-      "rawMinute": 90,
+      "time": "3 - 0 (90+1')",
+      "rawMinute": 91,
       "homeGoals": 3,
       "awayGoals": 0,
       "isLive": true
@@ -619,8 +619,8 @@
       "matchEn": "Oxford City v Leicester City",
       "matchAr": "أوكسفورد سيتي × ليستر سيتي",
       "rawIsoTime": "2026-11-06T19:45:00+00:00",
-      "time": "2 - 4 (90+2')",
-      "rawMinute": 92,
+      "time": "2 - 4 (90+3')",
+      "rawMinute": 93,
       "homeGoals": 2,
       "awayGoals": 4,
       "isLive": true
@@ -632,8 +632,8 @@
       "matchEn": "Union Touarga v Amal Tiznit",
       "matchAr": "اتحاد تواركة × أمل تزنيت",
       "rawIsoTime": "2026-11-06T20:00:00+00:00",
-      "time": "0 - 2 (75')",
-      "rawMinute": 75,
+      "time": "0 - 2 (76')",
+      "rawMinute": 76,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
