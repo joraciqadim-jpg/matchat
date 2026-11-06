@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793994031293,
+  "timestamp": 1793994070775,
   "matches": [
     {
       "matchId": 4742008,
@@ -34,8 +34,8 @@
       "matchEn": "Hamburger SV v Borussia Mönchengladbach",
       "matchAr": "هامبورغ × بوروسيا مونشنغلادباخ",
       "rawIsoTime": "2026-11-06T19:30:00+00:00",
-      "time": "1 - 0 (11')",
-      "rawMinute": 11,
+      "time": "1 - 0 (12')",
+      "rawMinute": 12,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -86,8 +86,8 @@
       "matchEn": "Jong Willem II Tilburg v Zwolle",
       "matchAr": "يونغ فيليم 2 تيلبورغ × زفوله",
       "rawIsoTime": "2026-11-06T19:00:00+00:00",
-      "time": "1 - 1 (39')",
-      "rawMinute": 39,
+      "time": "1 - 1 (40')",
+      "rawMinute": 40,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -483,19 +483,6 @@
       "isLive": false
     },
     {
-      "matchId": 4883333,
-      "tournamentEn": "🇱🇾 Libyan League - Group Stage",
-      "tournamentAr": "🇱🇾 الدوري الليبي - دور المجموعات",
-      "matchEn": "Al Ahli Tripoli v Al Shomooa",
-      "matchAr": "أهلي طرابلس × الشموع",
-      "rawIsoTime": "2026-11-06T17:00:00+00:00",
-      "time": "3 - 0 (done)",
-      "rawMinute": 90,
-      "homeGoals": 3,
-      "awayGoals": 0,
-      "isLive": false
-    },
-    {
       "matchId": 4882511,
       "tournamentEn": "🇲🇦 Moroccan Botola Pro",
       "tournamentAr": "🇲🇦 البطولة الاحترافية المغربية",
@@ -509,14 +496,27 @@
       "isLive": false
     },
     {
+      "matchId": 4883333,
+      "tournamentEn": "🇱🇾 Libyan League - Group Stage",
+      "tournamentAr": "🇱🇾 الدوري الليبي - دور المجموعات",
+      "matchEn": "Al Ahli Tripoli v Al Shomooa",
+      "matchAr": "أهلي طرابلس × الشموع",
+      "rawIsoTime": "2026-11-06T17:00:00+00:00",
+      "time": "3 - 0 (done)",
+      "rawMinute": 90,
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "isLive": false
+    },
+    {
       "matchId": 4633201,
       "tournamentEn": "🇦🇷 Argentinean Liga Profesional - Clausura",
       "tournamentAr": "🇦🇷 الدوري الأرجنتيني للمحترفين - كلاوسورا",
       "matchEn": "Barracas Central v Racing",
       "matchAr": "باراكاس سنترال × راسينغ",
       "rawIsoTime": "2026-11-06T18:00:00+00:00",
-      "time": "2 - 0 (78')",
-      "rawMinute": 78,
+      "time": "2 - 0 (79')",
+      "rawMinute": 79,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -541,8 +541,8 @@
       "matchEn": "Silkeborg IF v Lyngby Boldklub",
       "matchAr": "سيلكيبورغ × لينغبي بولدكلوب",
       "rawIsoTime": "2026-11-06T18:00:00+00:00",
-      "time": "1 - 0 (84')",
-      "rawMinute": 84,
+      "time": "1 - 0 (85')",
+      "rawMinute": 85,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -554,7 +554,7 @@
       "matchEn": "Zamalek v Misr Insurance",
       "matchAr": "الزمالك × مصر للتأمين",
       "rawIsoTime": "2026-11-06T18:00:00+00:00",
-      "time": "2 - 1 (78')",
+      "time": "2 - 1 (79')",
       "rawMinute": 79,
       "homeGoals": 2,
       "awayGoals": 1,
@@ -567,8 +567,8 @@
       "matchEn": "SK Rapid Vienna v Wolfsberger",
       "matchAr": "رابيد فيينا × فولفسبيرغر",
       "rawIsoTime": "2026-11-06T18:30:00+00:00",
-      "time": "2 - 0 (48')",
-      "rawMinute": 48,
+      "time": "2 - 0 (49')",
+      "rawMinute": 49,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -580,8 +580,8 @@
       "matchEn": "Wisla Krakow v Cracovia Krakow",
       "matchAr": "فيسوا كراكوف × كراكوفيا كراكوف",
       "rawIsoTime": "2026-11-06T19:30:00+00:00",
-      "time": "1 - 0 (11')",
-      "rawMinute": 11,
+      "time": "1 - 0 (12')",
+      "rawMinute": 12,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -593,8 +593,8 @@
       "matchEn": "Bristol Rovers v Cambridge United",
       "matchAr": "بريستول روفرز × كامبريدج يونايتد",
       "rawIsoTime": "2026-11-06T19:30:00+00:00",
-      "time": "0 - 0 (10')",
-      "rawMinute": 10,
+      "time": "0 - 0 (11')",
+      "rawMinute": 11,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
