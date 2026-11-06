@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793999732323,
+  "timestamp": 1793999773759,
   "matches": [
     {
       "matchId": 4742008,
@@ -9,7 +9,7 @@
       "matchAr": "إيفرتون × كوفنتري سيتي",
       "rawIsoTime": "2026-11-06T20:00:00+00:00",
       "time": "1 - 1 (57')",
-      "rawMinute": 57,
+      "rawMinute": 58,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -21,8 +21,8 @@
       "matchEn": "Sevilla v Deportivo Alavés",
       "matchAr": "إشبيلية × ديبورتيفو ألافيس",
       "rawIsoTime": "2026-11-06T20:00:00+00:00",
-      "time": "0 - 0 (53')",
-      "rawMinute": 53,
+      "time": "0 - 0 (54')",
+      "rawMinute": 54,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -35,7 +35,7 @@
       "matchAr": "هامبورغ × بوروسيا مونشنغلادباخ",
       "rawIsoTime": "2026-11-06T19:30:00+00:00",
       "time": "3 - 1 (88')",
-      "rawMinute": 88,
+      "rawMinute": 89,
       "homeGoals": 3,
       "awayGoals": 1,
       "isLive": true
@@ -47,8 +47,8 @@
       "matchEn": "Toulouse v Strasbourg",
       "matchAr": "تولوز × ستراسبورغ",
       "rawIsoTime": "2026-11-06T19:45:00+00:00",
-      "time": "2 - 1 (71')",
-      "rawMinute": 71,
+      "time": "2 - 1 (72')",
+      "rawMinute": 72,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -73,8 +73,8 @@
       "matchEn": "Famalicão v Arouca",
       "matchAr": "فاماليكاو × أروكا",
       "rawIsoTime": "2026-11-06T20:45:00+00:00",
-      "time": "0 - 0 (31')",
-      "rawMinute": 31,
+      "time": "0 - 0 (32')",
+      "rawMinute": 32,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -483,19 +483,6 @@
       "isLive": false
     },
     {
-      "matchId": 4883333,
-      "tournamentEn": "🇱🇾 Libyan League - Group Stage",
-      "tournamentAr": "🇱🇾 الدوري الليبي - دور المجموعات",
-      "matchEn": "Al Ahli Tripoli v Al Shomooa",
-      "matchAr": "أهلي طرابلس × الشموع",
-      "rawIsoTime": "2026-11-06T17:00:00+00:00",
-      "time": "3 - 0 (done)",
-      "rawMinute": 90,
-      "homeGoals": 3,
-      "awayGoals": 0,
-      "isLive": false
-    },
-    {
       "matchId": 4882511,
       "tournamentEn": "🇲🇦 Moroccan Botola Pro",
       "tournamentAr": "🇲🇦 البطولة الاحترافية المغربية",
@@ -506,6 +493,19 @@
       "rawMinute": 90,
       "homeGoals": 2,
       "awayGoals": 2,
+      "isLive": false
+    },
+    {
+      "matchId": 4883333,
+      "tournamentEn": "🇱🇾 Libyan League - Group Stage",
+      "tournamentAr": "🇱🇾 الدوري الليبي - دور المجموعات",
+      "matchEn": "Al Ahli Tripoli v Al Shomooa",
+      "matchAr": "أهلي طرابلس × الشموع",
+      "rawIsoTime": "2026-11-06T17:00:00+00:00",
+      "time": "3 - 0 (done)",
+      "rawMinute": 90,
+      "homeGoals": 3,
+      "awayGoals": 0,
       "isLive": false
     },
     {
@@ -593,8 +593,8 @@
       "matchEn": "Bristol Rovers v Cambridge United",
       "matchAr": "بريستول روفرز × كامبريدج يونايتد",
       "rawIsoTime": "2026-11-06T19:30:00+00:00",
-      "time": "2 - 0 (84')",
-      "rawMinute": 84,
+      "time": "2 - 0 (85')",
+      "rawMinute": 85,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -606,7 +606,7 @@
       "matchEn": "Standard de Liège v SK Beveren",
       "matchAr": "ستاندار دو لييج × إس كيه بيفيرين",
       "rawIsoTime": "2026-11-06T19:45:00+00:00",
-      "time": "3 - 0 (70')",
+      "time": "3 - 0 (71')",
       "rawMinute": 71,
       "homeGoals": 3,
       "awayGoals": 0,
@@ -619,7 +619,7 @@
       "matchEn": "Oxford City v Leicester City",
       "matchAr": "أوكسفورد سيتي × ليستر سيتي",
       "rawIsoTime": "2026-11-06T19:45:00+00:00",
-      "time": "2 - 3 (72')",
+      "time": "2 - 3 (73')",
       "rawMinute": 73,
       "homeGoals": 2,
       "awayGoals": 3,
