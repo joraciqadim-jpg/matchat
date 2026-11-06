@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793986390921,
+  "timestamp": 1793986454428,
   "matches": [
     {
       "matchId": 4742008,
@@ -385,8 +385,8 @@
       "matchEn": "Al Wahda v Al Ittihad Aleppo",
       "matchAr": "الوحدة × الاتحاد حلب",
       "rawIsoTime": "2026-11-06T16:00:00+00:00",
-      "time": "2 - 2 (70')",
-      "rawMinute": 71,
+      "time": "2 - 2 (71')",
+      "rawMinute": 72,
       "homeGoals": 2,
       "awayGoals": 2,
       "isLive": true
@@ -398,8 +398,8 @@
       "matchEn": "Lokomotiv Moskva v Rubin Kazan",
       "matchAr": "لوكوموتيف موسكو × روبين كازان",
       "rawIsoTime": "2026-11-06T16:30:00+00:00",
-      "time": "0 - 0 (Halftime)",
-      "rawMinute": 45,
+      "time": "0 - 0 (46')",
+      "rawMinute": 46,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -424,8 +424,8 @@
       "matchEn": "Newroz v Karbalaa",
       "matchAr": "نوروز × كربلاء",
       "rawIsoTime": "2026-11-06T16:30:00+00:00",
-      "time": "0 - 0 (47')",
-      "rawMinute": 48,
+      "time": "0 - 0 (49')",
+      "rawMinute": 49,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -437,8 +437,8 @@
       "matchEn": "Al Buqa'a v Al Wehdat",
       "matchAr": "البقعة × الوحدات",
       "rawIsoTime": "2026-11-06T16:30:00+00:00",
-      "time": "0 - 0 (Halftime)",
-      "rawMinute": 45,
+      "time": "0 - 0 (46')",
+      "rawMinute": 46,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -463,10 +463,10 @@
       "matchEn": "Motor Lublin v Wisla Plock",
       "matchAr": "موتور لوبلين × فيسوا بلوك",
       "rawIsoTime": "2026-11-06T17:00:00+00:00",
-      "time": "1 - 0 (30')",
-      "rawMinute": 31,
+      "time": "1 - 1 (31')",
+      "rawMinute": 32,
       "homeGoals": 1,
-      "awayGoals": 0,
+      "awayGoals": 1,
       "isLive": true
     },
     {
@@ -476,8 +476,8 @@
       "matchEn": "Gaziantep F.K. v Kasimpasa",
       "matchAr": "غازي عنتاب إف كيه × قاسم باشا",
       "rawIsoTime": "2026-11-06T17:00:00+00:00",
-      "time": "0 - 2 (34')",
-      "rawMinute": 34,
+      "time": "0 - 2 (35')",
+      "rawMinute": 35,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -489,8 +489,8 @@
       "matchEn": "Al Ahli Tripoli v Al Shomooa",
       "matchAr": "أهلي طرابلس × الشموع",
       "rawIsoTime": "2026-11-06T17:00:00+00:00",
-      "time": "1 - 0 (28')",
-      "rawMinute": 28,
+      "time": "1 - 0 (29')",
+      "rawMinute": 29,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -502,8 +502,8 @@
       "matchEn": "Hassania Agadir v Renaissance Berkane",
       "matchAr": "حسنية أكادير × نهضة بركان",
       "rawIsoTime": "2026-11-06T17:00:00+00:00",
-      "time": "1 - 1 (32')",
-      "rawMinute": 32,
+      "time": "1 - 1 (33')",
+      "rawMinute": 33,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
