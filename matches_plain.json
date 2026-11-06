@@ -7,6 +7,7 @@
       "matchAr": "إيفرتون × كوفنتري سيتي",
       "time": "20:00",
       "channels": [
+        "📺 DAZN 1 POR [Hispasat 30W 12399 H 27500]",
         "📺 Bein Sport 1 [Nilesat 7.0W 11013 H 27500]",
         "📺 Sport 1 [Amos 4.0W 11259 V 30000]",
         "📺 Match 4 [Thor 0.8W 12188 V 28000]",
@@ -21,6 +22,7 @@
         "📺 Arena Premium 1 SLO [Eutelsat 16.0E 11678 V 30000]",
         "📺 Arena Premium 3 SRB [Eutelsat 16.0E 10721 H 30000]",
         "📺 Arena Sport 1 HRV [Eutelsat 16.0E 11678 H 30000]",
+        "📺 Super Sport 3 [Eutelsat 16.0E 10845 H 30000]",
         "📺 DAZN 1 SPA [Astra 19.2E 10788 V 22000]",
         "📺 Sky Sport Premier League [Astra 19.2E 12032 H 27500]",
         "📺 Bein Sport 1 [Badrsat 26.0E 10810 H 27500]",
@@ -28,7 +30,7 @@
         "📺 Sky Sports Main Event [Astra 28.2E 12012 V 27500]",
         "📺 SuperSport Máximo 2 [Eutelsat 36.0E 12169 H 27500]",
         "📺 SuperSport Premier League [Eutelsat 36.0E 12169 H 27500]",
-        "📺 Futbol TV [NSS 57.0E 11610 H 20200]",
+        "📺 Star 4K [SES 108.3E 12281 H 44920]",
         "📺 Star Sports Select 1 [SES 108.3E 11483 H 29000]"
       ]
     },
@@ -93,7 +95,6 @@
       "time": "19:45",
       "channels": [
         "📺 Sport TV 2 [Hispasat 30W 12360 H 27500]",
-        "📺 Bein Sport 2 [Nilesat 7.0W 11013 H 27500]",
         "📺 Kanal 1 Sport [Thor 0.8W 12456 V 30000]",
         "📺 Sport 1 CZE [Thor 0.8W 12149 V 30000]",
         "📺 Premier Sport 1 [Thor 0.8W 12245 H 30000]",
@@ -113,7 +114,6 @@
         "📺 DAZN 2 GER [Astra 19.2E 12382 H 27500]",
         "📺 Kanal 1 Sport [Eutelsat 23.5E 12012 V 29900]",
         "📺 Sport 1 CZE [Eutelsat 23.5E 12070 H 27500]",
-        "📺 Bein Sport 2 [Badrsat 26.0E 10810 H 27500]",
         "📺 SuperSport Football [Eutelsat 36.0E 12341 V 27500]",
         "📺 SuperSport Máximo 1 [Eutelsat 36.0E 12169 H 27500]",
         "📺 Prima Sport 3 [Hellas-Sat 39.0E 12251 V 30000]",
@@ -130,14 +130,11 @@
       "channels": [
         "📺 Bein Sport 2 [Nilesat 7.0W 11013 H 27500]",
         "📺 Nova Sport 5 CZ [Thor 0.8W 11747 H 30000]",
-        "📺 V Sport + [Thor 0.8W 10809 V 25000]",
-        "📺 Canal+ Sport [Hotbird 13.0E 11278 V 27500]",
-        "📺 Canal+ Sport 3 [Hotbird 13.0E 11449 H 27500]",
         "📺 Diema Sport 3 [Hotbird 13.0E 12673 V 30000]",
         "📺 Magenta Sport 3 [Hotbird 13.0E 12169 H 30000]",
-        "📺 Arena Sport 4 HRV [Eutelsat 16.0E 11554 V 30000]",
         "📺 Arena Sport 4 SRB [Eutelsat 16.0E 11366 V 30000]",
         "📺 Arena Sport 6 HRV [Eutelsat 16.0E 11554 V 30000]",
+        "📺 Super Sport 4 [Eutelsat 16.0E 10845 H 30000]",
         "📺 Sky Sport Mix Ger [Astra 19.2E 11758 H 27500]",
         "📺 Nova Sport 5 CZ [Eutelsat 23.5E 11973 V 29900]",
         "📺 Bein Sport 2 [Badrsat 26.0E 10810 H 27500]",
@@ -167,14 +164,42 @@
         "📺 Nova Sport 2 CZ [Thor 0.8W 12380 V 30000]",
         "📺 V Sport 3 [Thor 0.8W 10809 V 25000]",
         "📺 ERT 2 [Hotbird 13.0E 12169 H 30000]",
-        "📺 Nova Sports 2 [Hotbird 13.0E 12130 H 30000]",
         "📺 TVP Sport [Hotbird 13.0E 11449 H 27500]",
         "📺 Arena Sport 5 HRV [Eutelsat 16.0E 11678 H 30000]",
         "📺 Arena Sport 6 SRB [Eutelsat 16.0E 10721 H 30000]",
-        "📺 Arena Sport 7 HRV [Eutelsat 16.0E 11595 H 30000]",
-        "📺 Nova Sport 2 CZ [Astra 23.5E 11973 V 29900]",
+        "📺 Nova Sport 2 CZ [Eutelsat 23.5E 11973 V 29900]",
         "📺 TNT Sports 1 [Astra 28.2E 11582 H 23000]",
         "📺 ERT 2 [Hellas-Sat 39.0E 12242 H 13381]"
+      ]
+    },
+    {
+      "tournamentEn": "🇸🇦 Saudi Arabia Division 1",
+      "tournamentAr": "🇸🇦 الدوري السعودي - الدرجة 1",
+      "matchEn": "Al Zulfi v Jeddah",
+      "matchAr": "الزلفي × جدة",
+      "time": "14:55",
+      "channels": [
+        "📺 Thmanyah 3 [Badrsat 26.0E 11919 H 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "🇶🇦 Qatar Stars League",
+      "tournamentAr": "🇶🇦 الدوري القطري",
+      "matchEn": "Al-Arabi v Al Ahli",
+      "matchAr": "العربي × الأهلي",
+      "time": "14:15",
+      "channels": [
+        "📺 Al Kass Five [Badrsat 26.0E 10770 H 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "🇶🇦 Qatar Stars League",
+      "tournamentAr": "🇶🇦 الدوري القطري",
+      "matchEn": "Al Wakrah v Al Shahaniya",
+      "matchAr": "الوكرة × الشحانية",
+      "time": "16:30",
+      "channels": [
+        "📺 Al Kass Six [Badrsat 26.0E 10770 H 27500]"
       ]
     },
     {
