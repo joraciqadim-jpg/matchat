@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794000253679,
+  "timestamp": 1794000321317,
   "matches": [
     {
       "matchId": 4742008,
@@ -8,8 +8,8 @@
       "matchEn": "Everton v Coventry City",
       "matchAr": "إيفرتون × كوفنتري سيتي",
       "rawIsoTime": "2026-11-06T20:00:00+00:00",
-      "time": "2 - 1 (65')",
-      "rawMinute": 66,
+      "time": "2 - 1 (67')",
+      "rawMinute": 67,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -21,8 +21,8 @@
       "matchEn": "Sevilla v Deportivo Alavés",
       "matchAr": "إشبيلية × ديبورتيفو ألافيس",
       "rawIsoTime": "2026-11-06T20:00:00+00:00",
-      "time": "0 - 0 (62')",
-      "rawMinute": 62,
+      "time": "0 - 0 (63')",
+      "rawMinute": 63,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -47,8 +47,8 @@
       "matchEn": "Toulouse v Strasbourg",
       "matchAr": "تولوز × ستراسبورغ",
       "rawIsoTime": "2026-11-06T19:45:00+00:00",
-      "time": "3 - 1 (80')",
-      "rawMinute": 80,
+      "time": "3 - 1 (81')",
+      "rawMinute": 81,
       "homeGoals": 3,
       "awayGoals": 1,
       "isLive": true
@@ -60,8 +60,8 @@
       "matchEn": "Venezia v Udinese",
       "matchAr": "فينيتسيا × أودينيزي",
       "rawIsoTime": "2026-11-06T19:45:00+00:00",
-      "time": "2 - 1 (81')",
-      "rawMinute": 81,
+      "time": "2 - 1 (83')",
+      "rawMinute": 83,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -73,8 +73,8 @@
       "matchEn": "Famalicão v Arouca",
       "matchAr": "فاماليكاو × أروكا",
       "rawIsoTime": "2026-11-06T20:45:00+00:00",
-      "time": "0 - 0 (40')",
-      "rawMinute": 40,
+      "time": "0 - 0 (41')",
+      "rawMinute": 41,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -580,8 +580,8 @@
       "matchEn": "Wisla Krakow v Cracovia Krakow",
       "matchAr": "فيسوا كراكوف × كراكوفيا كراكوف",
       "rawIsoTime": "2026-11-06T19:30:00+00:00",
-      "time": "2 - 1 (85')",
-      "rawMinute": 85,
+      "time": "2 - 1 (87')",
+      "rawMinute": 87,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -593,8 +593,8 @@
       "matchEn": "Bristol Rovers v Cambridge United",
       "matchAr": "بريستول روفرز × كامبريدج يونايتد",
       "rawIsoTime": "2026-11-06T19:30:00+00:00",
-      "time": "2 - 0 (90+3')",
-      "rawMinute": 93,
+      "time": "2 - 0 (90+4')",
+      "rawMinute": 94,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -606,8 +606,8 @@
       "matchEn": "Standard de Liège v SK Beveren",
       "matchAr": "ستاندار دو لييج × إس كيه بيفيرين",
       "rawIsoTime": "2026-11-06T19:45:00+00:00",
-      "time": "3 - 0 (79')",
-      "rawMinute": 79,
+      "time": "3 - 0 (80')",
+      "rawMinute": 80,
       "homeGoals": 3,
       "awayGoals": 0,
       "isLive": true
@@ -619,10 +619,10 @@
       "matchEn": "Oxford City v Leicester City",
       "matchAr": "أوكسفورد سيتي × ليستر سيتي",
       "rawIsoTime": "2026-11-06T19:45:00+00:00",
-      "time": "2 - 3 (81')",
-      "rawMinute": 81,
+      "time": "2 - 4 (82')",
+      "rawMinute": 82,
       "homeGoals": 2,
-      "awayGoals": 3,
+      "awayGoals": 4,
       "isLive": true
     },
     {
@@ -632,8 +632,8 @@
       "matchEn": "Union Touarga v Amal Tiznit",
       "matchAr": "اتحاد تواركة × أمل تزنيت",
       "rawIsoTime": "2026-11-06T20:00:00+00:00",
-      "time": "0 - 1 (64')",
-      "rawMinute": 64,
+      "time": "0 - 1 (65')",
+      "rawMinute": 65,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
