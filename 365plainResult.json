@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793976334726,
+  "timestamp": 1793976374180,
   "matches": [
     {
       "matchId": 4742008,
@@ -294,8 +294,8 @@
       "matchEn": "Al Jazeera v Al Ramtha",
       "matchAr": "الجزيرة × الرمثا",
       "rawIsoTime": "2026-11-06T14:00:00+00:00",
-      "time": "0 - 0 (45')",
-      "rawMinute": 45,
+      "time": "0 - 0 (45+1')",
+      "rawMinute": 46,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -308,7 +308,7 @@
       "matchAr": "العربي × الأهلي",
       "rawIsoTime": "2026-11-06T14:15:00+00:00",
       "time": "0 - 0 (31')",
-      "rawMinute": 31,
+      "rawMinute": 32,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -320,8 +320,8 @@
       "matchEn": "Fahaheel v Sulaibikhat",
       "matchAr": "الفحيحيل × الصليبخات",
       "rawIsoTime": "2026-11-06T14:25:00+00:00",
-      "time": "0 - 0 (19')",
-      "rawMinute": 19,
+      "time": "0 - 0 (20')",
+      "rawMinute": 20,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
