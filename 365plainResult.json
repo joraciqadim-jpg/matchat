@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793930512980,
+  "timestamp": 1793930603500,
   "matches": [
     {
       "matchId": 4742008,
@@ -67,6 +67,19 @@
       "isLive": false
     },
     {
+      "matchId": 4757199,
+      "tournamentEn": "🇵🇹 Portuguese Liga 1",
+      "tournamentAr": "🇵🇹 الدوري البرتغالي",
+      "matchEn": "Famalicão v Arouca",
+      "matchAr": "فاماليكاو × أروكا",
+      "rawIsoTime": "2026-11-06T20:45:00+00:00",
+      "time": "20:45",
+      "rawMinute": 1,
+      "homeGoals": -1,
+      "awayGoals": -1,
+      "isLive": false
+    },
+    {
       "matchId": 4734536,
       "tournamentEn": "🇳🇱 Dutch Eredivisie",
       "tournamentAr": "🇳🇱 الدوري الهولندي",
@@ -125,8 +138,8 @@
       "matchEn": "Cruzeiro v Bahia",
       "matchAr": "كروزيرو × باهيا",
       "rawIsoTime": "2026-11-06T00:30:00+00:00",
-      "time": "2 - 1 (70')",
-      "rawMinute": 70,
+      "time": "2 - 1 (72')",
+      "rawMinute": 72,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -620,19 +633,6 @@
       "matchAr": "اتحاد تواركة × أمل تزنيت",
       "rawIsoTime": "2026-11-06T20:00:00+00:00",
       "time": "20:00",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
-    },
-    {
-      "matchId": 4757199,
-      "tournamentEn": "🇵🇹 Portuguese League",
-      "tournamentAr": "🇵🇹 الدوري البرتغالي",
-      "matchEn": "Famalicão v Arouca",
-      "matchAr": "فاماليكاو × أروكا",
-      "rawIsoTime": "2026-11-06T20:45:00+00:00",
-      "time": "20:45",
       "rawMinute": 1,
       "homeGoals": -1,
       "awayGoals": -1,
