@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793969132618,
+  "timestamp": 1793969173092,
   "matches": [
     {
       "matchId": 4742008,
@@ -203,8 +203,8 @@
       "matchEn": "Obolon Kyiv v Livyi Bereh",
       "matchAr": "أوبولون كييف × ليفي بيريه",
       "rawIsoTime": "2026-11-06T11:00:00+00:00",
-      "time": "1 - 1 (84')",
-      "rawMinute": 84,
+      "time": "1 - 1 (85')",
+      "rawMinute": 85,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -229,7 +229,7 @@
       "matchEn": "Hurriya Aleppo v Al Shorta",
       "matchAr": "الحرية حلب × الشرطة",
       "rawIsoTime": "2026-11-06T12:00:00+00:00",
-      "time": "2 - 1 (37')",
+      "time": "2 - 1 (38')",
       "rawMinute": 38,
       "homeGoals": 2,
       "awayGoals": 1,
@@ -242,8 +242,8 @@
       "matchEn": "Smouha v El Minya",
       "matchAr": "سموحة × المنيا",
       "rawIsoTime": "2026-11-06T12:30:00+00:00",
-      "time": "0 - 0 (14')",
-      "rawMinute": 14,
+      "time": "0 - 0 (15')",
+      "rawMinute": 15,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -255,11 +255,11 @@
       "matchEn": "Al Suwaiq v Nizwa",
       "matchAr": "السويق × نزوى",
       "rawIsoTime": "2026-11-06T12:45:00+00:00",
-      "time": "12:45",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4806859,
