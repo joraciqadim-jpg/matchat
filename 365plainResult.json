@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794007521410,
+  "timestamp": 1794007573332,
   "matches": [
     {
       "matchId": 4742008,
@@ -151,8 +151,8 @@
       "matchEn": "Vitoria v Fluminense",
       "matchAr": "فيتوريا × فلومينينسي",
       "rawIsoTime": "2026-11-06T23:00:00+00:00",
-      "time": "0 - 1 (25')",
-      "rawMinute": 25,
+      "time": "0 - 1 (26')",
+      "rawMinute": 26,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -658,8 +658,8 @@
       "matchEn": "Union de Santa Fe v Velez Sarsfield",
       "matchAr": "يونيون سانتا في × فيليز سارسفيلد",
       "rawIsoTime": "2026-11-06T22:15:00+00:00",
-      "time": "2 - 0 (47')",
-      "rawMinute": 47,
+      "time": "2 - 0 (48')",
+      "rawMinute": 48,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -671,8 +671,8 @@
       "matchEn": "San Lorenzo v Platense",
       "matchAr": "سان لورينزو × بلاتينسي",
       "rawIsoTime": "2026-11-06T22:15:00+00:00",
-      "time": "0 - 1 (47')",
-      "rawMinute": 47,
+      "time": "0 - 1 (48')",
+      "rawMinute": 48,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
