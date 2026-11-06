@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793974832741,
+  "timestamp": 1793974870593,
   "matches": [
     {
       "matchId": 4742008,
@@ -242,8 +242,8 @@
       "matchEn": "Smouha v El Minya",
       "matchAr": "سموحة × المنيا",
       "rawIsoTime": "2026-11-06T12:30:00+00:00",
-      "time": "2 - 0 (84')",
-      "rawMinute": 84,
+      "time": "2 - 0 (85')",
+      "rawMinute": 85,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -256,7 +256,7 @@
       "matchAr": "السويق × نزوى",
       "rawIsoTime": "2026-11-06T12:45:00+00:00",
       "time": "0 - 1 (74')",
-      "rawMinute": 74,
+      "rawMinute": 75,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -308,7 +308,7 @@
       "matchAr": "العربي × الأهلي",
       "rawIsoTime": "2026-11-06T14:15:00+00:00",
       "time": "0 - 0 (6')",
-      "rawMinute": 6,
+      "rawMinute": 7,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
