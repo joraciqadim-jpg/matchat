@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793986253833,
+  "timestamp": 1793986271071,
   "matches": [
     {
       "matchId": 4742008,
@@ -386,7 +386,7 @@
       "matchAr": "الوحدة × الاتحاد حلب",
       "rawIsoTime": "2026-11-06T16:00:00+00:00",
       "time": "1 - 2 (68')",
-      "rawMinute": 68,
+      "rawMinute": 69,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -464,7 +464,7 @@
       "matchAr": "موتور لوبلين × فيسوا بلوك",
       "rawIsoTime": "2026-11-06T17:00:00+00:00",
       "time": "1 - 0 (28')",
-      "rawMinute": 28,
+      "rawMinute": 29,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -476,8 +476,8 @@
       "matchEn": "Gaziantep F.K. v Kasimpasa",
       "matchAr": "غازي عنتاب إف كيه × قاسم باشا",
       "rawIsoTime": "2026-11-06T17:00:00+00:00",
-      "time": "0 - 2 (31')",
-      "rawMinute": 31,
+      "time": "0 - 2 (32')",
+      "rawMinute": 32,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -502,8 +502,8 @@
       "matchEn": "Hassania Agadir v Renaissance Berkane",
       "matchAr": "حسنية أكادير × نهضة بركان",
       "rawIsoTime": "2026-11-06T17:00:00+00:00",
-      "time": "0 - 1 (29')",
-      "rawMinute": 29,
+      "time": "0 - 1 (30')",
+      "rawMinute": 30,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
