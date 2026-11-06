@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793984230486,
+  "timestamp": 1793984294013,
   "matches": [
     {
       "matchId": 4742008,
@@ -372,8 +372,8 @@
       "matchEn": "Al Karma v Naft Maysan",
       "matchAr": "الكرمة × نفط ميسان",
       "rawIsoTime": "2026-11-06T15:30:00+00:00",
-      "time": "1 - 0 (65')",
-      "rawMinute": 65,
+      "time": "1 - 0 (66')",
+      "rawMinute": 66,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -385,10 +385,23 @@
       "matchEn": "Al Wahda v Al Ittihad Aleppo",
       "matchAr": "الوحدة × الاتحاد حلب",
       "rawIsoTime": "2026-11-06T16:00:00+00:00",
-      "time": "0 - 2 (45+7')",
-      "rawMinute": 52,
+      "time": "0 - 2 (45+8')",
+      "rawMinute": 53,
       "homeGoals": 0,
       "awayGoals": 2,
+      "isLive": true
+    },
+    {
+      "matchId": 4806867,
+      "tournamentEn": "🇮🇶 Iraqi League",
+      "tournamentAr": "🇮🇶 الدوري العراقي",
+      "matchEn": "Newroz v Karbalaa",
+      "matchAr": "نوروز × كربلاء",
+      "rawIsoTime": "2026-11-06T16:30:00+00:00",
+      "time": "0 - 0 (30')",
+      "rawMinute": 30,
+      "homeGoals": 0,
+      "awayGoals": 0,
       "isLive": true
     },
     {
@@ -398,8 +411,8 @@
       "matchEn": "Lokomotiv Moskva v Rubin Kazan",
       "matchAr": "لوكوموتيف موسكو × روبين كازان",
       "rawIsoTime": "2026-11-06T16:30:00+00:00",
-      "time": "0 - 0 (27')",
-      "rawMinute": 27,
+      "time": "0 - 0 (28')",
+      "rawMinute": 28,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -410,19 +423,6 @@
       "tournamentAr": "🇶🇦 دوري نجوم قطر",
       "matchEn": "Al Wakrah v Shahaniya",
       "matchAr": "الوكرة × الشحانية",
-      "rawIsoTime": "2026-11-06T16:30:00+00:00",
-      "time": "0 - 0 (28')",
-      "rawMinute": 28,
-      "homeGoals": 0,
-      "awayGoals": 0,
-      "isLive": true
-    },
-    {
-      "matchId": 4806867,
-      "tournamentEn": "🇮🇶 Iraqi League",
-      "tournamentAr": "🇮🇶 الدوري العراقي",
-      "matchEn": "Newroz v Karbalaa",
-      "matchAr": "نوروز × كربلاء",
       "rawIsoTime": "2026-11-06T16:30:00+00:00",
       "time": "0 - 0 (29')",
       "rawMinute": 29,
@@ -437,8 +437,8 @@
       "matchEn": "Al Buqa'a v Al Wehdat",
       "matchAr": "البقعة × الوحدات",
       "rawIsoTime": "2026-11-06T16:30:00+00:00",
-      "time": "0 - 0 (28')",
-      "rawMinute": 28,
+      "time": "0 - 0 (29')",
+      "rawMinute": 29,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -450,8 +450,8 @@
       "matchEn": "Al Shabab v Tadamon",
       "matchAr": "الشباب × التضامن",
       "rawIsoTime": "2026-11-06T16:40:00+00:00",
-      "time": "0 - 0 (17')",
-      "rawMinute": 17,
+      "time": "0 - 0 (18')",
+      "rawMinute": 18,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
