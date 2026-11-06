@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794006853587,
+  "timestamp": 1794006931657,
   "matches": [
     {
       "matchId": 4742008,
@@ -151,10 +151,10 @@
       "matchEn": "Vitoria v Fluminense",
       "matchAr": "فيتوريا × فلومينينسي",
       "rawIsoTime": "2026-11-06T23:00:00+00:00",
-      "time": "0 - 0 (14')",
-      "rawMinute": 14,
+      "time": "0 - 1 (15')",
+      "rawMinute": 15,
       "homeGoals": 0,
-      "awayGoals": 0,
+      "awayGoals": 1,
       "isLive": true
     },
     {
