@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793968574303,
+  "timestamp": 1793968631462,
   "matches": [
     {
       "matchId": 4742008,
@@ -190,8 +190,8 @@
       "matchEn": "Obolon Kyiv v Livyi Bereh",
       "matchAr": "أوبولون كييف × ليفي بيريه",
       "rawIsoTime": "2026-11-06T11:00:00+00:00",
-      "time": "1 - 1 (75')",
-      "rawMinute": 75,
+      "time": "1 - 1 (76')",
+      "rawMinute": 76,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -203,10 +203,10 @@
       "matchEn": "Al Nawaeir v Al Taliya Hama",
       "matchAr": "النواعير × الطليعة حماة",
       "rawIsoTime": "2026-11-06T12:00:00+00:00",
-      "time": "0 - 0 (38')",
-      "rawMinute": 38,
+      "time": "0 - 1 (39')",
+      "rawMinute": 39,
       "homeGoals": 0,
-      "awayGoals": 0,
+      "awayGoals": 1,
       "isLive": true
     },
     {
@@ -216,8 +216,8 @@
       "matchEn": "Hurriya Aleppo v Al Shorta",
       "matchAr": "الحرية حلب × الشرطة",
       "rawIsoTime": "2026-11-06T12:00:00+00:00",
-      "time": "1 - 1 (28')",
-      "rawMinute": 28,
+      "time": "1 - 1 (29')",
+      "rawMinute": 29,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
