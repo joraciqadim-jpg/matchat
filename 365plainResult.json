@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793984722065,
+  "timestamp": 1793984775365,
   "matches": [
     {
       "matchId": 4742008,
@@ -340,6 +340,19 @@
       "isLive": false
     },
     {
+      "matchId": 4885548,
+      "tournamentEn": "🏆 Egyptian Cup - Round of 32",
+      "tournamentAr": "🏆 كأس مصر - دور الـ32",
+      "matchEn": "ENPPI v Proxy Work",
+      "matchAr": "إنبي × بروكسي وورك",
+      "rawIsoTime": "2026-11-06T15:00:00+00:00",
+      "time": "3 - 2 (done)",
+      "rawMinute": 90,
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "isLive": false
+    },
+    {
       "matchId": 4889302,
       "tournamentEn": "🇸🇾 Syrian League",
       "tournamentAr": "🇸🇾 الدوري السوري",
@@ -353,27 +366,14 @@
       "isLive": false
     },
     {
-      "matchId": 4885548,
-      "tournamentEn": "🏆 Egyptian Cup - Round of 32",
-      "tournamentAr": "🏆 كأس مصر - دور الـ32",
-      "matchEn": "ENPPI v Proxy Work",
-      "matchAr": "إنبي × بروكسي وورك",
-      "rawIsoTime": "2026-11-06T15:00:00+00:00",
-      "time": "3 - 2 (90')",
-      "rawMinute": 90,
-      "homeGoals": 3,
-      "awayGoals": 2,
-      "isLive": true
-    },
-    {
       "matchId": 4806858,
       "tournamentEn": "🇮🇶 Iraqi League",
       "tournamentAr": "🇮🇶 الدوري العراقي",
       "matchEn": "Al Karma v Naft Maysan",
       "matchAr": "الكرمة × نفط ميسان",
       "rawIsoTime": "2026-11-06T15:30:00+00:00",
-      "time": "2 - 1 (73')",
-      "rawMinute": 73,
+      "time": "2 - 1 (74')",
+      "rawMinute": 74,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -411,8 +411,8 @@
       "matchEn": "Al Wakrah v Shahaniya",
       "matchAr": "الوكرة × الشحانية",
       "rawIsoTime": "2026-11-06T16:30:00+00:00",
-      "time": "0 - 0 (36')",
-      "rawMinute": 36,
+      "time": "0 - 0 (37')",
+      "rawMinute": 37,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -424,8 +424,8 @@
       "matchEn": "Newroz v Karbalaa",
       "matchAr": "نوروز × كربلاء",
       "rawIsoTime": "2026-11-06T16:30:00+00:00",
-      "time": "0 - 0 (37')",
-      "rawMinute": 37,
+      "time": "0 - 0 (38')",
+      "rawMinute": 38,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -437,8 +437,8 @@
       "matchEn": "Al Buqa'a v Al Wehdat",
       "matchAr": "البقعة × الوحدات",
       "rawIsoTime": "2026-11-06T16:30:00+00:00",
-      "time": "0 - 0 (36')",
-      "rawMinute": 36,
+      "time": "0 - 0 (37')",
+      "rawMinute": 37,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -450,9 +450,9 @@
       "matchEn": "Al Shabab v Tadamon",
       "matchAr": "الشباب × التضامن",
       "rawIsoTime": "2026-11-06T16:40:00+00:00",
-      "time": "0 - 0 (25')",
-      "rawMinute": 25,
-      "homeGoals": 0,
+      "time": "1 - 0 (26')",
+      "rawMinute": 26,
+      "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
     },
@@ -464,7 +464,7 @@
       "matchAr": "موتور لوبلين × فيسوا بلوك",
       "rawIsoTime": "2026-11-06T17:00:00+00:00",
       "time": "1 - 0 (3')",
-      "rawMinute": 3,
+      "rawMinute": 4,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -476,8 +476,8 @@
       "matchEn": "Gaziantep F.K. v Kasimpasa",
       "matchAr": "غازي عنتاب إف كيه × قاسم باشا",
       "rawIsoTime": "2026-11-06T17:00:00+00:00",
-      "time": "0 - 1 (6')",
-      "rawMinute": 6,
+      "time": "0 - 1 (7')",
+      "rawMinute": 7,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -489,11 +489,11 @@
       "matchEn": "Al Ahli Tripoli v Al Shomooa",
       "matchAr": "أهلي طرابلس × الشموع",
       "rawIsoTime": "2026-11-06T17:00:00+00:00",
-      "time": "17:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4882511,
@@ -502,8 +502,8 @@
       "matchEn": "Hassania Agadir v Renaissance Berkane",
       "matchAr": "حسنية أكادير × نهضة بركان",
       "rawIsoTime": "2026-11-06T17:00:00+00:00",
-      "time": "0 - 0 (4')",
-      "rawMinute": 4,
+      "time": "0 - 0 (5')",
+      "rawMinute": 5,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
