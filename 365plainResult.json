@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793971851137,
+  "timestamp": 1793971871113,
   "matches": [
     {
       "matchId": 4742008,
@@ -255,8 +255,8 @@
       "matchEn": "Al Suwaiq v Nizwa",
       "matchAr": "السويق × نزوى",
       "rawIsoTime": "2026-11-06T12:45:00+00:00",
-      "time": "0 - 1 (45')",
-      "rawMinute": 45,
+      "time": "0 - 1 (45+1')",
+      "rawMinute": 46,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
