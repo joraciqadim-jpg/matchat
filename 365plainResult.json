@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793973321248,
+  "timestamp": 1793973373656,
   "matches": [
     {
       "matchId": 4742008,
@@ -216,7 +216,7 @@
       "matchEn": "Al Nawaeir v Al Taliya Hama",
       "matchAr": "النواعير × الطليعة حماة",
       "rawIsoTime": "2026-11-06T12:00:00+00:00",
-      "time": "0 - 1 (90+4')",
+      "time": "0 - 1 (90+5')",
       "rawMinute": 95,
       "homeGoals": 0,
       "awayGoals": 1,
@@ -229,8 +229,8 @@
       "matchEn": "Hurriya Aleppo v Al Shorta",
       "matchAr": "الحرية حلب × الشرطة",
       "rawIsoTime": "2026-11-06T12:00:00+00:00",
-      "time": "2 - 1 (87')",
-      "rawMinute": 87,
+      "time": "2 - 1 (88')",
+      "rawMinute": 88,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -242,8 +242,8 @@
       "matchEn": "Smouha v El Minya",
       "matchAr": "سموحة × المنيا",
       "rawIsoTime": "2026-11-06T12:30:00+00:00",
-      "time": "2 - 0 (59')",
-      "rawMinute": 59,
+      "time": "2 - 0 (60')",
+      "rawMinute": 60,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -255,8 +255,8 @@
       "matchEn": "Al Suwaiq v Nizwa",
       "matchAr": "السويق × نزوى",
       "rawIsoTime": "2026-11-06T12:45:00+00:00",
-      "time": "0 - 1 (49')",
-      "rawMinute": 49,
+      "time": "0 - 1 (50')",
+      "rawMinute": 50,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -268,8 +268,8 @@
       "matchEn": "Al Talaba v Gas Alshimal",
       "matchAr": "الطلبة × غاز الشمال",
       "rawIsoTime": "2026-11-06T13:45:00+00:00",
-      "time": "0 - 0 (8')",
-      "rawMinute": 8,
+      "time": "0 - 0 (9')",
+      "rawMinute": 9,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -392,6 +392,19 @@
       "isLive": false
     },
     {
+      "matchId": 4806867,
+      "tournamentEn": "🇮🇶 Iraqi League",
+      "tournamentAr": "🇮🇶 الدوري العراقي",
+      "matchEn": "Newroz v Karbalaa",
+      "matchAr": "نوروز × كربلاء",
+      "rawIsoTime": "2026-11-06T16:30:00+00:00",
+      "time": "16:30",
+      "rawMinute": 1,
+      "homeGoals": -1,
+      "awayGoals": -1,
+      "isLive": false
+    },
+    {
       "matchId": 4745491,
       "tournamentEn": "🇷🇺 Russian Premier Liga",
       "tournamentAr": "🇷🇺 الدوري الروسي",
@@ -410,19 +423,6 @@
       "tournamentAr": "🇶🇦 دوري نجوم قطر",
       "matchEn": "Al Wakrah v Shahaniya",
       "matchAr": "الوكرة × الشحانية",
-      "rawIsoTime": "2026-11-06T16:30:00+00:00",
-      "time": "16:30",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
-    },
-    {
-      "matchId": 4806867,
-      "tournamentEn": "🇮🇶 Iraqi League",
-      "tournamentAr": "🇮🇶 الدوري العراقي",
-      "matchEn": "Newroz v Karbalaa",
-      "matchAr": "نوروز × كربلاء",
       "rawIsoTime": "2026-11-06T16:30:00+00:00",
       "time": "16:30",
       "rawMinute": 1,
