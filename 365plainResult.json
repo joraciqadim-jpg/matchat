@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793987430882,
+  "timestamp": 1793987470952,
   "matches": [
     {
       "matchId": 4742008,
@@ -386,7 +386,7 @@
       "matchAr": "الوحدة × الاتحاد حلب",
       "rawIsoTime": "2026-11-06T16:00:00+00:00",
       "time": "2 - 2 (88')",
-      "rawMinute": 88,
+      "rawMinute": 89,
       "homeGoals": 2,
       "awayGoals": 2,
       "isLive": true
@@ -411,8 +411,8 @@
       "matchEn": "Al Wakrah v Shahaniya",
       "matchAr": "الوكرة × الشحانية",
       "rawIsoTime": "2026-11-06T16:30:00+00:00",
-      "time": "0 - 1 (59')",
-      "rawMinute": 59,
+      "time": "0 - 1 (60')",
+      "rawMinute": 60,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -424,8 +424,8 @@
       "matchEn": "Newroz v Karbalaa",
       "matchAr": "نوروز × كربلاء",
       "rawIsoTime": "2026-11-06T16:30:00+00:00",
-      "time": "0 - 0 (65')",
-      "rawMinute": 65,
+      "time": "0 - 0 (66')",
+      "rawMinute": 66,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -437,8 +437,8 @@
       "matchEn": "Al Buqa'a v Al Wehdat",
       "matchAr": "البقعة × الوحدات",
       "rawIsoTime": "2026-11-06T16:30:00+00:00",
-      "time": "0 - 1 (62')",
-      "rawMinute": 62,
+      "time": "0 - 1 (63')",
+      "rawMinute": 63,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -450,8 +450,8 @@
       "matchEn": "Al Shabab v Tadamon",
       "matchAr": "الشباب × التضامن",
       "rawIsoTime": "2026-11-06T16:40:00+00:00",
-      "time": "1 - 0 (51')",
-      "rawMinute": 51,
+      "time": "1 - 0 (52')",
+      "rawMinute": 52,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
