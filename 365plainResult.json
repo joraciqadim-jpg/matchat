@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793992870909,
+  "timestamp": 1793992934807,
   "matches": [
     {
       "matchId": 4742008,
@@ -86,8 +86,8 @@
       "matchEn": "Jong Willem II Tilburg v Zwolle",
       "matchAr": "يونغ فيليم 2 تيلبورغ × زفوله",
       "rawIsoTime": "2026-11-06T19:00:00+00:00",
-      "time": "1 - 1 (20')",
-      "rawMinute": 20,
+      "time": "1 - 1 (21')",
+      "rawMinute": 21,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -515,8 +515,8 @@
       "matchEn": "Barracas Central v Racing",
       "matchAr": "باراكاس سنترال × راسينغ",
       "rawIsoTime": "2026-11-06T18:00:00+00:00",
-      "time": "1 - 0 (59')",
-      "rawMinute": 59,
+      "time": "1 - 0 (60')",
+      "rawMinute": 60,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -528,9 +528,9 @@
       "matchEn": "Hammarby v IF Elfsborg",
       "matchAr": "هاماربي × إلفسبورغ",
       "rawIsoTime": "2026-11-06T18:00:00+00:00",
-      "time": "0 - 0 (39')",
-      "rawMinute": 39,
-      "homeGoals": 0,
+      "time": "1 - 0 (40')",
+      "rawMinute": 40,
+      "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
     },
@@ -541,8 +541,8 @@
       "matchEn": "Silkeborg IF v Lyngby Boldklub",
       "matchAr": "سيلكيبورغ × لينغبي بولدكلوب",
       "rawIsoTime": "2026-11-06T18:00:00+00:00",
-      "time": "1 - 0 (65')",
-      "rawMinute": 65,
+      "time": "1 - 0 (66')",
+      "rawMinute": 66,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -554,8 +554,8 @@
       "matchEn": "Zamalek v Misr Insurance",
       "matchAr": "الزمالك × مصر للتأمين",
       "rawIsoTime": "2026-11-06T18:00:00+00:00",
-      "time": "2 - 1 (59')",
-      "rawMinute": 59,
+      "time": "2 - 1 (60')",
+      "rawMinute": 60,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
