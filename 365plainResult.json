@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793971391235,
+  "timestamp": 1793971453975,
   "matches": [
     {
       "matchId": 4742008,
@@ -158,6 +158,19 @@
       "isLive": false
     },
     {
+      "matchId": 4748657,
+      "tournamentEn": "🇺🇦 Ukrainian League",
+      "tournamentAr": "🇺🇦 الدوري الأوكراني",
+      "matchEn": "Polissya v Veres Rivne",
+      "matchAr": "بوليسيا × فيريس ريفني",
+      "rawIsoTime": "2026-11-06T11:00:00+00:00",
+      "time": "2 - 0 (done)",
+      "rawMinute": 90,
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "isLive": false
+    },
+    {
       "matchId": 4748664,
       "tournamentEn": "🇺🇦 Ukrainian League",
       "tournamentAr": "🇺🇦 الدوري الأوكراني",
@@ -197,27 +210,14 @@
       "isLive": false
     },
     {
-      "matchId": 4748657,
-      "tournamentEn": "🇺🇦 Ukrainian League",
-      "tournamentAr": "🇺🇦 الدوري الأوكراني",
-      "matchEn": "Polissya v Veres Rivne",
-      "matchAr": "بوليسيا × فيريس ريفني",
-      "rawIsoTime": "2026-11-06T11:00:00+00:00",
-      "time": "2 - 0 (90+4')",
-      "rawMinute": 94,
-      "homeGoals": 2,
-      "awayGoals": 0,
-      "isLive": true
-    },
-    {
       "matchId": 4889303,
       "tournamentEn": "🇸🇾 Syrian League",
       "tournamentAr": "🇸🇾 الدوري السوري",
       "matchEn": "Al Nawaeir v Al Taliya Hama",
       "matchAr": "النواعير × الطليعة حماة",
       "rawIsoTime": "2026-11-06T12:00:00+00:00",
-      "time": "0 - 1 (62')",
-      "rawMinute": 62,
+      "time": "0 - 1 (63')",
+      "rawMinute": 63,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -229,8 +229,8 @@
       "matchEn": "Hurriya Aleppo v Al Shorta",
       "matchAr": "الحرية حلب × الشرطة",
       "rawIsoTime": "2026-11-06T12:00:00+00:00",
-      "time": "2 - 1 (55')",
-      "rawMinute": 55,
+      "time": "2 - 1 (56')",
+      "rawMinute": 56,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -255,8 +255,8 @@
       "matchEn": "Al Suwaiq v Nizwa",
       "matchAr": "السويق × نزوى",
       "rawIsoTime": "2026-11-06T12:45:00+00:00",
-      "time": "0 - 1 (38')",
-      "rawMinute": 38,
+      "time": "0 - 1 (39')",
+      "rawMinute": 39,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
