@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793930603500,
+  "timestamp": 1793955655178,
   "matches": [
     {
       "matchId": 4742008,
@@ -138,11 +138,11 @@
       "matchEn": "Cruzeiro v Bahia",
       "matchAr": "كروزيرو × باهيا",
       "rawIsoTime": "2026-11-06T00:30:00+00:00",
-      "time": "2 - 1 (72')",
-      "rawMinute": 72,
-      "homeGoals": 2,
-      "awayGoals": 1,
-      "isLive": true
+      "time": "3 - 2 (done)",
+      "rawMinute": 90,
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "isLive": false
     },
     {
       "matchId": 4632607,
