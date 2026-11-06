@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794002173816,
+  "timestamp": 1794002230768,
   "matches": [
     {
       "matchId": 4742008,
@@ -21,11 +21,11 @@
       "matchEn": "Sevilla v Deportivo Alavés",
       "matchAr": "إشبيلية × ديبورتيفو ألافيس",
       "rawIsoTime": "2026-11-06T20:00:00+00:00",
-      "time": "0 - 0 (90+4')",
-      "rawMinute": 94,
+      "time": "0 - 0 (done)",
+      "rawMinute": 90,
       "homeGoals": 0,
       "awayGoals": 0,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4755347,
@@ -73,8 +73,8 @@
       "matchEn": "Famalicão v Arouca",
       "matchAr": "فاماليكاو × أروكا",
       "rawIsoTime": "2026-11-06T20:45:00+00:00",
-      "time": "0 - 0 (55')",
-      "rawMinute": 55,
+      "time": "0 - 0 (56')",
+      "rawMinute": 56,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
