@@ -47,62 +47,6 @@
     "en": "Brazilian Brasileirão Série A",
     "ar": "الدوري البرازيلي الدرجة الأولى"
   },
-  "Polissya": {
-    "en": "Polissya",
-    "ar": "بوليسيا"
-  },
-  "Veres Rivne": {
-    "en": "Veres Rivne",
-    "ar": "فيريس ريفني"
-  },
-  "Ukraine Premier League": {
-    "en": "Ukraine Premier League",
-    "ar": "الدوري الأوكراني الممتاز"
-  },
-  "Obolon Kyiv": {
-    "en": "Obolon Kyiv",
-    "ar": "أوبولون كييف"
-  },
-  "Livyi Bereh": {
-    "en": "Livyi Bereh",
-    "ar": "ليفyi بيريه"
-  },
-  "Al Nawaeir": {
-    "en": "Al Nawaeir",
-    "ar": "النواعير"
-  },
-  "Al Taliya Hama": {
-    "en": "Al Taliya Hama",
-    "ar": "الطليعة حماة"
-  },
-  "Syrian Premier League": {
-    "en": "Syrian Premier League",
-    "ar": "الدوري السوري الممتاز"
-  },
-  "Hurriya Aleppo": {
-    "en": "Hurriya Aleppo",
-    "ar": "الحرية حلب"
-  },
-  "Al Shorta Damascus": {
-    "en": "Al Shorta Damascus",
-    "ar": "الشرطة دمشق"
-  },
-  "Al Wahda Damascus": {
-    "en": "Al Wahda Damascus",
-    "ar": "الوحدة دمشق"
-  },
-  "Al Ittihad Aleppo": {
-    "en": "Al Ittihad Aleppo",
-    "ar": "الاتحاد حلب"
-  },
-  "Qamislo Sport": {
-    "en": "Qamislo Sport",
-    "ar": "قامشلو الرياضي"
-  },
-  "Hottin": {
-    "en": "Hottin",
-    "ar": "حطين"
-  },
   "Smouha": {
     "en": "Smouha",
     "ar": "سموحة"
@@ -114,18 +58,6 @@
   "Egypt Cup - Round of 32": {
     "en": "Egyptian Cup - Round of 32",
     "ar": "كأس مصر - دور الـ32"
-  },
-  "Al Suwaiq": {
-    "en": "Al Suwaiq",
-    "ar": "السويق"
-  },
-  "Nizwa Club": {
-    "en": "Nizwa",
-    "ar": "نزوى"
-  },
-  "Oman Professional League": {
-    "en": "Omani Professional League",
-    "ar": "دوري المحترفين العماني"
   },
   "Newroz": {
     "en": "Newroz",
@@ -143,26 +75,6 @@
     "en": "Gas Alshimal",
     "ar": "غاز الشمال"
   },
-  "Goa": {
-    "en": "Goa",
-    "ar": "غوا"
-  },
-  "Bengaluru FC": {
-    "en": "Bengaluru",
-    "ar": "بنغالورو"
-  },
-  "Al Jazeera": {
-    "en": "Al Jazeera",
-    "ar": "الجزيرة"
-  },
-  "Al Ramtha": {
-    "en": "Al Ramtha",
-    "ar": "الرمثا"
-  },
-  "Jordan Pro League": {
-    "en": "Jordanian Pro League",
-    "ar": "الدوري الأردني للمحترفين"
-  },
   "Al Arabi Doha": {
     "en": "Al Arabi Doha",
     "ar": "العربي الدوحة"
@@ -174,18 +86,6 @@
   "Qatar Doha Bank Stars League": {
     "en": "Qatari Doha Bank Stars League",
     "ar": "دوري نجوم بنك الدوحة القطري"
-  },
-  "Fahaheel SC": {
-    "en": "Fahaheel",
-    "ar": "الفحيحيل"
-  },
-  "Sulaibikhat": {
-    "en": "Sulaibikhat",
-    "ar": "الصليبخات"
-  },
-  "Kuwait Premier Division": {
-    "en": "Kuwaiti Premier Division",
-    "ar": "الدوري الكويتي الممتاز"
   },
   "Zulfi Club": {
     "en": "Zulfi",
@@ -203,14 +103,6 @@
     "en": "Proxy Work",
     "ar": "بروكسي وورك"
   },
-  "Tishreen SC": {
-    "en": "Tishreen",
-    "ar": "تشرين"
-  },
-  "Damascus Al Ahli Club": {
-    "en": "Damascus Al Ahli",
-    "ar": "أهلي دمشق"
-  },
   "Al Karma": {
     "en": "Al Karma",
     "ar": "الكرمة"
@@ -225,7 +117,7 @@
   },
   "FK Rubin Kazan": {
     "en": "Rubin Kazan",
-    "ar": "روبين قازان"
+    "ar": "روبين كازان"
   },
   "Russia Premier Liga": {
     "en": "Russia Premier Liga",
@@ -239,37 +131,9 @@
     "en": "Shahaniya",
     "ar": "الشحانية"
   },
-  "Al Buqa'a": {
-    "en": "Al Buqa'a",
-    "ar": "البقعة"
-  },
-  "Al Wehdat": {
-    "en": "Al Wehdat",
-    "ar": "الوحدات"
-  },
-  "Al Shabab": {
-    "en": "Al Shabab",
-    "ar": "الشباب"
-  },
-  "Tadamon": {
-    "en": "Tadamon",
-    "ar": "التضامن"
-  },
-  "Motor Lublin": {
-    "en": "Motor Lublin",
-    "ar": "موتور لوبلين"
-  },
-  "Wisla Plock": {
-    "en": "Wisla Plock",
-    "ar": "فيسلا بلوك"
-  },
-  "Poland Ekstraklasa": {
-    "en": "Poland Ekstraklasa",
-    "ar": "الدوري البولندي الممتاز"
-  },
   "Gaziantep F.K.": {
     "en": "Gaziantep F.K.",
-    "ar": "غازي عنتاب"
+    "ar": "غازي عنتاب إف كيه"
   },
   "Kasimpasa": {
     "en": "Kasimpasa",
@@ -278,18 +142,6 @@
   "Turkiye Super Lig": {
     "en": "Turkiye Super Lig",
     "ar": "الدوري التركي الممتاز"
-  },
-  "Al Ahli Tripoli": {
-    "en": "Al Ahli Tripoli",
-    "ar": "الأهلي طرابلس"
-  },
-  "Al Shomooa SC": {
-    "en": "Al Shomooa",
-    "ar": "الشموع"
-  },
-  "Libya Premier League - Group Stage": {
-    "en": "Libyan Premier League - Group Stage",
-    "ar": "الدوري الليبي الممتاز - دور المجموعات"
   },
   "Barracas Central": {
     "en": "Barracas Central",
@@ -301,43 +153,19 @@
   },
   "Argentina Liga Profesional - Clausura": {
     "en": "Argentinean Liga Profesional - Clausura",
-    "ar": "الدوري الأرجنتيني للمحترفين - مرحلة الإياب"
-  },
-  "Hammarby": {
-    "en": "Hammarby",
-    "ar": "هاماربي"
-  },
-  "IF Elfsborg": {
-    "en": "IF Elfsborg",
-    "ar": "إلفسبورغ"
-  },
-  "Sweden Allsvenskan": {
-    "en": "Sweden Allsvenskan",
-    "ar": "الدوري السويدي الممتاز"
-  },
-  "Silkeborg IF": {
-    "en": "Silkeborg IF",
-    "ar": "سيلكيبورغ"
-  },
-  "Lyngby Boldklub": {
-    "en": "Lyngby Boldklub",
-    "ar": "لينغبي"
-  },
-  "Denmark Superliga": {
-    "en": "Denmark Superliga",
-    "ar": "الدوري الدنماركي الممتاز"
+    "ar": "الدوري الأرجنتيني للمحترفين - كلاوسورا"
   },
   "Hassania Union Sport d'Agadir": {
     "en": "Hassania Union Sport d'Agadir",
-    "ar": "حسنية أكادير"
+    "ar": "حسنية اتحاد أكادير"
   },
   "Renaissance Sportive de Berkane": {
     "en": "Renaissance Sportive de Berkane",
-    "ar": "نهضة بركان"
+    "ar": "النهضة الرياضية البركانية"
   },
   "Morocco Botola Pro": {
     "en": "Moroccan Botola Pro",
-    "ar": "البطولة المغربية الاحترافية"
+    "ar": "البطولة الاحترافية المغربية"
   },
   "Zamalek SC": {
     "en": "Zamalek",
@@ -346,18 +174,6 @@
   "Misr Insurance": {
     "en": "Misr Insurance",
     "ar": "مصر للتأمين"
-  },
-  "SK Rapid Vienna": {
-    "en": "SK Rapid Vienna",
-    "ar": "رابيد فيينا"
-  },
-  "Wolfsberger AC": {
-    "en": "Wolfsberger",
-    "ar": "فولفسبيرغر"
-  },
-  "Austria Bundesliga": {
-    "en": "Austria Bundesliga",
-    "ar": "الدوري النمساوي الممتاز"
   },
   "Jong Willem II Tilburg": {
     "en": "Jong Willem II Tilburg",
@@ -371,14 +187,6 @@
     "en": "Dutch Eredivisie",
     "ar": "الدوري الهولندي الممتاز"
   },
-  "Wisla Krakow": {
-    "en": "Wisla Krakow",
-    "ar": "فيسلا كراكوف"
-  },
-  "Cracovia Krakow": {
-    "en": "Cracovia Krakow",
-    "ar": "كراكوفيا كراكوف"
-  },
   "Hamburger SV": {
     "en": "Hamburger SV",
     "ar": "هامبورغ"
@@ -389,7 +197,7 @@
   },
   "Germany Bundesliga": {
     "en": "German Bundesliga",
-    "ar": "الدوري الألماني الممتاز"
+    "ar": "الدوري الألماني"
   },
   "Bristol Rovers FC": {
     "en": "Bristol Rovers",
@@ -409,7 +217,7 @@
   },
   "Udinese Calcio": {
     "en": "Udinese Calcio",
-    "ar": "أودينيزي"
+    "ar": "أودينيزي كالتشيو"
   },
   "Italy Serie A": {
     "en": "Italian Serie A",
@@ -433,7 +241,7 @@
   },
   "SK Beveren": {
     "en": "SK Beveren",
-    "ar": "بيفيرين"
+    "ar": "إس كيه بيفيرين"
   },
   "Belgium Jupiler Pro League": {
     "en": "Belgian Jupiler Pro League",
@@ -473,7 +281,7 @@
   },
   "Union Touarga Sportif": {
     "en": "Union Touarga Sportif",
-    "ar": "الاتحاد التوركي الرياضي"
+    "ar": "الاتحاد التواركي الرياضي"
   },
   "Us Amal Tiznit": {
     "en": "Us Amal Tiznit",
@@ -501,7 +309,7 @@
   },
   "Union de Santa Fe": {
     "en": "Union de Santa Fe",
-    "ar": "أونيون سانتا في"
+    "ar": "يونيون سانتا في"
   },
   "Velez Sarsfield": {
     "en": "Velez Sarsfield",
