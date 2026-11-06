@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793974232991,
+  "timestamp": 1793974270998,
   "matches": [
     {
       "matchId": 4742008,
@@ -229,7 +229,7 @@
       "matchEn": "Hurriya Aleppo v Al Shorta",
       "matchAr": "الحرية حلب × الشرطة",
       "rawIsoTime": "2026-11-06T12:00:00+00:00",
-      "time": "3 - 1 (90+12')",
+      "time": "3 - 1 (90+13')",
       "rawMinute": 103,
       "homeGoals": 3,
       "awayGoals": 1,
@@ -242,8 +242,8 @@
       "matchEn": "Smouha v El Minya",
       "matchAr": "سموحة × المنيا",
       "rawIsoTime": "2026-11-06T12:30:00+00:00",
-      "time": "2 - 0 (74')",
-      "rawMinute": 74,
+      "time": "2 - 0 (75')",
+      "rawMinute": 75,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -255,8 +255,8 @@
       "matchEn": "Al Suwaiq v Nizwa",
       "matchAr": "السويق × نزوى",
       "rawIsoTime": "2026-11-06T12:45:00+00:00",
-      "time": "0 - 1 (64')",
-      "rawMinute": 64,
+      "time": "0 - 1 (65')",
+      "rawMinute": 65,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
