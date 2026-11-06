@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793927788517,
+  "timestamp": 1793928158285,
   "matches": [
     {
       "matchId": 4742008,
@@ -125,9 +125,9 @@
       "matchEn": "Cruzeiro - MG v Bahia",
       "matchAr": "كروزيرو - ميناس جيرايس × باهيا",
       "rawIsoTime": "2026-11-06T00:30:00+00:00",
-      "time": "0 - 1 (45+2')",
-      "rawMinute": 47,
-      "homeGoals": 0,
+      "time": "1 - 1 (Halftime)",
+      "rawMinute": 45,
+      "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
     },
@@ -189,19 +189,6 @@
       "tournamentAr": "🇸🇾 الدوري السوري الممتاز",
       "matchEn": "Qamislo Sport v Hottin",
       "matchAr": "قامشلو سبورت × حطين",
-      "rawIsoTime": "2026-11-06T12:00:00+00:00",
-      "time": "12:00",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
-    },
-    {
-      "matchId": 4889305,
-      "tournamentEn": "🇸🇾 Syrian Premier League",
-      "tournamentAr": "🇸🇾 الدوري السوري الممتاز",
-      "matchEn": "Al Wahda Damascus v Al Ittihad Aleppo",
-      "matchAr": "الوحدة دمشق × الاتحاد حلب",
       "rawIsoTime": "2026-11-06T12:00:00+00:00",
       "time": "12:00",
       "rawMinute": 1,
@@ -360,6 +347,19 @@
       "matchAr": "الكرمة × نفط ميسان",
       "rawIsoTime": "2026-11-06T15:30:00+00:00",
       "time": "15:30",
+      "rawMinute": 1,
+      "homeGoals": -1,
+      "awayGoals": -1,
+      "isLive": false
+    },
+    {
+      "matchId": 4889305,
+      "tournamentEn": "🇸🇾 Syrian Premier League",
+      "tournamentAr": "🇸🇾 الدوري السوري الممتاز",
+      "matchEn": "Al Wahda Damascus v Al Ittihad Aleppo",
+      "matchAr": "الوحدة دمشق × الاتحاد حلب",
+      "rawIsoTime": "2026-11-06T16:00:00+00:00",
+      "time": "16:00",
       "rawMinute": 1,
       "homeGoals": -1,
       "awayGoals": -1,
