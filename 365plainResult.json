@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793995030438,
+  "timestamp": 1793995093257,
   "matches": [
     {
       "matchId": 4742008,
@@ -34,8 +34,8 @@
       "matchEn": "Hamburger SV v Borussia Mönchengladbach",
       "matchAr": "هامبورغ × بوروسيا مونشنغلادباخ",
       "rawIsoTime": "2026-11-06T19:30:00+00:00",
-      "time": "1 - 0 (28')",
-      "rawMinute": 28,
+      "time": "1 - 0 (29')",
+      "rawMinute": 29,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -47,8 +47,8 @@
       "matchEn": "Toulouse v Strasbourg",
       "matchAr": "تولوز × ستراسبورغ",
       "rawIsoTime": "2026-11-06T19:45:00+00:00",
-      "time": "0 - 0 (12')",
-      "rawMinute": 12,
+      "time": "0 - 0 (13')",
+      "rawMinute": 13,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -60,8 +60,8 @@
       "matchEn": "Venezia v Udinese",
       "matchAr": "فينيتسيا × أودينيزي",
       "rawIsoTime": "2026-11-06T19:45:00+00:00",
-      "time": "0 - 0 (10')",
-      "rawMinute": 10,
+      "time": "0 - 0 (11')",
+      "rawMinute": 11,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -509,6 +509,19 @@
       "isLive": false
     },
     {
+      "matchId": 4633201,
+      "tournamentEn": "🇦🇷 Argentinean Liga Profesional - Clausura",
+      "tournamentAr": "🇦🇷 الدوري الأرجنتيني للمحترفين - كلاوسورا",
+      "matchEn": "Barracas Central v Racing",
+      "matchAr": "باراكاس سنترال × راسينغ",
+      "rawIsoTime": "2026-11-06T18:00:00+00:00",
+      "time": "2 - 0 (done)",
+      "rawMinute": 90,
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "isLive": false
+    },
+    {
       "matchId": 4731462,
       "tournamentEn": "🇩🇰 Danish Superliga",
       "tournamentAr": "🇩🇰 الدوري الدنماركي",
@@ -522,27 +535,14 @@
       "isLive": false
     },
     {
-      "matchId": 4633201,
-      "tournamentEn": "🇦🇷 Argentinean Liga Profesional - Clausura",
-      "tournamentAr": "🇦🇷 الدوري الأرجنتيني للمحترفين - كلاوسورا",
-      "matchEn": "Barracas Central v Racing",
-      "matchAr": "باراكاس سنترال × راسينغ",
-      "rawIsoTime": "2026-11-06T18:00:00+00:00",
-      "time": "2 - 0 (90+5')",
-      "rawMinute": 95,
-      "homeGoals": 2,
-      "awayGoals": 0,
-      "isLive": true
-    },
-    {
       "matchId": 4635963,
       "tournamentEn": "🇸🇪 Swedish Allsvenskan",
       "tournamentAr": "🇸🇪 الدوري السويدي",
       "matchEn": "Hammarby v IF Elfsborg",
       "matchAr": "هاماربي × إلفسبورغ",
       "rawIsoTime": "2026-11-06T18:00:00+00:00",
-      "time": "2 - 0 (58')",
-      "rawMinute": 58,
+      "time": "2 - 0 (59')",
+      "rawMinute": 59,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -567,8 +567,8 @@
       "matchEn": "SK Rapid Vienna v Wolfsberger",
       "matchAr": "رابيد فيينا × فولفسبيرغر",
       "rawIsoTime": "2026-11-06T18:30:00+00:00",
-      "time": "2 - 0 (65')",
-      "rawMinute": 65,
+      "time": "2 - 0 (66')",
+      "rawMinute": 66,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -580,8 +580,8 @@
       "matchEn": "Wisla Krakow v Cracovia Krakow",
       "matchAr": "فيسوا كراكوف × كراكوفيا كراكوف",
       "rawIsoTime": "2026-11-06T19:30:00+00:00",
-      "time": "1 - 1 (28')",
-      "rawMinute": 28,
+      "time": "1 - 1 (29')",
+      "rawMinute": 29,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -593,8 +593,8 @@
       "matchEn": "Bristol Rovers v Cambridge United",
       "matchAr": "بريستول روفرز × كامبريدج يونايتد",
       "rawIsoTime": "2026-11-06T19:30:00+00:00",
-      "time": "0 - 0 (27')",
-      "rawMinute": 27,
+      "time": "0 - 0 (28')",
+      "rawMinute": 28,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -606,8 +606,8 @@
       "matchEn": "Standard de Liège v SK Beveren",
       "matchAr": "ستاندار دو لييج × إس كيه بيفيرين",
       "rawIsoTime": "2026-11-06T19:45:00+00:00",
-      "time": "1 - 0 (11')",
-      "rawMinute": 11,
+      "time": "1 - 0 (12')",
+      "rawMinute": 12,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -619,8 +619,8 @@
       "matchEn": "Oxford City v Leicester City",
       "matchAr": "أوكسفورد سيتي × ليستر سيتي",
       "rawIsoTime": "2026-11-06T19:45:00+00:00",
-      "time": "0 - 0 (12')",
-      "rawMinute": 12,
+      "time": "0 - 0 (13')",
+      "rawMinute": 13,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
