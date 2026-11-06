@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793998231061,
+  "timestamp": 1793998270814,
   "matches": [
     {
       "matchId": 4742008,
@@ -21,8 +21,8 @@
       "matchEn": "Sevilla v Deportivo Alavés",
       "matchAr": "إشبيلية × ديبورتيفو ألافيس",
       "rawIsoTime": "2026-11-06T20:00:00+00:00",
-      "time": "0 - 0 (45+4')",
-      "rawMinute": 50,
+      "time": "0 - 0 (Halftime)",
+      "rawMinute": 45,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -35,7 +35,7 @@
       "matchAr": "هامبورغ × بوروسيا مونشنغلادباخ",
       "rawIsoTime": "2026-11-06T19:30:00+00:00",
       "time": "2 - 1 (63')",
-      "rawMinute": 63,
+      "rawMinute": 64,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -47,8 +47,8 @@
       "matchEn": "Toulouse v Strasbourg",
       "matchAr": "تولوز × ستراسبورغ",
       "rawIsoTime": "2026-11-06T19:45:00+00:00",
-      "time": "1 - 0 (46')",
-      "rawMinute": 46,
+      "time": "1 - 0 (47')",
+      "rawMinute": 47,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -74,7 +74,7 @@
       "matchAr": "فاماليكاو × أروكا",
       "rawIsoTime": "2026-11-06T20:45:00+00:00",
       "time": "0 - 0 (6')",
-      "rawMinute": 6,
+      "rawMinute": 7,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -86,8 +86,8 @@
       "matchEn": "Jong Willem II Tilburg v Zwolle",
       "matchAr": "يونغ فيليم 2 تيلبورغ × زفوله",
       "rawIsoTime": "2026-11-06T19:00:00+00:00",
-      "time": "1 - 1 (89')",
-      "rawMinute": 90,
+      "time": "1 - 1 (90+1')",
+      "rawMinute": 91,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -593,8 +593,8 @@
       "matchEn": "Bristol Rovers v Cambridge United",
       "matchAr": "بريستول روفرز × كامبريدج يونايتد",
       "rawIsoTime": "2026-11-06T19:30:00+00:00",
-      "time": "1 - 0 (59')",
-      "rawMinute": 59,
+      "time": "1 - 0 (60')",
+      "rawMinute": 60,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -606,8 +606,8 @@
       "matchEn": "Standard de Liège v SK Beveren",
       "matchAr": "ستاندار دو لييج × إس كيه بيفيرين",
       "rawIsoTime": "2026-11-06T19:45:00+00:00",
-      "time": "1 - 0 (Halftime)",
-      "rawMinute": 45,
+      "time": "1 - 0 (46')",
+      "rawMinute": 46,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -619,7 +619,7 @@
       "matchEn": "Oxford City v Leicester City",
       "matchAr": "أوكسفورد سيتي × ليستر سيتي",
       "rawIsoTime": "2026-11-06T19:45:00+00:00",
-      "time": "1 - 1 (47')",
+      "time": "1 - 1 (48')",
       "rawMinute": 48,
       "homeGoals": 1,
       "awayGoals": 1,
