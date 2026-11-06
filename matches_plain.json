@@ -143,17 +143,6 @@
       ]
     },
     {
-      "tournamentEn": "🇧🇷 Brazilian Serie A",
-      "tournamentAr": "🇧🇷 الدوري البرازيلي الممتاز",
-      "matchEn": "Cruzeiro v Bahia",
-      "matchAr": "كروزيرو × باهيا",
-      "time": "00:30",
-      "channels": [
-        "📺 Canal 11 [Hispasat 30W 12437 H 27500]",
-        "📺 Match! Futbol 3 [Eutelsat 80.0E 11044 V 45000]"
-      ]
-    },
-    {
       "tournamentEn": "🏆 England FA Cup",
       "tournamentAr": "🏆 كأس الاتحاد الإنجليزي",
       "matchEn": "Oxford v Leicester",
@@ -200,20 +189,6 @@
       "time": "16:30",
       "channels": [
         "📺 Al Kass Six [Badrsat 26.0E 10770 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🇺🇸 USA NBA",
-      "tournamentAr": "🇺🇸 الدوري الأميركي لكرة السلة",
-      "matchEn": "Suns v Magic",
-      "matchAr": "صنز × ماجيك",
-      "time": "02:00",
-      "channels": [
-        "📺 Bein Sport 7 [Nilesat 7.0W 12188 H 27500]",
-        "📺 Go 3 Sport 1 [Astra 4.8E 11938 V 27500]",
-        "📺 BeIn Sports 1 France [Astra 19.2E 12168 V 29700]",
-        "📺 Bein Sport 7 [Badrsat 26.0E 10850 V 27500]",
-        "📺 S Sport [Turksat 42.0E 11853 H 25000]"
       ]
     },
     {
