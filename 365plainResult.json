@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794000031178,
+  "timestamp": 1794000070047,
   "matches": [
     {
       "matchId": 4742008,
@@ -9,7 +9,7 @@
       "matchAr": "إيفرتون × كوفنتري سيتي",
       "rawIsoTime": "2026-11-06T20:00:00+00:00",
       "time": "2 - 1 (62')",
-      "rawMinute": 62,
+      "rawMinute": 63,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -21,8 +21,8 @@
       "matchEn": "Sevilla v Deportivo Alavés",
       "matchAr": "إشبيلية × ديبورتيفو ألافيس",
       "rawIsoTime": "2026-11-06T20:00:00+00:00",
-      "time": "0 - 0 (58')",
-      "rawMinute": 58,
+      "time": "0 - 0 (59')",
+      "rawMinute": 59,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -35,7 +35,7 @@
       "matchAr": "هامبورغ × بوروسيا مونشنغلادباخ",
       "rawIsoTime": "2026-11-06T19:30:00+00:00",
       "time": "3 - 1 (90+3')",
-      "rawMinute": 93,
+      "rawMinute": 94,
       "homeGoals": 3,
       "awayGoals": 1,
       "isLive": true
@@ -47,9 +47,9 @@
       "matchEn": "Toulouse v Strasbourg",
       "matchAr": "تولوز × ستراسبورغ",
       "rawIsoTime": "2026-11-06T19:45:00+00:00",
-      "time": "2 - 1 (76')",
-      "rawMinute": 76,
-      "homeGoals": 2,
+      "time": "3 - 1 (77')",
+      "rawMinute": 77,
+      "homeGoals": 3,
       "awayGoals": 1,
       "isLive": true
     },
@@ -73,8 +73,8 @@
       "matchEn": "Famalicão v Arouca",
       "matchAr": "فاماليكاو × أروكا",
       "rawIsoTime": "2026-11-06T20:45:00+00:00",
-      "time": "0 - 0 (36')",
-      "rawMinute": 36,
+      "time": "0 - 0 (37')",
+      "rawMinute": 37,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -593,8 +593,8 @@
       "matchEn": "Bristol Rovers v Cambridge United",
       "matchAr": "بريستول روفرز × كامبريدج يونايتد",
       "rawIsoTime": "2026-11-06T19:30:00+00:00",
-      "time": "2 - 0 (89')",
-      "rawMinute": 89,
+      "time": "2 - 0 (90')",
+      "rawMinute": 90,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -606,8 +606,8 @@
       "matchEn": "Standard de Liège v SK Beveren",
       "matchAr": "ستاندار دو لييج × إس كيه بيفيرين",
       "rawIsoTime": "2026-11-06T19:45:00+00:00",
-      "time": "3 - 0 (75')",
-      "rawMinute": 75,
+      "time": "3 - 0 (76')",
+      "rawMinute": 76,
       "homeGoals": 3,
       "awayGoals": 0,
       "isLive": true
@@ -632,7 +632,7 @@
       "matchEn": "Union Touarga v Amal Tiznit",
       "matchAr": "اتحاد تواركة × أمل تزنيت",
       "rawIsoTime": "2026-11-06T20:00:00+00:00",
-      "time": "0 - 1 (60')",
+      "time": "0 - 1 (61')",
       "rawMinute": 61,
       "homeGoals": 0,
       "awayGoals": 1,
