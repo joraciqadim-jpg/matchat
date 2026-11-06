@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793991853484,
+  "timestamp": 1793991922606,
   "matches": [
     {
       "matchId": 4742008,
@@ -86,9 +86,9 @@
       "matchEn": "Jong Willem II Tilburg v Zwolle",
       "matchAr": "يونغ فيليم 2 تيلبورغ × زفوله",
       "rawIsoTime": "2026-11-06T19:00:00+00:00",
-      "time": "0 - 1 (3')",
-      "rawMinute": 3,
-      "homeGoals": 0,
+      "time": "1 - 1 (4')",
+      "rawMinute": 4,
+      "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
     },
@@ -502,11 +502,11 @@
       "matchEn": "Al Ahli Tripoli v Al Shomooa",
       "matchAr": "أهلي طرابلس × الشموع",
       "rawIsoTime": "2026-11-06T17:00:00+00:00",
-      "time": "3 - 0 (90')",
+      "time": "3 - 0 (done)",
       "rawMinute": 90,
       "homeGoals": 3,
       "awayGoals": 0,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4633201,
@@ -528,8 +528,8 @@
       "matchEn": "Hammarby v IF Elfsborg",
       "matchAr": "هاماربي × إلفسبورغ",
       "rawIsoTime": "2026-11-06T18:00:00+00:00",
-      "time": "0 - 0 (22')",
-      "rawMinute": 22,
+      "time": "0 - 0 (23')",
+      "rawMinute": 23,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -541,8 +541,8 @@
       "matchEn": "Silkeborg IF v Lyngby Boldklub",
       "matchAr": "سيلكيبورغ × لينغبي بولدكلوب",
       "rawIsoTime": "2026-11-06T18:00:00+00:00",
-      "time": "0 - 0 (48')",
-      "rawMinute": 48,
+      "time": "0 - 0 (49')",
+      "rawMinute": 49,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -567,8 +567,8 @@
       "matchEn": "SK Rapid Vienna v Wolfsberger",
       "matchAr": "رابيد فيينا × فولفسبيرغر",
       "rawIsoTime": "2026-11-06T18:30:00+00:00",
-      "time": "1 - 0 (34')",
-      "rawMinute": 34,
+      "time": "1 - 0 (35')",
+      "rawMinute": 35,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
