@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793976853981,
+  "timestamp": 1793976921129,
   "matches": [
     {
       "matchId": 4742008,
@@ -268,8 +268,8 @@
       "matchEn": "Al Talaba v Gas Alshimal",
       "matchAr": "الطلبة × غاز الشمال",
       "rawIsoTime": "2026-11-06T13:45:00+00:00",
-      "time": "1 - 0 (48')",
-      "rawMinute": 48,
+      "time": "1 - 0 (49')",
+      "rawMinute": 49,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -307,8 +307,8 @@
       "matchEn": "Al Arabi v Al-Ahli",
       "matchAr": "العربي × الأهلي",
       "rawIsoTime": "2026-11-06T14:15:00+00:00",
-      "time": "0 - 0 (39')",
-      "rawMinute": 40,
+      "time": "0 - 0 (40')",
+      "rawMinute": 41,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -320,8 +320,8 @@
       "matchEn": "Fahaheel v Sulaibikhat",
       "matchAr": "الفحيحيل × الصليبخات",
       "rawIsoTime": "2026-11-06T14:25:00+00:00",
-      "time": "0 - 0 (28')",
-      "rawMinute": 28,
+      "time": "0 - 0 (29')",
+      "rawMinute": 29,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -333,11 +333,11 @@
       "matchEn": "Zulfi v Jeddah",
       "matchAr": "الزلفي × جدة",
       "rawIsoTime": "2026-11-06T14:55:00+00:00",
-      "time": "14:55",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4885548,
