@@ -1,5 +1,5 @@
 {
-  "timestamp": 1793982671309,
+  "timestamp": 1793982733814,
   "matches": [
     {
       "matchId": 4742008,
@@ -333,8 +333,8 @@
       "matchEn": "Zulfi v Jeddah",
       "matchAr": "الزلفي × جدة",
       "rawIsoTime": "2026-11-06T14:55:00+00:00",
-      "time": "0 - 0 (76')",
-      "rawMinute": 76,
+      "time": "0 - 0 (77')",
+      "rawMinute": 77,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -346,8 +346,8 @@
       "matchEn": "ENPPI v Proxy Work",
       "matchAr": "إنبي × بروكسي وورك",
       "rawIsoTime": "2026-11-06T15:00:00+00:00",
-      "time": "3 - 2 (67')",
-      "rawMinute": 67,
+      "time": "3 - 2 (68')",
+      "rawMinute": 68,
       "homeGoals": 3,
       "awayGoals": 2,
       "isLive": true
@@ -359,8 +359,8 @@
       "matchEn": "Tishreen v Damascus Al Ahli",
       "matchAr": "تشرين × الأهلي الدمشقي",
       "rawIsoTime": "2026-11-06T15:00:00+00:00",
-      "time": "0 - 0 (65')",
-      "rawMinute": 65,
+      "time": "0 - 0 (66')",
+      "rawMinute": 66,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -385,23 +385,10 @@
       "matchEn": "Al Wahda v Al Ittihad Aleppo",
       "matchAr": "الوحدة × الاتحاد حلب",
       "rawIsoTime": "2026-11-06T16:00:00+00:00",
-      "time": "0 - 1 (26')",
-      "rawMinute": 26,
+      "time": "0 - 1 (27')",
+      "rawMinute": 27,
       "homeGoals": 0,
       "awayGoals": 1,
-      "isLive": true
-    },
-    {
-      "matchId": 4806867,
-      "tournamentEn": "🇮🇶 Iraqi League",
-      "tournamentAr": "🇮🇶 الدوري العراقي",
-      "matchEn": "Newroz v Karbalaa",
-      "matchAr": "نوروز × كربلاء",
-      "rawIsoTime": "2026-11-06T16:30:00+00:00",
-      "time": "0 - 0 (3')",
-      "rawMinute": 3,
-      "homeGoals": 0,
-      "awayGoals": 0,
       "isLive": true
     },
     {
@@ -411,8 +398,8 @@
       "matchEn": "Lokomotiv Moskva v Rubin Kazan",
       "matchAr": "لوكوموتيف موسكو × روبين كازان",
       "rawIsoTime": "2026-11-06T16:30:00+00:00",
-      "time": "0 - 0 (1')",
-      "rawMinute": 1,
+      "time": "0 - 0 (2')",
+      "rawMinute": 2,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -424,8 +411,21 @@
       "matchEn": "Al Wakrah v Shahaniya",
       "matchAr": "الوكرة × الشحانية",
       "rawIsoTime": "2026-11-06T16:30:00+00:00",
-      "time": "0 - 0 (2')",
-      "rawMinute": 2,
+      "time": "0 - 0 (3')",
+      "rawMinute": 3,
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
+    },
+    {
+      "matchId": 4806867,
+      "tournamentEn": "🇮🇶 Iraqi League",
+      "tournamentAr": "🇮🇶 الدوري العراقي",
+      "matchEn": "Newroz v Karbalaa",
+      "matchAr": "نوروز × كربلاء",
+      "rawIsoTime": "2026-11-06T16:30:00+00:00",
+      "time": "0 - 0 (4')",
+      "rawMinute": 4,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -437,8 +437,8 @@
       "matchEn": "Al Buqa'a v Al Wehdat",
       "matchAr": "البقعة × الوحدات",
       "rawIsoTime": "2026-11-06T16:30:00+00:00",
-      "time": "0 - 0 (2')",
-      "rawMinute": 2,
+      "time": "0 - 0 (3')",
+      "rawMinute": 3,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
