@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794020350759,
+  "timestamp": 1794020464252,
   "matches": [
     {
       "matchId": 4742005,
@@ -411,10 +411,10 @@
       "matchEn": "Atlético San Luis v Juarez",
       "matchAr": "أتلتيكو سان لويس × خواريز",
       "rawIsoTime": "2026-11-07T01:00:00+00:00",
-      "time": "0 - 0 (83')",
-      "rawMinute": 83,
+      "time": "0 - 1 (85')",
+      "rawMinute": 85,
       "homeGoals": 0,
-      "awayGoals": 0,
+      "awayGoals": 1,
       "isLive": true
     },
     {
