@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794080121196,
+  "timestamp": 1794080174307,
   "matches": [
     {
       "matchId": 4742005,
@@ -177,7 +177,7 @@
       "matchEn": "Auxerre v Paris",
       "matchAr": "أوكسير × باريس",
       "rawIsoTime": "2026-11-07T18:00:00+00:00",
-      "time": "0 - 1 (77')",
+      "time": "0 - 1 (78')",
       "rawMinute": 78,
       "homeGoals": 0,
       "awayGoals": 1,
@@ -268,8 +268,8 @@
       "matchEn": "Alverca v Casa Pia",
       "matchAr": "ألفيركا × كازا بيا",
       "rawIsoTime": "2026-11-07T18:00:00+00:00",
-      "time": "1 - 1 (72')",
-      "rawMinute": 72,
+      "time": "1 - 1 (73')",
+      "rawMinute": 73,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -308,7 +308,7 @@
       "matchAr": "أدو دين هاغ × سبارتا روتردام",
       "rawIsoTime": "2026-11-07T17:45:00+00:00",
       "time": "3 - 1 (90+2')",
-      "rawMinute": 92,
+      "rawMinute": 93,
       "homeGoals": 3,
       "awayGoals": 1,
       "isLive": true
@@ -1711,8 +1711,8 @@
       "matchEn": "Altrincham v Notts County",
       "matchAr": "ألترينتشام × نوتس كاونتي",
       "rawIsoTime": "2026-11-07T17:30:00+00:00",
-      "time": "2 - 2 (99')",
-      "rawMinute": 99,
+      "time": "2 - 2 (100')",
+      "rawMinute": 100,
       "homeGoals": 2,
       "awayGoals": 2,
       "isLive": true
@@ -1724,10 +1724,10 @@
       "matchEn": "Aberdeen v Hibernian",
       "matchAr": "أبردين × هيبرنيان",
       "rawIsoTime": "2026-11-07T17:45:00+00:00",
-      "time": "0 - 3 (90+3')",
-      "rawMinute": 93,
+      "time": "0 - 4 (90+4')",
+      "rawMinute": 94,
       "homeGoals": 0,
-      "awayGoals": 3,
+      "awayGoals": 4,
       "isLive": true
     },
     {
@@ -1738,7 +1738,7 @@
       "matchAr": "تاليريس قرطبة × إستوديانتس",
       "rawIsoTime": "2026-11-07T18:00:00+00:00",
       "time": "1 - 1 (77')",
-      "rawMinute": 77,
+      "rawMinute": 78,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -1750,8 +1750,8 @@
       "matchEn": "Gimnasia Mendoza v Independiente Rivadavia",
       "matchAr": "خيمناسيا مندوزا × إنديبندينتي ريفادافيا",
       "rawIsoTime": "2026-11-07T18:00:00+00:00",
-      "time": "1 - 0 (75')",
-      "rawMinute": 75,
+      "time": "1 - 0 (76')",
+      "rawMinute": 76,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -1776,9 +1776,9 @@
       "matchEn": "Pyramids v El Dakhleya",
       "matchAr": "بيراميدز × الداخلية",
       "rawIsoTime": "2026-11-07T18:00:00+00:00",
-      "time": "1 - 0 (75')",
-      "rawMinute": 75,
-      "homeGoals": 1,
+      "time": "2 - 0 (75')",
+      "rawMinute": 76,
+      "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
     },
@@ -1789,8 +1789,8 @@
       "matchEn": "Al-Ahly v El Sekka El Hadid",
       "matchAr": "الأهلي × السكة الحديد",
       "rawIsoTime": "2026-11-07T18:00:00+00:00",
-      "time": "2 - 0 (73')",
-      "rawMinute": 73,
+      "time": "2 - 0 (74')",
+      "rawMinute": 74,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -1802,8 +1802,8 @@
       "matchEn": "Ried v LASK Linz",
       "matchAr": "ريد × لاسْك لينتس",
       "rawIsoTime": "2026-11-07T18:30:00+00:00",
-      "time": "2 - 2 (47')",
-      "rawMinute": 47,
+      "time": "2 - 2 (48')",
+      "rawMinute": 48,
       "homeGoals": 2,
       "awayGoals": 2,
       "isLive": true
@@ -1815,7 +1815,7 @@
       "matchEn": "Widzew Lodz v Pogoń Szczecin",
       "matchAr": "فيدزيف وودج × بونغ شتشيتسين",
       "rawIsoTime": "2026-11-07T19:15:00+00:00",
-      "time": "0 - 0 (13')",
+      "time": "0 - 0 (14')",
       "rawMinute": 14,
       "homeGoals": 0,
       "awayGoals": 0,
@@ -1828,8 +1828,8 @@
       "matchEn": "Grasshopper Zürich v Lausanne-Sport",
       "matchAr": "غراسهوبر زيورخ × لوزان سبورت",
       "rawIsoTime": "2026-11-07T19:30:00+00:00",
-      "time": "0 - 0 (5')",
-      "rawMinute": 6,
+      "time": "0 - 0 (7')",
+      "rawMinute": 7,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
