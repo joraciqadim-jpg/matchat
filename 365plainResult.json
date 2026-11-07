@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794010454515,
+  "timestamp": 1794010532385,
   "matches": [
     {
       "matchId": 4742005,
@@ -372,23 +372,10 @@
       "matchEn": "Vitoria v Fluminense",
       "matchAr": "فيتوريا × فلومينينسي",
       "rawIsoTime": "2026-11-06T23:00:00+00:00",
-      "time": "0 - 2 (55')",
-      "rawMinute": 55,
+      "time": "0 - 2 (56')",
+      "rawMinute": 56,
       "homeGoals": 0,
       "awayGoals": 2,
-      "isLive": true
-    },
-    {
-      "matchId": 4633206,
-      "tournamentEn": "🇦🇷 Argentinean Liga Profesional - Clausura",
-      "tournamentAr": "🇦🇷 الدوري الأرجنتيني للمحترفين - كلاوسورا",
-      "matchEn": "Independiente v Deportivo Riestra",
-      "matchAr": "إنديبندينتي × ديبورتيفو ريسترا",
-      "rawIsoTime": "2026-11-06T22:15:00+00:00",
-      "time": "2 - 1 (90+5')",
-      "rawMinute": 95,
-      "homeGoals": 2,
-      "awayGoals": 1,
       "isLive": true
     },
     {
