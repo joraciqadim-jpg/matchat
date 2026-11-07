@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794077590852,
+  "timestamp": 1794077653608,
   "matches": [
     {
       "matchId": 4742005,
@@ -47,8 +47,8 @@
       "matchEn": "Nottingham Forest v Manchester City",
       "matchAr": "نوتنغهام فورست × مانشستر سيتي",
       "rawIsoTime": "2026-11-07T17:30:00+00:00",
-      "time": "2 - 1 (63')",
-      "rawMinute": 63,
+      "time": "2 - 1 (64')",
+      "rawMinute": 64,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -86,8 +86,8 @@
       "matchEn": "Osasuna v Athletic Bilbao",
       "matchAr": "أوساسونا × أتلتيك بلباو",
       "rawIsoTime": "2026-11-07T17:30:00+00:00",
-      "time": "0 - 0 (63')",
-      "rawMinute": 63,
+      "time": "0 - 0 (64')",
+      "rawMinute": 64,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -164,8 +164,8 @@
       "matchEn": "Stuttgart v Werder Bremen",
       "matchAr": "شتوتغارت × فيردر بريمن",
       "rawIsoTime": "2026-11-07T17:30:00+00:00",
-      "time": "1 - 0 (64')",
-      "rawMinute": 64,
+      "time": "1 - 0 (65')",
+      "rawMinute": 66,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -229,8 +229,8 @@
       "matchEn": "Parma v Bologna",
       "matchAr": "بارما × بولونيا",
       "rawIsoTime": "2026-11-07T17:00:00+00:00",
-      "time": "1 - 2 (90+2')",
-      "rawMinute": 92,
+      "time": "1 - 2 (90+3')",
+      "rawMinute": 93,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -307,10 +307,10 @@
       "matchEn": "ADO Den Haag v Sparta Rotterdam",
       "matchAr": "أدو دين هاغ × سبارتا روتردام",
       "rawIsoTime": "2026-11-07T17:45:00+00:00",
-      "time": "1 - 0 (50')",
-      "rawMinute": 50,
+      "time": "1 - 1 (51')",
+      "rawMinute": 51,
       "homeGoals": 1,
-      "awayGoals": 0,
+      "awayGoals": 1,
       "isLive": true
     },
     {
@@ -1588,6 +1588,19 @@
       "isLive": false
     },
     {
+      "matchId": 4638369,
+      "tournamentEn": "🇳🇴 Norwegian Eliteserien",
+      "tournamentAr": "🇳🇴 الدوري النرويجي",
+      "matchEn": "Rosenborg v Start",
+      "matchAr": "روسنبورغ × ستارت",
+      "rawIsoTime": "2026-11-07T17:00:00+00:00",
+      "time": "4 - 1 (done)",
+      "rawMinute": 90,
+      "homeGoals": 4,
+      "awayGoals": 1,
+      "isLive": false
+    },
+    {
       "matchId": 4731467,
       "tournamentEn": "🇩🇰 Danish Superliga",
       "tournamentAr": "🇩🇰 الدوري الدنماركي",
@@ -1640,27 +1653,14 @@
       "isLive": true
     },
     {
-      "matchId": 4638369,
-      "tournamentEn": "🇳🇴 Norwegian Eliteserien",
-      "tournamentAr": "🇳🇴 الدوري النرويجي",
-      "matchEn": "Rosenborg v Start",
-      "matchAr": "روسنبورغ × ستارت",
-      "rawIsoTime": "2026-11-07T17:00:00+00:00",
-      "time": "4 - 1 (90+5')",
-      "rawMinute": 95,
-      "homeGoals": 4,
-      "awayGoals": 1,
-      "isLive": true
-    },
-    {
       "matchId": 4738681,
       "tournamentEn": "🇨🇭 Swiss Super League",
       "tournamentAr": "🇨🇭 الدوري السويسري",
       "matchEn": "Luzern v Young Boys",
       "matchAr": "لوزيرن × يونغ بويز",
       "rawIsoTime": "2026-11-07T17:00:00+00:00",
-      "time": "2 - 3 (90+4')",
-      "rawMinute": 94,
+      "time": "2 - 3 (90+5')",
+      "rawMinute": 95,
       "homeGoals": 2,
       "awayGoals": 3,
       "isLive": true
@@ -1672,8 +1672,8 @@
       "matchEn": "Al Swehly v Assabah",
       "matchAr": "السويحلي × الصباح",
       "rawIsoTime": "2026-11-07T17:00:00+00:00",
-      "time": "0 - 0 (82')",
-      "rawMinute": 82,
+      "time": "0 - 0 (83')",
+      "rawMinute": 83,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1685,8 +1685,8 @@
       "matchEn": "Ittihad Khemisset v SCC Mohammédia",
       "matchAr": "اتحاد الخميسات × شباب المحمدية",
       "rawIsoTime": "2026-11-07T17:00:00+00:00",
-      "time": "4 - 0 (90+1')",
-      "rawMinute": 91,
+      "time": "4 - 0 (90+2')",
+      "rawMinute": 92,
       "homeGoals": 4,
       "awayGoals": 0,
       "isLive": true
@@ -1698,8 +1698,8 @@
       "matchEn": "Oud-Heverlee Leuven v KV Mechelen",
       "matchAr": "أود هيفرلي لوفين × ميخلين",
       "rawIsoTime": "2026-11-07T17:15:00+00:00",
-      "time": "1 - 0 (79')",
-      "rawMinute": 79,
+      "time": "1 - 0 (80')",
+      "rawMinute": 80,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -1711,8 +1711,8 @@
       "matchEn": "Altrincham v Notts County",
       "matchAr": "ألترينتشام × نوتس كاونتي",
       "rawIsoTime": "2026-11-07T17:30:00+00:00",
-      "time": "2 - 1 (67')",
-      "rawMinute": 67,
+      "time": "2 - 1 (68')",
+      "rawMinute": 68,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -1724,8 +1724,8 @@
       "matchEn": "Aberdeen v Hibernian",
       "matchAr": "أبردين × هيبرنيان",
       "rawIsoTime": "2026-11-07T17:45:00+00:00",
-      "time": "0 - 0 (51')",
-      "rawMinute": 51,
+      "time": "0 - 0 (52')",
+      "rawMinute": 52,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1802,8 +1802,8 @@
       "matchEn": "Ried v LASK Linz",
       "matchAr": "ريد × لاسْك لينتس",
       "rawIsoTime": "2026-11-07T18:30:00+00:00",
-      "time": "0 - 1 (23')",
-      "rawMinute": 24,
+      "time": "0 - 1 (24')",
+      "rawMinute": 25,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
