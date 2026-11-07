@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794057630630,
+  "timestamp": 1794057671392,
   "matches": [
     {
       "matchId": 4742005,
@@ -9,7 +9,7 @@
       "matchAr": "ليدز يونايتد × توتنهام هوتسبير",
       "rawIsoTime": "2026-11-07T12:30:00+00:00",
       "time": "0 - 0 (45+5')",
-      "rawMinute": 50,
+      "rawMinute": 51,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -61,7 +61,7 @@
       "matchAr": "ملقا × راسينغ سانتاندير",
       "rawIsoTime": "2026-11-07T13:00:00+00:00",
       "time": "0 - 0 (20')",
-      "rawMinute": 20,
+      "rawMinute": 21,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -619,8 +619,8 @@
       "matchEn": "Inter Kashi v Delhi",
       "matchAr": "إنتر كاشي × دلهي",
       "rawIsoTime": "2026-11-07T11:30:00+00:00",
-      "time": "0 - 3 (90+2')",
-      "rawMinute": 92,
+      "time": "0 - 3 (90+3')",
+      "rawMinute": 93,
       "homeGoals": 0,
       "awayGoals": 3,
       "isLive": true
@@ -632,8 +632,8 @@
       "matchEn": "Homs Al Fidaa v Foutoua",
       "matchAr": "حمص الفداء × الفتوة",
       "rawIsoTime": "2026-11-07T12:00:00+00:00",
-      "time": "0 - 0 (59')",
-      "rawMinute": 59,
+      "time": "0 - 0 (60')",
+      "rawMinute": 60,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -645,8 +645,8 @@
       "matchEn": "Jaish v Al Karamah",
       "matchAr": "الجيش × الكرامة",
       "rawIsoTime": "2026-11-07T12:00:00+00:00",
-      "time": "0 - 0 (59')",
-      "rawMinute": 59,
+      "time": "0 - 0 (60')",
+      "rawMinute": 60,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -698,7 +698,7 @@
       "matchAr": "القوة الجوية × الكرخ",
       "rawIsoTime": "2026-11-07T13:00:00+00:00",
       "time": "0 - 1 (20')",
-      "rawMinute": 20,
+      "rawMinute": 21,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
