@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794043573791,
+  "timestamp": 1794043630845,
   "matches": [
     {
       "matchId": 4742005,
@@ -528,11 +528,11 @@
       "matchEn": "Gimcheon Sangmu v Anyang",
       "matchAr": "غيمتشون سانغمو × أنيانغ",
       "rawIsoTime": "2026-11-07T07:30:00+00:00",
-      "time": "1 - 0 (90+8')",
-      "rawMinute": 98,
+      "time": "1 - 0 (done)",
+      "rawMinute": 90,
       "homeGoals": 1,
       "awayGoals": 0,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4763754,
