@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794051254232,
+  "timestamp": 1794051322016,
   "matches": [
     {
       "matchId": 4742005,
@@ -541,8 +541,8 @@
       "matchEn": "Eyupspor v Kocaelispor",
       "matchAr": "أيوب سبور × كوجالي سبور",
       "rawIsoTime": "2026-11-07T10:30:00+00:00",
-      "time": "0 - 2 (47')",
-      "rawMinute": 47,
+      "time": "0 - 2 (48')",
+      "rawMinute": 48,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -554,8 +554,8 @@
       "matchEn": "Fakel Voronezh v Dinamo Moskva",
       "matchAr": "فاكيل فورونيج × دينامو موسكو",
       "rawIsoTime": "2026-11-07T11:00:00+00:00",
-      "time": "1 - 1 (34')",
-      "rawMinute": 34,
+      "time": "1 - 1 (35')",
+      "rawMinute": 36,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -567,10 +567,10 @@
       "matchEn": "Kharkiv v Karpaty Lviv",
       "matchAr": "خاركيف × كارباتي لفيف",
       "rawIsoTime": "2026-11-07T11:00:00+00:00",
-      "time": "0 - 1 (25')",
-      "rawMinute": 25,
+      "time": "0 - 2 (26')",
+      "rawMinute": 27,
       "homeGoals": 0,
-      "awayGoals": 1,
+      "awayGoals": 2,
       "isLive": true
     },
     {
@@ -580,8 +580,8 @@
       "matchEn": "Epitsentr Kamianets-Podilskyi v Kryvbas Kriviy Rih",
       "matchAr": "إبيتسنتر كاميانيتس-بوديلسكي × كريفباس كريفي ريغ",
       "rawIsoTime": "2026-11-07T11:00:00+00:00",
-      "time": "0 - 0 (30')",
-      "rawMinute": 30,
+      "time": "0 - 0 (31')",
+      "rawMinute": 31,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -593,8 +593,8 @@
       "matchEn": "Kudrivka v Chornomorets Odesa",
       "matchAr": "كودريفكا × تشورنوموريتس أوديسا",
       "rawIsoTime": "2026-11-07T11:00:00+00:00",
-      "time": "1 - 0 (32')",
-      "rawMinute": 32,
+      "time": "1 - 0 (33')",
+      "rawMinute": 33,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -606,8 +606,8 @@
       "matchEn": "Korona Kielce v Radomiak Radom",
       "matchAr": "كورونا كيلتسه × رادومياك رادوم",
       "rawIsoTime": "2026-11-07T11:15:00+00:00",
-      "time": "0 - 0 (17')",
-      "rawMinute": 17,
+      "time": "0 - 0 (18')",
+      "rawMinute": 18,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -619,8 +619,8 @@
       "matchEn": "Inter Kashi v Delhi",
       "matchAr": "إنتر كاشي × دلهي",
       "rawIsoTime": "2026-11-07T11:30:00+00:00",
-      "time": "0 - 0 (4')",
-      "rawMinute": 4,
+      "time": "0 - 0 (5')",
+      "rawMinute": 5,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
