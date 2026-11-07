@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794032721627,
+  "timestamp": 1794032773790,
   "matches": [
     {
       "matchId": 4742005,
@@ -463,8 +463,8 @@
       "matchEn": "Yokohama Marinos v Okayama",
       "matchAr": "يوكوهاما مارينوس × أوكاياما",
       "rawIsoTime": "2026-11-07T05:00:00+00:00",
-      "time": "1 - 1 (63')",
-      "rawMinute": 63,
+      "time": "1 - 1 (64')",
+      "rawMinute": 64,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -476,7 +476,7 @@
       "matchEn": "Jeju SK v Gwangju",
       "matchAr": "جيجو إس كيه × غوانغجو",
       "rawIsoTime": "2026-11-07T05:00:00+00:00",
-      "time": "1 - 1 (68')",
+      "time": "1 - 1 (69')",
       "rawMinute": 69,
       "homeGoals": 1,
       "awayGoals": 1,
@@ -489,8 +489,8 @@
       "matchEn": "Fukuoka v V-Varen Nagasaki",
       "matchAr": "فوكوكا × في-فارين ناغاساكي",
       "rawIsoTime": "2026-11-07T06:00:00+00:00",
-      "time": "0 - 1 (22')",
-      "rawMinute": 22,
+      "time": "0 - 1 (23')",
+      "rawMinute": 23,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -502,8 +502,8 @@
       "matchEn": "Tokyo v Kashima Antlers",
       "matchAr": "طوكيو × كاشيما أنتلرز",
       "rawIsoTime": "2026-11-07T06:00:00+00:00",
-      "time": "0 - 0 (22')",
-      "rawMinute": 22,
+      "time": "0 - 0 (23')",
+      "rawMinute": 23,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
