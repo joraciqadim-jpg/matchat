@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794031271127,
+  "timestamp": 1794031333980,
   "matches": [
     {
       "matchId": 4742005,
@@ -437,11 +437,11 @@
       "matchEn": "Shimizu S-Pulse v Tokyo Verdy",
       "matchAr": "شيميزو إس-بولس × طوكيو فيردي",
       "rawIsoTime": "2026-11-07T04:00:00+00:00",
-      "time": "0 - 1 (90+10')",
-      "rawMinute": 100,
+      "time": "0 - 1 (done)",
+      "rawMinute": 90,
       "homeGoals": 0,
       "awayGoals": 1,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4739574,
