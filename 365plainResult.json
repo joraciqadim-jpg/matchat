@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794083054367,
+  "timestamp": 1794083120560,
   "matches": [
     {
       "matchId": 4742005,
@@ -99,8 +99,8 @@
       "matchEn": "Valencia v Real Madrid",
       "matchAr": "فالنسيا × ريال مدريد",
       "rawIsoTime": "2026-11-07T20:00:00+00:00",
-      "time": "0 - 0 (22')",
-      "rawMinute": 22,
+      "time": "0 - 0 (23')",
+      "rawMinute": 23,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -190,8 +190,8 @@
       "matchEn": "Paris Saint-Germain v Troyes",
       "matchAr": "باريس سان جيرمان × تروا",
       "rawIsoTime": "2026-11-07T20:05:00+00:00",
-      "time": "0 - 0 (20')",
-      "rawMinute": 20,
+      "time": "0 - 0 (21')",
+      "rawMinute": 21,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -242,8 +242,8 @@
       "matchEn": "Roma v Sassuolo",
       "matchAr": "روما × ساسولو",
       "rawIsoTime": "2026-11-07T19:45:00+00:00",
-      "time": "2 - 0 (39')",
-      "rawMinute": 39,
+      "time": "2 - 0 (40')",
+      "rawMinute": 40,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -320,8 +320,8 @@
       "matchEn": "Excelsior v Go Ahead Eagles",
       "matchAr": "إكسلسيور × غو أهيد إيغلز",
       "rawIsoTime": "2026-11-07T20:00:00+00:00",
-      "time": "0 - 0 (24')",
-      "rawMinute": 24,
+      "time": "0 - 0 (25')",
+      "rawMinute": 25,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1783,6 +1783,19 @@
       "isLive": false
     },
     {
+      "matchId": 4747934,
+      "tournamentEn": "🇦🇹 Austrian Bundesliga",
+      "tournamentAr": "🇦🇹 الدوري النمساوي",
+      "matchEn": "Ried v LASK Linz",
+      "matchAr": "ريد × لاسْك لينتس",
+      "rawIsoTime": "2026-11-07T18:30:00+00:00",
+      "time": "2 - 4 (done)",
+      "rawMinute": 90,
+      "homeGoals": 2,
+      "awayGoals": 4,
+      "isLive": false
+    },
+    {
       "matchId": 4748658,
       "tournamentEn": "🇺🇦 Ukrainian League",
       "tournamentAr": "🇺🇦 الدوري الأوكراني",
@@ -1796,27 +1809,14 @@
       "isLive": true
     },
     {
-      "matchId": 4747934,
-      "tournamentEn": "🇦🇹 Austrian Bundesliga",
-      "tournamentAr": "🇦🇹 الدوري النمساوي",
-      "matchEn": "Ried v LASK Linz",
-      "matchAr": "ريد × لاسْك لينتس",
-      "rawIsoTime": "2026-11-07T18:30:00+00:00",
-      "time": "2 - 4 (90+6')",
-      "rawMinute": 96,
-      "homeGoals": 2,
-      "awayGoals": 4,
-      "isLive": true
-    },
-    {
       "matchId": 4736345,
       "tournamentEn": "🇵🇱 Polish Ekstraklasa",
       "tournamentAr": "🇵🇱 الدوري البولندي",
       "matchEn": "Widzew Lodz v Pogoń Szczecin",
       "matchAr": "فيدزيف وودج × بونغ شتشيتسين",
       "rawIsoTime": "2026-11-07T19:15:00+00:00",
-      "time": "1 - 0 (Halftime)",
-      "rawMinute": 45,
+      "time": "1 - 0 (46')",
+      "rawMinute": 46,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -1841,8 +1841,8 @@
       "matchEn": "La Louvière Centre v Cercle Brugge",
       "matchAr": "لا لوفيير سنتر × سيركل بروج",
       "rawIsoTime": "2026-11-07T19:45:00+00:00",
-      "time": "0 - 1 (39')",
-      "rawMinute": 40,
+      "time": "0 - 1 (41')",
+      "rawMinute": 41,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -1854,9 +1854,9 @@
       "matchEn": "Royal Antwerp v Lommel United",
       "matchAr": "رويال أنتويرب × لوميل يونايتد",
       "rawIsoTime": "2026-11-07T19:45:00+00:00",
-      "time": "0 - 0 (39')",
-      "rawMinute": 39,
-      "homeGoals": 0,
+      "time": "1 - 0 (40')",
+      "rawMinute": 40,
+      "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
     },
@@ -1867,8 +1867,8 @@
       "matchEn": "St. Mirren v Rangers",
       "matchAr": "سانت ميرين × رينجرز",
       "rawIsoTime": "2026-11-07T20:00:00+00:00",
-      "time": "0 - 1 (22')",
-      "rawMinute": 22,
+      "time": "0 - 1 (23')",
+      "rawMinute": 23,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -1880,8 +1880,8 @@
       "matchEn": "Peterborough v Reading",
       "matchAr": "بيتربورو × ريدينغ",
       "rawIsoTime": "2026-11-07T20:00:00+00:00",
-      "time": "0 - 0 (24')",
-      "rawMinute": 24,
+      "time": "0 - 0 (25')",
+      "rawMinute": 25,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1893,8 +1893,8 @@
       "matchEn": "Maghreb Tétouan v CODM Meknes",
       "matchAr": "المغرب التطواني × النادي المكناسي",
       "rawIsoTime": "2026-11-07T20:00:00+00:00",
-      "time": "0 - 0 (26')",
-      "rawMinute": 26,
+      "time": "0 - 0 (27')",
+      "rawMinute": 28,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
