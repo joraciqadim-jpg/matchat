@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794014293858,
+  "timestamp": 1794014350054,
   "matches": [
     {
       "matchId": 4742005,
@@ -372,8 +372,8 @@
       "matchEn": "Tigre v Sarmiento Junin",
       "matchAr": "تيغري × سارميينتو خونين",
       "rawIsoTime": "2026-11-07T01:00:00+00:00",
-      "time": "0 - 0 (18')",
-      "rawMinute": 19,
+      "time": "0 - 0 (19')",
+      "rawMinute": 20,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -385,8 +385,8 @@
       "matchEn": "Banfield v Atletico Tucuman",
       "matchAr": "بانفيلد × أتلتيكو توكومان",
       "rawIsoTime": "2026-11-07T01:00:00+00:00",
-      "time": "0 - 2 (19')",
-      "rawMinute": 19,
+      "time": "0 - 2 (20')",
+      "rawMinute": 20,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -398,8 +398,8 @@
       "matchEn": "Necaxa v Xolos de Tijuana",
       "matchAr": "نيكاكسا × إكسولوس تيخوانا",
       "rawIsoTime": "2026-11-07T01:00:00+00:00",
-      "time": "1 - 0 (18')",
-      "rawMinute": 18,
+      "time": "1 - 0 (19')",
+      "rawMinute": 19,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -412,7 +412,7 @@
       "matchAr": "أتلتيكو سان لويس × خواريز",
       "rawIsoTime": "2026-11-07T01:00:00+00:00",
       "time": "0 - 0 (17')",
-      "rawMinute": 17,
+      "rawMinute": 18,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
