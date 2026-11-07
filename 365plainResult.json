@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794090430971,
+  "timestamp": 1794090493284,
   "matches": [
     {
       "matchId": 4742005,
@@ -1919,8 +1919,8 @@
       "matchEn": "Argentinos Juniors v Atletico Huracan",
       "matchAr": "أرخنتينوس جونيورز × أتلتيكو هوراكان",
       "rawIsoTime": "2026-11-07T20:30:00+00:00",
-      "time": "0 - 2 (90+5')",
-      "rawMinute": 95,
+      "time": "0 - 2 (90+6')",
+      "rawMinute": 96,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -1932,9 +1932,9 @@
       "matchEn": "Boca Juniors v Defensa Y Justicia",
       "matchAr": "بوكا جونيورز × ديفينسا إي خوستيسيا",
       "rawIsoTime": "2026-11-07T20:30:00+00:00",
-      "time": "0 - 0 (90+5')",
-      "rawMinute": 95,
-      "homeGoals": 0,
+      "time": "1 - 0 (90+6')",
+      "rawMinute": 96,
+      "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
     },
