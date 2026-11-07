@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794029653615,
+  "timestamp": 1794029729330,
   "matches": [
     {
       "matchId": 4742005,
@@ -438,7 +438,7 @@
       "matchAr": "شيميزو إس-بولس × طوكيو فيردي",
       "rawIsoTime": "2026-11-07T04:00:00+00:00",
       "time": "0 - 1 (73')",
-      "rawMinute": 73,
+      "rawMinute": 74,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -450,8 +450,8 @@
       "matchEn": "Nagoya Grampus v Kyoto",
       "matchAr": "ناغويا غرامبوس × كيوتو",
       "rawIsoTime": "2026-11-07T05:00:00+00:00",
-      "time": "0 - 0 (31')",
-      "rawMinute": 31,
+      "time": "0 - 0 (32')",
+      "rawMinute": 33,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -464,7 +464,7 @@
       "matchAr": "يوكوهاما إف مارينوس × أوكاياما",
       "rawIsoTime": "2026-11-07T05:00:00+00:00",
       "time": "0 - 0 (31')",
-      "rawMinute": 31,
+      "rawMinute": 32,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -477,7 +477,7 @@
       "matchAr": "جيجو إس كيه × غوانغجو",
       "rawIsoTime": "2026-11-07T05:00:00+00:00",
       "time": "0 - 1 (34')",
-      "rawMinute": 34,
+      "rawMinute": 35,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
