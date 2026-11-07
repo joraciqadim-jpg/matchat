@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794081494372,
+  "timestamp": 1794081550316,
   "matches": [
     {
       "matchId": 4742005,
@@ -242,8 +242,8 @@
       "matchEn": "Roma v Sassuolo",
       "matchAr": "روما × ساسولو",
       "rawIsoTime": "2026-11-07T19:45:00+00:00",
-      "time": "0 - 0 (12')",
-      "rawMinute": 13,
+      "time": "0 - 0 (14')",
+      "rawMinute": 14,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1789,8 +1789,8 @@
       "matchEn": "Altrincham v Notts County",
       "matchAr": "ألترينتشام × نوتس كاونتي",
       "rawIsoTime": "2026-11-07T17:30:00+00:00",
-      "time": "2 - 2 (116')",
-      "rawMinute": 116,
+      "time": "2 - 2 (117')",
+      "rawMinute": 117,
       "homeGoals": 2,
       "awayGoals": 2,
       "isLive": true
@@ -1802,8 +1802,8 @@
       "matchEn": "Ried v LASK Linz",
       "matchAr": "ريد × لاسْك لينتس",
       "rawIsoTime": "2026-11-07T18:30:00+00:00",
-      "time": "2 - 2 (70')",
-      "rawMinute": 70,
+      "time": "2 - 2 (71')",
+      "rawMinute": 71,
       "homeGoals": 2,
       "awayGoals": 2,
       "isLive": true
@@ -1815,8 +1815,8 @@
       "matchEn": "Widzew Lodz v Pogoń Szczecin",
       "matchAr": "فيدزيف وودج × بونغ شتشيتسين",
       "rawIsoTime": "2026-11-07T19:15:00+00:00",
-      "time": "1 - 0 (36')",
-      "rawMinute": 36,
+      "time": "1 - 0 (37')",
+      "rawMinute": 37,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -1828,9 +1828,9 @@
       "matchEn": "Grasshopper Zürich v Lausanne-Sport",
       "matchAr": "غراسهوبر زيورخ × لوزان سبورت",
       "rawIsoTime": "2026-11-07T19:30:00+00:00",
-      "time": "0 - 0 (28')",
-      "rawMinute": 29,
-      "homeGoals": 0,
+      "time": "1 - 0 (30')",
+      "rawMinute": 30,
+      "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
     },
@@ -1841,8 +1841,8 @@
       "matchEn": "La Louvière Centre v Cercle Brugge",
       "matchAr": "لا لوفيير سنتر × سيركل بروج",
       "rawIsoTime": "2026-11-07T19:45:00+00:00",
-      "time": "0 - 1 (13')",
-      "rawMinute": 14,
+      "time": "0 - 1 (15')",
+      "rawMinute": 15,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -1854,8 +1854,8 @@
       "matchEn": "Royal Antwerp v Lommel United",
       "matchAr": "رويال أنتويرب × لوميل يونايتد",
       "rawIsoTime": "2026-11-07T19:45:00+00:00",
-      "time": "0 - 0 (13')",
-      "rawMinute": 13,
+      "time": "0 - 0 (14')",
+      "rawMinute": 14,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1893,11 +1893,11 @@
       "matchEn": "Maghreb Tétouan v CODM Meknes",
       "matchAr": "المغرب التطواني × النادي المكناسي",
       "rawIsoTime": "2026-11-07T20:00:00+00:00",
-      "time": "20:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4633198,
