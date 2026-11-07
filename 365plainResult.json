@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794034750738,
+  "timestamp": 1794034862615,
   "matches": [
     {
       "matchId": 4742005,
@@ -463,8 +463,8 @@
       "matchEn": "Nagoya Grampus v Kyoto",
       "matchAr": "ناغويا غرامبوس × كيوتو",
       "rawIsoTime": "2026-11-07T05:00:00+00:00",
-      "time": "0 - 2 (90+7')",
-      "rawMinute": 97,
+      "time": "0 - 2 (90+9')",
+      "rawMinute": 99,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -476,8 +476,8 @@
       "matchEn": "Yokohama Marinos v Okayama",
       "matchAr": "يوكوهاما مارينوس × أوكاياما",
       "rawIsoTime": "2026-11-07T05:00:00+00:00",
-      "time": "1 - 1 (90+7')",
-      "rawMinute": 97,
+      "time": "1 - 1 (90+9')",
+      "rawMinute": 99,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
