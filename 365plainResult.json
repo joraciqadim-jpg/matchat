@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794041053490,
+  "timestamp": 1794041132295,
   "matches": [
     {
       "matchId": 4742005,
@@ -515,8 +515,8 @@
       "matchEn": "Kashiwa Reysol v Kawasaki Frontale",
       "matchAr": "كاشيوا ريسول × كاواساكي فرونتال",
       "rawIsoTime": "2026-11-07T07:00:00+00:00",
-      "time": "2 - 1 (84')",
-      "rawMinute": 84,
+      "time": "2 - 1 (85')",
+      "rawMinute": 85,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -528,9 +528,9 @@
       "matchEn": "Gimcheon Sangmu v Anyang",
       "matchAr": "غيمتشون سانغمو × أنيانغ",
       "rawIsoTime": "2026-11-07T07:30:00+00:00",
-      "time": "1 - 0 (56')",
-      "rawMinute": 56,
-      "homeGoals": 1,
+      "time": "0 - 0 (58')",
+      "rawMinute": 58,
+      "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
     },
