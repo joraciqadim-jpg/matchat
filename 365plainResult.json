@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794083450353,
+  "timestamp": 1794083471140,
   "matches": [
     {
       "matchId": 4742005,
@@ -190,8 +190,8 @@
       "matchEn": "Paris Saint-Germain v Troyes",
       "matchAr": "باريس سان جيرمان × تروا",
       "rawIsoTime": "2026-11-07T20:05:00+00:00",
-      "time": "0 - 0 (26')",
-      "rawMinute": 26,
+      "time": "0 - 0 (27')",
+      "rawMinute": 27,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -242,8 +242,8 @@
       "matchEn": "Roma v Sassuolo",
       "matchAr": "روما × ساسولو",
       "rawIsoTime": "2026-11-07T19:45:00+00:00",
-      "time": "2 - 0 (45')",
-      "rawMinute": 45,
+      "time": "2 - 0 (45+1')",
+      "rawMinute": 46,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -320,8 +320,8 @@
       "matchEn": "Excelsior v Go Ahead Eagles",
       "matchAr": "إكسلسيور × غو أهيد إيغلز",
       "rawIsoTime": "2026-11-07T20:00:00+00:00",
-      "time": "0 - 0 (30')",
-      "rawMinute": 30,
+      "time": "0 - 0 (31')",
+      "rawMinute": 31,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1698,11 +1698,11 @@
       "matchEn": "Altrincham v Notts County",
       "matchAr": "ألترينتشام × نوتس كاونتي",
       "rawIsoTime": "2026-11-07T17:30:00+00:00",
-      "time": "2 - 2 (done)",
+      "time": "2 - 2 (120')",
       "rawMinute": 120,
       "homeGoals": 2,
       "awayGoals": 2,
-      "isLive": false
+      "isLive": true
     },
     {
       "matchId": 4741619,
@@ -1841,8 +1841,8 @@
       "matchEn": "La Louvière Centre v Cercle Brugge",
       "matchAr": "لا لوفيير سنتر × سيركل بروج",
       "rawIsoTime": "2026-11-07T19:45:00+00:00",
-      "time": "0 - 1 (45+1')",
-      "rawMinute": 46,
+      "time": "0 - 1 (45+2')",
+      "rawMinute": 47,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -1867,8 +1867,8 @@
       "matchEn": "St. Mirren v Rangers",
       "matchAr": "سانت ميرين × رينجرز",
       "rawIsoTime": "2026-11-07T20:00:00+00:00",
-      "time": "0 - 1 (28')",
-      "rawMinute": 28,
+      "time": "0 - 1 (29')",
+      "rawMinute": 29,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
