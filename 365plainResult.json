@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794027550532,
+  "timestamp": 1794027662772,
   "matches": [
     {
       "matchId": 4742005,
@@ -476,11 +476,11 @@
       "matchEn": "Jeju SK v Gwangju",
       "matchAr": "جيجو إس كيه × غوانغجو",
       "rawIsoTime": "2026-11-07T05:00:00+00:00",
-      "time": "05:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4739572,
