@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794082831320,
+  "timestamp": 1794082870524,
   "matches": [
     {
       "matchId": 4742005,
@@ -99,7 +99,7 @@
       "matchEn": "Valencia v Real Madrid",
       "matchAr": "فالنسيا × ريال مدريد",
       "rawIsoTime": "2026-11-07T20:00:00+00:00",
-      "time": "0 - 0 (18')",
+      "time": "0 - 0 (19')",
       "rawMinute": 19,
       "homeGoals": 0,
       "awayGoals": 0,
@@ -190,8 +190,8 @@
       "matchEn": "Paris Saint-Germain v Troyes",
       "matchAr": "باريس سان جيرمان × تروا",
       "rawIsoTime": "2026-11-07T20:05:00+00:00",
-      "time": "0 - 0 (16')",
-      "rawMinute": 16,
+      "time": "0 - 0 (17')",
+      "rawMinute": 17,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -243,7 +243,7 @@
       "matchAr": "روما × ساسولو",
       "rawIsoTime": "2026-11-07T19:45:00+00:00",
       "time": "2 - 0 (35')",
-      "rawMinute": 35,
+      "rawMinute": 36,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -320,8 +320,8 @@
       "matchEn": "Excelsior v Go Ahead Eagles",
       "matchAr": "إكسلسيور × غو أهيد إيغلز",
       "rawIsoTime": "2026-11-07T20:00:00+00:00",
-      "time": "0 - 0 (20')",
-      "rawMinute": 20,
+      "time": "0 - 0 (21')",
+      "rawMinute": 21,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1802,8 +1802,8 @@
       "matchEn": "Ried v LASK Linz",
       "matchAr": "ريد × لاسْك لينتس",
       "rawIsoTime": "2026-11-07T18:30:00+00:00",
-      "time": "2 - 3 (90+2')",
-      "rawMinute": 92,
+      "time": "2 - 3 (90+3')",
+      "rawMinute": 93,
       "homeGoals": 2,
       "awayGoals": 3,
       "isLive": true
@@ -1842,7 +1842,7 @@
       "matchAr": "لا لوفيير سنتر × سيركل بروج",
       "rawIsoTime": "2026-11-07T19:45:00+00:00",
       "time": "0 - 1 (36')",
-      "rawMinute": 36,
+      "rawMinute": 37,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -1854,8 +1854,8 @@
       "matchEn": "Royal Antwerp v Lommel United",
       "matchAr": "رويال أنتويرب × لوميل يونايتد",
       "rawIsoTime": "2026-11-07T19:45:00+00:00",
-      "time": "0 - 0 (35')",
-      "rawMinute": 35,
+      "time": "0 - 0 (36')",
+      "rawMinute": 36,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1867,10 +1867,10 @@
       "matchEn": "St. Mirren v Rangers",
       "matchAr": "سانت ميرين × رينجرز",
       "rawIsoTime": "2026-11-07T20:00:00+00:00",
-      "time": "0 - 0 (18')",
-      "rawMinute": 18,
+      "time": "0 - 1 (19')",
+      "rawMinute": 19,
       "homeGoals": 0,
-      "awayGoals": 0,
+      "awayGoals": 1,
       "isLive": true
     },
     {
@@ -1880,8 +1880,8 @@
       "matchEn": "Peterborough v Reading",
       "matchAr": "بيتربورو × ريدينغ",
       "rawIsoTime": "2026-11-07T20:00:00+00:00",
-      "time": "0 - 0 (20')",
-      "rawMinute": 20,
+      "time": "0 - 0 (21')",
+      "rawMinute": 21,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1893,7 +1893,7 @@
       "matchEn": "Maghreb Tétouan v CODM Meknes",
       "matchAr": "المغرب التطواني × النادي المكناسي",
       "rawIsoTime": "2026-11-07T20:00:00+00:00",
-      "time": "0 - 0 (22')",
+      "time": "0 - 0 (23')",
       "rawMinute": 23,
       "homeGoals": 0,
       "awayGoals": 0,
