@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794055454047,
+  "timestamp": 1794055531144,
   "matches": [
     {
       "matchId": 4742005,
@@ -8,8 +8,8 @@
       "matchEn": "Leeds United v Tottenham Hotspur",
       "matchAr": "ليدز يونايتد × توتنهام هوتسبير",
       "rawIsoTime": "2026-11-07T12:30:00+00:00",
-      "time": "0 - 0 (14')",
-      "rawMinute": 14,
+      "time": "0 - 0 (15')",
+      "rawMinute": 15,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -554,8 +554,8 @@
       "matchEn": "Fakel Voronezh v Dinamo Moskva",
       "matchAr": "فاكيل فورونيج × دينامو موسكو",
       "rawIsoTime": "2026-11-07T11:00:00+00:00",
-      "time": "1 - 1 (85')",
-      "rawMinute": 85,
+      "time": "1 - 1 (86')",
+      "rawMinute": 86,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -580,8 +580,8 @@
       "matchEn": "Epitsentr Kamianets-Podilskyi v Kryvbas Kriviy Rih",
       "matchAr": "إبيتسنتر كاميانيتس-بوديلسكي × كريفباس كريفي ريغ",
       "rawIsoTime": "2026-11-07T11:00:00+00:00",
-      "time": "1 - 1 (82')",
-      "rawMinute": 83,
+      "time": "1 - 1 (84')",
+      "rawMinute": 84,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -593,8 +593,8 @@
       "matchEn": "Kudrivka v Chornomorets Odesa",
       "matchAr": "كودريفكا × تشورنوموريتس أوديسا",
       "rawIsoTime": "2026-11-07T11:00:00+00:00",
-      "time": "1 - 0 (85')",
-      "rawMinute": 85,
+      "time": "1 - 0 (86')",
+      "rawMinute": 86,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -606,10 +606,10 @@
       "matchEn": "Korona Kielce v Radomiak Radom",
       "matchAr": "كورونا كيلتسه × رادومياك رادوم",
       "rawIsoTime": "2026-11-07T11:15:00+00:00",
-      "time": "0 - 0 (67')",
-      "rawMinute": 68,
+      "time": "0 - 1 (69')",
+      "rawMinute": 69,
       "homeGoals": 0,
-      "awayGoals": 0,
+      "awayGoals": 1,
       "isLive": true
     },
     {
@@ -619,8 +619,8 @@
       "matchEn": "Inter Kashi v Delhi",
       "matchAr": "إنتر كاشي × دلهي",
       "rawIsoTime": "2026-11-07T11:30:00+00:00",
-      "time": "0 - 1 (56')",
-      "rawMinute": 56,
+      "time": "0 - 1 (57')",
+      "rawMinute": 57,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -632,8 +632,8 @@
       "matchEn": "Homs Al Fidaa v Foutoua",
       "matchAr": "حمص الفداء × الفتوة",
       "rawIsoTime": "2026-11-07T12:00:00+00:00",
-      "time": "0 - 0 (44')",
-      "rawMinute": 44,
+      "time": "0 - 0 (45')",
+      "rawMinute": 45,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -645,8 +645,8 @@
       "matchEn": "Jaish v Al Karamah",
       "matchAr": "الجيش × الكرامة",
       "rawIsoTime": "2026-11-07T12:00:00+00:00",
-      "time": "0 - 0 (43')",
-      "rawMinute": 43,
+      "time": "0 - 0 (44')",
+      "rawMinute": 44,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -658,8 +658,8 @@
       "matchEn": "Al-Jndal v Hajer",
       "matchAr": "الجندل × هجر",
       "rawIsoTime": "2026-11-07T12:30:00+00:00",
-      "time": "0 - 0 (13')",
-      "rawMinute": 13,
+      "time": "0 - 0 (15')",
+      "rawMinute": 15,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
