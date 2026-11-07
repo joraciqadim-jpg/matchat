@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794034333970,
+  "timestamp": 1794034390552,
   "matches": [
     {
       "matchId": 4742005,
@@ -444,14 +444,27 @@
       "isLive": false
     },
     {
+      "matchId": 4885476,
+      "tournamentEn": "🇰🇷 South Korean League",
+      "tournamentAr": "🇰🇷 الدوري الكوري الجنوبي",
+      "matchEn": "Jeju SK v Gwangju",
+      "matchAr": "جيجو إس كيه × غوانغجو",
+      "rawIsoTime": "2026-11-07T05:00:00+00:00",
+      "time": "1 - 1 (done)",
+      "rawMinute": 90,
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "isLive": false
+    },
+    {
       "matchId": 4739574,
       "tournamentEn": "🇯🇵 Japanese J1 League",
       "tournamentAr": "🇯🇵 الدوري الياباني",
       "matchEn": "Nagoya Grampus v Kyoto",
       "matchAr": "ناغويا غرامبوس × كيوتو",
       "rawIsoTime": "2026-11-07T05:00:00+00:00",
-      "time": "0 - 2 (90')",
-      "rawMinute": 90,
+      "time": "0 - 2 (90+1')",
+      "rawMinute": 91,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -463,21 +476,8 @@
       "matchEn": "Yokohama Marinos v Okayama",
       "matchAr": "يوكوهاما مارينوس × أوكاياما",
       "rawIsoTime": "2026-11-07T05:00:00+00:00",
-      "time": "1 - 1 (90')",
-      "rawMinute": 90,
-      "homeGoals": 1,
-      "awayGoals": 1,
-      "isLive": true
-    },
-    {
-      "matchId": 4885476,
-      "tournamentEn": "🇰🇷 South Korean League",
-      "tournamentAr": "🇰🇷 الدوري الكوري الجنوبي",
-      "matchEn": "Jeju SK v Gwangju",
-      "matchAr": "جيجو إس كيه × غوانغجو",
-      "rawIsoTime": "2026-11-07T05:00:00+00:00",
-      "time": "1 - 1 (90+5')",
-      "rawMinute": 95,
+      "time": "1 - 1 (90+1')",
+      "rawMinute": 91,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
