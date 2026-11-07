@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794057790449,
+  "timestamp": 1794057854084,
   "matches": [
     {
       "matchId": 4742005,
@@ -60,8 +60,8 @@
       "matchEn": "Málaga v Racing Santander",
       "matchAr": "ملقا × راسينغ سانتاندير",
       "rawIsoTime": "2026-11-07T13:00:00+00:00",
-      "time": "0 - 0 (22')",
-      "rawMinute": 23,
+      "time": "0 - 0 (23')",
+      "rawMinute": 24,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -600,6 +600,19 @@
       "isLive": false
     },
     {
+      "matchId": 4865232,
+      "tournamentEn": "🇮🇳 Indian Super League",
+      "tournamentAr": "🇮🇳 الدوري الهندي",
+      "matchEn": "Inter Kashi v Delhi",
+      "matchAr": "إنتر كاشي × دلهي",
+      "rawIsoTime": "2026-11-07T11:30:00+00:00",
+      "time": "0 - 3 (done)",
+      "rawMinute": 90,
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "isLive": false
+    },
+    {
       "matchId": 4748658,
       "tournamentEn": "🇺🇦 Ukrainian League",
       "tournamentAr": "🇺🇦 الدوري الأوكراني",
@@ -613,19 +626,6 @@
       "isLive": true
     },
     {
-      "matchId": 4865232,
-      "tournamentEn": "🇮🇳 Indian Super League",
-      "tournamentAr": "🇮🇳 الدوري الهندي",
-      "matchEn": "Inter Kashi v Delhi",
-      "matchAr": "إنتر كاشي × دلهي",
-      "rawIsoTime": "2026-11-07T11:30:00+00:00",
-      "time": "0 - 3 (90+5')",
-      "rawMinute": 95,
-      "homeGoals": 0,
-      "awayGoals": 3,
-      "isLive": true
-    },
-    {
       "matchId": 4889306,
       "tournamentEn": "🇸🇾 Syrian League",
       "tournamentAr": "🇸🇾 الدوري السوري",
@@ -633,7 +633,7 @@
       "matchAr": "حمص الفداء × الفتوة",
       "rawIsoTime": "2026-11-07T12:00:00+00:00",
       "time": "0 - 0 (62')",
-      "rawMinute": 62,
+      "rawMinute": 63,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -645,8 +645,8 @@
       "matchEn": "Jaish v Al Karamah",
       "matchAr": "الجيش × الكرامة",
       "rawIsoTime": "2026-11-07T12:00:00+00:00",
-      "time": "0 - 0 (62')",
-      "rawMinute": 62,
+      "time": "0 - 0 (63')",
+      "rawMinute": 63,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -671,8 +671,8 @@
       "matchEn": "Al Dhafra v Ittihad Kalba",
       "matchAr": "الظفرة × اتحاد كلباء",
       "rawIsoTime": "2026-11-07T12:55:00+00:00",
-      "time": "1 - 0 (28')",
-      "rawMinute": 28,
+      "time": "1 - 0 (29')",
+      "rawMinute": 29,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -684,8 +684,8 @@
       "matchEn": "Samsunspor v Ayos Konyaspor",
       "matchAr": "سامسون سبور × قونية سبور",
       "rawIsoTime": "2026-11-07T13:00:00+00:00",
-      "time": "0 - 0 (22')",
-      "rawMinute": 22,
+      "time": "0 - 0 (23')",
+      "rawMinute": 23,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -697,8 +697,8 @@
       "matchEn": "Quwa Al Jawiya v Karkh",
       "matchAr": "القوة الجوية × الكرخ",
       "rawIsoTime": "2026-11-07T13:00:00+00:00",
-      "time": "0 - 1 (22')",
-      "rawMinute": 23,
+      "time": "0 - 1 (23')",
+      "rawMinute": 24,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -710,8 +710,8 @@
       "matchEn": "Olympique Akbou v JS Kabylie",
       "matchAr": "أولمبيك أقبو × شبيبة القبائل",
       "rawIsoTime": "2026-11-07T13:00:00+00:00",
-      "time": "0 - 0 (23')",
-      "rawMinute": 23,
+      "time": "0 - 0 (24')",
+      "rawMinute": 24,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
