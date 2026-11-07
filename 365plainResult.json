@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794060070658,
+  "timestamp": 1794060134091,
   "matches": [
     {
       "matchId": 4742005,
@@ -8,8 +8,8 @@
       "matchEn": "Leeds United v Tottenham Hotspur",
       "matchAr": "ليدز يونايتد × توتنهام هوتسبير",
       "rawIsoTime": "2026-11-07T12:30:00+00:00",
-      "time": "0 - 0 (69')",
-      "rawMinute": 69,
+      "time": "0 - 0 (70')",
+      "rawMinute": 70,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -658,8 +658,8 @@
       "matchEn": "Al-Jndal v Hajer",
       "matchAr": "الجندل × هجر",
       "rawIsoTime": "2026-11-07T12:30:00+00:00",
-      "time": "0 - 0 (69')",
-      "rawMinute": 69,
+      "time": "0 - 0 (71')",
+      "rawMinute": 71,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -723,8 +723,8 @@
       "matchEn": "Akhmat Grozny v Rodina Moskva",
       "matchAr": "أخمات غروزني × رودينا موسكو",
       "rawIsoTime": "2026-11-07T13:30:00+00:00",
-      "time": "0 - 0 (31')",
-      "rawMinute": 31,
+      "time": "0 - 0 (32')",
+      "rawMinute": 32,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -736,8 +736,8 @@
       "matchEn": "Progres Sakiet v Club Africain",
       "matchAr": "بروغري س سقيت × النادي الإفريقي",
       "rawIsoTime": "2026-11-07T13:30:00+00:00",
-      "time": "0 - 0 (31')",
-      "rawMinute": 32,
+      "time": "0 - 0 (32')",
+      "rawMinute": 33,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -749,8 +749,8 @@
       "matchEn": "Étoile du Sahel v Club Sfaxien",
       "matchAr": "النجم الساحلي × النادي الصفاقسي",
       "rawIsoTime": "2026-11-07T13:30:00+00:00",
-      "time": "0 - 0 (31')",
-      "rawMinute": 31,
+      "time": "0 - 0 (32')",
+      "rawMinute": 32,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -762,8 +762,8 @@
       "matchEn": "Esperance ST v US Monastir",
       "matchAr": "الترجي الرياضي × الاتحاد المنستيري",
       "rawIsoTime": "2026-11-07T13:30:00+00:00",
-      "time": "0 - 0 (31')",
-      "rawMinute": 31,
+      "time": "0 - 0 (32')",
+      "rawMinute": 32,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -775,8 +775,8 @@
       "matchEn": "Slask Wroclaw v Piast Gliwice",
       "matchAr": "شلاسْك فروتسواف × بياست غليفيتسه",
       "rawIsoTime": "2026-11-07T13:45:00+00:00",
-      "time": "0 - 0 (14')",
-      "rawMinute": 14,
+      "time": "0 - 0 (15')",
+      "rawMinute": 15,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -788,11 +788,11 @@
       "matchEn": "Hradec Kralove v SK Sigma Olomouc",
       "matchAr": "هرادتس كرالوفه × سيغما أولوموتس",
       "rawIsoTime": "2026-11-07T14:00:00+00:00",
-      "time": "14:00",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "time": "0 - 0 (1')",
+      "rawMinute": 2,
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4743857,
@@ -801,8 +801,8 @@
       "matchEn": "Fastav Zlin v Slovacko",
       "matchAr": "فاستاف زلين × سلوفاكو",
       "rawIsoTime": "2026-11-07T14:00:00+00:00",
-      "time": "0 - 0 (1')",
-      "rawMinute": 1,
+      "time": "0 - 0 (3')",
+      "rawMinute": 3,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -827,11 +827,11 @@
       "matchEn": "Chennaiyin v East Bengal",
       "matchAr": "تشينايين × إيست بنغال",
       "rawIsoTime": "2026-11-07T14:00:00+00:00",
-      "time": "14:00",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "time": "0 - 0 (2')",
+      "rawMinute": 2,
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4888465,
@@ -840,8 +840,8 @@
       "matchEn": "Doqarah v Arabi Irbid",
       "matchAr": "الطيبة × العربي إربد",
       "rawIsoTime": "2026-11-07T14:00:00+00:00",
-      "time": "0 - 0 (1')",
-      "rawMinute": 1,
+      "time": "0 - 0 (3')",
+      "rawMinute": 3,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -938,6 +938,19 @@
       "isLive": false
     },
     {
+      "matchId": 4882323,
+      "tournamentEn": "🏆 English FA Cup - 1st Round",
+      "tournamentAr": "🏆 كأس الاتحاد الإنجليزي - الدور الأول",
+      "matchEn": "Burton Albion v Rushden & D.",
+      "matchAr": "بيرتون ألبيون × راشدن و دايموندز",
+      "rawIsoTime": "2026-11-07T15:00:00+00:00",
+      "time": "15:00",
+      "rawMinute": 1,
+      "homeGoals": -1,
+      "awayGoals": -1,
+      "isLive": false
+    },
+    {
       "matchId": 4882327,
       "tournamentEn": "🏆 English FA Cup - 1st Round",
       "tournamentAr": "🏆 كأس الاتحاد الإنجليزي - الدور الأول",
@@ -956,6 +969,32 @@
       "tournamentAr": "🏆 كأس الاتحاد الإنجليزي - الدور الأول",
       "matchEn": "Kidderminster Harriers v Doncaster Rovers",
       "matchAr": "كيدرمينستر هاريرز × دونكاستر روفرز",
+      "rawIsoTime": "2026-11-07T15:00:00+00:00",
+      "time": "15:00",
+      "rawMinute": 1,
+      "homeGoals": -1,
+      "awayGoals": -1,
+      "isLive": false
+    },
+    {
+      "matchId": 4882337,
+      "tournamentEn": "🏆 English FA Cup - 1st Round",
+      "tournamentAr": "🏆 كأس الاتحاد الإنجليزي - الدور الأول",
+      "matchEn": "Eastleigh v Shrewsbury Town",
+      "matchAr": "إيستلي × شروزبري تاون",
+      "rawIsoTime": "2026-11-07T15:00:00+00:00",
+      "time": "15:00",
+      "rawMinute": 1,
+      "homeGoals": -1,
+      "awayGoals": -1,
+      "isLive": false
+    },
+    {
+      "matchId": 4882341,
+      "tournamentEn": "🏆 English FA Cup - 1st Round",
+      "tournamentAr": "🏆 كأس الاتحاد الإنجليزي - الدور الأول",
+      "matchEn": "Carlisle United v Salford City",
+      "matchAr": "كارلايل يونايتد × سالford سيتي",
       "rawIsoTime": "2026-11-07T15:00:00+00:00",
       "time": "15:00",
       "rawMinute": 1,
