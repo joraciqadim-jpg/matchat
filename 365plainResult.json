@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794027493518,
+  "timestamp": 1794027550532,
   "matches": [
     {
       "matchId": 4742005,
@@ -424,11 +424,11 @@
       "matchEn": "Atlante v Santos Laguna",
       "matchAr": "أتلانتي × سانتوس لاغونا",
       "rawIsoTime": "2026-11-07T03:00:00+00:00",
-      "time": "0 - 2 (90+4')",
-      "rawMinute": 94,
+      "time": "0 - 2 (done)",
+      "rawMinute": 90,
       "homeGoals": 0,
       "awayGoals": 2,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4739575,
