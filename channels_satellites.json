@@ -1,4 +1,92 @@
 {
+  "Band Sports Brazil HD": {
+    "satellites": [
+      {
+        "satellite": "Star One 70.0W",
+        "frequency": "12680 V 29892"
+      }
+    ]
+  },
+  "M+ #Vamos Bar 3": {
+    "satellites": [
+      {
+        "satellite": "Astra 19.2E",
+        "frequency": "10876 V 22000"
+      }
+    ]
+  },
+  "BeIN Sports MENA Xtra 4 HD": {
+    "satellites": [
+      {
+        "satellite": "Eshail 25.5E",
+        "frequency": "10850 V 27500"
+      }
+    ]
+  },
+  "NBC Sports 4K": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "ON Sport Max HD": {
+    "satellites": [
+      {
+        "satellite": "Nilesat 7.0W",
+        "frequency": "11977 V 27500"
+      }
+    ]
+  },
+  "Sky Sport 1 Deutsch HD": {
+    "satellites": [
+      {
+        "satellite": "Astra 19.2E",
+        "frequency": "11914 H 27500"
+      }
+    ]
+  },
+  "BeIN Sports MENA Xtra 9 HD": {
+    "satellites": [
+      {
+        "satellite": "Eshail 25.5E",
+        "frequency": "10850 V 27500"
+      }
+    ]
+  },
+  "BeIN Sports MENA Xtra 8 HD": {
+    "satellites": [
+      {
+        "satellite": "Eshail 25.5E",
+        "frequency": "10850 V 27500"
+      }
+    ]
+  },
+  "BeIN Sports MENA Xtra 7 HD": {
+    "satellites": [
+      {
+        "satellite": "Eshail 25.5E",
+        "frequency": "10850 V 27500"
+      }
+    ]
+  },
+  "BeIN Sports MENA Xtra 6 HD": {
+    "satellites": [
+      {
+        "satellite": "Eshail 25.5E",
+        "frequency": "10850 V 27500"
+      }
+    ]
+  },
+  "RIK 2 Cyprus HD": {
+    "satellites": [
+      {
+        "satellite": "Hotbird 13.0E",
+        "frequency": "11179 H 27500"
+      }
+    ]
+  }
+,
   "Canal+ Sport 4 Polska HD": {
     "satellites": [
       {
