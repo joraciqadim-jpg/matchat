@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794079849994,
+  "timestamp": 1794079871173,
   "matches": [
     {
       "matchId": 4742005,
@@ -268,8 +268,8 @@
       "matchEn": "Alverca v Casa Pia",
       "matchAr": "ألفيركا × كازا بيا",
       "rawIsoTime": "2026-11-07T18:00:00+00:00",
-      "time": "1 - 1 (67')",
-      "rawMinute": 67,
+      "time": "1 - 1 (68')",
+      "rawMinute": 68,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -307,8 +307,8 @@
       "matchEn": "ADO Den Haag v Sparta Rotterdam",
       "matchAr": "أدو دين هاغ × سبارتا روتردام",
       "rawIsoTime": "2026-11-07T17:45:00+00:00",
-      "time": "3 - 1 (87')",
-      "rawMinute": 87,
+      "time": "3 - 1 (88')",
+      "rawMinute": 88,
       "homeGoals": 3,
       "awayGoals": 1,
       "isLive": true
@@ -1724,7 +1724,7 @@
       "matchEn": "Aberdeen v Hibernian",
       "matchAr": "أبردين × هيبرنيان",
       "rawIsoTime": "2026-11-07T17:45:00+00:00",
-      "time": "0 - 3 (88')",
+      "time": "0 - 3 (89')",
       "rawMinute": 89,
       "homeGoals": 0,
       "awayGoals": 3,
@@ -1777,7 +1777,7 @@
       "matchAr": "بيراميدز × الداخلية",
       "rawIsoTime": "2026-11-07T18:00:00+00:00",
       "time": "1 - 0 (70')",
-      "rawMinute": 70,
+      "rawMinute": 71,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -1789,8 +1789,8 @@
       "matchEn": "Al-Ahly v El Sekka El Hadid",
       "matchAr": "الأهلي × السكة الحديد",
       "rawIsoTime": "2026-11-07T18:00:00+00:00",
-      "time": "2 - 0 (68')",
-      "rawMinute": 68,
+      "time": "2 - 0 (69')",
+      "rawMinute": 69,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -1828,8 +1828,8 @@
       "matchEn": "Grasshopper Zürich v Lausanne-Sport",
       "matchAr": "غراسهوبر زيورخ × لوزان سبورت",
       "rawIsoTime": "2026-11-07T19:30:00+00:00",
-      "time": "0 - 0 (1')",
-      "rawMinute": 1,
+      "time": "0 - 0 (2')",
+      "rawMinute": 2,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
