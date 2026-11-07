@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794072649624,
+  "timestamp": 1794072671450,
   "matches": [
     {
       "matchId": 4742005,
@@ -1412,10 +1412,10 @@
       "matchEn": "AFC Hornchurch v Blackpool",
       "matchAr": "هورن تشيرش × بلاكبول",
       "rawIsoTime": "2026-11-07T15:00:00+00:00",
-      "time": "1 - 1 (118')",
+      "time": "1 - 2 (118')",
       "rawMinute": 118,
       "homeGoals": 1,
-      "awayGoals": 1,
+      "awayGoals": 2,
       "isLive": true
     },
     {
@@ -1425,7 +1425,7 @@
       "matchEn": "Hatta v Khor Fakkan",
       "matchAr": "حتا × خورفكان",
       "rawIsoTime": "2026-11-07T15:30:00+00:00",
-      "time": "1 - 2 (90+7')",
+      "time": "1 - 2 (90+8')",
       "rawMinute": 98,
       "homeGoals": 1,
       "awayGoals": 2,
@@ -1439,7 +1439,7 @@
       "matchAr": "أوستريا لوستناو × غراتسر 1902",
       "rawIsoTime": "2026-11-07T16:00:00+00:00",
       "time": "1 - 1 (74')",
-      "rawMinute": 74,
+      "rawMinute": 75,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -1451,8 +1451,8 @@
       "matchEn": "Galatasaray v Amed SK",
       "matchAr": "غلطة سراي × آمد سبور",
       "rawIsoTime": "2026-11-07T16:00:00+00:00",
-      "time": "3 - 2 (69')",
-      "rawMinute": 69,
+      "time": "3 - 2 (70')",
+      "rawMinute": 70,
       "homeGoals": 3,
       "awayGoals": 2,
       "isLive": true
@@ -1620,7 +1620,7 @@
       "matchEn": "Odense Boldklub v Viborg",
       "matchAr": "أودنسه بولدكلوب × فيبورغ",
       "rawIsoTime": "2026-11-07T17:00:00+00:00",
-      "time": "0 - 1 (30')",
+      "time": "0 - 1 (31')",
       "rawMinute": 31,
       "homeGoals": 0,
       "awayGoals": 1,
@@ -1698,8 +1698,8 @@
       "matchEn": "Oud-Heverlee Leuven v KV Mechelen",
       "matchAr": "أود هيفرلي لوفين × ميخلين",
       "rawIsoTime": "2026-11-07T17:15:00+00:00",
-      "time": "0 - 0 (14')",
-      "rawMinute": 14,
+      "time": "0 - 0 (15')",
+      "rawMinute": 15,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
