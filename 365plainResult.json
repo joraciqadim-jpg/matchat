@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794049150623,
+  "timestamp": 1794049262103,
   "matches": [
     {
       "matchId": 4742005,
@@ -541,8 +541,8 @@
       "matchEn": "Eyupspor v Kocaelispor",
       "matchAr": "أيوب سبور × كوجالي سبور",
       "rawIsoTime": "2026-11-07T10:30:00+00:00",
-      "time": "0 - 2 (29')",
-      "rawMinute": 29,
+      "time": "0 - 2 (31')",
+      "rawMinute": 31,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -554,11 +554,11 @@
       "matchEn": "Fakel Voronezh v Dinamo Moskva",
       "matchAr": "فاكيل فورونيج × دينامو موسكو",
       "rawIsoTime": "2026-11-07T11:00:00+00:00",
-      "time": "11:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4748658,
