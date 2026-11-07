@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794093133806,
+  "timestamp": 1794093190237,
   "matches": [
     {
       "matchId": 4742005,
@@ -249,19 +249,6 @@
       "isLive": false
     },
     {
-      "matchId": 4757201,
-      "tournamentEn": "🇵🇹 Portuguese Liga 1",
-      "tournamentAr": "🇵🇹 الدوري البرتغالي",
-      "matchEn": "Nacional Madeira v Viseu",
-      "matchAr": "ناسيونال ماديرا × فيزيو",
-      "rawIsoTime": "2026-11-07T15:30:00+00:00",
-      "time": "15:30",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
-    },
-    {
       "matchId": 4757196,
       "tournamentEn": "🇵🇹 Portuguese Liga 1",
       "tournamentAr": "🇵🇹 الدوري البرتغالي",
@@ -285,6 +272,19 @@
       "rawMinute": 90,
       "homeGoals": 1,
       "awayGoals": 0,
+      "isLive": false
+    },
+    {
+      "matchId": 4757201,
+      "tournamentEn": "🇵🇹 Portuguese Liga 1",
+      "tournamentAr": "🇵🇹 الدوري البرتغالي",
+      "matchEn": "Nacional Madeira v Viseu",
+      "matchAr": "ناسيونال ماديرا × فيزيو",
+      "rawIsoTime": "2026-11-08T15:30:00+00:00",
+      "time": "15:30",
+      "rawMinute": 1,
+      "homeGoals": -1,
+      "awayGoals": -1,
       "isLive": false
     },
     {
@@ -1945,10 +1945,10 @@
       "matchEn": "Atlas Guadalajara v Pachuca",
       "matchAr": "أطلس غوادالاخارا × باتشوكا",
       "rawIsoTime": "2026-11-07T23:00:00+00:00",
-      "time": "0 - 1 (11')",
-      "rawMinute": 11,
+      "time": "0 - 2 (12')",
+      "rawMinute": 12,
       "homeGoals": 0,
-      "awayGoals": 1,
+      "awayGoals": 2,
       "isLive": true
     }
   ]
