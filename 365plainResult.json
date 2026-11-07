@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794053122023,
+  "timestamp": 1794053174434,
   "matches": [
     {
       "matchId": 4742005,
@@ -541,8 +541,8 @@
       "matchEn": "Eyupspor v Kocaelispor",
       "matchAr": "أيوب سبور × كوجالي سبور",
       "rawIsoTime": "2026-11-07T10:30:00+00:00",
-      "time": "0 - 2 (78')",
-      "rawMinute": 78,
+      "time": "0 - 2 (79')",
+      "rawMinute": 79,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -554,8 +554,8 @@
       "matchEn": "Fakel Voronezh v Dinamo Moskva",
       "matchAr": "فاكيل فورونيج × دينامو موسكو",
       "rawIsoTime": "2026-11-07T11:00:00+00:00",
-      "time": "1 - 1 (46')",
-      "rawMinute": 46,
+      "time": "1 - 1 (47')",
+      "rawMinute": 47,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -594,7 +594,7 @@
       "matchAr": "كودريفكا × تشورنوموريتس أوديسا",
       "rawIsoTime": "2026-11-07T11:00:00+00:00",
       "time": "1 - 0 (46')",
-      "rawMinute": 46,
+      "rawMinute": 47,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -606,8 +606,8 @@
       "matchEn": "Korona Kielce v Radomiak Radom",
       "matchAr": "كورونا كيلتسه × رادومياك رادوم",
       "rawIsoTime": "2026-11-07T11:15:00+00:00",
-      "time": "0 - 0 (45+3')",
-      "rawMinute": 48,
+      "time": "0 - 0 (Halftime)",
+      "rawMinute": 45,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -619,8 +619,8 @@
       "matchEn": "Inter Kashi v Delhi",
       "matchAr": "إنتر كاشي × دلهي",
       "rawIsoTime": "2026-11-07T11:30:00+00:00",
-      "time": "0 - 1 (35')",
-      "rawMinute": 35,
+      "time": "0 - 1 (36')",
+      "rawMinute": 36,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
