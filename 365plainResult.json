@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794038173584,
+  "timestamp": 1794038230978,
   "matches": [
     {
       "matchId": 4742005,
@@ -489,11 +489,11 @@
       "matchEn": "Fukuoka v V-Varen Nagasaki",
       "matchAr": "فوكوكا × في-فارين ناغاساكي",
       "rawIsoTime": "2026-11-07T06:00:00+00:00",
-      "time": "1 - 1 (90+5')",
-      "rawMinute": 95,
+      "time": "1 - 1 (done)",
+      "rawMinute": 90,
       "homeGoals": 1,
       "awayGoals": 1,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4739578,
@@ -502,11 +502,11 @@
       "matchEn": "Tokyo v Kashima Antlers",
       "matchAr": "طوكيو × كاشيما أنتلرز",
       "rawIsoTime": "2026-11-07T06:00:00+00:00",
-      "time": "2 - 0 (90+6')",
-      "rawMinute": 96,
+      "time": "2 - 0 (done)",
+      "rawMinute": 90,
       "homeGoals": 2,
       "awayGoals": 0,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4739580,
@@ -528,8 +528,8 @@
       "matchEn": "Gimcheon Sangmu v Anyang",
       "matchAr": "غيمتشون سانغمو × أنيانغ",
       "rawIsoTime": "2026-11-07T07:30:00+00:00",
-      "time": "0 - 0 (26')",
-      "rawMinute": 26,
+      "time": "0 - 0 (27')",
+      "rawMinute": 27,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
