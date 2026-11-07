@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794034991102,
+  "timestamp": 1794035053955,
   "matches": [
     {
       "matchId": 4742005,
@@ -515,11 +515,11 @@
       "matchEn": "Kashiwa Reysol v Kawasaki Frontale",
       "matchAr": "كاشيوا ريسول × كاواساكي فرونتال",
       "rawIsoTime": "2026-11-07T07:00:00+00:00",
-      "time": "07:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4885475,
