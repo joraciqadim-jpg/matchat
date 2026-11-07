@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794021071341,
+  "timestamp": 1794021133948,
   "matches": [
     {
       "matchId": 4742005,
@@ -411,11 +411,11 @@
       "matchEn": "Atlético San Luis v Juarez",
       "matchAr": "أتلتيكو سان لويس × خواريز",
       "rawIsoTime": "2026-11-07T01:00:00+00:00",
-      "time": "0 - 1 (90+5')",
-      "rawMinute": 95,
+      "time": "0 - 1 (done)",
+      "rawMinute": 90,
       "homeGoals": 0,
       "awayGoals": 1,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4735626,
@@ -424,8 +424,8 @@
       "matchEn": "Atlante v Santos Laguna",
       "matchAr": "أتلانتي × سانتوس لاغونا",
       "rawIsoTime": "2026-11-07T03:00:00+00:00",
-      "time": "0 - 0 (7')",
-      "rawMinute": 7,
+      "time": "0 - 0 (8')",
+      "rawMinute": 8,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
