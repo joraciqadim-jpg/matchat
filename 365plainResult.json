@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794120734340,
+  "timestamp": 1794120790840,
   "matches": [
     {
       "matchId": 4742002,
@@ -528,9 +528,9 @@
       "matchEn": "Vissel Kobe v Urawa Red Diamonds",
       "matchAr": "فيسيل كوبي × أوراوا ريد دايموندز",
       "rawIsoTime": "2026-11-08T05:00:00+00:00",
-      "time": "1 - 2 (90+3')",
-      "rawMinute": 93,
-      "homeGoals": 1,
+      "time": "2 - 2 (90+4')",
+      "rawMinute": 94,
+      "homeGoals": 2,
       "awayGoals": 2,
       "isLive": true
     },
@@ -541,7 +541,7 @@
       "matchEn": "Machida Zelvia v Hiroshima Sanfrecce",
       "matchAr": "ماتشيدا زيلفيا × هيروشيما سانفريتشي",
       "rawIsoTime": "2026-11-08T05:00:00+00:00",
-      "time": "0 - 0 (84')",
+      "time": "0 - 0 (85')",
       "rawMinute": 85,
       "homeGoals": 0,
       "awayGoals": 0,
@@ -554,8 +554,8 @@
       "matchEn": "Daejeon Hana Citizen v Incheon United",
       "matchAr": "دايجون هانا سيتيزن × إنتشون يونايتد",
       "rawIsoTime": "2026-11-08T05:00:00+00:00",
-      "time": "2 - 0 (90+3')",
-      "rawMinute": 93,
+      "time": "2 - 0 (90+4')",
+      "rawMinute": 94,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
