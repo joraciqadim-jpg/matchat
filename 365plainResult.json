@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794139454461,
+  "timestamp": 1794139521921,
   "matches": [
     {
       "matchId": 4742002,
@@ -255,8 +255,8 @@
       "matchEn": "SSC Napoli v SS Lazio",
       "matchAr": "نابولي × لاتسيو",
       "rawIsoTime": "2026-11-08T11:30:00+00:00",
-      "time": "0 - 1 (32')",
-      "rawMinute": 32,
+      "time": "0 - 1 (33')",
+      "rawMinute": 33,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -398,8 +398,8 @@
       "matchEn": "Heerenveen v Feyenoord",
       "matchAr": "هيرينفين × فاينورد",
       "rawIsoTime": "2026-11-08T11:15:00+00:00",
-      "time": "1 - 2 (45+3')",
-      "rawMinute": 48,
+      "time": "1 - 2 (Halftime)",
+      "rawMinute": 45,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -723,8 +723,8 @@
       "matchEn": "Caykur Rizespor v Erzurumspor",
       "matchAr": "تشايكور ريزه سبور × أرضروم سبور",
       "rawIsoTime": "2026-11-08T10:30:00+00:00",
-      "time": "2 - 1 (77')",
-      "rawMinute": 77,
+      "time": "2 - 1 (78')",
+      "rawMinute": 78,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -749,8 +749,8 @@
       "matchEn": "PFK Krylya Sovetov Samara v Orenburg",
       "matchAr": "كريليا سوفيتوف سامارا × أورينبورغ",
       "rawIsoTime": "2026-11-08T11:00:00+00:00",
-      "time": "1 - 0 (Halftime)",
-      "rawMinute": 45,
+      "time": "1 - 0 (46')",
+      "rawMinute": 46,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -762,8 +762,8 @@
       "matchEn": "Zorya Luhansk v LNZ Cherkasy",
       "matchAr": "زوريا لوغانسك × إل إن زد تشيركاسي",
       "rawIsoTime": "2026-11-08T11:00:00+00:00",
-      "time": "0 - 1 (31')",
-      "rawMinute": 31,
+      "time": "0 - 1 (32')",
+      "rawMinute": 32,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -775,8 +775,8 @@
       "matchEn": "Bukovyna v Kolos Kovalivka",
       "matchAr": "بوكوفينا × كولوس كوفاليفكا",
       "rawIsoTime": "2026-11-08T11:00:00+00:00",
-      "time": "0 - 1 (46')",
-      "rawMinute": 46,
+      "time": "0 - 1 (47')",
+      "rawMinute": 47,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -801,8 +801,8 @@
       "matchEn": "Teplice v Pardubice",
       "matchAr": "تيبليتسه × باردوبيتسه",
       "rawIsoTime": "2026-11-08T12:00:00+00:00",
-      "time": "0 - 0 (5')",
-      "rawMinute": 5,
+      "time": "0 - 0 (6')",
+      "rawMinute": 6,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -814,8 +814,8 @@
       "matchEn": "Stafford Rangers v Grimsby Town",
       "matchAr": "ستافورد رينجرز × غريمسبي تاون",
       "rawIsoTime": "2026-11-08T12:00:00+00:00",
-      "time": "1 - 0 (3')",
-      "rawMinute": 3,
+      "time": "1 - 0 (5')",
+      "rawMinute": 5,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
