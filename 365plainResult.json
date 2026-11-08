@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794160094598,
+  "timestamp": 1794160150956,
   "matches": [
     {
       "matchId": 4742002,
@@ -61,7 +61,7 @@
       "matchAr": "مانشستر يونايتد × أستون فيلا",
       "rawIsoTime": "2026-11-08T16:30:00+00:00",
       "time": "2 - 4 (57')",
-      "rawMinute": 57,
+      "rawMinute": 58,
       "homeGoals": 2,
       "awayGoals": 4,
       "isLive": true
@@ -100,7 +100,7 @@
       "matchAr": "فياريال × خيتافي",
       "rawIsoTime": "2026-11-08T17:30:00+00:00",
       "time": "0 - 0 (17')",
-      "rawMinute": 17,
+      "rawMinute": 18,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -113,7 +113,7 @@
       "matchAr": "سيلتا فيغو × ليفانتي",
       "rawIsoTime": "2026-11-08T17:30:00+00:00",
       "time": "0 - 0 (14')",
-      "rawMinute": 14,
+      "rawMinute": 15,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -152,7 +152,7 @@
       "matchAr": "فرايبورغ × يونيون برلين",
       "rawIsoTime": "2026-11-08T16:30:00+00:00",
       "time": "1 - 0 (60')",
-      "rawMinute": 61,
+      "rawMinute": 62,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -190,8 +190,8 @@
       "matchEn": "Le Mans v Monaco",
       "matchAr": "لو مان × موناكو",
       "rawIsoTime": "2026-11-08T16:15:00+00:00",
-      "time": "0 - 1 (71')",
-      "rawMinute": 75,
+      "time": "0 - 1 (70')",
+      "rawMinute": 76,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -204,7 +204,7 @@
       "matchAr": "لو هافر × لوريان",
       "rawIsoTime": "2026-11-08T16:15:00+00:00",
       "time": "0 - 1 (75')",
-      "rawMinute": 75,
+      "rawMinute": 76,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -217,7 +217,7 @@
       "matchAr": "ستاد بريست 29 × أولمبيك ليون",
       "rawIsoTime": "2026-11-08T16:15:00+00:00",
       "time": "1 - 0 (76')",
-      "rawMinute": 76,
+      "rawMinute": 77,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -230,7 +230,7 @@
       "matchAr": "أنجيه × نيس",
       "rawIsoTime": "2026-11-08T16:15:00+00:00",
       "time": "0 - 1 (74')",
-      "rawMinute": 74,
+      "rawMinute": 75,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -295,7 +295,7 @@
       "matchAr": "إنتر ميلان × كومو 1907",
       "rawIsoTime": "2026-11-08T17:00:00+00:00",
       "time": "2 - 0 (44')",
-      "rawMinute": 44,
+      "rawMinute": 45,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -1413,7 +1413,7 @@
       "matchAr": "فايكينغ × كي إف يو إم أوسلو",
       "rawIsoTime": "2026-11-08T16:00:00+00:00",
       "time": "4 - 1 (87')",
-      "rawMinute": 87,
+      "rawMinute": 88,
       "homeGoals": 4,
       "awayGoals": 1,
       "isLive": true
@@ -1426,7 +1426,7 @@
       "matchAr": "ساندفيورد × مولده",
       "rawIsoTime": "2026-11-08T16:00:00+00:00",
       "time": "4 - 4 (87')",
-      "rawMinute": 87,
+      "rawMinute": 88,
       "homeGoals": 4,
       "awayGoals": 4,
       "isLive": true
@@ -1439,7 +1439,7 @@
       "matchAr": "هام كام × ساربسبورغ 08",
       "rawIsoTime": "2026-11-08T16:00:00+00:00",
       "time": "2 - 0 (90+1')",
-      "rawMinute": 91,
+      "rawMinute": 92,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -1452,7 +1452,7 @@
       "matchAr": "ليلستروم × أليسوند",
       "rawIsoTime": "2026-11-08T16:00:00+00:00",
       "time": "2 - 2 (86')",
-      "rawMinute": 86,
+      "rawMinute": 87,
       "homeGoals": 2,
       "awayGoals": 2,
       "isLive": true
@@ -1478,7 +1478,7 @@
       "matchAr": "شتورم غراتس × ريد بول سالزبورغ",
       "rawIsoTime": "2026-11-08T16:00:00+00:00",
       "time": "3 - 4 (89')",
-      "rawMinute": 89,
+      "rawMinute": 90,
       "homeGoals": 3,
       "awayGoals": 4,
       "isLive": true
@@ -1491,7 +1491,7 @@
       "matchAr": "شاختار دونيتسك × دينامو كييف",
       "rawIsoTime": "2026-11-08T16:00:00+00:00",
       "time": "0 - 0 (86')",
-      "rawMinute": 86,
+      "rawMinute": 87,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1504,7 +1504,7 @@
       "matchAr": "نهضة الزمامرة × وداد تمارة",
       "rawIsoTime": "2026-11-08T16:00:00+00:00",
       "time": "1 - 1 (88')",
-      "rawMinute": 88,
+      "rawMinute": 89,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -1517,7 +1517,7 @@
       "matchAr": "ليغيا وارسو × راكوف تشنستوشوفا",
       "rawIsoTime": "2026-11-08T16:30:00+00:00",
       "time": "0 - 1 (52')",
-      "rawMinute": 53,
+      "rawMinute": 54,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -1530,7 +1530,7 @@
       "matchAr": "السد × الريان",
       "rawIsoTime": "2026-11-08T16:30:00+00:00",
       "time": "2 - 4 (53')",
-      "rawMinute": 53,
+      "rawMinute": 54,
       "homeGoals": 2,
       "awayGoals": 4,
       "isLive": true
@@ -1543,7 +1543,7 @@
       "matchAr": "الوحدة مكة × الجيل",
       "rawIsoTime": "2026-11-08T16:35:00+00:00",
       "time": "2 - 0 (52')",
-      "rawMinute": 52,
+      "rawMinute": 53,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -1595,7 +1595,7 @@
       "matchAr": "ميتلاند × سوندر يوسكه",
       "rawIsoTime": "2026-11-08T17:00:00+00:00",
       "time": "1 - 1 (45+4')",
-      "rawMinute": 49,
+      "rawMinute": 50,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -1608,7 +1608,7 @@
       "matchAr": "فيكتوريا بلزن × سبارتا براغ",
       "rawIsoTime": "2026-11-08T17:00:00+00:00",
       "time": "0 - 1 (45+3')",
-      "rawMinute": 48,
+      "rawMinute": 49,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -1621,7 +1621,7 @@
       "matchAr": "أولمبيك خريبكة × مولودية وجدة",
       "rawIsoTime": "2026-11-08T17:00:00+00:00",
       "time": "0 - 0 (44')",
-      "rawMinute": 44,
+      "rawMinute": 45,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1634,7 +1634,7 @@
       "matchAr": "أولدهام أتلتيك × شيفيلد وينزداي",
       "rawIsoTime": "2026-11-08T17:15:00+00:00",
       "time": "0 - 0 (33')",
-      "rawMinute": 33,
+      "rawMinute": 34,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1647,7 +1647,7 @@
       "matchAr": "يونيون سان جيلواز × جينك",
       "rawIsoTime": "2026-11-08T17:30:00+00:00",
       "time": "0 - 0 (16')",
-      "rawMinute": 16,
+      "rawMinute": 17,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
