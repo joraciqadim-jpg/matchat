@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794106573438,
+  "timestamp": 1794106630875,
   "matches": [
     {
       "matchId": 4742002,
@@ -476,8 +476,8 @@
       "matchEn": "Deportivo Toluca v Rayados de Monterrey",
       "matchAr": "ديبورتيفو تولوكا × رايادوس مونتيري",
       "rawIsoTime": "2026-11-08T01:00:00+00:00",
-      "time": "4 - 0 (90+4')",
-      "rawMinute": 94,
+      "time": "4 - 0 (90+5')",
+      "rawMinute": 95,
       "homeGoals": 4,
       "awayGoals": 0,
       "isLive": true
@@ -490,7 +490,7 @@
       "matchAr": "جامعة نويفو ليون المستقلة - تيغريس × كروز أزول",
       "rawIsoTime": "2026-11-08T01:00:00+00:00",
       "time": "2 - 3 (90+3')",
-      "rawMinute": 93,
+      "rawMinute": 94,
       "homeGoals": 2,
       "awayGoals": 3,
       "isLive": true
