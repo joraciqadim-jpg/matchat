@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794172230447,
+  "timestamp": 1794172271955,
   "matches": [
     {
       "matchId": 4742002,
@@ -125,8 +125,8 @@
       "matchEn": "Atletico Madrid v Barcelona",
       "matchAr": "أتلتيكو مدريد × برشلونة",
       "rawIsoTime": "2026-11-08T20:00:00+00:00",
-      "time": "1 - 1 (49')",
-      "rawMinute": 49,
+      "time": "1 - 1 (50')",
+      "rawMinute": 50,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -242,7 +242,7 @@
       "matchEn": "Lens v Olympique de Marseille",
       "matchAr": "لانس × أولمبيك مرسيليا",
       "rawIsoTime": "2026-11-08T19:45:00+00:00",
-      "time": "1 - 1 (66')",
+      "time": "1 - 1 (67')",
       "rawMinute": 67,
       "homeGoals": 1,
       "awayGoals": 1,
@@ -385,7 +385,7 @@
       "matchEn": "Rio Ave v Braga",
       "matchAr": "ريو آفي × براغا",
       "rawIsoTime": "2026-11-08T20:30:00+00:00",
-      "time": "0 - 0 (39')",
+      "time": "0 - 0 (40')",
       "rawMinute": 40,
       "homeGoals": 0,
       "awayGoals": 0,
