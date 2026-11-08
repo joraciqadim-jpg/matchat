@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794173121289,
+  "timestamp": 1794173173398,
   "matches": [
     {
       "matchId": 4742002,
@@ -126,7 +126,7 @@
       "matchAr": "أتلتيكو مدريد × برشلونة",
       "rawIsoTime": "2026-11-08T20:00:00+00:00",
       "time": "1 - 1 (64')",
-      "rawMinute": 64,
+      "rawMinute": 65,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -242,10 +242,10 @@
       "matchEn": "Lens v Olympique de Marseille",
       "matchAr": "لانس × أولمبيك مرسيليا",
       "rawIsoTime": "2026-11-08T19:45:00+00:00",
-      "time": "1 - 1 (81')",
+      "time": "1 - 2 (82')",
       "rawMinute": 82,
       "homeGoals": 1,
-      "awayGoals": 1,
+      "awayGoals": 2,
       "isLive": true
     },
     {
@@ -307,7 +307,7 @@
       "matchEn": "Fiorentina v Juventus",
       "matchAr": "فيورنتينا × يوفنتوس",
       "rawIsoTime": "2026-11-08T19:45:00+00:00",
-      "time": "2 - 2 (75')",
+      "time": "2 - 2 (76')",
       "rawMinute": 76,
       "homeGoals": 2,
       "awayGoals": 2,
@@ -1751,7 +1751,7 @@
       "matchAr": "الرجاء الرياضي × اتحاد طنجة",
       "rawIsoTime": "2026-11-08T20:00:00+00:00",
       "time": "2 - 0 (58')",
-      "rawMinute": 58,
+      "rawMinute": 59,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
