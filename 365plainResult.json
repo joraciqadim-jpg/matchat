@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794135549927,
+  "timestamp": 1794135662633,
   "matches": [
     {
       "matchId": 4742002,
@@ -723,9 +723,9 @@
       "matchEn": "Caykur Rizespor v Erzurumspor",
       "matchAr": "تشايكور ريزه سبور × أرضروم سبور",
       "rawIsoTime": "2026-11-08T10:30:00+00:00",
-      "time": "0 - 0 (29')",
-      "rawMinute": 30,
-      "homeGoals": 0,
+      "time": "1 - 0 (31')",
+      "rawMinute": 32,
+      "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
     },
