@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794172838398,
+  "timestamp": 1794172870891,
   "matches": [
     {
       "matchId": 4742002,
@@ -125,8 +125,8 @@
       "matchEn": "Atletico Madrid v Barcelona",
       "matchAr": "أتلتيكو مدريد × برشلونة",
       "rawIsoTime": "2026-11-08T20:00:00+00:00",
-      "time": "1 - 1 (59')",
-      "rawMinute": 59,
+      "time": "1 - 1 (60')",
+      "rawMinute": 60,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -1750,8 +1750,8 @@
       "matchEn": "Raja Casablanca v Ittihad Tanger",
       "matchAr": "الرجاء الرياضي × اتحاد طنجة",
       "rawIsoTime": "2026-11-08T20:00:00+00:00",
-      "time": "2 - 0 (53')",
-      "rawMinute": 53,
+      "time": "2 - 0 (54')",
+      "rawMinute": 54,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
