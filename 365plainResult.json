@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794174670306,
+  "timestamp": 1794174733031,
   "matches": [
     {
       "matchId": 4742002,
@@ -126,7 +126,7 @@
       "matchAr": "أتلتيكو مدريد × برشلونة",
       "rawIsoTime": "2026-11-08T20:00:00+00:00",
       "time": "1 - 2 (90')",
-      "rawMinute": 90,
+      "rawMinute": 91,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -372,8 +372,8 @@
       "matchEn": "Estrela da Amadora v Benfica",
       "matchAr": "إستريلا أمادورا × بنفيكا",
       "rawIsoTime": "2026-11-08T20:30:00+00:00",
-      "time": "1 - 1 (62')",
-      "rawMinute": 62,
+      "time": "1 - 1 (63')",
+      "rawMinute": 63,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -385,8 +385,8 @@
       "matchEn": "Rio Ave v Braga",
       "matchAr": "ريو آفي × براغا",
       "rawIsoTime": "2026-11-08T20:30:00+00:00",
-      "time": "0 - 0 (62')",
-      "rawMinute": 62,
+      "time": "0 - 0 (63')",
+      "rawMinute": 63,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1750,8 +1750,8 @@
       "matchEn": "Raja Casablanca v Ittihad Tanger",
       "matchAr": "الرجاء الرياضي × اتحاد طنجة",
       "rawIsoTime": "2026-11-08T20:00:00+00:00",
-      "time": "2 - 0 (83')",
-      "rawMinute": 84,
+      "time": "2 - 0 (85')",
+      "rawMinute": 85,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
