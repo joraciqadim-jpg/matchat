@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794122950703,
+  "timestamp": 1794123049827,
   "matches": [
     {
       "matchId": 4742002,
@@ -567,8 +567,8 @@
       "matchEn": "Gamba Osaka v Cerezo Osaka",
       "matchAr": "غامبا أوساكا × سيريزو أوساكا",
       "rawIsoTime": "2026-11-08T06:00:00+00:00",
-      "time": "1 - 2 (69')",
-      "rawMinute": 69,
+      "time": "1 - 2 (70')",
+      "rawMinute": 70,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -593,11 +593,11 @@
       "matchEn": "Dalian Yingbo v Tianjin Jinmen Tiger",
       "matchAr": "داليان يينغبو × تيانجين جينمن تايغر",
       "rawIsoTime": "2026-11-08T07:30:00+00:00",
-      "time": "07:30",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4673276,
@@ -606,11 +606,11 @@
       "matchEn": "Yunnan Yukun v Wuhan Three Towns",
       "matchAr": "يونان يوكُن × ووهان ثري تاونز",
       "rawIsoTime": "2026-11-08T07:30:00+00:00",
-      "time": "07:30",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4673277,
@@ -619,11 +619,11 @@
       "matchEn": "Qingdao Huanghai v Shenzhen Peng City",
       "matchAr": "تشينغداو هوانغهاي × شنتشن بينغ سيتي",
       "rawIsoTime": "2026-11-08T07:30:00+00:00",
-      "time": "07:30",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4673278,
@@ -632,11 +632,11 @@
       "matchEn": "Hangzhou Greentown v Henan Songshan Longmen",
       "matchAr": "هانغتشو غرينتاون × خنان سونغشان لونغمن",
       "rawIsoTime": "2026-11-08T07:30:00+00:00",
-      "time": "07:30",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4673279,
@@ -645,11 +645,11 @@
       "matchEn": "Shanghai Shenhua v Qingdao West Coast",
       "matchAr": "شنغهاي شينهوا × تشينغداو ويست كوست",
       "rawIsoTime": "2026-11-08T07:30:00+00:00",
-      "time": "07:30",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4673653,
@@ -658,11 +658,11 @@
       "matchEn": "Shanghai Port v Liaoning Tieren",
       "matchAr": "شنغهاي بورت × لياونينغ تيرين",
       "rawIsoTime": "2026-11-08T07:30:00+00:00",
-      "time": "07:30",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4677142,
@@ -671,11 +671,11 @@
       "matchEn": "Beijing Guoan v Chongqing Tongliangloong",
       "matchAr": "بكين غوان × تشونغتشينغ تونغليانغ لونغ",
       "rawIsoTime": "2026-11-08T07:30:00+00:00",
-      "time": "07:30",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4885470,
@@ -684,11 +684,11 @@
       "matchEn": "Gangwon v Jeonbuk Hyundai Motors",
       "matchAr": "غانغوون × جيونبوك هيونداي موتورز",
       "rawIsoTime": "2026-11-08T07:30:00+00:00",
-      "time": "07:30",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4885472,
@@ -697,11 +697,11 @@
       "matchEn": "Bucheon 1995 v Pohang Steelers",
       "matchAr": "بوتشون 1995 × بوهانغ ستيلرز",
       "rawIsoTime": "2026-11-08T07:30:00+00:00",
-      "time": "07:30",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4739579,
