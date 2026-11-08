@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794139521921,
+  "timestamp": 1794139574105,
   "matches": [
     {
       "matchId": 4742002,
@@ -255,8 +255,8 @@
       "matchEn": "SSC Napoli v SS Lazio",
       "matchAr": "نابولي × لاتسيو",
       "rawIsoTime": "2026-11-08T11:30:00+00:00",
-      "time": "0 - 1 (33')",
-      "rawMinute": 33,
+      "time": "0 - 1 (34')",
+      "rawMinute": 34,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -723,8 +723,8 @@
       "matchEn": "Caykur Rizespor v Erzurumspor",
       "matchAr": "تشايكور ريزه سبور × أرضروم سبور",
       "rawIsoTime": "2026-11-08T10:30:00+00:00",
-      "time": "2 - 1 (78')",
-      "rawMinute": 78,
+      "time": "2 - 1 (79')",
+      "rawMinute": 79,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -749,8 +749,8 @@
       "matchEn": "PFK Krylya Sovetov Samara v Orenburg",
       "matchAr": "كريليا سوفيتوف سامارا × أورينبورغ",
       "rawIsoTime": "2026-11-08T11:00:00+00:00",
-      "time": "1 - 0 (46')",
-      "rawMinute": 46,
+      "time": "1 - 0 (47')",
+      "rawMinute": 47,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -762,8 +762,8 @@
       "matchEn": "Zorya Luhansk v LNZ Cherkasy",
       "matchAr": "زوريا لوغانسك × إل إن زد تشيركاسي",
       "rawIsoTime": "2026-11-08T11:00:00+00:00",
-      "time": "0 - 1 (32')",
-      "rawMinute": 32,
+      "time": "0 - 1 (25')",
+      "rawMinute": 25,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -775,8 +775,8 @@
       "matchEn": "Bukovyna v Kolos Kovalivka",
       "matchAr": "بوكوفينا × كولوس كوفاليفكا",
       "rawIsoTime": "2026-11-08T11:00:00+00:00",
-      "time": "0 - 1 (47')",
-      "rawMinute": 47,
+      "time": "0 - 1 (48')",
+      "rawMinute": 48,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -788,8 +788,8 @@
       "matchEn": "Al Shorta Baghdad v Al Naft",
       "matchAr": "الشرطة بغداد × النفط",
       "rawIsoTime": "2026-11-08T11:00:00+00:00",
-      "time": "1 - 0 (Halftime)",
-      "rawMinute": 45,
+      "time": "1 - 0 (45')",
+      "rawMinute": 46,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
