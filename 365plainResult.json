@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794176174533,
+  "timestamp": 1794176230695,
   "matches": [
     {
       "matchId": 4742002,
@@ -372,8 +372,8 @@
       "matchEn": "Estrela da Amadora v Benfica",
       "matchAr": "إستريلا أمادورا × بنفيكا",
       "rawIsoTime": "2026-11-08T20:30:00+00:00",
-      "time": "2 - 2 (87')",
-      "rawMinute": 87,
+      "time": "2 - 2 (88')",
+      "rawMinute": 88,
       "homeGoals": 2,
       "awayGoals": 2,
       "isLive": true
@@ -385,8 +385,8 @@
       "matchEn": "Rio Ave v Braga",
       "matchAr": "ريو آفي × براغا",
       "rawIsoTime": "2026-11-08T20:30:00+00:00",
-      "time": "0 - 1 (87')",
-      "rawMinute": 87,
+      "time": "0 - 1 (88')",
+      "rawMinute": 88,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
