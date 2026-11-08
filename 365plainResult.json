@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794172574663,
+  "timestamp": 1794172630971,
   "matches": [
     {
       "matchId": 4742002,
@@ -125,8 +125,8 @@
       "matchEn": "Atletico Madrid v Barcelona",
       "matchAr": "أتلتيكو مدريد × برشلونة",
       "rawIsoTime": "2026-11-08T20:00:00+00:00",
-      "time": "1 - 1 (55')",
-      "rawMinute": 55,
+      "time": "1 - 1 (56')",
+      "rawMinute": 56,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -242,8 +242,8 @@
       "matchEn": "Lens v Olympique de Marseille",
       "matchAr": "لانس × أولمبيك مرسيليا",
       "rawIsoTime": "2026-11-08T19:45:00+00:00",
-      "time": "1 - 1 (72')",
-      "rawMinute": 72,
+      "time": "1 - 1 (73')",
+      "rawMinute": 73,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -307,8 +307,8 @@
       "matchEn": "Fiorentina v Juventus",
       "matchAr": "فيورنتينا × يوفنتوس",
       "rawIsoTime": "2026-11-08T19:45:00+00:00",
-      "time": "2 - 2 (66')",
-      "rawMinute": 66,
+      "time": "2 - 2 (67')",
+      "rawMinute": 67,
       "homeGoals": 2,
       "awayGoals": 2,
       "isLive": true
@@ -372,7 +372,7 @@
       "matchEn": "Estrela da Amadora v Benfica",
       "matchAr": "إستريلا أمادورا × بنفيكا",
       "rawIsoTime": "2026-11-08T20:30:00+00:00",
-      "time": "0 - 1 (45')",
+      "time": "0 - 1 (Halftime)",
       "rawMinute": 45,
       "homeGoals": 0,
       "awayGoals": 1,
@@ -385,7 +385,7 @@
       "matchEn": "Rio Ave v Braga",
       "matchAr": "ريو آفي × براغا",
       "rawIsoTime": "2026-11-08T20:30:00+00:00",
-      "time": "0 - 0 (45')",
+      "time": "0 - 0 (Halftime)",
       "rawMinute": 45,
       "homeGoals": 0,
       "awayGoals": 0,
@@ -1737,8 +1737,8 @@
       "matchEn": "Lech Poznan v Zaglebie Lubin",
       "matchAr": "ليخ بوزنان × زاغليبي لوبين",
       "rawIsoTime": "2026-11-08T19:15:00+00:00",
-      "time": "2 - 2 (90+5')",
-      "rawMinute": 95,
+      "time": "2 - 2 (90+6')",
+      "rawMinute": 96,
       "homeGoals": 2,
       "awayGoals": 2,
       "isLive": true
@@ -1750,8 +1750,8 @@
       "matchEn": "Raja Casablanca v Ittihad Tanger",
       "matchAr": "الرجاء الرياضي × اتحاد طنجة",
       "rawIsoTime": "2026-11-08T20:00:00+00:00",
-      "time": "2 - 0 (49')",
-      "rawMinute": 49,
+      "time": "2 - 0 (50')",
+      "rawMinute": 50,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
