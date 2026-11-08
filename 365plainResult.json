@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794142390315,
+  "timestamp": 1794142454363,
   "matches": [
     {
       "matchId": 4742002,
@@ -255,8 +255,8 @@
       "matchEn": "SSC Napoli v SS Lazio",
       "matchAr": "نابولي × لاتسيو",
       "rawIsoTime": "2026-11-08T11:30:00+00:00",
-      "time": "1 - 1 (64')",
-      "rawMinute": 64,
+      "time": "1 - 1 (65')",
+      "rawMinute": 65,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -398,8 +398,8 @@
       "matchEn": "Heerenveen v Feyenoord",
       "matchAr": "هيرينفين × فاينورد",
       "rawIsoTime": "2026-11-08T11:15:00+00:00",
-      "time": "3 - 3 (76')",
-      "rawMinute": 76,
+      "time": "3 - 3 (77')",
+      "rawMinute": 77,
       "homeGoals": 3,
       "awayGoals": 3,
       "isLive": true
@@ -730,6 +730,19 @@
       "isLive": false
     },
     {
+      "matchId": 4745493,
+      "tournamentEn": "🇷🇺 Russian Premier Liga",
+      "tournamentAr": "🇷🇺 الدوري الروسي",
+      "matchEn": "PFK Krylya Sovetov Samara v Orenburg",
+      "matchAr": "كريليا سوفيتوف سامارا × أورينبورغ",
+      "rawIsoTime": "2026-11-08T11:00:00+00:00",
+      "time": "2 - 0 (done)",
+      "rawMinute": 90,
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "isLive": false
+    },
+    {
       "matchId": 4748663,
       "tournamentEn": "🇺🇦 Ukrainian League",
       "tournamentAr": "🇺🇦 الدوري الأوكراني",
@@ -749,22 +762,9 @@
       "matchEn": "Copenhagen v Brøndby IF",
       "matchAr": "كوبنهاغن × بروندبي",
       "rawIsoTime": "2026-11-08T11:00:00+00:00",
-      "time": "1 - 0 (90')",
-      "rawMinute": 90,
+      "time": "1 - 0 (90+1')",
+      "rawMinute": 91,
       "homeGoals": 1,
-      "awayGoals": 0,
-      "isLive": true
-    },
-    {
-      "matchId": 4745493,
-      "tournamentEn": "🇷🇺 Russian Premier Liga",
-      "tournamentAr": "🇷🇺 الدوري الروسي",
-      "matchEn": "PFK Krylya Sovetov Samara v Orenburg",
-      "matchAr": "كريليا سوفيتوف سامارا × أورينبورغ",
-      "rawIsoTime": "2026-11-08T11:00:00+00:00",
-      "time": "2 - 0 (90+4')",
-      "rawMinute": 94,
-      "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
     },
@@ -775,8 +775,8 @@
       "matchEn": "Zorya Luhansk v LNZ Cherkasy",
       "matchAr": "زوريا لوغانسك × إل إن زد تشيركاسي",
       "rawIsoTime": "2026-11-08T11:00:00+00:00",
-      "time": "1 - 2 (69')",
-      "rawMinute": 69,
+      "time": "1 - 2 (70')",
+      "rawMinute": 70,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -788,9 +788,9 @@
       "matchEn": "Al Shorta Baghdad v Al Naft",
       "matchAr": "الشرطة بغداد × النفط",
       "rawIsoTime": "2026-11-08T11:00:00+00:00",
-      "time": "2 - 1 (90+4')",
-      "rawMinute": 95,
-      "homeGoals": 2,
+      "time": "3 - 1 (90+6')",
+      "rawMinute": 96,
+      "homeGoals": 3,
       "awayGoals": 1,
       "isLive": true
     },
@@ -827,8 +827,8 @@
       "matchEn": "Brugge KV v RSC Anderlecht",
       "matchAr": "كلوب بروج × أندرلخت",
       "rawIsoTime": "2026-11-08T12:30:00+00:00",
-      "time": "0 - 0 (23')",
-      "rawMinute": 23,
+      "time": "0 - 0 (24')",
+      "rawMinute": 24,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -840,8 +840,8 @@
       "matchEn": "Damac v Al Anwar",
       "matchAr": "ضمك × الأنوار",
       "rawIsoTime": "2026-11-08T12:30:00+00:00",
-      "time": "0 - 0 (22')",
-      "rawMinute": 22,
+      "time": "0 - 0 (23')",
+      "rawMinute": 23,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -853,8 +853,8 @@
       "matchEn": "Petrojet v Delphi",
       "matchAr": "بتروجيت × دلفي",
       "rawIsoTime": "2026-11-08T12:30:00+00:00",
-      "time": "0 - 0 (24')",
-      "rawMinute": 24,
+      "time": "0 - 0 (25')",
+      "rawMinute": 25,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
