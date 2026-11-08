@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794172531486,
+  "timestamp": 1794172574663,
   "matches": [
     {
       "matchId": 4742002,
@@ -125,8 +125,8 @@
       "matchEn": "Atletico Madrid v Barcelona",
       "matchAr": "أتلتيكو مدريد × برشلونة",
       "rawIsoTime": "2026-11-08T20:00:00+00:00",
-      "time": "1 - 1 (54')",
-      "rawMinute": 54,
+      "time": "1 - 1 (55')",
+      "rawMinute": 55,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -307,10 +307,10 @@
       "matchEn": "Fiorentina v Juventus",
       "matchAr": "فيورنتينا × يوفنتوس",
       "rawIsoTime": "2026-11-08T19:45:00+00:00",
-      "time": "2 - 1 (66')",
+      "time": "2 - 2 (66')",
       "rawMinute": 66,
       "homeGoals": 2,
-      "awayGoals": 1,
+      "awayGoals": 2,
       "isLive": true
     },
     {
@@ -1750,8 +1750,8 @@
       "matchEn": "Raja Casablanca v Ittihad Tanger",
       "matchAr": "الرجاء الرياضي × اتحاد طنجة",
       "rawIsoTime": "2026-11-08T20:00:00+00:00",
-      "time": "2 - 0 (48')",
-      "rawMinute": 48,
+      "time": "2 - 0 (49')",
+      "rawMinute": 49,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
