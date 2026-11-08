@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794099549751,
+  "timestamp": 1794099658688,
   "matches": [
     {
       "matchId": 4742002,
@@ -463,11 +463,11 @@
       "matchEn": "Instituto Cordoba v Newell's Old Boys",
       "matchAr": "إنستيتوتو كوردوبا × نيولز أولد بويز",
       "rawIsoTime": "2026-11-08T01:00:00+00:00",
-      "time": "01:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4735623,
