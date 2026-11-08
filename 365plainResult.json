@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794107591278,
+  "timestamp": 1794107653724,
   "matches": [
     {
       "matchId": 4742002,
@@ -502,9 +502,9 @@
       "matchEn": "Pumas UNAM v América",
       "matchAr": "بوماس أونام × أمريكا",
       "rawIsoTime": "2026-11-08T03:10:00+00:00",
-      "time": "0 - 1 (3')",
-      "rawMinute": 4,
-      "homeGoals": 0,
+      "time": "1 - 1 (5')",
+      "rawMinute": 5,
+      "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
     },
