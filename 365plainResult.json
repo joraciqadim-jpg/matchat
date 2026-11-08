@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794123049827,
+  "timestamp": 1794123070847,
   "matches": [
     {
       "matchId": 4742002,
@@ -567,8 +567,8 @@
       "matchEn": "Gamba Osaka v Cerezo Osaka",
       "matchAr": "غامبا أوساكا × سيريزو أوساكا",
       "rawIsoTime": "2026-11-08T06:00:00+00:00",
-      "time": "1 - 2 (70')",
-      "rawMinute": 70,
+      "time": "1 - 2 (71')",
+      "rawMinute": 71,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -580,11 +580,11 @@
       "matchEn": "Shandong Taishan v Chengdu Rongcheng",
       "matchAr": "شاندونغ تايشان × تشنغدو رونغتشنغ",
       "rawIsoTime": "2026-11-08T07:30:00+00:00",
-      "time": "07:30",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4673275,
@@ -594,7 +594,7 @@
       "matchAr": "داليان يينغبو × تيانجين جينمن تايغر",
       "rawIsoTime": "2026-11-08T07:30:00+00:00",
       "time": "0 - 0 (1')",
-      "rawMinute": 1,
+      "rawMinute": 2,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -620,7 +620,7 @@
       "matchAr": "تشينغداو هوانغهاي × شنتشن بينغ سيتي",
       "rawIsoTime": "2026-11-08T07:30:00+00:00",
       "time": "0 - 0 (1')",
-      "rawMinute": 1,
+      "rawMinute": 2,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -632,8 +632,8 @@
       "matchEn": "Hangzhou Greentown v Henan Songshan Longmen",
       "matchAr": "هانغتشو غرينتاون × خنان سونغشان لونغمن",
       "rawIsoTime": "2026-11-08T07:30:00+00:00",
-      "time": "0 - 0 (1')",
-      "rawMinute": 1,
+      "time": "0 - 0 (2')",
+      "rawMinute": 2,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -671,8 +671,8 @@
       "matchEn": "Beijing Guoan v Chongqing Tongliangloong",
       "matchAr": "بكين غوان × تشونغتشينغ تونغليانغ لونغ",
       "rawIsoTime": "2026-11-08T07:30:00+00:00",
-      "time": "0 - 0 (1')",
-      "rawMinute": 1,
+      "time": "0 - 0 (2')",
+      "rawMinute": 2,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
