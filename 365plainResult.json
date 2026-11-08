@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794114190842,
+  "timestamp": 1794114253995,
   "matches": [
     {
       "matchId": 4742002,
@@ -502,8 +502,8 @@
       "matchEn": "Pumas UNAM v América",
       "matchAr": "بوماس أونام × أمريكا",
       "rawIsoTime": "2026-11-08T03:10:00+00:00",
-      "time": "2 - 2 (88')",
-      "rawMinute": 88,
+      "time": "2 - 2 (89')",
+      "rawMinute": 89,
       "homeGoals": 2,
       "awayGoals": 2,
       "isLive": true
@@ -515,11 +515,11 @@
       "matchEn": "Vissel Kobe v Urawa Red Diamonds",
       "matchAr": "فيسيل كوبي × أوراوا ريد دايموندز",
       "rawIsoTime": "2026-11-08T05:00:00+00:00",
-      "time": "05:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4739577,
@@ -528,11 +528,11 @@
       "matchEn": "Machida Zelvia v Hiroshima Sanfrecce",
       "matchAr": "ماتشيدا زيلفيا × هيروشيما سانفريتشي",
       "rawIsoTime": "2026-11-08T05:00:00+00:00",
-      "time": "05:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4885473,
@@ -541,8 +541,8 @@
       "matchEn": "Daejeon Hana Citizen v Incheon United",
       "matchAr": "دايجون هانا سيتيزن × إنتشون يونايتد",
       "rawIsoTime": "2026-11-08T05:00:00+00:00",
-      "time": "0 - 0 (4')",
-      "rawMinute": 4,
+      "time": "0 - 0 (5')",
+      "rawMinute": 5,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -554,8 +554,8 @@
       "matchEn": "Seoul v Ulsan Hyundai",
       "matchAr": "سيول × أولسان هيونداي",
       "rawIsoTime": "2026-11-08T05:00:00+00:00",
-      "time": "0 - 0 (3')",
-      "rawMinute": 3,
+      "time": "0 - 0 (4')",
+      "rawMinute": 4,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
