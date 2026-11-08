@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794099493354,
+  "timestamp": 1794099549751,
   "matches": [
     {
       "matchId": 4742002,
@@ -455,19 +455,6 @@
       "homeGoals": -1,
       "awayGoals": -1,
       "isLive": false
-    },
-    {
-      "matchId": 4735625,
-      "tournamentEn": "🇲🇽 Mexican Liga MX - Apertura",
-      "tournamentAr": "🇲🇽 الدوري المكسيكي الممتاز - الافتتاح",
-      "matchEn": "Atlas Guadalajara v Pachuca",
-      "matchAr": "أطلس غوادالاخارا × باتشوكا",
-      "rawIsoTime": "2026-11-07T23:00:00+00:00",
-      "time": "1 - 4 (90+9')",
-      "rawMinute": 99,
-      "homeGoals": 1,
-      "awayGoals": 4,
-      "isLive": true
     },
     {
       "matchId": 4633208,
