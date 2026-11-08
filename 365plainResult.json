@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794136630633,
+  "timestamp": 1794136694564,
   "matches": [
     {
       "matchId": 4742002,
@@ -398,8 +398,8 @@
       "matchEn": "Heerenveen v Feyenoord",
       "matchAr": "هيرينفين × فاينورد",
       "rawIsoTime": "2026-11-08T11:15:00+00:00",
-      "time": "0 - 0 (1')",
-      "rawMinute": 1,
+      "time": "0 - 0 (2')",
+      "rawMinute": 2,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -736,8 +736,8 @@
       "matchEn": "Copenhagen v Brøndby IF",
       "matchAr": "كوبنهاغن × بروندبي",
       "rawIsoTime": "2026-11-08T11:00:00+00:00",
-      "time": "0 - 0 (12')",
-      "rawMinute": 13,
+      "time": "0 - 0 (13')",
+      "rawMinute": 14,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -749,8 +749,8 @@
       "matchEn": "PFK Krylya Sovetov Samara v Orenburg",
       "matchAr": "كريليا سوفيتوف سامارا × أورينبورغ",
       "rawIsoTime": "2026-11-08T11:00:00+00:00",
-      "time": "1 - 0 (15')",
-      "rawMinute": 16,
+      "time": "1 - 0 (16')",
+      "rawMinute": 17,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -775,8 +775,8 @@
       "matchEn": "Bukovyna v Kolos Kovalivka",
       "matchAr": "بوكوفينا × كولوس كوفاليفكا",
       "rawIsoTime": "2026-11-08T11:00:00+00:00",
-      "time": "0 - 0 (13')",
-      "rawMinute": 14,
+      "time": "0 - 0 (15')",
+      "rawMinute": 15,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -788,8 +788,8 @@
       "matchEn": "Al Shorta Baghdad v Al Naft",
       "matchAr": "الشرطة بغداد × النفط",
       "rawIsoTime": "2026-11-08T11:00:00+00:00",
-      "time": "1 - 0 (17')",
-      "rawMinute": 18,
+      "time": "1 - 0 (18')",
+      "rawMinute": 19,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
