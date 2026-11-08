@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794126071293,
+  "timestamp": 1794126133825,
   "matches": [
     {
       "matchId": 4742002,
@@ -580,8 +580,8 @@
       "matchEn": "Shandong Taishan v Chengdu Rongcheng",
       "matchAr": "شاندونغ تايشان × تشنغدو رونغتشنغ",
       "rawIsoTime": "2026-11-08T07:30:00+00:00",
-      "time": "2 - 1 (45+6')",
-      "rawMinute": 51,
+      "time": "2 - 1 (Halftime)",
+      "rawMinute": 45,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -710,8 +710,8 @@
       "matchEn": "JEF United Chiba v Mito Hollyhock",
       "matchAr": "جيف يونايتد تشيبا × ميتو هوليهوك",
       "rawIsoTime": "2026-11-08T08:00:00+00:00",
-      "time": "0 - 0 (18')",
-      "rawMinute": 18,
+      "time": "0 - 0 (19')",
+      "rawMinute": 19,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
