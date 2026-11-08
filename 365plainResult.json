@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794106520613,
+  "timestamp": 1794106573438,
   "matches": [
     {
       "matchId": 4742002,
@@ -476,8 +476,8 @@
       "matchEn": "Deportivo Toluca v Rayados de Monterrey",
       "matchAr": "ديبورتيفو تولوكا × رايادوس مونتيري",
       "rawIsoTime": "2026-11-08T01:00:00+00:00",
-      "time": "4 - 0 (90+3')",
-      "rawMinute": 93,
+      "time": "4 - 0 (90+4')",
+      "rawMinute": 94,
       "homeGoals": 4,
       "awayGoals": 0,
       "isLive": true
@@ -489,8 +489,8 @@
       "matchEn": "U.A.N.L. - Tigres v Cruz Azul",
       "matchAr": "جامعة نويفو ليون المستقلة - تيغريس × كروز أزول",
       "rawIsoTime": "2026-11-08T01:00:00+00:00",
-      "time": "2 - 3 (90+2')",
-      "rawMinute": 92,
+      "time": "2 - 3 (90+3')",
+      "rawMinute": 93,
       "homeGoals": 2,
       "awayGoals": 3,
       "isLive": true
