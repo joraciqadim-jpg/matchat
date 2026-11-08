@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794163990803,
+  "timestamp": 1794164054408,
   "matches": [
     {
       "matchId": 4742002,
@@ -99,8 +99,8 @@
       "matchEn": "Villarreal v Getafe",
       "matchAr": "فياريال × خيتافي",
       "rawIsoTime": "2026-11-08T17:30:00+00:00",
-      "time": "0 - 0 (64')",
-      "rawMinute": 65,
+      "time": "0 - 0 (65')",
+      "rawMinute": 66,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -112,8 +112,8 @@
       "matchEn": "Celta Vigo v Levante",
       "matchAr": "سيلتا فيغو × ليفانتي",
       "rawIsoTime": "2026-11-08T17:30:00+00:00",
-      "time": "0 - 0 (59')",
-      "rawMinute": 59,
+      "time": "0 - 0 (60')",
+      "rawMinute": 60,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -164,8 +164,8 @@
       "matchEn": "Hoffenheim v Schalke 04",
       "matchAr": "هوفنهايم × شالكه 04",
       "rawIsoTime": "2026-11-08T18:30:00+00:00",
-      "time": "1 - 0 (23')",
-      "rawMinute": 24,
+      "time": "1 - 0 (24')",
+      "rawMinute": 25,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -294,8 +294,8 @@
       "matchEn": "Inter Milan v Calcio Como 1907",
       "matchAr": "إنتر ميلان × كومو 1907",
       "rawIsoTime": "2026-11-08T17:00:00+00:00",
-      "time": "2 - 0 (89')",
-      "rawMinute": 89,
+      "time": "2 - 0 (90')",
+      "rawMinute": 90,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -1607,8 +1607,8 @@
       "matchEn": "Viktoria Plzen v Sparta Praha",
       "matchAr": "فيكتوريا بلزن × سبارتا براغ",
       "rawIsoTime": "2026-11-08T17:00:00+00:00",
-      "time": "1 - 1 (90+1')",
-      "rawMinute": 91,
+      "time": "1 - 1 (90+2')",
+      "rawMinute": 92,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -1634,7 +1634,7 @@
       "matchAr": "أولدهام أتلتيك × شيفيلد وينزداي",
       "rawIsoTime": "2026-11-08T17:15:00+00:00",
       "time": "1 - 1 (82')",
-      "rawMinute": 82,
+      "rawMinute": 83,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -1646,8 +1646,8 @@
       "matchEn": "Union Saint-Gilloise v KRC Genk",
       "matchAr": "يونيون سان جيلواز × جينك",
       "rawIsoTime": "2026-11-08T17:30:00+00:00",
-      "time": "0 - 0 (62')",
-      "rawMinute": 63,
+      "time": "0 - 0 (63')",
+      "rawMinute": 64,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1659,8 +1659,8 @@
       "matchEn": "Baltika Kaliningrad v Dynamo Makhachkala (Rus)",
       "matchAr": "بالتيكا كالينينغراد × دينامو محج قلعة",
       "rawIsoTime": "2026-11-08T17:45:00+00:00",
-      "time": "0 - 1 (47')",
-      "rawMinute": 47,
+      "time": "0 - 1 (48')",
+      "rawMinute": 48,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -1711,8 +1711,8 @@
       "matchEn": "Fredrikstad v Brann",
       "matchAr": "فريدريكستاد × بران",
       "rawIsoTime": "2026-11-08T18:15:00+00:00",
-      "time": "0 - 0 (38')",
-      "rawMinute": 39,
+      "time": "0 - 0 (40')",
+      "rawMinute": 40,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1724,8 +1724,8 @@
       "matchEn": "Sint-Truiden v SV Zulte Waregem",
       "matchAr": "سينت ترويدن × زولت فاريغيم",
       "rawIsoTime": "2026-11-08T18:15:00+00:00",
-      "time": "2 - 1 (37')",
-      "rawMinute": 37,
+      "time": "2 - 1 (38')",
+      "rawMinute": 38,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
