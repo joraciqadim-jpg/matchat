@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794129373642,
+  "timestamp": 1794129430492,
   "matches": [
     {
       "matchId": 4742002,
@@ -580,8 +580,8 @@
       "matchEn": "Shandong Taishan v Chengdu Rongcheng",
       "matchAr": "شاندونغ تايشان × تشنغدو رونغتشنغ",
       "rawIsoTime": "2026-11-08T07:30:00+00:00",
-      "time": "3 - 2 (85')",
-      "rawMinute": 85,
+      "time": "3 - 2 (86')",
+      "rawMinute": 86,
       "homeGoals": 3,
       "awayGoals": 2,
       "isLive": true
@@ -593,8 +593,8 @@
       "matchEn": "Dalian Yingbo v Tianjin Jinmen Tiger",
       "matchAr": "داليان يينغبو × تيانجين جينمن تايغر",
       "rawIsoTime": "2026-11-08T07:30:00+00:00",
-      "time": "2 - 1 (85')",
-      "rawMinute": 85,
+      "time": "2 - 1 (86')",
+      "rawMinute": 86,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -606,8 +606,8 @@
       "matchEn": "Yunnan Yukun v Wuhan Three Towns",
       "matchAr": "يونان يوكُن × ووهان ثري تاونز",
       "rawIsoTime": "2026-11-08T07:30:00+00:00",
-      "time": "2 - 0 (88')",
-      "rawMinute": 89,
+      "time": "2 - 0 (89')",
+      "rawMinute": 90,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -619,8 +619,8 @@
       "matchEn": "Qingdao Huanghai v Shenzhen Peng City",
       "matchAr": "تشينغداو هوانغهاي × شنتشن بينغ سيتي",
       "rawIsoTime": "2026-11-08T07:30:00+00:00",
-      "time": "2 - 2 (90')",
-      "rawMinute": 90,
+      "time": "2 - 2 (90+1')",
+      "rawMinute": 91,
       "homeGoals": 2,
       "awayGoals": 2,
       "isLive": true
@@ -632,8 +632,8 @@
       "matchEn": "Hangzhou Greentown v Henan Songshan Longmen",
       "matchAr": "هانغتشو غرينتاون × خنان سونغشان لونغمن",
       "rawIsoTime": "2026-11-08T07:30:00+00:00",
-      "time": "4 - 0 (86')",
-      "rawMinute": 87,
+      "time": "4 - 0 (87')",
+      "rawMinute": 88,
       "homeGoals": 4,
       "awayGoals": 0,
       "isLive": true
@@ -645,9 +645,9 @@
       "matchEn": "Shanghai Shenhua v Qingdao West Coast",
       "matchAr": "شنغهاي شينهوا × تشينغداو ويست كوست",
       "rawIsoTime": "2026-11-08T07:30:00+00:00",
-      "time": "3 - 0 (89')",
-      "rawMinute": 89,
-      "homeGoals": 3,
+      "time": "4 - 0 (90')",
+      "rawMinute": 90,
+      "homeGoals": 4,
       "awayGoals": 0,
       "isLive": true
     },
@@ -658,8 +658,8 @@
       "matchEn": "Shanghai Port v Liaoning Tieren",
       "matchAr": "شنغهاي بورت × لياونينغ تيرين",
       "rawIsoTime": "2026-11-08T07:30:00+00:00",
-      "time": "6 - 1 (90')",
-      "rawMinute": 90,
+      "time": "6 - 1 (90+1')",
+      "rawMinute": 91,
       "homeGoals": 6,
       "awayGoals": 1,
       "isLive": true
@@ -671,8 +671,8 @@
       "matchEn": "Beijing Guoan v Chongqing Tongliangloong",
       "matchAr": "بكين غوان × تشونغتشينغ تونغليانغ لونغ",
       "rawIsoTime": "2026-11-08T07:30:00+00:00",
-      "time": "1 - 0 (85')",
-      "rawMinute": 85,
+      "time": "1 - 0 (86')",
+      "rawMinute": 86,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -684,8 +684,8 @@
       "matchEn": "Gangwon v Jeonbuk Hyundai Motors",
       "matchAr": "غانغوون × جيونبوك هيونداي موتورز",
       "rawIsoTime": "2026-11-08T07:30:00+00:00",
-      "time": "2 - 2 (87')",
-      "rawMinute": 87,
+      "time": "2 - 2 (88')",
+      "rawMinute": 88,
       "homeGoals": 2,
       "awayGoals": 2,
       "isLive": true
@@ -697,9 +697,9 @@
       "matchEn": "Bucheon 1995 v Pohang Steelers",
       "matchAr": "بوتشون 1995 × بوهانغ ستيلرز",
       "rawIsoTime": "2026-11-08T07:30:00+00:00",
-      "time": "1 - 2 (89')",
-      "rawMinute": 90,
-      "homeGoals": 1,
+      "time": "2 - 2 (90')",
+      "rawMinute": 91,
+      "homeGoals": 2,
       "awayGoals": 2,
       "isLive": true
     },
@@ -710,8 +710,8 @@
       "matchEn": "JEF United Chiba v Mito Hollyhock",
       "matchAr": "جيف يونايتد تشيبا × ميتو هوليهوك",
       "rawIsoTime": "2026-11-08T08:00:00+00:00",
-      "time": "0 - 0 (56')",
-      "rawMinute": 56,
+      "time": "0 - 0 (57')",
+      "rawMinute": 57,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
