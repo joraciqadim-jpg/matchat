@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794172990439,
+  "timestamp": 1794173054537,
   "matches": [
     {
       "matchId": 4742002,
@@ -125,8 +125,8 @@
       "matchEn": "Atletico Madrid v Barcelona",
       "matchAr": "أتلتيكو مدريد × برشلونة",
       "rawIsoTime": "2026-11-08T20:00:00+00:00",
-      "time": "1 - 1 (62')",
-      "rawMinute": 62,
+      "time": "1 - 1 (63')",
+      "rawMinute": 63,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -242,8 +242,8 @@
       "matchEn": "Lens v Olympique de Marseille",
       "matchAr": "لانس × أولمبيك مرسيليا",
       "rawIsoTime": "2026-11-08T19:45:00+00:00",
-      "time": "1 - 1 (79')",
-      "rawMinute": 79,
+      "time": "1 - 1 (80')",
+      "rawMinute": 80,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -307,8 +307,8 @@
       "matchEn": "Fiorentina v Juventus",
       "matchAr": "فيورنتينا × يوفنتوس",
       "rawIsoTime": "2026-11-08T19:45:00+00:00",
-      "time": "2 - 2 (73')",
-      "rawMinute": 73,
+      "time": "2 - 2 (74')",
+      "rawMinute": 74,
       "homeGoals": 2,
       "awayGoals": 2,
       "isLive": true
@@ -1750,8 +1750,8 @@
       "matchEn": "Raja Casablanca v Ittihad Tanger",
       "matchAr": "الرجاء الرياضي × اتحاد طنجة",
       "rawIsoTime": "2026-11-08T20:00:00+00:00",
-      "time": "2 - 0 (55')",
-      "rawMinute": 56,
+      "time": "2 - 0 (57')",
+      "rawMinute": 57,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
