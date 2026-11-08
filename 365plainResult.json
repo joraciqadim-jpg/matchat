@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794176722856,
+  "timestamp": 1794176773133,
   "matches": [
     {
       "matchId": 4742002,
@@ -385,11 +385,11 @@
       "matchEn": "Rio Ave v Braga",
       "matchAr": "ريو آفي × براغا",
       "rawIsoTime": "2026-11-08T20:30:00+00:00",
-      "time": "0 - 1 (90+6')",
-      "rawMinute": 96,
+      "time": "0 - 1 (done)",
+      "rawMinute": 90,
       "homeGoals": 0,
       "awayGoals": 1,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4734531,
