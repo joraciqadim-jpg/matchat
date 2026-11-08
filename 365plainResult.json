@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794141050745,
+  "timestamp": 1794141070602,
   "matches": [
     {
       "matchId": 4742002,
@@ -788,8 +788,8 @@
       "matchEn": "Al Shorta Baghdad v Al Naft",
       "matchAr": "الشرطة بغداد × النفط",
       "rawIsoTime": "2026-11-08T11:00:00+00:00",
-      "time": "2 - 1 (72')",
-      "rawMinute": 72,
+      "time": "2 - 1 (73')",
+      "rawMinute": 73,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -827,11 +827,11 @@
       "matchEn": "Brugge KV v RSC Anderlecht",
       "matchAr": "كلوب بروج × أندرلخت",
       "rawIsoTime": "2026-11-08T12:30:00+00:00",
-      "time": "12:30",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4795556,
@@ -853,8 +853,8 @@
       "matchEn": "Petrojet v Delphi",
       "matchAr": "بتروجيت × دلفي",
       "rawIsoTime": "2026-11-08T12:30:00+00:00",
-      "time": "0 - 0 (1')",
-      "rawMinute": 1,
+      "time": "0 - 0 (2')",
+      "rawMinute": 2,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
