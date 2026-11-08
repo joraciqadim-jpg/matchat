@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794113951137,
+  "timestamp": 1794114062876,
   "matches": [
     {
       "matchId": 4742002,
@@ -502,8 +502,8 @@
       "matchEn": "Pumas UNAM v América",
       "matchAr": "بوماس أونام × أمريكا",
       "rawIsoTime": "2026-11-08T03:10:00+00:00",
-      "time": "2 - 2 (84')",
-      "rawMinute": 84,
+      "time": "2 - 2 (86')",
+      "rawMinute": 86,
       "homeGoals": 2,
       "awayGoals": 2,
       "isLive": true
@@ -541,11 +541,11 @@
       "matchEn": "Daejeon Hana Citizen v Incheon United",
       "matchAr": "دايجون هانا سيتيزن × إنتشون يونايتد",
       "rawIsoTime": "2026-11-08T05:00:00+00:00",
-      "time": "05:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4885474,
@@ -554,11 +554,11 @@
       "matchEn": "Seoul v Ulsan Hyundai",
       "matchAr": "سيول × أولسان هيونداي",
       "rawIsoTime": "2026-11-08T05:00:00+00:00",
-      "time": "05:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4739573,
