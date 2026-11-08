@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794142750663,
+  "timestamp": 1794142862300,
   "matches": [
     {
       "matchId": 4742002,
@@ -73,11 +73,11 @@
       "matchEn": "Elche v Real Betis Balompié",
       "matchAr": "إلتشي × ريال بيتيس بالومبي",
       "rawIsoTime": "2026-11-08T13:00:00+00:00",
-      "time": "13:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4750795,
@@ -255,8 +255,8 @@
       "matchEn": "SSC Napoli v SS Lazio",
       "matchAr": "نابولي × لاتسيو",
       "rawIsoTime": "2026-11-08T11:30:00+00:00",
-      "time": "1 - 1 (70')",
-      "rawMinute": 70,
+      "time": "1 - 1 (71')",
+      "rawMinute": 72,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -398,8 +398,8 @@
       "matchEn": "Heerenveen v Feyenoord",
       "matchAr": "هيرينفين × فاينورد",
       "rawIsoTime": "2026-11-08T11:15:00+00:00",
-      "time": "3 - 3 (82')",
-      "rawMinute": 82,
+      "time": "3 - 3 (84')",
+      "rawMinute": 84,
       "homeGoals": 3,
       "awayGoals": 3,
       "isLive": true
@@ -730,6 +730,19 @@
       "isLive": false
     },
     {
+      "matchId": 4731466,
+      "tournamentEn": "🇩🇰 Danish Superliga",
+      "tournamentAr": "🇩🇰 الدوري الدنماركي",
+      "matchEn": "Copenhagen v Brøndby IF",
+      "matchAr": "كوبنهاغن × بروندبي",
+      "rawIsoTime": "2026-11-08T11:00:00+00:00",
+      "time": "1 - 0 (done)",
+      "rawMinute": 90,
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "isLive": false
+    },
+    {
       "matchId": 4745493,
       "tournamentEn": "🇷🇺 Russian Premier Liga",
       "tournamentAr": "🇷🇺 الدوري الروسي",
@@ -769,27 +782,14 @@
       "isLive": false
     },
     {
-      "matchId": 4731466,
-      "tournamentEn": "🇩🇰 Danish Superliga",
-      "tournamentAr": "🇩🇰 الدوري الدنماركي",
-      "matchEn": "Copenhagen v Brøndby IF",
-      "matchAr": "كوبنهاغن × بروندبي",
-      "rawIsoTime": "2026-11-08T11:00:00+00:00",
-      "time": "1 - 0 (90+6')",
-      "rawMinute": 96,
-      "homeGoals": 1,
-      "awayGoals": 0,
-      "isLive": true
-    },
-    {
       "matchId": 4748659,
       "tournamentEn": "🇺🇦 Ukrainian League",
       "tournamentAr": "🇺🇦 الدوري الأوكراني",
       "matchEn": "Zorya Luhansk v LNZ Cherkasy",
       "matchAr": "زوريا لوغانسك × إل إن زد تشيركاسي",
       "rawIsoTime": "2026-11-08T11:00:00+00:00",
-      "time": "1 - 2 (75')",
-      "rawMinute": 75,
+      "time": "1 - 2 (77')",
+      "rawMinute": 77,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -827,8 +827,8 @@
       "matchEn": "Brugge KV v RSC Anderlecht",
       "matchAr": "كلوب بروج × أندرلخت",
       "rawIsoTime": "2026-11-08T12:30:00+00:00",
-      "time": "0 - 0 (29')",
-      "rawMinute": 29,
+      "time": "0 - 0 (30')",
+      "rawMinute": 30,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -840,8 +840,8 @@
       "matchEn": "Damac v Al Anwar",
       "matchAr": "ضمك × الأنوار",
       "rawIsoTime": "2026-11-08T12:30:00+00:00",
-      "time": "0 - 0 (28')",
-      "rawMinute": 28,
+      "time": "0 - 0 (30')",
+      "rawMinute": 30,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -853,8 +853,8 @@
       "matchEn": "Petrojet v Delphi",
       "matchAr": "بتروجيت × دلفي",
       "rawIsoTime": "2026-11-08T12:30:00+00:00",
-      "time": "0 - 0 (30')",
-      "rawMinute": 30,
+      "time": "0 - 0 (31')",
+      "rawMinute": 32,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -866,10 +866,10 @@
       "matchEn": "Jazira Abu Dhabi v Al Wasl",
       "matchAr": "الجزيرة أبوظبي × الوصل",
       "rawIsoTime": "2026-11-08T12:55:00+00:00",
-      "time": "0 - 0 (4')",
-      "rawMinute": 4,
+      "time": "0 - 1 (6')",
+      "rawMinute": 6,
       "homeGoals": 0,
-      "awayGoals": 0,
+      "awayGoals": 1,
       "isLive": true
     },
     {
@@ -879,8 +879,8 @@
       "matchEn": "Al Nasr Dubai v Dubai United",
       "matchAr": "النصر دبي × دبي يونايتد",
       "rawIsoTime": "2026-11-08T12:55:00+00:00",
-      "time": "0 - 0 (4')",
-      "rawMinute": 4,
+      "time": "0 - 0 (6')",
+      "rawMinute": 6,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -892,11 +892,11 @@
       "matchEn": "Halmstad v Djurgårdens IF",
       "matchAr": "هالمستاد × يورغوردين",
       "rawIsoTime": "2026-11-08T13:00:00+00:00",
-      "time": "13:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4635962,
@@ -905,11 +905,11 @@
       "matchEn": "IFK Göteborg v Malmö FF",
       "matchAr": "إف كيه غوتنبرغ × مالمو",
       "rawIsoTime": "2026-11-08T13:00:00+00:00",
-      "time": "13:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4731463,
@@ -931,11 +931,11 @@
       "matchEn": "St. Gallen 1879 v Lugano",
       "matchAr": "سانت غالن 1879 × لوغانو",
       "rawIsoTime": "2026-11-08T13:00:00+00:00",
-      "time": "13:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4763749,
@@ -983,11 +983,11 @@
       "matchEn": "JS El Biar v MC Alger",
       "matchAr": "شبيبة الأبيار × مولودية الجزائر",
       "rawIsoTime": "2026-11-08T13:00:00+00:00",
-      "time": "13:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4745494,
