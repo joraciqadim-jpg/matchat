@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794139150551,
+  "timestamp": 1794139262536,
   "matches": [
     {
       "matchId": 4742002,
@@ -255,10 +255,10 @@
       "matchEn": "SSC Napoli v SS Lazio",
       "matchAr": "نابولي × لاتسيو",
       "rawIsoTime": "2026-11-08T11:30:00+00:00",
-      "time": "0 - 0 (27')",
-      "rawMinute": 27,
+      "time": "0 - 1 (29')",
+      "rawMinute": 29,
       "homeGoals": 0,
-      "awayGoals": 0,
+      "awayGoals": 1,
       "isLive": true
     },
     {
@@ -398,8 +398,8 @@
       "matchEn": "Heerenveen v Feyenoord",
       "matchAr": "هيرينفين × فاينورد",
       "rawIsoTime": "2026-11-08T11:15:00+00:00",
-      "time": "0 - 2 (43')",
-      "rawMinute": 43,
+      "time": "0 - 2 (45')",
+      "rawMinute": 45,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -723,8 +723,8 @@
       "matchEn": "Caykur Rizespor v Erzurumspor",
       "matchAr": "تشايكور ريزه سبور × أرضروم سبور",
       "rawIsoTime": "2026-11-08T10:30:00+00:00",
-      "time": "2 - 1 (72')",
-      "rawMinute": 72,
+      "time": "2 - 1 (74')",
+      "rawMinute": 74,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -762,8 +762,8 @@
       "matchEn": "Zorya Luhansk v LNZ Cherkasy",
       "matchAr": "زوريا لوغانسك × إل إن زد تشيركاسي",
       "rawIsoTime": "2026-11-08T11:00:00+00:00",
-      "time": "0 - 1 (26')",
-      "rawMinute": 26,
+      "time": "0 - 1 (28')",
+      "rawMinute": 28,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -801,11 +801,11 @@
       "matchEn": "Teplice v Pardubice",
       "matchAr": "تيبليتسه × باردوبيتسه",
       "rawIsoTime": "2026-11-08T12:00:00+00:00",
-      "time": "12:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4882972,
