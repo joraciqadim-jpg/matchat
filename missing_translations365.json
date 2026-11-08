@@ -188,7 +188,7 @@
     "ar": "أرضروم سبور"
   },
   "turkiye super lig": {
-    "en": "Turkiye Super Lig",
+    "en": "Turkish Super Lig",
     "ar": "الدوري التركي الممتاز"
   },
   "fc copenhagen": {
@@ -200,7 +200,7 @@
     "ar": "بروندبي"
   },
   "denmark superliga": {
-    "en": "Denmark Superliga",
+    "en": "Danish Superliga",
     "ar": "الدوري الدنماركي"
   },
   "krylya sovetov samara": {
@@ -224,7 +224,7 @@
     "ar": "تشيركاسي"
   },
   "ukraine premier league": {
-    "en": "Ukraine Premier League",
+    "en": "Ukrainian Premier League",
     "ar": "الدوري الأوكراني"
   },
   "bukovyna": {
@@ -280,8 +280,8 @@
     "ar": "باردوبيتسه"
   },
   "czechia chance liga": {
-    "en": "Czechia Chance Liga",
-    "ar": "الدوري التشيكي - تشانس ليغا"
+    "en": "Czech League",
+    "ar": "الدوري التشيكي"
   },
   "stafford rangers": {
     "en": "Stafford Rangers",
@@ -360,7 +360,7 @@
     "ar": "يورغوردين"
   },
   "sweden allsvenskan": {
-    "en": "Sweden Allsvenskan",
+    "en": "Swedish League",
     "ar": "الدوري السويدي الممتاز"
   },
   "ifk göteborg": {
@@ -388,7 +388,7 @@
     "ar": "لوغانو"
   },
   "switzerland super league": {
-    "en": "Switzerland Super League",
+    "en": "Swiss Super League",
     "ar": "الدوري السويسري الممتاز"
   },
   "elche": {
@@ -1231,4 +1231,4 @@
     "en": "Lanus",
     "ar": "لانوس"
   }
-}
+  }
