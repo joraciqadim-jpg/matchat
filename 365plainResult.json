@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794102631068,
+  "timestamp": 1794102670765,
   "matches": [
     {
       "matchId": 4742002,
@@ -489,8 +489,8 @@
       "matchEn": "U.A.N.L. - Tigres v Cruz Azul",
       "matchAr": "جامعة نويفو ليون المستقلة - تيغريس × كروز أزول",
       "rawIsoTime": "2026-11-08T01:00:00+00:00",
-      "time": "1 - 1 (45+3')",
-      "rawMinute": 48,
+      "time": "1 - 1 (Halftime)",
+      "rawMinute": 45,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
