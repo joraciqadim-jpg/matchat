@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794129632167,
+  "timestamp": 1794129670760,
   "matches": [
     {
       "matchId": 4742002,
@@ -587,6 +587,19 @@
       "isLive": false
     },
     {
+      "matchId": 4673279,
+      "tournamentEn": "🇨🇳 Chinese Super League",
+      "tournamentAr": "🇨🇳 الدوري الصيني الممتاز",
+      "matchEn": "Shanghai Shenhua v Qingdao West Coast",
+      "matchAr": "شنغهاي شينهوا × تشينغداو ويست كوست",
+      "rawIsoTime": "2026-11-08T07:30:00+00:00",
+      "time": "4 - 0 (done)",
+      "rawMinute": 90,
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "isLive": false
+    },
+    {
       "matchId": 4673653,
       "tournamentEn": "🇨🇳 Chinese Super League",
       "tournamentAr": "🇨🇳 الدوري الصيني الممتاز",
@@ -606,7 +619,7 @@
       "matchEn": "Shandong Taishan v Chengdu Rongcheng",
       "matchAr": "شاندونغ تايشان × تشنغدو رونغتشنغ",
       "rawIsoTime": "2026-11-08T07:30:00+00:00",
-      "time": "3 - 2 (89')",
+      "time": "3 - 2 (90')",
       "rawMinute": 90,
       "homeGoals": 3,
       "awayGoals": 2,
@@ -619,8 +632,8 @@
       "matchEn": "Dalian Yingbo v Tianjin Jinmen Tiger",
       "matchAr": "داليان يينغبو × تيانجين جينمن تايغر",
       "rawIsoTime": "2026-11-08T07:30:00+00:00",
-      "time": "2 - 1 (89')",
-      "rawMinute": 89,
+      "time": "2 - 1 (90')",
+      "rawMinute": 90,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -633,7 +646,7 @@
       "matchAr": "يونان يوكُن × ووهان ثري تاونز",
       "rawIsoTime": "2026-11-08T07:30:00+00:00",
       "time": "2 - 1 (90+3')",
-      "rawMinute": 93,
+      "rawMinute": 94,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -645,23 +658,10 @@
       "matchEn": "Qingdao Huanghai v Shenzhen Peng City",
       "matchAr": "تشينغداو هوانغهاي × شنتشن بينغ سيتي",
       "rawIsoTime": "2026-11-08T07:30:00+00:00",
-      "time": "2 - 2 (90+4')",
-      "rawMinute": 94,
+      "time": "2 - 2 (90+5')",
+      "rawMinute": 95,
       "homeGoals": 2,
       "awayGoals": 2,
-      "isLive": true
-    },
-    {
-      "matchId": 4673279,
-      "tournamentEn": "🇨🇳 Chinese Super League",
-      "tournamentAr": "🇨🇳 الدوري الصيني الممتاز",
-      "matchEn": "Shanghai Shenhua v Qingdao West Coast",
-      "matchAr": "شنغهاي شينهوا × تشينغداو ويست كوست",
-      "rawIsoTime": "2026-11-08T07:30:00+00:00",
-      "time": "4 - 0 (90+3')",
-      "rawMinute": 93,
-      "homeGoals": 4,
-      "awayGoals": 0,
       "isLive": true
     },
     {
@@ -671,7 +671,7 @@
       "matchEn": "Beijing Guoan v Chongqing Tongliangloong",
       "matchAr": "بكين غوان × تشونغتشينغ تونغليانغ لونغ",
       "rawIsoTime": "2026-11-08T07:30:00+00:00",
-      "time": "1 - 0 (89')",
+      "time": "1 - 0 (90')",
       "rawMinute": 90,
       "homeGoals": 1,
       "awayGoals": 0,
@@ -684,8 +684,8 @@
       "matchEn": "Gangwon v Jeonbuk Hyundai Motors",
       "matchAr": "غانغوون × جيونبوك هيونداي موتورز",
       "rawIsoTime": "2026-11-08T07:30:00+00:00",
-      "time": "2 - 2 (90+1')",
-      "rawMinute": 91,
+      "time": "2 - 2 (90+2')",
+      "rawMinute": 92,
       "homeGoals": 2,
       "awayGoals": 2,
       "isLive": true
@@ -698,7 +698,7 @@
       "matchAr": "بوتشون 1995 × بوهانغ ستيلرز",
       "rawIsoTime": "2026-11-08T07:30:00+00:00",
       "time": "2 - 2 (90+4')",
-      "rawMinute": 94,
+      "rawMinute": 95,
       "homeGoals": 2,
       "awayGoals": 2,
       "isLive": true
