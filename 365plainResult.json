@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794243321325,
+  "timestamp": 1794243373993,
   "matches": [
     {
       "matchId": 4735621,
@@ -47,8 +47,8 @@
       "matchEn": "Zed v Samanod",
       "matchAr": "زد × سمنود",
       "rawIsoTime": "2026-11-09T15:00:00+00:00",
-      "time": "5 - 1 (90')",
-      "rawMinute": 90,
+      "time": "5 - 1 (90+1')",
+      "rawMinute": 91,
       "homeGoals": 5,
       "awayGoals": 1,
       "isLive": true
