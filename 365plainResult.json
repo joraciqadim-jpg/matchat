@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794193270316,
+  "timestamp": 1794193334475,
   "matches": [
     {
       "matchId": 4735621,
@@ -21,8 +21,8 @@
       "matchEn": "Leon v Chivas",
       "matchAr": "ليون × تشيفاس",
       "rawIsoTime": "2026-11-09T02:10:00+00:00",
-      "time": "0 - 0 (45+6')",
-      "rawMinute": 51,
+      "time": "0 - 0 (Halftime)",
+      "rawMinute": 45,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
