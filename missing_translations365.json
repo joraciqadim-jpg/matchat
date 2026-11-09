@@ -1,4 +1,52 @@
 {
+  "queretaro": {
+    "en": "Queretaro",
+    "ar": "كيريتارو"
+  },
+  "puebla": {
+    "en": "Puebla",
+    "ar": "بويبلا"
+  },
+  "leon": {
+    "en": "Leon",
+    "ar": "ليون"
+  },
+  "chivas": {
+    "en": "Chivas",
+    "ar": "تشيفاس"
+  },
+  "wadi degla": {
+    "en": "Wadi Degla",
+    "ar": "وادي دجلة"
+  },
+  "kahrbaa alasmalia": {
+    "en": "Kahrbaa Alasmalia",
+    "ar": "كهرباء الإسماعيلية"
+  },
+  "zed fc": {
+    "en": "Zed",
+    "ar": "زد"
+  },
+  "samanod": {
+    "en": "Samanod",
+    "ar": "سمنود"
+  },
+  "kristiansund fk": {
+    "en": "Kristiansund",
+    "ar": "كريستيانسوند"
+  },
+  "valerenga": {
+    "en": "Valerenga",
+    "ar": "فاليرينغا"
+  },
+  "plymouth parkway": {
+    "en": "Plymouth Parkway",
+    "ar": "بليموث باركواي"
+  },
+  "berkhamsted": {
+    "en": "Berkhamsted",
+    "ar": "بيركهامستيد"
+  },
   "instituto ac cordoba": {
     "en": "Instituto Cordoba",
     "ar": "إنستيتوتو كوردوبا"
@@ -1231,4 +1279,4 @@
     "en": "Lanus",
     "ar": "لانوس"
   }
-  }
+}
