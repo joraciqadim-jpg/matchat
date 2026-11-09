@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794185230627,
+  "timestamp": 1794185293181,
   "matches": [
     {
       "matchId": 4735621,
@@ -8,8 +8,8 @@
       "matchEn": "Queretaro v Puebla",
       "matchAr": "كيريتارو × بويبلا",
       "rawIsoTime": "2026-11-09T00:00:00+00:00",
-      "time": "0 - 2 (45')",
-      "rawMinute": 45,
+      "time": "0 - 2 (45+1')",
+      "rawMinute": 46,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
