@@ -1,17 +1,21 @@
 {
-  "Ramnicu Valcea": {
+  "parkway": {
+    "en": "Parkway",
+    "ar": "باركواي"
+  },
+  "ramnicu valcea": {
     "en": "Râmnicu Vâlcea",
     "ar": "رامنيكو فالشيا"
   },
-  "Aarhus Fremad": {
+  "aarhus fremad": {
     "en": "Aarhus Fremad",
     "ar": "آرهوس فراماد"
   },
-  "Plymouth Parkway": {
+  "plymouth parkway": {
     "en": "Plymouth Parkway",
     "ar": "بليموث باركواي"
   },
-  "Berkhamsted": {
+  "berkhamsted": {
     "en": "Berkhamsted",
     "ar": "بيركهامستد"
   },
