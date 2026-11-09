@@ -56,8 +56,8 @@
     "ar": "كيوتو"
   },
   "yokohama f. marinos": {
-    "en": "Yokohama F. Marinos",
-    "ar": "يوكوهاما إف مارينوس"
+    "en": "Yokohama Marinos",
+    "ar": "يوكوهاما مارينوس"
   },
   "okayama": {
     "en": "Okayama",
@@ -105,7 +105,7 @@
   },
   "eyupspor": {
     "en": "Eyupspor",
-    "ar": "إيوب سبور"
+    "ar": "أيوب سبور"
   },
   "kocaelispor": {
     "en": "Kocaelispor",
@@ -153,7 +153,7 @@
   },
   "indian super league": {
     "en": "Indian Super League",
-    "ar": "الدوري الهندي الممتاز"
+    "ar": "الدوري الهندي"
   },
   "homs al fidaa sc": {
     "en": "Homs Al Fidaa",
@@ -165,7 +165,7 @@
   },
   "syrian premier league": {
     "en": "Syrian Premier League",
-    "ar": "الدوري السوري الممتاز"
+    "ar": "الدوري السوري"
   },
   "jaish": {
     "en": "Jaish",
@@ -201,7 +201,7 @@
   },
   "malaga": {
     "en": "Malaga",
-    "ar": "مالقة"
+    "ar": "مالقا"
   },
   "racing santander": {
     "en": "Racing Santander",
@@ -244,8 +244,8 @@
     "ar": "بروغريه سكيكيت"
   },
   "club africain tunis": {
-    "en": "Africain Tunis",
-    "ar": "النادي الإفريقي التونسي"
+    "en": "Club Africain",
+    "ar": "النادي الإفريقي"
   },
   "étoile du sahel": {
     "en": "Étoile du Sahel",
@@ -336,8 +336,8 @@
     "ar": "السيلية"
   },
   "al arabi kuwait": {
-    "en": "Al Arabi Kuwait",
-    "ar": "العربي الكويتي"
+    "en": "Al Arabi",
+    "ar": "العربي"
   },
   "al nasr": {
     "en": "Al Nasr",
@@ -349,7 +349,7 @@
   },
   "eintracht frankfurt": {
     "en": "Eintracht Frankfurt",
-    "ar": "آينتراخت فرانكفورت"
+    "ar": "أينتراخت فرانكفورت"
   },
   "mainz 05": {
     "en": "Mainz 05",
@@ -361,7 +361,7 @@
   },
   "rb leipzig": {
     "en": "RB Leipzig",
-    "ar": "آر بي لايبزيغ"
+    "ar": "لايبزيغ"
   },
   "fc augsburg": {
     "en": "Augsburg",
@@ -372,12 +372,12 @@
     "ar": "بوروسيا دورتموند"
   },
   "sv 07 elversberg": {
-    "en": "SV 07 Elversberg",
-    "ar": "إس في 07 إلفرسبرغ"
+    "en": "Elversberg",
+    "ar": "إلفرسبرغ"
   },
   "kvc westerlo": {
     "en": "KVC Westerlo",
-    "ar": "كي في سي فيسترلو"
+    "ar": "فيسترلو"
   },
   "charleroi": {
     "en": "Charleroi",
@@ -493,7 +493,7 @@
   },
   "afc wimbledon": {
     "en": "AFC Wimbledon",
-    "ar": "إيه إف سي ويمبلدون"
+    "ar": "ويمبلدون"
   },
   "newport county": {
     "en": "Newport County",
@@ -513,7 +513,7 @@
   },
   "guiseley afc": {
     "en": "Guiseley AFC",
-    "ar": "غايزلي إيه إف سي"
+    "ar": "غايزلي"
   },
   "sutton united": {
     "en": "Sutton United",
@@ -705,18 +705,18 @@
   },
   "usm oujda": {
     "en": "Usm Oujda",
-    "ar": "الاتحاد الإسلامي الوجدي"
+    "ar": "اتحاد وجدة"
   },
   "us boujaad": {
     "en": "US Boujaad",
-    "ar": "الاتحاد الرياضي أبي الجعد"
+    "ar": "اتحاد أبي الجعد"
   },
   "espanyol": {
     "en": "Espanyol",
     "ar": "إسبانيول"
   },
   "deportivo a coruña": {
-    "en": "Deportivo A Coruña",
+    "en": "Deportivo La Coruña",
     "ar": "ديبورتيفو لاكورونيا"
   },
   "fortuna sittard": {
@@ -728,8 +728,8 @@
     "ar": "تيلستار"
   },
   "al zawraa baghdad": {
-    "en": "Al Zawraa Baghdad",
-    "ar": "الزوراء بغداد"
+    "en": "Al Zawraa",
+    "ar": "الزوراء"
   },
   "al julan": {
     "en": "Al Julan",
@@ -757,7 +757,7 @@
   },
   "grazer ak": {
     "en": "Grazer AK",
-    "ar": "غراتسر أي كاي"
+    "ar": "غراتسر"
   },
   "galatasaray": {
     "en": "Galatasaray",
@@ -769,7 +769,7 @@
   },
   "goztepe": {
     "en": "Goztepe",
-    "ar": "غوزتيبي"
+    "ar": "غوزتيبه"
   },
   "başakşehir": {
     "en": "Başakşehir",
@@ -793,7 +793,7 @@
   },
   "örgryte is": {
     "en": "Örgryte IS",
-    "ar": "أوريبرو آي إس"
+    "ar": "أوريبرو"
   },
   "västerås": {
     "en": "Västerås",
@@ -813,7 +813,7 @@
   },
   "cska moscow": {
     "en": "CSKA Moscow",
-    "ar": "سسكا موسكو"
+    "ar": "سيسكا موسكو"
   },
   "al gharafa": {
     "en": "Al Gharafa",
@@ -853,7 +853,7 @@
   },
   "mb rouisset": {
     "en": "MB Rouisset",
-    "ar": "مولودية بلدية الرويسات"
+    "ar": "مولودية الرويسات"
   },
   "rosenborg": {
     "en": "Rosenborg",
@@ -912,7 +912,7 @@
     "ar": "الدرعية"
   },
   "saudi arabia saudi league": {
-    "en": "Saudi Saudi League",
+    "en": "Saudi Pro League",
     "ar": "الدوري السعودي"
   },
   "al ettifaq": {
@@ -920,11 +920,11 @@
     "ar": "الاتفاق"
   },
   "al hilal riyadh": {
-    "en": "Al Hilal Riyadh",
+    "en": "Al Hilal",
     "ar": "الهلال"
   },
   "al ahli jeddah": {
-    "en": "Al Ahli Jeddah",
+    "en": "Al Ahli",
     "ar": "الأهلي"
   },
   "al taawoun": {
@@ -941,7 +941,7 @@
   },
   "libya premier league - group stage": {
     "en": "Libyan Premier League - Group Stage",
-    "ar": "الدوري الليبي الممتاز - مرحلة المجموعات"
+    "ar": "الدوري الليبي - مرحلة المجموعات"
   },
   "ittihad khemisset": {
     "en": "Ittihad Khemisset",
@@ -949,7 +949,7 @@
   },
   "scc mohammédia": {
     "en": "SCC Mohammédia",
-    "ar": "الشباب الرياضي السالمي"
+    "ar": "شباب المحمدية"
   },
   "oud-heverlee leuven": {
     "en": "Oud-Heverlee Leuven",
@@ -957,7 +957,7 @@
   },
   "kv mechelen": {
     "en": "KV Mechelen",
-    "ar": "كي في ميخيلين"
+    "ar": "ميخيلين"
   },
   "nottingham forest": {
     "en": "Nottingham Forest",
@@ -993,7 +993,7 @@
   },
   "ado den haag": {
     "en": "ADO Den Haag",
-    "ar": "إيه دي أو دن هاغ"
+    "ar": "أدو دن هاغ"
   },
   "sparta rotterdam": {
     "en": "Sparta Rotterdam",
@@ -1012,7 +1012,7 @@
     "ar": "تاليريس كوردوبا"
   },
   "estudiantes de la plata": {
-    "en": "Estudiantes de La Plata",
+    "en": "Estudiantes La Plata",
     "ar": "إستوديانتس لا بلاتا"
   },
   "gimnasia mendoza": {
@@ -1097,7 +1097,7 @@
   },
   "la louvière centre": {
     "en": "La Louvière Centre",
-    "ar": "لا لوفيير سنتر"
+    "ar": "لوفيير سنتر"
   },
   "cercle brugge": {
     "en": "Cercle Brugge",
@@ -1152,7 +1152,7 @@
     "ar": "النادي المكناسي"
   },
   "psg": {
-    "en": "PSG",
+    "en": "Paris Saint-Germain",
     "ar": "باريس سان جيرمان"
   },
   "troyes": {
@@ -1180,8 +1180,8 @@
     "ar": "بوكا جونيورز"
   },
   "defensa y justicia": {
-    "en": "Defensa Y Justicia",
-    "ar": "ديفينسا إي خوستيسيا"
+    "en": "Defensa Justicia",
+    "ar": "ديفينسا خوستيسيا"
   },
   "sporting cp": {
     "en": "Sporting CP",
@@ -2487,4 +2487,4 @@
     "en": "Lanus",
     "ar": "لانوس"
   }
-}
+  }
