@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794262750623,
+  "timestamp": 1794262831277,
   "matches": [
     {
       "matchId": 4735621,
@@ -73,11 +73,11 @@
       "matchEn": "Plymouth Parkway v Berkhamsted",
       "matchAr": "بليموث باركواي × بيركهامستيد",
       "rawIsoTime": "2026-11-09T19:30:00+00:00",
-      "time": "2 - 1 (done)",
+      "time": "2 - 1 (120')",
       "rawMinute": 120,
       "homeGoals": 2,
       "awayGoals": 1,
-      "isLive": false
+      "isLive": true
     }
   ]
 }
