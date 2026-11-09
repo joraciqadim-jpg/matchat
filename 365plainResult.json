@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794237923862,
+  "timestamp": 1794237973363,
   "matches": [
     {
       "matchId": 4735621,
@@ -34,10 +34,10 @@
       "matchEn": "Wadi Degla v Kahrbaa Alasmalia",
       "matchAr": "وادي دجلة × كهرباء الإسماعيلية",
       "rawIsoTime": "2026-11-09T12:30:00+00:00",
-      "time": "1 - 0 (120')",
+      "time": "1 - 1 (120')",
       "rawMinute": 120,
       "homeGoals": 1,
-      "awayGoals": 0,
+      "awayGoals": 1,
       "isLive": true
     },
     {
@@ -47,8 +47,8 @@
       "matchEn": "Zed v Samanod",
       "matchAr": "زد × سمنود",
       "rawIsoTime": "2026-11-09T15:00:00+00:00",
-      "time": "2 - 0 (22')",
-      "rawMinute": 22,
+      "time": "2 - 0 (23')",
+      "rawMinute": 23,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
