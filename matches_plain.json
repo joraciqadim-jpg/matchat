@@ -21,25 +21,20 @@
       ]
     },
     {
-      "tournamentEn": "🇺🇸 USA NBA",
-      "tournamentAr": "🇺🇸 الدوري الأميركي لكرة السلة",
-      "matchEn": "Dallas Mavericks v Brooklyn Nets",
-      "matchAr": "دالاس مافريكس × بروكلين نتس",
-      "time": "00:30",
+      "tournamentEn": "🏆 England FA Cup",
+      "tournamentAr": "🏆 كأس الاتحاد الإنجليزي",
+      "matchEn": "Parkway v Berkhamsted",
+      "matchAr": "باركواي × بيركهامستد",
+      "time": "19:30",
       "channels": [
-        "📺 5 Stars [Amos 4.0W 11259 V 30000]"
-      ]
-    },
-    {
-      "tournamentEn": "🇺🇸 USA NBA",
-      "tournamentAr": "🇺🇸 الدوري الأميركي لكرة السلة",
-      "matchEn": "Bucks v Celtics",
-      "matchAr": "باكس × سيلتكس",
-      "time": "01:00",
-      "channels": [
-        "📺 Bein Sport 7 [Nilesat 7.0W 12188 H 27500]",
-        "📺 Sky Sport Basket [Hotbird 13.0E 11843 V 29900]",
-        "📺 Bein Sport 7 [Badrsat 26.0E 10850 V 27500]"
+        "📺 Nova Sport 2 CZ [Thor 0.8W 12380 V 30000]",
+        "📺 V Sport 1 [Thor 0.8W 10809 H 25000]",
+        "📺 Diema Sport 2 [Hotbird 13.0E 12673 V 30000]",
+        "📺 Arena Premium 2 SRB [Eutelsat 16.0E 11429 V 28330]",
+        "📺 Arena Sport 4 HRV [Eutelsat 16.0E 11554 V 30000]",
+        "📺 Nova Sport 2 CZ [Astra 23.5E 11973 V 29900]",
+        "📺 Megogo Sport [Astra 23.5E 12285 V 30000]",
+        "📺 TNT Sports 1 [Astra 28.2E 11582 H 23000]"
       ]
     }
   ]
