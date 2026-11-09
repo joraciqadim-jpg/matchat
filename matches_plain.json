@@ -1,6 +1,26 @@
 {
   "matches": [
     {
+      "tournamentEn": "🏆 Egypt Cup",
+      "tournamentAr": "🏆 كأس مصر",
+      "matchEn": "Wadi Degla v Ismailia",
+      "matchAr": "وادي دجلة × الإسماعيلية",
+      "time": "12:30",
+      "channels": [
+        "📺 On Sport 1 [Nilesat 7.0W 11862 V 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "🏆 Egypt Cup",
+      "tournamentAr": "🏆 كأس مصر",
+      "matchEn": "ZED v Minyat Samanoud",
+      "matchAr": "زد × منية سمنود",
+      "time": "15:00",
+      "channels": [
+        "📺 On Sport MAX [Nilesat 7.0W 11977 V 27500]"
+      ]
+    },
+    {
       "tournamentEn": "🇺🇸 USA NBA",
       "tournamentAr": "🇺🇸 الدوري الأميركي لكرة السلة",
       "matchEn": "Dallas Mavericks v Brooklyn Nets",
