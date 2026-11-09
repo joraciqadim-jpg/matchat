@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794253933689,
+  "timestamp": 1794254010252,
   "matches": [
     {
       "matchId": 4735621,
@@ -60,11 +60,11 @@
       "matchEn": "Kristiansund v Valerenga",
       "matchAr": "كريستيانسوند × فاليرينغا",
       "rawIsoTime": "2026-11-09T18:00:00+00:00",
-      "time": "1 - 0 (90+5')",
-      "rawMinute": 95,
+      "time": "1 - 0 (done)",
+      "rawMinute": 90,
       "homeGoals": 1,
       "awayGoals": 0,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4882339,
@@ -73,8 +73,8 @@
       "matchEn": "Plymouth Parkway v Berkhamsted",
       "matchAr": "بليموث باركواي × بيركهامستيد",
       "rawIsoTime": "2026-11-09T19:30:00+00:00",
-      "time": "0 - 0 (22')",
-      "rawMinute": 22,
+      "time": "0 - 0 (24')",
+      "rawMinute": 24,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
