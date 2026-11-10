@@ -1,20 +1,55 @@
 {
   "matches": [
     {
-      "tournamentEn": "🏆 England FA Cup",
-      "tournamentAr": "🏆 كأس الاتحاد الإنجليزي",
-      "matchEn": "Parkway v Berkhamsted",
-      "matchAr": "باركواي × بيركهامستد",
-      "time": "19:30",
+      "tournamentEn": "🇺🇸 USA NBA",
+      "tournamentAr": "🇺🇸 الدوري الأميركي لكرة السلة",
+      "matchEn": "Atalanta Hawks v Lakers",
+      "matchAr": "أتلانتا هوكس × ليكرز",
+      "time": "00:00",
       "channels": [
-        "📺 Nova Sport 2 CZ [Thor 0.8W 12380 V 30000]",
-        "📺 V Sport 1 [Thor 0.8W 10809 H 25000]",
-        "📺 Diema Sport 2 [Hotbird 13.0E 12673 V 30000]",
-        "📺 Arena Premium 2 SRB [Eutelsat 16.0E 11429 V 28330]",
-        "📺 Arena Sport 4 HRV [Eutelsat 16.0E 11554 V 30000]",
-        "📺 Nova Sport 2 CZ [Astra 23.5E 11973 V 29900]",
-        "📺 Megogo Sport [Astra 23.5E 12285 V 30000]",
-        "📺 TNT Sports 1 [Astra 28.2E 11582 H 23000]"
+        "📺 Sport Klub 1 HRV [Eutelsat 16.0E 11471 H 30000]",
+        "📺 Sport Klub 1 SLO [Eutelsat 16.0E 11471 H 30000]"
+      ]
+    },
+    {
+      "tournamentEn": "🇺🇸 USA NBA",
+      "tournamentAr": "🇺🇸 الدوري الأميركي لكرة السلة",
+      "matchEn": "Pistons v Washington Wizards",
+      "matchAr": "بيستونز × واشنطن ويزاردز",
+      "time": "00:00",
+      "channels": [
+        "📺 Bein Sport 8 [Nilesat 7.0W 11054 H 27500]",
+        "📺 Go 3 Sport 1 [Astra 4.8E 11938 V 27500]",
+        "📺 Eurosport 3 [Hotbird 13.0E 12015 H 27500]",
+        "📺 Sky Sport Basket [Hotbird 13.0E 11843 V 29900]",
+        "📺 BeIn Sports 1 France [Astra 19.2E 12168 V 29700]",
+        "📺 Bein Sport 8 [Badrsat 26.0E 10810 V 27500]",
+        "📺 BeIn Sports English 1 [Badrsat 26.0E 10850 V 27500]",
+        "📺 Sky Sports+ ( Arena ) [Astra 28.2E 12226 H 27500]",
+        "📺 SuperSport Action [Eutelsat 36.0E 12341 V 27500]",
+        "📺 SuperSport Máximo 1 [Eutelsat 36.0E 12169 H 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "🇺🇸 USA NBA",
+      "tournamentAr": "🇺🇸 الدوري الأميركي لكرة السلة",
+      "matchEn": "Housten Rockets v Denver Nuggets",
+      "matchAr": "هيوستن روكتس × دنفر ناغتس",
+      "time": "01:30",
+      "channels": [
+        "📺 Sport TV 1 [Hispasat 30W 12360 H 27500]",
+        "📺 Arena Premium 1 SRB [Eutelsat 16.0E 11366 V 30000]",
+        "📺 S Sport [Turksat 42.0E 11853 H 25000]"
+      ]
+    },
+    {
+      "tournamentEn": "🇺🇸 USA NBA",
+      "tournamentAr": "🇺🇸 الدوري الأميركي لكرة السلة",
+      "matchEn": "Warriors v New Orleans Pelicans",
+      "matchAr": "ووريورز × نيو أورلينز بيليكانز",
+      "time": "03:00",
+      "channels": [
+        "📺 5 Sport [Amos 4.0W 11259 V 30000]"
       ]
     }
   ]
