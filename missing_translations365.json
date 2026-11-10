@@ -1,6 +1,6 @@
 {
   "europe uefa nations league": {
-    "en": "Europe UEFA Nations League",
+    "en": "UEFA Nations League",
     "ar": "دوري الأمم الأوروبية"
   },
   "coupe de france": {
@@ -11,10 +11,7 @@
     "en": "Spanish Copa del Rey",
     "ar": "كأس ملك إسبانيا"
   },
-  "coupe de france - round of 128": {
-    "en": "Coupe de France - Round of 128",
-    "ar": "كأس فرنسا - دور الـ128"
-  },
+ 
   "jordan": {
     "en": "Jordan",
     "ar": "الأردن"
@@ -71,10 +68,7 @@
     "en": "Kazakhstan",
     "ar": "كازاخستان"
   },
-  "europe uefa nations league - league c - group 3": {
-    "en": "Europe UEFA Nations League - League C - Group 3",
-    "ar": "أوروبا دوري الأمم الأوروبية - المستوى C - المجموعة 3"
-  },
+
   "uae": {
     "en": "UAE",
     "ar": "الإمارات العربية المتحدة"
@@ -92,8 +86,8 @@
     "ar": "أورليان"
   },
   "saint-philbert gl": {
-    "en": "Saint-Philbert GL",
-    "ar": "سان فيلبير جي إل"
+    "en": "Saint-Philbert",
+    "ar": "سان فيلبير"
   },
   "fontenay": {
     "en": "Fontenay",
@@ -106,10 +100,6 @@
   "switzerland": {
     "en": "Switzerland",
     "ar": "سويسرا"
-  },
-  "europe uefa nations league - league b - group 1": {
-    "en": "Europe UEFA Nations League - League B - Group 1",
-    "ar": "أوروبا دوري الأمم الأوروبية - المستوى B - المجموعة 1"
   },
   "scotland": {
     "en": "Scotland",
@@ -127,10 +117,7 @@
     "en": "Azerbaijan",
     "ar": "أذربيجان"
   },
-  "europe uefa nations league - league d - group 2": {
-    "en": "Europe UEFA Nations League - League D - Group 2",
-    "ar": "أوروبا دوري الأمم الأوروبية - المستوى D - المجموعة 2"
-  },
+
   "serbia": {
     "en": "Serbia",
     "ar": "صربيا"
@@ -139,10 +126,7 @@
     "en": "Germany",
     "ar": "ألمانيا"
   },
-  "europe uefa nations league - league a - group 2": {
-    "en": "Europe UEFA Nations League - League A - Group 2",
-    "ar": "أوروبا دوري الأمم الأوروبية - المستوى A - المجموعة 2"
-  },
+
   "netherlands": {
     "en": "Netherlands",
     "ar": "هولندا"
@@ -159,10 +143,7 @@
     "en": "Iceland",
     "ar": "آيسلندا"
   },
-  "europe uefa nations league - league c - group 4": {
-    "en": "Europe UEFA Nations League - League C - Group 4",
-    "ar": "أوروبا دوري الأمم الأوروبية - المستوى C - المجموعة 4"
-  },
+  
   "slovakia": {
     "en": "Slovakia",
     "ar": "سلوفاكيا"
@@ -179,10 +160,7 @@
     "en": "Gibraltar",
     "ar": "جبل طارق"
   },
-  "europe uefa nations league - league d - group 1": {
-    "en": "Europe UEFA Nations League - League D - Group 1",
-    "ar": "أوروبا دوري الأمم الأوروبية - المستوى D - المجموعة 1"
-  },
+ 
   "luxembourg": {
     "en": "Luxembourg",
     "ar": "لوكسمبورغ"
@@ -213,7 +191,7 @@
   },
   "friendly international": {
     "en": "Friendly International",
-    "ar": "دولية ودية"
+    "ar": "مباريات ودية"
   },
   "al mokawloon al arab": {
     "en": "Al Mokawloon Al Arab",
@@ -224,20 +202,17 @@
     "ar": "المصرية للاتصالات"
   },
   "cd anaitasuna": {
-    "en": "CD Anaitasuna",
-    "ar": "سي دي أنياتسونا"
+    "en": "Anaitasuna",
+    "ar": "أنياتسونا"
   },
   "alaves": {
     "en": "Alaves",
     "ar": "ألافيس"
   },
-  "spain copa del rey - 1st round": {
-    "en": "Spanish Copa del Rey - 1st Round",
-    "ar": "كأس ملك إسبانيا - الدور الأول"
-  },
+
   "cd pamplona": {
-    "en": "Cd Pamplona",
-    "ar": "سي دي بامبلونا"
+    "en": "Pamplona",
+    "ar": "بامبلونا"
   },
   "eibar": {
     "en": "Eibar",
@@ -777,7 +752,7 @@
   },
   "afc hornchurch": {
     "en": "AFC Hornchurch",
-    "ar": "إيه إف سي هورن تشيرتش"
+    "ar": "هورن تشيرتش"
   },
   "blackpool": {
     "en": "Blackpool",
