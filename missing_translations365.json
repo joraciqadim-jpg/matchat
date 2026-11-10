@@ -1,175 +1,195 @@
 {
-  "new zealand": {
-    "en": "New Zealand",
-    "ar": "نيوزيلندا"
-  },
-  "india": {
-    "en": "India",
-    "ar": "الهند"
-  },
-  "uzbekistan": {
-    "en": "Uzbekistan",
-    "ar": "أوزبكستان"
-  },
-  "russia": {
-    "en": "Russia",
-    "ar": "روسيا"
-  },
-  "turkiye": {
-    "en": "Turkiye",
-    "ar": "تركيا"
-  },
-  "belgium": {
-    "en": "Belgium",
-    "ar": "بلجيكا"
-  },
-  "europe uefa nations league - league a - group 1": {
-    "en": "Europe UEFA Nations League - League A - Group 1",
-    "ar": "دوري الأمم الأوروبية - المستوى A - المجموعة 1"
-  },
-  "armenia": {
-    "en": "Armenia",
-    "ar": "أرمينيا"
-  },
-  "cyprus": {
-    "en": "Cyprus",
-    "ar": "قبرص"
-  },
-  "europe uefa nations league - league c - group 2": {
-    "en": "Europe UEFA Nations League - League C - Group 2",
-    "ar": "دوري الأمم الأوروبية - المستوى C - المجموعة 2"
-  },
-  "jeunesse sportive omrane": {
-    "en": "Jeunesse Sportive Omrane",
-    "ar": "الشبيبة الرياضية بالعمران"
-  },
-  "es hammam sousse": {
-    "en": "ES Hammam Sousse",
-    "ar": "النجم الرياضي بحمام سوسة"
-  },
-  "stade tunisien": {
-    "en": "Stade Tunisien",
-    "ar": "الملعب التونسي"
-  },
-  "cs hammam-lif": {
-    "en": "CS Hammam-Lif",
-    "ar": "النادي الرياضي لحمام الأنف"
-  },
-  "ben guerdane": {
-    "en": "Ben Guerdane",
-    "ar": "بن قردان"
-  },
-  "as marsa": {
-    "en": "Marsa",
-    "ar": "المرسى"
-  },
-  "ca bizertin": {
-    "en": "CA Bizertin",
-    "ar": "النادي الرياضي البنزرتي"
-  },
-  "olympique béja": {
-    "en": "Olympique Béja",
-    "ar": "الأولمبي الباجي"
-  },
-  "lithuania": {
-    "en": "Lithuania",
-    "ar": "ليتوانيا"
-  },
-  "suriname": {
-    "en": "Suriname",
-    "ar": "سورينام"
-  },
-  "puertollano": {
-    "en": "Puertollano",
-    "ar": "بويرتويانو"
-  },
-  "albacete": {
-    "en": "Albacete",
-    "ar": "ألباسيتي"
-  },
-  "malta": {
-    "en": "Malta",
-    "ar": "مالطا"
-  },
-  "eswatini": {
-    "en": "Eswatini",
-    "ar": "إسواتيني"
-  },
-  "navalcarnero": {
-    "en": "Navalcarnero",
-    "ar": "نافالكارنيرو"
-  },
-  "tarancón": {
-    "en": "Tarancón",
-    "ar": "تارانكون"
-  },
-  "chambery": {
-    "en": "Chambery",
-    "ar": "شامبيري"
-  },
-  "grenoble": {
-    "en": "Grenoble",
-    "ar": "غرونوبل"
-  },
   "coupe de france - round of 128": {
     "en": "Coupe de France - Round of 128",
     "ar": "كأس فرنسا - دور الـ128"
   },
-  "england": {
-    "en": "England",
-    "ar": "إنجلترا"
+  "jordan": {
+    "en": "Jordan",
+    "ar": "الأردن"
   },
-  "croatia": {
-    "en": "Croatia",
-    "ar": "كرواتيا"
+  "indonesia": {
+    "en": "Indonesia",
+    "ar": "إندونيسيا"
   },
-  "europe uefa nations league - league a - group 3": {
-    "en": "Europe UEFA Nations League - League A - Group 3",
-    "ar": "دوري الأمم الأوروبية - المستوى A - المجموعة 3"
+  "singapore": {
+    "en": "Singapore",
+    "ar": "سنغافورة"
   },
-  "czechia": {
-    "en": "Czechia",
-    "ar": "التشيك"
+  "paraguay": {
+    "en": "Paraguay",
+    "ar": "باراغواي"
   },
-  "spain": {
-    "en": "Spain",
-    "ar": "إسبانيا"
+  "kuwait": {
+    "en": "Kuwait",
+    "ar": "الكويت"
   },
-  "italy": {
-    "en": "Italy",
-    "ar": "إيطاليا"
+  "syria": {
+    "en": "Syria",
+    "ar": "سوريا"
   },
-  "france": {
-    "en": "France",
-    "ar": "فرنسا"
+  "saudi arabia": {
+    "en": "Saudi Arabia",
+    "ar": "السعودية"
   },
-  "san marino": {
-    "en": "San Marino",
-    "ar": "سان مارينو"
+  "south korea": {
+    "en": "South Korea",
+    "ar": "كوريا الجنوبية"
   },
-  "belarus": {
-    "en": "Belarus",
-    "ar": "بيلاروسيا"
+  "qatar": {
+    "en": "Qatar",
+    "ar": "قطر"
   },
-  "europe uefa nations league - league c - group 1": {
-    "en": "Europe UEFA Nations League - League C - Group 1",
-    "ar": "دوري الأمم الأوروبية - المستوى C - المجموعة 1"
+  "australia": {
+    "en": "Australia",
+    "ar": "أستراليا"
   },
-  "albania": {
-    "en": "Albania",
-    "ar": "ألبانيا"
+  "iraq": {
+    "en": "Iraq",
+    "ar": "العراق"
   },
-  "finland": {
-    "en": "Finland",
-    "ar": "فنلندا"
+  "lebanon": {
+    "en": "Lebanon",
+    "ar": "لبنان"
   },
-  "montenegro": {
-    "en": "Montenegro",
-    "ar": "الجبل الأسود"
+  "moldova": {
+    "en": "Moldova",
+    "ar": "مولدوفا"
   },
-  "latvia": {
-    "en": "Latvia",
-    "ar": "لاتفيا"
+  "kazakhstan": {
+    "en": "Kazakhstan",
+    "ar": "كازاخستان"
+  },
+  "europe uefa nations league - league c - group 3": {
+    "en": "Europe UEFA Nations League - League C - Group 3",
+    "ar": "أوروبا دوري الأمم الأوروبية - المستوى C - المجموعة 3"
+  },
+  "uae": {
+    "en": "UAE",
+    "ar": "الإمارات العربية المتحدة"
+  },
+  "honduras": {
+    "en": "Honduras",
+    "ar": "هندوراس"
+  },
+  "dijon": {
+    "en": "Dijon",
+    "ar": "ديجون"
+  },
+  "us orléans": {
+    "en": "US Orléans",
+    "ar": "أورليان"
+  },
+  "saint-philbert gl": {
+    "en": "Saint-Philbert GL",
+    "ar": "سان فيلبير جي إل"
+  },
+  "fontenay": {
+    "en": "Fontenay",
+    "ar": "فونتونيه"
+  },
+  "slovenia": {
+    "en": "Slovenia",
+    "ar": "سلوفينيا"
+  },
+  "switzerland": {
+    "en": "Switzerland",
+    "ar": "سويسرا"
+  },
+  "europe uefa nations league - league b - group 1": {
+    "en": "Europe UEFA Nations League - League B - Group 1",
+    "ar": "أوروبا دوري الأمم الأوروبية - المستوى B - المجموعة 1"
+  },
+  "scotland": {
+    "en": "Scotland",
+    "ar": "اسكتلندا"
+  },
+  "north macedonia": {
+    "en": "North Macedonia",
+    "ar": "مقدونيا الشمالية"
+  },
+  "liechtenstein": {
+    "en": "Liechtenstein",
+    "ar": "ليختنشتاين"
+  },
+  "azerbaijan": {
+    "en": "Azerbaijan",
+    "ar": "أذربيجان"
+  },
+  "europe uefa nations league - league d - group 2": {
+    "en": "Europe UEFA Nations League - League D - Group 2",
+    "ar": "أوروبا دوري الأمم الأوروبية - المستوى D - المجموعة 2"
+  },
+  "serbia": {
+    "en": "Serbia",
+    "ar": "صربيا"
+  },
+  "germany": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+  },
+  "europe uefa nations league - league a - group 2": {
+    "en": "Europe UEFA Nations League - League A - Group 2",
+    "ar": "أوروبا دوري الأمم الأوروبية - المستوى A - المجموعة 2"
+  },
+  "netherlands": {
+    "en": "Netherlands",
+    "ar": "هولندا"
+  },
+  "greece": {
+    "en": "Greece",
+    "ar": "اليونان"
+  },
+  "bulgaria": {
+    "en": "Bulgaria",
+    "ar": "بلغاريا"
+  },
+  "iceland": {
+    "en": "Iceland",
+    "ar": "آيسلندا"
+  },
+  "europe uefa nations league - league c - group 4": {
+    "en": "Europe UEFA Nations League - League C - Group 4",
+    "ar": "أوروبا دوري الأمم الأوروبية - المستوى C - المجموعة 4"
+  },
+  "slovakia": {
+    "en": "Slovakia",
+    "ar": "سلوفاكيا"
+  },
+  "faroe islands": {
+    "en": "Faroe Islands",
+    "ar": "جزر فارو"
+  },
+  "andorra": {
+    "en": "Andorra",
+    "ar": "أندورا"
+  },
+  "gibraltar": {
+    "en": "Gibraltar",
+    "ar": "جبل طارق"
+  },
+  "europe uefa nations league - league d - group 1": {
+    "en": "Europe UEFA Nations League - League D - Group 1",
+    "ar": "أوروبا دوري الأمم الأوروبية - المستوى D - المجموعة 1"
+  },
+  "luxembourg": {
+    "en": "Luxembourg",
+    "ar": "لوكسمبورغ"
+  },
+  "estonia": {
+    "en": "Estonia",
+    "ar": "إستونيا"
+  },
+  "salamanca uds": {
+    "en": "Salamanca UDS",
+    "ar": "سالامانكا يو دي إس"
+  },
+  "argentina": {
+    "en": "Argentina",
+    "ar": "الأرجنتين"
+  },
+  "uruguay": {
+    "en": "Uruguay",
+    "ar": "الأوروغواي"
   },
   "vietnam": {
     "en": "Vietnam",
