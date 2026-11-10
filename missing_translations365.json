@@ -1,4 +1,44 @@
 {
+  "al mokawloon al arab": {
+    "en": "Al Mokawloon Al Arab",
+    "ar": "المقاولون العرب"
+  },
+  "egypt telecom": {
+    "en": "Egypt Telecom",
+    "ar": "المصرية للاتصالات"
+  },
+  "cd anaitasuna": {
+    "en": "CD Anaitasuna",
+    "ar": "سي دي أنياتسونا"
+  },
+  "alaves": {
+    "en": "Alaves",
+    "ar": "ألافيس"
+  },
+  "spain copa del rey - 1st round": {
+    "en": "Spanish Copa del Rey - 1st Round",
+    "ar": "كأس ملك إسبانيا - الدور الأول"
+  },
+  "cd pamplona": {
+    "en": "Cd Pamplona",
+    "ar": "سي دي بامبلونا"
+  },
+  "eibar": {
+    "en": "Eibar",
+    "ar": "إيبار"
+  },
+  "mijas las lagunas": {
+    "en": "Mijas Las Lagunas",
+    "ar": "ميخاس لاس لاغوناس"
+  },
+  "real jaen": {
+    "en": "Real Jaen",
+    "ar": "ريال خاين"
+  },
+  "tavernes": {
+    "en": "Tavernes",
+    "ar": "تافيرنيس"
+  },
   "tigre": {
     "en": "Tigre",
     "ar": "تيغري"
@@ -2487,4 +2527,4 @@
     "en": "Lanus",
     "ar": "لانوس"
   }
-  }
+}
