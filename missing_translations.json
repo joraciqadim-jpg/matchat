@@ -1,4 +1,12 @@
 {
+  "wizards": {
+    "en": "Washington Wizards",
+    "ar": "واشنطن ويزاردز"
+  },
+  "pelicans": {
+    "en": "New Orleans Pelicans",
+    "ar": "نيو أورلينز بيليكانز"
+  },
   "parkway": {
     "en": "Parkway",
     "ar": "باركواي"
