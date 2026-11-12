@@ -1,27 +1,155 @@
 {
-  "al oruba sc": {
-    "en": "Al Oruba",
-    "ar": "العروبة"
+  "new zealand": {
+    "en": "New Zealand",
+    "ar": "نيوزيلندا"
   },
-  "muscat club": {
-    "en": "Muscat",
-    "ar": "مسقط"
+  "india": {
+    "en": "India",
+    "ar": "الهند"
   },
-  "oman professional league": {
-    "en": "Omani Professional League",
-    "ar": "الدوري العُماني للمحترفين"
+  "uzbekistan": {
+    "en": "Uzbekistan",
+    "ar": "أوزبكستان"
   },
-  "vendee la roche sur yon": {
-    "en": "Vendee La Roche sur Yon",
-    "ar": "فونديه لا روش سور يون"
+  "russia": {
+    "en": "Russia",
+    "ar": "روسيا"
   },
-  "fcf la neuvilette-jamin": {
-    "en": "FCF La Neuvilette-Jamin",
-    "ar": "إف سي إف لا نيوفيليت-جامان"
+  "turkiye": {
+    "en": "Turkiye",
+    "ar": "تركيا"
   },
-  "valenciennes": {
-    "en": "Valenciennes",
-    "ar": "فالنسيان"
+  "belgium": {
+    "en": "Belgium",
+    "ar": "بلجيكا"
+  },
+  "armenia": {
+    "en": "Armenia",
+    "ar": "أرمينيا"
+  },
+  "cyprus": {
+    "en": "Cyprus",
+    "ar": "قبرص"
+  },
+  "jeunesse sportive omrane": {
+    "en": "Jeunesse Sportive Omrane",
+    "ar": "الشبيبة الرياضية بالعمران"
+  },
+  "es hammam sousse": {
+    "en": "ES Hammam Sousse",
+    "ar": "النجم الرياضي بحمام سوسة"
+  },
+  "stade tunisien": {
+    "en": "Stade Tunisien",
+    "ar": "الملعب التونسي"
+  },
+  "cs hammam-lif": {
+    "en": "CS Hammam-Lif",
+    "ar": "النادي الرياضي بحمام الأنف"
+  },
+  "ben guerdane": {
+    "en": "Ben Guerdane",
+    "ar": "بن قردان"
+  },
+  "as marsa": {
+    "en": "Marsa",
+    "ar": "المرسى"
+  },
+  "ca bizertin": {
+    "en": "CA Bizertin",
+    "ar": "النادي الرياضي البنزرتي"
+  },
+  "olympique béja": {
+    "en": "Olympique Béja",
+    "ar": "الأولمبي الباجي"
+  },
+  "lithuania": {
+    "en": "Lithuania",
+    "ar": "ليتوانيا"
+  },
+  "suriname": {
+    "en": "Suriname",
+    "ar": "سورينام"
+  },
+  "puertollano": {
+    "en": "Puertollano",
+    "ar": "بويرتويانو"
+  },
+  "albacete": {
+    "en": "Albacete",
+    "ar": "ألباسيتي"
+  },
+  "malta": {
+    "en": "Malta",
+    "ar": "مالطا"
+  },
+  "eswatini": {
+    "en": "Eswatini",
+    "ar": "إسواتيني"
+  },
+  "tarancón": {
+    "en": "Tarancón",
+    "ar": "تارانون"
+  },
+  "chambery": {
+    "en": "Chambery",
+    "ar": "شامبيري"
+  },
+  "grenoble": {
+    "en": "Grenoble",
+    "ar": "غرونوبل"
+  },
+  "navalcarnero": {
+    "en": "Navalcarnero",
+    "ar": "نافالكارنيرو"
+  },
+  "england": {
+    "en": "England",
+    "ar": "إنجلترا"
+  },
+  "croatia": {
+    "en": "Croatia",
+    "ar": "كرواتيا"
+  },
+  "czechia": {
+    "en": "Czechia",
+    "ar": "التشيك"
+  },
+  "spain": {
+    "en": "Spain",
+    "ar": "إسبانيا"
+  },
+  "italy": {
+    "en": "Italy",
+    "ar": "إيطاليا"
+  },
+  "france": {
+    "en": "France",
+    "ar": "فرنسا"
+  },
+  "san marino": {
+    "en": "San Marino",
+    "ar": "سان مارينو"
+  },
+  "belarus": {
+    "en": "Belarus",
+    "ar": "بيلاروسيا"
+  },
+  "albania": {
+    "en": "Albania",
+    "ar": "ألبانيا"
+  },
+  "finland": {
+    "en": "Finland",
+    "ar": "فنلندا"
+  },
+  "montenegro": {
+    "en": "Montenegro",
+    "ar": "الجبل الأسود"
+  },
+  "latvia": {
+    "en": "Latvia",
+    "ar": "لاتفيا"
   },
   "europe uefa nations league": {
     "en": "UEFA Nations League",
