@@ -89,6 +89,7 @@
         "📺 TV 3 [Eutelsat 40.0E 11640 H 30000]",
         "📺 A Haber ( HBR ) HD [Turksat 42.0E 12207 H 27500]",
         "📺 CBC Sport [Azerspace 46.0E 11175 H 30000]",
+        "📺 GEM Sport [Al-Yah 52.5E 12034 V 27500]",
         "📺 Persiana Sports 1 [Al-Yah 52.5E 11343 H 27500]",
         "📺 QazSport [KazSat 58.5E 12657 V 45000]",
         "📺 TV 3 [Thaicom 78.5E 11640 H 30000]",
@@ -183,6 +184,8 @@
       "time": "15:00",
       "channels": [
         "📺 Bein Sport 2 [Nilesat 7.0W 11013 H 27500]",
+        "📺 5 Live [Amos 4.0W 11259 V 30000]",
+        "📺 Solo Calcio [Hotbird 13.0E 11179 H 27500]",
         "📺 DAZN 1 GER [Astra 19.2E 12382 H 27500]",
         "📺 Bein Sport 2 [Badrsat 26.0E 10810 H 27500]",
         "📺 SuperSport Máximo 1 [Eutelsat 36.0E 12169 H 27500]",
@@ -198,6 +201,7 @@
       "channels": [
         "📺 Bein Sport 5 [Nilesat 7.0W 12188 H 27500]",
         "📺 Solo Calcio [Hotbird 13.0E 11179 H 27500]",
+        "📺 BeIn Sports 1 France [Astra 19.2E 12168 V 29700]",
         "📺 Bein Sport 5 [Badrsat 26.0E 10810 H 27500]"
       ]
     },
@@ -209,6 +213,7 @@
       "time": "19:00",
       "channels": [
         "📺 Bein Sport 6 [Nilesat 7.0W 11054 H 27500]",
+        "📺 BeIn Sports Max 5 France [Astra 19.2E 12324 V 29700]",
         "📺 Bein Sport 6 [Badrsat 26.0E 11390 V 27500]"
       ]
     },
