@@ -1,4 +1,28 @@
 {
+  "al oruba sc": {
+    "en": "Al Oruba",
+    "ar": "العروبة"
+  },
+  "muscat club": {
+    "en": "Muscat",
+    "ar": "مسقط"
+  },
+  "oman professional league": {
+    "en": "Omani Professional League",
+    "ar": "الدوري العُماني للمحترفين"
+  },
+  "vendee la roche sur yon": {
+    "en": "Vendee La Roche sur Yon",
+    "ar": "فونديه لا روش سور يون"
+  },
+  "fcf la neuvilette-jamin": {
+    "en": "FCF La Neuvilette-Jamin",
+    "ar": "إف سي إف لا نيوفيليت-جامان"
+  },
+  "valenciennes": {
+    "en": "Valenciennes",
+    "ar": "فالنسيان"
+  },
   "europe uefa nations league": {
     "en": "UEFA Nations League",
     "ar": "دوري الأمم الأوروبية"
@@ -11,7 +35,6 @@
     "en": "Spanish Copa del Rey",
     "ar": "كأس ملك إسبانيا"
   },
- 
   "jordan": {
     "en": "Jordan",
     "ar": "الأردن"
@@ -68,7 +91,6 @@
     "en": "Kazakhstan",
     "ar": "كازاخستان"
   },
-
   "uae": {
     "en": "UAE",
     "ar": "الإمارات العربية المتحدة"
@@ -117,7 +139,6 @@
     "en": "Azerbaijan",
     "ar": "أذربيجان"
   },
-
   "serbia": {
     "en": "Serbia",
     "ar": "صربيا"
@@ -126,7 +147,6 @@
     "en": "Germany",
     "ar": "ألمانيا"
   },
-
   "netherlands": {
     "en": "Netherlands",
     "ar": "هولندا"
@@ -143,7 +163,6 @@
     "en": "Iceland",
     "ar": "آيسلندا"
   },
-  
   "slovakia": {
     "en": "Slovakia",
     "ar": "سلوفاكيا"
@@ -160,7 +179,6 @@
     "en": "Gibraltar",
     "ar": "جبل طارق"
   },
- 
   "luxembourg": {
     "en": "Luxembourg",
     "ar": "لوكسمبورغ"
@@ -209,7 +227,6 @@
     "en": "Alaves",
     "ar": "ألافيس"
   },
-
   "cd pamplona": {
     "en": "Pamplona",
     "ar": "بامبلونا"
