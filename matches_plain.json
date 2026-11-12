@@ -3,51 +3,6 @@
     {
       "tournamentEn": "🛡️ UEFA Nations League",
       "tournamentAr": "🛡️ دوري الأمم الأوروبية",
-      "matchEn": "Turkey v Belgium",
-      "matchAr": "تركيا × بلجيكا",
-      "time": "17:00",
-      "channels": [
-        "📺 Sport TV 1 [Hispasat 30W 12360 H 27500]",
-        "📺 Bein Sport 1 [Nilesat 7.0W 11013 H 27500]",
-        "📺 Sport 1 [Amos 4.0W 11259 V 30000]",
-        "📺 Sport 1 CZE [Thor 0.8W 12149 V 30000]",
-        "📺 Digi Sport 1 [Thor 0.8W 11823 H 30000]",
-        "📺 MTV Urheilu 1 [Thor 0.8W 12476 H 30000]",
-        "📺 Prima Sport 1 [Thor 0.8W 11900 H 28000]",
-        "📺 TV 2 Sport Premium [Thor 0.8W 10747 H 25000]",
-        "📺 V Sport Football [Thor 0.8W 10809 V 25000]",
-        "📺 Diema Sport 3 [Hotbird 13.0E 12673 V 30000]",
-        "📺 Nova Sports 2 [Hotbird 13.0E 12130 H 30000]",
-        "📺 Polsat Sport 2 [Hotbird 13.0E 12265 V 27500]",
-        "📺 RTL TVI [Hotbird 13.0E 11411 H 27500]",
-        "📺 Sky Sport Calcio [Hotbird 13.0E 11958 V 27500]",
-        "📺 Sky Sport Uno [Hotbird 13.0E 11958 V 27500]",
-        "📺 TV8 [Hotbird 13.0E 12073 V 29900]",
-        "📺 Arena Premium 1 BIH [Eutelsat 16.0E 11595 V 30000]",
-        "📺 Arena Premium 1 SRB [Eutelsat 16.0E 11366 V 30000]",
-        "📺 Sport 1 CZE [Eutelsat 16.0E 11055 V 27500]",
-        "📺 Sport Klub 1 HRV [Eutelsat 16.0E 11471 H 30000]",
-        "📺 Sport Klub 1 SLO [Eutelsat 16.0E 11471 H 30000]",
-        "📺 Super Sport 3 [Eutelsat 16.0E 10845 H 30000]",
-        "📺 DAZN 1 GER [Astra 19.2E 12382 H 27500]",
-        "📺 Sport 1 CZE [Astra 23.5E 12070 H 27500]",
-        "📺 VTM 2 [Astra 23.5E 11856 V 29900]",
-        "📺 Ziggo Sport 2 [Astra 23.5E 12129 V 29900]",
-        "📺 Bein Sport 1 [Badrsat 26.0E 10810 H 27500]",
-        "📺 SuperSport Grandstand [Eutelsat 36.0E 12341 V 27500]",
-        "📺 SuperSport Máximo 2 [Eutelsat 36.0E 12169 H 27500]",
-        "📺 SuperSport Premier League [Eutelsat 36.0E 12169 H 27500]",
-        "📺 Prima Sport 1 [Hellas-Sat 39.0E 12290 V 30000]",
-        "📺 atv [Turksat 42.0E 12054 H 27500]",
-        "📺 CBC Sport [Azerspace 46.0E 11175 H 30000]",
-        "📺 Persiana Sports 1 [Al-Yah 52.5E 11343 H 27500]",
-        "📺 QazSport [KazSat 58.5E 12657 V 45000]",
-        "📺 Sony Sports Ten 2 [SES 108.3E 12711 H 44900]"
-      ]
-    },
-    {
-      "tournamentEn": "🛡️ UEFA Nations League",
-      "tournamentAr": "🛡️ دوري الأمم الأوروبية",
       "matchEn": "Italy v France",
       "matchAr": "إيطاليا × فرنسا",
       "time": "19:45",
@@ -77,8 +32,8 @@
         "📺 Super Sport 1 [Eutelsat 16.0E 10845 H 30000]",
         "📺 TF1 [Astra 19.2E 12168 V 29700]",
         "📺 DAZN 2 GER [Astra 19.2E 12382 H 27500]",
-        "📺 Sport 2 CZE [Astra 23.5E 12090 V 29900]",
-        "📺 Ziggo Sport 2 [Astra 23.5E 12129 V 29900]",
+        "📺 Sport 2 CZE [Eutelsat 23.5E 12090 V 29900]",
+        "📺 Ziggo Sport 2 [Eutelsat 23.5E 12129 V 29900]",
         "📺 Bein Sport 1 [Badrsat 26.0E 10810 H 27500]",
         "📺 TV 3 [Badrsat 26.0E 11881 H 27500]",
         "📺 SuperSport Máximo 1 [Eutelsat 36.0E 12169 H 27500]",
@@ -118,7 +73,7 @@
         "📺 Sport Klub 3 SLO [Eutelsat 16.0E 11231 V 42000]",
         "📺 Super Sport 3 [Eutelsat 16.0E 10845 H 30000]",
         "📺 TVE La 1 [Astra 19.2E 11038 V 22000]",
-        "📺 CT Sport [Astra 23.5E 12344 H 29900]",
+        "📺 CT Sport [Eutelsat 23.5E 12344 H 29900]",
         "📺 Bein Sport 4 [Badrsat 26.0E 11390 V 27500]",
         "📺 IRIB Varzesh [Badrsat 26.0E 11881 H 27500]",
         "📺 SuperSport Football Plus [Eutelsat 36.0E 12284 H 27500]",
@@ -159,7 +114,7 @@
         "📺 Sport Klub 1 SLO [Eutelsat 16.0E 11471 H 30000]",
         "📺 Super Sport 4 [Eutelsat 16.0E 10845 H 30000]",
         "📺 L'Équipe [Astra 19.2E 11895 V 29700]",
-        "📺 Sport 1 CZE [Astra 23.5E 12070 H 27500]",
+        "📺 Sport 1 CZE [Eutelsat 23.5E 12070 H 27500]",
         "📺 Bein Sport 3 [Badrsat 26.0E 10810 H 27500]",
         "📺 BBC One Northern Ireland [Astra 28.2E 10847 V 23000]",
         "📺 Virgin Media Two [Astra 28.2E 12226 H 27500]",
@@ -225,31 +180,6 @@
         "📺 BTV [Eutelsat 9.0E 11900 H 27500]",
         "📺 NW Sport 4 [Eutelsat 16.0E 12604 H 30000]",
         "📺 BeIn Sports Xtra 3 [Badrsat 26.0E 10810 V 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🏆 Spanish Copa del Rey",
-      "tournamentAr": "🏆 كأس ملك إسبانيا",
-      "matchEn": "Navalcarnero v Real Betis",
-      "matchAr": "نافالكارنيرو × ريال بيتيس",
-      "time": "18:00",
-      "channels": [
-        "📺 M+ LaLiga [Astra 19.2E 10818 V 22000]",
-        "📺 M+ Liga de Campeones [Astra 19.2E 11259 V 22000]",
-        "📺 Movistar Plus+ [Astra 19.2E 10758 V 22000]",
-        "📺 HT Spor [Turksat 42.0E 11837 V 30000]",
-        "📺 Match! Futbol 2 [Eutelsat 80.0E 11044 V 45000]",
-        "📺 Match! TV [Eutelsat 80.0E 11044 V 45000]"
-      ]
-    },
-    {
-      "tournamentEn": "🏆 Spanish Copa del Rey",
-      "tournamentAr": "🏆 كأس ملك إسبانيا",
-      "matchEn": "Tarancón v Levante",
-      "matchAr": "تارانكون × ليفانتي",
-      "time": "18:00",
-      "channels": [
-        "📺 M+ LaLiga 2 [Astra 19.2E 10818 V 22000]"
       ]
     }
   ]
