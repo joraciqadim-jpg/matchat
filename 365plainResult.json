@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794528256942,
+  "timestamp": 1794575472683,
   "matches": [
     {
       "matchId": 4672301,
@@ -151,11 +151,11 @@
       "matchEn": "Singapore v Paraguay",
       "matchAr": "سنغافورة × باراغواي",
       "rawIsoTime": "2026-11-13T12:00:00+00:00",
-      "time": "12:00",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "time": "1 - 2 (51')",
+      "rawMinute": 51,
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "isLive": true
     },
     {
       "matchId": 4886055,
@@ -230,19 +230,6 @@
       "matchAr": "الأرجنتين × الأوروغواي",
       "rawIsoTime": "2026-11-13T23:00:00+00:00",
       "time": "23:00",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
-    },
-    {
-      "matchId": 4893337,
-      "tournamentEn": "🇴🇲 Omani Professional League",
-      "tournamentAr": "🇴🇲 الدوري العُماني للمحترفين",
-      "matchEn": "Al Oruba v Muscat",
-      "matchAr": "العروبة × مسقط",
-      "rawIsoTime": "2026-11-13T13:50:00+00:00",
-      "time": "13:50",
       "rawMinute": 1,
       "homeGoals": -1,
       "awayGoals": -1,
