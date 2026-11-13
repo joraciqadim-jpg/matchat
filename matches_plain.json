@@ -26,7 +26,7 @@
         "📺 Sport Klub 3 SLO [Eutelsat 16.0E 11231 V 42000]",
         "📺 Super Sport 2 [Eutelsat 16.0E 10845 H 30000]",
         "📺 DAZN 1 GER [Astra 19.2E 12382 H 27500]",
-        "📺 Sport 2 CZE [Astra 23.5E 12090 V 29900]",
+        "📺 Sport 2 CZE [Eutelsat 23.5E 12090 V 29900]",
         "📺 Bein Sport 1 [Badrsat 26.0E 10810 H 27500]",
         "📺 Bein Sport 4 [Badrsat 26.0E 11390 V 27500]",
         "📺 Virgin Media Two [Astra 28.2E 12226 H 27500]",
@@ -68,8 +68,8 @@
         "📺 La 1 UHD [Astra 19.2E 10729 V 23500]",
         "📺 RTL Deutschland [Astra 19.2E 10832 H 22000]",
         "📺 Sport 1 [Astra 19.2E 10803 H 22000]",
-        "📺 Sport 1 CZE [Astra 23.5E 12070 H 27500]",
-        "📺 Ziggo Sport [Astra 23.5E 12129 V 29900]",
+        "📺 Sport 1 CZE [Eutelsat 23.5E 12070 H 27500]",
+        "📺 Ziggo Sport [Eutelsat 23.5E 12129 V 29900]",
         "📺 Bein Sport 3 [Badrsat 26.0E 10810 H 27500]",
         "📺 SuperSport Football Plus [Eutelsat 36.0E 12284 H 27500]",
         "📺 SuperSport Máximo 1 [Eutelsat 36.0E 12169 H 27500]",
@@ -99,7 +99,7 @@
         "📺 Arena Premium 5 SRB [Eutelsat 16.0E 11429 V 28330]",
         "📺 Arena Sport 1 BIH [Eutelsat 16.0E 11678 V 30000]",
         "📺 Super Sport 5 [Eutelsat 16.0E 10804 H 29950]",
-        "📺 Megogo Sport [Astra 23.5E 12285 V 30000]",
+        "📺 Megogo Sport [Eutelsat 23.5E 12285 V 30000]",
         "📺 Bein Sport 5 [Badrsat 26.0E 10810 H 27500]",
         "📺 BBC Two [Astra 28.2E 10847 V 23000]",
         "📺 SuperSport LaLiga [Eutelsat 36.0E 12169 H 27500]",
@@ -238,6 +238,63 @@
         "📺 Solo Calcio [Hotbird 13.0E 11179 H 27500]",
         "📺 Bein Sport 1 [Badrsat 26.0E 10810 H 27500]",
         "📺 Arryadia TNT [Badrsat 26.0E 11623 V 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "✨ International Friendly Games",
+      "tournamentAr": "✨ مباريات ودية دولية",
+      "matchEn": "Kuwait v Syria",
+      "matchAr": "الكويت × سوريا",
+      "time": "14:00",
+      "channels": [
+        "📺 الكويت الرياضية 1 [Eutelsat 8W 11054 V 27500]",
+        "📺 الكويت الرياضية 1 [Nilesat 7.0W 12169 V 27500]",
+        "📺 الكويت الرياضية 1 [Badrsat 26.0E 12523 H 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "✨ International Friendly Games",
+      "tournamentAr": "✨ مباريات ودية دولية",
+      "matchEn": "Saudi Arabia v South Korea",
+      "matchAr": "السعودية × كوريا الجنوبية",
+      "time": "14:30",
+      "channels": [
+        "📺 Persiana Sports 1 [Al-Yah 52.5E 11343 H 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "✨ International Friendly Games",
+      "tournamentAr": "✨ مباريات ودية دولية",
+      "matchEn": "Qatar v Australia",
+      "matchAr": "قطر × أستراليا",
+      "time": "14:45",
+      "channels": [
+        "📺 Al Kass One [Nilesat 7.0W 11919 H 27500]",
+        "📺 Al Kass One [Badrsat 26.0E 12245 V 27500]",
+        "📺 Al Kass One [Badrsat 26.0E 10770 V 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "✨ International Friendly Games",
+      "tournamentAr": "✨ مباريات ودية دولية",
+      "matchEn": "Jordan v Indonesia",
+      "matchAr": "الأردن × إندونيسيا",
+      "time": "18:00",
+      "channels": [
+        "📺 Jordan Sport TV [Nilesat 7.0W 12034 H 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "✨ International Friendly Games",
+      "tournamentAr": "✨ مباريات ودية دولية",
+      "matchEn": "Argentina v Uruguay",
+      "matchAr": "الأرجنتين × أوروغواي",
+      "time": "23:00",
+      "channels": [
+        "📺 Abu Dhabi Sports 1 [Nilesat 7.0W 11411 H 30000]",
+        "📺 5 Sport [Amos 4.0W 11259 V 30000]",
+        "📺 M+ Vamos [Astra 19.2E 10818 V 22000]",
+        "📺 Abu Dhabi Sports 1 [Badrsat 26.0E 11804 H 30000]"
       ]
     },
     {
