@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794587293959,
+  "timestamp": 1794587351016,
   "matches": [
     {
       "matchId": 4672301,
@@ -177,8 +177,8 @@
       "matchEn": "Saudi Arabia v South Korea",
       "matchAr": "السعودية × كوريا الجنوبية",
       "rawIsoTime": "2026-11-13T14:30:00+00:00",
-      "time": "3 - 2 (90+5')",
-      "rawMinute": 95,
+      "time": "3 - 2 (90+6')",
+      "rawMinute": 96,
       "homeGoals": 3,
       "awayGoals": 2,
       "isLive": true
@@ -190,9 +190,9 @@
       "matchEn": "Qatar v Australia",
       "matchAr": "قطر × أستراليا",
       "rawIsoTime": "2026-11-13T14:45:00+00:00",
-      "time": "0 - 3 (87')",
-      "rawMinute": 87,
-      "homeGoals": 0,
+      "time": "1 - 3 (88')",
+      "rawMinute": 88,
+      "homeGoals": 1,
       "awayGoals": 3,
       "isLive": true
     },
@@ -203,8 +203,8 @@
       "matchEn": "Iraq v Lebanon",
       "matchAr": "العراق × لبنان",
       "rawIsoTime": "2026-11-13T15:00:00+00:00",
-      "time": "0 - 0 (61')",
-      "rawMinute": 61,
+      "time": "0 - 0 (62')",
+      "rawMinute": 62,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
