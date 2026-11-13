@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794601847729,
+  "timestamp": 1794601870813,
   "matches": [
     {
       "matchId": 4672301,
@@ -47,8 +47,8 @@
       "matchEn": "Liechtenstein v Azerbaijan",
       "matchAr": "ليختنشتاين × أذربيجان",
       "rawIsoTime": "2026-11-13T19:45:00+00:00",
-      "time": "0 - 1 (45+1')",
-      "rawMinute": 46,
+      "time": "0 - 1 (45+2')",
+      "rawMinute": 47,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -125,8 +125,8 @@
       "matchEn": "Luxembourg v Estonia",
       "matchAr": "لوكسمبورغ × إستونيا",
       "rawIsoTime": "2026-11-13T19:45:00+00:00",
-      "time": "0 - 1 (45')",
-      "rawMinute": 45,
+      "time": "0 - 1 (45+1')",
+      "rawMinute": 46,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -281,8 +281,8 @@
       "matchEn": "FCF La Neuvilette-Jamin v Valenciennes",
       "matchAr": "إف سي إف لا نوفيلِت-جامان × فالنسيان",
       "rawIsoTime": "2026-11-13T19:00:00+00:00",
-      "time": "0 - 0 (69')",
-      "rawMinute": 69,
+      "time": "0 - 0 (70')",
+      "rawMinute": 70,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
