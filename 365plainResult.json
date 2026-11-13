@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794603493953,
+  "timestamp": 1794603551690,
   "matches": [
     {
       "matchId": 4672301,
@@ -21,8 +21,8 @@
       "matchEn": "Slovenia v Switzerland",
       "matchAr": "سلوفينيا × سويسرا",
       "rawIsoTime": "2026-11-13T19:45:00+00:00",
-      "time": "0 - 0 (48')",
-      "rawMinute": 48,
+      "time": "0 - 0 (49')",
+      "rawMinute": 49,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -34,8 +34,8 @@
       "matchEn": "Scotland v North Macedonia",
       "matchAr": "اسكتلندا × مقدونيا الشمالية",
       "rawIsoTime": "2026-11-13T19:45:00+00:00",
-      "time": "1 - 0 (55')",
-      "rawMinute": 55,
+      "time": "1 - 0 (56')",
+      "rawMinute": 56,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -47,8 +47,8 @@
       "matchEn": "Liechtenstein v Azerbaijan",
       "matchAr": "ليختنشتاين × أذربيجان",
       "rawIsoTime": "2026-11-13T19:45:00+00:00",
-      "time": "0 - 1 (57')",
-      "rawMinute": 57,
+      "time": "0 - 1 (58')",
+      "rawMinute": 58,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -60,8 +60,8 @@
       "matchEn": "Serbia v Germany",
       "matchAr": "صربيا × ألمانيا",
       "rawIsoTime": "2026-11-13T19:45:00+00:00",
-      "time": "0 - 3 (53')",
-      "rawMinute": 53,
+      "time": "0 - 3 (54')",
+      "rawMinute": 54,
       "homeGoals": 0,
       "awayGoals": 3,
       "isLive": true
@@ -74,7 +74,7 @@
       "matchAr": "هولندا × اليونان",
       "rawIsoTime": "2026-11-13T19:45:00+00:00",
       "time": "5 - 0 (55')",
-      "rawMinute": 55,
+      "rawMinute": 56,
       "homeGoals": 5,
       "awayGoals": 0,
       "isLive": true
@@ -86,8 +86,8 @@
       "matchEn": "Bulgaria v Iceland",
       "matchAr": "بلغاريا × آيسلندا",
       "rawIsoTime": "2026-11-13T19:45:00+00:00",
-      "time": "0 - 2 (50')",
-      "rawMinute": 50,
+      "time": "0 - 2 (51')",
+      "rawMinute": 51,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -99,8 +99,8 @@
       "matchEn": "Slovakia v Faroe Islands",
       "matchAr": "سلوفاكيا × جزر فارو",
       "rawIsoTime": "2026-11-13T19:45:00+00:00",
-      "time": "1 - 2 (55')",
-      "rawMinute": 55,
+      "time": "1 - 2 (56')",
+      "rawMinute": 56,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -125,8 +125,8 @@
       "matchEn": "Luxembourg v Estonia",
       "matchAr": "لوكسمبورغ × إستونيا",
       "rawIsoTime": "2026-11-13T19:45:00+00:00",
-      "time": "0 - 1 (55')",
-      "rawMinute": 55,
+      "time": "0 - 1 (56')",
+      "rawMinute": 56,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -216,7 +216,7 @@
       "matchEn": "Jordan v Indonesia",
       "matchAr": "الأردن × إندونيسيا",
       "rawIsoTime": "2026-11-13T17:00:00+00:00",
-      "time": "17:00",
+      "time": "17:00 (cancelled)",
       "rawMinute": 1,
       "homeGoals": -1,
       "awayGoals": -1,
@@ -281,8 +281,8 @@
       "matchEn": "FCF La Neuvilette-Jamin v Valenciennes",
       "matchAr": "إف سي إف لا نوفيلِت-جامان × فالنسيان",
       "rawIsoTime": "2026-11-13T19:00:00+00:00",
-      "time": "0 - 0 (90+7')",
-      "rawMinute": 97,
+      "time": "0 - 0 (90+8')",
+      "rawMinute": 98,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
