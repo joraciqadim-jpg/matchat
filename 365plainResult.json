@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794587351016,
+  "timestamp": 1794587448203,
   "matches": [
     {
       "matchId": 4672301,
@@ -158,6 +158,19 @@
       "isLive": false
     },
     {
+      "matchId": 4883813,
+      "tournamentEn": "✨ Friendly International",
+      "tournamentAr": "✨ مباريات ودية",
+      "matchEn": "Saudi Arabia v South Korea",
+      "matchAr": "السعودية × كوريا الجنوبية",
+      "rawIsoTime": "2026-11-13T14:30:00+00:00",
+      "time": "3 - 2 (done)",
+      "rawMinute": 90,
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "isLive": false
+    },
+    {
       "matchId": 4853664,
       "tournamentEn": "✨ Friendly International",
       "tournamentAr": "✨ مباريات ودية",
@@ -171,28 +184,15 @@
       "isLive": false
     },
     {
-      "matchId": 4883813,
-      "tournamentEn": "✨ Friendly International",
-      "tournamentAr": "✨ مباريات ودية",
-      "matchEn": "Saudi Arabia v South Korea",
-      "matchAr": "السعودية × كوريا الجنوبية",
-      "rawIsoTime": "2026-11-13T14:30:00+00:00",
-      "time": "3 - 2 (90+6')",
-      "rawMinute": 96,
-      "homeGoals": 3,
-      "awayGoals": 2,
-      "isLive": true
-    },
-    {
       "matchId": 4870468,
       "tournamentEn": "✨ Friendly International",
       "tournamentAr": "✨ مباريات ودية",
       "matchEn": "Qatar v Australia",
       "matchAr": "قطر × أستراليا",
       "rawIsoTime": "2026-11-13T14:45:00+00:00",
-      "time": "1 - 3 (88')",
-      "rawMinute": 88,
-      "homeGoals": 1,
+      "time": "0 - 3 (90')",
+      "rawMinute": 90,
+      "homeGoals": 0,
       "awayGoals": 3,
       "isLive": true
     },
@@ -203,8 +203,8 @@
       "matchEn": "Iraq v Lebanon",
       "matchAr": "العراق × لبنان",
       "rawIsoTime": "2026-11-13T15:00:00+00:00",
-      "time": "0 - 0 (62')",
-      "rawMinute": 62,
+      "time": "0 - 0 (63')",
+      "rawMinute": 63,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -216,11 +216,11 @@
       "matchEn": "Kuwait v Syria",
       "matchAr": "الكويت × سوريا",
       "rawIsoTime": "2026-11-13T16:30:00+00:00",
-      "time": "16:30",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4877636,
