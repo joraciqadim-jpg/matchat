@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794584053841,
+  "timestamp": 1794584122909,
   "matches": [
     {
       "matchId": 4672301,
@@ -164,8 +164,8 @@
       "matchEn": "UAE v Honduras",
       "matchAr": "الإمارات العربية المتحدة × هندوراس",
       "rawIsoTime": "2026-11-13T14:10:00+00:00",
-      "time": "2 - 1 (64')",
-      "rawMinute": 64,
+      "time": "2 - 1 (65')",
+      "rawMinute": 66,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -203,8 +203,8 @@
       "matchEn": "Iraq v Lebanon",
       "matchAr": "العراق × لبنان",
       "rawIsoTime": "2026-11-13T15:00:00+00:00",
-      "time": "0 - 0 (29')",
-      "rawMinute": 29,
+      "time": "0 - 0 (31')",
+      "rawMinute": 31,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
