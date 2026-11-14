@@ -1,141 +1,89 @@
 {
-  "Montserrat": {
-    "en": "Montserrat",
-    "ar": "مونتسرات"
-  },
-  "Nicaragua": {
-    "en": "Nicaragua",
-    "ar": "نيكاراغوا"
-  },
-  "Costa Rica": {
+  "costa rica": {
     "en": "Costa Rica",
     "ar": "كوستاريكا"
   },
-  "Costarica": {
-    "en": "Costa Rica",
-    "ar": "كوستاريكا"
-  },
-  "Guatemala": {
-    "en": "Guatemala",
-    "ar": "غواتيمالا"
-  },
-  "UJ Kraków": {
-    "en": "UJ Krakow",
-    "ar": "يو جيه كراكوف"
-  },
-  "SMS Lódz": {
-    "en": "SMS Lodz",
-    "ar": "إس إم إس لودز"
-  },
-  "Bosnia-Herzegovina RS 1st League": {
-    "en": "Bosnia and Herzegovina RS First League",
-    "ar": "دوري جمهورية صربسكا الأول"
-  },
-  "Rudar Prijedor": {
-    "en": "Rudar Prijedor",
-    "ar": "رودار برييدور"
-  },
-  "Leotar": {
-    "en": "Leotar",
-    "ar": "ليوتار"
-  },
-  "Unterhaching": {
-    "en": "Unterhaching",
-    "ar": "أونترهاخينغ"
-  },
-  "Dulwich Hamlet": {
-    "en": "Dulwich Hamlet",
-    "ar": "دولويتش هاملت"
-  },
-  "Portishead Town": {
-    "en": "Portishead Town",
-    "ar": "بورتيسهيد تاون"
-  },
-  "United States": {
-    "en": "United States",
-    "ar": "الولايات المتحدة"
-  },
-  "Haras El Hodoud": {
+  "haras el hodoud": {
     "en": "Haras El Hodoud",
     "ar": "حرس الحدود"
   },
-  "El Dakhleya": {
+  "el dakhleya": {
     "en": "El Dakhleya",
     "ar": "الداخلية"
   },
-  "Curaçao": {
+  "curaao": {
     "en": "Curaçao",
     "ar": "كوراساو"
   },
-  "Panama": {
+  "panama": {
     "en": "Panama",
     "ar": "بنما"
   },
-  "Curacao": {
+  "curacao": {
     "en": "Curaçao",
     "ar": "كوراساو"
   },
-  "UEFA U-20 Elite League": {
+  "uefa elite league": {
     "en": "UEFA U-20 Elite League",
     "ar": "دوري النخبة الأوروبي تحت 20 سنة"
   },
-  "Uruguay": {
+  "uruguay": {
     "en": "Uruguay",
     "ar": "أوروغواي"
   },
-  "St Martin": {
+  "st martin": {
     "en": "St. Martin",
     "ar": "سانت مارتن"
   },
-  "St_martin": {
+  "stmartin": {
     "en": "St. Martin",
     "ar": "سانت مارتن"
   },
-  "Elsalvador": {
+  "elsalvador": {
     "en": "El Salvador",
     "ar": "السلفادور"
   },
-  "Suriname": {
+  "suriname": {
     "en": "Suriname",
     "ar": "سورينام"
   },
-  "Eswatini": {
+  "eswatini": {
     "en": "Eswatini",
     "ar": "إسواتيني"
   },
-  "Swaziland": {
+  "swaziland": {
     "en": "Swaziland",
     "ar": "سوازيلاند"
   },
-  "CONCACAF Nations League": {
+  "concacaf nations league": {
     "en": "CONCACAF Nations League",
     "ar": "دوري أمم الكونكاكاف"
   },
-  "Aruba": {
+  "aruba": {
     "en": "Aruba",
     "ar": "أروبا"
   },
-  "Martinique": {
+  "martinique": {
     "en": "Martinique",
     "ar": "مارتينيك"
   },
-  "Martiniquelocal": {
+  "martiniquelocal": {
     "en": "Martinique Local",
     "ar": "مارتينيك المحلي"
   },
-  "Antigua & Barbuda": {
+  "antigua barbuda": {
     "en": "Antigua & Barbuda",
     "ar": "أنتيغوا وبربودا"
   },
-  "Trinidad & Tobago": {
+  "trinidad tobago": {
     "en": "Trinidad & Tobago",
     "ar": "ترينيداد وتوباغو"
   },
-  "Antiguabarbuda": {
+  "antiguabarbuda": {
     "en": "Antigua & Barbuda",
     "ar": "أنتيغوا وبربودا"
   },
-  "Trinidad": {
+  "trinidad": {
     "en": "Trinidad",
     "ar": "ترينيداد"
   },
