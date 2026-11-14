@@ -1,4 +1,532 @@
 {
+  "colombia": {
+    "en": "Colombia",
+    "ar": "كولومبيا"
+  },
+  "chile": {
+    "en": "Chile",
+    "ar": "تشيلي"
+  },
+  "ecuador": {
+    "en": "Ecuador",
+    "ar": "الإكوادور"
+  },
+  "costa rica": {
+    "en": "Costa Rica",
+    "ar": "كوستاريكا"
+  },
+  "bolivia": {
+    "en": "Bolivia",
+    "ar": "بوليفيا"
+  },
+  "tahiti": {
+    "en": "Tahiti",
+    "ar": "تاهيتي"
+  },
+  "cook islands": {
+    "en": "Cook Islands",
+    "ar": "جزر كوك"
+  },
+  "bahrain": {
+    "en": "Bahrain",
+    "ar": "البحرين"
+  },
+  "yemen": {
+    "en": "Yemen",
+    "ar": "اليمن"
+  },
+  "livyi bereh": {
+    "en": "Livyi Bereh",
+    "ar": "ليفي بيريه"
+  },
+  "thailand": {
+    "en": "Thailand",
+    "ar": "تايلاند"
+  },
+  "tajikistan": {
+    "en": "Tajikistan",
+    "ar": "طاجيكستان"
+  },
+  "china": {
+    "en": "China",
+    "ar": "الصين"
+  },
+  "malaysia": {
+    "en": "Malaysia",
+    "ar": "ماليزيا"
+  },
+  "kyrgyzstan": {
+    "en": "Kyrgyzstan",
+    "ar": "قيرغيزستان"
+  },
+  "versailles 78": {
+    "en": "Versailles 78",
+    "ar": "فرساي 78"
+  },
+  "rodez": {
+    "en": "Rodez",
+    "ar": "روديز"
+  },
+  "tourcoing": {
+    "en": "Tourcoing",
+    "ar": "توركوان"
+  },
+  "reims": {
+    "en": "Reims",
+    "ar": "ريمس"
+  },
+  "le puy": {
+    "en": "Le Puy",
+    "ar": "لو بوي"
+  },
+  "diables noirs": {
+    "en": "Diables Noirs",
+    "ar": "ديابل نوار"
+  },
+  "balagne ile rousse": {
+    "en": "Balagne Ile Rousse",
+    "ar": "بالاني إيل روس"
+  },
+  "montpellier": {
+    "en": "Montpellier",
+    "ar": "مونبلييه"
+  },
+  "boulay": {
+    "en": "Boulay",
+    "ar": "بولي"
+  },
+  "sochaux": {
+    "en": "Sochaux",
+    "ar": "سوشو"
+  },
+  "kosovo": {
+    "en": "Kosovo",
+    "ar": "كوسوفو"
+  },
+  "israel": {
+    "en": "Israel",
+    "ar": "إسرائيل"
+  },
+  "fc rhone": {
+    "en": "Rhone",
+    "ar": "الرون"
+  },
+  "frejus": {
+    "en": "Frejus",
+    "ar": "فريجوس"
+  },
+  "east kilbride fc": {
+    "en": "East Kilbride",
+    "ar": "إيست كيلبرايد"
+  },
+  "alloa athletic": {
+    "en": "Alloa Athletic",
+    "ar": "ألووا أتلتيك"
+  },
+  "scotland league one": {
+    "en": "Scotland League One",
+    "ar": "الدوري الإسكتلندي الدرجة الأولى"
+  },
+  "east fife": {
+    "en": "East Fife",
+    "ar": "إيست فايف"
+  },
+  "peterhead": {
+    "en": "Peterhead",
+    "ar": "بيترهيد"
+  },
+  "cove rangers": {
+    "en": "Cove Rangers",
+    "ar": "كوف رينجرز"
+  },
+  "montrose": {
+    "en": "Montrose",
+    "ar": "مونتروز"
+  },
+  "airdrie": {
+    "en": "Airdrie",
+    "ar": "أيردري"
+  },
+  "queen of the south": {
+    "en": "Queen Of The South",
+    "ar": "كوين أوف ذا ساوث"
+  },
+  "iran": {
+    "en": "Iran",
+    "ar": "إيران"
+  },
+  "palestine": {
+    "en": "Palestine",
+    "ar": "فلسطين"
+  },
+  "fc chalon": {
+    "en": "Chalon",
+    "ar": "شالون"
+  },
+  "hauts lyonnais": {
+    "en": "Hauts Lyonnais",
+    "ar": "أو ليونيه"
+  },
+  "clermont foot": {
+    "en": "Clermont Foot",
+    "ar": "كليرمون فوت"
+  },
+  "uganda": {
+    "en": "Uganda",
+    "ar": "أوغندا"
+  },
+  "botswana": {
+    "en": "Botswana",
+    "ar": "بوتسوانا"
+  },
+  "le poire sur vie": {
+    "en": "Le Poire sur Vie",
+    "ar": "لو بوار سور في"
+  },
+  "vertou": {
+    "en": "Vertou",
+    "ar": "فيرتو"
+  },
+  "croix": {
+    "en": "Croix",
+    "ar": "كروا"
+  },
+  "thaon": {
+    "en": "Thaon",
+    "ar": "تاون"
+  },
+  "fco firminy": {
+    "en": "FCO Firminy",
+    "ar": "إف سي أو فيرميني"
+  },
+  "fc annecy": {
+    "en": "Annecy",
+    "ar": "أنسي"
+  },
+  "tinténiac saint domineuc": {
+    "en": "Tinténiac Saint Domineuc",
+    "ar": "تانتيينياك سان دومينيك"
+  },
+  "concarneau": {
+    "en": "Concarneau",
+    "ar": "كونكارنو"
+  },
+  "so pont-de-chéruy": {
+    "en": "SO Pont-de-Chéruy",
+    "ar": "إس أو بون دو شيرو"
+  },
+  "bourg-péronnas": {
+    "en": "Bourg-Péronnas",
+    "ar": "بورغ بيرونا"
+  },
+  "asl koetzingue": {
+    "en": "ASL Koetzingue",
+    "ar": "إيه إس إل كوتسينغ"
+  },
+  "biesheim": {
+    "en": "Biesheim",
+    "ar": "بيشهايم"
+  },
+  "georgia": {
+    "en": "Georgia",
+    "ar": "جورجيا"
+  },
+  "hungary": {
+    "en": "Hungary",
+    "ar": "المجر"
+  },
+  "wales": {
+    "en": "Wales",
+    "ar": "ويلز"
+  },
+  "as vitré": {
+    "en": "Vitré",
+    "ar": "فيترِه"
+  },
+  "saint-pierre milizac": {
+    "en": "Saint-Pierre Milizac",
+    "ar": "سان بيير ميليزاك"
+  },
+  "asptt caen": {
+    "en": "Asptt Caen",
+    "ar": "إيه إس بي تي تي كاين"
+  },
+  "chambly": {
+    "en": "Chambly",
+    "ar": "شامبلي"
+  },
+  "fco strasbourg koenigshoffen 06": {
+    "en": "Fco Strasbourg Koenigshoffen 06",
+    "ar": "إف سي أو ستراسبورغ كونيغشوفن 06"
+  },
+  "oberlauterbach": {
+    "en": "Oberlauterbach",
+    "ar": "أوبرلاوتر باخ"
+  },
+  "lyon duchère": {
+    "en": "Lyon Duchère",
+    "ar": "ليون دوشير"
+  },
+  "feurs": {
+    "en": "Feurs",
+    "ar": "فور"
+  },
+  "cournon": {
+    "en": "Cournon",
+    "ar": "كورنون"
+  },
+  "chassieu decines": {
+    "en": "Chassieu Decines",
+    "ar": "شاسيو ديسين"
+  },
+  "le touquet": {
+    "en": "Le Touquet",
+    "ar": "لو توكيه"
+  },
+  "avranches": {
+    "en": "Avranches",
+    "ar": "أفرانش"
+  },
+  "bethune": {
+    "en": "Bethune",
+    "ar": "بيتون"
+  },
+  "nancy": {
+    "en": "Nancy",
+    "ar": "نانسي"
+  },
+  "besancon rc": {
+    "en": "Besancon RC",
+    "ar": "بيزانسون آر سي"
+  },
+  "apm metz": {
+    "en": "Apm Metz",
+    "ar": "إيه بي إم ميتز"
+  },
+  "cobsp st brieuc": {
+    "en": "Cobsp St Brieuc",
+    "ar": "كوبس بي سان بريوك"
+  },
+  "rouen": {
+    "en": "Rouen",
+    "ar": "روان"
+  },
+  "pontivy": {
+    "en": "Pontivy",
+    "ar": "بونتيفي"
+  },
+  "ta rennes": {
+    "en": "Ta Rennes",
+    "ar": "تي إيه رين"
+  },
+  "dunkerque": {
+    "en": "Dunkerque",
+    "ar": "دونكيرك"
+  },
+  "quevilly rouen": {
+    "en": "Quevilly Rouen",
+    "ar": "كويفيي روان"
+  },
+  "vesoul": {
+    "en": "Vesoul",
+    "ar": "فزول"
+  },
+  "fleury": {
+    "en": "Fleury",
+    "ar": "فلوري"
+  },
+  "as contres": {
+    "en": "Contres",
+    "ar": "كونتر"
+  },
+  "linas-montlhery": {
+    "en": "Linas-Montlhery",
+    "ar": "ليناس مونتليري"
+  },
+  "grau-du-roi": {
+    "en": "Grau-du-Roi",
+    "ar": "غراو دو روا"
+  },
+  "rivieres": {
+    "en": "Rivieres",
+    "ar": "ريفيير"
+  },
+  "st ouen aumone": {
+    "en": "St Ouen Aumone",
+    "ar": "سان أوين لومون"
+  },
+  "boulogne": {
+    "en": "Boulogne",
+    "ar": "بولوني"
+  },
+  "chateaubriant": {
+    "en": "Chateaubriant",
+    "ar": "شاتوبريان"
+  },
+  "as horizon patho": {
+    "en": "Horizon Patho",
+    "ar": "هوريزون باثو"
+  },
+  "hamilton": {
+    "en": "Hamilton",
+    "ar": "هاميلتون"
+  },
+  "ross county": {
+    "en": "Ross County",
+    "ar": "روس كاونتي"
+  },
+  "balma": {
+    "en": "Balma",
+    "ar": "بالما"
+  },
+  "us castanet": {
+    "en": "Us Castanet",
+    "ar": "يو إس كاستانيه"
+  },
+  "bressuire": {
+    "en": "Bressuire",
+    "ar": "بريسوير"
+  },
+  "challans": {
+    "en": "Challans",
+    "ar": "شالان"
+  },
+  "stade bordelais": {
+    "en": "Stade Bordelais",
+    "ar": "ستاد بوردليه"
+  },
+  "mazères uzos rontignon": {
+    "en": "Mazères Uzos Rontignon",
+    "ar": "مازير أوزوس رونتينيو"
+  },
+  "brive": {
+    "en": "Brive",
+    "ar": "بريف"
+  },
+  "angouleme": {
+    "en": "Angouleme",
+    "ar": "أنغوليم"
+  },
+  "chauny": {
+    "en": "Chauny",
+    "ar": "شوني"
+  },
+  "le pays du valois": {
+    "en": "Le Pays du Valois",
+    "ar": "لو باي دو فالوا"
+  },
+  "lannion": {
+    "en": "Lannion",
+    "ar": "لانيون"
+  },
+  "guingamp": {
+    "en": "Guingamp",
+    "ar": "غانغان"
+  },
+  "es buxerolles": {
+    "en": "ES Buxerolles",
+    "ar": "إي إس بوكسرول"
+  },
+  "sablé fc": {
+    "en": "Sablé",
+    "ar": "سابليه"
+  },
+  "fc lourdes xi": {
+    "en": "Lourdes XI",
+    "ar": "لورد الحادي عشر"
+  },
+  "pau fc": {
+    "en": "Pau",
+    "ar": "بو"
+  },
+  "fc claira/saint-laurent": {
+    "en": "Claira/Saint-Laurent",
+    "ar": "كليرا/سان لوران"
+  },
+  "as puissalicon": {
+    "en": "Puissalicon",
+    "ar": "بويساليكون"
+  },
+  "rennes brequigny": {
+    "en": "Rennes Brequigny",
+    "ar": "رين بريكيني"
+  },
+  "montlucon": {
+    "en": "Montlucon",
+    "ar": "مونلوكون"
+  },
+  "algeria": {
+    "en": "Algeria",
+    "ar": "الجزائر"
+  },
+  "togo": {
+    "en": "Togo",
+    "ar": "توغو"
+  },
+  "basque country": {
+    "en": "Basque Country",
+    "ar": "إقليم الباسك"
+  },
+  "angola": {
+    "en": "Angola",
+    "ar": "أنغولا"
+  },
+  "south sudan": {
+    "en": "South Sudan",
+    "ar": "جنوب السودان"
+  },
+  "cambrai": {
+    "en": "Cambrai",
+    "ar": "كامبراي"
+  },
+  "amiens": {
+    "en": "Amiens",
+    "ar": "أميان"
+  },
+  "sweden": {
+    "en": "Sweden",
+    "ar": "السويد"
+  },
+  "romania": {
+    "en": "Romania",
+    "ar": "رومانيا"
+  },
+  "austria": {
+    "en": "Austria",
+    "ar": "النمسا"
+  },
+  "northern ireland": {
+    "en": "Northern Ireland",
+    "ar": "أيرلندا الشمالية"
+  },
+  "ukraine": {
+    "en": "Ukraine",
+    "ar": "أوكرانيا"
+  },
+  "mirassol": {
+    "en": "Mirassol",
+    "ar": "ميراسول"
+  },
+  "atlético mineiro": {
+    "en": "Atlético Mineiro",
+    "ar": "أتلتيكو مينيرو"
+  },
+  "brazil brasileirão série a": {
+    "en": "Brazilian Brasileirão Série A",
+    "ar": "الدوري البرازيلي الدرجة الأولى"
+  },
+  "mexico liga mx": {
+    "en": "Mexico Liga MX",
+    "ar": "الدوري المكسيكي ليغا إم إكس"
+  },
+  "chapecoense": {
+    "en": "Chapecoense",
+    "ar": "شابيكوينسي"
+  },
+  "vasco da gama": {
+    "en": "Vasco da Gama",
+    "ar": "فاسكو دا غاما"
+  },
   "llaneros fc": {
     "en": "Llaneros",
     "ar": "يانيروس"
