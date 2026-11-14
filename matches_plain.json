@@ -31,8 +31,8 @@
         "📺 L'Équipe [Astra 19.2E 11895 V 29700]",
         "📺 DAZN 2 GER [Astra 19.2E 12382 H 27500]",
         "📺 Sport 1 [Astra 19.2E 10803 H 22000]",
-        "📺 Sport 1 CZE [Astra 23.5E 12070 H 27500]",
-        "📺 Ziggo Sport 2 [Astra 23.5E 12129 V 29900]",
+        "📺 Sport 1 CZE [Eutelsat 23.5E 12070 H 27500]",
+        "📺 Ziggo Sport 2 [Eutelsat 23.5E 12129 V 29900]",
         "📺 Bein Sport 1 [Badrsat 26.0E 10810 H 27500]",
         "📺 Bein Sport 2 [Badrsat 26.0E 10810 H 27500]",
         "📺 BBC Two [Astra 28.2E 10847 V 23000]",
@@ -71,8 +71,8 @@
         "📺 Sport 2 CZE [Eutelsat 16.0E 11094 V 27500]",
         "📺 Sport Klub 3 HRV [Eutelsat 16.0E 11387 H 32000]",
         "📺 Sport Klub 3 SLO [Eutelsat 16.0E 11231 V 42000]",
-        "📺 Sport 2 CZE [Astra 23.5E 12090 V 29900]",
-        "📺 M4 Sport [Astra 23.5E 11739 V 29900]",
+        "📺 Sport 2 CZE [Eutelsat 23.5E 12090 V 29900]",
+        "📺 M4 Sport [Eutelsat 23.5E 11739 V 29900]",
         "📺 Bein Sport 2 [Badrsat 26.0E 10810 H 27500]",
         "📺 Bein Sport 4 [Badrsat 26.0E 11390 V 27500]",
         "📺 Premier Sports 1 [Astra 28.2E 12188 H 27500]",
@@ -116,8 +116,8 @@
         "📺 Super Sport 2 [Eutelsat 16.0E 10845 H 30000]",
         "📺 DAZN 1 GER [Astra 19.2E 12382 H 27500]",
         "📺 Sport 1 [Astra 19.2E 10803 H 22000]",
-        "📺 Sport 1 CZE [Astra 23.5E 12070 H 27500]",
-        "📺 Ziggo Sport 2 [Astra 23.5E 12129 V 29900]",
+        "📺 Sport 1 CZE [Eutelsat 23.5E 12070 H 27500]",
+        "📺 Ziggo Sport 2 [Eutelsat 23.5E 12129 V 29900]",
         "📺 Bein Sport 1 [Badrsat 26.0E 10810 H 27500]",
         "📺 Bein Sport 2 [Badrsat 26.0E 10810 H 27500]",
         "📺 Virgin Media Two [Astra 28.2E 12226 H 27500]",
@@ -142,7 +142,7 @@
         "📺 Nova Sports Start [Hotbird 13.0E 11804 V 30000]",
         "📺 Polsat Sport Premium 2 [Hotbird 13.0E 11117 V 27500]",
         "📺 Sky Sport Calcio [Hotbird 13.0E 11958 V 27500]",
-        "📺 Megogo Sport [Astra 23.5E 12285 V 30000]",
+        "📺 Megogo Sport [Eutelsat 23.5E 12285 V 30000]",
         "📺 Bein Sport 6 [Badrsat 26.0E 11390 V 27500]",
         "📺 BBC Two [Astra 28.2E 10847 V 23000]",
         "📺 SuperSport Football [Eutelsat 36.0E 12341 V 27500]",
@@ -217,11 +217,55 @@
         "📺 Sport Klub 3 HRV [Eutelsat 16.0E 11387 H 32000]",
         "📺 Super Sport 3 [Eutelsat 16.0E 10845 H 30000]",
         "📺 DAZN 2 GER [Astra 19.2E 12382 H 27500]",
-        "📺 Sport 2 CZE [Astra 23.5E 12090 V 29900]",
+        "📺 Sport 2 CZE [Eutelsat 23.5E 12090 V 29900]",
         "📺 Bein Sport 3 [Badrsat 26.0E 10810 H 27500]",
         "📺 SuperSport Football Plus [Eutelsat 36.0E 12284 H 27500]",
         "📺 Prima Sport 2 [Hellas-Sat 39.0E 12290 V 30000]",
         "📺 A Spor [Turksat 42.0E 12054 H 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "🏆 Africa Cup of Nations Qualification",
+      "tournamentAr": "🏆 تصفيات كأس أمم إفريقيا",
+      "matchEn": "Uganda v Botswana",
+      "matchAr": "أوغندا × بوتسوانا",
+      "time": "16:00",
+      "channels": [
+        "📺 BeIn Sports Xtra 1 [Nilesat 7.0W 12188 H 27500]",
+        "📺 5 Stars [Amos 4.0W 11259 V 30000]",
+        "📺 Sportitalia HD [Eutelsat 9.0E 12341 V 31400]",
+        "📺 Solo Calcio [Hotbird 13.0E 11179 H 27500]",
+        "📺 BeIn Sports Xtra 1 [Badrsat 26.0E 10850 H 27500]",
+        "📺 SuperSport Máximo 360 [Eutelsat 36.0E 12380 V 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "🏆 Africa Cup of Nations Qualification",
+      "tournamentAr": "🏆 تصفيات كأس أمم إفريقيا",
+      "matchEn": "Angola v South Sudan",
+      "matchAr": "أنغولا × جنوب السودان",
+      "time": "19:00",
+      "channels": [
+        "📺 Sport TV 6 [Hispasat 30W 12360 H 27500]",
+        "📺 Bein Sport 7 [Nilesat 7.0W 12188 H 27500]",
+        "📺 5 Stars [Amos 4.0W 11259 V 30000]",
+        "📺 Bein Sport 7 [Badrsat 26.0E 10850 V 27500]",
+        "📺 SuperSport Máximo 360 [Eutelsat 36.0E 12380 V 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "🏆 Africa Cup of Nations Qualification",
+      "tournamentAr": "🏆 تصفيات كأس أمم إفريقيا",
+      "matchEn": "Algeria v Togo",
+      "matchAr": "الجزائر × توغو",
+      "time": "19:00",
+      "channels": [
+        "📺 Bein Sport 1 [Nilesat 7.0W 11013 H 27500]",
+        "📺 5 Live [Amos 4.0W 11259 V 30000]",
+        "📺 Sportitalia HD [Eutelsat 9.0E 12341 V 31400]",
+        "📺 Solo Calcio [Hotbird 13.0E 11179 H 27500]",
+        "📺 DAZN 2 GER [Astra 19.2E 12382 H 27500]",
+        "📺 Bein Sport 1 [Badrsat 26.0E 10810 H 27500]"
       ]
     },
     {
