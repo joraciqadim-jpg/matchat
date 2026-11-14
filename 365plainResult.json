@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794616517425,
+  "timestamp": 1794621694171,
   "matches": [
     {
       "matchId": 4672301,
@@ -385,11 +385,11 @@
       "matchEn": "Argentina v Uruguay",
       "matchAr": "الأرجنتين × الأوروغواي",
       "rawIsoTime": "2026-11-13T23:00:00+00:00",
-      "time": "0 - 0 (Halftime)",
-      "rawMinute": 45,
-      "homeGoals": 0,
-      "awayGoals": 0,
-      "isLive": true
+      "time": "1 - 2 (done)",
+      "rawMinute": 90,
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "isLive": false
     },
     {
       "matchId": 4874716,
@@ -515,11 +515,11 @@
       "matchEn": "Saint-Martin v El Salvador",
       "matchAr": "سان مارتان × السلفادور",
       "rawIsoTime": "2026-11-13T23:00:00+00:00",
-      "time": "0 - 1 (Halftime)",
-      "rawMinute": 45,
+      "time": "0 - 2 (done)",
+      "rawMinute": 90,
       "homeGoals": 0,
-      "awayGoals": 1,
-      "isLive": true
+      "awayGoals": 2,
+      "isLive": false
     }
   ]
 }
