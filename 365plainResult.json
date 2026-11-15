@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794756133948,
+  "timestamp": 1794756190985,
   "matches": [
     {
       "matchId": 4672286,
@@ -9,7 +9,7 @@
       "matchAr": "قبرص × الجبل الأسود",
       "rawIsoTime": "2026-11-15T14:00:00+00:00",
       "time": "1 - 2 (64')",
-      "rawMinute": 64,
+      "rawMinute": 65,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -22,7 +22,7 @@
       "matchAr": "لاتفيا × أرمينيا",
       "rawIsoTime": "2026-11-15T14:00:00+00:00",
       "time": "0 - 0 (64')",
-      "rawMinute": 64,
+      "rawMinute": 65,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -594,7 +594,7 @@
       "matchAr": "يو إس بيرو لوانيك × فان",
       "rawIsoTime": "2026-11-15T13:30:00+00:00",
       "time": "0 - 3 (88')",
-      "rawMinute": 88,
+      "rawMinute": 89,
       "homeGoals": 0,
       "awayGoals": 3,
       "isLive": true
@@ -606,8 +606,8 @@
       "matchEn": "GFA74 v Saint-Étienne",
       "matchAr": "جي إف إيه 74 × سانت إتيان",
       "rawIsoTime": "2026-11-15T14:00:00+00:00",
-      "time": "1 - 0 (65')",
-      "rawMinute": 65,
+      "time": "1 - 0 (66')",
+      "rawMinute": 66,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -619,8 +619,8 @@
       "matchEn": "Atlas Paillade v Cannes",
       "matchAr": "أطلس باياد × كان",
       "rawIsoTime": "2026-11-15T14:00:00+00:00",
-      "time": "0 - 0 (62')",
-      "rawMinute": 62,
+      "time": "0 - 0 (63')",
+      "rawMinute": 63,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -632,8 +632,8 @@
       "matchEn": "Riadi Salmi v Olympique Khouribga",
       "matchAr": "الرياضي السالمي × أولمبيك خريبكة",
       "rawIsoTime": "2026-11-15T15:00:00+00:00",
-      "time": "0 - 1 (20')",
-      "rawMinute": 20,
+      "time": "0 - 1 (21')",
+      "rawMinute": 21,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -645,8 +645,8 @@
       "matchEn": "Wydad Fes v Chabab Khénifra",
       "matchAr": "الوداد الفاسي × شباب خنيفرة",
       "rawIsoTime": "2026-11-15T15:00:00+00:00",
-      "time": "0 - 0 (23')",
-      "rawMinute": 23,
+      "time": "0 - 0 (24')",
+      "rawMinute": 24,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
