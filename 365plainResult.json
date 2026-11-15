@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794764432987,
+  "timestamp": 1794764471227,
   "matches": [
     {
       "matchId": 4672286,
@@ -34,8 +34,8 @@
       "matchEn": "Finland v San Marino",
       "matchAr": "فنلندا × سان مارينو",
       "rawIsoTime": "2026-11-15T17:00:00+00:00",
-      "time": "4 - 1 (40')",
-      "rawMinute": 40,
+      "time": "4 - 1 (41')",
+      "rawMinute": 41,
       "homeGoals": 4,
       "awayGoals": 1,
       "isLive": true
@@ -47,8 +47,8 @@
       "matchEn": "Belarus v Albania",
       "matchAr": "بيلاروسيا × ألبانيا",
       "rawIsoTime": "2026-11-15T17:00:00+00:00",
-      "time": "0 - 1 (39')",
-      "rawMinute": 39,
+      "time": "0 - 1 (40')",
+      "rawMinute": 40,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -659,7 +659,7 @@
       "matchAr": "اتحاد يعقوب المنصور × اتحاد وجدة",
       "rawIsoTime": "2026-11-15T17:00:00+00:00",
       "time": "0 - 0 (39')",
-      "rawMinute": 39,
+      "rawMinute": 40,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
