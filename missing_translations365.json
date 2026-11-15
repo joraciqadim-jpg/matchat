@@ -1,292 +1,4 @@
 {
-  "saint vincent and the grenadines": {
-    "en": "Saint Vincent And The Grenadines",
-    "ar": "سانت فنسنت والغرينادين"
-  },
-  "belize": {
-    "en": "Belize",
-    "ar": "بليز"
-  },
-  "jamaica": {
-    "en": "Jamaica",
-    "ar": "جامايكا"
-  },
-  "mexico": {
-    "en": "Mexico",
-    "ar": "المكسيك"
-  },
-  "tefana": {
-    "en": "Tefana",
-    "ar": "تيفانا"
-  },
-  "thionville": {
-    "en": "Thionville",
-    "ar": "تيونفيل"
-  },
-  "paris 13 atletico": {
-    "en": "Paris 13 Atletico",
-    "ar": "أتلتيكو باريس 13"
-  },
-  "red star fc93": {
-    "en": "Red Star FC93",
-    "ar": "النجم الأحمر FC93"
-  },
-  "sedan": {
-    "en": "Sedan",
-    "ar": "سيدان"
-  },
-  "bourges 18": {
-    "en": "Bourges 18",
-    "ar": "بورج 18"
-  },
-  "ocpam": {
-    "en": "OCPAM",
-    "ar": "أو سي بام"
-  },
-  "marcquois": {
-    "en": "Marcquois",
-    "ar": "ماركوا"
-  },
-  "vandoeuvre": {
-    "en": "Vandoeuvre",
-    "ar": "فاندوفر"
-  },
-  "epinal": {
-    "en": "Epinal",
-    "ar": "إبينال"
-  },
-  "fc riom": {
-    "en": "Riom",
-    "ar": "ريوم"
-  },
-  "limonest": {
-    "en": "Limonest",
-    "ar": "ليمونيه"
-  },
-  "rives 82": {
-    "en": "Rives 82",
-    "ar": "ريف 82"
-  },
-  "trelissac": {
-    "en": "Trelissac",
-    "ar": "تريليساك"
-  },
-  "marseille endoume": {
-    "en": "Marseille Endoume",
-    "ar": "مرسيليا أندوم"
-  },
-  "toulon": {
-    "en": "Toulon",
-    "ar": "تولون"
-  },
-  "seyssinet": {
-    "en": "Seyssinet",
-    "ar": "سيسينيه"
-  },
-  "nimes": {
-    "en": "Nimes",
-    "ar": "نيم"
-  },
-  "usm senlis": {
-    "en": "Usm Senlis",
-    "ar": "يو إس إم سنليس"
-  },
-  "saint-pryve": {
-    "en": "Saint-Pryve",
-    "ar": "سان بريفيه"
-  },
-  "saint-renan": {
-    "en": "Saint-Renan",
-    "ar": "سان رينان"
-  },
-  "laval": {
-    "en": "Laval",
-    "ar": "لافال"
-  },
-  "chamois niortais saint-flo": {
-    "en": "Chamois Niortais Saint-Flo",
-    "ar": "شاموا نيورتاي سان فلو"
-  },
-  "sr st dié kellermann": {
-    "en": "SR St Dié Kellermann",
-    "ar": "إس آر سان ديي كيليرمان"
-  },
-  "metz": {
-    "en": "Metz",
-    "ar": "ميتز"
-  },
-  "stade castelbourgeois": {
-    "en": "Stade Castelbourgeois",
-    "ar": "ستاد كاستلبورجوا"
-  },
-  "nantes": {
-    "en": "Nantes",
-    "ar": "نانت"
-  },
-  "fc rochefort": {
-    "en": "Rochefort",
-    "ar": "روشوفور"
-  },
-  "la juventus de papus": {
-    "en": "La Juventus De Papus",
-    "ar": "يوفنتوس بابوس"
-  },
-  "es veauche": {
-    "en": "ES Veauche",
-    "ar": "إي إس فوش"
-  },
-  "fc st paul en jarez": {
-    "en": "St Paul en Jarez",
-    "ar": "سان بول أون جاريخ"
-  },
-  "esap metz": {
-    "en": "ESAP Metz",
-    "ar": "إي إس إيه بي ميتز"
-  },
-  "reipertswiller": {
-    "en": "Reipertswiller",
-    "ar": "رايبرتسويلر"
-  },
-  "as talange": {
-    "en": "Talange",
-    "ar": "تالانج"
-  },
-  "as baume les dames": {
-    "en": "Baume les Dames",
-    "ar": "بوم لي دام"
-  },
-  "as montigny lès metz": {
-    "en": "Montigny lès Metz",
-    "ar": "مونتيني لي ميتز"
-  },
-  "ca pontarlier": {
-    "en": "CA Pontarlier",
-    "ar": "سي إيه بونتارلييه"
-  },
-  "as violaines": {
-    "en": "Violaines",
-    "ar": "فيولين"
-  },
-  "vermelles": {
-    "en": "Vermelles",
-    "ar": "فيرميل"
-  },
-  "as verson": {
-    "en": "Verson",
-    "ar": "فيرسون"
-  },
-  "calais": {
-    "en": "Calais",
-    "ar": "كاليه"
-  },
-  "val yerres crosne af": {
-    "en": "Val Yerres Crosne AF",
-    "ar": "فال يير كروسنه إيه إف"
-  },
-  "cosne": {
-    "en": "Cosne",
-    "ar": "كون"
-  },
-  "montreuil": {
-    "en": "Montreuil",
-    "ar": "مونتروي"
-  },
-  "loon plage": {
-    "en": "Loon Plage",
-    "ar": "لون بلاج"
-  },
-  "sc massay": {
-    "en": "Massay",
-    "ar": "ماسي"
-  },
-  "alerte s montlouis": {
-    "en": "Alerte S Montlouis",
-    "ar": "أليرت إس مونلوي"
-  },
-  "tremblay fc": {
-    "en": "Tremblay",
-    "ar": "ترمبلي"
-  },
-  "maisons alfort fc": {
-    "en": "Maisons Alfort",
-    "ar": "ميزون ألفور"
-  },
-  "saint martin tatinghem": {
-    "en": "Saint Martin Tatinghem",
-    "ar": "سان مارتان تاتانغيم"
-  },
-  "racing club de france": {
-    "en": "Racing De France",
-    "ar": "راسينغ دو فرانس"
-  },
-  "neslois": {
-    "en": "Neslois",
-    "ar": "نيزلوا"
-  },
-  "furiani agliani": {
-    "en": "Furiani Agliani",
-    "ar": "فورياني أغلياني"
-  },
-  "pontivyen": {
-    "en": "Pontivyen",
-    "ar": "بونتيفيان"
-  },
-  "plabennec": {
-    "en": "Plabennec",
-    "ar": "بلابينيك"
-  },
-  "olympique cpam": {
-    "en": "Olympique CPAM",
-    "ar": "أولمبيك CPAM"
-  },
-  "as chatou": {
-    "en": "Chatou",
-    "ar": "شاتو"
-  },
-  "les ulis": {
-    "en": "Les Ulis",
-    "ar": "لي أوليس"
-  },
-  "stade sottevillais cheminot": {
-    "en": "Stade Sottevillais Cheminot",
-    "ar": "ستاد سوتفيلواز شومينو"
-  },
-  "us football fécamp": {
-    "en": "US Football Fécamp",
-    "ar": "يو إس فوتبول فيكام"
-  },
-  "us perros louannec": {
-    "en": "US Perros Louannec",
-    "ar": "يو إس بيرو لوانيك"
-  },
-  "vannes": {
-    "en": "Vannes",
-    "ar": "فان"
-  },
-  "toulouse saint": {
-    "en": "Toulouse Saint",
-    "ar": "تولوز سان"
-  },
-  "la tamponnaise": {
-    "en": "La Tamponnaise",
-    "ar": "لا تامبونيز"
-  },
-  "gfa74": {
-    "en": "GFA74",
-    "ar": "جي إف إيه 74"
-  },
-  "saint-étienne": {
-    "en": "Saint-Étienne",
-    "ar": "سانت إتيان"
-  },
-  "atlas paillade": {
-    "en": "Atlas Paillade",
-    "ar": "أطلس باياد"
-  },
-  "cannes": {
-    "en": "Cannes",
-    "ar": "كان"
-  },
   "montserrat": {
     "en": "Montserrat",
     "ar": "مونتسيرات"
@@ -309,7 +21,7 @@
   },
   "us choisy au bac": {
     "en": "US Choisy au Bac",
-    "ar": "الاتحاد الرياضي لشوازي أو باك"
+    "ar": "شوازي أو باك"
   },
   "caen": {
     "en": "Caen",
@@ -321,7 +33,7 @@
   },
   "us la baule le pouliguen": {
     "en": "US La Baule Le Pouliguen",
-    "ar": "الاتحاد الرياضي للا باول لو بويغن"
+    "ar": "لا باول لو بويغن"
   },
   "cournon d'auvergne": {
     "en": "Cournon d'Auvergne",
@@ -337,7 +49,7 @@
   },
   "cso amnéville": {
     "en": "CSO Amnéville",
-    "ar": "سي إس أو أمنيفيل"
+    "ar": "أمنيفيل"
   },
   "as sundhoffen": {
     "en": "Sundhoffen",
@@ -369,7 +81,7 @@
   },
   "es boulazac": {
     "en": "ES Boulazac",
-    "ar": "إي إس بولازاك"
+    "ar": "بولازاك"
   },
   "anglet genets": {
     "en": "Anglet Genets",
@@ -397,7 +109,7 @@
   },
   "usa": {
     "en": "USA",
-    "ar": "الولايات المتحدة الأمريكية"
+    "ar": "أمريكا"
   },
   "colombia": {
     "en": "Colombia",
@@ -549,7 +261,7 @@
   },
   "queen of the south": {
     "en": "Queen Of The South",
-    "ar": "كوين أوف ذا ساوث"
+    "ar": "كوين أوف ساوث"
   },
   "iran": {
     "en": "Iran",
@@ -565,7 +277,7 @@
   },
   "hauts lyonnais": {
     "en": "Hauts Lyonnais",
-    "ar": "أو ليونيه"
+    "ar": "أو ليون"
   },
   "clermont foot": {
     "en": "Clermont Foot",
@@ -581,7 +293,7 @@
   },
   "le poire sur vie": {
     "en": "Le Poire sur Vie",
-    "ar": "لو بوار سور في"
+    "ar": "لو بوار سير في"
   },
   "vertou": {
     "en": "Vertou",
@@ -613,7 +325,7 @@
   },
   "so pont-de-chéruy": {
     "en": "SO Pont-de-Chéruy",
-    "ar": "إس أو بون دو شيرو"
+    "ar": "بون دو شيرو"
   },
   "bourg-péronnas": {
     "en": "Bourg-Péronnas",
@@ -657,7 +369,7 @@
   },
   "fco strasbourg koenigshoffen 06": {
     "en": "Fco Strasbourg Koenigshoffen 06",
-    "ar": "إف سي أو ستراسبورغ كونيغشوفن 06"
+    "ar": "ستراسبورغ كونيغشوفن 06"
   },
   "oberlauterbach": {
     "en": "Oberlauterbach",
@@ -701,7 +413,7 @@
   },
   "apm metz": {
     "en": "Apm Metz",
-    "ar": "إيه بي إم ميتز"
+    "ar": "ميتز"
   },
   "cobsp st brieuc": {
     "en": "Cobsp St Brieuc",
@@ -717,7 +429,7 @@
   },
   "ta rennes": {
     "en": "Ta Rennes",
-    "ar": "تي إيه رين"
+    "ar": "تا رين"
   },
   "dunkerque": {
     "en": "Dunkerque",
@@ -813,7 +525,7 @@
   },
   "le pays du valois": {
     "en": "Le Pays du Valois",
-    "ar": "لو باي دو فالوا"
+    "ar": "بلد فالوا"
   },
   "lannion": {
     "en": "Lannion",
@@ -849,7 +561,7 @@
   },
   "rennes brequigny": {
     "en": "Rennes Brequigny",
-    "ar": "رين بريكيني"
+    "ar": "رين بريكينيي"
   },
   "montlucon": {
     "en": "Montlucon",
@@ -912,12 +624,12 @@
     "ar": "أتلتيكو مينيرو"
   },
   "brazil brasileirão série a": {
-    "en": "Brazilian Brasileirão Série A",
-    "ar": "الدوري البرازيلي الدرجة الأولى"
+    "en": "Brazilian Série A",
+    "ar": "الدوري البرازيلي"
   },
   "mexico liga mx": {
-    "en": "Mexico Liga MX",
-    "ar": "الدوري المكسيكي ليغا إم إكس"
+    "en": "Mexican League",
+    "ar": "الدوري المكسيكي"
   },
   "chapecoense": {
     "en": "Chapecoense",
@@ -925,7 +637,7 @@
   },
   "vasco da gama": {
     "en": "Vasco da Gama",
-    "ar": "فاسكو دا غاما"
+    "ar": "فاسكو دي غاما"
   },
   "llaneros fc": {
     "en": "Llaneros",
@@ -937,7 +649,7 @@
   },
   "colombia liga betplay": {
     "en": "Colombia Liga BetPlay",
-    "ar": "الدوري الكولومبي بيت بلاي"
+    "ar": "الدوري الكولومبي"
   },
   "curacao": {
     "en": "Curacao",
@@ -948,8 +660,8 @@
     "ar": "بنما"
   },
   "north america concacaf nations league": {
-    "en": "North America CONCACAF Nations League",
-    "ar": "دوري أمم الكونكاكاف لأمريكا الشمالية"
+    "en": "CONCACAF Nations League",
+    "ar": "دوري أمم الكونكاكاف"
   },
   "atlético morelia": {
     "en": "Atlético Morelia",
@@ -960,7 +672,7 @@
     "ar": "ليونيس نيغروس"
   },
   "mexico liga de expansión mx": {
-    "en": "Mexico Liga de Expansión MX",
+    "en": "Mexican Liga de Expansión MX",
     "ar": "الدوري المكسيكي للتوسع"
   },
   "prykarpattia": {
@@ -972,7 +684,7 @@
     "ar": "كولوس كوفاليفكا 2"
   },
   "ukraine persha liga": {
-    "en": "Ukraine Persha Liga",
+    "en": "Ukrainain Persha Liga",
     "ar": "الدوري الأوكراني الأول"
   },
   "vysocina jihlava": {
@@ -981,7 +693,7 @@
   },
   "international club friendlies": {
     "en": "International Club Friendlies",
-    "ar": "مباريات ودية دولية للأندية"
+    "ar": "مباريات ودية للأندية"
   },
   "sc bregenz": {
     "en": "Bregenz",
@@ -1033,7 +745,7 @@
   },
   "vfl bochum": {
     "en": "VfL Bochum",
-    "ar": "في إف إل بوخوم"
+    "ar": "بوخوم"
   },
   "sc verl": {
     "en": "Verl",
@@ -1097,7 +809,7 @@
   },
   "team fc": {
     "en": "Team",
-    "ar": "فريق"
+    "ar": "تيم"
   },
   "zambia": {
     "en": "Zambia",
@@ -1153,7 +865,7 @@
   },
   "ssv jahn regensburg": {
     "en": "SSV Jahn Regensburg",
-    "ar": "إس إس في يان ريغنسبورغ"
+    "ar": "يان ريغنسبورغ"
   },
   "fc blau weiss linz": {
     "en": "Blau Weiss Linz",
@@ -1200,7 +912,7 @@
     "ar": "بروليتير 023 زرينيانين"
   },
   "serbia prva liga": {
-    "en": "Serbia Prva Liga",
+    "en": "Serbian Prva Liga",
     "ar": "الدوري الصربي الأول"
   },
   "gabon": {
@@ -1240,7 +952,7 @@
     "ar": "نيجيريا"
   },
   "europe euroqualification": {
-    "en": "Europe EuroQualification",
+    "en": "Europian Euro Qualification",
     "ar": "تصفيات بطولة أمم أوروبا"
   },
   "ireland": {
@@ -1384,7 +1096,7 @@
     "ar": "بي 93 كوبنهاغن"
   },
   "denmark 1st division": {
-    "en": "Denmark 1st Division",
+    "en": "Danish 1st Division",
     "ar": "الدوري الدنماركي الدرجة الأولى"
   },
   "skive": {
@@ -1481,14 +1193,14 @@
   },
   "cd leganés": {
     "en": "CD Leganés",
-    "ar": "سي دي ليغانيس"
+    "ar": "ليغانيس"
   },
   "burgos cf": {
     "en": "Burgos",
     "ar": "بورغوس"
   },
   "spain laliga 2": {
-    "en": "Spanish LaLiga 2",
+    "en": "Spanish La Liga 2",
     "ar": "الدوري الإسباني الدرجة الثانية"
   },
   "latina calcio": {
@@ -1841,7 +1553,7 @@
   },
   "es hammam sousse": {
     "en": "ES Hammam Sousse",
-    "ar": "النجم الرياضي بحمام سوسة"
+    "ar": "حمام سوسة"
   },
   "stade tunisien": {
     "en": "Stade Tunisien",
@@ -1849,7 +1561,7 @@
   },
   "cs hammam-lif": {
     "en": "CS Hammam-Lif",
-    "ar": "النادي الرياضي بحمام الأنف"
+    "ar": "حمام الأنف"
   },
   "ben guerdane": {
     "en": "Ben Guerdane",
@@ -1861,7 +1573,7 @@
   },
   "ca bizertin": {
     "en": "CA Bizertin",
-    "ar": "النادي الرياضي البنزرتي"
+    "ar": "النادي البنزرتي"
   },
   "olympique béja": {
     "en": "Olympique Béja",
@@ -2025,7 +1737,7 @@
   },
   "uae": {
     "en": "UAE",
-    "ar": "الإمارات العربية المتحدة"
+    "ar": "الإمارات"
   },
   "honduras": {
     "en": "Honduras",
@@ -2121,7 +1833,7 @@
   },
   "salamanca uds": {
     "en": "Salamanca UDS",
-    "ar": "سالامانكا يو دي إس"
+    "ar": "سالامانكا"
   },
   "argentina": {
     "en": "Argentina",
