@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794762551617,
+  "timestamp": 1794762632405,
   "matches": [
     {
       "matchId": 4672286,
@@ -34,8 +34,8 @@
       "matchEn": "Finland v San Marino",
       "matchAr": "فنلندا × سان مارينو",
       "rawIsoTime": "2026-11-15T17:00:00+00:00",
-      "time": "1 - 0 (9')",
-      "rawMinute": 9,
+      "time": "1 - 0 (10')",
+      "rawMinute": 10,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -47,8 +47,8 @@
       "matchEn": "Belarus v Albania",
       "matchAr": "بيلاروسيا × ألبانيا",
       "rawIsoTime": "2026-11-15T17:00:00+00:00",
-      "time": "0 - 0 (8')",
-      "rawMinute": 8,
+      "time": "0 - 0 (9')",
+      "rawMinute": 9,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -125,8 +125,8 @@
       "matchEn": "Suriname v Eswatini",
       "matchAr": "سورينام × إسواتيني",
       "rawIsoTime": "2026-11-15T17:00:00+00:00",
-      "time": "1 - 0 (8')",
-      "rawMinute": 8,
+      "time": "1 - 0 (10')",
+      "rawMinute": 10,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -554,11 +554,11 @@
       "matchEn": "Stade Sottevillais Cheminot v US Football Fécamp",
       "matchAr": "ستاد سوتفيلواز شومينو × يو إس فوتبول فيكام",
       "rawIsoTime": "2026-11-15T13:30:00+00:00",
-      "time": "4 - 1 (done)",
+      "time": "4 - 1 (120')",
       "rawMinute": 120,
       "homeGoals": 4,
       "awayGoals": 1,
-      "isLive": false
+      "isLive": true
     },
     {
       "matchId": 4894197,
@@ -658,8 +658,8 @@
       "matchEn": "Union Yacoub El Mansour v Usm Oujda",
       "matchAr": "اتحاد يعقوب المنصور × اتحاد وجدة",
       "rawIsoTime": "2026-11-15T17:00:00+00:00",
-      "time": "0 - 0 (8')",
-      "rawMinute": 8,
+      "time": "0 - 0 (9')",
+      "rawMinute": 9,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
