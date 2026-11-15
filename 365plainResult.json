@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794718573799,
+  "timestamp": 1794718631196,
   "matches": [
     {
       "matchId": 4672286,
@@ -113,7 +113,7 @@
       "matchAr": "نيوزيلندا × الهند",
       "rawIsoTime": "2026-11-15T03:00:00+00:00",
       "time": "3 - 0 (89')",
-      "rawMinute": 89,
+      "rawMinute": 90,
       "homeGoals": 3,
       "awayGoals": 0,
       "isLive": true
@@ -164,8 +164,8 @@
       "matchEn": "Tefana v Thionville",
       "matchAr": "تيفانا × تيونفيل",
       "rawIsoTime": "2026-11-15T04:00:00+00:00",
-      "time": "0 - 3 (45+7')",
-      "rawMinute": 52,
+      "time": "0 - 3 (45+8')",
+      "rawMinute": 53,
       "homeGoals": 0,
       "awayGoals": 3,
       "isLive": true
