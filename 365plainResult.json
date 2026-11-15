@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794757934049,
+  "timestamp": 1794757990259,
   "matches": [
     {
       "matchId": 4672286,
@@ -580,10 +580,10 @@
       "matchEn": "Toulouse Saint v La Tamponnaise",
       "matchAr": "تولوز سان × لا تامبونيز",
       "rawIsoTime": "2026-11-15T13:45:00+00:00",
-      "time": "13:45",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
+      "time": "1 - 2 (done)",
+      "rawMinute": 90,
+      "homeGoals": 1,
+      "awayGoals": 2,
       "isLive": false
     },
     {
@@ -593,11 +593,11 @@
       "matchEn": "GFA74 v Saint-Étienne",
       "matchAr": "جي إف إيه 74 × سانت إتيان",
       "rawIsoTime": "2026-11-15T14:00:00+00:00",
-      "time": "1 - 2 (90+5')",
-      "rawMinute": 95,
+      "time": "1 - 2 (done)",
+      "rawMinute": 90,
       "homeGoals": 1,
       "awayGoals": 2,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4888244,
@@ -606,8 +606,8 @@
       "matchEn": "Atlas Paillade v Cannes",
       "matchAr": "أطلس باياد × كان",
       "rawIsoTime": "2026-11-15T14:00:00+00:00",
-      "time": "0 - 1 (90+2')",
-      "rawMinute": 92,
+      "time": "0 - 1 (90+3')",
+      "rawMinute": 93,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -619,8 +619,8 @@
       "matchEn": "SCC Mohammédia v Olympique Safi",
       "matchAr": "شباب المحمدية × أولمبيك آسفي",
       "rawIsoTime": "2026-11-15T15:00:00+00:00",
-      "time": "0 - 0 (15')",
-      "rawMinute": 15,
+      "time": "0 - 0 (16')",
+      "rawMinute": 16,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
