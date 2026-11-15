@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794722121503,
+  "timestamp": 1794747661975,
   "matches": [
     {
       "matchId": 4672286,
@@ -164,10 +164,10 @@
       "matchEn": "Tefana v Thionville",
       "matchAr": "تيفانا × تيونفيل",
       "rawIsoTime": "2026-11-15T04:00:00+00:00",
-      "time": "0 - 3 (done)",
+      "time": "0 - 4 (done)",
       "rawMinute": 90,
       "homeGoals": 0,
-      "awayGoals": 3,
+      "awayGoals": 4,
       "isLive": false
     },
     {
@@ -177,11 +177,11 @@
       "matchEn": "Paris 13 Atletico v Red Star FC93",
       "matchAr": "أتلتيكو باريس 13 × النجم الأحمر FC93",
       "rawIsoTime": "2026-11-15T13:00:00+00:00",
-      "time": "13:00",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "time": "0 - 0 (3')",
+      "rawMinute": 3,
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4888246,
@@ -190,11 +190,11 @@
       "matchEn": "Sedan v Bourges 18",
       "matchAr": "سيدان × بورج 18",
       "rawIsoTime": "2026-11-15T13:00:00+00:00",
-      "time": "13:00",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "time": "0 - 0 (3')",
+      "rawMinute": 3,
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4888248,
@@ -255,11 +255,11 @@
       "matchEn": "Marseille Endoume v Toulon",
       "matchAr": "مرسيليا أندوم × تولون",
       "rawIsoTime": "2026-11-15T13:00:00+00:00",
-      "time": "13:00",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "time": "0 - 0 (1')",
+      "rawMinute": 2,
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4888261,
@@ -294,11 +294,11 @@
       "matchEn": "Saint-Renan v Laval",
       "matchAr": "سان رينان × لافال",
       "rawIsoTime": "2026-11-15T13:00:00+00:00",
-      "time": "13:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4892766,
