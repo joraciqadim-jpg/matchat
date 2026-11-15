@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794719054456,
+  "timestamp": 1794719122140,
   "matches": [
     {
       "matchId": 4672286,
@@ -164,8 +164,8 @@
       "matchEn": "Tefana v Thionville",
       "matchAr": "تيفانا × تيونفيل",
       "rawIsoTime": "2026-11-15T04:00:00+00:00",
-      "time": "0 - 3 (Halftime)",
-      "rawMinute": 45,
+      "time": "0 - 3 (45')",
+      "rawMinute": 46,
       "homeGoals": 0,
       "awayGoals": 3,
       "isLive": true
