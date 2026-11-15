@@ -1,4 +1,563 @@
 {
+  "Univision USA": {
+    "satellites": [
+      {
+        "satellite": "Galaxy 91.0W",
+        "frequency": "4020 V 31250"
+      }
+    ]
+  },
+  "W-Sport HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Sport 1 Slovakia HD": {
+    "satellites": [
+      {
+        "satellite": "Thor 0.8W",
+        "frequency": "11727 V 28000"
+      }
+    ]
+  },
+  "TVCG 2 HD": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat 16.0E",
+        "frequency": "11366 V 30000"
+      }
+    ]
+  },
+  "LTV 7 Latvia": {
+    "satellites": [
+      {
+        "satellite": "Astra 31.5E",
+        "frequency": "12070 H 30000"
+      }
+    ]
+  },
+  "A Spor Türkiye HD": {
+    "satellites": [
+      {
+        "satellite": "Turksat 42.0E",
+        "frequency": "12207 H 27500"
+      }
+    ]
+  },
+  "TV Klan HD": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat 16.0E",
+        "frequency": "11366 V 30000"
+      }
+    ]
+  },
+  "Rtv San Marino DTT": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "A Haber HD": {
+    "satellites": [
+      {
+        "satellite": "Turksat 42.0E",
+        "frequency": "12207 H 27500"
+      }
+    ]
+  },
+  "Alpha TV Hellas HD": {
+    "satellites": [
+      {
+        "satellite": "Hotbird 13.0E",
+        "frequency": "11766 H 27500"
+      }
+    ]
+  },
+  "TVE La 1 UHD 4K": {
+    "satellites": [
+      {
+        "satellite": "Astra 19.2E",
+        "frequency": "10729 V 23500"
+      }
+    ]
+  },
+  "Prime Video USA [$]": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "VTM Belgium HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "ATV Türkiye HD": {
+    "satellites": [
+      {
+        "satellite": "Turksat 42.0E",
+        "frequency": "12207 H 27500"
+      }
+    ]
+  },
+  "TF1 4K UHD": {
+    "satellites": [
+      {
+        "satellite": "Astra 19.2E",
+        "frequency": "12012 V 29700"
+      }
+    ]
+  },
+  "TF1 Suisse HD": {
+    "satellites": [
+      {
+        "satellite": "Hotbird 13.0E",
+        "frequency": "11526 H 27500"
+      }
+    ]
+  },
+  "A Para Türkiye HD": {
+    "satellites": [
+      {
+        "satellite": "Turksat 42.0E",
+        "frequency": "12207 H 27500"
+      }
+    ]
+  },
+  "Nova TV Hrvatska HD": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat 16.0E",
+        "frequency": "11471 H 30000"
+      }
+    ]
+  },
+  "Klan Kosova HD": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat 16.0E",
+        "frequency": "11366 V 30000"
+      }
+    ]
+  },
+  "Open Beyond TV HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "1TV Sporti Georgia HD": {
+    "satellites": [
+      {
+        "satellite": "Kazsat 58.5E",
+        "frequency": "10804 V 30000"
+      }
+    ]
+  },
+  "SuperSport AWSN": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "TVT Togo": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "TPA 2 Angola": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Antena 1 Romania HD": {
+    "satellites": [
+      {
+        "satellite": "Thor 0.8W",
+        "frequency": "12111 V 30000"
+      }
+    ]
+  },
+  "TV2 Danmark HD": {
+    "satellites": [
+      {
+        "satellite": "Thor 0.8W",
+        "frequency": "11727 V 28000"
+      }
+    ]
+  },
+  "TV6 Sverige HD": {
+    "satellites": [
+      {
+        "satellite": "Thor 0.8W",
+        "frequency": "11727 V 28000"
+      }
+    ]
+  },
+  "BHT 1 BiH": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat 16.0E",
+        "frequency": "11366 V 30000"
+      }
+    ]
+  },
+  "TBS USA": {
+    "satellites": [
+      {
+        "satellite": "Galaxy 91.0W",
+        "frequency": "4020 V 31250"
+      }
+    ]
+  },
+  "truTV USA": {
+    "satellites": [
+      {
+        "satellite": "Galaxy 91.0W",
+        "frequency": "4020 V 31250"
+      }
+    ]
+  },
+  "Tele Congo": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "beIN Sports US XTRA": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "beIN Sports US XTRA Español": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Hagerie TV Ethiopia": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "TVM 1 Mozambique": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Watania 1 HD": {
+    "satellites": [
+      {
+        "satellite": "Nilesat 7.0W",
+        "frequency": "11996 V 27500"
+      }
+    ]
+  },
+  "Afrosport TV": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "KBC 1 Kenya": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Tivibu Spor HD": {
+    "satellites": [
+      {
+        "satellite": "Turksat 42.0E",
+        "frequency": "12303 V 27500"
+      }
+    ]
+  },
+  "RTB Zénith": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "ProSieben MAXX Austria": {
+    "satellites": [
+      {
+        "satellite": "Astra 19.2E",
+        "frequency": "11347 V 22000"
+      }
+    ]
+  },
+  "DR2 Dansk HD": {
+    "satellites": [
+      {
+        "satellite": "Thor 0.8W",
+        "frequency": "11727 V 28000"
+      }
+    ]
+  },
+  "ORTM 2 Mali": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Rwanda TV HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Time Sports HD": {
+    "satellites": [
+      {
+        "satellite": "Nilesat 7.0W",
+        "frequency": "11996 V 27500"
+      }
+    ]
+  },
+  "MAX One Bulgaria HD": {
+    "satellites": [
+      {
+        "satellite": "BulgariaSat 1.9E",
+        "frequency": "12226 H 30000"
+      }
+    ]
+  },
+  "Fox Sports 1 USA HD": {
+    "satellites": [
+      {
+        "satellite": "Galaxy 91.0W",
+        "frequency": "4020 V 31250"
+      }
+    ]
+  },
+  "RTS 1 Srbija HD": {
+    "satellites": [
+      {
+        "satellite": "Eutelsat 16.0E",
+        "frequency": "11366 V 30000"
+      }
+    ]
+  },
+  "ETV 2 Estonia": {
+    "satellites": [
+      {
+        "satellite": "Astra 31.5E",
+        "frequency": "12070 H 30000"
+      }
+    ]
+  },
+  "SuperSport OTT 8": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "Nova Sports News HD": {
+    "satellites": [
+      {
+        "satellite": "Hotbird 13.0E",
+        "frequency": "12130 H 30000"
+      }
+    ]
+  },
+  "Arryadia TNT HD": {
+    "satellites": [
+      {
+        "satellite": "Nilesat 7.0W",
+        "frequency": "11996 V 27500"
+      }
+    ]
+  },
+  "TyC Sports Argentina": {
+    "satellites": [
+      {
+        "satellite": "Star One 70.0W",
+        "frequency": "11780 H 29900"
+      }
+    ]
+  },
+  "GTV Ghana": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "GTV Sports + HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "RTNC Congo DR": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "TGB Guinea-Bissau": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "RTG Guinea": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "TVGE Internacional": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "ZBC Zimbabwe HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "TVM Sport+ HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "GRTS Gambia": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "RTi La 3 Côte d’Ivoire": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "CRTV Cameroon": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "NBC 1 Namibia": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "A2 TV Türkiye HD": {
+    "satellites": [
+      {
+        "satellite": "Turksat 42.0E",
+        "frequency": "12207 H 27500"
+      }
+    ]
+  },
+  "La Chaine L´Équipe HD": {
+    "satellites": [
+      {
+        "satellite": "Astra 19.2E",
+        "frequency": "12402 V 29700"
+      }
+    ]
+  },
+  "NRK 2 Norge HD": {
+    "satellites": [
+      {
+        "satellite": "Thor 0.8W",
+        "frequency": "11727 V 28000"
+      }
+    ]
+  },
+  "beIN Sports HK 3 HD": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "beIN Sports US 3": {
+    "satellites": [
+      {
+        "satellite": "stream"
+      }
+    ]
+  },
+  "ESPN 2 Norte Latin": {
+    "satellites": [
+      {
+        "satellite": "Galaxy 91.0W",
+        "frequency": "4020 V 31250"
+      }
+    ]
+  },
+  "Sky Sports Cricket HD": {
+    "satellites": [
+      {
+        "satellite": "Astra 28.2E",
+        "frequency": "10964 H 23000"
+      }
+    ]
+  },
+  "BeIN Sports MENA Xtra 5 HD": {
+    "satellites": [
+      {
+        "satellite": "Eshail 25.5E",
+        "frequency": "10850 V 27500"
+      }
+    ]
+  },
+  "Sharjah Sports 2 HD": {
+    "satellites": [
+      {
+        "satellite": "Eshail 25.5E",
+        "frequency": "11230 H 27500"
+      }
+    ]
+  },
   "Band Sports Brazil HD": {
     "satellites": [
       {
