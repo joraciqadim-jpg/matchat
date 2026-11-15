@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794765735304,
+  "timestamp": 1794765791156,
   "matches": [
     {
       "matchId": 4672286,
@@ -34,8 +34,8 @@
       "matchEn": "Finland v San Marino",
       "matchAr": "فنلندا × سان مارينو",
       "rawIsoTime": "2026-11-15T17:00:00+00:00",
-      "time": "5 - 1 (Halftime)",
-      "rawMinute": 45,
+      "time": "5 - 1 (46')",
+      "rawMinute": 46,
       "homeGoals": 5,
       "awayGoals": 1,
       "isLive": true
