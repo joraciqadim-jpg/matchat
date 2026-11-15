@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794756653903,
+  "timestamp": 1794756671337,
   "matches": [
     {
       "matchId": 4672286,
@@ -8,7 +8,7 @@
       "matchEn": "Cyprus v Montenegro",
       "matchAr": "قبرص × الجبل الأسود",
       "rawIsoTime": "2026-11-15T14:00:00+00:00",
-      "time": "1 - 3 (72')",
+      "time": "1 - 3 (73')",
       "rawMinute": 73,
       "homeGoals": 1,
       "awayGoals": 3,
@@ -21,7 +21,7 @@
       "matchEn": "Latvia v Armenia",
       "matchAr": "لاتفيا × أرمينيا",
       "rawIsoTime": "2026-11-15T14:00:00+00:00",
-      "time": "0 - 0 (72')",
+      "time": "0 - 0 (73')",
       "rawMinute": 73,
       "homeGoals": 0,
       "awayGoals": 0,
@@ -594,7 +594,7 @@
       "matchAr": "يو إس بيرو لوانيك × فان",
       "rawIsoTime": "2026-11-15T13:30:00+00:00",
       "time": "0 - 7 (90+6')",
-      "rawMinute": 96,
+      "rawMinute": 97,
       "homeGoals": 0,
       "awayGoals": 7,
       "isLive": true
@@ -645,7 +645,7 @@
       "matchEn": "Wydad Fes v Chabab Khénifra",
       "matchAr": "الوداد الفاسي × شباب خنيفرة",
       "rawIsoTime": "2026-11-15T15:00:00+00:00",
-      "time": "0 - 0 (31')",
+      "time": "0 - 0 (32')",
       "rawMinute": 32,
       "homeGoals": 0,
       "awayGoals": 0,
