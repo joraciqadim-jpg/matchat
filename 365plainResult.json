@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794755831798,
+  "timestamp": 1794755894156,
   "matches": [
     {
       "matchId": 4672286,
@@ -8,8 +8,8 @@
       "matchEn": "Cyprus v Montenegro",
       "matchAr": "قبرص × الجبل الأسود",
       "rawIsoTime": "2026-11-15T14:00:00+00:00",
-      "time": "1 - 2 (59')",
-      "rawMinute": 59,
+      "time": "1 - 2 (60')",
+      "rawMinute": 60,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -21,8 +21,8 @@
       "matchEn": "Latvia v Armenia",
       "matchAr": "لاتفيا × أرمينيا",
       "rawIsoTime": "2026-11-15T14:00:00+00:00",
-      "time": "0 - 0 (59')",
-      "rawMinute": 59,
+      "time": "0 - 0 (60')",
+      "rawMinute": 60,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -431,6 +431,19 @@
       "isLive": false
     },
     {
+      "matchId": 4892777,
+      "tournamentEn": "🏆 French Cup",
+      "tournamentAr": "🏆 كأس فرنسا",
+      "matchEn": "Val Yerres Crosne AF v Cosne",
+      "matchAr": "فال يير كروسنه إيه إف × كون",
+      "rawIsoTime": "2026-11-15T13:00:00+00:00",
+      "time": "6 - 5 (done)",
+      "rawMinute": 120,
+      "homeGoals": 6,
+      "awayGoals": 5,
+      "isLive": false
+    },
+    {
       "matchId": 4892778,
       "tournamentEn": "🏆 French Cup",
       "tournamentAr": "🏆 كأس فرنسا",
@@ -509,17 +522,17 @@
       "isLive": false
     },
     {
-      "matchId": 4892777,
-      "tournamentEn": "🏆 French Cup",
-      "tournamentAr": "🏆 كأس فرنسا",
-      "matchEn": "Val Yerres Crosne AF v Cosne",
-      "matchAr": "فال يير كروسنه إيه إف × كون",
-      "rawIsoTime": "2026-11-15T13:00:00+00:00",
-      "time": "2 - 2 (90+15')",
-      "rawMinute": 105,
-      "homeGoals": 2,
-      "awayGoals": 2,
-      "isLive": true
+      "matchId": 4891273,
+      "tournamentEn": "🇲🇦 Moroccan Botola 2",
+      "tournamentAr": "🇲🇦 البطولة المغربية 2",
+      "matchEn": "SCC Mohammédia v Olympique Safi",
+      "matchAr": "شباب المحمدية × أولمبيك آسفي",
+      "rawIsoTime": "2026-11-15T15:00:00+00:00",
+      "time": "15:00",
+      "rawMinute": 1,
+      "homeGoals": -1,
+      "awayGoals": -1,
+      "isLive": false
     },
     {
       "matchId": 4892779,
@@ -580,8 +593,8 @@
       "matchEn": "US Perros Louannec v Vannes",
       "matchAr": "يو إس بيرو لوانيك × فان",
       "rawIsoTime": "2026-11-15T13:30:00+00:00",
-      "time": "0 - 3 (83')",
-      "rawMinute": 83,
+      "time": "0 - 3 (84')",
+      "rawMinute": 84,
       "homeGoals": 0,
       "awayGoals": 3,
       "isLive": true
@@ -593,8 +606,8 @@
       "matchEn": "GFA74 v Saint-Étienne",
       "matchAr": "جي إف إيه 74 × سانت إتيان",
       "rawIsoTime": "2026-11-15T14:00:00+00:00",
-      "time": "1 - 0 (60')",
-      "rawMinute": 60,
+      "time": "1 - 0 (61')",
+      "rawMinute": 61,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -606,24 +619,11 @@
       "matchEn": "Atlas Paillade v Cannes",
       "matchAr": "أطلس باياد × كان",
       "rawIsoTime": "2026-11-15T14:00:00+00:00",
-      "time": "0 - 0 (57')",
-      "rawMinute": 57,
+      "time": "0 - 0 (58')",
+      "rawMinute": 58,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
-    },
-    {
-      "matchId": 4891273,
-      "tournamentEn": "🇲🇦 Moroccan Botola 2",
-      "tournamentAr": "🇲🇦 البطولة المغربية 2",
-      "matchEn": "SCC Mohammédia v Olympique Safi",
-      "matchAr": "شباب المحمدية × أولمبيك آسفي",
-      "rawIsoTime": "2026-11-15T15:00:00+00:00",
-      "time": "15:00",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
     },
     {
       "matchId": 4891277,
@@ -632,8 +632,8 @@
       "matchEn": "Riadi Salmi v Olympique Khouribga",
       "matchAr": "الرياضي السالمي × أولمبيك خريبكة",
       "rawIsoTime": "2026-11-15T15:00:00+00:00",
-      "time": "0 - 1 (15')",
-      "rawMinute": 15,
+      "time": "0 - 1 (16')",
+      "rawMinute": 16,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -645,8 +645,8 @@
       "matchEn": "Wydad Fes v Chabab Khénifra",
       "matchAr": "الوداد الفاسي × شباب خنيفرة",
       "rawIsoTime": "2026-11-15T15:00:00+00:00",
-      "time": "0 - 0 (18')",
-      "rawMinute": 18,
+      "time": "0 - 0 (19')",
+      "rawMinute": 19,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
