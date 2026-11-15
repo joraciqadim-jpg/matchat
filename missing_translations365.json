@@ -1,4 +1,292 @@
 {
+  "saint vincent and the grenadines": {
+    "en": "Saint Vincent And The Grenadines",
+    "ar": "سانت فنسنت والغرينادين"
+  },
+  "belize": {
+    "en": "Belize",
+    "ar": "بليز"
+  },
+  "jamaica": {
+    "en": "Jamaica",
+    "ar": "جامايكا"
+  },
+  "mexico": {
+    "en": "Mexico",
+    "ar": "المكسيك"
+  },
+  "tefana": {
+    "en": "Tefana",
+    "ar": "تيفانا"
+  },
+  "thionville": {
+    "en": "Thionville",
+    "ar": "تيونفيل"
+  },
+  "paris 13 atletico": {
+    "en": "Paris 13 Atletico",
+    "ar": "أتلتيكو باريس 13"
+  },
+  "red star fc93": {
+    "en": "Red Star FC93",
+    "ar": "النجم الأحمر FC93"
+  },
+  "sedan": {
+    "en": "Sedan",
+    "ar": "سيدان"
+  },
+  "bourges 18": {
+    "en": "Bourges 18",
+    "ar": "بورج 18"
+  },
+  "ocpam": {
+    "en": "OCPAM",
+    "ar": "أو سي بام"
+  },
+  "marcquois": {
+    "en": "Marcquois",
+    "ar": "ماركوا"
+  },
+  "vandoeuvre": {
+    "en": "Vandoeuvre",
+    "ar": "فاندوفر"
+  },
+  "epinal": {
+    "en": "Epinal",
+    "ar": "إبينال"
+  },
+  "fc riom": {
+    "en": "Riom",
+    "ar": "ريوم"
+  },
+  "limonest": {
+    "en": "Limonest",
+    "ar": "ليمونيه"
+  },
+  "rives 82": {
+    "en": "Rives 82",
+    "ar": "ريف 82"
+  },
+  "trelissac": {
+    "en": "Trelissac",
+    "ar": "تريليساك"
+  },
+  "marseille endoume": {
+    "en": "Marseille Endoume",
+    "ar": "مرسيليا أندوم"
+  },
+  "toulon": {
+    "en": "Toulon",
+    "ar": "تولون"
+  },
+  "seyssinet": {
+    "en": "Seyssinet",
+    "ar": "سيسينيه"
+  },
+  "nimes": {
+    "en": "Nimes",
+    "ar": "نيم"
+  },
+  "usm senlis": {
+    "en": "Usm Senlis",
+    "ar": "يو إس إم سنليس"
+  },
+  "saint-pryve": {
+    "en": "Saint-Pryve",
+    "ar": "سان بريفيه"
+  },
+  "saint-renan": {
+    "en": "Saint-Renan",
+    "ar": "سان رينان"
+  },
+  "laval": {
+    "en": "Laval",
+    "ar": "لافال"
+  },
+  "chamois niortais saint-flo": {
+    "en": "Chamois Niortais Saint-Flo",
+    "ar": "شاموا نيورتاي سان فلو"
+  },
+  "sr st dié kellermann": {
+    "en": "SR St Dié Kellermann",
+    "ar": "إس آر سان ديي كيليرمان"
+  },
+  "metz": {
+    "en": "Metz",
+    "ar": "ميتز"
+  },
+  "stade castelbourgeois": {
+    "en": "Stade Castelbourgeois",
+    "ar": "ستاد كاستلبورجوا"
+  },
+  "nantes": {
+    "en": "Nantes",
+    "ar": "نانت"
+  },
+  "fc rochefort": {
+    "en": "Rochefort",
+    "ar": "روشوفور"
+  },
+  "la juventus de papus": {
+    "en": "La Juventus De Papus",
+    "ar": "يوفنتوس بابوس"
+  },
+  "es veauche": {
+    "en": "ES Veauche",
+    "ar": "إي إس فوش"
+  },
+  "fc st paul en jarez": {
+    "en": "St Paul en Jarez",
+    "ar": "سان بول أون جاريخ"
+  },
+  "esap metz": {
+    "en": "ESAP Metz",
+    "ar": "إي إس إيه بي ميتز"
+  },
+  "reipertswiller": {
+    "en": "Reipertswiller",
+    "ar": "رايبرتسويلر"
+  },
+  "as talange": {
+    "en": "Talange",
+    "ar": "تالانج"
+  },
+  "as baume les dames": {
+    "en": "Baume les Dames",
+    "ar": "بوم لي دام"
+  },
+  "as montigny lès metz": {
+    "en": "Montigny lès Metz",
+    "ar": "مونتيني لي ميتز"
+  },
+  "ca pontarlier": {
+    "en": "CA Pontarlier",
+    "ar": "سي إيه بونتارلييه"
+  },
+  "as violaines": {
+    "en": "Violaines",
+    "ar": "فيولين"
+  },
+  "vermelles": {
+    "en": "Vermelles",
+    "ar": "فيرميل"
+  },
+  "as verson": {
+    "en": "Verson",
+    "ar": "فيرسون"
+  },
+  "calais": {
+    "en": "Calais",
+    "ar": "كاليه"
+  },
+  "val yerres crosne af": {
+    "en": "Val Yerres Crosne AF",
+    "ar": "فال يير كروسنه إيه إف"
+  },
+  "cosne": {
+    "en": "Cosne",
+    "ar": "كون"
+  },
+  "montreuil": {
+    "en": "Montreuil",
+    "ar": "مونتروي"
+  },
+  "loon plage": {
+    "en": "Loon Plage",
+    "ar": "لون بلاج"
+  },
+  "sc massay": {
+    "en": "Massay",
+    "ar": "ماسي"
+  },
+  "alerte s montlouis": {
+    "en": "Alerte S Montlouis",
+    "ar": "أليرت إس مونلوي"
+  },
+  "tremblay fc": {
+    "en": "Tremblay",
+    "ar": "ترمبلي"
+  },
+  "maisons alfort fc": {
+    "en": "Maisons Alfort",
+    "ar": "ميزون ألفور"
+  },
+  "saint martin tatinghem": {
+    "en": "Saint Martin Tatinghem",
+    "ar": "سان مارتان تاتانغيم"
+  },
+  "racing club de france": {
+    "en": "Racing De France",
+    "ar": "راسينغ دو فرانس"
+  },
+  "neslois": {
+    "en": "Neslois",
+    "ar": "نيزلوا"
+  },
+  "furiani agliani": {
+    "en": "Furiani Agliani",
+    "ar": "فورياني أغلياني"
+  },
+  "pontivyen": {
+    "en": "Pontivyen",
+    "ar": "بونتيفيان"
+  },
+  "plabennec": {
+    "en": "Plabennec",
+    "ar": "بلابينيك"
+  },
+  "olympique cpam": {
+    "en": "Olympique CPAM",
+    "ar": "أولمبيك CPAM"
+  },
+  "as chatou": {
+    "en": "Chatou",
+    "ar": "شاتو"
+  },
+  "les ulis": {
+    "en": "Les Ulis",
+    "ar": "لي أوليس"
+  },
+  "stade sottevillais cheminot": {
+    "en": "Stade Sottevillais Cheminot",
+    "ar": "ستاد سوتفيلواز شومينو"
+  },
+  "us football fécamp": {
+    "en": "US Football Fécamp",
+    "ar": "يو إس فوتبول فيكام"
+  },
+  "us perros louannec": {
+    "en": "US Perros Louannec",
+    "ar": "يو إس بيرو لوانيك"
+  },
+  "vannes": {
+    "en": "Vannes",
+    "ar": "فان"
+  },
+  "toulouse saint": {
+    "en": "Toulouse Saint",
+    "ar": "تولوز سان"
+  },
+  "la tamponnaise": {
+    "en": "La Tamponnaise",
+    "ar": "لا تامبونيز"
+  },
+  "gfa74": {
+    "en": "GFA74",
+    "ar": "جي إف إيه 74"
+  },
+  "saint-étienne": {
+    "en": "Saint-Étienne",
+    "ar": "سانت إتيان"
+  },
+  "atlas paillade": {
+    "en": "Atlas Paillade",
+    "ar": "أطلس باياد"
+  },
+  "cannes": {
+    "en": "Cannes",
+    "ar": "كان"
+  },
   "montserrat": {
     "en": "Montserrat",
     "ar": "مونتسيرات"
