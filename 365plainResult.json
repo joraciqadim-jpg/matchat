@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794704590931,
+  "timestamp": 1794704654148,
   "matches": [
     {
       "matchId": 4672286,
@@ -106,6 +106,19 @@
       "isLive": false
     },
     {
+      "matchId": 4883938,
+      "tournamentEn": "🏆 Africa Cup of Nations Qualification",
+      "tournamentAr": "🏆 تصفيات كأس أمم أفريقيا",
+      "matchEn": "Angola v South Sudan",
+      "matchAr": "أنغولا × جنوب السودان",
+      "rawIsoTime": "2026-11-14T19:00:00+00:00",
+      "time": "2 - 0 (90+15')",
+      "rawMinute": 105,
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "isLive": true
+    },
+    {
       "matchId": 4870469,
       "tournamentEn": "✨ Friendly International",
       "tournamentAr": "✨ مباريات ودية",
@@ -138,11 +151,11 @@
       "matchEn": "Queretaro v Monterrey",
       "matchAr": "كيريتارو × مونتيري",
       "rawIsoTime": "2026-11-14T23:00:00+00:00",
-      "time": "0 - 1 (90+11')",
-      "rawMinute": 102,
+      "time": "0 - 1 (done)",
+      "rawMinute": 90,
       "homeGoals": 0,
       "awayGoals": 1,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4632737,
@@ -151,8 +164,8 @@
       "matchEn": "Chapecoense v Vasco da Gama",
       "matchAr": "شابيكوينسي × فاسكو دا غاما",
       "rawIsoTime": "2026-11-14T23:30:00+00:00",
-      "time": "0 - 1 (73')",
-      "rawMinute": 73,
+      "time": "0 - 1 (75')",
+      "rawMinute": 75,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -164,8 +177,8 @@
       "matchEn": "Saint Vincent And The Grenadines v Belize",
       "matchAr": "سانت فنسنت والغرينادين × بليز",
       "rawIsoTime": "2026-11-15T00:00:00+00:00",
-      "time": "1 - 0 (47')",
-      "rawMinute": 47,
+      "time": "1 - 0 (48')",
+      "rawMinute": 48,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -177,8 +190,8 @@
       "matchEn": "Jamaica v Mexico",
       "matchAr": "جامايكا × المكسيك",
       "rawIsoTime": "2026-11-15T01:00:00+00:00",
-      "time": "0 - 0 (3')",
-      "rawMinute": 3,
+      "time": "0 - 0 (4')",
+      "rawMinute": 5,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
