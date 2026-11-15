@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794747735300,
+  "timestamp": 1794747791315,
   "matches": [
     {
       "matchId": 4672286,
@@ -177,8 +177,8 @@
       "matchEn": "Paris 13 Atletico v Red Star FC93",
       "matchAr": "أتلتيكو باريس 13 × النجم الأحمر FC93",
       "rawIsoTime": "2026-11-15T13:00:00+00:00",
-      "time": "0 - 0 (5')",
-      "rawMinute": 5,
+      "time": "0 - 0 (6')",
+      "rawMinute": 6,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -190,8 +190,8 @@
       "matchEn": "Sedan v Bourges 18",
       "matchAr": "سيدان × بورج 18",
       "rawIsoTime": "2026-11-15T13:00:00+00:00",
-      "time": "0 - 0 (5')",
-      "rawMinute": 5,
+      "time": "0 - 0 (6')",
+      "rawMinute": 6,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -216,11 +216,11 @@
       "matchEn": "Vandoeuvre v Epinal",
       "matchAr": "فاندوفر × إبينال",
       "rawIsoTime": "2026-11-15T13:00:00+00:00",
-      "time": "13:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4888253,
@@ -255,8 +255,8 @@
       "matchEn": "Marseille Endoume v Toulon",
       "matchAr": "مرسيليا أندوم × تولون",
       "rawIsoTime": "2026-11-15T13:00:00+00:00",
-      "time": "0 - 0 (3')",
-      "rawMinute": 3,
+      "time": "0 - 0 (4')",
+      "rawMinute": 4,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -281,11 +281,11 @@
       "matchEn": "Usm Senlis v Saint-Pryve",
       "matchAr": "يو إس إم سنليس × سان بريفيه",
       "rawIsoTime": "2026-11-15T13:00:00+00:00",
-      "time": "13:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4888279,
@@ -294,8 +294,8 @@
       "matchEn": "Saint-Renan v Laval",
       "matchAr": "سان رينان × لافال",
       "rawIsoTime": "2026-11-15T13:00:00+00:00",
-      "time": "0 - 0 (3')",
-      "rawMinute": 3,
+      "time": "0 - 0 (4')",
+      "rawMinute": 4,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -307,8 +307,8 @@
       "matchEn": "Chambery v Chamois Niortais Saint-Flo",
       "matchAr": "شامبيري × شاموا نيورتاي سان فلو",
       "rawIsoTime": "2026-11-15T13:00:00+00:00",
-      "time": "0 - 0 (1')",
-      "rawMinute": 1,
+      "time": "0 - 0 (2')",
+      "rawMinute": 2,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -333,11 +333,11 @@
       "matchEn": "Stade Castelbourgeois v Nantes",
       "matchAr": "ستاد كاستلبورجوا × نانت",
       "rawIsoTime": "2026-11-15T13:00:00+00:00",
-      "time": "13:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4892770,
@@ -398,11 +398,11 @@
       "matchEn": "Montigny lès Metz v CA Pontarlier",
       "matchAr": "مونتيني لي ميتز × سي إيه بونتارلييه",
       "rawIsoTime": "2026-11-15T13:00:00+00:00",
-      "time": "13:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4892775,
@@ -437,11 +437,11 @@
       "matchEn": "Val Yerres Crosne AF v Cosne",
       "matchAr": "فال يير كروسنه إيه إف × كون",
       "rawIsoTime": "2026-11-15T13:00:00+00:00",
-      "time": "13:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4892778,
@@ -463,8 +463,8 @@
       "matchEn": "Massay v Alerte S Montlouis",
       "matchAr": "ماسي × أليرت إس مونلوي",
       "rawIsoTime": "2026-11-15T13:00:00+00:00",
-      "time": "0 - 0 (1')",
-      "rawMinute": 1,
+      "time": "0 - 0 (2')",
+      "rawMinute": 2,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -489,8 +489,8 @@
       "matchEn": "Saint Martin Tatinghem v Racing De France",
       "matchAr": "سان مارتان تاتانغيم × راسينغ دو فرانس",
       "rawIsoTime": "2026-11-15T13:00:00+00:00",
-      "time": "0 - 0 (1')",
-      "rawMinute": 1,
+      "time": "0 - 0 (2')",
+      "rawMinute": 2,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -515,11 +515,11 @@
       "matchEn": "Pontivyen v Plabennec",
       "matchAr": "بونتيفيان × بلابينيك",
       "rawIsoTime": "2026-11-15T13:00:00+00:00",
-      "time": "13:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4894195,
@@ -541,11 +541,11 @@
       "matchEn": "Chatou v Les Ulis",
       "matchAr": "شاتو × لي أوليس",
       "rawIsoTime": "2026-11-15T13:00:00+00:00",
-      "time": "13:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4892783,
