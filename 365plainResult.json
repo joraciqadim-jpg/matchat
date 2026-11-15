@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794778934530,
+  "timestamp": 1794778991042,
   "matches": [
     {
       "matchId": 4672286,
@@ -99,8 +99,8 @@
       "matchEn": "Spain v England",
       "matchAr": "إسبانيا × إنجلترا",
       "rawIsoTime": "2026-11-15T19:45:00+00:00",
-      "time": "2 - 3 (90+3')",
-      "rawMinute": 93,
+      "time": "2 - 3 (90+4')",
+      "rawMinute": 94,
       "homeGoals": 2,
       "awayGoals": 3,
       "isLive": true
