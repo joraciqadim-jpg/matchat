@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794756734156,
+  "timestamp": 1794756792126,
   "matches": [
     {
       "matchId": 4672286,
@@ -8,8 +8,8 @@
       "matchEn": "Cyprus v Montenegro",
       "matchAr": "قبرص × الجبل الأسود",
       "rawIsoTime": "2026-11-15T14:00:00+00:00",
-      "time": "1 - 3 (74')",
-      "rawMinute": 74,
+      "time": "1 - 3 (75')",
+      "rawMinute": 75,
       "homeGoals": 1,
       "awayGoals": 3,
       "isLive": true
@@ -21,8 +21,8 @@
       "matchEn": "Latvia v Armenia",
       "matchAr": "لاتفيا × أرمينيا",
       "rawIsoTime": "2026-11-15T14:00:00+00:00",
-      "time": "0 - 0 (74')",
-      "rawMinute": 74,
+      "time": "0 - 0 (75')",
+      "rawMinute": 75,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -437,11 +437,11 @@
       "matchEn": "Val Yerres Crosne AF v Cosne",
       "matchAr": "فال يير كروسنه إيه إف × كون",
       "rawIsoTime": "2026-11-15T13:00:00+00:00",
-      "time": "6 - 5 (done)",
+      "time": "6 - 5 (120')",
       "rawMinute": 120,
       "homeGoals": 6,
       "awayGoals": 5,
-      "isLive": false
+      "isLive": true
     },
     {
       "matchId": 4892778,
@@ -535,6 +535,19 @@
       "isLive": false
     },
     {
+      "matchId": 4894197,
+      "tournamentEn": "🏆 French Cup",
+      "tournamentAr": "🏆 كأس فرنسا",
+      "matchEn": "US Perros Louannec v Vannes",
+      "matchAr": "يو إس بيرو لوانيك × فان",
+      "rawIsoTime": "2026-11-15T13:30:00+00:00",
+      "time": "0 - 7 (done)",
+      "rawMinute": 90,
+      "homeGoals": 0,
+      "awayGoals": 7,
+      "isLive": false
+    },
+    {
       "matchId": 4894192,
       "tournamentEn": "🏆 French Cup",
       "tournamentAr": "🏆 كأس فرنسا",
@@ -587,27 +600,14 @@
       "isLive": true
     },
     {
-      "matchId": 4894197,
-      "tournamentEn": "🏆 French Cup",
-      "tournamentAr": "🏆 كأس فرنسا",
-      "matchEn": "US Perros Louannec v Vannes",
-      "matchAr": "يو إس بيرو لوانيك × فان",
-      "rawIsoTime": "2026-11-15T13:30:00+00:00",
-      "time": "0 - 7 (90+7')",
-      "rawMinute": 98,
-      "homeGoals": 0,
-      "awayGoals": 7,
-      "isLive": true
-    },
-    {
       "matchId": 4888243,
       "tournamentEn": "🏆 French Cup",
       "tournamentAr": "🏆 كأس فرنسا",
       "matchEn": "GFA74 v Saint-Étienne",
       "matchAr": "جي إف إيه 74 × سانت إتيان",
       "rawIsoTime": "2026-11-15T14:00:00+00:00",
-      "time": "1 - 2 (75')",
-      "rawMinute": 75,
+      "time": "1 - 2 (76')",
+      "rawMinute": 76,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -619,8 +619,8 @@
       "matchEn": "Atlas Paillade v Cannes",
       "matchAr": "أطلس باياد × كان",
       "rawIsoTime": "2026-11-15T14:00:00+00:00",
-      "time": "0 - 1 (72')",
-      "rawMinute": 72,
+      "time": "0 - 1 (73')",
+      "rawMinute": 73,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -632,8 +632,8 @@
       "matchEn": "Riadi Salmi v Olympique Khouribga",
       "matchAr": "الرياضي السالمي × أولمبيك خريبكة",
       "rawIsoTime": "2026-11-15T15:00:00+00:00",
-      "time": "0 - 1 (30')",
-      "rawMinute": 30,
+      "time": "0 - 1 (31')",
+      "rawMinute": 31,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -645,8 +645,8 @@
       "matchEn": "Wydad Fes v Chabab Khénifra",
       "matchAr": "الوداد الفاسي × شباب خنيفرة",
       "rawIsoTime": "2026-11-15T15:00:00+00:00",
-      "time": "0 - 0 (33')",
-      "rawMinute": 33,
+      "time": "0 - 0 (34')",
+      "rawMinute": 34,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
