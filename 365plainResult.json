@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794751522589,
+  "timestamp": 1794751574214,
   "matches": [
     {
       "matchId": 4672286,
@@ -8,10 +8,10 @@
       "matchEn": "Cyprus v Montenegro",
       "matchAr": "قبرص × الجبل الأسود",
       "rawIsoTime": "2026-11-15T14:00:00+00:00",
-      "time": "0 - 0 (5')",
-      "rawMinute": 5,
+      "time": "0 - 1 (6')",
+      "rawMinute": 6,
       "homeGoals": 0,
-      "awayGoals": 0,
+      "awayGoals": 1,
       "isLive": true
     },
     {
@@ -21,8 +21,8 @@
       "matchEn": "Latvia v Armenia",
       "matchAr": "لاتفيا × أرمينيا",
       "rawIsoTime": "2026-11-15T14:00:00+00:00",
-      "time": "0 - 0 (4')",
-      "rawMinute": 4,
+      "time": "0 - 0 (5')",
+      "rawMinute": 5,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -190,8 +190,8 @@
       "matchEn": "Paris 13 Atletico v Red Star FC93",
       "matchAr": "أتلتيكو باريس 13 × النجم الأحمر FC93",
       "rawIsoTime": "2026-11-15T13:00:00+00:00",
-      "time": "0 - 2 (47')",
-      "rawMinute": 47,
+      "time": "0 - 2 (48')",
+      "rawMinute": 48,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -203,8 +203,8 @@
       "matchEn": "Sedan v Bourges 18",
       "matchAr": "سيدان × بورج 18",
       "rawIsoTime": "2026-11-15T13:00:00+00:00",
-      "time": "0 - 0 (Halftime)",
-      "rawMinute": 45,
+      "time": "0 - 0 (46')",
+      "rawMinute": 46,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -294,7 +294,7 @@
       "matchEn": "Saint-Renan v Laval",
       "matchAr": "سان رينان × لافال",
       "rawIsoTime": "2026-11-15T13:00:00+00:00",
-      "time": "0 - 2 (47')",
+      "time": "0 - 2 (48')",
       "rawMinute": 48,
       "homeGoals": 0,
       "awayGoals": 2,
@@ -333,8 +333,8 @@
       "matchEn": "Stade Castelbourgeois v Nantes",
       "matchAr": "ستاد كاستلبورجوا × نانت",
       "rawIsoTime": "2026-11-15T13:00:00+00:00",
-      "time": "1 - 6 (50')",
-      "rawMinute": 50,
+      "time": "1 - 6 (51')",
+      "rawMinute": 51,
       "homeGoals": 1,
       "awayGoals": 6,
       "isLive": true
@@ -372,8 +372,8 @@
       "matchEn": "ESAP Metz v Reipertswiller",
       "matchAr": "إي إس إيه بي ميتز × رايبرتسويلر",
       "rawIsoTime": "2026-11-15T13:00:00+00:00",
-      "time": "0 - 0 (Halftime)",
-      "rawMinute": 45,
+      "time": "0 - 0 (45')",
+      "rawMinute": 46,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -567,8 +567,8 @@
       "matchEn": "US Perros Louannec v Vannes",
       "matchAr": "يو إس بيرو لوانيك × فان",
       "rawIsoTime": "2026-11-15T13:30:00+00:00",
-      "time": "0 - 0 (32')",
-      "rawMinute": 32,
+      "time": "0 - 0 (33')",
+      "rawMinute": 33,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -593,8 +593,8 @@
       "matchEn": "GFA74 v Saint-Étienne",
       "matchAr": "جي إف إيه 74 × سانت إتيان",
       "rawIsoTime": "2026-11-15T14:00:00+00:00",
-      "time": "0 - 0 (8')",
-      "rawMinute": 8,
+      "time": "0 - 0 (9')",
+      "rawMinute": 9,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -606,8 +606,8 @@
       "matchEn": "Atlas Paillade v Cannes",
       "matchAr": "أطلس باياد × كان",
       "rawIsoTime": "2026-11-15T14:00:00+00:00",
-      "time": "0 - 0 (8')",
-      "rawMinute": 8,
+      "time": "0 - 0 (9')",
+      "rawMinute": 9,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
