@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794704350543,
+  "timestamp": 1794704461389,
   "matches": [
     {
       "matchId": 4672286,
@@ -138,8 +138,8 @@
       "matchEn": "Queretaro v Monterrey",
       "matchAr": "كيريتارو × مونتيري",
       "rawIsoTime": "2026-11-14T23:00:00+00:00",
-      "time": "0 - 1 (90+8')",
-      "rawMinute": 98,
+      "time": "0 - 1 (90+10')",
+      "rawMinute": 100,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -151,8 +151,8 @@
       "matchEn": "Chapecoense v Vasco da Gama",
       "matchAr": "شابيكوينسي × فاسكو دا غاما",
       "rawIsoTime": "2026-11-14T23:30:00+00:00",
-      "time": "0 - 1 (69')",
-      "rawMinute": 69,
+      "time": "0 - 1 (71')",
+      "rawMinute": 71,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -177,11 +177,11 @@
       "matchEn": "Jamaica v Mexico",
       "matchAr": "جامايكا × المكسيك",
       "rawIsoTime": "2026-11-15T01:00:00+00:00",
-      "time": "01:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4889109,
