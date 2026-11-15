@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794761654233,
+  "timestamp": 1794761721685,
   "matches": [
     {
       "matchId": 4672286,
@@ -554,10 +554,10 @@
       "matchEn": "Stade Sottevillais Cheminot v US Football Fécamp",
       "matchAr": "ستاد سوتفيلواز شومينو × يو إس فوتبول فيكام",
       "rawIsoTime": "2026-11-15T13:30:00+00:00",
-      "time": "13:30",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
+      "time": "4 - 1 (done)",
+      "rawMinute": 120,
+      "homeGoals": 4,
+      "awayGoals": 1,
       "isLive": false
     },
     {
@@ -645,8 +645,8 @@
       "matchEn": "Riadi Salmi v Olympique Khouribga",
       "matchAr": "الرياضي السالمي × أولمبيك خريبكة",
       "rawIsoTime": "2026-11-15T15:00:00+00:00",
-      "time": "1 - 1 (90+1')",
-      "rawMinute": 91,
+      "time": "1 - 1 (90+2')",
+      "rawMinute": 92,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
