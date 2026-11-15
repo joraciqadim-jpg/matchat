@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794762494373,
+  "timestamp": 1794762551617,
   "matches": [
     {
       "matchId": 4672286,
@@ -34,9 +34,9 @@
       "matchEn": "Finland v San Marino",
       "matchAr": "فنلندا × سان مارينو",
       "rawIsoTime": "2026-11-15T17:00:00+00:00",
-      "time": "0 - 0 (8')",
-      "rawMinute": 8,
-      "homeGoals": 0,
+      "time": "1 - 0 (9')",
+      "rawMinute": 9,
+      "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
     },
@@ -47,8 +47,8 @@
       "matchEn": "Belarus v Albania",
       "matchAr": "بيلاروسيا × ألبانيا",
       "rawIsoTime": "2026-11-15T17:00:00+00:00",
-      "time": "0 - 0 (6')",
-      "rawMinute": 7,
+      "time": "0 - 0 (8')",
+      "rawMinute": 8,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -125,8 +125,8 @@
       "matchEn": "Suriname v Eswatini",
       "matchAr": "سورينام × إسواتيني",
       "rawIsoTime": "2026-11-15T17:00:00+00:00",
-      "time": "1 - 0 (7')",
-      "rawMinute": 7,
+      "time": "1 - 0 (8')",
+      "rawMinute": 8,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -658,8 +658,8 @@
       "matchEn": "Union Yacoub El Mansour v Usm Oujda",
       "matchAr": "اتحاد يعقوب المنصور × اتحاد وجدة",
       "rawIsoTime": "2026-11-15T17:00:00+00:00",
-      "time": "0 - 0 (7')",
-      "rawMinute": 7,
+      "time": "0 - 0 (8')",
+      "rawMinute": 8,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
