@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794771934016,
+  "timestamp": 1794771974384,
   "matches": [
     {
       "matchId": 4672286,
@@ -73,11 +73,11 @@
       "matchEn": "Croatia v Czechia",
       "matchAr": "كرواتيا × التشيك",
       "rawIsoTime": "2026-11-15T19:45:00+00:00",
-      "time": "19:45",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4672282,
@@ -86,11 +86,11 @@
       "matchEn": "France v Turkiye",
       "matchAr": "فرنسا × تركيا",
       "rawIsoTime": "2026-11-15T19:45:00+00:00",
-      "time": "19:45",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4672283,
