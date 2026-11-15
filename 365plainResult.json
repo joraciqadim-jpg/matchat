@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794776654484,
+  "timestamp": 1794776721789,
   "matches": [
     {
       "matchId": 4672286,
@@ -60,8 +60,8 @@
       "matchEn": "Spain v England",
       "matchAr": "إسبانيا × إنجلترا",
       "rawIsoTime": "2026-11-15T19:45:00+00:00",
-      "time": "0 - 2 (55')",
-      "rawMinute": 55,
+      "time": "0 - 2 (56')",
+      "rawMinute": 56,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -73,8 +73,8 @@
       "matchEn": "Croatia v Czechia",
       "matchAr": "كرواتيا × التشيك",
       "rawIsoTime": "2026-11-15T19:45:00+00:00",
-      "time": "1 - 0 (63')",
-      "rawMinute": 63,
+      "time": "1 - 0 (64')",
+      "rawMinute": 64,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -86,8 +86,8 @@
       "matchEn": "France v Turkiye",
       "matchAr": "فرنسا × تركيا",
       "rawIsoTime": "2026-11-15T19:45:00+00:00",
-      "time": "1 - 0 (61')",
-      "rawMinute": 61,
+      "time": "1 - 0 (62')",
+      "rawMinute": 62,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -99,8 +99,8 @@
       "matchEn": "Belgium v Italy",
       "matchAr": "بلجيكا × إيطاليا",
       "rawIsoTime": "2026-11-15T19:45:00+00:00",
-      "time": "3 - 1 (59')",
-      "rawMinute": 59,
+      "time": "3 - 1 (60')",
+      "rawMinute": 60,
       "homeGoals": 3,
       "awayGoals": 1,
       "isLive": true
