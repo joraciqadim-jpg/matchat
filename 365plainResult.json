@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794774671117,
+  "timestamp": 1794774734169,
   "matches": [
     {
       "matchId": 4672286,
@@ -60,8 +60,8 @@
       "matchEn": "Spain v England",
       "matchAr": "إسبانيا × إنجلترا",
       "rawIsoTime": "2026-11-15T19:45:00+00:00",
-      "time": "0 - 0 (43')",
-      "rawMinute": 43,
+      "time": "0 - 0 (44')",
+      "rawMinute": 44,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -99,8 +99,8 @@
       "matchEn": "Belgium v Italy",
       "matchAr": "بلجيكا × إيطاليا",
       "rawIsoTime": "2026-11-15T19:45:00+00:00",
-      "time": "3 - 1 (45')",
-      "rawMinute": 45,
+      "time": "3 - 1 (45+1')",
+      "rawMinute": 46,
       "homeGoals": 3,
       "awayGoals": 1,
       "isLive": true
