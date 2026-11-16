@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794790391333,
+  "timestamp": 1794790454105,
   "matches": [
     {
       "matchId": 4672278,
@@ -229,11 +229,11 @@
       "matchEn": "Panama v Curacao",
       "matchAr": "بنما × كوراساو",
       "rawIsoTime": "2026-11-15T23:00:00+00:00",
-      "time": "2 - 0 (90+3')",
-      "rawMinute": 93,
+      "time": "2 - 0 (done)",
+      "rawMinute": 90,
       "homeGoals": 2,
       "awayGoals": 0,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4874702,
