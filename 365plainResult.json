@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794843853389,
+  "timestamp": 1794843934643,
   "matches": [
     {
       "matchId": 4672278,
@@ -9,8 +9,8 @@
       "matchEn": "Kazakhstan v Slovakia",
       "matchAr": "كازاخستان × سلوفاكيا",
       "rawIsoTime": "2026-11-16T15:00:00+00:00",
-      "time": "1 - 0 (44')",
-      "rawMinute": 44,
+      "time": "1 - 0 (45')",
+      "rawMinute": 45,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -23,8 +23,8 @@
       "matchEn": "Faroe Islands v Moldova",
       "matchAr": "جزر فارو × مولدوفا",
       "rawIsoTime": "2026-11-16T15:00:00+00:00",
-      "time": "1 - 0 (43')",
-      "rawMinute": 43,
+      "time": "1 - 0 (44')",
+      "rawMinute": 44,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -177,8 +177,8 @@
       "matchEn": "Zimbabwe v Equatorial Guinea",
       "matchAr": "زيمبابوي × غينيا الاستوائية",
       "rawIsoTime": "2026-11-16T14:00:00+00:00",
-      "time": "3 - 0 (81')",
-      "rawMinute": 81,
+      "time": "3 - 0 (82')",
+      "rawMinute": 82,
       "homeGoals": 3,
       "awayGoals": 0,
       "isLive": true
@@ -191,8 +191,8 @@
       "matchEn": "Somalia v Ghana",
       "matchAr": "الصومال × غانا",
       "rawIsoTime": "2026-11-16T15:00:00+00:00",
-      "time": "0 - 1 (42')",
-      "rawMinute": 42,
+      "time": "0 - 1 (43')",
+      "rawMinute": 44,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
