@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794864975313,
+  "timestamp": 1794865031317,
   "matches": [
     {
       "matchId": 4672278,
@@ -100,6 +100,20 @@
       "isLive": false
     },
     {
+      "matchId": 4697791,
+      "competitionId": "7016",
+      "tournamentEn": "🛡️ UEFA Nations League",
+      "tournamentAr": "🛡️ دوري الأمم الأوروبية",
+      "matchEn": "Gibraltar v Malta",
+      "matchAr": "جبل طارق × مالطا",
+      "rawIsoTime": "2026-11-16T19:45:00+00:00",
+      "time": "1 - 1 (done)",
+      "rawMinute": 90,
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "isLive": false
+    },
+    {
       "matchId": 4672273,
       "competitionId": "7016",
       "tournamentEn": "🛡️ UEFA Nations League",
@@ -107,8 +121,8 @@
       "matchEn": "Switzerland v Scotland",
       "matchAr": "سويسرا × اسكتلندا",
       "rawIsoTime": "2026-11-16T19:45:00+00:00",
-      "time": "4 - 0 (90')",
-      "rawMinute": 90,
+      "time": "4 - 0 (90+1')",
+      "rawMinute": 91,
       "homeGoals": 4,
       "awayGoals": 0,
       "isLive": true
@@ -121,24 +135,10 @@
       "matchEn": "Greece v Serbia",
       "matchAr": "اليونان × صربيا",
       "rawIsoTime": "2026-11-16T19:45:00+00:00",
-      "time": "1 - 0 (90+2')",
-      "rawMinute": 92,
+      "time": "1 - 0 (90+3')",
+      "rawMinute": 93,
       "homeGoals": 1,
       "awayGoals": 0,
-      "isLive": true
-    },
-    {
-      "matchId": 4697791,
-      "competitionId": "7016",
-      "tournamentEn": "🛡️ UEFA Nations League",
-      "tournamentAr": "🛡️ دوري الأمم الأوروبية",
-      "matchEn": "Gibraltar v Malta",
-      "matchAr": "جبل طارق × مالطا",
-      "rawIsoTime": "2026-11-16T19:45:00+00:00",
-      "time": "1 - 1 (90+4')",
-      "rawMinute": 94,
-      "homeGoals": 1,
-      "awayGoals": 1,
       "isLive": true
     },
     {
