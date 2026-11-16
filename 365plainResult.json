@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794856031750,
+  "timestamp": 1794856094787,
   "matches": [
     {
       "matchId": 4672278,
@@ -233,8 +233,8 @@
       "matchEn": "Andorra v Azerbaijan",
       "matchAr": "أندورا × أذربيجان",
       "rawIsoTime": "2026-11-16T18:00:00+00:00",
-      "time": "0 - 2 (51')",
-      "rawMinute": 51,
+      "time": "0 - 2 (52')",
+      "rawMinute": 52,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -247,8 +247,8 @@
       "matchEn": "Cuba v Grenada",
       "matchAr": "كوبا × غرينادا",
       "rawIsoTime": "2026-11-16T19:00:00+00:00",
-      "time": "1 - 0 (7')",
-      "rawMinute": 7,
+      "time": "1 - 0 (8')",
+      "rawMinute": 8,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -261,9 +261,9 @@
       "matchEn": "Guadeloupe v Bermuda",
       "matchAr": "غوادلوب × برمودا",
       "rawIsoTime": "2026-11-16T19:00:00+00:00",
-      "time": "0 - 0 (7')",
-      "rawMinute": 7,
-      "homeGoals": 0,
+      "time": "1 - 0 (8')",
+      "rawMinute": 8,
+      "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
     },
@@ -275,8 +275,8 @@
       "matchEn": "Guyana v Puerto Rico",
       "matchAr": "غيانا × بورتوريكو",
       "rawIsoTime": "2026-11-16T19:00:00+00:00",
-      "time": "0 - 0 (7')",
-      "rawMinute": 7,
+      "time": "0 - 0 (8')",
+      "rawMinute": 8,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
