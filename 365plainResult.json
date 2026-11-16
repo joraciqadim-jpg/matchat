@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794790454105,
+  "timestamp": 1794834065522,
   "matches": [
     {
       "matchId": 4672278,
@@ -132,19 +132,6 @@
       "isLive": false
     },
     {
-      "matchId": 4883941,
-      "tournamentEn": "🏆 Africa Cup of Nations Qualification",
-      "tournamentAr": "🏆 تصفيات كأس أمم أفريقيا",
-      "matchEn": "Zimbabwe v Equatorial Guinea",
-      "matchAr": "زيمبابوي × غينيا الاستوائية",
-      "rawIsoTime": "2026-11-16T13:00:00+00:00",
-      "time": "13:00",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
-    },
-    {
       "matchId": 4883942,
       "tournamentEn": "🏆 Africa Cup of Nations Qualification",
       "tournamentAr": "🏆 تصفيات كأس أمم أفريقيا",
@@ -165,6 +152,19 @@
       "matchAr": "ناميبيا × الكاميرون",
       "rawIsoTime": "2026-11-16T13:00:00+00:00",
       "time": "13:00",
+      "rawMinute": 1,
+      "homeGoals": -1,
+      "awayGoals": -1,
+      "isLive": false
+    },
+    {
+      "matchId": 4883941,
+      "tournamentEn": "🏆 Africa Cup of Nations Qualification",
+      "tournamentAr": "🏆 تصفيات كأس أمم أفريقيا",
+      "matchEn": "Zimbabwe v Equatorial Guinea",
+      "matchAr": "زيمبابوي × غينيا الاستوائية",
+      "rawIsoTime": "2026-11-16T13:30:00+00:00",
+      "time": "13:30",
       "rawMinute": 1,
       "homeGoals": -1,
       "awayGoals": -1,
@@ -220,19 +220,6 @@
       "rawMinute": 1,
       "homeGoals": -1,
       "awayGoals": -1,
-      "isLive": false
-    },
-    {
-      "matchId": 4874705,
-      "tournamentEn": "🛡️ CONCACAF Nations League",
-      "tournamentAr": "🛡️ دوري أمم الكونكاكاف",
-      "matchEn": "Panama v Curacao",
-      "matchAr": "بنما × كوراساو",
-      "rawIsoTime": "2026-11-15T23:00:00+00:00",
-      "time": "2 - 0 (done)",
-      "rawMinute": 90,
-      "homeGoals": 2,
-      "awayGoals": 0,
       "isLive": false
     },
     {
