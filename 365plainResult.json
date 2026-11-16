@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794854174387,
+  "timestamp": 1794854230509,
   "matches": [
     {
       "matchId": 4672278,
@@ -38,7 +38,7 @@
       "matchAr": "ليتوانيا × ليختنشتاين",
       "rawIsoTime": "2026-11-16T17:00:00+00:00",
       "time": "2 - 1 (77')",
-      "rawMinute": 77,
+      "rawMinute": 78,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -51,8 +51,8 @@
       "matchEn": "Estonia v Bulgaria",
       "matchAr": "إستونيا × بلغاريا",
       "rawIsoTime": "2026-11-16T17:00:00+00:00",
-      "time": "2 - 1 (79')",
-      "rawMinute": 79,
+      "time": "2 - 1 (80')",
+      "rawMinute": 80,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -65,8 +65,8 @@
       "matchEn": "Iceland v Luxembourg",
       "matchAr": "آيسلندا × لوكسمبورغ",
       "rawIsoTime": "2026-11-16T17:00:00+00:00",
-      "time": "3 - 0 (77')",
-      "rawMinute": 77,
+      "time": "3 - 0 (78')",
+      "rawMinute": 78,
       "homeGoals": 3,
       "awayGoals": 0,
       "isLive": true
@@ -233,8 +233,8 @@
       "matchEn": "Andorra v Azerbaijan",
       "matchAr": "أندورا × أذربيجان",
       "rawIsoTime": "2026-11-16T18:00:00+00:00",
-      "time": "0 - 1 (36')",
-      "rawMinute": 36,
+      "time": "0 - 1 (37')",
+      "rawMinute": 37,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
