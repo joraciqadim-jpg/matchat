@@ -1,20 +1,6 @@
 {
-  "timestamp": 1794847871028,
+  "timestamp": 1794847933378,
   "matches": [
-    {
-      "matchId": 4672278,
-      "competitionId": "7016",
-      "tournamentEn": "🛡️ UEFA Nations League",
-      "tournamentAr": "🛡️ دوري الأمم الأوروبية",
-      "matchEn": "Kazakhstan v Slovakia",
-      "matchAr": "كازاخستان × سلوفاكيا",
-      "rawIsoTime": "2026-11-16T15:00:00+00:00",
-      "time": "2 - 1 (90+5')",
-      "rawMinute": 95,
-      "homeGoals": 2,
-      "awayGoals": 1,
-      "isLive": true
-    },
     {
       "matchId": 4672279,
       "competitionId": "7016",
@@ -23,10 +9,24 @@
       "matchEn": "Faroe Islands v Moldova",
       "matchAr": "جزر فارو × مولدوفا",
       "rawIsoTime": "2026-11-16T15:00:00+00:00",
-      "time": "1 - 0 (90+3')",
-      "rawMinute": 93,
+      "time": "1 - 0 (done)",
+      "rawMinute": 90,
       "homeGoals": 1,
       "awayGoals": 0,
+      "isLive": false
+    },
+    {
+      "matchId": 4672278,
+      "competitionId": "7016",
+      "tournamentEn": "🛡️ UEFA Nations League",
+      "tournamentAr": "🛡️ دوري الأمم الأوروبية",
+      "matchEn": "Kazakhstan v Slovakia",
+      "matchAr": "كازاخستان × سلوفاكيا",
+      "rawIsoTime": "2026-11-16T15:00:00+00:00",
+      "time": "2 - 2 (90+6')",
+      "rawMinute": 96,
+      "homeGoals": 2,
+      "awayGoals": 2,
       "isLive": true
     },
     {
@@ -191,8 +191,8 @@
       "matchEn": "Somalia v Ghana",
       "matchAr": "الصومال × غانا",
       "rawIsoTime": "2026-11-16T15:00:00+00:00",
-      "time": "0 - 1 (90')",
-      "rawMinute": 90,
+      "time": "0 - 1 (90+1')",
+      "rawMinute": 91,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
