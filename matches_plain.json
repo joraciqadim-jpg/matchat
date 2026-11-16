@@ -14,22 +14,20 @@
         "📺 Digi Sport 2 [Thor 0.8W 11823 H 30000]",
         "📺 MTV Max [Thor 0.8W 10841 H 25000]",
         "📺 Prima Sport 1 [Thor 0.8W 11900 H 28000]",
-        "📺 Sport 1 [Eutelsat 9.0E 11861 H 27500]",
         "📺 Diema Sport [Hotbird 13.0E 12673 V 30000]",
         "📺 Nova Sports Start [Hotbird 13.0E 11804 V 30000]",
         "📺 Sport 1 CZE [Eutelsat 16.0E 11055 V 27500]",
         "📺 Sport Klub 1 HRV [Eutelsat 16.0E 11471 H 30000]",
         "📺 Sport Klub 1 SLO [Eutelsat 16.0E 11471 H 30000]",
-        "📺 Sport 1 [Astra 19.2E 10803 H 22000]",
         "📺 Sport 1 CZE [Astra 23.5E 12070 H 27500]",
         "📺 Megogo Sport [Astra 23.5E 12285 V 30000]",
         "📺 Ziggo Sport [Astra 23.5E 12129 V 29900]",
-        "📺 Ziggo Sport 2 [Astra 23.5E 12129 V 29900]",
         "📺 Bein Sport 5 [Badrsat 26.0E 10810 H 27500]",
         "📺 SuperSport Máximo 1 [Eutelsat 36.0E 12169 H 27500]",
         "📺 SuperSport Máximo 2 [Eutelsat 36.0E 12169 H 27500]",
         "📺 SuperSport Premier League [Eutelsat 36.0E 12169 H 27500]",
         "📺 Prima Sport 1 [Hellas-Sat 39.0E 12290 V 30000]",
+        "📺 Persiana Sports 1 [Al-Yah 52.5E 11343 H 27500]",
         "📺 QazSport [KazSat 58.5E 12657 V 45000]"
       ]
     },
@@ -47,7 +45,6 @@
         "📺 Digi Sport 1 [Thor 0.8W 11823 H 30000]",
         "📺 Prima Sport 1 [Thor 0.8W 11900 H 28000]",
         "📺 Spiler TV 2 [Thor 0.8W 11727 V 28000]",
-        "📺 Sport 1 [Eutelsat 9.0E 11861 H 27500]",
         "📺 Diema Sport 3 [Hotbird 13.0E 12673 V 30000]",
         "📺 L'Équipe [Hotbird 13.0E 10892 H 27500]",
         "📺 Nova Sports Prime [Hotbird 13.0E 11804 V 30000]",
@@ -59,16 +56,19 @@
         "📺 Super Sport 2 [Eutelsat 16.0E 10845 H 30000]",
         "📺 L'Équipe [Astra 19.2E 11895 V 29700]",
         "📺 Das Erste [Astra 19.2E 11494 H 22000]",
-        "📺 Sport 1 [Astra 19.2E 10803 H 22000]",
         "📺 Sport 1 CZE [Astra 23.5E 12070 H 27500]",
         "📺 Bein Sport 1 [Badrsat 26.0E 10810 H 27500]",
+        "📺 IRIB Varzesh [Badrsat 26.0E 11881 H 27500]",
         "📺 Virgin Media Two [Astra 28.2E 12226 H 27500]",
         "📺 SuperSport Máximo 1 [Eutelsat 36.0E 12169 H 27500]",
         "📺 SuperSport Máximo 2 [Eutelsat 36.0E 12169 H 27500]",
         "📺 SuperSport Premier League [Eutelsat 36.0E 12169 H 27500]",
         "📺 Prima Sport 1 [Hellas-Sat 39.0E 12290 V 30000]",
+        "📺 IRIB Varzesh [Eutelsat 40.0E 11640 H 30000]",
         "📺 A Haber ( HBR ) HD [Turksat 42.0E 12207 H 27500]",
-        "📺 QazSport [KazSat 58.5E 12657 V 45000]"
+        "📺 Persiana Sports 1 [Al-Yah 52.5E 11343 H 27500]",
+        "📺 QazSport [KazSat 58.5E 12657 V 45000]",
+        "📺 IRIB Varzesh [Thaicom 78.5E 11640 H 30000]"
       ]
     },
     {
@@ -89,7 +89,6 @@
         "📺 Diema Sport 2 [Hotbird 13.0E 12673 V 30000]",
         "📺 Nova Sports Start [Hotbird 13.0E 11804 V 30000]",
         "📺 Polsat Sport Premium 1 [Hotbird 13.0E 11117 V 27500]",
-        "📺 Sky Sport Calcio [Hotbird 13.0E 11958 V 27500]",
         "📺 Arena Premium 1 SRB [Eutelsat 16.0E 11366 V 30000]",
         "📺 RTS 1 SRB [Eutelsat 16.0E 11554 H 30000]",
         "📺 Sport 2 CZE [Eutelsat 16.0E 11094 V 27500]",
@@ -102,7 +101,8 @@
         "📺 Bein Sport 4 [Badrsat 26.0E 11390 V 27500]",
         "📺 SuperSport Máximo 360 [Eutelsat 36.0E 12380 V 27500]",
         "📺 Prima Sport 2 [Hellas-Sat 39.0E 12290 V 30000]",
-        "📺 A Spor [Turksat 42.0E 12054 H 27500]"
+        "📺 A Spor [Turksat 42.0E 12054 H 27500]",
+        "📺 Persiana Sports 2 [Al-Yah 52.5E 11343 H 27500]"
       ]
     },
     {
@@ -140,7 +140,6 @@
         "📺 Digi Sport 4 [Thor 0.8W 12687 H 27500]",
         "📺 MTV Max [Thor 0.8W 10841 H 25000]",
         "📺 Diema Sport [Hotbird 13.0E 12673 V 30000]",
-        "📺 Diema Sport 3 [Hotbird 13.0E 12673 V 30000]",
         "📺 Nova Sports 2 [Hotbird 13.0E 12130 H 30000]",
         "📺 Polsat Sport Premium 2 [Hotbird 13.0E 11117 V 27500]",
         "📺 RSI La 2 [Hotbird 13.0E 10971 H 29700]",
@@ -154,7 +153,8 @@
         "📺 BBC Two [Astra 28.2E 10847 V 23000]",
         "📺 SuperSport Football [Eutelsat 36.0E 12341 V 27500]",
         "📺 SuperSport Máximo 3 [Eutelsat 36.0E 12169 H 27500]",
-        "📺 Prima Sport 3 [Hellas-Sat 39.0E 12251 V 30000]"
+        "📺 Prima Sport 3 [Hellas-Sat 39.0E 12251 V 30000]",
+        "📺 Persiana Sports 3 [Al-Yah 52.5E 11343 H 27500]"
       ]
     },
     {
@@ -176,9 +176,11 @@
       "matchAr": "ناميبيا × الكاميرون",
       "time": "13:00",
       "channels": [
+        "📺 CRTV Sports HD [Eutelsat 8.0W 3832 L 7585]",
         "📺 Bein Sport 2 [Nilesat 7.0W 11013 H 27500]",
         "📺 DAZN 1 GER [Astra 19.2E 12382 H 27500]",
-        "📺 Bein Sport 2 [Badrsat 26.0E 10810 H 27500]"
+        "📺 Bein Sport 2 [Badrsat 26.0E 10810 H 27500]",
+        "📺 Persiana Sports 1 [Al-Yah 52.5E 11343 H 27500]"
       ]
     },
     {
@@ -189,8 +191,10 @@
       "time": "13:00",
       "channels": [
         "📺 Bein Sport 1 [Nilesat 7.0W 11013 H 27500]",
+        "📺 Solo Calcio [Hotbird 13.0E 11179 H 27500]",
         "📺 DAZN 2 GER [Astra 19.2E 12382 H 27500]",
-        "📺 Bein Sport 1 [Badrsat 26.0E 10810 H 27500]"
+        "📺 Bein Sport 1 [Badrsat 26.0E 10810 H 27500]",
+        "📺 BeIn Sports French 1 [Badrsat 26.0E 11390 V 27500]"
       ]
     },
     {
@@ -202,6 +206,7 @@
       "channels": [
         "📺 Bein Sport 4 [Nilesat 7.0W 11054 H 27500]",
         "📺 5 Sport [Amos 4.0W 11259 V 30000]",
+        "📺 Solo Calcio [Hotbird 13.0E 11179 H 27500]",
         "📺 DAZN 2 GER [Astra 19.2E 12382 H 27500]",
         "📺 Bein Sport 4 [Badrsat 26.0E 11390 V 27500]"
       ]
