@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794844390467,
+  "timestamp": 1794844453646,
   "matches": [
     {
       "matchId": 4672278,
@@ -177,8 +177,8 @@
       "matchEn": "Zimbabwe v Equatorial Guinea",
       "matchAr": "زيمبابوي × غينيا الاستوائية",
       "rawIsoTime": "2026-11-16T14:00:00+00:00",
-      "time": "3 - 0 (90')",
-      "rawMinute": 90,
+      "time": "3 - 0 (90+1')",
+      "rawMinute": 91,
       "homeGoals": 3,
       "awayGoals": 0,
       "isLive": true
