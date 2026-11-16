@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794846071472,
+  "timestamp": 1794846134558,
   "matches": [
     {
       "matchId": 4672278,
@@ -9,9 +9,9 @@
       "matchEn": "Kazakhstan v Slovakia",
       "matchAr": "كازاخستان × سلوفاكيا",
       "rawIsoTime": "2026-11-16T15:00:00+00:00",
-      "time": "1 - 1 (65')",
-      "rawMinute": 65,
-      "homeGoals": 1,
+      "time": "2 - 1 (66')",
+      "rawMinute": 66,
+      "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
     },
@@ -23,8 +23,8 @@
       "matchEn": "Faroe Islands v Moldova",
       "matchAr": "جزر فارو × مولدوفا",
       "rawIsoTime": "2026-11-16T15:00:00+00:00",
-      "time": "1 - 0 (63')",
-      "rawMinute": 63,
+      "time": "1 - 0 (64')",
+      "rawMinute": 64,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -191,8 +191,8 @@
       "matchEn": "Somalia v Ghana",
       "matchAr": "الصومال × غانا",
       "rawIsoTime": "2026-11-16T15:00:00+00:00",
-      "time": "0 - 1 (60')",
-      "rawMinute": 60,
+      "time": "0 - 1 (61')",
+      "rawMinute": 61,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -206,7 +206,7 @@
       "matchAr": "إريتريا × غينيا",
       "rawIsoTime": "2026-11-16T16:00:00+00:00",
       "time": "0 - 0 (21')",
-      "rawMinute": 21,
+      "rawMinute": 22,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -219,8 +219,8 @@
       "matchEn": "Central African Republic v Benin",
       "matchAr": "جمهورية أفريقيا الوسطى × بنين",
       "rawIsoTime": "2026-11-16T16:00:00+00:00",
-      "time": "0 - 0 (19')",
-      "rawMinute": 19,
+      "time": "0 - 0 (20')",
+      "rawMinute": 20,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
