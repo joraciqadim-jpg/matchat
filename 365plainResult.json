@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794861734864,
+  "timestamp": 1794861790534,
   "matches": [
     {
       "matchId": 4672278,
@@ -247,9 +247,9 @@
       "matchEn": "Cuba v Grenada",
       "matchAr": "كوبا × غرينادا",
       "rawIsoTime": "2026-11-16T19:00:00+00:00",
-      "time": "8 - 0 (87')",
-      "rawMinute": 87,
-      "homeGoals": 8,
+      "time": "9 - 0 (88')",
+      "rawMinute": 88,
+      "homeGoals": 9,
       "awayGoals": 0,
       "isLive": true
     },
@@ -261,8 +261,8 @@
       "matchEn": "Guadeloupe v Bermuda",
       "matchAr": "غوادلوب × برمودا",
       "rawIsoTime": "2026-11-16T19:00:00+00:00",
-      "time": "2 - 1 (84')",
-      "rawMinute": 84,
+      "time": "2 - 1 (85')",
+      "rawMinute": 85,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
