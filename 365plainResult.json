@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794840973807,
+  "timestamp": 1794841030842,
   "matches": [
     {
       "matchId": 4672278,
@@ -142,20 +142,6 @@
       "isLive": false
     },
     {
-      "matchId": 4883942,
-      "competitionId": "588",
-      "tournamentEn": "🏆 Africa Cup of Nations Qualification",
-      "tournamentAr": "🏆 تصفيات كأس أمم أفريقيا",
-      "matchEn": "Sudan v Senegal",
-      "matchAr": "السودان × السنغال",
-      "rawIsoTime": "2026-11-16T13:00:00+00:00",
-      "time": "2 - 3 (88')",
-      "rawMinute": 88,
-      "homeGoals": 2,
-      "awayGoals": 3,
-      "isLive": true
-    },
-    {
       "matchId": 4883943,
       "competitionId": "588",
       "tournamentEn": "🏆 Africa Cup of Nations Qualification",
@@ -163,9 +149,23 @@
       "matchEn": "Namibia v Cameroon",
       "matchAr": "ناميبيا × الكاميرون",
       "rawIsoTime": "2026-11-16T13:00:00+00:00",
-      "time": "0 - 3 (90+3')",
-      "rawMinute": 93,
+      "time": "0 - 3 (done)",
+      "rawMinute": 90,
       "homeGoals": 0,
+      "awayGoals": 3,
+      "isLive": false
+    },
+    {
+      "matchId": 4883942,
+      "competitionId": "588",
+      "tournamentEn": "🏆 Africa Cup of Nations Qualification",
+      "tournamentAr": "🏆 تصفيات كأس أمم أفريقيا",
+      "matchEn": "Sudan v Senegal",
+      "matchAr": "السودان × السنغال",
+      "rawIsoTime": "2026-11-16T13:00:00+00:00",
+      "time": "2 - 3 (89')",
+      "rawMinute": 89,
+      "homeGoals": 2,
       "awayGoals": 3,
       "isLive": true
     },
