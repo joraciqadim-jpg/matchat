@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794851950391,
+  "timestamp": 1794852066192,
   "matches": [
     {
       "matchId": 4672278,
@@ -233,11 +233,11 @@
       "matchEn": "Andorra v Azerbaijan",
       "matchAr": "أندورا × أذربيجان",
       "rawIsoTime": "2026-11-16T18:00:00+00:00",
-      "time": "18:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4874702,
