@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794834065522,
+  "timestamp": 1794835855248,
   "matches": [
     {
       "matchId": 4672278,
@@ -138,11 +138,11 @@
       "matchEn": "Sudan v Senegal",
       "matchAr": "السودان × السنغال",
       "rawIsoTime": "2026-11-16T13:00:00+00:00",
-      "time": "13:00",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "time": "0 - 2 (25')",
+      "rawMinute": 25,
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "isLive": true
     },
     {
       "matchId": 4883943,
@@ -151,11 +151,11 @@
       "matchEn": "Namibia v Cameroon",
       "matchAr": "ناميبيا × الكاميرون",
       "rawIsoTime": "2026-11-16T13:00:00+00:00",
-      "time": "13:00",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "time": "0 - 1 (30')",
+      "rawMinute": 30,
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "isLive": true
     },
     {
       "matchId": 4883941,
@@ -163,8 +163,8 @@
       "tournamentAr": "🏆 تصفيات كأس أمم أفريقيا",
       "matchEn": "Zimbabwe v Equatorial Guinea",
       "matchAr": "زيمبابوي × غينيا الاستوائية",
-      "rawIsoTime": "2026-11-16T13:30:00+00:00",
-      "time": "13:30",
+      "rawIsoTime": "2026-11-16T14:00:00+00:00",
+      "time": "14:00",
       "rawMinute": 1,
       "homeGoals": -1,
       "awayGoals": -1,
