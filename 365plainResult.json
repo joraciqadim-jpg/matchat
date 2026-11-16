@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794841150626,
+  "timestamp": 1794841271441,
   "matches": [
     {
       "matchId": 4672278,
@@ -9,11 +9,11 @@
       "matchEn": "Kazakhstan v Slovakia",
       "matchAr": "كازاخستان × سلوفاكيا",
       "rawIsoTime": "2026-11-16T15:00:00+00:00",
-      "time": "15:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4672279,
@@ -163,8 +163,8 @@
       "matchEn": "Sudan v Senegal",
       "matchAr": "السودان × السنغال",
       "rawIsoTime": "2026-11-16T13:00:00+00:00",
-      "time": "2 - 4 (90+1')",
-      "rawMinute": 91,
+      "time": "2 - 4 (90+3')",
+      "rawMinute": 93,
       "homeGoals": 2,
       "awayGoals": 4,
       "isLive": true
