@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794863294932,
+  "timestamp": 1794863351043,
   "matches": [
     {
       "matchId": 4672278,
@@ -79,10 +79,10 @@
       "matchEn": "North Macedonia v Slovenia",
       "matchAr": "مقدونيا الشمالية × سلوفينيا",
       "rawIsoTime": "2026-11-16T19:45:00+00:00",
-      "time": "0 - 1 (66')",
-      "rawMinute": 66,
+      "time": "0 - 2 (67')",
+      "rawMinute": 67,
       "homeGoals": 0,
-      "awayGoals": 1,
+      "awayGoals": 2,
       "isLive": true
     },
     {
@@ -93,8 +93,8 @@
       "matchEn": "Switzerland v Scotland",
       "matchAr": "سويسرا × اسكتلندا",
       "rawIsoTime": "2026-11-16T19:45:00+00:00",
-      "time": "3 - 0 (62')",
-      "rawMinute": 62,
+      "time": "3 - 0 (63')",
+      "rawMinute": 63,
       "homeGoals": 3,
       "awayGoals": 0,
       "isLive": true
@@ -108,7 +108,7 @@
       "matchAr": "اليونان × صربيا",
       "rawIsoTime": "2026-11-16T19:45:00+00:00",
       "time": "0 - 0 (64')",
-      "rawMinute": 64,
+      "rawMinute": 65,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -121,8 +121,8 @@
       "matchEn": "Germany v Netherlands",
       "matchAr": "ألمانيا × هولندا",
       "rawIsoTime": "2026-11-16T19:45:00+00:00",
-      "time": "3 - 0 (66')",
-      "rawMinute": 66,
+      "time": "3 - 0 (67')",
+      "rawMinute": 67,
       "homeGoals": 3,
       "awayGoals": 0,
       "isLive": true
@@ -135,8 +135,8 @@
       "matchEn": "Gibraltar v Malta",
       "matchAr": "جبل طارق × مالطا",
       "rawIsoTime": "2026-11-16T19:45:00+00:00",
-      "time": "0 - 1 (66')",
-      "rawMinute": 66,
+      "time": "0 - 1 (67')",
+      "rawMinute": 67,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
