@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794855032431,
+  "timestamp": 1794855071258,
   "matches": [
     {
       "matchId": 4672278,
@@ -30,20 +30,6 @@
       "isLive": false
     },
     {
-      "matchId": 4672276,
-      "competitionId": "7016",
-      "tournamentEn": "🛡️ UEFA Nations League",
-      "tournamentAr": "🛡️ دوري الأمم الأوروبية",
-      "matchEn": "Lithuania v Liechtenstein",
-      "matchAr": "ليتوانيا × ليختنشتاين",
-      "rawIsoTime": "2026-11-16T17:00:00+00:00",
-      "time": "2 - 1 (90+1')",
-      "rawMinute": 91,
-      "homeGoals": 2,
-      "awayGoals": 1,
-      "isLive": true
-    },
-    {
       "matchId": 4672277,
       "competitionId": "7016",
       "tournamentEn": "🛡️ UEFA Nations League",
@@ -51,11 +37,11 @@
       "matchEn": "Estonia v Bulgaria",
       "matchAr": "إستونيا × بلغاريا",
       "rawIsoTime": "2026-11-16T17:00:00+00:00",
-      "time": "2 - 1 (90+3')",
-      "rawMinute": 93,
+      "time": "2 - 1 (done)",
+      "rawMinute": 90,
       "homeGoals": 2,
       "awayGoals": 1,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4697792,
@@ -65,10 +51,24 @@
       "matchEn": "Iceland v Luxembourg",
       "matchAr": "آيسلندا × لوكسمبورغ",
       "rawIsoTime": "2026-11-16T17:00:00+00:00",
-      "time": "3 - 0 (90+1')",
-      "rawMinute": 91,
+      "time": "3 - 0 (done)",
+      "rawMinute": 90,
       "homeGoals": 3,
       "awayGoals": 0,
+      "isLive": false
+    },
+    {
+      "matchId": 4672276,
+      "competitionId": "7016",
+      "tournamentEn": "🛡️ UEFA Nations League",
+      "tournamentAr": "🛡️ دوري الأمم الأوروبية",
+      "matchEn": "Lithuania v Liechtenstein",
+      "matchAr": "ليتوانيا × ليختنشتاين",
+      "rawIsoTime": "2026-11-16T17:00:00+00:00",
+      "time": "2 - 1 (90+1')",
+      "rawMinute": 92,
+      "homeGoals": 2,
+      "awayGoals": 1,
       "isLive": true
     },
     {
