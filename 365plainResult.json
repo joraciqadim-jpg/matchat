@@ -1,8 +1,9 @@
 {
-  "timestamp": 1794839773889,
+  "timestamp": 1794839831003,
   "matches": [
     {
       "matchId": 4672278,
+      "competitionId": "7016",
       "tournamentEn": "🛡️ UEFA Nations League",
       "tournamentAr": "🛡️ دوري الأمم الأوروبية",
       "matchEn": "Kazakhstan v Slovakia",
@@ -16,6 +17,7 @@
     },
     {
       "matchId": 4672279,
+      "competitionId": "7016",
       "tournamentEn": "🛡️ UEFA Nations League",
       "tournamentAr": "🛡️ دوري الأمم الأوروبية",
       "matchEn": "Faroe Islands v Moldova",
@@ -29,6 +31,7 @@
     },
     {
       "matchId": 4672276,
+      "competitionId": "7016",
       "tournamentEn": "🛡️ UEFA Nations League",
       "tournamentAr": "🛡️ دوري الأمم الأوروبية",
       "matchEn": "Lithuania v Liechtenstein",
@@ -42,6 +45,7 @@
     },
     {
       "matchId": 4672277,
+      "competitionId": "7016",
       "tournamentEn": "🛡️ UEFA Nations League",
       "tournamentAr": "🛡️ دوري الأمم الأوروبية",
       "matchEn": "Estonia v Bulgaria",
@@ -55,6 +59,7 @@
     },
     {
       "matchId": 4697792,
+      "competitionId": "7016",
       "tournamentEn": "🛡️ UEFA Nations League",
       "tournamentAr": "🛡️ دوري الأمم الأوروبية",
       "matchEn": "Iceland v Luxembourg",
@@ -68,6 +73,7 @@
     },
     {
       "matchId": 4672272,
+      "competitionId": "7016",
       "tournamentEn": "🛡️ UEFA Nations League",
       "tournamentAr": "🛡️ دوري الأمم الأوروبية",
       "matchEn": "North Macedonia v Slovenia",
@@ -81,6 +87,7 @@
     },
     {
       "matchId": 4672273,
+      "competitionId": "7016",
       "tournamentEn": "🛡️ UEFA Nations League",
       "tournamentAr": "🛡️ دوري الأمم الأوروبية",
       "matchEn": "Switzerland v Scotland",
@@ -94,6 +101,7 @@
     },
     {
       "matchId": 4672274,
+      "competitionId": "7016",
       "tournamentEn": "🛡️ UEFA Nations League",
       "tournamentAr": "🛡️ دوري الأمم الأوروبية",
       "matchEn": "Greece v Serbia",
@@ -107,6 +115,7 @@
     },
     {
       "matchId": 4672275,
+      "competitionId": "7016",
       "tournamentEn": "🛡️ UEFA Nations League",
       "tournamentAr": "🛡️ دوري الأمم الأوروبية",
       "matchEn": "Germany v Netherlands",
@@ -120,6 +129,7 @@
     },
     {
       "matchId": 4697791,
+      "competitionId": "7016",
       "tournamentEn": "🛡️ UEFA Nations League",
       "tournamentAr": "🛡️ دوري الأمم الأوروبية",
       "matchEn": "Gibraltar v Malta",
@@ -133,38 +143,41 @@
     },
     {
       "matchId": 4883942,
+      "competitionId": "588",
       "tournamentEn": "🏆 Africa Cup of Nations Qualification",
       "tournamentAr": "🏆 تصفيات كأس أمم أفريقيا",
       "matchEn": "Sudan v Senegal",
       "matchAr": "السودان × السنغال",
       "rawIsoTime": "2026-11-16T13:00:00+00:00",
-      "time": "1 - 2 (68')",
-      "rawMinute": 68,
+      "time": "1 - 2 (69')",
+      "rawMinute": 69,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
     },
     {
       "matchId": 4883943,
+      "competitionId": "588",
       "tournamentEn": "🏆 Africa Cup of Nations Qualification",
       "tournamentAr": "🏆 تصفيات كأس أمم أفريقيا",
       "matchEn": "Namibia v Cameroon",
       "matchAr": "ناميبيا × الكاميرون",
       "rawIsoTime": "2026-11-16T13:00:00+00:00",
-      "time": "0 - 3 (73')",
-      "rawMinute": 73,
+      "time": "0 - 3 (74')",
+      "rawMinute": 74,
       "homeGoals": 0,
       "awayGoals": 3,
       "isLive": true
     },
     {
       "matchId": 4883941,
+      "competitionId": "588",
       "tournamentEn": "🏆 Africa Cup of Nations Qualification",
       "tournamentAr": "🏆 تصفيات كأس أمم أفريقيا",
       "matchEn": "Zimbabwe v Equatorial Guinea",
       "matchAr": "زيمبابوي × غينيا الاستوائية",
       "rawIsoTime": "2026-11-16T14:00:00+00:00",
-      "time": "1 - 0 (33')",
+      "time": "1 - 0 (34')",
       "rawMinute": 34,
       "homeGoals": 1,
       "awayGoals": 0,
@@ -172,6 +185,7 @@
     },
     {
       "matchId": 4883944,
+      "competitionId": "588",
       "tournamentEn": "🏆 Africa Cup of Nations Qualification",
       "tournamentAr": "🏆 تصفيات كأس أمم أفريقيا",
       "matchEn": "Somalia v Ghana",
@@ -185,6 +199,7 @@
     },
     {
       "matchId": 4883945,
+      "competitionId": "588",
       "tournamentEn": "🏆 Africa Cup of Nations Qualification",
       "tournamentAr": "🏆 تصفيات كأس أمم أفريقيا",
       "matchEn": "Eritrea v Guinea",
@@ -198,6 +213,7 @@
     },
     {
       "matchId": 4883946,
+      "competitionId": "588",
       "tournamentEn": "🏆 Africa Cup of Nations Qualification",
       "tournamentAr": "🏆 تصفيات كأس أمم أفريقيا",
       "matchEn": "Central African Republic v Benin",
@@ -211,6 +227,7 @@
     },
     {
       "matchId": 4870471,
+      "competitionId": "570",
       "tournamentEn": "✨ Friendly International",
       "tournamentAr": "✨ مباريات ودية",
       "matchEn": "Andorra v Azerbaijan",
@@ -224,6 +241,7 @@
     },
     {
       "matchId": 4874702,
+      "competitionId": "7165",
       "tournamentEn": "🛡️ CONCACAF Nations League",
       "tournamentAr": "🛡️ دوري أمم الكونكاكاف",
       "matchEn": "Cuba v Grenada",
@@ -237,6 +255,7 @@
     },
     {
       "matchId": 4874703,
+      "competitionId": "7165",
       "tournamentEn": "🛡️ CONCACAF Nations League",
       "tournamentAr": "🛡️ دوري أمم الكونكاكاف",
       "matchEn": "Guadeloupe v Bermuda",
@@ -250,6 +269,7 @@
     },
     {
       "matchId": 4874704,
+      "competitionId": "7165",
       "tournamentEn": "🛡️ CONCACAF Nations League",
       "tournamentAr": "🛡️ دوري أمم الكونكاكاف",
       "matchEn": "Guyana v Puerto Rico",
