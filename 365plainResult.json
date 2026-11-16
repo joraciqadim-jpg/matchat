@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794848722622,
+  "timestamp": 1794848774042,
   "matches": [
     {
       "matchId": 4672278,
@@ -37,8 +37,8 @@
       "matchEn": "Lithuania v Liechtenstein",
       "matchAr": "ليتوانيا × ليختنشتاين",
       "rawIsoTime": "2026-11-16T17:00:00+00:00",
-      "time": "0 - 0 (6')",
-      "rawMinute": 6,
+      "time": "0 - 0 (7')",
+      "rawMinute": 7,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -52,7 +52,7 @@
       "matchAr": "إستونيا × بلغاريا",
       "rawIsoTime": "2026-11-16T17:00:00+00:00",
       "time": "0 - 0 (5')",
-      "rawMinute": 5,
+      "rawMinute": 6,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -66,7 +66,7 @@
       "matchAr": "آيسلندا × لوكسمبورغ",
       "rawIsoTime": "2026-11-16T17:00:00+00:00",
       "time": "0 - 0 (4')",
-      "rawMinute": 4,
+      "rawMinute": 5,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
