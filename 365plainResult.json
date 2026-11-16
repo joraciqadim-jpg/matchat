@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794844150458,
+  "timestamp": 1794844230969,
   "matches": [
     {
       "matchId": 4672278,
@@ -177,8 +177,8 @@
       "matchEn": "Zimbabwe v Equatorial Guinea",
       "matchAr": "زيمبابوي × غينيا الاستوائية",
       "rawIsoTime": "2026-11-16T14:00:00+00:00",
-      "time": "3 - 0 (86')",
-      "rawMinute": 86,
+      "time": "3 - 0 (87')",
+      "rawMinute": 87,
       "homeGoals": 3,
       "awayGoals": 0,
       "isLive": true
@@ -191,8 +191,8 @@
       "matchEn": "Somalia v Ghana",
       "matchAr": "الصومال × غانا",
       "rawIsoTime": "2026-11-16T15:00:00+00:00",
-      "time": "0 - 1 (45+2')",
-      "rawMinute": 47,
+      "time": "0 - 1 (Halftime)",
+      "rawMinute": 45,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
