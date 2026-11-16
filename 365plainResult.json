@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794846654383,
+  "timestamp": 1794846671768,
   "matches": [
     {
       "matchId": 4672278,
@@ -9,7 +9,7 @@
       "matchEn": "Kazakhstan v Slovakia",
       "matchAr": "كازاخستان × سلوفاكيا",
       "rawIsoTime": "2026-11-16T15:00:00+00:00",
-      "time": "2 - 1 (74')",
+      "time": "2 - 1 (75')",
       "rawMinute": 75,
       "homeGoals": 2,
       "awayGoals": 1,
@@ -191,7 +191,7 @@
       "matchEn": "Somalia v Ghana",
       "matchAr": "الصومال × غانا",
       "rawIsoTime": "2026-11-16T15:00:00+00:00",
-      "time": "0 - 1 (69')",
+      "time": "0 - 1 (70')",
       "rawMinute": 70,
       "homeGoals": 0,
       "awayGoals": 1,
@@ -205,8 +205,8 @@
       "matchEn": "Eritrea v Guinea",
       "matchAr": "إريتريا × غينيا",
       "rawIsoTime": "2026-11-16T16:00:00+00:00",
-      "time": "0 - 1 (30')",
-      "rawMinute": 30,
+      "time": "0 - 1 (31')",
+      "rawMinute": 31,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
