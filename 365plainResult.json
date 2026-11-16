@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794864922333,
+  "timestamp": 1794864975313,
   "matches": [
     {
       "matchId": 4672278,
@@ -107,8 +107,8 @@
       "matchEn": "Switzerland v Scotland",
       "matchAr": "سويسرا × اسكتلندا",
       "rawIsoTime": "2026-11-16T19:45:00+00:00",
-      "time": "4 - 0 (89')",
-      "rawMinute": 89,
+      "time": "4 - 0 (90')",
+      "rawMinute": 90,
       "homeGoals": 4,
       "awayGoals": 0,
       "isLive": true
@@ -121,8 +121,8 @@
       "matchEn": "Greece v Serbia",
       "matchAr": "اليونان × صربيا",
       "rawIsoTime": "2026-11-16T19:45:00+00:00",
-      "time": "1 - 0 (90+1')",
-      "rawMinute": 91,
+      "time": "1 - 0 (90+2')",
+      "rawMinute": 92,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -135,8 +135,8 @@
       "matchEn": "Gibraltar v Malta",
       "matchAr": "جبل طارق × مالطا",
       "rawIsoTime": "2026-11-16T19:45:00+00:00",
-      "time": "1 - 1 (90+3')",
-      "rawMinute": 93,
+      "time": "1 - 1 (90+4')",
+      "rawMinute": 94,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
