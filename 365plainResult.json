@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794851654241,
+  "timestamp": 1794851721615,
   "matches": [
     {
       "matchId": 4672278,
@@ -205,8 +205,8 @@
       "matchEn": "Eritrea v Guinea",
       "matchAr": "إريتريا × غينيا",
       "rawIsoTime": "2026-11-16T16:00:00+00:00",
-      "time": "1 - 3 (90+3')",
-      "rawMinute": 93,
+      "time": "1 - 3 (90+4')",
+      "rawMinute": 94,
       "homeGoals": 1,
       "awayGoals": 3,
       "isLive": true
@@ -219,10 +219,10 @@
       "matchEn": "Central African Republic v Benin",
       "matchAr": "جمهورية أفريقيا الوسطى × بنين",
       "rawIsoTime": "2026-11-16T16:00:00+00:00",
-      "time": "0 - 0 (90+2')",
-      "rawMinute": 92,
+      "time": "0 - 1 (90+3')",
+      "rawMinute": 93,
       "homeGoals": 0,
-      "awayGoals": 0,
+      "awayGoals": 1,
       "isLive": true
     },
     {
