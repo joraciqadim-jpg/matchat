@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794852134096,
+  "timestamp": 1794852190968,
   "matches": [
     {
       "matchId": 4672278,
@@ -51,8 +51,8 @@
       "matchEn": "Estonia v Bulgaria",
       "matchAr": "إستونيا × بلغاريا",
       "rawIsoTime": "2026-11-16T17:00:00+00:00",
-      "time": "1 - 1 (Halftime)",
-      "rawMinute": 45,
+      "time": "1 - 1 (46')",
+      "rawMinute": 46,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -233,10 +233,10 @@
       "matchEn": "Andorra v Azerbaijan",
       "matchAr": "أندورا × أذربيجان",
       "rawIsoTime": "2026-11-16T18:00:00+00:00",
-      "time": "0 - 0 (2')",
-      "rawMinute": 2,
+      "time": "0 - 1 (3')",
+      "rawMinute": 3,
       "homeGoals": 0,
-      "awayGoals": 0,
+      "awayGoals": 1,
       "isLive": true
     },
     {
