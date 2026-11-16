@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794838871039,
+  "timestamp": 1794838934164,
   "matches": [
     {
       "matchId": 4672278,
@@ -138,8 +138,8 @@
       "matchEn": "Sudan v Senegal",
       "matchAr": "السودان × السنغال",
       "rawIsoTime": "2026-11-16T13:00:00+00:00",
-      "time": "1 - 2 (53')",
-      "rawMinute": 53,
+      "time": "1 - 2 (54')",
+      "rawMinute": 54,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -151,10 +151,10 @@
       "matchEn": "Namibia v Cameroon",
       "matchAr": "ناميبيا × الكاميرون",
       "rawIsoTime": "2026-11-16T13:00:00+00:00",
-      "time": "0 - 1 (58')",
-      "rawMinute": 58,
+      "time": "0 - 2 (59')",
+      "rawMinute": 59,
       "homeGoals": 0,
-      "awayGoals": 1,
+      "awayGoals": 2,
       "isLive": true
     },
     {
@@ -164,8 +164,8 @@
       "matchEn": "Zimbabwe v Equatorial Guinea",
       "matchAr": "زيمبابوي × غينيا الاستوائية",
       "rawIsoTime": "2026-11-16T14:00:00+00:00",
-      "time": "1 - 0 (18')",
-      "rawMinute": 18,
+      "time": "1 - 0 (19')",
+      "rawMinute": 20,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
