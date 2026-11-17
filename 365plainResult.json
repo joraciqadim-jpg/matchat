@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794958251377,
+  "timestamp": 1794958270736,
   "matches": [
     {
       "matchId": 4672264,
@@ -597,7 +597,7 @@
       "matchEn": "Argentina v Costa Rica",
       "matchAr": "الأرجنتين × كوستاريكا",
       "rawIsoTime": "2026-11-17T23:00:00+00:00",
-      "time": "1 - 0 (29')",
+      "time": "1 - 0 (30')",
       "rawMinute": 30,
       "homeGoals": 1,
       "awayGoals": 0,
@@ -625,11 +625,11 @@
       "matchEn": "Uruguay v Dominican Republic",
       "matchAr": "الأوروغواي × جمهورية الدومينيكان",
       "rawIsoTime": "2026-11-17T23:30:00+00:00",
-      "time": "23:30",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4874700,
