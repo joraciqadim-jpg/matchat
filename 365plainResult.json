@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794938723945,
+  "timestamp": 1794938774414,
   "matches": [
     {
       "matchId": 4672264,
@@ -212,6 +212,20 @@
       "isLive": false
     },
     {
+      "matchId": 4883952,
+      "competitionId": "588",
+      "tournamentEn": "🏆 Africa Cup of Nations Qualification",
+      "tournamentAr": "🏆 تصفيات كأس أمم أفريقيا",
+      "matchEn": "Gambia v Ivory Coast",
+      "matchAr": "غامبيا × ساحل العاج",
+      "rawIsoTime": "2026-11-17T16:00:00+00:00",
+      "time": "2 - 2 (done)",
+      "rawMinute": 90,
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "isLive": false
+    },
+    {
       "matchId": 4883953,
       "competitionId": "588",
       "tournamentEn": "🏆 Africa Cup of Nations Qualification",
@@ -240,20 +254,6 @@
       "isLive": false
     },
     {
-      "matchId": 4883952,
-      "competitionId": "588",
-      "tournamentEn": "🏆 Africa Cup of Nations Qualification",
-      "tournamentAr": "🏆 تصفيات كأس أمم أفريقيا",
-      "matchEn": "Gambia v Ivory Coast",
-      "matchAr": "غامبيا × ساحل العاج",
-      "rawIsoTime": "2026-11-17T16:00:00+00:00",
-      "time": "2 - 2 (90+9')",
-      "rawMinute": 99,
-      "homeGoals": 2,
-      "awayGoals": 2,
-      "isLive": true
-    },
-    {
       "matchId": 4883954,
       "competitionId": "588",
       "tournamentEn": "🏆 Africa Cup of Nations Qualification",
@@ -261,8 +261,8 @@
       "matchEn": "Libya v Tunisia",
       "matchAr": "ليبيا × تونس",
       "rawIsoTime": "2026-11-17T16:00:00+00:00",
-      "time": "1 - 1 (87')",
-      "rawMinute": 87,
+      "time": "1 - 1 (88')",
+      "rawMinute": 88,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -569,8 +569,8 @@
       "matchEn": "Kuwait v Honduras",
       "matchAr": "الكويت × هندوراس",
       "rawIsoTime": "2026-11-17T16:30:00+00:00",
-      "time": "0 - 2 (78')",
-      "rawMinute": 78,
+      "time": "0 - 2 (79')",
+      "rawMinute": 79,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
