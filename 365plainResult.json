@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794883990507,
+  "timestamp": 1794884054372,
   "matches": [
     {
       "matchId": 4672264,
@@ -667,11 +667,11 @@
       "matchEn": "Canada v Guatemala",
       "matchAr": "كندا × غواتيمالا",
       "rawIsoTime": "2026-11-17T01:00:00+00:00",
-      "time": "4 - 1 (90')",
+      "time": "4 - 1 (done)",
       "rawMinute": 90,
       "homeGoals": 4,
       "awayGoals": 1,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4874695,
