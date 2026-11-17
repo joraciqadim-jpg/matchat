@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794947451412,
+  "timestamp": 1794947471149,
   "matches": [
     {
       "matchId": 4672264,
@@ -23,8 +23,8 @@
       "matchEn": "Poland v Sweden",
       "matchAr": "بولندا × السويد",
       "rawIsoTime": "2026-11-17T19:45:00+00:00",
-      "time": "1 - 1 (45')",
-      "rawMinute": 45,
+      "time": "1 - 1 (45+1')",
+      "rawMinute": 46,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -37,8 +37,8 @@
       "matchEn": "Wales v Portugal",
       "matchAr": "ويلز × البرتغال",
       "rawIsoTime": "2026-11-17T19:45:00+00:00",
-      "time": "2 - 2 (45+1')",
-      "rawMinute": 46,
+      "time": "2 - 2 (45+2')",
+      "rawMinute": 47,
       "homeGoals": 2,
       "awayGoals": 2,
       "isLive": true
@@ -51,8 +51,8 @@
       "matchEn": "Denmark v Norway",
       "matchAr": "الدنمارك × النرويج",
       "rawIsoTime": "2026-11-17T19:45:00+00:00",
-      "time": "2 - 1 (44')",
-      "rawMinute": 44,
+      "time": "2 - 1 (45')",
+      "rawMinute": 45,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -65,8 +65,8 @@
       "matchEn": "Bosnia & Herzegovina v Romania",
       "matchAr": "البوسنة والهرسك × رومانيا",
       "rawIsoTime": "2026-11-17T19:45:00+00:00",
-      "time": "1 - 1 (45')",
-      "rawMinute": 45,
+      "time": "1 - 1 (45+1')",
+      "rawMinute": 46,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -345,8 +345,8 @@
       "matchEn": "Niger v Morocco",
       "matchAr": "النيجر × المغرب",
       "rawIsoTime": "2026-11-17T20:00:00+00:00",
-      "time": "0 - 1 (27')",
-      "rawMinute": 27,
+      "time": "0 - 1 (28')",
+      "rawMinute": 28,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -681,8 +681,8 @@
       "matchEn": "St. Kitts And Nevis v Bonaire",
       "matchAr": "سانت كيتس ونيفيس × بونير",
       "rawIsoTime": "2026-11-17T19:00:00+00:00",
-      "time": "2 - 2 (72')",
-      "rawMinute": 72,
+      "time": "2 - 2 (73')",
+      "rawMinute": 73,
       "homeGoals": 2,
       "awayGoals": 2,
       "isLive": true
