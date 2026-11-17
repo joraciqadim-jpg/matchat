@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794910150930,
+  "timestamp": 1794910232778,
   "matches": [
     {
       "matchId": 4672264,
@@ -387,8 +387,8 @@
       "matchEn": "Oman v Brunei",
       "matchAr": "عُمان × بروناي",
       "rawIsoTime": "2026-11-17T09:00:00+00:00",
-      "time": "4 - 0 (47')",
-      "rawMinute": 47,
+      "time": "4 - 0 (49')",
+      "rawMinute": 49,
       "homeGoals": 4,
       "awayGoals": 0,
       "isLive": true
@@ -401,10 +401,10 @@
       "matchEn": "Singapore v Brazil",
       "matchAr": "سنغافورة × البرازيل",
       "rawIsoTime": "2026-11-17T10:00:00+00:00",
-      "time": "0 - 0 (8')",
-      "rawMinute": 8,
+      "time": "0 - 1 (9')",
+      "rawMinute": 9,
       "homeGoals": 0,
-      "awayGoals": 0,
+      "awayGoals": 1,
       "isLive": true
     },
     {
