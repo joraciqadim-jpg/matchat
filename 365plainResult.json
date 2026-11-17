@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794918790567,
+  "timestamp": 1794918853815,
   "matches": [
     {
       "matchId": 4672264,
@@ -415,8 +415,8 @@
       "matchEn": "Kyrgyzstan v Vietnam",
       "matchAr": "قيرغيزستان × فيتنام",
       "rawIsoTime": "2026-11-17T12:00:00+00:00",
-      "time": "0 - 1 (33')",
-      "rawMinute": 33,
+      "time": "0 - 1 (34')",
+      "rawMinute": 34,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -429,8 +429,8 @@
       "matchEn": "China v Bahrain",
       "matchAr": "الصين × البحرين",
       "rawIsoTime": "2026-11-17T12:00:00+00:00",
-      "time": "0 - 2 (33')",
-      "rawMinute": 33,
+      "time": "0 - 2 (34')",
+      "rawMinute": 34,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -443,11 +443,11 @@
       "matchEn": "Thailand v Tajikistan",
       "matchAr": "تايلاند × طاجيكستان",
       "rawIsoTime": "2026-11-17T12:30:00+00:00",
-      "time": "12:30",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4891452,
