@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794939671613,
+  "timestamp": 1794939734195,
   "matches": [
     {
       "matchId": 4672264,
@@ -569,11 +569,11 @@
       "matchEn": "Kuwait v Honduras",
       "matchAr": "الكويت × هندوراس",
       "rawIsoTime": "2026-11-17T16:30:00+00:00",
-      "time": "0 - 2 (90+4')",
-      "rawMinute": 94,
+      "time": "0 - 2 (done)",
+      "rawMinute": 90,
       "homeGoals": 0,
       "awayGoals": 2,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4855911,
