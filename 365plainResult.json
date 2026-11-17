@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794921033663,
+  "timestamp": 1794921070797,
   "matches": [
     {
       "matchId": 4672264,
@@ -121,8 +121,8 @@
       "matchEn": "Lesotho v Gabon",
       "matchAr": "ليسوتو × الغابون",
       "rawIsoTime": "2026-11-17T13:00:00+00:00",
-      "time": "0 - 0 (10')",
-      "rawMinute": 10,
+      "time": "0 - 0 (11')",
+      "rawMinute": 11,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -415,8 +415,8 @@
       "matchEn": "Kyrgyzstan v Vietnam",
       "matchAr": "قيرغيزستان × فيتنام",
       "rawIsoTime": "2026-11-17T12:00:00+00:00",
-      "time": "0 - 1 (50')",
-      "rawMinute": 50,
+      "time": "0 - 1 (51')",
+      "rawMinute": 51,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -471,8 +471,8 @@
       "matchEn": "Japan v Paraguay",
       "matchAr": "اليابان × باراغواي",
       "rawIsoTime": "2026-11-17T13:10:00+00:00",
-      "time": "0 - 0 (1')",
-      "rawMinute": 1,
+      "time": "0 - 0 (2')",
+      "rawMinute": 2,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
