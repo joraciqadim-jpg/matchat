@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794939734195,
+  "timestamp": 1794942067607,
   "matches": [
     {
       "matchId": 4672264,
@@ -289,11 +289,11 @@
       "matchEn": "Botswana v Uganda",
       "matchAr": "بوتسوانا × أوغندا",
       "rawIsoTime": "2026-11-17T19:00:00+00:00",
-      "time": "19:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4883957,
@@ -317,11 +317,11 @@
       "matchEn": "Liberia v Cape Verde",
       "matchAr": "ليبيريا × الرأس الأخضر",
       "rawIsoTime": "2026-11-17T19:00:00+00:00",
-      "time": "19:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4883959,
@@ -681,11 +681,11 @@
       "matchEn": "St. Kitts And Nevis v Bonaire",
       "matchAr": "سانت كيتس ونيفيس × بونير",
       "rawIsoTime": "2026-11-17T19:00:00+00:00",
-      "time": "19:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4874696,
@@ -695,11 +695,11 @@
       "matchEn": "Belize v Sint Maarten",
       "matchAr": "بليز × سانت مارتن",
       "rawIsoTime": "2026-11-17T19:00:00+00:00",
-      "time": "19:00",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "time": "0 - 0 (2')",
+      "rawMinute": 2,
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4874697,
@@ -709,11 +709,11 @@
       "matchEn": "Saint Lucia v Barbados",
       "matchAr": "سانت لوسيا × بربادوس",
       "rawIsoTime": "2026-11-17T19:00:00+00:00",
-      "time": "19:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4874698,
@@ -723,11 +723,11 @@
       "matchEn": "Dominica v Cayman Islands",
       "matchAr": "دومينيكا × جزر كايمان",
       "rawIsoTime": "2026-11-17T19:00:00+00:00",
-      "time": "19:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     }
   ]
 }
