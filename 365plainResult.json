@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794935231174,
+  "timestamp": 1794935294733,
   "matches": [
     {
       "matchId": 4672264,
@@ -191,8 +191,8 @@
       "matchEn": "Togo v Algeria",
       "matchAr": "توغو × الجزائر",
       "rawIsoTime": "2026-11-17T16:00:00+00:00",
-      "time": "3 - 0 (46')",
-      "rawMinute": 46,
+      "time": "3 - 0 (47')",
+      "rawMinute": 47,
       "homeGoals": 3,
       "awayGoals": 0,
       "isLive": true
@@ -205,8 +205,8 @@
       "matchEn": "Sierra Leone v DR Congo",
       "matchAr": "سيراليون × جمهورية الكونغو الديمقراطية",
       "rawIsoTime": "2026-11-17T16:00:00+00:00",
-      "time": "0 - 1 (49')",
-      "rawMinute": 49,
+      "time": "0 - 1 (50')",
+      "rawMinute": 50,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -233,8 +233,8 @@
       "matchEn": "Kenya v South Africa",
       "matchAr": "كينيا × جنوب أفريقيا",
       "rawIsoTime": "2026-11-17T16:00:00+00:00",
-      "time": "0 - 0 (46')",
-      "rawMinute": 46,
+      "time": "0 - 0 (47')",
+      "rawMinute": 47,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -261,8 +261,8 @@
       "matchEn": "Guinea-Bissau v Madagascar",
       "matchAr": "غينيا بيساو × مدغشقر",
       "rawIsoTime": "2026-11-17T16:00:00+00:00",
-      "time": "1 - 0 (50')",
-      "rawMinute": 50,
+      "time": "1 - 0 (51')",
+      "rawMinute": 51,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -527,8 +527,8 @@
       "matchEn": "Saudi Arabia v Uzbekistan",
       "matchAr": "السعودية × أوزبكستان",
       "rawIsoTime": "2026-11-17T15:30:00+00:00",
-      "time": "1 - 2 (75')",
-      "rawMinute": 75,
+      "time": "1 - 2 (76')",
+      "rawMinute": 76,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -541,8 +541,8 @@
       "matchEn": "Jordan v Australia",
       "matchAr": "الأردن × أستراليا",
       "rawIsoTime": "2026-11-17T16:00:00+00:00",
-      "time": "1 - 0 (49')",
-      "rawMinute": 49,
+      "time": "1 - 0 (50')",
+      "rawMinute": 50,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -583,10 +583,10 @@
       "matchEn": "Kuwait v Honduras",
       "matchAr": "الكويت × هندوراس",
       "rawIsoTime": "2026-11-17T16:30:00+00:00",
-      "time": "0 - 1 (38')",
-      "rawMinute": 38,
+      "time": "0 - 2 (39')",
+      "rawMinute": 39,
       "homeGoals": 0,
-      "awayGoals": 1,
+      "awayGoals": 2,
       "isLive": true
     },
     {
