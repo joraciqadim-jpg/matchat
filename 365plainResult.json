@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794938471008,
+  "timestamp": 1794938535785,
   "matches": [
     {
       "matchId": 4672264,
@@ -247,8 +247,8 @@
       "matchEn": "Gambia v Ivory Coast",
       "matchAr": "غامبيا × ساحل العاج",
       "rawIsoTime": "2026-11-17T16:00:00+00:00",
-      "time": "2 - 1 (90+5')",
-      "rawMinute": 95,
+      "time": "2 - 1 (90+6')",
+      "rawMinute": 96,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -261,8 +261,8 @@
       "matchEn": "Libya v Tunisia",
       "matchAr": "ليبيا × تونس",
       "rawIsoTime": "2026-11-17T16:00:00+00:00",
-      "time": "1 - 1 (83')",
-      "rawMinute": 83,
+      "time": "1 - 1 (84')",
+      "rawMinute": 84,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -555,8 +555,8 @@
       "matchEn": "Iraq v Iran",
       "matchAr": "العراق × إيران",
       "rawIsoTime": "2026-11-17T16:15:00+00:00",
-      "time": "1 - 1 (86')",
-      "rawMinute": 86,
+      "time": "1 - 1 (87')",
+      "rawMinute": 87,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -569,8 +569,8 @@
       "matchEn": "Kuwait v Honduras",
       "matchAr": "الكويت × هندوراس",
       "rawIsoTime": "2026-11-17T16:30:00+00:00",
-      "time": "0 - 2 (74')",
-      "rawMinute": 74,
+      "time": "0 - 2 (75')",
+      "rawMinute": 75,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
