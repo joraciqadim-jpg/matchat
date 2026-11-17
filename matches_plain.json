@@ -260,20 +260,6 @@
     {
       "tournamentEn": "✨ International Friendly Games",
       "tournamentAr": "✨ مباريات ودية دولية",
-      "matchEn": "Iraq v Iran",
-      "matchAr": "العراق × إيران",
-      "time": "16:15",
-      "channels": [
-        "📺 Iraqia Sport [Nilesat 7.0W 12563 H 27500]",
-        "📺 IRIB Varzesh [Badrsat 26.0E 11881 H 27500]",
-        "📺 IRIB Varzesh [Eutelsat 40.0E 11640 H 30000]",
-        "📺 Persiana Sports 1 [Al-Yah 52.5E 11343 H 27500]",
-        "📺 IRIB Varzesh [Thaicom 78.5E 11640 H 30000]"
-      ]
-    },
-    {
-      "tournamentEn": "✨ International Friendly Games",
-      "tournamentAr": "✨ مباريات ودية دولية",
       "matchEn": "Argentina v Costa Rica",
       "matchAr": "الأرجنتين × كوستاريكا",
       "time": "21:00",
@@ -307,16 +293,6 @@
       "time": "23:30",
       "channels": [
         "📺 Sport 3 [Amos 4.0W 11259 V 30000]"
-      ]
-    },
-    {
-      "tournamentEn": "🛡️ AFC U17 Asian Cup Qualification",
-      "tournamentAr": "🛡️ تصفيات كأس آسيا تحت 17 سنة",
-      "matchEn": "Syria v Emirates",
-      "matchAr": "سوريا × الإمارات",
-      "time": "16:20",
-      "channels": [
-        "📺 Sharjah Sports 2 [Nilesat 7.0W 11013 V 27500]"
       ]
     }
   ]
