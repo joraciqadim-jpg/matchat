@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794893450275,
+  "timestamp": 1794906063645,
   "matches": [
     {
       "matchId": 4672264,
@@ -359,10 +359,10 @@
       "matchEn": "Tahiti v Cook Islands",
       "matchAr": "تاهيتي × جزر كوك",
       "rawIsoTime": "2026-11-17T05:30:00+00:00",
-      "time": "05:30",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
+      "time": "3 - 3 (done)",
+      "rawMinute": 90,
+      "homeGoals": 3,
+      "awayGoals": 3,
       "isLive": false
     },
     {
@@ -373,10 +373,10 @@
       "matchEn": "Malaysia v Yemen",
       "matchAr": "ماليزيا × اليمن",
       "rawIsoTime": "2026-11-17T06:00:00+00:00",
-      "time": "06:00",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
+      "time": "2 - 1 (done)",
+      "rawMinute": 90,
+      "homeGoals": 2,
+      "awayGoals": 1,
       "isLive": false
     },
     {
