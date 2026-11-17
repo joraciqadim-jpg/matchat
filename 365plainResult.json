@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794912734043,
+  "timestamp": 1794912790956,
   "matches": [
     {
       "matchId": 4672264,
@@ -387,8 +387,8 @@
       "matchEn": "Oman v Brunei",
       "matchAr": "عُمان × بروناي",
       "rawIsoTime": "2026-11-17T09:00:00+00:00",
-      "time": "6 - 0 (90')",
-      "rawMinute": 90,
+      "time": "6 - 0 (90+1')",
+      "rawMinute": 91,
       "homeGoals": 6,
       "awayGoals": 0,
       "isLive": true
