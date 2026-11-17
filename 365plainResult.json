@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794951791484,
+  "timestamp": 1794951854642,
   "matches": [
     {
       "matchId": 4672264,
@@ -36,6 +36,20 @@
       "tournamentAr": "🛡️ دوري الأمم الأوروبية",
       "matchEn": "Wales v Portugal",
       "matchAr": "ويلز × البرتغال",
+      "rawIsoTime": "2026-11-17T19:45:00+00:00",
+      "time": "2 - 3 (done)",
+      "rawMinute": 90,
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "isLive": false
+    },
+    {
+      "matchId": 4672267,
+      "competitionId": "7016",
+      "tournamentEn": "🛡️ UEFA Nations League",
+      "tournamentAr": "🛡️ دوري الأمم الأوروبية",
+      "matchEn": "Denmark v Norway",
+      "matchAr": "الدنمارك × النرويج",
       "rawIsoTime": "2026-11-17T19:45:00+00:00",
       "time": "2 - 3 (done)",
       "rawMinute": 90,
@@ -84,20 +98,6 @@
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": false
-    },
-    {
-      "matchId": 4672267,
-      "competitionId": "7016",
-      "tournamentEn": "🛡️ UEFA Nations League",
-      "tournamentAr": "🛡️ دوري الأمم الأوروبية",
-      "matchEn": "Denmark v Norway",
-      "matchAr": "الدنمارك × النرويج",
-      "rawIsoTime": "2026-11-17T19:45:00+00:00",
-      "time": "2 - 3 (90+8')",
-      "rawMinute": 98,
-      "homeGoals": 2,
-      "awayGoals": 3,
-      "isLive": true
     },
     {
       "matchId": 4716607,
@@ -345,8 +345,8 @@
       "matchEn": "Niger v Morocco",
       "matchAr": "النيجر × المغرب",
       "rawIsoTime": "2026-11-17T20:00:00+00:00",
-      "time": "0 - 1 (80')",
-      "rawMinute": 80,
+      "time": "0 - 1 (81')",
+      "rawMinute": 81,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
