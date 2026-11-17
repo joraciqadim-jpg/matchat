@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794932134891,
+  "timestamp": 1794932173621,
   "matches": [
     {
       "matchId": 4672264,
@@ -192,7 +192,7 @@
       "matchAr": "توغو × الجزائر",
       "rawIsoTime": "2026-11-17T16:00:00+00:00",
       "time": "0 - 0 (15')",
-      "rawMinute": 15,
+      "rawMinute": 16,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -219,10 +219,10 @@
       "matchEn": "Gambia v Ivory Coast",
       "matchAr": "غامبيا × ساحل العاج",
       "rawIsoTime": "2026-11-17T16:00:00+00:00",
-      "time": "0 - 0 (13')",
+      "time": "0 - 1 (13')",
       "rawMinute": 13,
       "homeGoals": 0,
-      "awayGoals": 0,
+      "awayGoals": 1,
       "isLive": true
     },
     {
@@ -233,8 +233,8 @@
       "matchEn": "Kenya v South Africa",
       "matchAr": "كينيا × جنوب أفريقيا",
       "rawIsoTime": "2026-11-17T16:00:00+00:00",
-      "time": "0 - 0 (14')",
-      "rawMinute": 14,
+      "time": "0 - 0 (15')",
+      "rawMinute": 15,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -527,8 +527,8 @@
       "matchEn": "Jordan v Australia",
       "matchAr": "الأردن × أستراليا",
       "rawIsoTime": "2026-11-17T16:00:00+00:00",
-      "time": "0 - 0 (16')",
-      "rawMinute": 16,
+      "time": "0 - 0 (17')",
+      "rawMinute": 17,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -542,7 +542,7 @@
       "matchAr": "روسيا × فنزويلا",
       "rawIsoTime": "2026-11-17T16:00:00+00:00",
       "time": "0 - 0 (8')",
-      "rawMinute": 8,
+      "rawMinute": 9,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
