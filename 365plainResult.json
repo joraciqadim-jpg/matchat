@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794944471035,
+  "timestamp": 1794944535663,
   "matches": [
     {
       "matchId": 4672264,
@@ -276,7 +276,7 @@
       "matchAr": "موريتانيا × بوركينا فاسو",
       "rawIsoTime": "2026-11-17T19:00:00+00:00",
       "time": "0 - 2 (37')",
-      "rawMinute": 40,
+      "rawMinute": 41,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -290,7 +290,7 @@
       "matchAr": "بوتسوانا × أوغندا",
       "rawIsoTime": "2026-11-17T19:00:00+00:00",
       "time": "0 - 0 (39')",
-      "rawMinute": 41,
+      "rawMinute": 42,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -304,7 +304,7 @@
       "matchAr": "رواندا × مالي",
       "rawIsoTime": "2026-11-17T19:00:00+00:00",
       "time": "0 - 1 (35')",
-      "rawMinute": 38,
+      "rawMinute": 39,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -318,7 +318,7 @@
       "matchAr": "ليبيريا × الرأس الأخضر",
       "rawIsoTime": "2026-11-17T19:00:00+00:00",
       "time": "0 - 0 (39')",
-      "rawMinute": 41,
+      "rawMinute": 43,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -332,7 +332,7 @@
       "matchAr": "جمهورية الكونغو × جزر القمر",
       "rawIsoTime": "2026-11-17T19:00:00+00:00",
       "time": "0 - 1 (37')",
-      "rawMinute": 39,
+      "rawMinute": 40,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -682,7 +682,7 @@
       "matchAr": "سانت كيتس ونيفيس × بونير",
       "rawIsoTime": "2026-11-17T19:00:00+00:00",
       "time": "0 - 2 (39')",
-      "rawMinute": 41,
+      "rawMinute": 42,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -696,7 +696,7 @@
       "matchAr": "بليز × سانت مارتن",
       "rawIsoTime": "2026-11-17T19:00:00+00:00",
       "time": "0 - 0 (39')",
-      "rawMinute": 42,
+      "rawMinute": 43,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -710,7 +710,7 @@
       "matchAr": "سانت لوسيا × بربادوس",
       "rawIsoTime": "2026-11-17T19:00:00+00:00",
       "time": "1 - 0 (39')",
-      "rawMinute": 42,
+      "rawMinute": 43,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -724,7 +724,7 @@
       "matchAr": "دومينيكا × جزر كايمان",
       "rawIsoTime": "2026-11-17T19:00:00+00:00",
       "time": "1 - 0 (38')",
-      "rawMinute": 41,
+      "rawMinute": 43,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
