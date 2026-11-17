@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794952390817,
+  "timestamp": 1794952454245,
   "matches": [
     {
       "matchId": 4672264,
@@ -345,8 +345,8 @@
       "matchEn": "Niger v Morocco",
       "matchAr": "النيجر × المغرب",
       "rawIsoTime": "2026-11-17T20:00:00+00:00",
-      "time": "0 - 1 (90')",
-      "rawMinute": 90,
+      "time": "0 - 1 (90+1')",
+      "rawMinute": 91,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
