@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794934871028,
+  "timestamp": 1794934934602,
   "matches": [
     {
       "matchId": 4672264,
@@ -247,9 +247,9 @@
       "matchEn": "Libya v Tunisia",
       "matchAr": "ليبيا × تونس",
       "rawIsoTime": "2026-11-17T16:00:00+00:00",
-      "time": "0 - 1 (45+5')",
-      "rawMinute": 50,
-      "homeGoals": 0,
+      "time": "1 - 1 (45+6')",
+      "rawMinute": 51,
+      "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
     },
@@ -527,8 +527,8 @@
       "matchEn": "Saudi Arabia v Uzbekistan",
       "matchAr": "السعودية × أوزبكستان",
       "rawIsoTime": "2026-11-17T15:30:00+00:00",
-      "time": "1 - 2 (69')",
-      "rawMinute": 69,
+      "time": "1 - 2 (70')",
+      "rawMinute": 70,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -583,8 +583,8 @@
       "matchEn": "Kuwait v Honduras",
       "matchAr": "الكويت × هندوراس",
       "rawIsoTime": "2026-11-17T16:30:00+00:00",
-      "time": "0 - 1 (32')",
-      "rawMinute": 32,
+      "time": "0 - 1 (33')",
+      "rawMinute": 33,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
