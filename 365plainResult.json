@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794951551277,
+  "timestamp": 1794951632652,
   "matches": [
     {
       "matchId": 4672264,
@@ -44,6 +44,20 @@
       "isLive": false
     },
     {
+      "matchId": 4672268,
+      "competitionId": "7016",
+      "tournamentEn": "🛡️ UEFA Nations League",
+      "tournamentAr": "🛡️ دوري الأمم الأوروبية",
+      "matchEn": "Bosnia & Herzegovina v Romania",
+      "matchAr": "البوسنة والهرسك × رومانيا",
+      "rawIsoTime": "2026-11-17T19:45:00+00:00",
+      "time": "2 - 1 (done)",
+      "rawMinute": 90,
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "isLive": false
+    },
+    {
       "matchId": 4672270,
       "competitionId": "7016",
       "tournamentEn": "🛡️ UEFA Nations League",
@@ -58,34 +72,6 @@
       "isLive": false
     },
     {
-      "matchId": 4672267,
-      "competitionId": "7016",
-      "tournamentEn": "🛡️ UEFA Nations League",
-      "tournamentAr": "🛡️ دوري الأمم الأوروبية",
-      "matchEn": "Denmark v Norway",
-      "matchAr": "الدنمارك × النرويج",
-      "rawIsoTime": "2026-11-17T19:45:00+00:00",
-      "time": "2 - 2 (90+4')",
-      "rawMinute": 94,
-      "homeGoals": 2,
-      "awayGoals": 2,
-      "isLive": true
-    },
-    {
-      "matchId": 4672268,
-      "competitionId": "7016",
-      "tournamentEn": "🛡️ UEFA Nations League",
-      "tournamentAr": "🛡️ دوري الأمم الأوروبية",
-      "matchEn": "Bosnia & Herzegovina v Romania",
-      "matchAr": "البوسنة والهرسك × رومانيا",
-      "rawIsoTime": "2026-11-17T19:45:00+00:00",
-      "time": "2 - 1 (90+5')",
-      "rawMinute": 96,
-      "homeGoals": 2,
-      "awayGoals": 1,
-      "isLive": true
-    },
-    {
       "matchId": 4672271,
       "competitionId": "7016",
       "tournamentEn": "🛡️ UEFA Nations League",
@@ -93,10 +79,24 @@
       "matchEn": "Hungary v Northern Ireland",
       "matchAr": "المجر × أيرلندا الشمالية",
       "rawIsoTime": "2026-11-17T19:45:00+00:00",
-      "time": "1 - 1 (90+4')",
-      "rawMinute": 94,
+      "time": "1 - 1 (done)",
+      "rawMinute": 90,
       "homeGoals": 1,
       "awayGoals": 1,
+      "isLive": false
+    },
+    {
+      "matchId": 4672267,
+      "competitionId": "7016",
+      "tournamentEn": "🛡️ UEFA Nations League",
+      "tournamentAr": "🛡️ دوري الأمم الأوروبية",
+      "matchEn": "Denmark v Norway",
+      "matchAr": "الدنمارك × النرويج",
+      "rawIsoTime": "2026-11-17T19:45:00+00:00",
+      "time": "2 - 2 (90+6')",
+      "rawMinute": 96,
+      "homeGoals": 2,
+      "awayGoals": 2,
       "isLive": true
     },
     {
@@ -345,8 +345,8 @@
       "matchEn": "Niger v Morocco",
       "matchAr": "النيجر × المغرب",
       "rawIsoTime": "2026-11-17T20:00:00+00:00",
-      "time": "0 - 1 (76')",
-      "rawMinute": 76,
+      "time": "0 - 1 (77')",
+      "rawMinute": 77,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
