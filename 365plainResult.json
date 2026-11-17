@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794920590650,
+  "timestamp": 1794920653942,
   "matches": [
     {
       "matchId": 4672264,
@@ -107,8 +107,8 @@
       "matchEn": "Malawi v Egypt",
       "matchAr": "ملاوي × مصر",
       "rawIsoTime": "2026-11-17T13:00:00+00:00",
-      "time": "0 - 0 (3')",
-      "rawMinute": 3,
+      "time": "0 - 0 (4')",
+      "rawMinute": 4,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -121,8 +121,8 @@
       "matchEn": "Lesotho v Gabon",
       "matchAr": "ليسوتو × الغابون",
       "rawIsoTime": "2026-11-17T13:00:00+00:00",
-      "time": "0 - 0 (3')",
-      "rawMinute": 3,
+      "time": "0 - 0 (4')",
+      "rawMinute": 4,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -135,8 +135,8 @@
       "matchEn": "South Sudan v Angola",
       "matchAr": "جنوب السودان × أنغولا",
       "rawIsoTime": "2026-11-17T13:00:00+00:00",
-      "time": "0 - 0 (1')",
-      "rawMinute": 1,
+      "time": "0 - 0 (2')",
+      "rawMinute": 2,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -149,8 +149,8 @@
       "matchEn": "Burundi v Zambia",
       "matchAr": "بوروندي × زامبيا",
       "rawIsoTime": "2026-11-17T13:00:00+00:00",
-      "time": "0 - 0 (2')",
-      "rawMinute": 2,
+      "time": "0 - 0 (3')",
+      "rawMinute": 3,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -163,8 +163,8 @@
       "matchEn": "Ethiopia v Mozambique",
       "matchAr": "إثيوبيا × موزمبيق",
       "rawIsoTime": "2026-11-17T13:00:00+00:00",
-      "time": "0 - 0 (3')",
-      "rawMinute": 3,
+      "time": "0 - 0 (4')",
+      "rawMinute": 4,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -415,8 +415,8 @@
       "matchEn": "Kyrgyzstan v Vietnam",
       "matchAr": "قيرغيزستان × فيتنام",
       "rawIsoTime": "2026-11-17T12:00:00+00:00",
-      "time": "0 - 1 (Halftime)",
-      "rawMinute": 45,
+      "time": "0 - 1 (45')",
+      "rawMinute": 46,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -443,8 +443,8 @@
       "matchEn": "Thailand v Tajikistan",
       "matchAr": "تايلاند × طاجيكستان",
       "rawIsoTime": "2026-11-17T12:30:00+00:00",
-      "time": "0 - 0 (30')",
-      "rawMinute": 30,
+      "time": "0 - 0 (31')",
+      "rawMinute": 31,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -457,8 +457,8 @@
       "matchEn": "Lebanon v Palestine",
       "matchAr": "لبنان × فلسطين",
       "rawIsoTime": "2026-11-17T13:00:00+00:00",
-      "time": "0 - 0 (2')",
-      "rawMinute": 2,
+      "time": "0 - 0 (3')",
+      "rawMinute": 4,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
