@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794951670722,
+  "timestamp": 1794951734001,
   "matches": [
     {
       "matchId": 4672264,
@@ -93,8 +93,8 @@
       "matchEn": "Denmark v Norway",
       "matchAr": "الدنمارك × النرويج",
       "rawIsoTime": "2026-11-17T19:45:00+00:00",
-      "time": "2 - 3 (90+6')",
-      "rawMinute": 96,
+      "time": "2 - 3 (90+7')",
+      "rawMinute": 97,
       "homeGoals": 2,
       "awayGoals": 3,
       "isLive": true
@@ -345,8 +345,8 @@
       "matchEn": "Niger v Morocco",
       "matchAr": "النيجر × المغرب",
       "rawIsoTime": "2026-11-17T20:00:00+00:00",
-      "time": "0 - 1 (78')",
-      "rawMinute": 78,
+      "time": "0 - 1 (79')",
+      "rawMinute": 79,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
