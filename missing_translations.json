@@ -1,13 +1,21 @@
 {
-  "Guyana": {
+  "honduras": {
+    "en": "Honduras",
+    "ar": "هندوراس"
+  },
+  "maldives": {
+    "en": "Maldives",
+    "ar": "المالديف"
+  },
+  "guyana": {
     "en": "Guyana",
     "ar": "غيانا"
   },
-  "Puerto Rico": {
+  "puerto rico": {
     "en": "Puerto Rico",
     "ar": "بورتوريكو"
   },
-  "Puerto_rico": {
+  "puertorico": {
     "en": "Puerto Rico",
     "ar": "بورتوريكو"
   },
