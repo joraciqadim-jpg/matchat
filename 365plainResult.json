@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794876330843,
+  "timestamp": 1794876374131,
   "matches": [
     {
       "matchId": 4672264,
@@ -639,8 +639,8 @@
       "matchEn": "Trinidad and Tobago v Antigua & Barbuda",
       "matchAr": "ترينيداد وتوباغو × أنتيغوا وبربودا",
       "rawIsoTime": "2026-11-17T00:00:00+00:00",
-      "time": "1 - 1 (45')",
-      "rawMinute": 45,
+      "time": "1 - 1 (45+2')",
+      "rawMinute": 47,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
