@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794919532006,
+  "timestamp": 1794919574275,
   "matches": [
     {
       "matchId": 4672264,
@@ -415,8 +415,8 @@
       "matchEn": "Kyrgyzstan v Vietnam",
       "matchAr": "قيرغيزستان × فيتنام",
       "rawIsoTime": "2026-11-17T12:00:00+00:00",
-      "time": "0 - 1 (45')",
-      "rawMinute": 45,
+      "time": "0 - 1 (45+1')",
+      "rawMinute": 46,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
