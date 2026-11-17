@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794916270325,
+  "timestamp": 1794916333581,
   "matches": [
     {
       "matchId": 4672264,
@@ -401,11 +401,11 @@
       "matchEn": "Singapore v Brazil",
       "matchAr": "سنغافورة × البرازيل",
       "rawIsoTime": "2026-11-17T10:00:00+00:00",
-      "time": "0 - 7 (90+3')",
-      "rawMinute": 93,
+      "time": "0 - 7 (done)",
+      "rawMinute": 90,
       "homeGoals": 0,
       "awayGoals": 7,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4876151,
