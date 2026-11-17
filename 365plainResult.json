@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794959591352,
+  "timestamp": 1794959654891,
   "matches": [
     {
       "matchId": 4672264,
@@ -583,8 +583,8 @@
       "matchEn": "Chile v Colombia",
       "matchAr": "تشيلي × كولومبيا",
       "rawIsoTime": "2026-11-17T23:00:00+00:00",
-      "time": "0 - 0 (45')",
-      "rawMinute": 45,
+      "time": "0 - 0 (45+2')",
+      "rawMinute": 47,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -611,8 +611,8 @@
       "matchEn": "Ecuador v Bolivia",
       "matchAr": "الإكوادور × بوليفيا",
       "rawIsoTime": "2026-11-17T23:30:00+00:00",
-      "time": "0 - 0 (16')",
-      "rawMinute": 16,
+      "time": "0 - 0 (17')",
+      "rawMinute": 18,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -625,8 +625,8 @@
       "matchEn": "Uruguay v Dominican Republic",
       "matchAr": "الأوروغواي × جمهورية الدومينيكان",
       "rawIsoTime": "2026-11-17T23:30:00+00:00",
-      "time": "0 - 0 (23')",
-      "rawMinute": 23,
+      "time": "0 - 0 (24')",
+      "rawMinute": 24,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
