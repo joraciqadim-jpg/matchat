@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794931150664,
+  "timestamp": 1794931268814,
   "matches": [
     {
       "matchId": 4672264,
@@ -191,11 +191,11 @@
       "matchEn": "Togo v Algeria",
       "matchAr": "توغو × الجزائر",
       "rawIsoTime": "2026-11-17T16:00:00+00:00",
-      "time": "16:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4883534,
@@ -205,11 +205,11 @@
       "matchEn": "Sierra Leone v DR Congo",
       "matchAr": "سيراليون × جمهورية الكونغو الديمقراطية",
       "rawIsoTime": "2026-11-17T16:00:00+00:00",
-      "time": "16:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4883952,
@@ -261,11 +261,11 @@
       "matchEn": "Guinea-Bissau v Madagascar",
       "matchAr": "غينيا بيساو × مدغشقر",
       "rawIsoTime": "2026-11-17T16:00:00+00:00",
-      "time": "16:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4716613,
@@ -499,10 +499,10 @@
       "matchEn": "UAE v Syria",
       "matchAr": "الإمارات × سوريا",
       "rawIsoTime": "2026-11-17T14:10:00+00:00",
-      "time": "4 - 1 (90+1')",
-      "rawMinute": 91,
+      "time": "4 - 2 (90+3')",
+      "rawMinute": 93,
       "homeGoals": 4,
-      "awayGoals": 1,
+      "awayGoals": 2,
       "isLive": true
     },
     {
@@ -513,8 +513,8 @@
       "matchEn": "Saudi Arabia v Uzbekistan",
       "matchAr": "السعودية × أوزبكستان",
       "rawIsoTime": "2026-11-17T15:30:00+00:00",
-      "time": "1 - 1 (27')",
-      "rawMinute": 27,
+      "time": "1 - 1 (29')",
+      "rawMinute": 29,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -527,11 +527,11 @@
       "matchEn": "Jordan v Australia",
       "matchAr": "الأردن × أستراليا",
       "rawIsoTime": "2026-11-17T16:00:00+00:00",
-      "time": "16:00",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "time": "0 - 0 (2')",
+      "rawMinute": 2,
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4882784,
@@ -541,11 +541,11 @@
       "matchEn": "Russia v Venezuela",
       "matchAr": "روسيا × فنزويلا",
       "rawIsoTime": "2026-11-17T16:00:00+00:00",
-      "time": "16:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4893950,
