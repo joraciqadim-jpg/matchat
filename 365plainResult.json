@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794946590826,
+  "timestamp": 1794946630581,
   "matches": [
     {
       "matchId": 4672264,
@@ -23,8 +23,8 @@
       "matchEn": "Poland v Sweden",
       "matchAr": "بولندا × السويد",
       "rawIsoTime": "2026-11-17T19:45:00+00:00",
-      "time": "1 - 1 (31')",
-      "rawMinute": 31,
+      "time": "1 - 1 (32')",
+      "rawMinute": 32,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -37,8 +37,8 @@
       "matchEn": "Wales v Portugal",
       "matchAr": "ويلز × البرتغال",
       "rawIsoTime": "2026-11-17T19:45:00+00:00",
-      "time": "1 - 1 (32')",
-      "rawMinute": 32,
+      "time": "1 - 1 (33')",
+      "rawMinute": 33,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -51,8 +51,8 @@
       "matchEn": "Denmark v Norway",
       "matchAr": "الدنمارك × النرويج",
       "rawIsoTime": "2026-11-17T19:45:00+00:00",
-      "time": "2 - 0 (30')",
-      "rawMinute": 30,
+      "time": "2 - 0 (31')",
+      "rawMinute": 31,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -65,8 +65,8 @@
       "matchEn": "Bosnia & Herzegovina v Romania",
       "matchAr": "البوسنة والهرسك × رومانيا",
       "rawIsoTime": "2026-11-17T19:45:00+00:00",
-      "time": "0 - 1 (31')",
-      "rawMinute": 31,
+      "time": "0 - 1 (32')",
+      "rawMinute": 32,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -79,8 +79,8 @@
       "matchEn": "Ukraine v Georgia",
       "matchAr": "أوكرانيا × جورجيا",
       "rawIsoTime": "2026-11-17T19:45:00+00:00",
-      "time": "1 - 0 (30')",
-      "rawMinute": 30,
+      "time": "1 - 0 (31')",
+      "rawMinute": 31,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -289,8 +289,8 @@
       "matchEn": "Botswana v Uganda",
       "matchAr": "بوتسوانا × أوغندا",
       "rawIsoTime": "2026-11-17T19:00:00+00:00",
-      "time": "0 - 0 (53')",
-      "rawMinute": 53,
+      "time": "0 - 0 (54')",
+      "rawMinute": 54,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -303,8 +303,8 @@
       "matchEn": "Rwanda v Mali",
       "matchAr": "رواندا × مالي",
       "rawIsoTime": "2026-11-17T19:00:00+00:00",
-      "time": "0 - 1 (55')",
-      "rawMinute": 55,
+      "time": "0 - 1 (56')",
+      "rawMinute": 56,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -345,8 +345,8 @@
       "matchEn": "Niger v Morocco",
       "matchAr": "النيجر × المغرب",
       "rawIsoTime": "2026-11-17T20:00:00+00:00",
-      "time": "0 - 0 (13')",
-      "rawMinute": 13,
+      "time": "0 - 0 (14')",
+      "rawMinute": 14,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -681,8 +681,8 @@
       "matchEn": "St. Kitts And Nevis v Bonaire",
       "matchAr": "سانت كيتس ونيفيس × بونير",
       "rawIsoTime": "2026-11-17T19:00:00+00:00",
-      "time": "2 - 2 (58')",
-      "rawMinute": 58,
+      "time": "2 - 2 (59')",
+      "rawMinute": 59,
       "homeGoals": 2,
       "awayGoals": 2,
       "isLive": true
@@ -695,7 +695,7 @@
       "matchEn": "Belize v Sint Maarten",
       "matchAr": "بليز × سانت مارتن",
       "rawIsoTime": "2026-11-17T19:00:00+00:00",
-      "time": "0 - 2 (61')",
+      "time": "0 - 2 (62')",
       "rawMinute": 62,
       "homeGoals": 0,
       "awayGoals": 2,
