@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794930854148,
+  "timestamp": 1794930921722,
   "matches": [
     {
       "matchId": 4672264,
@@ -499,8 +499,8 @@
       "matchEn": "UAE v Syria",
       "matchAr": "الإمارات × سوريا",
       "rawIsoTime": "2026-11-17T14:10:00+00:00",
-      "time": "4 - 1 (86')",
-      "rawMinute": 86,
+      "time": "4 - 1 (87')",
+      "rawMinute": 87,
       "homeGoals": 4,
       "awayGoals": 1,
       "isLive": true
@@ -513,9 +513,9 @@
       "matchEn": "Saudi Arabia v Uzbekistan",
       "matchAr": "السعودية × أوزبكستان",
       "rawIsoTime": "2026-11-17T15:30:00+00:00",
-      "time": "0 - 1 (22')",
-      "rawMinute": 22,
-      "homeGoals": 0,
+      "time": "1 - 1 (24')",
+      "rawMinute": 24,
+      "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
     },
