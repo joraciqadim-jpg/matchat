@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794966551642,
+  "timestamp": 1794966630617,
   "matches": [
     {
       "matchId": 4632599,
@@ -219,8 +219,8 @@
       "matchEn": "USA v Haiti",
       "matchAr": "أمريكا × هايتي",
       "rawIsoTime": "2026-11-18T00:00:00+00:00",
-      "time": "2 - 0 (83')",
-      "rawMinute": 83,
+      "time": "2 - 0 (84')",
+      "rawMinute": 84,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -233,8 +233,8 @@
       "matchEn": "French Guiana v Saint Vincent And The Grenadines",
       "matchAr": "غويانا الفرنسية × سانت فنسنت والغرينادين",
       "rawIsoTime": "2026-11-18T00:00:00+00:00",
-      "time": "1 - 0 (90+4')",
-      "rawMinute": 94,
+      "time": "1 - 0 (90+5')",
+      "rawMinute": 95,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -247,9 +247,9 @@
       "matchEn": "El Salvador v Saint-Martin",
       "matchAr": "السلفادور × سان مارتان",
       "rawIsoTime": "2026-11-18T01:00:00+00:00",
-      "time": "0 - 0 (43')",
-      "rawMinute": 43,
-      "homeGoals": 0,
+      "time": "1 - 0 (44')",
+      "rawMinute": 45,
+      "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
     },
