@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795039935274,
+  "timestamp": 1795039990586,
   "matches": [
     {
       "matchId": 4632599,
@@ -422,6 +422,20 @@
       "isLive": false
     },
     {
+      "matchId": 4870805,
+      "competitionId": "13",
+      "tournamentEn": "🏆 Spanish Copa del Rey",
+      "tournamentAr": "🏆 كأس ملك إسبانيا",
+      "matchEn": "Reus Reddis v Barakaldo",
+      "matchAr": "ريوس ريديس × باراكالدو",
+      "rawIsoTime": "2026-11-18T19:30:00+00:00",
+      "time": "1 - 1 (done)",
+      "rawMinute": 120,
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "isLive": false
+    },
+    {
       "matchId": 4870811,
       "competitionId": "13",
       "tournamentEn": "🏆 Spanish Copa del Rey",
@@ -434,20 +448,6 @@
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": false
-    },
-    {
-      "matchId": 4870805,
-      "competitionId": "13",
-      "tournamentEn": "🏆 Spanish Copa del Rey",
-      "tournamentAr": "🏆 كأس ملك إسبانيا",
-      "matchEn": "Reus Reddis v Barakaldo",
-      "matchAr": "ريوس ريديس × باراكالدو",
-      "rawIsoTime": "2026-11-18T19:30:00+00:00",
-      "time": "4 - 4 (120')",
-      "rawMinute": 120,
-      "homeGoals": 4,
-      "awayGoals": 4,
-      "isLive": true
     }
   ]
 }
