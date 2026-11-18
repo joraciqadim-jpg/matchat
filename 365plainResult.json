@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794966790088,
+  "timestamp": 1794966854491,
   "matches": [
     {
       "matchId": 4632599,
@@ -233,8 +233,8 @@
       "matchEn": "USA v Haiti",
       "matchAr": "أمريكا × هايتي",
       "rawIsoTime": "2026-11-18T00:00:00+00:00",
-      "time": "2 - 0 (87')",
-      "rawMinute": 87,
+      "time": "2 - 0 (88')",
+      "rawMinute": 88,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -247,10 +247,10 @@
       "matchEn": "El Salvador v Saint-Martin",
       "matchAr": "السلفادور × سان مارتان",
       "rawIsoTime": "2026-11-18T01:00:00+00:00",
-      "time": "1 - 0 (45+2')",
-      "rawMinute": 47,
+      "time": "1 - 1 (45+3')",
+      "rawMinute": 48,
       "homeGoals": 1,
-      "awayGoals": 0,
+      "awayGoals": 1,
       "isLive": true
     },
     {
