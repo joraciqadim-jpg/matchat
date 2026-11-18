@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795040054745,
+  "timestamp": 1795040133222,
   "matches": [
     {
       "matchId": 4632599,
@@ -443,11 +443,11 @@
       "matchEn": "Deportiva Minera v Cartagena",
       "matchAr": "ديبورتيفا مينيرا × قرطاجنة",
       "rawIsoTime": "2026-11-18T19:30:00+00:00",
-      "time": "1 - 2 (done)",
+      "time": "1 - 2 (120')",
       "rawMinute": 120,
       "homeGoals": 1,
       "awayGoals": 2,
-      "isLive": false
+      "isLive": true
     }
   ]
 }
