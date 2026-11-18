@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795041191214,
+  "timestamp": 1795041253913,
   "matches": [
     {
       "matchId": 4632599,
@@ -9,11 +9,11 @@
       "matchEn": "Coritiba v Santos",
       "matchAr": "كوريتيبا × سانتوس",
       "rawIsoTime": "2026-11-18T22:30:00+00:00",
-      "time": "22:30",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4632597,
