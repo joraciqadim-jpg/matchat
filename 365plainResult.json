@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794964031363,
+  "timestamp": 1794964093913,
   "matches": [
     {
       "matchId": 4855911,
@@ -23,8 +23,8 @@
       "matchEn": "Ecuador v Bolivia",
       "matchAr": "الإكوادور × بوليفيا",
       "rawIsoTime": "2026-11-17T23:30:00+00:00",
-      "time": "2 - 0 (65')",
-      "rawMinute": 65,
+      "time": "2 - 0 (67')",
+      "rawMinute": 67,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -37,8 +37,8 @@
       "matchEn": "Uruguay v Dominican Republic",
       "matchAr": "الأوروغواي × جمهورية الدومينيكان",
       "rawIsoTime": "2026-11-17T23:30:00+00:00",
-      "time": "2 - 0 (77')",
-      "rawMinute": 77,
+      "time": "2 - 0 (78')",
+      "rawMinute": 78,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -275,8 +275,8 @@
       "matchEn": "French Guiana v Saint Vincent And The Grenadines",
       "matchAr": "غويانا الفرنسية × سانت فنسنت والغرينادين",
       "rawIsoTime": "2026-11-18T00:00:00+00:00",
-      "time": "1 - 0 (52')",
-      "rawMinute": 52,
+      "time": "1 - 0 (53')",
+      "rawMinute": 53,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -289,8 +289,8 @@
       "matchEn": "El Salvador v Saint-Martin",
       "matchAr": "السلفادور × سان مارتان",
       "rawIsoTime": "2026-11-18T01:00:00+00:00",
-      "time": "0 - 0 (1')",
-      "rawMinute": 1,
+      "time": "0 - 0 (2')",
+      "rawMinute": 2,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
