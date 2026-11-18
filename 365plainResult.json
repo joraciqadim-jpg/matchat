@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795034294589,
+  "timestamp": 1795034351609,
   "matches": [
     {
       "matchId": 4632599,
@@ -366,6 +366,20 @@
       "isLive": false
     },
     {
+      "matchId": 4870799,
+      "competitionId": "13",
+      "tournamentEn": "🏆 Spanish Copa del Rey",
+      "tournamentAr": "🏆 كأس ملك إسبانيا",
+      "matchEn": "Portugalete v Real Union",
+      "matchAr": "بورتوغاليتِه × ريال يونيون",
+      "rawIsoTime": "2026-11-18T18:00:00+00:00",
+      "time": "0 - 0 (done)",
+      "rawMinute": 120,
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": false
+    },
+    {
       "matchId": 4870821,
       "competitionId": "13",
       "tournamentEn": "🏆 Spanish Copa del Rey",
@@ -380,20 +394,6 @@
       "isLive": false
     },
     {
-      "matchId": 4870799,
-      "competitionId": "13",
-      "tournamentEn": "🏆 Spanish Copa del Rey",
-      "tournamentAr": "🏆 كأس ملك إسبانيا",
-      "matchEn": "Portugalete v Real Union",
-      "matchAr": "بورتوغاليتِه × ريال يونيون",
-      "rawIsoTime": "2026-11-18T18:00:00+00:00",
-      "time": "3 - 1 (120')",
-      "rawMinute": 120,
-      "homeGoals": 3,
-      "awayGoals": 1,
-      "isLive": true
-    },
-    {
       "matchId": 4870781,
       "competitionId": "13",
       "tournamentEn": "🏆 Spanish Copa del Rey",
@@ -401,8 +401,8 @@
       "matchEn": "Alcoyano v Mallorca",
       "matchAr": "ألكويانو × مايوركا",
       "rawIsoTime": "2026-11-18T19:00:00+00:00",
-      "time": "1 - 1 (78')",
-      "rawMinute": 78,
+      "time": "1 - 1 (79')",
+      "rawMinute": 79,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -415,8 +415,8 @@
       "matchEn": "CD Badajoz v Tenerife",
       "matchAr": "سي دي باداخوث × تينيريفي",
       "rawIsoTime": "2026-11-18T19:00:00+00:00",
-      "time": "2 - 4 (77')",
-      "rawMinute": 77,
+      "time": "2 - 4 (78')",
+      "rawMinute": 78,
       "homeGoals": 2,
       "awayGoals": 4,
       "isLive": true
@@ -429,8 +429,8 @@
       "matchEn": "Reus Reddis v Barakaldo",
       "matchAr": "ريوس ريديس × باراكالدو",
       "rawIsoTime": "2026-11-18T19:30:00+00:00",
-      "time": "0 - 0 (52')",
-      "rawMinute": 52,
+      "time": "0 - 0 (53')",
+      "rawMinute": 53,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -443,8 +443,8 @@
       "matchEn": "Deportiva Minera v Cartagena",
       "matchAr": "ديبورتيفا مينيرا × قرطاجنة",
       "rawIsoTime": "2026-11-18T19:30:00+00:00",
-      "time": "0 - 0 (55')",
-      "rawMinute": 55,
+      "time": "0 - 0 (56')",
+      "rawMinute": 56,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
