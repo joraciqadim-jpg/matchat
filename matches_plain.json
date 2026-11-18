@@ -1,26 +1,6 @@
 {
   "matches": [
     {
-      "tournamentEn": "🇸🇦 Saudi Arabia Division 1",
-      "tournamentAr": "🇸🇦 الدوري السعودي - الدرجة 1",
-      "matchEn": "Al Adalah v Al Orobah",
-      "matchAr": "العدالة × العروبة",
-      "time": "14:30",
-      "channels": [
-        "📺 Thmanyah 1 [Badrsat 26.0E 11919 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🏆 Egypt Cup",
-      "tournamentAr": "🏆 كأس مصر",
-      "matchEn": "El Gouna v Al-Ittihad",
-      "matchAr": "الجونة × الاتحاد",
-      "time": "15:00",
-      "channels": [
-        "📺 On Sport 1 [Nilesat 7.0W 11862 V 27500]"
-      ]
-    },
-    {
       "tournamentEn": "🇧🇷 Brazilian Serie A",
       "tournamentAr": "🇧🇷 الدوري البرازيلي الممتاز",
       "matchEn": "Coritiba v Santos",
