@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794966976179,
+  "timestamp": 1794967030658,
   "matches": [
     {
       "matchId": 4632599,
@@ -55,6 +55,20 @@
       "rawMinute": 1,
       "homeGoals": -1,
       "awayGoals": -1,
+      "isLive": false
+    },
+    {
+      "matchId": 4874691,
+      "competitionId": "7165",
+      "tournamentEn": "🛡️ CONCACAF Nations League",
+      "tournamentAr": "🛡️ دوري أمم الكونكاكاف",
+      "matchEn": "USA v Haiti",
+      "matchAr": "أمريكا × هايتي",
+      "rawIsoTime": "2026-11-18T00:00:00+00:00",
+      "time": "2 - 0 (done)",
+      "rawMinute": 90,
+      "homeGoals": 2,
+      "awayGoals": 0,
       "isLive": false
     },
     {
@@ -224,20 +238,6 @@
       "homeGoals": -1,
       "awayGoals": -1,
       "isLive": false
-    },
-    {
-      "matchId": 4874691,
-      "competitionId": "7165",
-      "tournamentEn": "🛡️ CONCACAF Nations League",
-      "tournamentAr": "🛡️ دوري أمم الكونكاكاف",
-      "matchEn": "USA v Haiti",
-      "matchAr": "أمريكا × هايتي",
-      "rawIsoTime": "2026-11-18T00:00:00+00:00",
-      "time": "2 - 0 (90')",
-      "rawMinute": 90,
-      "homeGoals": 2,
-      "awayGoals": 0,
-      "isLive": true
     },
     {
       "matchId": 4874690,
