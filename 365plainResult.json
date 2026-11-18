@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795036694332,
+  "timestamp": 1795036750576,
   "matches": [
     {
       "matchId": 4632599,
@@ -415,10 +415,10 @@
       "matchEn": "Alcoyano v Mallorca",
       "matchAr": "ألكويانو × مايوركا",
       "rawIsoTime": "2026-11-18T19:00:00+00:00",
-      "time": "1 - 1 (107')",
-      "rawMinute": 107,
+      "time": "1 - 2 (108')",
+      "rawMinute": 108,
       "homeGoals": 1,
-      "awayGoals": 1,
+      "awayGoals": 2,
       "isLive": true
     },
     {
@@ -429,8 +429,8 @@
       "matchEn": "Reus Reddis v Barakaldo",
       "matchAr": "ريوس ريديس × باراكالدو",
       "rawIsoTime": "2026-11-18T19:30:00+00:00",
-      "time": "1 - 1 (90+2')",
-      "rawMinute": 92,
+      "time": "1 - 1 (90+3')",
+      "rawMinute": 93,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -443,8 +443,8 @@
       "matchEn": "Deportiva Minera v Cartagena",
       "matchAr": "ديبورتيفا مينيرا × قرطاجنة",
       "rawIsoTime": "2026-11-18T19:30:00+00:00",
-      "time": "1 - 1 (90+5')",
-      "rawMinute": 95,
+      "time": "1 - 1 (90+6')",
+      "rawMinute": 96,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
