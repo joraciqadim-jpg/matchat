@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795027574302,
+  "timestamp": 1795027630759,
   "matches": [
     {
       "matchId": 4632599,
@@ -387,8 +387,8 @@
       "matchEn": "Utebo v Sabadell",
       "matchAr": "أوتيبو × ساباديل",
       "rawIsoTime": "2026-11-18T18:00:00+00:00",
-      "time": "0 - 3 (45+1')",
-      "rawMinute": 46,
+      "time": "0 - 3 (Halftime)",
+      "rawMinute": 45,
       "homeGoals": 0,
       "awayGoals": 3,
       "isLive": true
