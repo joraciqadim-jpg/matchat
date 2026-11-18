@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795039751468,
+  "timestamp": 1795039834303,
   "matches": [
     {
       "matchId": 4632599,
@@ -443,10 +443,10 @@
       "matchEn": "Reus Reddis v Barakaldo",
       "matchAr": "ريوس ريديس × باراكالدو",
       "rawIsoTime": "2026-11-18T19:30:00+00:00",
-      "time": "2 - 3 (120')",
+      "time": "3 - 4 (120')",
       "rawMinute": 120,
-      "homeGoals": 2,
-      "awayGoals": 3,
+      "homeGoals": 3,
+      "awayGoals": 4,
       "isLive": true
     }
   ]
