@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795023253456,
+  "timestamp": 1795023322234,
   "matches": [
     {
       "matchId": 4632599,
@@ -331,8 +331,8 @@
       "matchEn": "El Gounah v Al Ittehad",
       "matchAr": "الجونة × الاتحاد",
       "rawIsoTime": "2026-11-18T15:00:00+00:00",
-      "time": "0 - 1 (115')",
-      "rawMinute": 115,
+      "time": "0 - 1 (116')",
+      "rawMinute": 116,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -345,8 +345,8 @@
       "matchEn": "CS Constantine v Es Ben Aknoun",
       "matchAr": "النادي القسنطيني × اتحاد بن عكنون",
       "rawIsoTime": "2026-11-18T16:45:00+00:00",
-      "time": "1 - 0 (45+1')",
-      "rawMinute": 46,
+      "time": "1 - 0 (Halftime)",
+      "rawMinute": 45,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
