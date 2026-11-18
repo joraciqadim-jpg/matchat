@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794961390957,
+  "timestamp": 1794961454226,
   "matches": [
     {
       "matchId": 4855911,
@@ -9,8 +9,8 @@
       "matchEn": "Chile v Colombia",
       "matchAr": "تشيلي × كولومبيا",
       "rawIsoTime": "2026-11-17T23:00:00+00:00",
-      "time": "0 - 0 (53')",
-      "rawMinute": 53,
+      "time": "0 - 0 (54')",
+      "rawMinute": 55,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -23,8 +23,8 @@
       "matchEn": "Argentina v Costa Rica",
       "matchAr": "الأرجنتين × كوستاريكا",
       "rawIsoTime": "2026-11-17T23:00:00+00:00",
-      "time": "5 - 0 (63')",
-      "rawMinute": 63,
+      "time": "5 - 0 (64')",
+      "rawMinute": 65,
       "homeGoals": 5,
       "awayGoals": 0,
       "isLive": true
@@ -37,8 +37,8 @@
       "matchEn": "Ecuador v Bolivia",
       "matchAr": "الإكوادور × بوليفيا",
       "rawIsoTime": "2026-11-17T23:30:00+00:00",
-      "time": "1 - 0 (45+1')",
-      "rawMinute": 46,
+      "time": "1 - 0 (45+2')",
+      "rawMinute": 47,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -275,8 +275,8 @@
       "matchEn": "USA v Haiti",
       "matchAr": "أمريكا × هايتي",
       "rawIsoTime": "2026-11-18T00:00:00+00:00",
-      "time": "0 - 0 (16')",
-      "rawMinute": 16,
+      "time": "0 - 0 (17')",
+      "rawMinute": 17,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -289,9 +289,9 @@
       "matchEn": "French Guiana v Saint Vincent And The Grenadines",
       "matchAr": "غويانا الفرنسية × سانت فنسنت والغرينادين",
       "rawIsoTime": "2026-11-18T00:00:00+00:00",
-      "time": "0 - 0 (24')",
-      "rawMinute": 24,
-      "homeGoals": 0,
+      "time": "1 - 0 (25')",
+      "rawMinute": 25,
+      "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
     },
