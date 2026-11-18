@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794960076588,
+  "timestamp": 1794960080289,
   "matches": [
     {
       "matchId": 4855911,
@@ -383,9 +383,9 @@
       "matchId": 4887086,
       "competitionId": "5831",
       "tournamentEn": "🇶🇦 Qatari Q League",
-      "tournamentAr": "🇶🇦 الدوري القطري Q",
+      "tournamentAr": "🇶🇦 دوري Q القطري",
       "matchEn": "Al Rayyan Next Generation v Mesaimeer",
-      "matchAr": "الريان للجيل القادم × المسيمير",
+      "matchAr": "الريان نكست جينيريشن × مسيمير",
       "rawIsoTime": "2026-11-18T16:30:00+00:00",
       "time": "16:30",
       "rawMinute": 1,
@@ -427,7 +427,7 @@
       "tournamentEn": "🏆 Spanish Copa del Rey",
       "tournamentAr": "🏆 كأس ملك إسبانيا",
       "matchEn": "Portugalete v Real Union",
-      "matchAr": "بورتوغاليتي × ريال يونيون",
+      "matchAr": "بورتوغاليتِه × ريال يونيون",
       "rawIsoTime": "2026-11-18T18:00:00+00:00",
       "time": "18:00",
       "rawMinute": 1,
@@ -469,7 +469,7 @@
       "tournamentEn": "🏆 Spanish Copa del Rey",
       "tournamentAr": "🏆 كأس ملك إسبانيا",
       "matchEn": "CD Badajoz v Tenerife",
-      "matchAr": "نادي باداخوث × تنيريفي",
+      "matchAr": "سي دي باداخوث × تينيريفي",
       "rawIsoTime": "2026-11-18T19:00:00+00:00",
       "time": "19:00",
       "rawMinute": 1,
