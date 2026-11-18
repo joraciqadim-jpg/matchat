@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795039151378,
+  "timestamp": 1795039270621,
   "matches": [
     {
       "matchId": 4632599,
@@ -422,20 +422,6 @@
       "isLive": false
     },
     {
-      "matchId": 4870805,
-      "competitionId": "13",
-      "tournamentEn": "🏆 Spanish Copa del Rey",
-      "tournamentAr": "🏆 كأس ملك إسبانيا",
-      "matchEn": "Reus Reddis v Barakaldo",
-      "matchAr": "ريوس ريديس × باراكالدو",
-      "rawIsoTime": "2026-11-18T19:30:00+00:00",
-      "time": "1 - 1 (118')",
-      "rawMinute": 118,
-      "homeGoals": 1,
-      "awayGoals": 1,
-      "isLive": true
-    },
-    {
       "matchId": 4870811,
       "competitionId": "13",
       "tournamentEn": "🏆 Spanish Copa del Rey",
@@ -443,10 +429,24 @@
       "matchEn": "Deportiva Minera v Cartagena",
       "matchAr": "ديبورتيفا مينيرا × قرطاجنة",
       "rawIsoTime": "2026-11-18T19:30:00+00:00",
-      "time": "1 - 2 (120+1')",
-      "rawMinute": 121,
+      "time": "1 - 2 (done)",
+      "rawMinute": 120,
       "homeGoals": 1,
       "awayGoals": 2,
+      "isLive": false
+    },
+    {
+      "matchId": 4870805,
+      "competitionId": "13",
+      "tournamentEn": "🏆 Spanish Copa del Rey",
+      "tournamentAr": "🏆 كأس ملك إسبانيا",
+      "matchEn": "Reus Reddis v Barakaldo",
+      "matchAr": "ريوس ريديس × باراكالدو",
+      "rawIsoTime": "2026-11-18T19:30:00+00:00",
+      "time": "1 - 1 (120')",
+      "rawMinute": 120,
+      "homeGoals": 1,
+      "awayGoals": 1,
       "isLive": true
     }
   ]
