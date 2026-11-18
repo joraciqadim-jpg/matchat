@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795031470987,
+  "timestamp": 1795031534090,
   "matches": [
     {
       "matchId": 4632599,
@@ -366,6 +366,20 @@
       "isLive": false
     },
     {
+      "matchId": 4870821,
+      "competitionId": "13",
+      "tournamentEn": "🏆 Spanish Copa del Rey",
+      "tournamentAr": "🏆 كأس ملك إسبانيا",
+      "matchEn": "Utebo v Sabadell",
+      "matchAr": "أوتيبو × ساباديل",
+      "rawIsoTime": "2026-11-18T18:00:00+00:00",
+      "time": "0 - 3 (done)",
+      "rawMinute": 90,
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "isLive": false
+    },
+    {
       "matchId": 4870799,
       "competitionId": "13",
       "tournamentEn": "🏆 Spanish Copa del Rey",
@@ -377,20 +391,6 @@
       "rawMinute": 90,
       "homeGoals": 0,
       "awayGoals": 0,
-      "isLive": true
-    },
-    {
-      "matchId": 4870821,
-      "competitionId": "13",
-      "tournamentEn": "🏆 Spanish Copa del Rey",
-      "tournamentAr": "🏆 كأس ملك إسبانيا",
-      "matchEn": "Utebo v Sabadell",
-      "matchAr": "أوتيبو × ساباديل",
-      "rawIsoTime": "2026-11-18T18:00:00+00:00",
-      "time": "0 - 3 (90+4')",
-      "rawMinute": 94,
-      "homeGoals": 0,
-      "awayGoals": 3,
       "isLive": true
     },
     {
@@ -415,8 +415,8 @@
       "matchEn": "CD Badajoz v Tenerife",
       "matchAr": "سي دي باداخوث × تينيريفي",
       "rawIsoTime": "2026-11-18T19:00:00+00:00",
-      "time": "0 - 3 (45+3')",
-      "rawMinute": 48,
+      "time": "0 - 3 (Halftime)",
+      "rawMinute": 45,
       "homeGoals": 0,
       "awayGoals": 3,
       "isLive": true
@@ -429,8 +429,8 @@
       "matchEn": "Reus Reddis v Barakaldo",
       "matchAr": "ريوس ريديس × باراكالدو",
       "rawIsoTime": "2026-11-18T19:30:00+00:00",
-      "time": "0 - 0 (20')",
-      "rawMinute": 20,
+      "time": "0 - 0 (21')",
+      "rawMinute": 21,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -443,8 +443,8 @@
       "matchEn": "Deportiva Minera v Cartagena",
       "matchAr": "ديبورتيفا مينيرا × قرطاجنة",
       "rawIsoTime": "2026-11-18T19:30:00+00:00",
-      "time": "0 - 0 (22')",
-      "rawMinute": 22,
+      "time": "0 - 0 (23')",
+      "rawMinute": 23,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
