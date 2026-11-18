@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795023791158,
+  "timestamp": 1795023854175,
   "matches": [
     {
       "matchId": 4632599,
@@ -154,6 +154,20 @@
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
+    },
+    {
+      "matchId": 4893635,
+      "competitionId": "553",
+      "tournamentEn": "🏆 Egyptian Cup",
+      "tournamentAr": "🏆 كأس مصر",
+      "matchEn": "El Gounah v Al Ittehad",
+      "matchAr": "الجونة × الاتحاد",
+      "rawIsoTime": "2026-11-18T15:00:00+00:00",
+      "time": "0 - 1 (done)",
+      "rawMinute": 120,
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "isLive": false
     },
     {
       "matchId": 4887086,
@@ -322,20 +336,6 @@
       "homeGoals": -1,
       "awayGoals": -1,
       "isLive": false
-    },
-    {
-      "matchId": 4893635,
-      "competitionId": "553",
-      "tournamentEn": "🏆 Egyptian Cup",
-      "tournamentAr": "🏆 كأس مصر",
-      "matchEn": "El Gounah v Al Ittehad",
-      "matchAr": "الجونة × الاتحاد",
-      "rawIsoTime": "2026-11-18T15:00:00+00:00",
-      "time": "0 - 1 (120+4')",
-      "rawMinute": 124,
-      "homeGoals": 0,
-      "awayGoals": 1,
-      "isLive": true
     },
     {
       "matchId": 4890774,
