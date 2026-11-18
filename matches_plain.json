@@ -1,13 +1,13 @@
 {
   "matches": [
     {
-      "tournamentEn": "✨ International Friendly Games",
-      "tournamentAr": "✨ مباريات ودية دولية",
-      "matchEn": "Saudi Arabia v Uzbekistan",
-      "matchAr": "السعودية × أوزبكستان",
-      "time": "15:30",
+      "tournamentEn": "🇸🇦 Saudi Arabia Division 1",
+      "tournamentAr": "🇸🇦 الدوري السعودي - الدرجة 1",
+      "matchEn": "Al Adalah v Al Orobah",
+      "matchAr": "العدالة × العروبة",
+      "time": "14:30",
       "channels": [
-        "📺 Persiana Sports 2 [Al-Yah 52.5E 11343 H 27500]"
+        "📺 Thmanyah 1 [Badrsat 26.0E 11919 H 27500]"
       ]
     },
     {
@@ -21,56 +21,15 @@
       ]
     },
     {
-      "tournamentEn": "🇺🇸 USA NBA",
-      "tournamentAr": "🇺🇸 الدوري الأميركي لكرة السلة",
-      "matchEn": "Toronto Raptors v New York Knicks",
-      "matchAr": "تورنتو رابتورز × نيويورك نيكس",
-      "time": "00:30",
+      "tournamentEn": "🇧🇷 Brazilian Serie A",
+      "tournamentAr": "🇧🇷 الدوري البرازيلي الممتاز",
+      "matchEn": "Coritiba v Santos",
+      "matchAr": "كوريتيبا × سانتوس",
+      "time": "22:30",
       "channels": [
-        "📺 Sport 1 HD HUN [Thor 0.8W 12034 V 30000]",
-        "📺 Sport Klub 1 HRV [Eutelsat 16.0E 11471 H 30000]",
-        "📺 Sport Klub 1 SLO [Eutelsat 16.0E 11471 H 30000]"
-      ]
-    },
-    {
-      "tournamentEn": "🇺🇸 USA NBA",
-      "tournamentAr": "🇺🇸 الدوري الأميركي لكرة السلة",
-      "matchEn": "Minnesota Timberwolves v Trail Blazers",
-      "matchAr": "مينيسوتا تمبرولفز × ترايل بلايزرز",
-      "time": "01:00",
-      "channels": [
-        "📺 5 Stars [Amos 4.0W 11259 V 30000]"
-      ]
-    },
-    {
-      "tournamentEn": "🇺🇸 USA NBA",
-      "tournamentAr": "🇺🇸 الدوري الأميركي لكرة السلة",
-      "matchEn": "SanAntonio Spurs v Pistons",
-      "matchAr": "سان أنتونيو سبيرز × بيستونز",
-      "time": "01:00",
-      "channels": [
-        "📺 Sport TV 2 [Hispasat 30W 12360 H 27500]",
-        "📺 Bein Sport 8 [Nilesat 7.0W 11054 H 27500]",
-        "📺 5 Sport [Amos 4.0W 11259 V 30000]",
-        "📺 Nova Sport 2 CZ [Thor 0.8W 12380 V 30000]",
-        "📺 Go 3 Sport 1 [Astra 4.8E 11938 V 27500]",
-        "📺 Diema Sport 3 [Hotbird 13.0E 12673 V 30000]",
-        "📺 Eurosport 3 [Hotbird 13.0E 12015 H 27500]",
-        "📺 Magenta Sport 4 [Hotbird 13.0E 11938 H 30000]",
-        "📺 Sky Sport Basket [Hotbird 13.0E 11843 V 29900]",
-        "📺 Arena Premium 1 SRB [Eutelsat 16.0E 11366 V 30000]",
-        "📺 Sky Sport 1 [Astra 19.2E 11914 H 27500]",
-        "📺 Sky Sport Top Event [Astra 19.2E 11914 H 27500]",
-        "📺 Nova Sport 2 CZ [Eutelsat 23.5E 11973 V 29900]",
-        "📺 Bein Sport 8 [Badrsat 26.0E 10810 V 27500]",
-        "📺 BeIn Sports English 1 [Badrsat 26.0E 10850 V 27500]",
-        "📺 Sky Sports Main Event [Astra 28.2E 12012 V 27500]",
-        "📺 Sky Sports+ ( Arena ) [Astra 28.2E 12226 H 27500]",
-        "📺 SuperSport Action [Eutelsat 36.0E 12341 V 27500]",
-        "📺 SuperSport Grandstand [Eutelsat 36.0E 12341 V 27500]",
-        "📺 SuperSport Máximo 1 [Eutelsat 36.0E 12169 H 27500]",
-        "📺 S Sport [Turksat 42.0E 11853 H 25000]",
-        "📺 Varzish TV [Al-Yah 52.5E 11785 H 27500]"
+        "📺 Sport 4 [Amos 4.0W 11259 V 30000]",
+        "📺 M+ Vamos [Astra 19.2E 10818 V 22000]",
+        "📺 Premier Sports 2 [Astra 28.2E 12188 H 27500]"
       ]
     },
     {
