@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795128035278,
+  "timestamp": 1795128057076,
   "matches": [
     {
       "matchId": 4632600,
@@ -9,11 +9,11 @@
       "matchEn": "Gremio v Bahia",
       "matchAr": "غريميو × باهيا",
       "rawIsoTime": "2026-11-19T00:30:00+00:00",
-      "time": "0 - 0 (90')",
+      "time": "0 - 0 (done)",
       "rawMinute": 90,
       "homeGoals": 0,
       "awayGoals": 0,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4632603,
@@ -23,11 +23,11 @@
       "matchEn": "Corinthians v Botafogo",
       "matchAr": "كورينثيانز × بوتافوغو",
       "rawIsoTime": "2026-11-19T00:30:00+00:00",
-      "time": "4 - 0 (90')",
+      "time": "4 - 0 (done)",
       "rawMinute": 90,
       "homeGoals": 4,
       "awayGoals": 0,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4632598,
@@ -37,7 +37,7 @@
       "matchEn": "Vitoria v RB Bragantino",
       "matchAr": "فيتوريا × آر بي براغانتينو",
       "rawIsoTime": "2026-11-19T22:30:00+00:00",
-      "time": "1 - 0 (9')",
+      "time": "1 - 0 (10')",
       "rawMinute": 10,
       "homeGoals": 1,
       "awayGoals": 0,
@@ -51,8 +51,8 @@
       "matchEn": "Vasco da Gama v Internacional",
       "matchAr": "فاسكو دي غاما × إنترناسيونال",
       "rawIsoTime": "2026-11-19T22:30:00+00:00",
-      "time": "0 - 0 (9')",
-      "rawMinute": 9,
+      "time": "0 - 0 (10')",
+      "rawMinute": 10,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -65,11 +65,11 @@
       "matchEn": "Al Shorta Damascus v Tishreen",
       "matchAr": "الشرطة الدمشقي × تشرين",
       "rawIsoTime": "2026-11-19T12:00:00+00:00",
-      "time": "1 - 2 (90')",
+      "time": "1 - 2 (done)",
       "rawMinute": 90,
       "homeGoals": 1,
       "awayGoals": 2,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4866908,
@@ -79,11 +79,11 @@
       "matchEn": "Al Wasl v Hatta",
       "matchAr": "الوصل × حتا",
       "rawIsoTime": "2026-11-19T12:45:00+00:00",
-      "time": "2 - 1 (90')",
+      "time": "2 - 1 (done)",
       "rawMinute": 90,
       "homeGoals": 2,
       "awayGoals": 1,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4886958,
@@ -93,11 +93,11 @@
       "matchEn": "Al Salt v Al Yarmouk",
       "matchAr": "السلط × اليرموك",
       "rawIsoTime": "2026-11-19T13:00:00+00:00",
-      "time": "5 - 0 (90')",
+      "time": "5 - 0 (done)",
       "rawMinute": 90,
       "homeGoals": 5,
       "awayGoals": 0,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4806874,
@@ -107,11 +107,11 @@
       "matchEn": "Diyala v Al Kahrabaa",
       "matchAr": "ديالى × الكهرباء",
       "rawIsoTime": "2026-11-19T13:45:00+00:00",
-      "time": "1 - 1 (90')",
+      "time": "1 - 1 (done)",
       "rawMinute": 90,
       "homeGoals": 1,
       "awayGoals": 1,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4893636,
@@ -121,11 +121,11 @@
       "matchEn": "Al Masry v Petrol Asyut",
       "matchAr": "المصري × بترول أسيوط",
       "rawIsoTime": "2026-11-19T15:00:00+00:00",
-      "time": "3 - 0 (90')",
+      "time": "3 - 0 (done)",
       "rawMinute": 90,
       "homeGoals": 3,
       "awayGoals": 0,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4893637,
@@ -149,11 +149,11 @@
       "matchEn": "Al Ain v Al Dhafra",
       "matchAr": "العين × الظفرة",
       "rawIsoTime": "2026-11-19T15:25:00+00:00",
-      "time": "2 - 1 (90')",
+      "time": "2 - 1 (done)",
       "rawMinute": 90,
       "homeGoals": 2,
       "awayGoals": 1,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4779206,
@@ -163,11 +163,11 @@
       "matchEn": "Al-Ahli Doha v Al Shamal",
       "matchAr": "الأهلي الدوحة × الشمال",
       "rawIsoTime": "2026-11-19T15:30:00+00:00",
-      "time": "1 - 1 (90')",
+      "time": "1 - 1 (done)",
       "rawMinute": 90,
       "homeGoals": 1,
       "awayGoals": 1,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4806869,
@@ -177,11 +177,11 @@
       "matchEn": "Al Garaf v Quwa Al Jawiya",
       "matchAr": "الغراف × القوة الجوية",
       "rawIsoTime": "2026-11-19T15:30:00+00:00",
-      "time": "2 - 3 (90')",
+      "time": "2 - 3 (done)",
       "rawMinute": 90,
       "homeGoals": 2,
       "awayGoals": 3,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4806876,
@@ -191,11 +191,11 @@
       "matchEn": "Gas Alshimal v Karkh",
       "matchAr": "غاز الشمال × الكرخ",
       "rawIsoTime": "2026-11-19T16:00:00+00:00",
-      "time": "1 - 0 (90')",
+      "time": "1 - 0 (done)",
       "rawMinute": 90,
       "homeGoals": 1,
       "awayGoals": 0,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4886954,
@@ -205,11 +205,11 @@
       "matchEn": "Al Jazeera v Hay AL Amir Hassan",
       "matchAr": "الجزيرة × حي الأمير حسن",
       "rawIsoTime": "2026-11-19T16:00:00+00:00",
-      "time": "0 - 1 (90')",
+      "time": "0 - 1 (done)",
       "rawMinute": 90,
       "homeGoals": 0,
       "awayGoals": 1,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4890776,
@@ -219,11 +219,11 @@
       "matchEn": "MB Rouisset v CR Belouizdad",
       "matchAr": "مولودية الرويسات × شباب بلوزداد",
       "rawIsoTime": "2026-11-19T16:45:00+00:00",
-      "time": "1 - 0 (90')",
+      "time": "1 - 0 (done)",
       "rawMinute": 90,
       "homeGoals": 1,
       "awayGoals": 0,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4890777,
@@ -233,11 +233,11 @@
       "matchEn": "MC Alger v Olympique Akbou",
       "matchAr": "مولودية الجزائر × أولمبيك أقبو",
       "rawIsoTime": "2026-11-19T16:45:00+00:00",
-      "time": "0 - 1 (90')",
+      "time": "0 - 1 (done)",
       "rawMinute": 90,
       "homeGoals": 0,
       "awayGoals": 1,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4893638,
@@ -261,11 +261,11 @@
       "matchEn": "JS Kabylie v USM Alger",
       "matchAr": "شبيبة القبائل × اتحاد الجزائر",
       "rawIsoTime": "2026-11-19T19:00:00+00:00",
-      "time": "2 - 0 (90')",
+      "time": "2 - 0 (done)",
       "rawMinute": 90,
       "homeGoals": 2,
       "awayGoals": 0,
-      "isLive": true
+      "isLive": false
     }
   ]
 }
