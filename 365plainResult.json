@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795051094202,
+  "timestamp": 1795051150723,
   "matches": [
     {
       "matchId": 4632601,
@@ -9,8 +9,8 @@
       "matchEn": "Cruzeiro v Palmeiras",
       "matchAr": "كروزيرو × بالميراس",
       "rawIsoTime": "2026-11-18T23:30:00+00:00",
-      "time": "2 - 1 (87')",
-      "rawMinute": 87,
+      "time": "2 - 1 (88')",
+      "rawMinute": 88,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -23,8 +23,8 @@
       "matchEn": "Flamengo v Athletico Paranaense",
       "matchAr": "فلامنغو × أتلتيكو باراناينسي",
       "rawIsoTime": "2026-11-18T23:30:00+00:00",
-      "time": "2 - 1 (86')",
-      "rawMinute": 86,
+      "time": "2 - 1 (87')",
+      "rawMinute": 87,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -37,8 +37,8 @@
       "matchEn": "Gremio v Bahia",
       "matchAr": "غريميو × باهيا",
       "rawIsoTime": "2026-11-19T00:30:00+00:00",
-      "time": "0 - 0 (45+3')",
-      "rawMinute": 48,
+      "time": "0 - 0 (Halftime)",
+      "rawMinute": 45,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
