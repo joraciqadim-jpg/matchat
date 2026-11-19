@@ -1,20 +1,6 @@
 {
-  "timestamp": 1795051631060,
+  "timestamp": 1795051694422,
   "matches": [
-    {
-      "matchId": 4632601,
-      "competitionId": "113",
-      "tournamentEn": "🇧🇷 Brazilian Série A",
-      "tournamentAr": "🇧🇷 الدوري البرازيلي",
-      "matchEn": "Cruzeiro v Palmeiras",
-      "matchAr": "كروزيرو × بالميراس",
-      "rawIsoTime": "2026-11-18T23:30:00+00:00",
-      "time": "2 - 1 (90+6')",
-      "rawMinute": 96,
-      "homeGoals": 2,
-      "awayGoals": 1,
-      "isLive": true
-    },
     {
       "matchId": 4632606,
       "competitionId": "113",
@@ -23,8 +9,22 @@
       "matchEn": "Flamengo v Athletico Paranaense",
       "matchAr": "فلامنغو × أتلتيكو باراناينسي",
       "rawIsoTime": "2026-11-18T23:30:00+00:00",
-      "time": "2 - 1 (90+5')",
-      "rawMinute": 95,
+      "time": "2 - 1 (done)",
+      "rawMinute": 90,
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "isLive": false
+    },
+    {
+      "matchId": 4632601,
+      "competitionId": "113",
+      "tournamentEn": "🇧🇷 Brazilian Série A",
+      "tournamentAr": "🇧🇷 الدوري البرازيلي",
+      "matchEn": "Cruzeiro v Palmeiras",
+      "matchAr": "كروزيرو × بالميراس",
+      "rawIsoTime": "2026-11-18T23:30:00+00:00",
+      "time": "2 - 1 (90+7')",
+      "rawMinute": 97,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
