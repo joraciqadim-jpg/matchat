@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795098975005,
+  "timestamp": 1795099031592,
   "matches": [
     {
       "matchId": 4632600,
@@ -79,8 +79,8 @@
       "matchEn": "Al Wasl v Hatta",
       "matchAr": "الوصل × حتا",
       "rawIsoTime": "2026-11-19T12:45:00+00:00",
-      "time": "2 - 0 (90+2')",
-      "rawMinute": 92,
+      "time": "2 - 0 (90+3')",
+      "rawMinute": 93,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -93,8 +93,8 @@
       "matchEn": "Al Salt v Al Yarmouk",
       "matchAr": "السلط × اليرموك",
       "rawIsoTime": "2026-11-19T13:00:00+00:00",
-      "time": "3 - 0 (80')",
-      "rawMinute": 80,
+      "time": "3 - 0 (81')",
+      "rawMinute": 81,
       "homeGoals": 3,
       "awayGoals": 0,
       "isLive": true
