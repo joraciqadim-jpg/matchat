@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795110551623,
+  "timestamp": 1795110634246,
   "matches": [
     {
       "matchId": 4632600,
@@ -191,10 +191,10 @@
       "matchEn": "Al Mokawloon Al Arab v El Qanah",
       "matchAr": "المقاولون العرب × القناة",
       "rawIsoTime": "2026-11-19T15:00:00+00:00",
-      "time": "3 - 2 (120')",
+      "time": "4 - 3 (120')",
       "rawMinute": 120,
-      "homeGoals": 3,
-      "awayGoals": 2,
+      "homeGoals": 4,
+      "awayGoals": 3,
       "isLive": true
     },
     {
@@ -219,8 +219,8 @@
       "matchEn": "MB Rouisset v CR Belouizdad",
       "matchAr": "مولودية الرويسات × شباب بلوزداد",
       "rawIsoTime": "2026-11-19T16:45:00+00:00",
-      "time": "0 - 0 (Halftime)",
-      "rawMinute": 45,
+      "time": "0 - 0 (47')",
+      "rawMinute": 47,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
