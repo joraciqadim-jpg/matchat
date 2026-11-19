@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795096455291,
+  "timestamp": 1795096523040,
   "matches": [
     {
       "matchId": 4632600,
@@ -65,8 +65,8 @@
       "matchEn": "Al Shorta Damascus v Tishreen",
       "matchAr": "الشرطة الدمشقي × تشرين",
       "rawIsoTime": "2026-11-19T12:00:00+00:00",
-      "time": "1 - 2 (90+1')",
-      "rawMinute": 91,
+      "time": "1 - 2 (90+2')",
+      "rawMinute": 92,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -79,8 +79,8 @@
       "matchEn": "Al Wasl v Hatta",
       "matchAr": "الوصل × حتا",
       "rawIsoTime": "2026-11-19T12:45:00+00:00",
-      "time": "1 - 0 (50')",
-      "rawMinute": 50,
+      "time": "1 - 0 (52')",
+      "rawMinute": 52,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -107,8 +107,8 @@
       "matchEn": "Diyala v Al Kahrabaa",
       "matchAr": "ديالى × الكهرباء",
       "rawIsoTime": "2026-11-19T13:45:00+00:00",
-      "time": "1 - 0 (7')",
-      "rawMinute": 8,
+      "time": "1 - 0 (8')",
+      "rawMinute": 9,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
