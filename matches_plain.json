@@ -184,34 +184,6 @@
       "channels": [
         "📺 On Sport MAX [Nilesat 7.0W 11977 V 27500]"
       ]
-    },
-    {
-      "tournamentEn": "🇺🇸 USA NBA",
-      "tournamentAr": "🇺🇸 الدوري الأميركي لكرة السلة",
-      "matchEn": "Denver Nuggets v Celtics",
-      "matchAr": "دنفر ناغتس × سيلتكس",
-      "time": "02:30",
-      "channels": [
-        "📺 Sport TV 2 [Hispasat 30W 12360 H 27500]",
-        "📺 Bein Sport 1 [Nilesat 7.0W 11013 H 27500]",
-        "📺 Go 3 Sport 2 [Astra 4.8E 11958 H 27500]",
-        "📺 BeIn Sports 1 France [Astra 19.2E 12168 V 29700]",
-        "📺 Bein Sport 1 [Badrsat 26.0E 10810 H 27500]",
-        "📺 BeIn Sports English 2 [Badrsat 26.0E 11390 V 27500]",
-        "📺 BeIn Sports French 1 [Badrsat 26.0E 11390 V 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🇺🇸 USA NBA",
-      "tournamentAr": "🇺🇸 الدوري الأميركي لكرة السلة",
-      "matchEn": "Lakers v Jazz",
-      "matchAr": "ليكرز × جاز",
-      "time": "03:00",
-      "channels": [
-        "📺 Sport Klub 1 HRV [Eutelsat 16.0E 11471 H 30000]",
-        "📺 Sport Klub 1 SLO [Eutelsat 16.0E 11471 H 30000]",
-        "📺 Persiana Sports 1 [Al-Yah 52.5E 11343 H 27500]"
-      ]
     }
   ]
 }
