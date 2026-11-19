@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795055173684,
+  "timestamp": 1795089667314,
   "matches": [
     {
       "matchId": 4632600,
@@ -65,11 +65,11 @@
       "matchEn": "Al Shorta Damascus v Tishreen",
       "matchAr": "الشرطة الدمشقي × تشرين",
       "rawIsoTime": "2026-11-19T12:00:00+00:00",
-      "time": "12:00",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "time": "0 - 0 (4')",
+      "rawMinute": 4,
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4866908,
@@ -104,8 +104,8 @@
       "competitionId": "6822",
       "tournamentEn": "🇮🇶 Iraqi League",
       "tournamentAr": "🇮🇶 الدوري العراقي",
-      "matchEn": "Diyala v Al Kahrabaa",
-      "matchAr": "ديالى × الكهرباء",
+      "matchEn": "Al Kahrabaa v Diyala",
+      "matchAr": "الكهرباء × ديالى",
       "rawIsoTime": "2026-11-19T13:45:00+00:00",
       "time": "13:45",
       "rawMinute": 1,
