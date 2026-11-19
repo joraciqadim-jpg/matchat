@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795104495409,
+  "timestamp": 1795104553588,
   "matches": [
     {
       "matchId": 4632600,
@@ -149,8 +149,8 @@
       "matchEn": "Al Mokawloon Al Arab v El Qanah",
       "matchAr": "المقاولون العرب × القناة",
       "rawIsoTime": "2026-11-19T15:00:00+00:00",
-      "time": "1 - 0 (Halftime)",
-      "rawMinute": 45,
+      "time": "1 - 0 (46')",
+      "rawMinute": 46,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -163,9 +163,9 @@
       "matchEn": "Al Ain v Al Dhafra",
       "matchAr": "العين × الظفرة",
       "rawIsoTime": "2026-11-19T15:25:00+00:00",
-      "time": "0 - 0 (43')",
-      "rawMinute": 43,
-      "homeGoals": 0,
+      "time": "1 - 0 (44')",
+      "rawMinute": 44,
+      "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
     },
@@ -177,8 +177,8 @@
       "matchEn": "Al-Ahli Doha v Al Shamal",
       "matchAr": "الأهلي الدوحة × الشمال",
       "rawIsoTime": "2026-11-19T15:30:00+00:00",
-      "time": "0 - 0 (39')",
-      "rawMinute": 39,
+      "time": "0 - 0 (40')",
+      "rawMinute": 40,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -191,8 +191,8 @@
       "matchEn": "Al Garaf v Quwa Al Jawiya",
       "matchAr": "الغراف × القوة الجوية",
       "rawIsoTime": "2026-11-19T15:30:00+00:00",
-      "time": "2 - 0 (38')",
-      "rawMinute": 38,
+      "time": "2 - 0 (39')",
+      "rawMinute": 39,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -205,8 +205,8 @@
       "matchEn": "Gas Alshimal v Karkh",
       "matchAr": "غاز الشمال × الكرخ",
       "rawIsoTime": "2026-11-19T16:00:00+00:00",
-      "time": "0 - 0 (8')",
-      "rawMinute": 8,
+      "time": "0 - 0 (9')",
+      "rawMinute": 9,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
