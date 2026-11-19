@@ -1,20 +1,6 @@
 {
-  "timestamp": 1795054833309,
+  "timestamp": 1795054870621,
   "matches": [
-    {
-      "matchId": 4632600,
-      "competitionId": "113",
-      "tournamentEn": "🇧🇷 Brazilian Série A",
-      "tournamentAr": "🇧🇷 الدوري البرازيلي",
-      "matchEn": "Gremio v Bahia",
-      "matchAr": "غريميو × باهيا",
-      "rawIsoTime": "2026-11-19T00:30:00+00:00",
-      "time": "0 - 0 (90')",
-      "rawMinute": 90,
-      "homeGoals": 0,
-      "awayGoals": 0,
-      "isLive": true
-    },
     {
       "matchId": 4632603,
       "competitionId": "113",
@@ -23,9 +9,23 @@
       "matchEn": "Corinthians v Botafogo",
       "matchAr": "كورينثيانز × بوتافوغو",
       "rawIsoTime": "2026-11-19T00:30:00+00:00",
-      "time": "4 - 0 (90+1')",
-      "rawMinute": 91,
+      "time": "4 - 0 (done)",
+      "rawMinute": 90,
       "homeGoals": 4,
+      "awayGoals": 0,
+      "isLive": false
+    },
+    {
+      "matchId": 4632600,
+      "competitionId": "113",
+      "tournamentEn": "🇧🇷 Brazilian Série A",
+      "tournamentAr": "🇧🇷 الدوري البرازيلي",
+      "matchEn": "Gremio v Bahia",
+      "matchAr": "غريميو × باهيا",
+      "rawIsoTime": "2026-11-19T00:30:00+00:00",
+      "time": "0 - 0 (90+1')",
+      "rawMinute": 91,
+      "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
     },
