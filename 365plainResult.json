@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795090574701,
+  "timestamp": 1795090631754,
   "matches": [
     {
       "matchId": 4632600,
@@ -65,10 +65,10 @@
       "matchEn": "Al Shorta Damascus v Tishreen",
       "matchAr": "الشرطة الدمشقي × تشرين",
       "rawIsoTime": "2026-11-19T12:00:00+00:00",
-      "time": "0 - 0 (19')",
-      "rawMinute": 19,
+      "time": "0 - 1 (20')",
+      "rawMinute": 20,
       "homeGoals": 0,
-      "awayGoals": 0,
+      "awayGoals": 1,
       "isLive": true
     },
     {
