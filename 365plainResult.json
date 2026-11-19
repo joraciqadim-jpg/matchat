@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795093991441,
+  "timestamp": 1795094055232,
   "matches": [
     {
       "matchId": 4632600,
@@ -58,20 +58,6 @@
       "isLive": false
     },
     {
-      "matchId": 4806874,
-      "competitionId": "6822",
-      "tournamentEn": "🇮🇶 Iraqi League",
-      "tournamentAr": "🇮🇶 الدوري العراقي",
-      "matchEn": "Diyala v Al Kahrabaa",
-      "matchAr": "ديالى × الكهرباء",
-      "rawIsoTime": "2026-11-19T13:45:00+00:00",
-      "time": "13:45 (cancelled)",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
-    },
-    {
       "matchId": 4894681,
       "competitionId": "564",
       "tournamentEn": "🇸🇾 Syrian Premier League",
@@ -79,8 +65,8 @@
       "matchEn": "Al Shorta Damascus v Tishreen",
       "matchAr": "الشرطة الدمشقي × تشرين",
       "rawIsoTime": "2026-11-19T12:00:00+00:00",
-      "time": "1 - 2 (50')",
-      "rawMinute": 50,
+      "time": "1 - 2 (51')",
+      "rawMinute": 51,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -93,8 +79,8 @@
       "matchEn": "Al Wasl v Hatta",
       "matchAr": "الوصل × حتا",
       "rawIsoTime": "2026-11-19T12:45:00+00:00",
-      "time": "1 - 0 (28')",
-      "rawMinute": 28,
+      "time": "1 - 0 (29')",
+      "rawMinute": 29,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -107,11 +93,25 @@
       "matchEn": "Al Salt v Al Yarmouk",
       "matchAr": "السلط × اليرموك",
       "rawIsoTime": "2026-11-19T13:00:00+00:00",
-      "time": "0 - 0 (14')",
-      "rawMinute": 14,
+      "time": "0 - 0 (15')",
+      "rawMinute": 15,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
+    },
+    {
+      "matchId": 4806874,
+      "competitionId": "6822",
+      "tournamentEn": "🇮🇶 Iraqi League",
+      "tournamentAr": "🇮🇶 الدوري العراقي",
+      "matchEn": "Diyala v Al Kahrabaa",
+      "matchAr": "ديالى × الكهرباء",
+      "rawIsoTime": "2026-11-19T13:45:00+00:00",
+      "time": "13:45",
+      "rawMinute": 1,
+      "homeGoals": -1,
+      "awayGoals": -1,
+      "isLive": false
     },
     {
       "matchId": 4893636,
