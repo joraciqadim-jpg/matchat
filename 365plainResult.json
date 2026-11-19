@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795104635167,
+  "timestamp": 1795104671549,
   "matches": [
     {
       "matchId": 4632600,
@@ -163,8 +163,8 @@
       "matchEn": "Al Ain v Al Dhafra",
       "matchAr": "العين × الظفرة",
       "rawIsoTime": "2026-11-19T15:25:00+00:00",
-      "time": "1 - 0 (45')",
-      "rawMinute": 45,
+      "time": "1 - 0 (45+1')",
+      "rawMinute": 46,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -177,8 +177,8 @@
       "matchEn": "Al-Ahli Doha v Al Shamal",
       "matchAr": "الأهلي الدوحة × الشمال",
       "rawIsoTime": "2026-11-19T15:30:00+00:00",
-      "time": "0 - 0 (41')",
-      "rawMinute": 41,
+      "time": "0 - 0 (42')",
+      "rawMinute": 42,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -205,8 +205,8 @@
       "matchEn": "Gas Alshimal v Karkh",
       "matchAr": "غاز الشمال × الكرخ",
       "rawIsoTime": "2026-11-19T16:00:00+00:00",
-      "time": "0 - 0 (10')",
-      "rawMinute": 10,
+      "time": "0 - 0 (11')",
+      "rawMinute": 11,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
