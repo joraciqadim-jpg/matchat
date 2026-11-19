@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795114095010,
+  "timestamp": 1795114151263,
   "matches": [
     {
       "matchId": 4632600,
@@ -247,8 +247,8 @@
       "matchEn": "Zed v Smouha",
       "matchAr": "زد × سموحة",
       "rawIsoTime": "2026-11-19T18:00:00+00:00",
-      "time": "0 - 0 (45')",
-      "rawMinute": 45,
+      "time": "0 - 0 (45+1')",
+      "rawMinute": 46,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
