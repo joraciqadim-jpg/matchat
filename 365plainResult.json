@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795109534506,
+  "timestamp": 1795109591554,
   "matches": [
     {
       "matchId": 4632600,
@@ -142,6 +142,20 @@
       "isLive": false
     },
     {
+      "matchId": 4779206,
+      "competitionId": "408",
+      "tournamentEn": "🇶🇦 Qatari Stars League",
+      "tournamentAr": "🇶🇦 دوري نجوم قطر",
+      "matchEn": "Al-Ahli Doha v Al Shamal",
+      "matchAr": "الأهلي الدوحة × الشمال",
+      "rawIsoTime": "2026-11-19T15:30:00+00:00",
+      "time": "1 - 1 (done)",
+      "rawMinute": 90,
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "isLive": false
+    },
+    {
       "matchId": 4806869,
       "competitionId": "6822",
       "tournamentEn": "🇮🇶 Iraqi League",
@@ -177,22 +191,8 @@
       "matchEn": "Al Mokawloon Al Arab v El Qanah",
       "matchAr": "المقاولون العرب × القناة",
       "rawIsoTime": "2026-11-19T15:00:00+00:00",
-      "time": "1 - 1 (114')",
-      "rawMinute": 115,
-      "homeGoals": 1,
-      "awayGoals": 1,
-      "isLive": true
-    },
-    {
-      "matchId": 4779206,
-      "competitionId": "408",
-      "tournamentEn": "🇶🇦 Qatari Stars League",
-      "tournamentAr": "🇶🇦 دوري نجوم قطر",
-      "matchEn": "Al-Ahli Doha v Al Shamal",
-      "matchAr": "الأهلي الدوحة × الشمال",
-      "rawIsoTime": "2026-11-19T15:30:00+00:00",
-      "time": "1 - 1 (90+14')",
-      "rawMinute": 104,
+      "time": "1 - 1 (115')",
+      "rawMinute": 116,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -205,8 +205,8 @@
       "matchEn": "Gas Alshimal v Karkh",
       "matchAr": "غاز الشمال × الكرخ",
       "rawIsoTime": "2026-11-19T16:00:00+00:00",
-      "time": "0 - 0 (73')",
-      "rawMinute": 73,
+      "time": "0 - 0 (74')",
+      "rawMinute": 74,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
