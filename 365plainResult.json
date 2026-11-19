@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795047551344,
+  "timestamp": 1795047632592,
   "matches": [
     {
       "matchId": 4632599,
@@ -9,8 +9,8 @@
       "matchEn": "Coritiba v Santos",
       "matchAr": "كوريتيبا × سانتوس",
       "rawIsoTime": "2026-11-18T22:30:00+00:00",
-      "time": "0 - 0 (81')",
-      "rawMinute": 81,
+      "time": "0 - 0 (82')",
+      "rawMinute": 83,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -23,8 +23,8 @@
       "matchEn": "Remo v Chapecoense",
       "matchAr": "ريمو × شابيكوينسي",
       "rawIsoTime": "2026-11-18T23:00:00+00:00",
-      "time": "2 - 0 (56')",
-      "rawMinute": 56,
+      "time": "2 - 0 (57')",
+      "rawMinute": 57,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -51,8 +51,8 @@
       "matchEn": "Flamengo v Athletico Paranaense",
       "matchAr": "فلامنغو × أتلتيكو باراناينسي",
       "rawIsoTime": "2026-11-18T23:30:00+00:00",
-      "time": "2 - 1 (45+4')",
-      "rawMinute": 49,
+      "time": "2 - 1 (Halftime)",
+      "rawMinute": 45,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
