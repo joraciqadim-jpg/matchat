@@ -1,6 +1,20 @@
 {
-  "timestamp": 1795051750462,
+  "timestamp": 1795051850145,
   "matches": [
+    {
+      "matchId": 4632601,
+      "competitionId": "113",
+      "tournamentEn": "🇧🇷 Brazilian Série A",
+      "tournamentAr": "🇧🇷 الدوري البرازيلي",
+      "matchEn": "Cruzeiro v Palmeiras",
+      "matchAr": "كروزيرو × بالميراس",
+      "rawIsoTime": "2026-11-18T23:30:00+00:00",
+      "time": "2 - 1 (done)",
+      "rawMinute": 90,
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "isLive": false
+    },
     {
       "matchId": 4632606,
       "competitionId": "113",
@@ -14,20 +28,6 @@
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": false
-    },
-    {
-      "matchId": 4632601,
-      "competitionId": "113",
-      "tournamentEn": "🇧🇷 Brazilian Série A",
-      "tournamentAr": "🇧🇷 الدوري البرازيلي",
-      "matchEn": "Cruzeiro v Palmeiras",
-      "matchAr": "كروزيرو × بالميراس",
-      "rawIsoTime": "2026-11-18T23:30:00+00:00",
-      "time": "2 - 1 (90+8')",
-      "rawMinute": 98,
-      "homeGoals": 2,
-      "awayGoals": 1,
-      "isLive": true
     },
     {
       "matchId": 4632600,
