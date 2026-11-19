@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795099694999,
+  "timestamp": 1795099751264,
   "matches": [
     {
       "matchId": 4632600,
@@ -93,11 +93,11 @@
       "matchEn": "Al Salt v Al Yarmouk",
       "matchAr": "السلط × اليرموك",
       "rawIsoTime": "2026-11-19T13:00:00+00:00",
-      "time": "5 - 0 (90+2')",
-      "rawMinute": 92,
+      "time": "5 - 0 (done)",
+      "rawMinute": 90,
       "homeGoals": 5,
       "awayGoals": 0,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4806874,
