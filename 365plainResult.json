@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795109725186,
+  "timestamp": 1795109774838,
   "matches": [
     {
       "matchId": 4632600,
@@ -192,7 +192,7 @@
       "matchAr": "المقاولون العرب × القناة",
       "rawIsoTime": "2026-11-19T15:00:00+00:00",
       "time": "1 - 1 (118')",
-      "rawMinute": 118,
+      "rawMinute": 119,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -205,9 +205,9 @@
       "matchEn": "Gas Alshimal v Karkh",
       "matchAr": "غاز الشمال × الكرخ",
       "rawIsoTime": "2026-11-19T16:00:00+00:00",
-      "time": "0 - 0 (76')",
-      "rawMinute": 76,
-      "homeGoals": 0,
+      "time": "1 - 0 (77')",
+      "rawMinute": 77,
+      "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
     },
