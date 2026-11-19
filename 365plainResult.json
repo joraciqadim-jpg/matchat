@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795047333396,
+  "timestamp": 1795047374950,
   "matches": [
     {
       "matchId": 4632599,
@@ -9,7 +9,7 @@
       "matchEn": "Coritiba v Santos",
       "matchAr": "كوريتيبا × سانتوس",
       "rawIsoTime": "2026-11-18T22:30:00+00:00",
-      "time": "0 - 0 (77')",
+      "time": "0 - 0 (78')",
       "rawMinute": 78,
       "homeGoals": 0,
       "awayGoals": 0,
@@ -23,8 +23,8 @@
       "matchEn": "Remo v Chapecoense",
       "matchAr": "ريمو × شابيكوينسي",
       "rawIsoTime": "2026-11-18T23:00:00+00:00",
-      "time": "2 - 0 (52')",
-      "rawMinute": 52,
+      "time": "2 - 0 (53')",
+      "rawMinute": 53,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -37,8 +37,8 @@
       "matchEn": "Cruzeiro v Palmeiras",
       "matchAr": "كروزيرو × بالميراس",
       "rawIsoTime": "2026-11-18T23:30:00+00:00",
-      "time": "0 - 0 (45')",
-      "rawMinute": 45,
+      "time": "0 - 0 (45+1')",
+      "rawMinute": 46,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -51,8 +51,8 @@
       "matchEn": "Flamengo v Athletico Paranaense",
       "matchAr": "فلامنغو × أتلتيكو باراناينسي",
       "rawIsoTime": "2026-11-18T23:30:00+00:00",
-      "time": "2 - 1 (45+1')",
-      "rawMinute": 46,
+      "time": "2 - 1 (45+2')",
+      "rawMinute": 47,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
