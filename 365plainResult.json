@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795053373789,
+  "timestamp": 1795053431228,
   "matches": [
     {
       "matchId": 4632600,
@@ -9,8 +9,8 @@
       "matchEn": "Gremio v Bahia",
       "matchAr": "غريميو × باهيا",
       "rawIsoTime": "2026-11-19T00:30:00+00:00",
-      "time": "0 - 0 (66')",
-      "rawMinute": 66,
+      "time": "0 - 0 (67')",
+      "rawMinute": 67,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -23,9 +23,9 @@
       "matchEn": "Corinthians v Botafogo",
       "matchAr": "كورينثيانز × بوتافوغو",
       "rawIsoTime": "2026-11-19T00:30:00+00:00",
-      "time": "3 - 0 (66')",
-      "rawMinute": 66,
-      "homeGoals": 3,
+      "time": "4 - 0 (67')",
+      "rawMinute": 67,
+      "homeGoals": 4,
       "awayGoals": 0,
       "isLive": true
     },
