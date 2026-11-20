@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795182924167,
+  "timestamp": 1795182974814,
   "matches": [
     {
       "matchId": 4750790,
@@ -163,8 +163,8 @@
       "matchEn": "Damascus Al Ahli v Al Nawaeir",
       "matchAr": "أهلي دمشق × النواعير",
       "rawIsoTime": "2026-11-20T12:00:00+00:00",
-      "time": "0 - 0 (90+4')",
-      "rawMinute": 94,
+      "time": "0 - 0 (90+5')",
+      "rawMinute": 95,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -177,8 +177,8 @@
       "matchEn": "Foutoua v Al Karamah",
       "matchAr": "الفتوة × الكرامة",
       "rawIsoTime": "2026-11-20T12:00:00+00:00",
-      "time": "0 - 5 (90+3')",
-      "rawMinute": 93,
+      "time": "0 - 5 (90+4')",
+      "rawMinute": 94,
       "homeGoals": 0,
       "awayGoals": 5,
       "isLive": true
@@ -191,8 +191,8 @@
       "matchEn": "Homs Al Fidaa v Horriya",
       "matchAr": "حمص الفداء × الحرية",
       "rawIsoTime": "2026-11-20T12:00:00+00:00",
-      "time": "3 - 2 (90+8')",
-      "rawMinute": 98,
+      "time": "3 - 2 (90+9')",
+      "rawMinute": 99,
       "homeGoals": 3,
       "awayGoals": 2,
       "isLive": true
@@ -205,8 +205,8 @@
       "matchEn": "Kalba v Sharjah",
       "matchAr": "كلباء × الشارقة",
       "rawIsoTime": "2026-11-20T12:45:00+00:00",
-      "time": "0 - 1 (51')",
-      "rawMinute": 51,
+      "time": "0 - 1 (52')",
+      "rawMinute": 52,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -289,8 +289,8 @@
       "matchEn": "Mali v New Zealand",
       "matchAr": "مالي × نيوزيلندا",
       "rawIsoTime": "2026-11-20T13:30:00+00:00",
-      "time": "1 - 0 (25')",
-      "rawMinute": 25,
+      "time": "1 - 0 (26')",
+      "rawMinute": 26,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -303,8 +303,8 @@
       "matchEn": "ES Hammam Sousse v Progres Sakiet",
       "matchAr": "حمام سوسة × بروغريه سكيكيت",
       "rawIsoTime": "2026-11-20T13:30:00+00:00",
-      "time": "0 - 0 (25')",
-      "rawMinute": 26,
+      "time": "0 - 0 (26')",
+      "rawMinute": 27,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -317,8 +317,8 @@
       "matchEn": "Olympique Béja v Marsa",
       "matchAr": "الأولمبي الباجي × المرسى",
       "rawIsoTime": "2026-11-20T13:30:00+00:00",
-      "time": "0 - 1 (25')",
-      "rawMinute": 25,
+      "time": "0 - 1 (26')",
+      "rawMinute": 26,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -331,7 +331,7 @@
       "matchEn": "CS Hammam-Lif v ES Metlaoui",
       "matchAr": "حمام الأنف × النجم المتلوي",
       "rawIsoTime": "2026-11-20T13:30:00+00:00",
-      "time": "0 - 1 (25')",
+      "time": "0 - 1 (26')",
       "rawMinute": 26,
       "homeGoals": 0,
       "awayGoals": 1,
