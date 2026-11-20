@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795188324732,
+  "timestamp": 1795188375517,
   "matches": [
     {
       "matchId": 4750790,
@@ -332,7 +332,7 @@
       "matchAr": "الأولمبي الباجي × المرسى",
       "rawIsoTime": "2026-11-20T13:30:00+00:00",
       "time": "1 - 1 (90+4')",
-      "rawMinute": 94,
+      "rawMinute": 95,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -345,8 +345,8 @@
       "matchEn": "CS Hammam-Lif v ES Metlaoui",
       "matchAr": "حمام الأنف × النجم المتلوي",
       "rawIsoTime": "2026-11-20T13:30:00+00:00",
-      "time": "0 - 3 (90+3')",
-      "rawMinute": 93,
+      "time": "0 - 3 (90+4')",
+      "rawMinute": 94,
       "homeGoals": 0,
       "awayGoals": 3,
       "isLive": true
@@ -359,8 +359,8 @@
       "matchEn": "Spain v China",
       "matchAr": "إسبانيا × الصين",
       "rawIsoTime": "2026-11-20T14:00:00+00:00",
-      "time": "2 - 0 (67')",
-      "rawMinute": 67,
+      "time": "2 - 0 (68')",
+      "rawMinute": 68,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -373,8 +373,8 @@
       "matchEn": "Mina'a Basra v Karbalaa",
       "matchAr": "ميناء البصرة × كربلاء",
       "rawIsoTime": "2026-11-20T14:00:00+00:00",
-      "time": "3 - 2 (66')",
-      "rawMinute": 66,
+      "time": "3 - 2 (67')",
+      "rawMinute": 67,
       "homeGoals": 3,
       "awayGoals": 2,
       "isLive": true
@@ -387,8 +387,8 @@
       "matchEn": "Bengaluru v Mumbai City",
       "matchAr": "بنغالورو × مومباي سيتي",
       "rawIsoTime": "2026-11-20T14:00:00+00:00",
-      "time": "1 - 0 (67')",
-      "rawMinute": 67,
+      "time": "1 - 0 (68')",
+      "rawMinute": 68,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -415,8 +415,8 @@
       "matchEn": "Italy v Jamaica",
       "matchAr": "إيطاليا × جامايكا",
       "rawIsoTime": "2026-11-20T15:00:00+00:00",
-      "time": "2 - 0 (25')",
-      "rawMinute": 25,
+      "time": "2 - 0 (26')",
+      "rawMinute": 26,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -429,8 +429,8 @@
       "matchEn": "Kahrbaa Alasmalia v Ceramica Cleopatra",
       "matchAr": "كهرباء الإسماعيلية × سيراميكا كليوباترا",
       "rawIsoTime": "2026-11-20T15:00:00+00:00",
-      "time": "0 - 1 (24')",
-      "rawMinute": 24,
+      "time": "0 - 1 (25')",
+      "rawMinute": 25,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -443,8 +443,8 @@
       "matchEn": "Shabab Al Ahly v Ajman",
       "matchAr": "شباب الأهلي × عجمان",
       "rawIsoTime": "2026-11-20T15:25:00+00:00",
-      "time": "0 - 0 (1')",
-      "rawMinute": 1,
+      "time": "0 - 0 (2')",
+      "rawMinute": 2,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
