@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795175723471,
+  "timestamp": 1795175774605,
   "matches": [
     {
       "matchId": 4750790,
@@ -72,20 +72,6 @@
       "isLive": true
     },
     {
-      "matchId": 4739562,
-      "competitionId": "147",
-      "tournamentEn": "🇯🇵 Japanese J1 League",
-      "tournamentAr": "🇯🇵 الدوري الياباني",
-      "matchEn": "Vissel Kobe v Mito Hollyhock",
-      "matchAr": "فيسيل كوبي × ميتو هوليهوك",
-      "rawIsoTime": "2026-11-20T10:00:00+00:00",
-      "time": "1 - 2 (90+6')",
-      "rawMinute": 96,
-      "homeGoals": 1,
-      "awayGoals": 2,
-      "isLive": true
-    },
-    {
       "matchId": 4739569,
       "competitionId": "147",
       "tournamentEn": "🇯🇵 Japanese J1 League",
@@ -93,11 +79,11 @@
       "matchEn": "Kashiwa Reysol v JEF United Chiba",
       "matchAr": "كاشيوا ريسول × جيف يونايتد تشيبا",
       "rawIsoTime": "2026-11-20T10:00:00+00:00",
-      "time": "0 - 1 (90+6')",
-      "rawMinute": 96,
+      "time": "0 - 1 (done)",
+      "rawMinute": 90,
       "homeGoals": 0,
       "awayGoals": 1,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4739570,
@@ -107,10 +93,24 @@
       "matchEn": "Kashima Antlers v Shimizu S-Pulse",
       "matchAr": "كاشيما أنتلرز × شيميزو إس-بالس",
       "rawIsoTime": "2026-11-20T10:00:00+00:00",
-      "time": "1 - 1 (90+7')",
-      "rawMinute": 97,
+      "time": "1 - 1 (done)",
+      "rawMinute": 90,
       "homeGoals": 1,
       "awayGoals": 1,
+      "isLive": false
+    },
+    {
+      "matchId": 4739562,
+      "competitionId": "147",
+      "tournamentEn": "🇯🇵 Japanese J1 League",
+      "tournamentAr": "🇯🇵 الدوري الياباني",
+      "matchEn": "Vissel Kobe v Mito Hollyhock",
+      "matchAr": "فيسيل كوبي × ميتو هوليهوك",
+      "rawIsoTime": "2026-11-20T10:00:00+00:00",
+      "time": "1 - 2 (90+7')",
+      "rawMinute": 97,
+      "homeGoals": 1,
+      "awayGoals": 2,
       "isLive": true
     },
     {
@@ -121,8 +121,8 @@
       "matchEn": "East Bengal v Delhi",
       "matchAr": "إيست بنغال × دلهي",
       "rawIsoTime": "2026-11-20T11:30:00+00:00",
-      "time": "0 - 0 (25')",
-      "rawMinute": 25,
+      "time": "0 - 0 (26')",
+      "rawMinute": 26,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
