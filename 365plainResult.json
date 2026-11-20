@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795197037903,
+  "timestamp": 1795197071203,
   "matches": [
     {
       "matchId": 4750790,
@@ -499,8 +499,8 @@
       "matchEn": "Ivory Coast v Uzbekistan",
       "matchAr": "ساحل العاج × أوزبكستان",
       "rawIsoTime": "2026-11-20T16:00:00+00:00",
-      "time": "2 - 1 (89')",
-      "rawMinute": 89,
+      "time": "2 - 1 (90')",
+      "rawMinute": 90,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -527,7 +527,7 @@
       "matchEn": "Shakhtar Donetsk v Livyi Bereh",
       "matchAr": "شاختار دونيتسك × ليفي بيريه",
       "rawIsoTime": "2026-11-20T16:00:00+00:00",
-      "time": "1 - 1 (89')",
+      "time": "1 - 1 (90')",
       "rawMinute": 90,
       "homeGoals": 1,
       "awayGoals": 1,
@@ -569,8 +569,8 @@
       "matchEn": "ES Setif v Us Biskra",
       "matchAr": "وفاق سطيف × اتحاد بسكرة",
       "rawIsoTime": "2026-11-20T16:00:00+00:00",
-      "time": "1 - 1 (90+2')",
-      "rawMinute": 92,
+      "time": "1 - 1 (90+3')",
+      "rawMinute": 93,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -583,8 +583,8 @@
       "matchEn": "Al Ittihad Aleppo v Jaish",
       "matchAr": "الاتحاد حلب × الجيش",
       "rawIsoTime": "2026-11-20T16:00:00+00:00",
-      "time": "1 - 0 (84')",
-      "rawMinute": 84,
+      "time": "1 - 0 (85')",
+      "rawMinute": 85,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -597,8 +597,8 @@
       "matchEn": "Hottin v Al Wahda",
       "matchAr": "حطين × الوحدة",
       "rawIsoTime": "2026-11-20T16:00:00+00:00",
-      "time": "1 - 0 (87')",
-      "rawMinute": 87,
+      "time": "1 - 0 (88')",
+      "rawMinute": 88,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -625,8 +625,8 @@
       "matchEn": "Rostov v Krylya Sovetov Samara",
       "matchAr": "روستوف × كريليا سوفيتوف سامارا",
       "rawIsoTime": "2026-11-20T16:30:00+00:00",
-      "time": "2 - 0 (61')",
-      "rawMinute": 61,
+      "time": "2 - 0 (62')",
+      "rawMinute": 62,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -639,8 +639,8 @@
       "matchEn": "Tadamon v AL Jazira",
       "matchAr": "التضامن × الجزيرة",
       "rawIsoTime": "2026-11-20T16:30:00+00:00",
-      "time": "1 - 1 (60')",
-      "rawMinute": 60,
+      "time": "1 - 1 (61')",
+      "rawMinute": 61,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
