@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795189991625,
+  "timestamp": 1795190055705,
   "matches": [
     {
       "matchId": 4750790,
@@ -373,8 +373,8 @@
       "matchEn": "Mina'a Basra v Karbalaa",
       "matchAr": "ميناء البصرة × كربلاء",
       "rawIsoTime": "2026-11-20T14:00:00+00:00",
-      "time": "3 - 2 (90+4')",
-      "rawMinute": 94,
+      "time": "3 - 2 (90+5')",
+      "rawMinute": 95,
       "homeGoals": 3,
       "awayGoals": 2,
       "isLive": true
@@ -387,8 +387,8 @@
       "matchEn": "Bengaluru v Mumbai City",
       "matchAr": "بنغالورو × مومباي سيتي",
       "rawIsoTime": "2026-11-20T14:00:00+00:00",
-      "time": "2 - 0 (90+5')",
-      "rawMinute": 95,
+      "time": "2 - 0 (90+6')",
+      "rawMinute": 96,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -401,8 +401,8 @@
       "matchEn": "Salmiyah v Khaitan",
       "matchAr": "السالمية × خيطان",
       "rawIsoTime": "2026-11-20T14:25:00+00:00",
-      "time": "2 - 1 (68')",
-      "rawMinute": 68,
+      "time": "2 - 1 (69')",
+      "rawMinute": 69,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -443,8 +443,8 @@
       "matchEn": "Shabab Al Ahly v Ajman",
       "matchAr": "شباب الأهلي × عجمان",
       "rawIsoTime": "2026-11-20T15:25:00+00:00",
-      "time": "2 - 0 (28')",
-      "rawMinute": 28,
+      "time": "2 - 0 (30')",
+      "rawMinute": 30,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -457,8 +457,8 @@
       "matchEn": "Senegal v Croatia",
       "matchAr": "السنغال × كرواتيا",
       "rawIsoTime": "2026-11-20T15:30:00+00:00",
-      "time": "0 - 1 (23')",
-      "rawMinute": 23,
+      "time": "0 - 1 (24')",
+      "rawMinute": 24,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -471,8 +471,8 @@
       "matchEn": "Al Gharafa v Al Arabi Doha",
       "matchAr": "الغرافة × العربي الدوحة",
       "rawIsoTime": "2026-11-20T15:30:00+00:00",
-      "time": "0 - 2 (24')",
-      "rawMinute": 24,
+      "time": "0 - 2 (25')",
+      "rawMinute": 25,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -485,8 +485,8 @@
       "matchEn": "Al Zawraa v Al Talaba",
       "matchAr": "الزوراء × الطلبة",
       "rawIsoTime": "2026-11-20T15:30:00+00:00",
-      "time": "1 - 1 (24')",
-      "rawMinute": 24,
+      "time": "1 - 1 (25')",
+      "rawMinute": 25,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
