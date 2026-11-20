@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795170923971,
+  "timestamp": 1795170975511,
   "matches": [
     {
       "matchId": 4750790,
@@ -79,8 +79,8 @@
       "matchEn": "Vissel Kobe v Mito Hollyhock",
       "matchAr": "فيسيل كوبي × ميتو هوليهوك",
       "rawIsoTime": "2026-11-20T10:00:00+00:00",
-      "time": "0 - 1 (32')",
-      "rawMinute": 32,
+      "time": "0 - 1 (33')",
+      "rawMinute": 33,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -93,7 +93,7 @@
       "matchEn": "Kashiwa Reysol v JEF United Chiba",
       "matchAr": "كاشيوا ريسول × جيف يونايتد تشيبا",
       "rawIsoTime": "2026-11-20T10:00:00+00:00",
-      "time": "0 - 0 (32')",
+      "time": "0 - 0 (33')",
       "rawMinute": 33,
       "homeGoals": 0,
       "awayGoals": 0,
@@ -112,20 +112,6 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
-    },
-    {
-      "matchId": 4806873,
-      "competitionId": "6822",
-      "tournamentEn": "🇮🇶 Iraqi League",
-      "tournamentAr": "🇮🇶 الدوري العراقي",
-      "matchEn": "Al Zawraa v Al Talaba",
-      "matchAr": "الزوراء × الطلبة",
-      "rawIsoTime": "2026-11-20T11:15:00+00:00",
-      "time": "11:15",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
     },
     {
       "matchId": 4865230,
@@ -458,6 +444,20 @@
       "matchAr": "شباب الأهلي × عجمان",
       "rawIsoTime": "2026-11-20T15:25:00+00:00",
       "time": "15:25",
+      "rawMinute": 1,
+      "homeGoals": -1,
+      "awayGoals": -1,
+      "isLive": false
+    },
+    {
+      "matchId": 4806873,
+      "competitionId": "6822",
+      "tournamentEn": "🇮🇶 Iraqi League",
+      "tournamentAr": "🇮🇶 الدوري العراقي",
+      "matchEn": "Al Zawraa v Al Talaba",
+      "matchAr": "الزوراء × الطلبة",
+      "rawIsoTime": "2026-11-20T15:30:00+00:00",
+      "time": "15:30",
       "rawMinute": 1,
       "homeGoals": -1,
       "awayGoals": -1,
