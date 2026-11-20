@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795200673131,
+  "timestamp": 1795200735700,
   "matches": [
     {
       "matchId": 4750790,
@@ -51,8 +51,8 @@
       "matchEn": "Al Ahli v Al Nassr",
       "matchAr": "الأهلي × النصر",
       "rawIsoTime": "2026-11-20T17:30:00+00:00",
-      "time": "1 - 1 (61')",
-      "rawMinute": 61,
+      "time": "1 - 1 (62')",
+      "rawMinute": 62,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -653,8 +653,8 @@
       "matchEn": "Piast Gliwice v Korona Kielce",
       "matchAr": "بياست غليفيتسه × كورونا كيلتسه",
       "rawIsoTime": "2026-11-20T17:00:00+00:00",
-      "time": "2 - 0 (90')",
-      "rawMinute": 90,
+      "time": "2 - 0 (90+1')",
+      "rawMinute": 92,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
