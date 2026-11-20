@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795201836698,
+  "timestamp": 1795201871686,
   "matches": [
     {
       "matchId": 4750790,
@@ -52,7 +52,7 @@
       "matchAr": "الأهلي × النصر",
       "rawIsoTime": "2026-11-20T17:30:00+00:00",
       "time": "3 - 1 (80')",
-      "rawMinute": 80,
+      "rawMinute": 81,
       "homeGoals": 3,
       "awayGoals": 1,
       "isLive": true
@@ -667,8 +667,8 @@
       "matchEn": "Molde v Bodo Glimt",
       "matchAr": "مولده × بودو/غليمت",
       "rawIsoTime": "2026-11-20T18:00:00+00:00",
-      "time": "0 - 2 (48')",
-      "rawMinute": 48,
+      "time": "0 - 2 (49')",
+      "rawMinute": 49,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -681,7 +681,7 @@
       "matchEn": "Aarhus v Lyngby",
       "matchAr": "آرهوس × لينغبي",
       "rawIsoTime": "2026-11-20T18:00:00+00:00",
-      "time": "2 - 1 (48')",
+      "time": "2 - 1 (49')",
       "rawMinute": 49,
       "homeGoals": 2,
       "awayGoals": 1,
