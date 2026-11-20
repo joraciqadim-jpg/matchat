@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795179255644,
+  "timestamp": 1795179324618,
   "matches": [
     {
       "matchId": 4750790,
@@ -128,6 +128,20 @@
       "isLive": false
     },
     {
+      "matchId": 4886952,
+      "competitionId": "5635",
+      "tournamentEn": "🏆 Jordanian Cup",
+      "tournamentAr": "🏆 كأس الأردن",
+      "matchEn": "Al Hussein v Doqarah",
+      "matchAr": "الحسين × ذوقرة",
+      "rawIsoTime": "2026-11-20T13:00:00+00:00",
+      "time": "13:00 (cancelled)",
+      "rawMinute": 1,
+      "homeGoals": -1,
+      "awayGoals": -1,
+      "isLive": false
+    },
+    {
       "matchId": 4865230,
       "competitionId": "6172",
       "tournamentEn": "🇮🇳 Indian Super League",
@@ -135,8 +149,8 @@
       "matchEn": "East Bengal v Delhi",
       "matchAr": "إيست بنغال × دلهي",
       "rawIsoTime": "2026-11-20T11:30:00+00:00",
-      "time": "1 - 1 (63')",
-      "rawMinute": 63,
+      "time": "1 - 1 (65')",
+      "rawMinute": 65,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -149,8 +163,8 @@
       "matchEn": "Damascus Al Ahli v Al Nawaeir",
       "matchAr": "أهلي دمشق × النواعير",
       "rawIsoTime": "2026-11-20T12:00:00+00:00",
-      "time": "0 - 0 (45+12')",
-      "rawMinute": 57,
+      "time": "0 - 0 (45+13')",
+      "rawMinute": 58,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -191,8 +205,8 @@
       "matchEn": "Kalba v Sharjah",
       "matchAr": "كلباء × الشارقة",
       "rawIsoTime": "2026-11-20T12:45:00+00:00",
-      "time": "0 - 0 (10')",
-      "rawMinute": 10,
+      "time": "0 - 0 (11')",
+      "rawMinute": 11,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -260,20 +274,6 @@
       "tournamentAr": "🇮🇶 الدوري العراقي",
       "matchEn": "Zakho v Al Shorta",
       "matchAr": "زاخو × الشرطة",
-      "rawIsoTime": "2026-11-20T13:00:00+00:00",
-      "time": "13:00",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
-    },
-    {
-      "matchId": 4886952,
-      "competitionId": "5635",
-      "tournamentEn": "🏆 Jordanian Cup",
-      "tournamentAr": "🏆 كأس الأردن",
-      "matchEn": "Al Hussein v Doqarah",
-      "matchAr": "الحسين × ذوقرة",
       "rawIsoTime": "2026-11-20T13:00:00+00:00",
       "time": "13:00",
       "rawMinute": 1,
