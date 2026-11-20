@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795203672368,
+  "timestamp": 1795203735616,
   "matches": [
     {
       "matchId": 4750790,
@@ -23,10 +23,10 @@
       "matchEn": "Bayern Munich v Köln",
       "matchAr": "بايرن ميونخ × كولن",
       "rawIsoTime": "2026-11-20T19:30:00+00:00",
-      "time": "0 - 0 (12')",
-      "rawMinute": 12,
+      "time": "0 - 1 (13')",
+      "rawMinute": 13,
       "homeGoals": 0,
-      "awayGoals": 0,
+      "awayGoals": 1,
       "isLive": true
     },
     {
@@ -667,8 +667,8 @@
       "matchEn": "Molde v Bodo Glimt",
       "matchAr": "مولده × بودو/غليمت",
       "rawIsoTime": "2026-11-20T18:00:00+00:00",
-      "time": "1 - 4 (79')",
-      "rawMinute": 79,
+      "time": "1 - 4 (80')",
+      "rawMinute": 80,
       "homeGoals": 1,
       "awayGoals": 4,
       "isLive": true
@@ -681,8 +681,8 @@
       "matchEn": "Aarhus v Lyngby",
       "matchAr": "آرهوس × لينغبي",
       "rawIsoTime": "2026-11-20T18:00:00+00:00",
-      "time": "2 - 1 (79')",
-      "rawMinute": 79,
+      "time": "2 - 1 (80')",
+      "rawMinute": 80,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -695,8 +695,8 @@
       "matchEn": "MC Oran v JS Saoura",
       "matchAr": "مولودية وهران × شبيبة الساورة",
       "rawIsoTime": "2026-11-20T19:00:00+00:00",
-      "time": "1 - 0 (41')",
-      "rawMinute": 41,
+      "time": "1 - 0 (42')",
+      "rawMinute": 42,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -709,8 +709,8 @@
       "matchEn": "Pogon v Slask Wroclaw",
       "matchAr": "بوغون × شلاسْك فروتسواف",
       "rawIsoTime": "2026-11-20T19:30:00+00:00",
-      "time": "0 - 0 (11')",
-      "rawMinute": 11,
+      "time": "0 - 0 (12')",
+      "rawMinute": 12,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
