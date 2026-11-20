@@ -127,68 +127,6 @@
       ]
     },
     {
-      "tournamentEn": "🏁 U-17 World Championship",
-      "tournamentAr": "🏁 بطولة العالم تحت 17 سنة",
-      "matchEn": "Italy v Jamaica",
-      "matchAr": "إيطاليا × جامايكا",
-      "time": "15:00",
-      "channels": [
-        "📺 Al Kass Ten [Nilesat 7.0W 10834 V 27500]",
-        "📺 Sport 2 [Amos 4.0W 11259 V 30000]",
-        "📺 Al Kass Ten [Badrsat 26.0E 10770 V 27500]",
-        "📺 Al Kass Ten [Badrsat 26.0E 12169 V 27500]",
-        "📺 Persiana Sports 3 [Al-Yah 52.5E 11343 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🏁 U-17 World Championship",
-      "tournamentAr": "🏁 بطولة العالم تحت 17 سنة",
-      "matchEn": "Senegal v Croatia",
-      "matchAr": "السنغال × كرواتيا",
-      "time": "15:30",
-      "channels": [
-        "📺 Sport 6 [Amos 4.0W 11259 V 30000]",
-        "📺 Al Kass Eight [Badrsat 26.0E 10770 H 27500]",
-        "📺 Futbol [Al-Yah 52.5E 11785 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🏁 U-17 World Championship",
-      "tournamentAr": "🏁 بطولة العالم تحت 17 سنة",
-      "matchEn": "Côte d'Ivoire v Uzbekistan",
-      "matchAr": "ساحل العاج × أوزبكستان",
-      "time": "16:00",
-      "channels": [
-        "📺 Al Kass Three [Nilesat 7.0W 11919 H 27500]",
-        "📺 Sport 3 [Amos 4.0W 11259 V 30000]",
-        "📺 Al Kass Three [Badrsat 26.0E 12245 V 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🏁 U-17 World Championship",
-      "tournamentAr": "🏁 بطولة العالم تحت 17 سنة",
-      "matchEn": "Fiji v Morocco",
-      "matchAr": "فيجي × المغرب",
-      "time": "16:00",
-      "channels": [
-        "📺 Al Kass One [Nilesat 7.0W 11919 H 27500]",
-        "📺 Sport 4 [Amos 4.0W 11259 V 30000]",
-        "📺 Al Kass One [Badrsat 26.0E 12245 V 27500]",
-        "📺 Al Kass One [Badrsat 26.0E 10770 V 27500]",
-        "📺 Arryadia TNT [Badrsat 26.0E 11623 V 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🛡️ AFC U17 Asian Cup Qualification",
-      "tournamentAr": "🛡️ تصفيات كأس آسيا تحت 17 سنة",
-      "matchEn": "Oman v Kuwait",
-      "matchAr": "عمان × الكويت",
-      "time": "16:00",
-      "channels": [
-        "📺 Al Kass Eight [Badrsat 26.0E 10770 H 27500]"
-      ]
-    },
-    {
       "tournamentEn": "🛡️ AFC U17 Asian Cup Qualification",
       "tournamentAr": "🛡️ تصفيات كأس آسيا تحت 17 سنة",
       "matchEn": "Emirates v Bangladesh",
@@ -196,39 +134,6 @@
       "time": "16:20",
       "channels": [
         "📺 Al Kass Eight [Badrsat 26.0E 10770 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🇶🇦 Qatar Stars League",
-      "tournamentAr": "🇶🇦 الدوري القطري",
-      "matchEn": "Al Gharafa v Al-Arabi",
-      "matchAr": "الغرافة × العربي",
-      "time": "15:30",
-      "channels": [
-        "📺 Al Kass Five [Badrsat 26.0E 10770 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🇶🇦 Qatar Stars League",
-      "tournamentAr": "🇶🇦 الدوري القطري",
-      "matchEn": "Al Rayyan v Al Sadd",
-      "matchAr": "الريان × السد",
-      "time": "15:30",
-      "channels": [
-        "📺 Al Kass Five [Badrsat 26.0E 10770 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🇦🇪 Emirates Pro League",
-      "tournamentAr": "🇦🇪 الدوري الإماراتي للمحترفين",
-      "matchEn": "Shabab Al Ahli v Ajman",
-      "matchAr": "شباب الأهلي × عجمان",
-      "time": "15:25",
-      "channels": [
-        "📺 Dubai Sports 1 [Nilesat 7.0W 12418 H 30000]",
-        "📺 Abu Dhabi Sports 1 [Nilesat 7.0W 11411 H 30000]",
-        "📺 Dubai Sports 1 [Badrsat 26.0E 12130 V 30000]",
-        "📺 Abu Dhabi Sports 1 [Badrsat 26.0E 11804 H 30000]"
       ]
     }
   ]
