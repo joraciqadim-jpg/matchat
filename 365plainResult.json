@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795197735481,
+  "timestamp": 1795197792664,
   "matches": [
     {
       "matchId": 4750790,
@@ -51,8 +51,8 @@
       "matchEn": "Al Ahli v Al Nassr",
       "matchAr": "الأهلي × النصر",
       "rawIsoTime": "2026-11-20T17:30:00+00:00",
-      "time": "1 - 1 (32')",
-      "rawMinute": 32,
+      "time": "1 - 1 (33')",
+      "rawMinute": 33,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -583,8 +583,8 @@
       "matchEn": "Ivory Coast v Uzbekistan",
       "matchAr": "ساحل العاج × أوزبكستان",
       "rawIsoTime": "2026-11-20T16:00:00+00:00",
-      "time": "2 - 1 (90+11')",
-      "rawMinute": 101,
+      "time": "2 - 1 (90+12')",
+      "rawMinute": 102,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -597,8 +597,8 @@
       "matchEn": "Al Ittihad Aleppo v Jaish",
       "matchAr": "الاتحاد حلب × الجيش",
       "rawIsoTime": "2026-11-20T16:00:00+00:00",
-      "time": "1 - 0 (90+6')",
-      "rawMinute": 96,
+      "time": "1 - 0 (90+7')",
+      "rawMinute": 97,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -611,8 +611,8 @@
       "matchEn": "Duhok v Erbil",
       "matchAr": "دهوك × أربيل",
       "rawIsoTime": "2026-11-20T16:15:00+00:00",
-      "time": "1 - 1 (90')",
-      "rawMinute": 90,
+      "time": "1 - 1 (90+1')",
+      "rawMinute": 91,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -625,8 +625,8 @@
       "matchEn": "Rostov v Krylya Sovetov Samara",
       "matchAr": "روستوف × كريليا سوفيتوف سامارا",
       "rawIsoTime": "2026-11-20T16:30:00+00:00",
-      "time": "2 - 0 (73')",
-      "rawMinute": 73,
+      "time": "2 - 0 (74')",
+      "rawMinute": 74,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -639,8 +639,8 @@
       "matchEn": "Tadamon v AL Jazira",
       "matchAr": "التضامن × الجزيرة",
       "rawIsoTime": "2026-11-20T16:30:00+00:00",
-      "time": "1 - 1 (72')",
-      "rawMinute": 72,
+      "time": "1 - 1 (73')",
+      "rawMinute": 73,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -667,8 +667,8 @@
       "matchEn": "Molde v Bodo Glimt",
       "matchAr": "مولده × بودو/غليمت",
       "rawIsoTime": "2026-11-20T18:00:00+00:00",
-      "time": "0 - 0 (2')",
-      "rawMinute": 2,
+      "time": "0 - 0 (3')",
+      "rawMinute": 3,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -681,8 +681,8 @@
       "matchEn": "Aarhus v Lyngby",
       "matchAr": "آرهوس × لينغبي",
       "rawIsoTime": "2026-11-20T18:00:00+00:00",
-      "time": "0 - 0 (2')",
-      "rawMinute": 2,
+      "time": "0 - 0 (3')",
+      "rawMinute": 3,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
