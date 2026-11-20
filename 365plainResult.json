@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795202175151,
+  "timestamp": 1795202231551,
   "matches": [
     {
       "matchId": 4750790,
@@ -52,7 +52,7 @@
       "matchAr": "الأهلي × النصر",
       "rawIsoTime": "2026-11-20T17:30:00+00:00",
       "time": "3 - 1 (86')",
-      "rawMinute": 86,
+      "rawMinute": 87,
       "homeGoals": 3,
       "awayGoals": 1,
       "isLive": true
@@ -667,8 +667,8 @@
       "matchEn": "Molde v Bodo Glimt",
       "matchAr": "مولده × بودو/غليمت",
       "rawIsoTime": "2026-11-20T18:00:00+00:00",
-      "time": "0 - 3 (54')",
-      "rawMinute": 54,
+      "time": "0 - 3 (55')",
+      "rawMinute": 55,
       "homeGoals": 0,
       "awayGoals": 3,
       "isLive": true
@@ -681,8 +681,8 @@
       "matchEn": "Aarhus v Lyngby",
       "matchAr": "آرهوس × لينغبي",
       "rawIsoTime": "2026-11-20T18:00:00+00:00",
-      "time": "2 - 1 (54')",
-      "rawMinute": 54,
+      "time": "2 - 1 (55')",
+      "rawMinute": 55,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -695,8 +695,8 @@
       "matchEn": "MC Oran v JS Saoura",
       "matchAr": "مولودية وهران × شبيبة الساورة",
       "rawIsoTime": "2026-11-20T19:00:00+00:00",
-      "time": "1 - 0 (16')",
-      "rawMinute": 16,
+      "time": "1 - 0 (17')",
+      "rawMinute": 17,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
