@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795181591835,
+  "timestamp": 1795181654819,
   "matches": [
     {
       "matchId": 4750790,
@@ -163,8 +163,8 @@
       "matchEn": "Damascus Al Ahli v Al Nawaeir",
       "matchAr": "أهلي دمشق × النواعير",
       "rawIsoTime": "2026-11-20T12:00:00+00:00",
-      "time": "0 - 0 (72')",
-      "rawMinute": 72,
+      "time": "0 - 0 (73')",
+      "rawMinute": 73,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -177,8 +177,8 @@
       "matchEn": "Foutoua v Al Karamah",
       "matchAr": "الفتوة × الكرامة",
       "rawIsoTime": "2026-11-20T12:00:00+00:00",
-      "time": "0 - 5 (71')",
-      "rawMinute": 71,
+      "time": "0 - 5 (72')",
+      "rawMinute": 72,
       "homeGoals": 0,
       "awayGoals": 5,
       "isLive": true
@@ -191,8 +191,8 @@
       "matchEn": "Homs Al Fidaa v Horriya",
       "matchAr": "حمص الفداء × الحرية",
       "rawIsoTime": "2026-11-20T12:00:00+00:00",
-      "time": "2 - 1 (76')",
-      "rawMinute": 76,
+      "time": "2 - 1 (77')",
+      "rawMinute": 77,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -205,8 +205,8 @@
       "matchEn": "Kalba v Sharjah",
       "matchAr": "كلباء × الشارقة",
       "rawIsoTime": "2026-11-20T12:45:00+00:00",
-      "time": "0 - 1 (45+4')",
-      "rawMinute": 49,
+      "time": "0 - 1 (Halftime)",
+      "rawMinute": 45,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -219,8 +219,8 @@
       "matchEn": "Belgium v Vietnam",
       "matchAr": "بلجيكا × فيتنام",
       "rawIsoTime": "2026-11-20T13:00:00+00:00",
-      "time": "0 - 1 (33')",
-      "rawMinute": 33,
+      "time": "0 - 1 (34')",
+      "rawMinute": 34,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -233,8 +233,8 @@
       "matchEn": "Cuba v Tajikistan",
       "matchAr": "كوبا × طاجيكستان",
       "rawIsoTime": "2026-11-20T13:00:00+00:00",
-      "time": "0 - 0 (32')",
-      "rawMinute": 32,
+      "time": "0 - 0 (33')",
+      "rawMinute": 33,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -247,8 +247,8 @@
       "matchEn": "Al Duhail v Qatar",
       "matchAr": "الدحيل × قطر",
       "rawIsoTime": "2026-11-20T13:00:00+00:00",
-      "time": "0 - 1 (33')",
-      "rawMinute": 33,
+      "time": "0 - 1 (35')",
+      "rawMinute": 35,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -261,8 +261,8 @@
       "matchEn": "Al Sadd v Lusail Sports",
       "matchAr": "السد × لوسيل سبورتس",
       "rawIsoTime": "2026-11-20T13:00:00+00:00",
-      "time": "2 - 1 (34')",
-      "rawMinute": 34,
+      "time": "2 - 1 (35')",
+      "rawMinute": 35,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -275,8 +275,8 @@
       "matchEn": "Zakho v Al Shorta",
       "matchAr": "زاخو × الشرطة",
       "rawIsoTime": "2026-11-20T13:00:00+00:00",
-      "time": "0 - 0 (34')",
-      "rawMinute": 34,
+      "time": "0 - 0 (35')",
+      "rawMinute": 35,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -289,8 +289,8 @@
       "matchEn": "Mali v New Zealand",
       "matchAr": "مالي × نيوزيلندا",
       "rawIsoTime": "2026-11-20T13:30:00+00:00",
-      "time": "0 - 0 (3')",
-      "rawMinute": 3,
+      "time": "0 - 0 (4')",
+      "rawMinute": 4,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -303,8 +303,8 @@
       "matchEn": "ES Hammam Sousse v Progres Sakiet",
       "matchAr": "حمام سوسة × بروغريه سكيكيت",
       "rawIsoTime": "2026-11-20T13:30:00+00:00",
-      "time": "0 - 0 (4')",
-      "rawMinute": 4,
+      "time": "0 - 0 (5')",
+      "rawMinute": 5,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -317,8 +317,8 @@
       "matchEn": "Olympique Béja v Marsa",
       "matchAr": "الأولمبي الباجي × المرسى",
       "rawIsoTime": "2026-11-20T13:30:00+00:00",
-      "time": "0 - 0 (3')",
-      "rawMinute": 3,
+      "time": "0 - 0 (4')",
+      "rawMinute": 4,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -331,8 +331,8 @@
       "matchEn": "CS Hammam-Lif v ES Metlaoui",
       "matchAr": "حمام الأنف × النجم المتلوي",
       "rawIsoTime": "2026-11-20T13:30:00+00:00",
-      "time": "0 - 0 (3')",
-      "rawMinute": 3,
+      "time": "0 - 0 (4')",
+      "rawMinute": 4,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
