@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795141694402,
+  "timestamp": 1795168867765,
   "matches": [
     {
       "matchId": 4750790,
@@ -65,11 +65,11 @@
       "matchEn": "São Paulo v Fluminense",
       "matchAr": "ساو باولو × فلومينينسي",
       "rawIsoTime": "2026-11-20T00:30:00+00:00",
-      "time": "0 - 1 (done)",
+      "time": "0 - 1 (90')",
       "rawMinute": 90,
       "homeGoals": 0,
       "awayGoals": 1,
-      "isLive": false
+      "isLive": true
     },
     {
       "matchId": 4739562,
