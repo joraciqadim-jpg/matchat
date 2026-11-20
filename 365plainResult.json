@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795216151103,
+  "timestamp": 1795216234410,
   "matches": [
     {
       "matchId": 4750790,
@@ -737,8 +737,8 @@
       "matchEn": "Porto v Paredes",
       "matchAr": "بورتو × باريديس",
       "rawIsoTime": "2026-11-20T20:45:00+00:00",
-      "time": "1 - 1 (107')",
-      "rawMinute": 107,
+      "time": "1 - 1 (109')",
+      "rawMinute": 109,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -751,10 +751,10 @@
       "matchEn": "Velez Sarsfield v Belgrano",
       "matchAr": "فيليز سارسفيلد × بيلغرانو",
       "rawIsoTime": "2026-11-20T23:00:00+00:00",
-      "time": "0 - 0 (10')",
-      "rawMinute": 10,
+      "time": "0 - 1 (11')",
+      "rawMinute": 11,
       "homeGoals": 0,
-      "awayGoals": 0,
+      "awayGoals": 1,
       "isLive": true
     }
   ]
