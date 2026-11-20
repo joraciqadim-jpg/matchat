@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795206037923,
+  "timestamp": 1795206072294,
   "matches": [
     {
       "matchId": 4750790,
@@ -37,8 +37,8 @@
       "matchEn": "Troyes v Le Havre",
       "matchAr": "تروا × لو هافر",
       "rawIsoTime": "2026-11-20T19:45:00+00:00",
-      "time": "1 - 1 (36')",
-      "rawMinute": 36,
+      "time": "1 - 1 (37')",
+      "rawMinute": 37,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -695,10 +695,10 @@
       "matchEn": "MC Oran v JS Saoura",
       "matchAr": "مولودية وهران × شبيبة الساورة",
       "rawIsoTime": "2026-11-20T19:00:00+00:00",
-      "time": "2 - 0 (57')",
-      "rawMinute": 57,
+      "time": "2 - 1 (58')",
+      "rawMinute": 58,
       "homeGoals": 2,
-      "awayGoals": 0,
+      "awayGoals": 1,
       "isLive": true
     },
     {
