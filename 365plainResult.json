@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795191735149,
+  "timestamp": 1795191791953,
   "matches": [
     {
       "matchId": 4750790,
@@ -401,11 +401,11 @@
       "matchEn": "Salmiyah v Khaitan",
       "matchAr": "السالمية × خيطان",
       "rawIsoTime": "2026-11-20T14:25:00+00:00",
-      "time": "4 - 2 (90+7')",
-      "rawMinute": 97,
+      "time": "4 - 2 (done)",
+      "rawMinute": 90,
       "homeGoals": 4,
       "awayGoals": 2,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4726161,
@@ -415,8 +415,8 @@
       "matchEn": "Italy v Jamaica",
       "matchAr": "إيطاليا × جامايكا",
       "rawIsoTime": "2026-11-20T15:00:00+00:00",
-      "time": "5 - 0 (64')",
-      "rawMinute": 64,
+      "time": "5 - 0 (65')",
+      "rawMinute": 65,
       "homeGoals": 5,
       "awayGoals": 0,
       "isLive": true
@@ -429,8 +429,8 @@
       "matchEn": "Kahrbaa Alasmalia v Ceramica Cleopatra",
       "matchAr": "كهرباء الإسماعيلية × سيراميكا كليوباترا",
       "rawIsoTime": "2026-11-20T15:00:00+00:00",
-      "time": "1 - 2 (58')",
-      "rawMinute": 58,
+      "time": "1 - 2 (59')",
+      "rawMinute": 59,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -499,8 +499,8 @@
       "matchEn": "Ivory Coast v Uzbekistan",
       "matchAr": "ساحل العاج × أوزبكستان",
       "rawIsoTime": "2026-11-20T16:00:00+00:00",
-      "time": "1 - 0 (22')",
-      "rawMinute": 22,
+      "time": "1 - 0 (23')",
+      "rawMinute": 23,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -513,8 +513,8 @@
       "matchEn": "Fiji v Morocco",
       "matchAr": "فيجي × المغرب",
       "rawIsoTime": "2026-11-20T16:00:00+00:00",
-      "time": "0 - 2 (22')",
-      "rawMinute": 22,
+      "time": "0 - 2 (23')",
+      "rawMinute": 23,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -527,8 +527,8 @@
       "matchEn": "Shakhtar Donetsk v Livyi Bereh",
       "matchAr": "شاختار دونيتسك × ليفي بيريه",
       "rawIsoTime": "2026-11-20T16:00:00+00:00",
-      "time": "0 - 1 (20')",
-      "rawMinute": 20,
+      "time": "0 - 1 (21')",
+      "rawMinute": 21,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -541,8 +541,8 @@
       "matchEn": "Al Wehdat v Al Arabi",
       "matchAr": "الوحدات × العربي",
       "rawIsoTime": "2026-11-20T16:00:00+00:00",
-      "time": "0 - 0 (23')",
-      "rawMinute": 23,
+      "time": "0 - 0 (24')",
+      "rawMinute": 24,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -555,8 +555,8 @@
       "matchEn": "ASO Chlef v Usm Khenchela",
       "matchAr": "جمعية الشلف × اتحاد مدينة خنشلة",
       "rawIsoTime": "2026-11-20T16:00:00+00:00",
-      "time": "0 - 0 (22')",
-      "rawMinute": 22,
+      "time": "0 - 0 (23')",
+      "rawMinute": 23,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -569,8 +569,8 @@
       "matchEn": "ES Setif v Us Biskra",
       "matchAr": "وفاق سطيف × اتحاد بسكرة",
       "rawIsoTime": "2026-11-20T16:00:00+00:00",
-      "time": "0 - 0 (22')",
-      "rawMinute": 23,
+      "time": "0 - 0 (24')",
+      "rawMinute": 24,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -583,7 +583,7 @@
       "matchEn": "Al Ittihad Aleppo v Jaish",
       "matchAr": "الاتحاد حلب × الجيش",
       "rawIsoTime": "2026-11-20T16:00:00+00:00",
-      "time": "0 - 0 (16')",
+      "time": "0 - 0 (17')",
       "rawMinute": 17,
       "homeGoals": 0,
       "awayGoals": 0,
@@ -597,8 +597,8 @@
       "matchEn": "Hottin v Al Wahda",
       "matchAr": "حطين × الوحدة",
       "rawIsoTime": "2026-11-20T16:00:00+00:00",
-      "time": "0 - 0 (16')",
-      "rawMinute": 16,
+      "time": "0 - 0 (17')",
+      "rawMinute": 17,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -611,8 +611,8 @@
       "matchEn": "Duhok v Erbil",
       "matchAr": "دهوك × أربيل",
       "rawIsoTime": "2026-11-20T16:15:00+00:00",
-      "time": "0 - 0 (8')",
-      "rawMinute": 8,
+      "time": "0 - 0 (9')",
+      "rawMinute": 9,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
