@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795134671179,
+  "timestamp": 1795134708129,
   "matches": [
     {
       "matchId": 4750790,
@@ -79,8 +79,8 @@
       "matchEn": "São Paulo v Fluminense",
       "matchAr": "ساو باولو × فلومينينسي",
       "rawIsoTime": "2026-11-20T00:30:00+00:00",
-      "time": "0 - 0 (1')",
-      "rawMinute": 1,
+      "time": "0 - 0 (2')",
+      "rawMinute": 2,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -212,6 +212,34 @@
       "isLive": false
     },
     {
+      "matchId": 4722870,
+      "competitionId": "5582",
+      "tournamentEn": "🛡️ International U17 World Cup",
+      "tournamentAr": "🛡️ كأس العالم الدولية تحت 17 سنة",
+      "matchEn": "Belgium v Vietnam",
+      "matchAr": "بلجيكا × فيتنام",
+      "rawIsoTime": "2026-11-20T13:00:00+00:00",
+      "time": "13:00",
+      "rawMinute": 1,
+      "homeGoals": -1,
+      "awayGoals": -1,
+      "isLive": false
+    },
+    {
+      "matchId": 4726160,
+      "competitionId": "5582",
+      "tournamentEn": "🛡️ International U17 World Cup",
+      "tournamentAr": "🛡️ كأس العالم الدولية تحت 17 سنة",
+      "matchEn": "Cuba v Tajikistan",
+      "matchAr": "كوبا × طاجيكستان",
+      "rawIsoTime": "2026-11-20T13:00:00+00:00",
+      "time": "13:00",
+      "rawMinute": 1,
+      "homeGoals": -1,
+      "awayGoals": -1,
+      "isLive": false
+    },
+    {
       "matchId": 4779201,
       "competitionId": "408",
       "tournamentEn": "🇶🇦 Qatari Stars League",
@@ -268,6 +296,20 @@
       "isLive": false
     },
     {
+      "matchId": 4722857,
+      "competitionId": "5582",
+      "tournamentEn": "🛡️ International U17 World Cup",
+      "tournamentAr": "🛡️ كأس العالم الدولية تحت 17 سنة",
+      "matchEn": "Mali v New Zealand",
+      "matchAr": "مالي × نيوزيلندا",
+      "rawIsoTime": "2026-11-20T13:30:00+00:00",
+      "time": "13:30",
+      "rawMinute": 1,
+      "homeGoals": -1,
+      "awayGoals": -1,
+      "isLive": false
+    },
+    {
       "matchId": 4798227,
       "competitionId": "554",
       "tournamentEn": "🇹🇳 Tunisian Division 1",
@@ -304,6 +346,20 @@
       "matchAr": "حمام الأنف × النجم المتلوي",
       "rawIsoTime": "2026-11-20T13:30:00+00:00",
       "time": "13:30",
+      "rawMinute": 1,
+      "homeGoals": -1,
+      "awayGoals": -1,
+      "isLive": false
+    },
+    {
+      "matchId": 4722883,
+      "competitionId": "5582",
+      "tournamentEn": "🛡️ International U17 World Cup",
+      "tournamentAr": "🛡️ كأس العالم الدولية تحت 17 سنة",
+      "matchEn": "Spain v China",
+      "matchAr": "إسبانيا × الصين",
+      "rawIsoTime": "2026-11-20T14:00:00+00:00",
+      "time": "14:00",
       "rawMinute": 1,
       "homeGoals": -1,
       "awayGoals": -1,
@@ -366,6 +422,20 @@
       "isLive": false
     },
     {
+      "matchId": 4726161,
+      "competitionId": "5582",
+      "tournamentEn": "🛡️ International U17 World Cup",
+      "tournamentAr": "🛡️ كأس العالم الدولية تحت 17 سنة",
+      "matchEn": "Italy v Jamaica",
+      "matchAr": "إيطاليا × جامايكا",
+      "rawIsoTime": "2026-11-20T15:00:00+00:00",
+      "time": "15:00",
+      "rawMinute": 1,
+      "homeGoals": -1,
+      "awayGoals": -1,
+      "isLive": false
+    },
+    {
       "matchId": 4893639,
       "competitionId": "553",
       "tournamentEn": "🏆 Egyptian Cup",
@@ -394,6 +464,20 @@
       "isLive": false
     },
     {
+      "matchId": 4722887,
+      "competitionId": "5582",
+      "tournamentEn": "🛡️ International U17 World Cup",
+      "tournamentAr": "🛡️ كأس العالم الدولية تحت 17 سنة",
+      "matchEn": "Senegal v Croatia",
+      "matchAr": "السنغال × كرواتيا",
+      "rawIsoTime": "2026-11-20T15:30:00+00:00",
+      "time": "15:30",
+      "rawMinute": 1,
+      "homeGoals": -1,
+      "awayGoals": -1,
+      "isLive": false
+    },
+    {
       "matchId": 4779203,
       "competitionId": "408",
       "tournamentEn": "🇶🇦 Qatari Stars League",
@@ -402,6 +486,34 @@
       "matchAr": "الغرافة × العربي الدوحة",
       "rawIsoTime": "2026-11-20T15:30:00+00:00",
       "time": "15:30",
+      "rawMinute": 1,
+      "homeGoals": -1,
+      "awayGoals": -1,
+      "isLive": false
+    },
+    {
+      "matchId": 4722876,
+      "competitionId": "5582",
+      "tournamentEn": "🛡️ International U17 World Cup",
+      "tournamentAr": "🛡️ كأس العالم الدولية تحت 17 سنة",
+      "matchEn": "Ivory Coast v Uzbekistan",
+      "matchAr": "ساحل العاج × أوزبكستان",
+      "rawIsoTime": "2026-11-20T16:00:00+00:00",
+      "time": "16:00",
+      "rawMinute": 1,
+      "homeGoals": -1,
+      "awayGoals": -1,
+      "isLive": false
+    },
+    {
+      "matchId": 4722879,
+      "competitionId": "5582",
+      "tournamentEn": "🛡️ International U17 World Cup",
+      "tournamentAr": "🛡️ كأس العالم الدولية تحت 17 سنة",
+      "matchEn": "Fiji v Morocco",
+      "matchAr": "فيجي × المغرب",
+      "rawIsoTime": "2026-11-20T16:00:00+00:00",
+      "time": "16:00",
       "rawMinute": 1,
       "homeGoals": -1,
       "awayGoals": -1,
