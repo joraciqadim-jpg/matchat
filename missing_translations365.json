@@ -1,4 +1,140 @@
 {
+  "são paulo": {
+    "en": "São Paulo",
+    "ar": "ساو باولو"
+  },
+  "fluminense": {
+    "en": "Fluminense",
+    "ar": "فلومينينسي"
+  },
+  "al talaba baghdad": {
+    "en": "Al Talaba Baghdad",
+    "ar": "الطلبة بغداد"
+  },
+  "damascus al ahli club": {
+    "en": "Damascus Al Ahli",
+    "ar": "أهلي دمشق"
+  },
+  "al nawaeir": {
+    "en": "Al Nawaeir",
+    "ar": "النواعير"
+  },
+  "horriya": {
+    "en": "Horriya",
+    "ar": "الحرية"
+  },
+  "al taliya hama": {
+    "en": "Al Taliya Hama",
+    "ar": "الطليعة حماة"
+  },
+  "qamislo sport": {
+    "en": "Qamislo Sport",
+    "ar": "قامشلو سبورت"
+  },
+  "zakho": {
+    "en": "Zakho",
+    "ar": "زاخو"
+  },
+  "al suwaiq": {
+    "en": "Al Suwaiq",
+    "ar": "السويق"
+  },
+  "mina'a basra": {
+    "en": "Mina'a Basra",
+    "ar": "الميناء البصري"
+  },
+  "karbalaa": {
+    "en": "Karbalaa",
+    "ar": "كربلاء"
+  },
+  "bengaluru fc": {
+    "en": "Bengaluru",
+    "ar": "بنغالورو"
+  },
+  "mumbai city": {
+    "en": "Mumbai City",
+    "ar": "مومباي سيتي"
+  },
+  "al bashaer": {
+    "en": "Al Bashaer",
+    "ar": "البشائر"
+  },
+  "libya premier league": {
+    "en": "Libyan Premier League",
+    "ar": "الدوري الليبي الممتاز"
+  },
+  "khaitan sc": {
+    "en": "Khaitan",
+    "ar": "خيطان"
+  },
+  "kuwait crown prince cup": {
+    "en": "Kuwaiti Crown Prince Cup",
+    "ar": "كأس ولي العهد الكويتي"
+  },
+  "al arabi doha": {
+    "en": "Al Arabi Doha",
+    "ar": "العربي الدوحة"
+  },
+  "al wehdat": {
+    "en": "Al Wehdat",
+    "ar": "الوحدات"
+  },
+  "al ittihad aleppo": {
+    "en": "Al Ittihad Aleppo",
+    "ar": "الاتحاد حلب"
+  },
+  "hottin": {
+    "en": "Hottin",
+    "ar": "حطين"
+  },
+  "al wahda damascus": {
+    "en": "Al Wahda Damascus",
+    "ar": "الوحدة دمشق"
+  },
+  "duhok": {
+    "en": "Duhok",
+    "ar": "دهوك"
+  },
+  "tadamon": {
+    "en": "Tadamon",
+    "ar": "التضامن"
+  },
+  "al jazira fc": {
+    "en": "AL Jazira",
+    "ar": "الجزيرة"
+  },
+  "al nassr fc riyadh": {
+    "en": "Al Nassr Riyadh",
+    "ar": "النصر الرياض"
+  },
+  "lyngby": {
+    "en": "Lyngby",
+    "ar": "لينغبي"
+  },
+  "mc oran": {
+    "en": "MC Oran",
+    "ar": "مولودية وهران"
+  },
+  "paredes": {
+    "en": "Paredes",
+    "ar": "باريديس"
+  },
+  "taça de portugal": {
+    "en": "Taça de Portugal",
+    "ar": "كأس البرتغال"
+  },
+  "velez sarsfield": {
+    "en": "Velez Sarsfield",
+    "ar": "فيليز سارسفيلد"
+  },
+  "belgrano": {
+    "en": "Belgrano",
+    "ar": "بيلغرانو"
+  },
+  "argentina liga profesional": {
+    "en": "Argentinean Liga Profesional",
+    "ar": "الدوري الأرجنتيني للمحترفين"
+  },
   "gremio": {
     "en": "Gremio",
     "ar": "غريميو"
