@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795197256242,
+  "timestamp": 1795197323565,
   "matches": [
     {
       "matchId": 4750790,
@@ -51,8 +51,8 @@
       "matchEn": "Al Ahli v Al Nassr",
       "matchAr": "الأهلي × النصر",
       "rawIsoTime": "2026-11-20T17:30:00+00:00",
-      "time": "0 - 1 (24')",
-      "rawMinute": 24,
+      "time": "0 - 1 (25')",
+      "rawMinute": 25,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -506,6 +506,20 @@
       "isLive": false
     },
     {
+      "matchId": 4748653,
+      "competitionId": "129",
+      "tournamentEn": "🇺🇦 Ukrainian Premier League",
+      "tournamentAr": "🇺🇦 الدوري الأوكراني",
+      "matchEn": "Shakhtar Donetsk v Livyi Bereh",
+      "matchAr": "شاختار دونيتسك × ليفي بيريه",
+      "rawIsoTime": "2026-11-20T16:00:00+00:00",
+      "time": "1 - 1 (done)",
+      "rawMinute": 90,
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "isLive": false
+    },
+    {
       "matchId": 4886956,
       "competitionId": "5635",
       "tournamentEn": "🏆 Jordanian Cup",
@@ -520,6 +534,20 @@
       "isLive": false
     },
     {
+      "matchId": 4890780,
+      "competitionId": "560",
+      "tournamentEn": "🇩🇿 Algerian Ligue 1",
+      "tournamentAr": "🇩🇿 الدوري الجزائري",
+      "matchEn": "ES Setif v Us Biskra",
+      "matchAr": "وفاق سطيف × اتحاد بسكرة",
+      "rawIsoTime": "2026-11-20T16:00:00+00:00",
+      "time": "1 - 1 (done)",
+      "rawMinute": 90,
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "isLive": false
+    },
+    {
       "matchId": 4722876,
       "competitionId": "5582",
       "tournamentEn": "🛡️ World Cup U17",
@@ -527,23 +555,9 @@
       "matchEn": "Ivory Coast v Uzbekistan",
       "matchAr": "ساحل العاج × أوزبكستان",
       "rawIsoTime": "2026-11-20T16:00:00+00:00",
-      "time": "2 - 1 (90+3')",
-      "rawMinute": 93,
+      "time": "2 - 1 (90+4')",
+      "rawMinute": 94,
       "homeGoals": 2,
-      "awayGoals": 1,
-      "isLive": true
-    },
-    {
-      "matchId": 4748653,
-      "competitionId": "129",
-      "tournamentEn": "🇺🇦 Ukrainian Premier League",
-      "tournamentAr": "🇺🇦 الدوري الأوكراني",
-      "matchEn": "Shakhtar Donetsk v Livyi Bereh",
-      "matchAr": "شاختار دونيتسك × ليفي بيريه",
-      "rawIsoTime": "2026-11-20T16:00:00+00:00",
-      "time": "1 - 1 (90+3')",
-      "rawMinute": 93,
-      "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
     },
@@ -555,24 +569,10 @@
       "matchEn": "ASO Chlef v Usm Khenchela",
       "matchAr": "جمعية الشلف × اتحاد مدينة خنشلة",
       "rawIsoTime": "2026-11-20T16:00:00+00:00",
-      "time": "2 - 0 (90+4')",
-      "rawMinute": 94,
+      "time": "2 - 0 (90+5')",
+      "rawMinute": 95,
       "homeGoals": 2,
       "awayGoals": 0,
-      "isLive": true
-    },
-    {
-      "matchId": 4890780,
-      "competitionId": "560",
-      "tournamentEn": "🇩🇿 Algerian Ligue 1",
-      "tournamentAr": "🇩🇿 الدوري الجزائري",
-      "matchEn": "ES Setif v Us Biskra",
-      "matchAr": "وفاق سطيف × اتحاد بسكرة",
-      "rawIsoTime": "2026-11-20T16:00:00+00:00",
-      "time": "1 - 1 (90+6')",
-      "rawMinute": 96,
-      "homeGoals": 1,
-      "awayGoals": 1,
       "isLive": true
     },
     {
@@ -583,8 +583,8 @@
       "matchEn": "Al Ittihad Aleppo v Jaish",
       "matchAr": "الاتحاد حلب × الجيش",
       "rawIsoTime": "2026-11-20T16:00:00+00:00",
-      "time": "1 - 0 (88')",
-      "rawMinute": 88,
+      "time": "1 - 0 (89')",
+      "rawMinute": 89,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -597,8 +597,8 @@
       "matchEn": "Hottin v Al Wahda",
       "matchAr": "حطين × الوحدة",
       "rawIsoTime": "2026-11-20T16:00:00+00:00",
-      "time": "1 - 0 (90+1')",
-      "rawMinute": 91,
+      "time": "1 - 0 (90+2')",
+      "rawMinute": 92,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -611,8 +611,8 @@
       "matchEn": "Duhok v Erbil",
       "matchAr": "دهوك × أربيل",
       "rawIsoTime": "2026-11-20T16:15:00+00:00",
-      "time": "1 - 1 (82')",
-      "rawMinute": 82,
+      "time": "1 - 1 (84')",
+      "rawMinute": 84,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -625,8 +625,8 @@
       "matchEn": "Rostov v Krylya Sovetov Samara",
       "matchAr": "روستوف × كريليا سوفيتوف سامارا",
       "rawIsoTime": "2026-11-20T16:30:00+00:00",
-      "time": "2 - 0 (65')",
-      "rawMinute": 65,
+      "time": "2 - 0 (66')",
+      "rawMinute": 66,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -639,8 +639,8 @@
       "matchEn": "Tadamon v AL Jazira",
       "matchAr": "التضامن × الجزيرة",
       "rawIsoTime": "2026-11-20T16:30:00+00:00",
-      "time": "1 - 1 (64')",
-      "rawMinute": 64,
+      "time": "1 - 1 (65')",
+      "rawMinute": 65,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
