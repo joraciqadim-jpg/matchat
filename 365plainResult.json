@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795201335687,
+  "timestamp": 1795201391770,
   "matches": [
     {
       "matchId": 4750790,
@@ -52,7 +52,7 @@
       "matchAr": "الأهلي × النصر",
       "rawIsoTime": "2026-11-20T17:30:00+00:00",
       "time": "2 - 1 (72')",
-      "rawMinute": 72,
+      "rawMinute": 73,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -695,8 +695,8 @@
       "matchEn": "MC Oran v JS Saoura",
       "matchAr": "مولودية وهران × شبيبة الساورة",
       "rawIsoTime": "2026-11-20T19:00:00+00:00",
-      "time": "0 - 0 (2')",
-      "rawMinute": 2,
+      "time": "0 - 0 (3')",
+      "rawMinute": 3,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
