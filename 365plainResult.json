@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795195151471,
+  "timestamp": 1795195235761,
   "matches": [
     {
       "matchId": 4750790,
@@ -429,8 +429,8 @@
       "matchEn": "Kahrbaa Alasmalia v Ceramica Cleopatra",
       "matchAr": "كهرباء الإسماعيلية × سيراميكا كليوباترا",
       "rawIsoTime": "2026-11-20T15:00:00+00:00",
-      "time": "2 - 2 (99')",
-      "rawMinute": 99,
+      "time": "2 - 2 (101')",
+      "rawMinute": 101,
       "homeGoals": 2,
       "awayGoals": 2,
       "isLive": true
@@ -443,8 +443,8 @@
       "matchEn": "Shabab Al Ahly v Ajman",
       "matchAr": "شباب الأهلي × عجمان",
       "rawIsoTime": "2026-11-20T15:25:00+00:00",
-      "time": "2 - 1 (90+3')",
-      "rawMinute": 93,
+      "time": "2 - 1 (90+4')",
+      "rawMinute": 95,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -457,8 +457,8 @@
       "matchEn": "Senegal v Croatia",
       "matchAr": "السنغال × كرواتيا",
       "rawIsoTime": "2026-11-20T15:30:00+00:00",
-      "time": "1 - 1 (90+1')",
-      "rawMinute": 91,
+      "time": "1 - 1 (90+3')",
+      "rawMinute": 93,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -471,8 +471,8 @@
       "matchEn": "Al Gharafa v Al Arabi Doha",
       "matchAr": "الغرافة × العربي الدوحة",
       "rawIsoTime": "2026-11-20T15:30:00+00:00",
-      "time": "2 - 2 (90')",
-      "rawMinute": 90,
+      "time": "2 - 2 (90+2')",
+      "rawMinute": 92,
       "homeGoals": 2,
       "awayGoals": 2,
       "isLive": true
@@ -485,8 +485,8 @@
       "matchEn": "Al Zawraa v Al Talaba",
       "matchAr": "الزوراء × الطلبة",
       "rawIsoTime": "2026-11-20T15:30:00+00:00",
-      "time": "4 - 1 (89')",
-      "rawMinute": 89,
+      "time": "4 - 1 (90')",
+      "rawMinute": 90,
       "homeGoals": 4,
       "awayGoals": 1,
       "isLive": true
@@ -499,8 +499,8 @@
       "matchEn": "Ivory Coast v Uzbekistan",
       "matchAr": "ساحل العاج × أوزبكستان",
       "rawIsoTime": "2026-11-20T16:00:00+00:00",
-      "time": "1 - 1 (58')",
-      "rawMinute": 58,
+      "time": "1 - 1 (59')",
+      "rawMinute": 59,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -513,8 +513,8 @@
       "matchEn": "Fiji v Morocco",
       "matchAr": "فيجي × المغرب",
       "rawIsoTime": "2026-11-20T16:00:00+00:00",
-      "time": "0 - 5 (61')",
-      "rawMinute": 61,
+      "time": "0 - 5 (63')",
+      "rawMinute": 63,
       "homeGoals": 0,
       "awayGoals": 5,
       "isLive": true
@@ -527,8 +527,8 @@
       "matchEn": "Shakhtar Donetsk v Livyi Bereh",
       "matchAr": "شاختار دونيتسك × ليفي بيريه",
       "rawIsoTime": "2026-11-20T16:00:00+00:00",
-      "time": "0 - 1 (58')",
-      "rawMinute": 58,
+      "time": "0 - 1 (59')",
+      "rawMinute": 59,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -541,8 +541,8 @@
       "matchEn": "Al Wehdat v Al Arabi",
       "matchAr": "الوحدات × العربي",
       "rawIsoTime": "2026-11-20T16:00:00+00:00",
-      "time": "1 - 0 (59')",
-      "rawMinute": 59,
+      "time": "1 - 0 (61')",
+      "rawMinute": 61,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -555,8 +555,8 @@
       "matchEn": "ASO Chlef v Usm Khenchela",
       "matchAr": "جمعية الشلف × اتحاد مدينة خنشلة",
       "rawIsoTime": "2026-11-20T16:00:00+00:00",
-      "time": "0 - 0 (59')",
-      "rawMinute": 59,
+      "time": "0 - 0 (60')",
+      "rawMinute": 60,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -569,8 +569,8 @@
       "matchEn": "ES Setif v Us Biskra",
       "matchAr": "وفاق سطيف × اتحاد بسكرة",
       "rawIsoTime": "2026-11-20T16:00:00+00:00",
-      "time": "1 - 1 (61')",
-      "rawMinute": 61,
+      "time": "1 - 1 (62')",
+      "rawMinute": 62,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -583,8 +583,8 @@
       "matchEn": "Al Ittihad Aleppo v Jaish",
       "matchAr": "الاتحاد حلب × الجيش",
       "rawIsoTime": "2026-11-20T16:00:00+00:00",
-      "time": "1 - 0 (53')",
-      "rawMinute": 53,
+      "time": "1 - 0 (54')",
+      "rawMinute": 54,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -598,7 +598,7 @@
       "matchAr": "حطين × الوحدة",
       "rawIsoTime": "2026-11-20T16:00:00+00:00",
       "time": "0 - 0 (56')",
-      "rawMinute": 56,
+      "rawMinute": 57,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -611,8 +611,8 @@
       "matchEn": "Duhok v Erbil",
       "matchAr": "دهوك × أربيل",
       "rawIsoTime": "2026-11-20T16:15:00+00:00",
-      "time": "1 - 0 (47')",
-      "rawMinute": 47,
+      "time": "1 - 0 (49')",
+      "rawMinute": 49,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -653,8 +653,8 @@
       "matchEn": "Piast Gliwice v Korona Kielce",
       "matchAr": "بياست غليفيتسه × كورونا كيلتسه",
       "rawIsoTime": "2026-11-20T17:00:00+00:00",
-      "time": "0 - 0 (19')",
-      "rawMinute": 19,
+      "time": "0 - 0 (20')",
+      "rawMinute": 20,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
