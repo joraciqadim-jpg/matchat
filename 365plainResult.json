@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795178775501,
+  "timestamp": 1795178832042,
   "matches": [
     {
       "matchId": 4750790,
@@ -135,8 +135,8 @@
       "matchEn": "East Bengal v Delhi",
       "matchAr": "إيست بنغال × دلهي",
       "rawIsoTime": "2026-11-20T11:30:00+00:00",
-      "time": "1 - 1 (55')",
-      "rawMinute": 55,
+      "time": "1 - 1 (56')",
+      "rawMinute": 56,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -149,8 +149,8 @@
       "matchEn": "Damascus Al Ahli v Al Nawaeir",
       "matchAr": "أهلي دمشق × النواعير",
       "rawIsoTime": "2026-11-20T12:00:00+00:00",
-      "time": "0 - 0 (45+4')",
-      "rawMinute": 49,
+      "time": "0 - 0 (45+5')",
+      "rawMinute": 50,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -163,10 +163,10 @@
       "matchEn": "Foutoua v Al Karamah",
       "matchAr": "الفتوة × الكرامة",
       "rawIsoTime": "2026-11-20T12:00:00+00:00",
-      "time": "0 - 2 (44')",
-      "rawMinute": 44,
+      "time": "0 - 3 (45')",
+      "rawMinute": 45,
       "homeGoals": 0,
-      "awayGoals": 2,
+      "awayGoals": 3,
       "isLive": true
     },
     {
@@ -177,8 +177,8 @@
       "matchEn": "Homs Al Fidaa v Horriya",
       "matchAr": "حمص الفداء × الحرية",
       "rawIsoTime": "2026-11-20T12:00:00+00:00",
-      "time": "0 - 1 (45+4')",
-      "rawMinute": 49,
+      "time": "0 - 1 (Halftime)",
+      "rawMinute": 45,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -191,8 +191,8 @@
       "matchEn": "Kalba v Sharjah",
       "matchAr": "كلباء × الشارقة",
       "rawIsoTime": "2026-11-20T12:45:00+00:00",
-      "time": "0 - 0 (2')",
-      "rawMinute": 2,
+      "time": "0 - 0 (3')",
+      "rawMinute": 3,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
