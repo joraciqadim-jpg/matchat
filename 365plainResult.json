@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795200136545,
+  "timestamp": 1795200191871,
   "matches": [
     {
       "matchId": 4750790,
@@ -52,7 +52,7 @@
       "matchAr": "الأهلي × النصر",
       "rawIsoTime": "2026-11-20T17:30:00+00:00",
       "time": "1 - 1 (49')",
-      "rawMinute": 52,
+      "rawMinute": 53,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -668,7 +668,7 @@
       "matchAr": "مولده × بودو/غليمت",
       "rawIsoTime": "2026-11-20T18:00:00+00:00",
       "time": "0 - 2 (40')",
-      "rawMinute": 42,
+      "rawMinute": 43,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -682,7 +682,7 @@
       "matchAr": "آرهوس × لينغبي",
       "rawIsoTime": "2026-11-20T18:00:00+00:00",
       "time": "2 - 1 (40')",
-      "rawMinute": 42,
+      "rawMinute": 43,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
