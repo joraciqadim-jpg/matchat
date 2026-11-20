@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795206792449,
+  "timestamp": 1795206855785,
   "matches": [
     {
       "matchId": 4750790,
@@ -9,8 +9,8 @@
       "matchEn": "Athletic Bilbao v Espanyol",
       "matchAr": "أتلتيك بلباو × إسبانيول",
       "rawIsoTime": "2026-11-20T20:00:00+00:00",
-      "time": "0 - 0 (31')",
-      "rawMinute": 31,
+      "time": "0 - 0 (32')",
+      "rawMinute": 32,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -695,8 +695,8 @@
       "matchEn": "MC Oran v JS Saoura",
       "matchAr": "مولودية وهران × شبيبة الساورة",
       "rawIsoTime": "2026-11-20T19:00:00+00:00",
-      "time": "2 - 1 (70')",
-      "rawMinute": 70,
+      "time": "2 - 1 (71')",
+      "rawMinute": 71,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
