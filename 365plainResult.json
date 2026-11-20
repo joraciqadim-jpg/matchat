@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795180391577,
+  "timestamp": 1795180455365,
   "matches": [
     {
       "matchId": 4750790,
@@ -149,9 +149,9 @@
       "matchEn": "East Bengal v Delhi",
       "matchAr": "إيست بنغال × دلهي",
       "rawIsoTime": "2026-11-20T11:30:00+00:00",
-      "time": "1 - 2 (82')",
-      "rawMinute": 82,
-      "homeGoals": 1,
+      "time": "2 - 2 (83')",
+      "rawMinute": 83,
+      "homeGoals": 2,
       "awayGoals": 2,
       "isLive": true
     },
@@ -163,8 +163,8 @@
       "matchEn": "Damascus Al Ahli v Al Nawaeir",
       "matchAr": "أهلي دمشق × النواعير",
       "rawIsoTime": "2026-11-20T12:00:00+00:00",
-      "time": "0 - 0 (52')",
-      "rawMinute": 52,
+      "time": "0 - 0 (53')",
+      "rawMinute": 53,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -177,10 +177,10 @@
       "matchEn": "Foutoua v Al Karamah",
       "matchAr": "الفتوة × الكرامة",
       "rawIsoTime": "2026-11-20T12:00:00+00:00",
-      "time": "0 - 3 (51')",
-      "rawMinute": 51,
+      "time": "0 - 4 (52')",
+      "rawMinute": 52,
       "homeGoals": 0,
-      "awayGoals": 3,
+      "awayGoals": 4,
       "isLive": true
     },
     {
@@ -191,8 +191,8 @@
       "matchEn": "Homs Al Fidaa v Horriya",
       "matchAr": "حمص الفداء × الحرية",
       "rawIsoTime": "2026-11-20T12:00:00+00:00",
-      "time": "0 - 1 (56')",
-      "rawMinute": 56,
+      "time": "0 - 1 (57')",
+      "rawMinute": 57,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -205,8 +205,8 @@
       "matchEn": "Kalba v Sharjah",
       "matchAr": "كلباء × الشارقة",
       "rawIsoTime": "2026-11-20T12:45:00+00:00",
-      "time": "0 - 1 (29')",
-      "rawMinute": 29,
+      "time": "0 - 1 (30')",
+      "rawMinute": 30,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -219,8 +219,8 @@
       "matchEn": "Belgium v Vietnam",
       "matchAr": "بلجيكا × فيتنام",
       "rawIsoTime": "2026-11-20T13:00:00+00:00",
-      "time": "0 - 1 (13')",
-      "rawMinute": 13,
+      "time": "0 - 1 (14')",
+      "rawMinute": 14,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -233,8 +233,8 @@
       "matchEn": "Cuba v Tajikistan",
       "matchAr": "كوبا × طاجيكستان",
       "rawIsoTime": "2026-11-20T13:00:00+00:00",
-      "time": "0 - 0 (12')",
-      "rawMinute": 12,
+      "time": "0 - 0 (13')",
+      "rawMinute": 13,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -247,8 +247,8 @@
       "matchEn": "Al Duhail v Qatar",
       "matchAr": "الدحيل × قطر",
       "rawIsoTime": "2026-11-20T13:00:00+00:00",
-      "time": "0 - 0 (13')",
-      "rawMinute": 13,
+      "time": "0 - 0 (15')",
+      "rawMinute": 15,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -261,8 +261,8 @@
       "matchEn": "Al Sadd v Lusail Sports",
       "matchAr": "السد × لوسيل سبورتس",
       "rawIsoTime": "2026-11-20T13:00:00+00:00",
-      "time": "0 - 1 (14')",
-      "rawMinute": 14,
+      "time": "0 - 1 (15')",
+      "rawMinute": 15,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -275,8 +275,8 @@
       "matchEn": "Zakho v Al Shorta",
       "matchAr": "زاخو × الشرطة",
       "rawIsoTime": "2026-11-20T13:00:00+00:00",
-      "time": "0 - 0 (14')",
-      "rawMinute": 14,
+      "time": "0 - 0 (15')",
+      "rawMinute": 15,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
