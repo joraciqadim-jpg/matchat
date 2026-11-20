@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795175774605,
+  "timestamp": 1795175831583,
   "matches": [
     {
       "matchId": 4750790,
@@ -107,8 +107,8 @@
       "matchEn": "Vissel Kobe v Mito Hollyhock",
       "matchAr": "فيسيل كوبي × ميتو هوليهوك",
       "rawIsoTime": "2026-11-20T10:00:00+00:00",
-      "time": "1 - 2 (90+7')",
-      "rawMinute": 97,
+      "time": "1 - 2 (90+8')",
+      "rawMinute": 98,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -121,8 +121,8 @@
       "matchEn": "East Bengal v Delhi",
       "matchAr": "إيست بنغال × دلهي",
       "rawIsoTime": "2026-11-20T11:30:00+00:00",
-      "time": "0 - 0 (26')",
-      "rawMinute": 26,
+      "time": "0 - 0 (27')",
+      "rawMinute": 27,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
