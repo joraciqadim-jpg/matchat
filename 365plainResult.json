@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795205896348,
+  "timestamp": 1795205951898,
   "matches": [
     {
       "matchId": 4750790,
@@ -9,8 +9,8 @@
       "matchEn": "Athletic Bilbao v Espanyol",
       "matchAr": "أتلتيك بلباو × إسبانيول",
       "rawIsoTime": "2026-11-20T20:00:00+00:00",
-      "time": "0 - 0 (16')",
-      "rawMinute": 16,
+      "time": "0 - 0 (17')",
+      "rawMinute": 17,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -24,7 +24,7 @@
       "matchAr": "بايرن ميونخ × كولن",
       "rawIsoTime": "2026-11-20T19:30:00+00:00",
       "time": "1 - 1 (45+4')",
-      "rawMinute": 49,
+      "rawMinute": 50,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -37,8 +37,8 @@
       "matchEn": "Troyes v Le Havre",
       "matchAr": "تروا × لو هافر",
       "rawIsoTime": "2026-11-20T19:45:00+00:00",
-      "time": "1 - 1 (34')",
-      "rawMinute": 34,
+      "time": "1 - 1 (35')",
+      "rawMinute": 35,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -695,8 +695,8 @@
       "matchEn": "MC Oran v JS Saoura",
       "matchAr": "مولودية وهران × شبيبة الساورة",
       "rawIsoTime": "2026-11-20T19:00:00+00:00",
-      "time": "2 - 0 (55')",
-      "rawMinute": 55,
+      "time": "2 - 0 (56')",
+      "rawMinute": 56,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -723,8 +723,8 @@
       "matchEn": "Cercle Brugge v KVC Westerlo",
       "matchAr": "سيركل بروج × فيسترلو",
       "rawIsoTime": "2026-11-20T19:45:00+00:00",
-      "time": "0 - 0 (33')",
-      "rawMinute": 33,
+      "time": "0 - 0 (34')",
+      "rawMinute": 34,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
