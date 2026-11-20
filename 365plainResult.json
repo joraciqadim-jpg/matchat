@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795134071061,
+  "timestamp": 1795134135912,
   "matches": [
     {
       "matchId": 4750790,
@@ -65,8 +65,8 @@
       "matchEn": "Vitoria v RB Bragantino",
       "matchAr": "فيتوريا × آر بي براغانتينو",
       "rawIsoTime": "2026-11-19T22:30:00+00:00",
-      "time": "2 - 1 (84')",
-      "rawMinute": 84,
+      "time": "2 - 1 (85')",
+      "rawMinute": 85,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -79,8 +79,8 @@
       "matchEn": "Vasco da Gama v Internacional",
       "matchAr": "فاسكو دي غاما × إنترناسيونال",
       "rawIsoTime": "2026-11-19T22:30:00+00:00",
-      "time": "2 - 1 (90')",
-      "rawMinute": 90,
+      "time": "2 - 1 (90+1')",
+      "rawMinute": 91,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
