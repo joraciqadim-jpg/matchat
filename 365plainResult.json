@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795135094644,
+  "timestamp": 1795135151392,
   "matches": [
     {
       "matchId": 4750790,
@@ -58,20 +58,6 @@
       "isLive": false
     },
     {
-      "matchId": 4632598,
-      "competitionId": "113",
-      "tournamentEn": "🇧🇷 Brazilian Série A",
-      "tournamentAr": "🇧🇷 الدوري البرازيلي",
-      "matchEn": "Vitoria v RB Bragantino",
-      "matchAr": "فيتوريا × آر بي براغانتينو",
-      "rawIsoTime": "2026-11-19T22:30:00+00:00",
-      "time": "2 - 1 (done)",
-      "rawMinute": 90,
-      "homeGoals": 2,
-      "awayGoals": 1,
-      "isLive": false
-    },
-    {
       "matchId": 4632604,
       "competitionId": "113",
       "tournamentEn": "🇧🇷 Brazilian Série A",
@@ -79,8 +65,8 @@
       "matchEn": "São Paulo v Fluminense",
       "matchAr": "ساو باولو × فلومينينسي",
       "rawIsoTime": "2026-11-20T00:30:00+00:00",
-      "time": "0 - 0 (8')",
-      "rawMinute": 8,
+      "time": "0 - 0 (9')",
+      "rawMinute": 9,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
