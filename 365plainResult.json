@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795190295050,
+  "timestamp": 1795190351187,
   "matches": [
     {
       "matchId": 4750790,
@@ -401,8 +401,8 @@
       "matchEn": "Salmiyah v Khaitan",
       "matchAr": "السالمية × خيطان",
       "rawIsoTime": "2026-11-20T14:25:00+00:00",
-      "time": "2 - 1 (73')",
-      "rawMinute": 73,
+      "time": "2 - 1 (74')",
+      "rawMinute": 74,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -457,8 +457,8 @@
       "matchEn": "Senegal v Croatia",
       "matchAr": "السنغال × كرواتيا",
       "rawIsoTime": "2026-11-20T15:30:00+00:00",
-      "time": "0 - 1 (28')",
-      "rawMinute": 28,
+      "time": "0 - 1 (29')",
+      "rawMinute": 29,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -471,8 +471,8 @@
       "matchEn": "Al Gharafa v Al Arabi Doha",
       "matchAr": "الغرافة × العربي الدوحة",
       "rawIsoTime": "2026-11-20T15:30:00+00:00",
-      "time": "0 - 2 (29')",
-      "rawMinute": 29,
+      "time": "0 - 2 (30')",
+      "rawMinute": 30,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -485,8 +485,8 @@
       "matchEn": "Al Zawraa v Al Talaba",
       "matchAr": "الزوراء × الطلبة",
       "rawIsoTime": "2026-11-20T15:30:00+00:00",
-      "time": "1 - 1 (29')",
-      "rawMinute": 29,
+      "time": "1 - 1 (30')",
+      "rawMinute": 30,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -584,7 +584,7 @@
       "matchAr": "الاتحاد حلب × الجيش",
       "rawIsoTime": "2026-11-20T16:00:00+00:00",
       "time": "0 - 0 (1')",
-      "rawMinute": 1,
+      "rawMinute": 2,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
