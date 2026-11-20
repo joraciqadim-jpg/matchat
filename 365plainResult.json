@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795206671148,
+  "timestamp": 1795206735701,
   "matches": [
     {
       "matchId": 4750790,
@@ -9,8 +9,8 @@
       "matchEn": "Athletic Bilbao v Espanyol",
       "matchAr": "أتلتيك بلباو × إسبانيول",
       "rawIsoTime": "2026-11-20T20:00:00+00:00",
-      "time": "0 - 0 (29')",
-      "rawMinute": 29,
+      "time": "0 - 0 (30')",
+      "rawMinute": 30,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -37,8 +37,8 @@
       "matchEn": "Troyes v Le Havre",
       "matchAr": "تروا × لو هافر",
       "rawIsoTime": "2026-11-20T19:45:00+00:00",
-      "time": "1 - 1 (45+2')",
-      "rawMinute": 47,
+      "time": "1 - 1 (Halftime)",
+      "rawMinute": 45,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -695,8 +695,8 @@
       "matchEn": "MC Oran v JS Saoura",
       "matchAr": "مولودية وهران × شبيبة الساورة",
       "rawIsoTime": "2026-11-20T19:00:00+00:00",
-      "time": "2 - 1 (68')",
-      "rawMinute": 68,
+      "time": "2 - 1 (69')",
+      "rawMinute": 69,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -723,8 +723,8 @@
       "matchEn": "Cercle Brugge v KVC Westerlo",
       "matchAr": "سيركل بروج × فيسترلو",
       "rawIsoTime": "2026-11-20T19:45:00+00:00",
-      "time": "0 - 0 (45+1')",
-      "rawMinute": 46,
+      "time": "0 - 0 (45+2')",
+      "rawMinute": 47,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
