@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795207031595,
+  "timestamp": 1795207094899,
   "matches": [
     {
       "matchId": 4750790,
@@ -9,8 +9,8 @@
       "matchEn": "Athletic Bilbao v Espanyol",
       "matchAr": "أتلتيك بلباو × إسبانيول",
       "rawIsoTime": "2026-11-20T20:00:00+00:00",
-      "time": "0 - 0 (35')",
-      "rawMinute": 35,
+      "time": "0 - 0 (36')",
+      "rawMinute": 36,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -23,8 +23,8 @@
       "matchEn": "Bayern Munich v Köln",
       "matchAr": "بايرن ميونخ × كولن",
       "rawIsoTime": "2026-11-20T19:30:00+00:00",
-      "time": "1 - 1 (46')",
-      "rawMinute": 46,
+      "time": "1 - 1 (47')",
+      "rawMinute": 47,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -695,8 +695,8 @@
       "matchEn": "MC Oran v JS Saoura",
       "matchAr": "مولودية وهران × شبيبة الساورة",
       "rawIsoTime": "2026-11-20T19:00:00+00:00",
-      "time": "2 - 1 (74')",
-      "rawMinute": 74,
+      "time": "2 - 1 (75')",
+      "rawMinute": 75,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -709,8 +709,8 @@
       "matchEn": "Pogon v Slask Wroclaw",
       "matchAr": "بوغون × شلاسْك فروتسواف",
       "rawIsoTime": "2026-11-20T19:30:00+00:00",
-      "time": "0 - 0 (48')",
-      "rawMinute": 48,
+      "time": "0 - 0 (49')",
+      "rawMinute": 49,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
