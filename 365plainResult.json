@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795199726140,
+  "timestamp": 1795199775929,
   "matches": [
     {
       "matchId": 4750790,
@@ -51,8 +51,8 @@
       "matchEn": "Al Ahli v Al Nassr",
       "matchAr": "الأهلي × النصر",
       "rawIsoTime": "2026-11-20T17:30:00+00:00",
-      "time": "1 - 1 (Halftime)",
-      "rawMinute": 45,
+      "time": "1 - 1 (46')",
+      "rawMinute": 46,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -654,7 +654,7 @@
       "matchAr": "بياست غليفيتسه × كورونا كيلتسه",
       "rawIsoTime": "2026-11-20T17:00:00+00:00",
       "time": "2 - 0 (75')",
-      "rawMinute": 75,
+      "rawMinute": 76,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -681,8 +681,8 @@
       "matchEn": "Aarhus v Lyngby",
       "matchAr": "آرهوس × لينغبي",
       "rawIsoTime": "2026-11-20T18:00:00+00:00",
-      "time": "2 - 1 (35')",
-      "rawMinute": 35,
+      "time": "2 - 1 (36')",
+      "rawMinute": 36,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
