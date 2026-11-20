@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795210935293,
+  "timestamp": 1795210991359,
   "matches": [
     {
       "matchId": 4750790,
@@ -9,8 +9,8 @@
       "matchEn": "Athletic Bilbao v Espanyol",
       "matchAr": "أتلتيك بلباو × إسبانيول",
       "rawIsoTime": "2026-11-20T20:00:00+00:00",
-      "time": "0 - 1 (83')",
-      "rawMinute": 83,
+      "time": "0 - 1 (84')",
+      "rawMinute": 84,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -37,11 +37,11 @@
       "matchEn": "Troyes v Le Havre",
       "matchAr": "تروا × لو هافر",
       "rawIsoTime": "2026-11-20T19:45:00+00:00",
-      "time": "3 - 1 (90+9')",
-      "rawMinute": 99,
+      "time": "3 - 1 (done)",
+      "rawMinute": 90,
       "homeGoals": 3,
       "awayGoals": 1,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4891951,
