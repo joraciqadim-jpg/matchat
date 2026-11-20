@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795205295894,
+  "timestamp": 1795205352406,
   "matches": [
     {
       "matchId": 4750790,
@@ -9,8 +9,8 @@
       "matchEn": "Athletic Bilbao v Espanyol",
       "matchAr": "أتلتيك بلباو × إسبانيول",
       "rawIsoTime": "2026-11-20T20:00:00+00:00",
-      "time": "0 - 0 (6')",
-      "rawMinute": 6,
+      "time": "0 - 0 (7')",
+      "rawMinute": 7,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -23,8 +23,8 @@
       "matchEn": "Bayern Munich v Köln",
       "matchAr": "بايرن ميونخ × كولن",
       "rawIsoTime": "2026-11-20T19:30:00+00:00",
-      "time": "1 - 1 (39')",
-      "rawMinute": 39,
+      "time": "1 - 1 (40')",
+      "rawMinute": 40,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -37,8 +37,8 @@
       "matchEn": "Troyes v Le Havre",
       "matchAr": "تروا × لو هافر",
       "rawIsoTime": "2026-11-20T19:45:00+00:00",
-      "time": "1 - 1 (24')",
-      "rawMinute": 24,
+      "time": "1 - 1 (25')",
+      "rawMinute": 25,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -695,8 +695,8 @@
       "matchEn": "MC Oran v JS Saoura",
       "matchAr": "مولودية وهران × شبيبة الساورة",
       "rawIsoTime": "2026-11-20T19:00:00+00:00",
-      "time": "2 - 0 (Halftime)",
-      "rawMinute": 45,
+      "time": "2 - 0 (46')",
+      "rawMinute": 46,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -709,8 +709,8 @@
       "matchEn": "Pogon v Slask Wroclaw",
       "matchAr": "بوغون × شلاسْك فروتسواف",
       "rawIsoTime": "2026-11-20T19:30:00+00:00",
-      "time": "0 - 0 (38')",
-      "rawMinute": 38,
+      "time": "0 - 0 (39')",
+      "rawMinute": 39,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -723,8 +723,8 @@
       "matchEn": "Cercle Brugge v KVC Westerlo",
       "matchAr": "سيركل بروج × فيسترلو",
       "rawIsoTime": "2026-11-20T19:45:00+00:00",
-      "time": "0 - 0 (23')",
-      "rawMinute": 23,
+      "time": "0 - 0 (24')",
+      "rawMinute": 24,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
