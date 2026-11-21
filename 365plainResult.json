@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795257552805,
+  "timestamp": 1795257635439,
   "matches": [
     {
       "matchId": 4741994,
@@ -667,9 +667,9 @@
       "matchEn": "Orenburg v Baltika",
       "matchAr": "أورينبورغ × بالتيكا",
       "rawIsoTime": "2026-11-21T10:00:00+00:00",
-      "time": "0 - 1 (39')",
-      "rawMinute": 39,
-      "homeGoals": 0,
+      "time": "1 - 1 (40')",
+      "rawMinute": 40,
+      "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
     },
@@ -681,8 +681,8 @@
       "matchEn": "Genclerbirligi v Gaziantep",
       "matchAr": "غنجلربيرليغي × غازي عنتاب",
       "rawIsoTime": "2026-11-21T10:30:00+00:00",
-      "time": "0 - 0 (7')",
-      "rawMinute": 7,
+      "time": "0 - 0 (8')",
+      "rawMinute": 9,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
