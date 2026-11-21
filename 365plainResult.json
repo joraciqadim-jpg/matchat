@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795244591651,
+  "timestamp": 1795244655503,
   "matches": [
     {
       "matchId": 4741994,
@@ -583,8 +583,8 @@
       "matchEn": "Kyoto v Urawa Red Diamonds",
       "matchAr": "كيوتو × أوراوا ريد دايموندز",
       "rawIsoTime": "2026-11-21T05:00:00+00:00",
-      "time": "2 - 1 (90+8')",
-      "rawMinute": 98,
+      "time": "2 - 1 (90+9')",
+      "rawMinute": 99,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -625,11 +625,11 @@
       "matchEn": "Gamba Osaka v Okayama",
       "matchAr": "غامبا أوساكا × أوكاياما",
       "rawIsoTime": "2026-11-21T07:00:00+00:00",
-      "time": "07:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4885466,
