@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795285522801,
+  "timestamp": 1795285574400,
   "matches": [
     {
       "matchId": 4741994,
@@ -345,8 +345,8 @@
       "matchEn": "Parma v Roma",
       "matchAr": "بارما × روما",
       "rawIsoTime": "2026-11-21T17:00:00+00:00",
-      "time": "1 - 2 (69')",
-      "rawMinute": 69,
+      "time": "1 - 2 (70')",
+      "rawMinute": 70,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -387,8 +387,8 @@
       "matchEn": "Feyenoord v Excelsior",
       "matchAr": "فاينورد × إكسلسيور",
       "rawIsoTime": "2026-11-21T17:45:00+00:00",
-      "time": "1 - 2 (42')",
-      "rawMinute": 42,
+      "time": "1 - 2 (43')",
+      "rawMinute": 43,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -1563,7 +1563,7 @@
       "matchEn": "Estoril v Felgueiras 1932",
       "matchAr": "إستوريل × فيلغيراش 1932",
       "rawIsoTime": "2026-11-21T16:00:00+00:00",
-      "time": "2 - 3 (89')",
+      "time": "2 - 3 (90')",
       "rawMinute": 90,
       "homeGoals": 2,
       "awayGoals": 3,
@@ -1577,8 +1577,8 @@
       "matchEn": "Zaglebie Lubin v Gornik Zabrze",
       "matchAr": "زاغليبي لوبين × غورنيك زابرجه",
       "rawIsoTime": "2026-11-21T16:30:00+00:00",
-      "time": "2 - 0 (90+1')",
-      "rawMinute": 91,
+      "time": "2 - 0 (90+2')",
+      "rawMinute": 92,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -1592,7 +1592,7 @@
       "matchAr": "نوروز × الكرمة",
       "rawIsoTime": "2026-11-21T16:30:00+00:00",
       "time": "3 - 2 (90+6')",
-      "rawMinute": 96,
+      "rawMinute": 97,
       "homeGoals": 3,
       "awayGoals": 2,
       "isLive": true
@@ -1605,8 +1605,8 @@
       "matchEn": "CSKA Moscow v Akhmat Grozny",
       "matchAr": "سيسكا موسكو × أخمات غروزني",
       "rawIsoTime": "2026-11-21T16:45:00+00:00",
-      "time": "1 - 2 (72')",
-      "rawMinute": 72,
+      "time": "1 - 2 (73')",
+      "rawMinute": 73,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -1619,8 +1619,8 @@
       "matchEn": "Valerenga v Start",
       "matchAr": "فاليرينغا × ستارت",
       "rawIsoTime": "2026-11-21T17:00:00+00:00",
-      "time": "1 - 1 (56')",
-      "rawMinute": 56,
+      "time": "1 - 1 (66')",
+      "rawMinute": 66,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -1634,7 +1634,7 @@
       "matchAr": "يونغ بويز × تون",
       "rawIsoTime": "2026-11-21T17:00:00+00:00",
       "time": "2 - 1 (67')",
-      "rawMinute": 67,
+      "rawMinute": 68,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -1647,8 +1647,8 @@
       "matchEn": "Lugano v Grasshopper",
       "matchAr": "لوغانو × غراسهوبر",
       "rawIsoTime": "2026-11-21T17:00:00+00:00",
-      "time": "1 - 0 (64')",
-      "rawMinute": 64,
+      "time": "1 - 0 (66')",
+      "rawMinute": 66,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -1661,7 +1661,7 @@
       "matchEn": "Bohemians Praha v Viktoria Plzen",
       "matchAr": "بوهيميانز براغ × فيكتوريا بلزن",
       "rawIsoTime": "2026-11-21T17:00:00+00:00",
-      "time": "1 - 1 (68')",
+      "time": "1 - 1 (67')",
       "rawMinute": 68,
       "homeGoals": 1,
       "awayGoals": 1,
@@ -1675,8 +1675,8 @@
       "matchEn": "Maritimo v Chaves",
       "matchAr": "ماريتيمو × تشافيس",
       "rawIsoTime": "2026-11-21T17:00:00+00:00",
-      "time": "0 - 0 (50')",
-      "rawMinute": 50,
+      "time": "0 - 0 (51')",
+      "rawMinute": 51,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1703,8 +1703,8 @@
       "matchEn": "Olympique Safi v Wydad Fes",
       "matchAr": "أولمبيك آسفي × الوداد الفاسي",
       "rawIsoTime": "2026-11-21T17:00:00+00:00",
-      "time": "0 - 0 (48')",
-      "rawMinute": 49,
+      "time": "0 - 0 (50')",
+      "rawMinute": 50,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1717,8 +1717,8 @@
       "matchEn": "KRC Genk v La Louvière Centre",
       "matchAr": "جينك × لوفيير سنتر",
       "rawIsoTime": "2026-11-21T17:15:00+00:00",
-      "time": "3 - 0 (54')",
-      "rawMinute": 54,
+      "time": "3 - 0 (55')",
+      "rawMinute": 55,
       "homeGoals": 3,
       "awayGoals": 0,
       "isLive": true
@@ -1745,8 +1745,8 @@
       "matchEn": "Dundee v Hearts",
       "matchAr": "دندي × هارتس",
       "rawIsoTime": "2026-11-21T17:45:00+00:00",
-      "time": "0 - 3 (37')",
-      "rawMinute": 38,
+      "time": "0 - 3 (38')",
+      "rawMinute": 39,
       "homeGoals": 0,
       "awayGoals": 3,
       "isLive": true
@@ -1759,8 +1759,8 @@
       "matchEn": "Sporting CP v Uniao Da Serra",
       "matchAr": "سبورتينغ لشبونة × يونياؤو دا سيرا",
       "rawIsoTime": "2026-11-21T18:00:00+00:00",
-      "time": "0 - 0 (8')",
-      "rawMinute": 8,
+      "time": "0 - 0 (9')",
+      "rawMinute": 9,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
