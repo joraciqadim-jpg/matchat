@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795262055287,
+  "timestamp": 1795262124010,
   "matches": [
     {
       "matchId": 4741994,
@@ -667,8 +667,8 @@
       "matchEn": "Orenburg v Baltika",
       "matchAr": "أورينبورغ × بالتيكا",
       "rawIsoTime": "2026-11-21T10:00:00+00:00",
-      "time": "0 - 2 (90')",
-      "rawMinute": 90,
+      "time": "0 - 2 (90+1')",
+      "rawMinute": 91,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -681,8 +681,8 @@
       "matchEn": "Genclerbirligi v Gaziantep",
       "matchAr": "غنجلربيرليغي × غازي عنتاب",
       "rawIsoTime": "2026-11-21T10:30:00+00:00",
-      "time": "1 - 0 (64')",
-      "rawMinute": 65,
+      "time": "1 - 0 (66')",
+      "rawMinute": 66,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -695,8 +695,8 @@
       "matchEn": "Kryvbas v Kudrivka",
       "matchAr": "كريفباس × كودريفكا",
       "rawIsoTime": "2026-11-21T11:00:00+00:00",
-      "time": "0 - 0 (45+9')",
-      "rawMinute": 54,
+      "time": "0 - 0 (45+10')",
+      "rawMinute": 55,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -709,8 +709,8 @@
       "matchEn": "Kolos Kovalivka v Kharkiv",
       "matchAr": "كولوس كوفاليفكا × خاركوف",
       "rawIsoTime": "2026-11-21T11:00:00+00:00",
-      "time": "0 - 1 (14')",
-      "rawMinute": 15,
+      "time": "0 - 1 (16')",
+      "rawMinute": 16,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -737,8 +737,8 @@
       "matchEn": "Chennaiyin v Punjab",
       "matchAr": "تشينايين × البنجاب",
       "rawIsoTime": "2026-11-21T11:30:00+00:00",
-      "time": "1 - 0 (24')",
-      "rawMinute": 25,
+      "time": "1 - 0 (26')",
+      "rawMinute": 26,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
