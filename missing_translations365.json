@@ -1,4 +1,184 @@
 {
+  "gaziantep fk": {
+    "en": "Gaziantep",
+    "ar": "غازي عنتاب"
+  },
+  "atletico clube portugal": {
+    "en": "Atletico Clube Portugal",
+    "ar": "أتلتيكو كلوب البرتغال"
+  },
+  "punjab fc": {
+    "en": "Punjab",
+    "ar": "بنجاب"
+  },
+  "al wakrah": {
+    "en": "Al Wakrah",
+    "ar": "الوكرة"
+  },
+  "al ramtha": {
+    "en": "Al Ramtha",
+    "ar": "الرمثا"
+  },
+  "sahl hauran club": {
+    "en": "Sahl Hauran",
+    "ar": "سهل حوران"
+  },
+  "al butnan fc": {
+    "en": "Al Butnan",
+    "ar": "البطنان"
+  },
+  "al sadaqa": {
+    "en": "Al Sadaqa",
+    "ar": "الصداقـة"
+  },
+  "darnes": {
+    "en": "Darnes",
+    "ar": "دارنس"
+  },
+  "new benghazi fc": {
+    "en": "New Benghazi",
+    "ar": "بنغازي الجديدة"
+  },
+  "al-khmes": {
+    "en": "Al-Khmes",
+    "ar": "الخمس"
+  },
+  "al watan": {
+    "en": "Al Watan",
+    "ar": "الوطن"
+  },
+  "cracovia krakow": {
+    "en": "Cracovia Krakow",
+    "ar": "كراكوفيا كراكوف"
+  },
+  "northeast united": {
+    "en": "Northeast United",
+    "ar": "نورث إيست يونايتد"
+  },
+  "goa": {
+    "en": "Goa",
+    "ar": "غوا"
+  },
+  "mafra": {
+    "en": "Mafra",
+    "ar": "مافرا"
+  },
+  "arouca": {
+    "en": "Arouca",
+    "ar": "أروكا"
+  },
+  "fahaheel sc": {
+    "en": "Fahaheel",
+    "ar": "الفحيحيل"
+  },
+  "burgan sc": {
+    "en": "Burgan",
+    "ar": "برقان"
+  },
+  "rubin kazan": {
+    "en": "Rubin Kazan",
+    "ar": "روبين كازان"
+  },
+  "borussia mönchengladbach": {
+    "en": "Borussia Mönchengladbach",
+    "ar": "بوروسيا مونشنغلادباخ"
+  },
+  "coventry": {
+    "en": "Coventry",
+    "ar": "كوفنتري"
+  },
+  "avs": {
+    "en": "AVS",
+    "ar": "إيه في إس"
+  },
+  "tondela": {
+    "en": "Tondela",
+    "ar": "تونديلا"
+  },
+  "shahaniya sc": {
+    "en": "Shahaniya",
+    "ar": "الشحانية"
+  },
+  "naft maysan": {
+    "en": "Naft Maysan",
+    "ar": "نفط ميسان"
+  },
+  "al mosoul": {
+    "en": "Al Mosoul",
+    "ar": "الموصل"
+  },
+  "felgueiras 1932": {
+    "en": "Felgueiras 1932",
+    "ar": "فيلغيراش 1932"
+  },
+  "al ahli": {
+    "en": "Al Ahli",
+    "ar": "الأهلي"
+  },
+  "newroz": {
+    "en": "Newroz",
+    "ar": "نوروز"
+  },
+  "al karma": {
+    "en": "Al Karma",
+    "ar": "الكرمة"
+  },
+  "sulaibikhat": {
+    "en": "Sulaibikhat",
+    "ar": "الصليبيخات"
+  },
+  "chaves": {
+    "en": "Chaves",
+    "ar": "شافيز"
+  },
+  "al ahli tripoli": {
+    "en": "Al Ahli Tripoli",
+    "ar": "الأهلي طرابلس"
+  },
+  "libyan stadium": {
+    "en": "Libyan Stadium",
+    "ar": "الملعب الليبي"
+  },
+  "sevilla": {
+    "en": "Sevilla",
+    "ar": "إشبيلية"
+  },
+  "uniao da serra": {
+    "en": "Uniao Da Serra",
+    "ar": "أونياؤ دا سيرا"
+  },
+  "barracas central": {
+    "en": "Barracas Central",
+    "ar": "باراكاس سنترال"
+  },
+  "rapid vienna": {
+    "en": "Rapid Vienna",
+    "ar": "رابيد فيينا"
+  },
+  "wisla krakow": {
+    "en": "Wisla Krakow",
+    "ar": "فيستولا كراكوف"
+  },
+  "strasbourg": {
+    "en": "Strasbourg",
+    "ar": "ستراسبورغ"
+  },
+  "toulouse": {
+    "en": "Toulouse",
+    "ar": "تولوز"
+  },
+  "pec zwolle": {
+    "en": "PEC Zwolle",
+    "ar": "بي إي سي زفوله"
+  },
+  "independiente": {
+    "en": "Independiente",
+    "ar": "إنديبندينتي"
+  },
+  "south america conmebol sudamericana": {
+    "en": "South America CONMEBOL Sudamericana",
+    "ar": "كوبا سودأمريكانا"
+  },
   "fiji": {
     "en": "Fiji",
     "ar": "فيجي"
