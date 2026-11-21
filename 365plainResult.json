@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795300151281,
+  "timestamp": 1795300252831,
   "matches": [
     {
       "matchId": 4741994,
@@ -457,11 +457,11 @@
       "matchEn": "Bahia v Coritiba",
       "matchAr": "باهيا × كوريتيبا",
       "rawIsoTime": "2026-11-21T20:30:00+00:00",
-      "time": "0 - 1 (90+7')",
-      "rawMinute": 97,
+      "time": "0 - 1 (done)",
+      "rawMinute": 90,
       "homeGoals": 0,
       "awayGoals": 1,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4735620,
