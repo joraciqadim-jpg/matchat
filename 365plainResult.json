@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795240991408,
+  "timestamp": 1795241055100,
   "matches": [
     {
       "matchId": 4741994,
@@ -597,11 +597,11 @@
       "matchEn": "Cerezo Osaka v Tokyo",
       "matchAr": "سيريزو أوساكا × طوكيو",
       "rawIsoTime": "2026-11-21T06:00:00+00:00",
-      "time": "06:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4739566,
@@ -611,11 +611,11 @@
       "matchEn": "Kawasaki Frontale v Fukuoka",
       "matchAr": "كاواساكي فرونتال × فوكوكا",
       "rawIsoTime": "2026-11-21T06:00:00+00:00",
-      "time": "06:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4739564,
