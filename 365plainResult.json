@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795288751364,
+  "timestamp": 1795288834769,
   "matches": [
     {
       "matchId": 4741994,
@@ -93,8 +93,8 @@
       "matchEn": "Newcastle United v Arsenal",
       "matchAr": "نيوكاسل يونايتد × أرسنال",
       "rawIsoTime": "2026-11-21T17:30:00+00:00",
-      "time": "2 - 2 (90+2')",
-      "rawMinute": 92,
+      "time": "2 - 2 (90+3')",
+      "rawMinute": 93,
       "homeGoals": 2,
       "awayGoals": 2,
       "isLive": true
@@ -135,8 +135,8 @@
       "matchEn": "Sevilla v Real Betis",
       "matchAr": "إشبيلية × ريال بيتيس",
       "rawIsoTime": "2026-11-21T17:30:00+00:00",
-      "time": "0 - 1 (87')",
-      "rawMinute": 87,
+      "time": "0 - 1 (88')",
+      "rawMinute": 88,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -233,8 +233,8 @@
       "matchEn": "Schalke 04 v Stuttgart",
       "matchAr": "شالكه 04 × شتوتغارت",
       "rawIsoTime": "2026-11-21T17:30:00+00:00",
-      "time": "0 - 0 (90+1')",
-      "rawMinute": 91,
+      "time": "0 - 0 (90+3')",
+      "rawMinute": 93,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -387,8 +387,8 @@
       "matchEn": "Feyenoord v Excelsior",
       "matchAr": "فاينورد × إكسلسيور",
       "rawIsoTime": "2026-11-21T17:45:00+00:00",
-      "time": "2 - 3 (74')",
-      "rawMinute": 74,
+      "time": "2 - 3 (75')",
+      "rawMinute": 75,
       "homeGoals": 2,
       "awayGoals": 3,
       "isLive": true
@@ -1696,6 +1696,20 @@
       "isLive": false
     },
     {
+      "matchId": 4741237,
+      "competitionId": "66",
+      "tournamentEn": "🏁 Scotland League One",
+      "tournamentAr": "🏁 الدوري الإسكتلندي الدرجة الأولى",
+      "matchEn": "Montrose v Alloa Athletic",
+      "matchAr": "مونتروز × ألووا أتلتيك",
+      "rawIsoTime": "2026-11-21T17:30:00+00:00",
+      "time": "1 - 1 (done)",
+      "rawMinute": 90,
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "isLive": false
+    },
+    {
       "matchId": 4748649,
       "competitionId": "129",
       "tournamentEn": "🇺🇦 Ukrainian Premier League",
@@ -1724,20 +1738,6 @@
       "isLive": true
     },
     {
-      "matchId": 4741237,
-      "competitionId": "66",
-      "tournamentEn": "🏁 Scotland League One",
-      "tournamentAr": "🏁 الدوري الإسكتلندي الدرجة الأولى",
-      "matchEn": "Montrose v Alloa Athletic",
-      "matchAr": "مونتروز × ألووا أتلتيك",
-      "rawIsoTime": "2026-11-21T17:30:00+00:00",
-      "time": "1 - 1 (89')",
-      "rawMinute": 89,
-      "homeGoals": 1,
-      "awayGoals": 1,
-      "isLive": true
-    },
-    {
       "matchId": 4741612,
       "competitionId": "61",
       "tournamentEn": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland Scottish Premiership",
@@ -1745,8 +1745,8 @@
       "matchEn": "Dundee v Hearts",
       "matchAr": "دندي × هارتس",
       "rawIsoTime": "2026-11-21T17:45:00+00:00",
-      "time": "0 - 5 (74')",
-      "rawMinute": 74,
+      "time": "0 - 5 (75')",
+      "rawMinute": 75,
       "homeGoals": 0,
       "awayGoals": 5,
       "isLive": true
@@ -1759,9 +1759,9 @@
       "matchEn": "Sporting CP v Uniao Da Serra",
       "matchAr": "سبورتينغ لشبونة × يونياؤو دا سيرا",
       "rawIsoTime": "2026-11-21T18:00:00+00:00",
-      "time": "0 - 0 (58')",
-      "rawMinute": 58,
-      "homeGoals": 0,
+      "time": "1 - 0 (59')",
+      "rawMinute": 59,
+      "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
     },
@@ -1773,8 +1773,8 @@
       "matchEn": "Defensa Justicia v Barracas Central",
       "matchAr": "ديفينسا خوستيسيا × باراكاس سنترال",
       "rawIsoTime": "2026-11-21T18:00:00+00:00",
-      "time": "0 - 1 (58')",
-      "rawMinute": 58,
+      "time": "0 - 1 (59')",
+      "rawMinute": 59,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
