@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795305494296,
+  "timestamp": 1795305551379,
   "matches": [
     {
       "matchId": 4741994,
@@ -1899,8 +1899,8 @@
       "matchEn": "Atlético Mineiro (Brazil) v Boca Juniors (Argentina)",
       "matchAr": "أتلتيكو مينيرو (البرازيل) × بوكا جونيورز (الأرجنتين)",
       "rawIsoTime": "2026-11-21T22:30:00+00:00",
-      "time": "0 - 2 (67')",
-      "rawMinute": 67,
+      "time": "0 - 2 (68')",
+      "rawMinute": 68,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -1913,9 +1913,9 @@
       "matchEn": "Pachuca v Toluca",
       "matchAr": "باتشوكا × تولوكا",
       "rawIsoTime": "2026-11-21T22:50:00+00:00",
-      "time": "0 - 0 (Halftime)",
-      "rawMinute": 45,
-      "homeGoals": 0,
+      "time": "1 - 0 (46')",
+      "rawMinute": 46,
+      "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
     },
