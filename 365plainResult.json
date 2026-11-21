@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795276575341,
+  "timestamp": 1795276632075,
   "matches": [
     {
       "matchId": 4741994,
@@ -121,8 +121,8 @@
       "matchEn": "Rayo Vallecano v Valencia",
       "matchAr": "رايو فايكانو × فالنسيا",
       "rawIsoTime": "2026-11-21T15:15:00+00:00",
-      "time": "0 - 0 (39')",
-      "rawMinute": 40,
+      "time": "0 - 0 (40')",
+      "rawMinute": 41,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -163,10 +163,10 @@
       "matchEn": "Elversberg v Freiburg",
       "matchAr": "إلفرسبرغ × فرايبورغ",
       "rawIsoTime": "2026-11-21T14:30:00+00:00",
-      "time": "0 - 0 (68')",
-      "rawMinute": 68,
+      "time": "0 - 1 (69')",
+      "rawMinute": 69,
       "homeGoals": 0,
-      "awayGoals": 0,
+      "awayGoals": 1,
       "isLive": true
     },
     {
@@ -177,8 +177,8 @@
       "matchEn": "Borussia Mönchengladbach v Borussia Dortmund",
       "matchAr": "بوروسيا مونشنغلادباخ × بوروسيا دورتموند",
       "rawIsoTime": "2026-11-21T14:30:00+00:00",
-      "time": "0 - 0 (68')",
-      "rawMinute": 68,
+      "time": "0 - 0 (69')",
+      "rawMinute": 69,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -191,7 +191,7 @@
       "matchEn": "Union Berlin v RB Leipzig",
       "matchAr": "يونيون برلين × لايبزيغ",
       "rawIsoTime": "2026-11-21T14:30:00+00:00",
-      "time": "1 - 2 (64')",
+      "time": "1 - 2 (65')",
       "rawMinute": 65,
       "homeGoals": 1,
       "awayGoals": 2,
@@ -205,8 +205,8 @@
       "matchEn": "Eintracht Frankfurt v Hoffenheim",
       "matchAr": "أينتراخت فرانكفورت × هوفنهايم",
       "rawIsoTime": "2026-11-21T14:30:00+00:00",
-      "time": "1 - 0 (67')",
-      "rawMinute": 67,
+      "time": "1 - 0 (68')",
+      "rawMinute": 68,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -219,8 +219,8 @@
       "matchEn": "Bayer Leverkusen v Paderborn 07",
       "matchAr": "باير ليفركوزن × بادربورن 07",
       "rawIsoTime": "2026-11-21T14:30:00+00:00",
-      "time": "4 - 0 (68')",
-      "rawMinute": 68,
+      "time": "4 - 0 (69')",
+      "rawMinute": 69,
       "homeGoals": 4,
       "awayGoals": 0,
       "isLive": true
@@ -331,11 +331,11 @@
       "matchEn": "Como v Cagliari",
       "matchAr": "كومو × كالياري",
       "rawIsoTime": "2026-11-21T14:00:00+00:00",
-      "time": "2 - 0 (90+4')",
-      "rawMinute": 94,
+      "time": "2 - 0 (done)",
+      "rawMinute": 90,
       "homeGoals": 2,
       "awayGoals": 0,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4732622,
@@ -373,10 +373,10 @@
       "matchEn": "Nijmegen v PSV Eindhoven",
       "matchAr": "نيميخن × أيندهوفن",
       "rawIsoTime": "2026-11-21T15:30:00+00:00",
-      "time": "0 - 1 (27')",
-      "rawMinute": 27,
+      "time": "0 - 2 (28')",
+      "rawMinute": 28,
       "homeGoals": 0,
-      "awayGoals": 1,
+      "awayGoals": 2,
       "isLive": true
     },
     {
@@ -1115,8 +1115,8 @@
       "matchEn": "Northeast United v Goa",
       "matchAr": "نورث إيست يونايتد × غوا",
       "rawIsoTime": "2026-11-21T14:00:00+00:00",
-      "time": "0 - 1 (90+2')",
-      "rawMinute": 92,
+      "time": "0 - 1 (90+3')",
+      "rawMinute": 93,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -1130,7 +1130,7 @@
       "matchAr": "مافرا × أروكا",
       "rawIsoTime": "2026-11-21T14:00:00+00:00",
       "time": "2 - 0 (53')",
-      "rawMinute": 53,
+      "rawMinute": 54,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -1143,8 +1143,8 @@
       "matchEn": "Fahaheel v Burgan",
       "matchAr": "الفحيحيل × برقان",
       "rawIsoTime": "2026-11-21T14:20:00+00:00",
-      "time": "2 - 3 (76')",
-      "rawMinute": 76,
+      "time": "2 - 3 (77')",
+      "rawMinute": 77,
       "homeGoals": 2,
       "awayGoals": 3,
       "isLive": true
@@ -1157,8 +1157,8 @@
       "matchEn": "Rubin Kazan v Zenit",
       "matchAr": "روبين قازان × زينيت",
       "rawIsoTime": "2026-11-21T14:30:00+00:00",
-      "time": "2 - 1 (63')",
-      "rawMinute": 63,
+      "time": "2 - 1 (64')",
+      "rawMinute": 64,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -1171,8 +1171,8 @@
       "matchEn": "Dominican Republic v Montenegro",
       "matchAr": "جمهورية الدومينيكان × الجبل الأسود",
       "rawIsoTime": "2026-11-21T14:30:00+00:00",
-      "time": "1 - 1 (69')",
-      "rawMinute": 69,
+      "time": "1 - 1 (70')",
+      "rawMinute": 70,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -1395,8 +1395,8 @@
       "matchEn": "Dubai United v Al-Wahda",
       "matchAr": "دبي يونايتد × الوحدة",
       "rawIsoTime": "2026-11-21T15:25:00+00:00",
-      "time": "0 - 0 (31')",
-      "rawMinute": 32,
+      "time": "0 - 0 (32')",
+      "rawMinute": 33,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1409,8 +1409,8 @@
       "matchEn": "Mexico v Romania",
       "matchAr": "المكسيك × رومانيا",
       "rawIsoTime": "2026-11-21T15:30:00+00:00",
-      "time": "0 - 0 (25')",
-      "rawMinute": 25,
+      "time": "0 - 0 (26')",
+      "rawMinute": 26,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1423,8 +1423,8 @@
       "matchEn": "Chile v Algeria",
       "matchAr": "تشيلي × الجزائر",
       "rawIsoTime": "2026-11-21T15:30:00+00:00",
-      "time": "1 - 2 (25')",
-      "rawMinute": 25,
+      "time": "1 - 2 (26')",
+      "rawMinute": 26,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -1437,8 +1437,8 @@
       "matchEn": "Shahaniya v Al Rayyan",
       "matchAr": "الشحانية × الريان",
       "rawIsoTime": "2026-11-21T15:30:00+00:00",
-      "time": "1 - 2 (27')",
-      "rawMinute": 27,
+      "time": "1 - 2 (28')",
+      "rawMinute": 28,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -1451,8 +1451,8 @@
       "matchEn": "Naft Maysan v Al Mosoul",
       "matchAr": "نفط ميسان × الموصل",
       "rawIsoTime": "2026-11-21T15:30:00+00:00",
-      "time": "0 - 1 (28')",
-      "rawMinute": 28,
+      "time": "0 - 1 (29')",
+      "rawMinute": 29,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
