@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795240454296,
+  "timestamp": 1795240523181,
   "matches": [
     {
       "matchId": 4741994,
@@ -527,8 +527,8 @@
       "matchEn": "Kyoto v Urawa Red Diamonds",
       "matchAr": "كيوتو × أوراوا ريد دايموندز",
       "rawIsoTime": "2026-11-21T05:00:00+00:00",
-      "time": "0 - 1 (45+6')",
-      "rawMinute": 51,
+      "time": "0 - 1 (Halftime)",
+      "rawMinute": 45,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
