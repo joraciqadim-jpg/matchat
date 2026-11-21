@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795273095038,
+  "timestamp": 1795273151516,
   "matches": [
     {
       "matchId": 4741994,
@@ -163,8 +163,8 @@
       "matchEn": "Elversberg v Freiburg",
       "matchAr": "إلفرسبرغ × فرايبورغ",
       "rawIsoTime": "2026-11-21T14:30:00+00:00",
-      "time": "0 - 0 (28')",
-      "rawMinute": 28,
+      "time": "0 - 0 (29')",
+      "rawMinute": 29,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -177,7 +177,7 @@
       "matchEn": "Borussia Mönchengladbach v Borussia Dortmund",
       "matchAr": "بوروسيا مونشنغلادباخ × بوروسيا دورتموند",
       "rawIsoTime": "2026-11-21T14:30:00+00:00",
-      "time": "0 - 0 (28')",
+      "time": "0 - 0 (29')",
       "rawMinute": 29,
       "homeGoals": 0,
       "awayGoals": 0,
@@ -191,8 +191,8 @@
       "matchEn": "Union Berlin v RB Leipzig",
       "matchAr": "يونيون برلين × لايبزيغ",
       "rawIsoTime": "2026-11-21T14:30:00+00:00",
-      "time": "0 - 1 (28')",
-      "rawMinute": 29,
+      "time": "0 - 1 (29')",
+      "rawMinute": 30,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -205,8 +205,8 @@
       "matchEn": "Eintracht Frankfurt v Hoffenheim",
       "matchAr": "أينتراخت فرانكفورت × هوفنهايم",
       "rawIsoTime": "2026-11-21T14:30:00+00:00",
-      "time": "1 - 0 (28')",
-      "rawMinute": 29,
+      "time": "1 - 0 (30')",
+      "rawMinute": 30,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -219,8 +219,8 @@
       "matchEn": "Bayer Leverkusen v Paderborn 07",
       "matchAr": "باير ليفركوزن × بادربورن 07",
       "rawIsoTime": "2026-11-21T14:30:00+00:00",
-      "time": "1 - 0 (29')",
-      "rawMinute": 29,
+      "time": "1 - 0 (30')",
+      "rawMinute": 30,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -856,6 +856,20 @@
       "isLive": false
     },
     {
+      "matchId": 4779205,
+      "competitionId": "408",
+      "tournamentEn": "🇶🇦 Qatari Stars League",
+      "tournamentAr": "🇶🇦 دوري نجوم قطر",
+      "matchEn": "Al Wakrah v Al Sailiya",
+      "matchAr": "الوكرة × السيلية",
+      "rawIsoTime": "2026-11-21T13:00:00+00:00",
+      "time": "2 - 3 (done)",
+      "rawMinute": 90,
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "isLive": false
+    },
+    {
       "matchId": 4886955,
       "competitionId": "5635",
       "tournamentEn": "🏆 Jordanian Cup",
@@ -898,20 +912,6 @@
       "isLive": false
     },
     {
-      "matchId": 4779205,
-      "competitionId": "408",
-      "tournamentEn": "🇶🇦 Qatari Stars League",
-      "tournamentAr": "🇶🇦 دوري نجوم قطر",
-      "matchEn": "Al Wakrah v Al Sailiya",
-      "matchAr": "الوكرة × السيلية",
-      "rawIsoTime": "2026-11-21T13:00:00+00:00",
-      "time": "2 - 3 (90+7')",
-      "rawMinute": 97,
-      "homeGoals": 2,
-      "awayGoals": 3,
-      "isLive": true
-    },
-    {
       "matchId": 4748649,
       "competitionId": "129",
       "tournamentEn": "🇺🇦 Ukrainian Premier League",
@@ -933,8 +933,8 @@
       "matchEn": "Cameroon v Venezuela",
       "matchAr": "الكاميرون × فنزويلا",
       "rawIsoTime": "2026-11-21T13:30:00+00:00",
-      "time": "0 - 2 (70')",
-      "rawMinute": 71,
+      "time": "0 - 2 (71')",
+      "rawMinute": 72,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -947,8 +947,8 @@
       "matchEn": "CS Sfaxien v Jeunesse Sportive Omrane",
       "matchAr": "النادي الصفاقسي × الشبيبة الرياضية بالعمران",
       "rawIsoTime": "2026-11-21T13:30:00+00:00",
-      "time": "1 - 0 (62')",
-      "rawMinute": 63,
+      "time": "1 - 0 (63')",
+      "rawMinute": 64,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -961,8 +961,8 @@
       "matchEn": "US Monastir v Étoile du Sahel",
       "matchAr": "الاتحاد المنستيري × النجم الساحلي",
       "rawIsoTime": "2026-11-21T13:30:00+00:00",
-      "time": "2 - 0 (68')",
-      "rawMinute": 68,
+      "time": "2 - 0 (69')",
+      "rawMinute": 69,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -976,7 +976,7 @@
       "matchAr": "الملعب التونسي × النادي البنزرتي",
       "rawIsoTime": "2026-11-21T13:30:00+00:00",
       "time": "0 - 0 (66')",
-      "rawMinute": 66,
+      "rawMinute": 67,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -989,8 +989,8 @@
       "matchEn": "Al-Khmes v Al Watan",
       "matchAr": "الخمس × الوطن",
       "rawIsoTime": "2026-11-21T13:30:00+00:00",
-      "time": "1 - 2 (66')",
-      "rawMinute": 67,
+      "time": "1 - 2 (67')",
+      "rawMinute": 68,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -1003,8 +1003,8 @@
       "matchEn": "Cracovia Krakow v Jagiellonia",
       "matchAr": "كراكوفيا كراكوف × ياغيلونيا",
       "rawIsoTime": "2026-11-21T13:45:00+00:00",
-      "time": "2 - 0 (53')",
-      "rawMinute": 54,
+      "time": "2 - 0 (54')",
+      "rawMinute": 55,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -1129,8 +1129,8 @@
       "matchEn": "Mafra v Arouca",
       "matchAr": "مافرا × أروكا",
       "rawIsoTime": "2026-11-21T14:00:00+00:00",
-      "time": "0 - 0 (11')",
-      "rawMinute": 11,
+      "time": "0 - 0 (12')",
+      "rawMinute": 12,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1144,7 +1144,7 @@
       "matchAr": "الفحيحيل × برقان",
       "rawIsoTime": "2026-11-21T14:20:00+00:00",
       "time": "1 - 1 (38')",
-      "rawMinute": 38,
+      "rawMinute": 39,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -1157,8 +1157,8 @@
       "matchEn": "Rubin Kazan v Zenit",
       "matchAr": "روبين قازان × زينيت",
       "rawIsoTime": "2026-11-21T14:30:00+00:00",
-      "time": "0 - 0 (28')",
-      "rawMinute": 28,
+      "time": "0 - 0 (29')",
+      "rawMinute": 29,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1171,8 +1171,8 @@
       "matchEn": "Dominican Republic v Montenegro",
       "matchAr": "جمهورية الدومينيكان × الجبل الأسود",
       "rawIsoTime": "2026-11-21T14:30:00+00:00",
-      "time": "1 - 1 (28')",
-      "rawMinute": 28,
+      "time": "1 - 1 (29')",
+      "rawMinute": 29,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
