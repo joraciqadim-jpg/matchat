@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795225694789,
+  "timestamp": 1795225751100,
   "matches": [
     {
       "matchId": 4741994,
@@ -472,7 +472,7 @@
       "matchAr": "فيليز سارسفيلد × بيلغرانو",
       "rawIsoTime": "2026-11-20T23:00:00+00:00",
       "time": "2 - 2 (done)",
-      "rawMinute": 120,
+      "rawMinute": 128,
       "homeGoals": 2,
       "awayGoals": 2,
       "isLive": false
@@ -485,8 +485,8 @@
       "matchEn": "Puebla v Atlético San Luis",
       "matchAr": "بويبلا × أتلتيكو سان لويس",
       "rawIsoTime": "2026-11-21T01:00:00+00:00",
-      "time": "1 - 0 (45+3')",
-      "rawMinute": 48,
+      "time": "1 - 0 (45+4')",
+      "rawMinute": 49,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
