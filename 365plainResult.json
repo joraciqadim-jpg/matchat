@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795297935948,
+  "timestamp": 1795297991931,
   "matches": [
     {
       "matchId": 4741994,
@@ -149,8 +149,8 @@
       "matchEn": "Real Madrid v Celta Vigo",
       "matchAr": "ريال مدريد × سيلتا فيغو",
       "rawIsoTime": "2026-11-21T20:00:00+00:00",
-      "time": "2 - 1 (85')",
-      "rawMinute": 86,
+      "time": "2 - 1 (86')",
+      "rawMinute": 87,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -429,11 +429,11 @@
       "matchEn": "Groningen v Heerenveen",
       "matchAr": "غرونينغن × هيرنفين",
       "rawIsoTime": "2026-11-21T20:00:00+00:00",
-      "time": "1 - 3 (90+3')",
-      "rawMinute": 93,
+      "time": "1 - 3 (done)",
+      "rawMinute": 90,
       "homeGoals": 1,
       "awayGoals": 3,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4632593,
@@ -458,7 +458,7 @@
       "matchAr": "باهيا × كوريتيبا",
       "rawIsoTime": "2026-11-21T20:30:00+00:00",
       "time": "0 - 0 (60')",
-      "rawMinute": 60,
+      "rawMinute": 61,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1836,6 +1836,20 @@
       "isLive": false
     },
     {
+      "matchId": 4741608,
+      "competitionId": "61",
+      "tournamentEn": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland Scottish Premiership",
+      "tournamentAr": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 الدوري الإسكتلندي الممتاز",
+      "matchEn": "Motherwell v Rangers",
+      "matchAr": "ماذرويل × رينجرز",
+      "rawIsoTime": "2026-11-21T20:00:00+00:00",
+      "time": "1 - 2 (done)",
+      "rawMinute": 90,
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "isLive": false
+    },
+    {
       "matchId": 4748649,
       "competitionId": "129",
       "tournamentEn": "🇺🇦 Ukrainian Premier League",
@@ -1850,20 +1864,6 @@
       "isLive": true
     },
     {
-      "matchId": 4741608,
-      "competitionId": "61",
-      "tournamentEn": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland Scottish Premiership",
-      "tournamentAr": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 الدوري الإسكتلندي الممتاز",
-      "matchEn": "Motherwell v Rangers",
-      "matchAr": "ماذرويل × رينجرز",
-      "rawIsoTime": "2026-11-21T20:00:00+00:00",
-      "time": "1 - 2 (90+3')",
-      "rawMinute": 93,
-      "homeGoals": 1,
-      "awayGoals": 2,
-      "isLive": true
-    },
-    {
       "matchId": 4891699,
       "competitionId": "72",
       "tournamentEn": "🇦🇷 Argentinean Liga Profesional",
@@ -1872,7 +1872,7 @@
       "matchAr": "أرجنتينوس جونيورز × إنديبندينتي",
       "rawIsoTime": "2026-11-21T20:00:00+00:00",
       "time": "1 - 2 (90+3')",
-      "rawMinute": 93,
+      "rawMinute": 94,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -1885,8 +1885,8 @@
       "matchEn": "Guimarães v Braga",
       "matchAr": "غيمارايش × براغا",
       "rawIsoTime": "2026-11-21T20:30:00+00:00",
-      "time": "0 - 2 (62')",
-      "rawMinute": 62,
+      "time": "0 - 2 (63')",
+      "rawMinute": 63,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
