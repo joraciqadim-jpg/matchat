@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795220231568,
+  "timestamp": 1795220294381,
   "matches": [
     {
       "matchId": 4741994,
@@ -471,8 +471,8 @@
       "matchEn": "Velez Sarsfield v Belgrano",
       "matchAr": "فيليز سارسفيلد × بيلغرانو",
       "rawIsoTime": "2026-11-20T23:00:00+00:00",
-      "time": "0 - 1 (57')",
-      "rawMinute": 57,
+      "time": "0 - 1 (58')",
+      "rawMinute": 58,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -956,8 +956,8 @@
     {
       "matchId": 4798226,
       "competitionId": "554",
-      "tournamentEn": "🇹🇳 Tunisian Division 1",
-      "tournamentAr": "🇹🇳 الدوري التونسي الدرجة الأولى",
+      "tournamentEn": "🇹🇳 Tunisian League",
+      "tournamentAr": "🇹🇳 الدوري التونسي",
       "matchEn": "CS Sfaxien v Jeunesse Sportive Omrane",
       "matchAr": "النادي الصفاقسي × الشبيبة الرياضية بالعمران",
       "rawIsoTime": "2026-11-21T13:30:00+00:00",
@@ -970,8 +970,8 @@
     {
       "matchId": 4798228,
       "competitionId": "554",
-      "tournamentEn": "🇹🇳 Tunisian Division 1",
-      "tournamentAr": "🇹🇳 الدوري التونسي الدرجة الأولى",
+      "tournamentEn": "🇹🇳 Tunisian League",
+      "tournamentAr": "🇹🇳 الدوري التونسي",
       "matchEn": "US Monastir v Étoile du Sahel",
       "matchAr": "الاتحاد المنستيري × النجم الساحلي",
       "rawIsoTime": "2026-11-21T13:30:00+00:00",
@@ -984,8 +984,8 @@
     {
       "matchId": 4798230,
       "competitionId": "554",
-      "tournamentEn": "🇹🇳 Tunisian Division 1",
-      "tournamentAr": "🇹🇳 الدوري التونسي الدرجة الأولى",
+      "tournamentEn": "🇹🇳 Tunisian League",
+      "tournamentAr": "🇹🇳 الدوري التونسي",
       "matchEn": "Stade Tunisien v CA Bizertin",
       "matchAr": "الملعب التونسي × النادي البنزرتي",
       "rawIsoTime": "2026-11-21T13:30:00+00:00",
@@ -1908,8 +1908,8 @@
     {
       "matchId": 4883387,
       "competitionId": "389",
-      "tournamentEn": "🛡️ South America CONMEBOL Sudamericana",
-      "tournamentAr": "🛡️ كوبا سودأمريكانا لأمريكا الجنوبية التابعة لكونميبول",
+      "tournamentEn": "🛡️ CONMEBOL Copa Sudamericana",
+      "tournamentAr": "🛡️ كوبا سودأمريكانا",
       "matchEn": "Atlético Mineiro (Brazil) v Boca Juniors (Argentina)",
       "matchAr": "أتلتيكو مينيرو (البرازيل) × بوكا جونيورز (الأرجنتين)",
       "rawIsoTime": "2026-11-21T22:30:00+00:00",
