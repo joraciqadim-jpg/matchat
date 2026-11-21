@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795261575104,
+  "timestamp": 1795261633277,
   "matches": [
     {
       "matchId": 4741994,
@@ -667,8 +667,8 @@
       "matchEn": "Orenburg v Baltika",
       "matchAr": "أورينبورغ × بالتيكا",
       "rawIsoTime": "2026-11-21T10:00:00+00:00",
-      "time": "0 - 2 (82')",
-      "rawMinute": 82,
+      "time": "0 - 2 (83')",
+      "rawMinute": 83,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -681,9 +681,9 @@
       "matchEn": "Genclerbirligi v Gaziantep",
       "matchAr": "غنجلربيرليغي × غازي عنتاب",
       "rawIsoTime": "2026-11-21T10:30:00+00:00",
-      "time": "2 - 0 (57')",
-      "rawMinute": 57,
-      "homeGoals": 2,
+      "time": "1 - 0 (58')",
+      "rawMinute": 58,
+      "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
     },
@@ -695,8 +695,8 @@
       "matchEn": "Kryvbas v Kudrivka",
       "matchAr": "كريفباس × كودريفكا",
       "rawIsoTime": "2026-11-21T11:00:00+00:00",
-      "time": "0 - 0 (45+1')",
-      "rawMinute": 46,
+      "time": "0 - 0 (45+2')",
+      "rawMinute": 47,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -709,8 +709,8 @@
       "matchEn": "Kolos Kovalivka v Kharkiv",
       "matchAr": "كولوس كوفاليفكا × خاركوف",
       "rawIsoTime": "2026-11-21T11:00:00+00:00",
-      "time": "0 - 1 (6')",
-      "rawMinute": 7,
+      "time": "0 - 1 (7')",
+      "rawMinute": 8,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -723,8 +723,8 @@
       "matchEn": "Atletico Clube Portugal v Casa Pia",
       "matchAr": "أتلتيكو كلوب البرتغال × كازا بيا",
       "rawIsoTime": "2026-11-21T11:00:00+00:00",
-      "time": "1 - 0 (42')",
-      "rawMinute": 42,
+      "time": "1 - 0 (43')",
+      "rawMinute": 43,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -737,11 +737,25 @@
       "matchEn": "Chennaiyin v Punjab",
       "matchAr": "تشينايين × البنجاب",
       "rawIsoTime": "2026-11-21T11:30:00+00:00",
-      "time": "1 - 0 (16')",
+      "time": "1 - 0 (17')",
       "rawMinute": 17,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
+    },
+    {
+      "matchId": 4898188,
+      "competitionId": "122",
+      "tournamentEn": "🇸🇪 Swedish League",
+      "tournamentAr": "🇸🇪 الدوري السويدي الممتاز",
+      "matchEn": "Östersunds v Varbergs BoIS",
+      "matchAr": "أوسترسوندس × فاربرغس بوايس",
+      "rawIsoTime": "2026-11-21T12:00:00+00:00",
+      "time": "12:00",
+      "rawMinute": 1,
+      "homeGoals": -1,
+      "awayGoals": -1,
+      "isLive": false
     },
     {
       "matchId": 4745479,
