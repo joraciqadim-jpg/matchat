@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795283655325,
+  "timestamp": 1795283724682,
   "matches": [
     {
       "matchId": 4741994,
@@ -94,7 +94,7 @@
       "matchAr": "نيوكاسل يونايتد × أرسنال",
       "rawIsoTime": "2026-11-21T17:30:00+00:00",
       "time": "0 - 0 (25')",
-      "rawMinute": 25,
+      "rawMinute": 26,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -136,7 +136,7 @@
       "matchAr": "إشبيلية × ريال بيتيس",
       "rawIsoTime": "2026-11-21T17:30:00+00:00",
       "time": "0 - 0 (21')",
-      "rawMinute": 21,
+      "rawMinute": 22,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -233,8 +233,8 @@
       "matchEn": "Schalke 04 v Stuttgart",
       "matchAr": "شالكه 04 × شتوتغارت",
       "rawIsoTime": "2026-11-21T17:30:00+00:00",
-      "time": "0 - 0 (25')",
-      "rawMinute": 26,
+      "time": "0 - 0 (26')",
+      "rawMinute": 27,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -247,8 +247,8 @@
       "matchEn": "OGC Nice v Paris Saint-Germain",
       "matchAr": "نيس × باريس سان جيرمان",
       "rawIsoTime": "2026-11-21T16:15:00+00:00",
-      "time": "1 - 2 (73')",
-      "rawMinute": 73,
+      "time": "1 - 2 (74')",
+      "rawMinute": 74,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -387,8 +387,8 @@
       "matchEn": "Feyenoord v Excelsior",
       "matchAr": "فاينورد × إكسلسيور",
       "rawIsoTime": "2026-11-21T17:45:00+00:00",
-      "time": "1 - 1 (11')",
-      "rawMinute": 11,
+      "time": "1 - 1 (12')",
+      "rawMinute": 12,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -401,8 +401,8 @@
       "matchEn": "Utrecht v Cambuur",
       "matchAr": "أوتريخت × كامبور",
       "rawIsoTime": "2026-11-21T17:45:00+00:00",
-      "time": "0 - 0 (8')",
-      "rawMinute": 8,
+      "time": "0 - 0 (9')",
+      "rawMinute": 9,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1486,6 +1486,34 @@
       "isLive": false
     },
     {
+      "matchId": 4763743,
+      "competitionId": "78",
+      "tournamentEn": "🇹🇷 Turkish Super Lig",
+      "tournamentAr": "🇹🇷 الدوري التركي الممتاز",
+      "matchEn": "Kocaelispor v Fenerbahçe SK",
+      "matchAr": "كوجالي سبور × فنربخشة",
+      "rawIsoTime": "2026-11-21T16:00:00+00:00",
+      "time": "2 - 2 (done)",
+      "rawMinute": 90,
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "isLive": false
+    },
+    {
+      "matchId": 4886959,
+      "competitionId": "5635",
+      "tournamentEn": "🏆 Jordanian Cup",
+      "tournamentAr": "🏆 كأس الأردن",
+      "matchEn": "Al Faisaly v Al Ahli",
+      "matchAr": "الفيصلي × الأهلي",
+      "rawIsoTime": "2026-11-21T16:00:00+00:00",
+      "time": "3 - 1 (done)",
+      "rawMinute": 90,
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "isLive": false
+    },
+    {
       "matchId": 4748649,
       "competitionId": "129",
       "tournamentEn": "🇺🇦 Ukrainian Premier League",
@@ -1500,20 +1528,6 @@
       "isLive": true
     },
     {
-      "matchId": 4763743,
-      "competitionId": "78",
-      "tournamentEn": "🇹🇷 Turkish Super Lig",
-      "tournamentAr": "🇹🇷 الدوري التركي الممتاز",
-      "matchEn": "Kocaelispor v Fenerbahçe SK",
-      "matchAr": "كوجالي سبور × فنربخشة",
-      "rawIsoTime": "2026-11-21T16:00:00+00:00",
-      "time": "2 - 2 (90+5')",
-      "rawMinute": 95,
-      "homeGoals": 2,
-      "awayGoals": 2,
-      "isLive": true
-    },
-    {
       "matchId": 4885625,
       "competitionId": "75",
       "tournamentEn": "🏆 Portuguese Cup",
@@ -1521,24 +1535,10 @@
       "matchEn": "Estoril v Felgueiras 1932",
       "matchAr": "إستوريل × فيلغيراش 1932",
       "rawIsoTime": "2026-11-21T16:00:00+00:00",
-      "time": "2 - 2 (60')",
+      "time": "2 - 2 (59')",
       "rawMinute": 60,
       "homeGoals": 2,
       "awayGoals": 2,
-      "isLive": true
-    },
-    {
-      "matchId": 4886959,
-      "competitionId": "5635",
-      "tournamentEn": "🏆 Jordanian Cup",
-      "tournamentAr": "🏆 كأس الأردن",
-      "matchEn": "Al Faisaly v Al Ahli",
-      "matchAr": "الفيصلي × الأهلي",
-      "rawIsoTime": "2026-11-21T16:00:00+00:00",
-      "time": "3 - 1 (90')",
-      "rawMinute": 90,
-      "homeGoals": 3,
-      "awayGoals": 1,
       "isLive": true
     },
     {
@@ -1549,8 +1549,8 @@
       "matchEn": "Gais v Västerås",
       "matchAr": "غايس × فيستيروس",
       "rawIsoTime": "2026-11-21T16:30:00+00:00",
-      "time": "1 - 1 (64')",
-      "rawMinute": 64,
+      "time": "1 - 1 (65')",
+      "rawMinute": 65,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -1563,8 +1563,8 @@
       "matchEn": "Zaglebie Lubin v Gornik Zabrze",
       "matchAr": "زاغليبي لوبين × غورنيك زابرجه",
       "rawIsoTime": "2026-11-21T16:30:00+00:00",
-      "time": "1 - 0 (53')",
-      "rawMinute": 53,
+      "time": "1 - 0 (54')",
+      "rawMinute": 54,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -1591,8 +1591,8 @@
       "matchEn": "Al Nasr v Sulaibikhat",
       "matchAr": "النصر × الصليبخات",
       "rawIsoTime": "2026-11-21T16:30:00+00:00",
-      "time": "0 - 0 (55')",
-      "rawMinute": 56,
+      "time": "0 - 0 (56')",
+      "rawMinute": 57,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1605,10 +1605,10 @@
       "matchEn": "CSKA Moscow v Akhmat Grozny",
       "matchAr": "سيسكا موسكو × أخمات غروزني",
       "rawIsoTime": "2026-11-21T16:45:00+00:00",
-      "time": "0 - 0 (51')",
-      "rawMinute": 51,
+      "time": "0 - 1 (52')",
+      "rawMinute": 53,
       "homeGoals": 0,
-      "awayGoals": 0,
+      "awayGoals": 1,
       "isLive": true
     },
     {
@@ -1689,8 +1689,8 @@
       "matchEn": "Al Ahli Tripoli v Libyan Stadium",
       "matchAr": "الأهلي طرابلس × الملعب الليبي",
       "rawIsoTime": "2026-11-21T17:00:00+00:00",
-      "time": "2 - 0 (40')",
-      "rawMinute": 41,
+      "time": "2 - 0 (41')",
+      "rawMinute": 42,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -1717,8 +1717,8 @@
       "matchEn": "KRC Genk v La Louvière Centre",
       "matchAr": "جينك × لوفيير سنتر",
       "rawIsoTime": "2026-11-21T17:15:00+00:00",
-      "time": "3 - 0 (40')",
-      "rawMinute": 40,
+      "time": "3 - 0 (41')",
+      "rawMinute": 42,
       "homeGoals": 3,
       "awayGoals": 0,
       "isLive": true
@@ -1731,8 +1731,8 @@
       "matchEn": "Montrose v Alloa Athletic",
       "matchAr": "مونتروز × ألووا أتلتيك",
       "rawIsoTime": "2026-11-21T17:30:00+00:00",
-      "time": "0 - 1 (16')",
-      "rawMinute": 16,
+      "time": "0 - 1 (17')",
+      "rawMinute": 17,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -1745,8 +1745,8 @@
       "matchEn": "Dundee v Hearts",
       "matchAr": "دندي × هارتس",
       "rawIsoTime": "2026-11-21T17:45:00+00:00",
-      "time": "0 - 0 (7')",
-      "rawMinute": 7,
+      "time": "0 - 0 (8')",
+      "rawMinute": 8,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
