@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795225150638,
+  "timestamp": 1795225231507,
   "matches": [
     {
       "matchId": 4741994,
@@ -471,10 +471,10 @@
       "matchEn": "Velez Sarsfield v Belgrano",
       "matchAr": "فيليز سارسفيلد × بيلغرانو",
       "rawIsoTime": "2026-11-20T23:00:00+00:00",
-      "time": "2 - 2 (106)",
-      "rawMinute": 106,
-      "homeGoals": 2,
-      "awayGoals": 2,
+      "time": "0 - 0 (120')",
+      "rawMinute": 120,
+      "homeGoals": 0,
+      "awayGoals": 0,
       "isLive": true
     },
     {
@@ -485,8 +485,8 @@
       "matchEn": "Puebla v Atlético San Luis",
       "matchAr": "بويبلا × أتلتيكو سان لويس",
       "rawIsoTime": "2026-11-21T01:00:00+00:00",
-      "time": "1 - 0 (39')",
-      "rawMinute": 39,
+      "time": "1 - 0 (40')",
+      "rawMinute": 40,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
