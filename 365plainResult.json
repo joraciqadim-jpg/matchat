@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795233255251,
+  "timestamp": 1795233322661,
   "matches": [
     {
       "matchId": 4741994,
@@ -499,8 +499,8 @@
       "matchEn": "Tijuana v Atlante",
       "matchAr": "تيخوانا × أتلانتي",
       "rawIsoTime": "2026-11-21T03:10:00+00:00",
-      "time": "0 - 0 (45')",
-      "rawMinute": 45,
+      "time": "0 - 0 (45+1')",
+      "rawMinute": 46,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
