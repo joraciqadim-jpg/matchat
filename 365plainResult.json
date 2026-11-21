@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795247774869,
+  "timestamp": 1795247831128,
   "matches": [
     {
       "matchId": 4741994,
@@ -611,11 +611,11 @@
       "matchEn": "Kawasaki Frontale v Fukuoka",
       "matchAr": "كاواساكي فرونتال × فوكوكا",
       "rawIsoTime": "2026-11-21T06:00:00+00:00",
-      "time": "1 - 0 (90+7')",
-      "rawMinute": 97,
+      "time": "1 - 0 (done)",
+      "rawMinute": 90,
       "homeGoals": 1,
       "awayGoals": 0,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4739564,
