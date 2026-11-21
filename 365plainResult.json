@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795287923777,
+  "timestamp": 1795287975186,
   "matches": [
     {
       "matchId": 4741994,
@@ -93,8 +93,8 @@
       "matchEn": "Newcastle United v Arsenal",
       "matchAr": "نيوكاسل يونايتد × أرسنال",
       "rawIsoTime": "2026-11-21T17:30:00+00:00",
-      "time": "2 - 2 (78')",
-      "rawMinute": 78,
+      "time": "2 - 2 (79')",
+      "rawMinute": 79,
       "homeGoals": 2,
       "awayGoals": 2,
       "isLive": true
@@ -135,8 +135,8 @@
       "matchEn": "Sevilla v Real Betis",
       "matchAr": "إشبيلية × ريال بيتيس",
       "rawIsoTime": "2026-11-21T17:30:00+00:00",
-      "time": "0 - 1 (72')",
-      "rawMinute": 73,
+      "time": "0 - 1 (73')",
+      "rawMinute": 74,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -234,7 +234,7 @@
       "matchAr": "شالكه 04 × شتوتغارت",
       "rawIsoTime": "2026-11-21T17:30:00+00:00",
       "time": "0 - 0 (78')",
-      "rawMinute": 78,
+      "rawMinute": 79,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -387,8 +387,8 @@
       "matchEn": "Feyenoord v Excelsior",
       "matchAr": "فاينورد × إكسلسيور",
       "rawIsoTime": "2026-11-21T17:45:00+00:00",
-      "time": "1 - 3 (60')",
-      "rawMinute": 60,
+      "time": "1 - 3 (61')",
+      "rawMinute": 61,
       "homeGoals": 1,
       "awayGoals": 3,
       "isLive": true
@@ -401,8 +401,8 @@
       "matchEn": "Utrecht v Cambuur",
       "matchAr": "أوتريخت × كامبور",
       "rawIsoTime": "2026-11-21T17:45:00+00:00",
-      "time": "0 - 1 (45')",
-      "rawMinute": 45,
+      "time": "0 - 1 (45+1')",
+      "rawMinute": 46,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -1668,6 +1668,20 @@
       "isLive": false
     },
     {
+      "matchId": 4740685,
+      "competitionId": "98",
+      "tournamentEn": "🇧🇪 Belgian Jupiler Pro League",
+      "tournamentAr": "🇧🇪 الدوري البلجيكي للمحترفين",
+      "matchEn": "KRC Genk v La Louvière Centre",
+      "matchAr": "جينك × لوفيير سنتر",
+      "rawIsoTime": "2026-11-21T17:15:00+00:00",
+      "time": "3 - 0 (done)",
+      "rawMinute": 90,
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "isLive": false
+    },
+    {
       "matchId": 4748649,
       "competitionId": "129",
       "tournamentEn": "🇺🇦 Ukrainian Premier League",
@@ -1689,8 +1703,8 @@
       "matchEn": "Maritimo v Chaves",
       "matchAr": "ماريتيمو × تشافيس",
       "rawIsoTime": "2026-11-21T17:00:00+00:00",
-      "time": "0 - 0 (96')",
-      "rawMinute": 96,
+      "time": "0 - 0 (97')",
+      "rawMinute": 97,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1703,22 +1717,8 @@
       "matchEn": "Al Ahli Tripoli v Libyan Stadium",
       "matchAr": "الأهلي طرابلس × الملعب الليبي",
       "rawIsoTime": "2026-11-21T17:00:00+00:00",
-      "time": "3 - 0 (87')",
-      "rawMinute": 88,
-      "homeGoals": 3,
-      "awayGoals": 0,
-      "isLive": true
-    },
-    {
-      "matchId": 4740685,
-      "competitionId": "98",
-      "tournamentEn": "🇧🇪 Belgian Jupiler Pro League",
-      "tournamentAr": "🇧🇪 الدوري البلجيكي للمحترفين",
-      "matchEn": "KRC Genk v La Louvière Centre",
-      "matchAr": "جينك × لوفيير سنتر",
-      "rawIsoTime": "2026-11-21T17:15:00+00:00",
-      "time": "3 - 0 (90+4')",
-      "rawMinute": 94,
+      "time": "3 - 0 (88')",
+      "rawMinute": 89,
       "homeGoals": 3,
       "awayGoals": 0,
       "isLive": true
@@ -1745,8 +1745,8 @@
       "matchEn": "Dundee v Hearts",
       "matchAr": "دندي × هارتس",
       "rawIsoTime": "2026-11-21T17:45:00+00:00",
-      "time": "0 - 4 (60')",
-      "rawMinute": 60,
+      "time": "0 - 4 (61')",
+      "rawMinute": 61,
       "homeGoals": 0,
       "awayGoals": 4,
       "isLive": true
@@ -1787,8 +1787,8 @@
       "matchEn": "Grazer AK v Rapid Vienna",
       "matchAr": "غراتسر × رابيد فيينا",
       "rawIsoTime": "2026-11-21T18:30:00+00:00",
-      "time": "0 - 1 (34')",
-      "rawMinute": 34,
+      "time": "0 - 1 (35')",
+      "rawMinute": 35,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
