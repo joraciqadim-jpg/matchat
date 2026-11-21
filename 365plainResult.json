@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795282256041,
+  "timestamp": 1795282272737,
   "matches": [
     {
       "matchId": 4741994,
@@ -93,8 +93,8 @@
       "matchEn": "Newcastle United v Arsenal",
       "matchAr": "نيوكاسل يونايتد × أرسنال",
       "rawIsoTime": "2026-11-21T17:30:00+00:00",
-      "time": "0 - 0 (1')",
-      "rawMinute": 1,
+      "time": "0 - 0 (2')",
+      "rawMinute": 2,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -234,7 +234,7 @@
       "matchAr": "شالكه 04 × شتوتغارت",
       "rawIsoTime": "2026-11-21T17:30:00+00:00",
       "time": "0 - 0 (2')",
-      "rawMinute": 2,
+      "rawMinute": 3,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -346,7 +346,7 @@
       "matchAr": "بارما × روما",
       "rawIsoTime": "2026-11-21T17:00:00+00:00",
       "time": "0 - 0 (33')",
-      "rawMinute": 33,
+      "rawMinute": 34,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1480,7 +1480,7 @@
       "matchAr": "لاسْك لينتس × هارتبرغ",
       "rawIsoTime": "2026-11-21T16:00:00+00:00",
       "time": "2 - 1 (63')",
-      "rawMinute": 63,
+      "rawMinute": 64,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -1605,7 +1605,7 @@
       "matchEn": "CSKA Moscow v Akhmat Grozny",
       "matchAr": "سيسكا موسكو × أخمات غروزني",
       "rawIsoTime": "2026-11-21T16:45:00+00:00",
-      "time": "0 - 0 (31')",
+      "time": "0 - 0 (32')",
       "rawMinute": 32,
       "homeGoals": 0,
       "awayGoals": 0,
@@ -1619,7 +1619,7 @@
       "matchEn": "Valerenga v Start",
       "matchAr": "فاليرينغا × ستارت",
       "rawIsoTime": "2026-11-21T17:00:00+00:00",
-      "time": "0 - 0 (31')",
+      "time": "0 - 0 (30')",
       "rawMinute": 31,
       "homeGoals": 0,
       "awayGoals": 0,
@@ -1633,7 +1633,7 @@
       "matchEn": "Young Boys v Thun",
       "matchAr": "يونغ بويز × تون",
       "rawIsoTime": "2026-11-21T17:00:00+00:00",
-      "time": "0 - 0 (30')",
+      "time": "0 - 0 (31')",
       "rawMinute": 31,
       "homeGoals": 0,
       "awayGoals": 0,
@@ -1647,8 +1647,8 @@
       "matchEn": "Lugano v Grasshopper",
       "matchAr": "لوغانو × غراسهوبر",
       "rawIsoTime": "2026-11-21T17:00:00+00:00",
-      "time": "0 - 0 (21')",
-      "rawMinute": 21,
+      "time": "0 - 0 (22')",
+      "rawMinute": 22,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1690,7 +1690,7 @@
       "matchAr": "الأهلي طرابلس × الملعب الليبي",
       "rawIsoTime": "2026-11-21T17:00:00+00:00",
       "time": "1 - 0 (26')",
-      "rawMinute": 26,
+      "rawMinute": 27,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
