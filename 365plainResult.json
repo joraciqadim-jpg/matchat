@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795220294381,
+  "timestamp": 1795220350718,
   "matches": [
     {
       "matchId": 4741994,
@@ -471,9 +471,9 @@
       "matchEn": "Velez Sarsfield v Belgrano",
       "matchAr": "فيليز سارسفيلد × بيلغرانو",
       "rawIsoTime": "2026-11-20T23:00:00+00:00",
-      "time": "0 - 1 (58')",
-      "rawMinute": 58,
-      "homeGoals": 0,
+      "time": "1 - 1 (59')",
+      "rawMinute": 59,
+      "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
     },
