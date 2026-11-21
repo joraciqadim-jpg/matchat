@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795291094243,
+  "timestamp": 1795291151558,
   "matches": [
     {
       "matchId": 4741994,
@@ -261,8 +261,8 @@
       "matchEn": "Strasbourg v Brest",
       "matchAr": "ستراسبورغ × بريست",
       "rawIsoTime": "2026-11-21T19:45:00+00:00",
-      "time": "0 - 0 (13')",
-      "rawMinute": 13,
+      "time": "0 - 0 (14')",
+      "rawMinute": 14,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -275,8 +275,8 @@
       "matchEn": "Monaco v Auxerre",
       "matchAr": "موناكو × أوكسير",
       "rawIsoTime": "2026-11-21T19:45:00+00:00",
-      "time": "0 - 0 (13')",
-      "rawMinute": 13,
+      "time": "0 - 0 (14')",
+      "rawMinute": 14,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -289,7 +289,7 @@
       "matchEn": "Lille v Lyon",
       "matchAr": "ليل × ليون",
       "rawIsoTime": "2026-11-21T19:45:00+00:00",
-      "time": "0 - 0 (13')",
+      "time": "0 - 0 (14')",
       "rawMinute": 14,
       "homeGoals": 0,
       "awayGoals": 0,
@@ -303,8 +303,8 @@
       "matchEn": "Lens v Toulouse",
       "matchAr": "لانس × تولوز",
       "rawIsoTime": "2026-11-21T19:45:00+00:00",
-      "time": "0 - 0 (15')",
-      "rawMinute": 15,
+      "time": "0 - 0 (16')",
+      "rawMinute": 16,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -359,8 +359,8 @@
       "matchEn": "Napoli v Torino",
       "matchAr": "نابولي × تورينو",
       "rawIsoTime": "2026-11-21T19:45:00+00:00",
-      "time": "0 - 0 (13')",
-      "rawMinute": 13,
+      "time": "0 - 0 (14')",
+      "rawMinute": 14,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -401,8 +401,8 @@
       "matchEn": "Utrecht v Cambuur",
       "matchAr": "أوتريخت × كامبور",
       "rawIsoTime": "2026-11-21T17:45:00+00:00",
-      "time": "2 - 2 (81')",
-      "rawMinute": 81,
+      "time": "2 - 2 (82')",
+      "rawMinute": 82,
       "homeGoals": 2,
       "awayGoals": 2,
       "isLive": true
@@ -443,8 +443,8 @@
       "matchEn": "Palmeiras v Flamengo",
       "matchAr": "بالميراس × فلامنغو",
       "rawIsoTime": "2026-11-21T19:30:00+00:00",
-      "time": "1 - 0 (28')",
-      "rawMinute": 28,
+      "time": "1 - 0 (29')",
+      "rawMinute": 29,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -1787,8 +1787,8 @@
       "matchEn": "Grazer AK v Rapid Vienna",
       "matchAr": "غراتسر × رابيد فيينا",
       "rawIsoTime": "2026-11-21T18:30:00+00:00",
-      "time": "0 - 3 (71')",
-      "rawMinute": 71,
+      "time": "0 - 3 (72')",
+      "rawMinute": 72,
       "homeGoals": 0,
       "awayGoals": 3,
       "isLive": true
@@ -1801,8 +1801,8 @@
       "matchEn": "Sion v Servette",
       "matchAr": "سيون × سيرفيت",
       "rawIsoTime": "2026-11-21T19:30:00+00:00",
-      "time": "0 - 0 (26')",
-      "rawMinute": 26,
+      "time": "0 - 0 (27')",
+      "rawMinute": 27,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1815,8 +1815,8 @@
       "matchEn": "Radomiak Radom v Wisla Krakow",
       "matchAr": "رادومياك رادوم × فيسوا كراكوف",
       "rawIsoTime": "2026-11-21T19:45:00+00:00",
-      "time": "0 - 0 (14')",
-      "rawMinute": 14,
+      "time": "0 - 0 (15')",
+      "rawMinute": 15,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1829,8 +1829,8 @@
       "matchEn": "KV Mechelen v Brugge",
       "matchAr": "ميخيلين × بروج",
       "rawIsoTime": "2026-11-21T19:45:00+00:00",
-      "time": "0 - 0 (14')",
-      "rawMinute": 14,
+      "time": "0 - 0 (15')",
+      "rawMinute": 15,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1843,8 +1843,8 @@
       "matchEn": "Zulte Waregem v Royal Antwerp",
       "matchAr": "زولته فاريغيم × رويال أنتويرب",
       "rawIsoTime": "2026-11-21T19:45:00+00:00",
-      "time": "0 - 1 (14')",
-      "rawMinute": 14,
+      "time": "0 - 1 (15')",
+      "rawMinute": 15,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
