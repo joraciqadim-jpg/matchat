@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795252751230,
+  "timestamp": 1795252835269,
   "matches": [
     {
       "matchId": 4741994,
@@ -639,8 +639,8 @@
       "matchEn": "Incheon United v Ulsan HD",
       "matchAr": "إنتشون يونايتد × أولسان",
       "rawIsoTime": "2026-11-21T07:30:00+00:00",
-      "time": "2 - 1 (90+2')",
-      "rawMinute": 92,
+      "time": "2 - 1 (90+4')",
+      "rawMinute": 94,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -653,8 +653,8 @@
       "matchEn": "Gangwon v Daejeon Hana Citizen",
       "matchAr": "غانغوون × دايجون هانا سيتيزن",
       "rawIsoTime": "2026-11-21T07:30:00+00:00",
-      "time": "1 - 3 (89')",
-      "rawMinute": 89,
+      "time": "1 - 3 (90+1')",
+      "rawMinute": 91,
       "homeGoals": 1,
       "awayGoals": 3,
       "isLive": true
