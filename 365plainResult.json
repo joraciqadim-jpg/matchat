@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795253055585,
+  "timestamp": 1795253123806,
   "matches": [
     {
       "matchId": 4741994,
@@ -653,11 +653,11 @@
       "matchEn": "Gangwon v Daejeon Hana Citizen",
       "matchAr": "غانغوون × دايجون هانا سيتيزن",
       "rawIsoTime": "2026-11-21T07:30:00+00:00",
-      "time": "1 - 3 (90+4')",
-      "rawMinute": 94,
+      "time": "1 - 3 (done)",
+      "rawMinute": 90,
       "homeGoals": 1,
       "awayGoals": 3,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4745483,
