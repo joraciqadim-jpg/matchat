@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795265534812,
+  "timestamp": 1795265591387,
   "matches": [
     {
       "matchId": 4741994,
@@ -9,8 +9,8 @@
       "matchEn": "Manchester City v Fulham",
       "matchAr": "مانشستر سيتي × فولهام",
       "rawIsoTime": "2026-11-21T12:30:00+00:00",
-      "time": "0 - 1 (22')",
-      "rawMinute": 22,
+      "time": "0 - 1 (23')",
+      "rawMinute": 23,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -709,8 +709,8 @@
       "matchEn": "Kolos Kovalivka v Kharkiv",
       "matchAr": "كولوس كوفاليفكا × خاركوف",
       "rawIsoTime": "2026-11-21T11:00:00+00:00",
-      "time": "1 - 1 (55')",
-      "rawMinute": 55,
+      "time": "1 - 1 (56')",
+      "rawMinute": 56,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -723,8 +723,8 @@
       "matchEn": "Atletico Clube Portugal v Casa Pia",
       "matchAr": "أتلتيكو كلوب البرتغال × كازا بيا",
       "rawIsoTime": "2026-11-21T11:00:00+00:00",
-      "time": "1 - 0 (89')",
-      "rawMinute": 89,
+      "time": "1 - 0 (90')",
+      "rawMinute": 90,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -737,8 +737,8 @@
       "matchEn": "Chennaiyin v Punjab",
       "matchAr": "تشينايين × البنجاب",
       "rawIsoTime": "2026-11-21T11:30:00+00:00",
-      "time": "1 - 1 (64')",
-      "rawMinute": 64,
+      "time": "1 - 1 (65')",
+      "rawMinute": 65,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -765,8 +765,8 @@
       "matchEn": "Akron Tolyatti v Fakel Voronezh",
       "matchAr": "أكرون تولياتي × فاكيل فورونيج",
       "rawIsoTime": "2026-11-21T12:15:00+00:00",
-      "time": "0 - 0 (37')",
-      "rawMinute": 37,
+      "time": "0 - 0 (38')",
+      "rawMinute": 38,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -779,8 +779,8 @@
       "matchEn": "Serbia v Honduras",
       "matchAr": "صربيا × هندوراس",
       "rawIsoTime": "2026-11-21T12:30:00+00:00",
-      "time": "0 - 0 (21')",
-      "rawMinute": 21,
+      "time": "0 - 0 (22')",
+      "rawMinute": 22,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -793,8 +793,8 @@
       "matchEn": "Japan v Colombia",
       "matchAr": "اليابان × كولومبيا",
       "rawIsoTime": "2026-11-21T12:30:00+00:00",
-      "time": "0 - 1 (21')",
-      "rawMinute": 21,
+      "time": "0 - 1 (22')",
+      "rawMinute": 22,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -807,8 +807,8 @@
       "matchEn": "Khor Fakkan v Jazira",
       "matchAr": "خورفكان × الجزيرة",
       "rawIsoTime": "2026-11-21T12:45:00+00:00",
-      "time": "0 - 0 (7')",
-      "rawMinute": 7,
+      "time": "0 - 0 (8')",
+      "rawMinute": 8,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
