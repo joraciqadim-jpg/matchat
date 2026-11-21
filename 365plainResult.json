@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795237151088,
+  "timestamp": 1795237264422,
   "matches": [
     {
       "matchId": 4741994,
@@ -485,8 +485,8 @@
       "matchEn": "Juarez v Atlas Guadalajara",
       "matchAr": "خواريز × أطلس غوادالاخارا",
       "rawIsoTime": "2026-11-21T03:00:00+00:00",
-      "time": "2 - 3 (90+6')",
-      "rawMinute": 96,
+      "time": "2 - 3 (90+7')",
+      "rawMinute": 97,
       "homeGoals": 2,
       "awayGoals": 3,
       "isLive": true
@@ -499,8 +499,8 @@
       "matchEn": "Tijuana v Atlante",
       "matchAr": "تيخوانا × أتلانتي",
       "rawIsoTime": "2026-11-21T03:10:00+00:00",
-      "time": "1 - 0 (89')",
-      "rawMinute": 89,
+      "time": "1 - 0 (90+1')",
+      "rawMinute": 91,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -569,11 +569,11 @@
       "matchEn": "Jeonbuk Hyundai Motors v Seoul",
       "matchAr": "جيونبوك هيونداي موتورز × سيول",
       "rawIsoTime": "2026-11-21T05:00:00+00:00",
-      "time": "05:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4885471,
@@ -583,11 +583,11 @@
       "matchEn": "Pohang Steelers v Anyang",
       "matchAr": "بوهانغ ستيلرز × أنيانغ",
       "rawIsoTime": "2026-11-21T05:00:00+00:00",
-      "time": "05:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4739563,
