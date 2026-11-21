@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795232951060,
+  "timestamp": 1795233034404,
   "matches": [
     {
       "matchId": 4741994,
@@ -485,9 +485,9 @@
       "matchEn": "Juarez v Atlas Guadalajara",
       "matchAr": "خواريز × أطلس غوادالاخارا",
       "rawIsoTime": "2026-11-21T03:00:00+00:00",
-      "time": "1 - 1 (45+4')",
-      "rawMinute": 49,
-      "homeGoals": 1,
+      "time": "2 - 1 (45+5')",
+      "rawMinute": 50,
+      "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
     },
@@ -499,8 +499,8 @@
       "matchEn": "Tijuana v Atlante",
       "matchAr": "تيخوانا × أتلانتي",
       "rawIsoTime": "2026-11-21T03:10:00+00:00",
-      "time": "0 - 0 (40')",
-      "rawMinute": 40,
+      "time": "0 - 0 (41')",
+      "rawMinute": 41,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
