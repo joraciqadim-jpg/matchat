@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795225530511,
+  "timestamp": 1795225573631,
   "matches": [
     {
       "matchId": 4741994,
@@ -485,8 +485,8 @@
       "matchEn": "Puebla v Atlético San Luis",
       "matchAr": "بويبلا × أتلتيكو سان لويس",
       "rawIsoTime": "2026-11-21T01:00:00+00:00",
-      "time": "1 - 0 (45')",
-      "rawMinute": 45,
+      "time": "1 - 0 (45+1')",
+      "rawMinute": 46,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
