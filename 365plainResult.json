@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795298123136,
+  "timestamp": 1795298174794,
   "matches": [
     {
       "matchId": 4741994,
@@ -150,7 +150,7 @@
       "matchAr": "ريال مدريد × سيلتا فيغو",
       "rawIsoTime": "2026-11-21T20:00:00+00:00",
       "time": "2 - 1 (89')",
-      "rawMinute": 89,
+      "rawMinute": 90,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -457,8 +457,8 @@
       "matchEn": "Bahia v Coritiba",
       "matchAr": "باهيا × كوريتيبا",
       "rawIsoTime": "2026-11-21T20:30:00+00:00",
-      "time": "0 - 0 (63')",
-      "rawMinute": 63,
+      "time": "0 - 0 (64')",
+      "rawMinute": 64,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
