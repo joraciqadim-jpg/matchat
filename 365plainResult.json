@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795267391424,
+  "timestamp": 1795267455380,
   "matches": [
     {
       "matchId": 4741994,
@@ -107,8 +107,8 @@
       "matchEn": "Alaves v Deportivo La Coruña",
       "matchAr": "ألافيس × ديبورتيفو لاكورونيا",
       "rawIsoTime": "2026-11-21T13:00:00+00:00",
-      "time": "1 - 0 (23')",
-      "rawMinute": 23,
+      "time": "1 - 0 (24')",
+      "rawMinute": 24,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -779,8 +779,8 @@
       "matchEn": "Chennaiyin v Punjab",
       "matchAr": "تشينايين × البنجاب",
       "rawIsoTime": "2026-11-21T11:30:00+00:00",
-      "time": "1 - 1 (90+5')",
-      "rawMinute": 95,
+      "time": "1 - 1 (90+6')",
+      "rawMinute": 96,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -793,8 +793,8 @@
       "matchEn": "Östersunds v Varbergs BoIS",
       "matchAr": "أوسترسوندس × فاربرغس بوايس",
       "rawIsoTime": "2026-11-21T12:00:00+00:00",
-      "time": "0 - 1 (66')",
-      "rawMinute": 66,
+      "time": "0 - 1 (67')",
+      "rawMinute": 67,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -807,8 +807,8 @@
       "matchEn": "Akron Tolyatti v Fakel Voronezh",
       "matchAr": "أكرون تولياتي × فاكيل فورونيج",
       "rawIsoTime": "2026-11-21T12:15:00+00:00",
-      "time": "0 - 2 (Halftime)",
-      "rawMinute": 45,
+      "time": "0 - 2 (46')",
+      "rawMinute": 46,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -849,8 +849,8 @@
       "matchEn": "Khor Fakkan v Jazira",
       "matchAr": "خورفكان × الجزيرة",
       "rawIsoTime": "2026-11-21T12:45:00+00:00",
-      "time": "0 - 0 (38')",
-      "rawMinute": 38,
+      "time": "0 - 0 (39')",
+      "rawMinute": 39,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -863,8 +863,8 @@
       "matchEn": "Baniyas v Al Nasr",
       "matchAr": "بني ياس × النصر",
       "rawIsoTime": "2026-11-21T12:45:00+00:00",
-      "time": "0 - 0 (38')",
-      "rawMinute": 38,
+      "time": "0 - 0 (40')",
+      "rawMinute": 40,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -877,8 +877,8 @@
       "matchEn": "Tromso v Viking",
       "matchAr": "ترومسو × فايكينغ",
       "rawIsoTime": "2026-11-21T13:00:00+00:00",
-      "time": "1 - 0 (24')",
-      "rawMinute": 24,
+      "time": "1 - 0 (25')",
+      "rawMinute": 25,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -891,8 +891,8 @@
       "matchEn": "Tanzania v Costa Rica",
       "matchAr": "تنزانيا × كوستاريكا",
       "rawIsoTime": "2026-11-21T13:00:00+00:00",
-      "time": "0 - 2 (23')",
-      "rawMinute": 23,
+      "time": "0 - 2 (24')",
+      "rawMinute": 24,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -905,8 +905,8 @@
       "matchEn": "Galatasaray v Samsunspor",
       "matchAr": "غلطة سراي × سامسون سبور",
       "rawIsoTime": "2026-11-21T13:00:00+00:00",
-      "time": "1 - 0 (23')",
-      "rawMinute": 23,
+      "time": "1 - 0 (24')",
+      "rawMinute": 24,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -919,8 +919,8 @@
       "matchEn": "Amed SK v Rizespor",
       "matchAr": "أمد سبور × ريزه سبور",
       "rawIsoTime": "2026-11-21T13:00:00+00:00",
-      "time": "0 - 1 (24')",
-      "rawMinute": 24,
+      "time": "0 - 1 (25')",
+      "rawMinute": 25,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -933,8 +933,8 @@
       "matchEn": "Al Wakrah v Al Sailiya",
       "matchAr": "الوكرة × السيلية",
       "rawIsoTime": "2026-11-21T13:00:00+00:00",
-      "time": "0 - 0 (23')",
-      "rawMinute": 23,
+      "time": "0 - 0 (24')",
+      "rawMinute": 24,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
