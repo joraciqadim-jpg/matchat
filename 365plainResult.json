@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795298724677,
+  "timestamp": 1795298775518,
   "matches": [
     {
       "matchId": 4741994,
@@ -457,10 +457,10 @@
       "matchEn": "Bahia v Coritiba",
       "matchAr": "باهيا × كوريتيبا",
       "rawIsoTime": "2026-11-21T20:30:00+00:00",
-      "time": "0 - 0 (73')",
-      "rawMinute": 73,
+      "time": "0 - 1 (74')",
+      "rawMinute": 74,
       "homeGoals": 0,
-      "awayGoals": 0,
+      "awayGoals": 1,
       "isLive": true
     },
     {
@@ -1885,7 +1885,7 @@
       "matchEn": "Guimarães v Braga",
       "matchAr": "غيمارايش × براغا",
       "rawIsoTime": "2026-11-21T20:30:00+00:00",
-      "time": "0 - 2 (75')",
+      "time": "0 - 2 (76')",
       "rawMinute": 76,
       "homeGoals": 0,
       "awayGoals": 2,
