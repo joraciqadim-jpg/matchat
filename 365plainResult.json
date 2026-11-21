@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795299855883,
+  "timestamp": 1795299924436,
   "matches": [
     {
       "matchId": 4741994,
@@ -457,8 +457,8 @@
       "matchEn": "Bahia v Coritiba",
       "matchAr": "باهيا × كوريتيبا",
       "rawIsoTime": "2026-11-21T20:30:00+00:00",
-      "time": "0 - 1 (90+2')",
-      "rawMinute": 92,
+      "time": "0 - 1 (90+3')",
+      "rawMinute": 93,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -1864,6 +1864,20 @@
       "isLive": false
     },
     {
+      "matchId": 4885637,
+      "competitionId": "75",
+      "tournamentEn": "🏆 Portuguese Cup",
+      "tournamentAr": "🏆 كأس البرتغال",
+      "matchEn": "Guimarães v Braga",
+      "matchAr": "غيمارايش × براغا",
+      "rawIsoTime": "2026-11-21T20:30:00+00:00",
+      "time": "0 - 2 (done)",
+      "rawMinute": 90,
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "isLive": false
+    },
+    {
       "matchId": 4748649,
       "competitionId": "129",
       "tournamentEn": "🇺🇦 Ukrainian Premier League",
@@ -1875,20 +1889,6 @@
       "rawMinute": 90,
       "homeGoals": 0,
       "awayGoals": 1,
-      "isLive": true
-    },
-    {
-      "matchId": 4885637,
-      "competitionId": "75",
-      "tournamentEn": "🏆 Portuguese Cup",
-      "tournamentAr": "🏆 كأس البرتغال",
-      "matchEn": "Guimarães v Braga",
-      "matchAr": "غيمارايش × براغا",
-      "rawIsoTime": "2026-11-21T20:30:00+00:00",
-      "time": "0 - 2 (90+4')",
-      "rawMinute": 94,
-      "homeGoals": 0,
-      "awayGoals": 2,
       "isLive": true
     },
     {
