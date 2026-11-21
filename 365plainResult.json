@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795267272520,
+  "timestamp": 1795267336006,
   "matches": [
     {
       "matchId": 4741994,
@@ -107,8 +107,8 @@
       "matchEn": "Alaves v Deportivo La Coruña",
       "matchAr": "ألافيس × ديبورتيفو لاكورونيا",
       "rawIsoTime": "2026-11-21T13:00:00+00:00",
-      "time": "1 - 0 (21')",
-      "rawMinute": 21,
+      "time": "1 - 0 (22')",
+      "rawMinute": 22,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -730,6 +730,34 @@
       "isLive": false
     },
     {
+      "matchId": 4888853,
+      "competitionId": "559",
+      "tournamentEn": "🇱🇾 Libyan Premier League",
+      "tournamentAr": "🇱🇾 الدوري الليبي",
+      "matchEn": "Al Butnan v Al Sadaqa",
+      "matchAr": "البطنان × الصداقة",
+      "rawIsoTime": "2026-11-21T13:00:00+00:00",
+      "time": "13:00",
+      "rawMinute": 1,
+      "homeGoals": -1,
+      "awayGoals": -1,
+      "isLive": false
+    },
+    {
+      "matchId": 4888854,
+      "competitionId": "559",
+      "tournamentEn": "🇱🇾 Libyan Premier League",
+      "tournamentAr": "🇱🇾 الدوري الليبي",
+      "matchEn": "Darnes v New Benghazi",
+      "matchAr": "دارنس × بنغازي الجديدة",
+      "rawIsoTime": "2026-11-21T13:00:00+00:00",
+      "time": "13:00",
+      "rawMinute": 1,
+      "homeGoals": -1,
+      "awayGoals": -1,
+      "isLive": false
+    },
+    {
       "matchId": 4748655,
       "competitionId": "129",
       "tournamentEn": "🇺🇦 Ukrainian Premier League",
@@ -751,8 +779,8 @@
       "matchEn": "Chennaiyin v Punjab",
       "matchAr": "تشينايين × البنجاب",
       "rawIsoTime": "2026-11-21T11:30:00+00:00",
-      "time": "1 - 1 (90+2')",
-      "rawMinute": 93,
+      "time": "1 - 1 (90+4')",
+      "rawMinute": 94,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -765,8 +793,8 @@
       "matchEn": "Östersunds v Varbergs BoIS",
       "matchAr": "أوسترسوندس × فاربرغس بوايس",
       "rawIsoTime": "2026-11-21T12:00:00+00:00",
-      "time": "0 - 1 (63')",
-      "rawMinute": 64,
+      "time": "0 - 1 (64')",
+      "rawMinute": 65,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -821,8 +849,8 @@
       "matchEn": "Khor Fakkan v Jazira",
       "matchAr": "خورفكان × الجزيرة",
       "rawIsoTime": "2026-11-21T12:45:00+00:00",
-      "time": "0 - 0 (36')",
-      "rawMinute": 36,
+      "time": "0 - 0 (37')",
+      "rawMinute": 37,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -835,8 +863,8 @@
       "matchEn": "Baniyas v Al Nasr",
       "matchAr": "بني ياس × النصر",
       "rawIsoTime": "2026-11-21T12:45:00+00:00",
-      "time": "0 - 0 (36')",
-      "rawMinute": 36,
+      "time": "0 - 0 (38')",
+      "rawMinute": 38,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -849,8 +877,8 @@
       "matchEn": "Tromso v Viking",
       "matchAr": "ترومسو × فايكينغ",
       "rawIsoTime": "2026-11-21T13:00:00+00:00",
-      "time": "1 - 0 (21')",
-      "rawMinute": 22,
+      "time": "1 - 0 (23')",
+      "rawMinute": 23,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -863,8 +891,8 @@
       "matchEn": "Tanzania v Costa Rica",
       "matchAr": "تنزانيا × كوستاريكا",
       "rawIsoTime": "2026-11-21T13:00:00+00:00",
-      "time": "0 - 2 (21')",
-      "rawMinute": 21,
+      "time": "0 - 2 (22')",
+      "rawMinute": 22,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -877,8 +905,8 @@
       "matchEn": "Galatasaray v Samsunspor",
       "matchAr": "غلطة سراي × سامسون سبور",
       "rawIsoTime": "2026-11-21T13:00:00+00:00",
-      "time": "1 - 0 (21')",
-      "rawMinute": 21,
+      "time": "1 - 0 (22')",
+      "rawMinute": 22,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -891,8 +919,8 @@
       "matchEn": "Amed SK v Rizespor",
       "matchAr": "أمد سبور × ريزه سبور",
       "rawIsoTime": "2026-11-21T13:00:00+00:00",
-      "time": "0 - 1 (22')",
-      "rawMinute": 22,
+      "time": "0 - 1 (23')",
+      "rawMinute": 23,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -905,39 +933,11 @@
       "matchEn": "Al Wakrah v Al Sailiya",
       "matchAr": "الوكرة × السيلية",
       "rawIsoTime": "2026-11-21T13:00:00+00:00",
-      "time": "0 - 0 (21')",
-      "rawMinute": 21,
+      "time": "0 - 0 (22')",
+      "rawMinute": 22,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
-    },
-    {
-      "matchId": 4888853,
-      "competitionId": "559",
-      "tournamentEn": "🇱🇾 Libyan Premier League",
-      "tournamentAr": "🇱🇾 الدوري الليبي",
-      "matchEn": "Al Butnan v Al Sadaqa",
-      "matchAr": "البطنان × الصداقة",
-      "rawIsoTime": "2026-11-21T13:00:00+00:00",
-      "time": "13:00",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
-    },
-    {
-      "matchId": 4888854,
-      "competitionId": "559",
-      "tournamentEn": "🇱🇾 Libyan Premier League",
-      "tournamentAr": "🇱🇾 الدوري الليبي",
-      "matchEn": "Darnes v New Benghazi",
-      "matchAr": "دارنس × بنغازي الجديدة",
-      "rawIsoTime": "2026-11-21T13:00:00+00:00",
-      "time": "13:00",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
     },
     {
       "matchId": 4722851,
