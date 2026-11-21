@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795302933274,
+  "timestamp": 1795302974231,
   "matches": [
     {
       "matchId": 4741994,
@@ -1899,7 +1899,7 @@
       "matchEn": "Atlético Mineiro (Brazil) v Boca Juniors (Argentina)",
       "matchAr": "أتلتيكو مينيرو (البرازيل) × بوكا جونيورز (الأرجنتين)",
       "rawIsoTime": "2026-11-21T22:30:00+00:00",
-      "time": "0 - 1 (44')",
+      "time": "0 - 1 (45')",
       "rawMinute": 45,
       "homeGoals": 0,
       "awayGoals": 1,
@@ -1913,9 +1913,9 @@
       "matchEn": "Pachuca v Toluca",
       "matchAr": "باتشوكا × تولوكا",
       "rawIsoTime": "2026-11-21T22:50:00+00:00",
-      "time": "0 - 0 (23')",
-      "rawMinute": 23,
-      "homeGoals": 0,
+      "time": "1 - 0 (24')",
+      "rawMinute": 24,
+      "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
     },
@@ -1927,8 +1927,8 @@
       "matchEn": "Santos Laguna v Leon",
       "matchAr": "سانتوس لاغونا × ليون",
       "rawIsoTime": "2026-11-21T23:00:00+00:00",
-      "time": "0 - 0 (15')",
-      "rawMinute": 15,
+      "time": "0 - 0 (16')",
+      "rawMinute": 16,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
