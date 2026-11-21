@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795249150914,
+  "timestamp": 1795249235896,
   "matches": [
     {
       "matchId": 4741994,
@@ -625,8 +625,8 @@
       "matchEn": "Gamba Osaka v Okayama",
       "matchAr": "غامبا أوساكا × أوكاياما",
       "rawIsoTime": "2026-11-21T07:00:00+00:00",
-      "time": "0 - 1 (57')",
-      "rawMinute": 57,
+      "time": "0 - 1 (59')",
+      "rawMinute": 59,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -653,8 +653,8 @@
       "matchEn": "Gangwon v Daejeon Hana Citizen",
       "matchAr": "غانغوون × دايجون هانا سيتيزن",
       "rawIsoTime": "2026-11-21T07:30:00+00:00",
-      "time": "1 - 1 (45+4')",
-      "rawMinute": 49,
+      "time": "1 - 1 (Halftime)",
+      "rawMinute": 45,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
