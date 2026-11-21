@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795249871518,
+  "timestamp": 1795249935263,
   "matches": [
     {
       "matchId": 4741994,
@@ -625,8 +625,8 @@
       "matchEn": "Gamba Osaka v Okayama",
       "matchAr": "غامبا أوساكا × أوكاياما",
       "rawIsoTime": "2026-11-21T07:00:00+00:00",
-      "time": "0 - 1 (69')",
-      "rawMinute": 69,
+      "time": "0 - 1 (70')",
+      "rawMinute": 70,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -639,8 +639,8 @@
       "matchEn": "Incheon United v Ulsan HD",
       "matchAr": "إنتشون يونايتد × أولسان",
       "rawIsoTime": "2026-11-21T07:30:00+00:00",
-      "time": "1 - 0 (Halftime)",
-      "rawMinute": 45,
+      "time": "1 - 0 (45')",
+      "rawMinute": 46,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
