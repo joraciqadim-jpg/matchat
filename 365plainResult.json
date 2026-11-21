@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795293933900,
+  "timestamp": 1795293974865,
   "matches": [
     {
       "matchId": 4741994,
@@ -149,8 +149,8 @@
       "matchEn": "Real Madrid v Celta Vigo",
       "matchAr": "ريال مدريد × سيلتا فيغو",
       "rawIsoTime": "2026-11-21T20:00:00+00:00",
-      "time": "0 - 1 (37')",
-      "rawMinute": 38,
+      "time": "0 - 1 (38')",
+      "rawMinute": 39,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -415,8 +415,8 @@
       "matchEn": "Telstar v PEC Zwolle",
       "matchAr": "تيلستار × بي إي سي زفوله",
       "rawIsoTime": "2026-11-21T20:00:00+00:00",
-      "time": "1 - 2 (44')",
-      "rawMinute": 44,
+      "time": "1 - 2 (45')",
+      "rawMinute": 45,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -429,8 +429,8 @@
       "matchEn": "Groningen v Heerenveen",
       "matchAr": "غرونينغن × هيرنفين",
       "rawIsoTime": "2026-11-21T20:00:00+00:00",
-      "time": "0 - 1 (45')",
-      "rawMinute": 45,
+      "time": "0 - 1 (45+1')",
+      "rawMinute": 46,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -443,8 +443,8 @@
       "matchEn": "Palmeiras v Flamengo",
       "matchAr": "بالميراس × فلامنغو",
       "rawIsoTime": "2026-11-21T19:30:00+00:00",
-      "time": "1 - 0 (55')",
-      "rawMinute": 55,
+      "time": "1 - 0 (56')",
+      "rawMinute": 56,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -457,8 +457,8 @@
       "matchEn": "Bahia v Coritiba",
       "matchAr": "باهيا × كوريتيبا",
       "rawIsoTime": "2026-11-21T20:30:00+00:00",
-      "time": "0 - 0 (13')",
-      "rawMinute": 13,
+      "time": "0 - 0 (14')",
+      "rawMinute": 14,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1802,7 +1802,7 @@
       "matchAr": "سيون × سيرفيت",
       "rawIsoTime": "2026-11-21T19:30:00+00:00",
       "time": "1 - 0 (52')",
-      "rawMinute": 52,
+      "rawMinute": 53,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -1857,8 +1857,8 @@
       "matchEn": "Motherwell v Rangers",
       "matchAr": "ماذرويل × رينجرز",
       "rawIsoTime": "2026-11-21T20:00:00+00:00",
-      "time": "1 - 1 (45')",
-      "rawMinute": 45,
+      "time": "1 - 1 (45+1')",
+      "rawMinute": 46,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -1872,7 +1872,7 @@
       "matchAr": "أرجنتينوس جونيورز × إنديبندينتي",
       "rawIsoTime": "2026-11-21T20:00:00+00:00",
       "time": "0 - 1 (45+1')",
-      "rawMinute": 46,
+      "rawMinute": 47,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -1886,7 +1886,7 @@
       "matchAr": "غيمارايش × براغا",
       "rawIsoTime": "2026-11-21T20:30:00+00:00",
       "time": "0 - 0 (14')",
-      "rawMinute": 14,
+      "rawMinute": 15,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
