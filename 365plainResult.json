@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795353923460,
+  "timestamp": 1795353974437,
   "matches": [
     {
       "matchId": 4741996,
@@ -37,8 +37,8 @@
       "matchEn": "Barcelona v Villarreal",
       "matchAr": "برشلونة × فياريال",
       "rawIsoTime": "2026-11-22T13:00:00+00:00",
-      "time": "0 - 2 (22')",
-      "rawMinute": 23,
+      "time": "0 - 2 (23')",
+      "rawMinute": 24,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -472,7 +472,7 @@
       "matchAr": "دينامو كييف × أوبولون كييف",
       "rawIsoTime": "2026-11-22T11:00:00+00:00",
       "time": "4 - 1 (89')",
-      "rawMinute": 89,
+      "rawMinute": 90,
       "homeGoals": 4,
       "awayGoals": 1,
       "isLive": true
@@ -486,7 +486,7 @@
       "matchAr": "باردوبيتسه × زِبرويُوكا برنو",
       "rawIsoTime": "2026-11-22T12:00:00+00:00",
       "time": "1 - 1 (65')",
-      "rawMinute": 65,
+      "rawMinute": 66,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -555,8 +555,8 @@
       "matchEn": "Sirius v Djurgårdens IF",
       "matchAr": "سيريوس × يورغوردين",
       "rawIsoTime": "2026-11-22T13:00:00+00:00",
-      "time": "0 - 0 (26')",
-      "rawMinute": 26,
+      "time": "0 - 0 (27')",
+      "rawMinute": 27,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -569,8 +569,8 @@
       "matchEn": "BK Häcken v IF Elfsborg",
       "matchAr": "هاكن × إف إل إلفسبورغ",
       "rawIsoTime": "2026-11-22T13:00:00+00:00",
-      "time": "1 - 1 (25')",
-      "rawMinute": 25,
+      "time": "1 - 1 (26')",
+      "rawMinute": 26,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -583,8 +583,8 @@
       "matchEn": "Horsens v Silkeborg",
       "matchAr": "هورسينس × سيلكيبورغ",
       "rawIsoTime": "2026-11-22T13:00:00+00:00",
-      "time": "0 - 0 (25')",
-      "rawMinute": 25,
+      "time": "0 - 0 (26')",
+      "rawMinute": 26,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -598,7 +598,7 @@
       "matchAr": "فيبورغ × رانديرز",
       "rawIsoTime": "2026-11-22T13:00:00+00:00",
       "time": "0 - 0 (24')",
-      "rawMinute": 24,
+      "rawMinute": 25,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -611,8 +611,8 @@
       "matchEn": "Zürich v St. Gallen",
       "matchAr": "زيورخ × سانت غالن",
       "rawIsoTime": "2026-11-22T13:00:00+00:00",
-      "time": "1 - 0 (24')",
-      "rawMinute": 24,
+      "time": "1 - 0 (25')",
+      "rawMinute": 25,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -626,7 +626,7 @@
       "matchAr": "قونيا سبور × بشكتاش",
       "rawIsoTime": "2026-11-22T13:00:00+00:00",
       "time": "0 - 1 (25')",
-      "rawMinute": 25,
+      "rawMinute": 26,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -640,7 +640,7 @@
       "matchAr": "قاسم باشا × ألانيا سبور",
       "rawIsoTime": "2026-11-22T13:00:00+00:00",
       "time": "0 - 0 (26')",
-      "rawMinute": 26,
+      "rawMinute": 27,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -653,8 +653,8 @@
       "matchEn": "Al Taawun v Al Ahli Benghazi",
       "matchAr": "التعاون × الأهلي بنغازي",
       "rawIsoTime": "2026-11-22T13:00:00+00:00",
-      "time": "0 - 0 (21')",
-      "rawMinute": 21,
+      "time": "0 - 0 (22')",
+      "rawMinute": 22,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -668,7 +668,7 @@
       "matchAr": "الإكوادور × أوغندا",
       "rawIsoTime": "2026-11-22T13:00:00+00:00",
       "time": "0 - 0 (25')",
-      "rawMinute": 25,
+      "rawMinute": 26,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
