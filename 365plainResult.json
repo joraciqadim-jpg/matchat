@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795324871268,
+  "timestamp": 1795324935100,
   "matches": [
     {
       "matchId": 4741996,
@@ -373,10 +373,10 @@
       "matchEn": "Gwangju v Bucheon 1995",
       "matchAr": "غوانغجو × بوتشون 1995",
       "rawIsoTime": "2026-11-22T05:00:00+00:00",
-      "time": "0 - 0 (21')",
-      "rawMinute": 21,
+      "time": "0 - 1 (22')",
+      "rawMinute": 23,
       "homeGoals": 0,
-      "awayGoals": 0,
+      "awayGoals": 1,
       "isLive": true
     },
     {
@@ -387,8 +387,8 @@
       "matchEn": "Gimcheon Sangmu v Jeju SK",
       "matchAr": "غيمتشون سانغمو × جيجو إس كيه",
       "rawIsoTime": "2026-11-22T05:00:00+00:00",
-      "time": "0 - 0 (20')",
-      "rawMinute": 20,
+      "time": "0 - 0 (21')",
+      "rawMinute": 22,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
