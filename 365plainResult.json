@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795351271407,
+  "timestamp": 1795351334877,
   "matches": [
     {
       "matchId": 4741996,
@@ -163,8 +163,8 @@
       "matchEn": "Juventus v Venezia",
       "matchAr": "يوفنتوس × فينيزيا",
       "rawIsoTime": "2026-11-22T11:30:00+00:00",
-      "time": "1 - 0 (54')",
-      "rawMinute": 54,
+      "time": "1 - 0 (55')",
+      "rawMinute": 55,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -233,8 +233,8 @@
       "matchEn": "Twente v Willem II",
       "matchAr": "تفنتي × فيلم الثاني",
       "rawIsoTime": "2026-11-22T11:15:00+00:00",
-      "time": "1 - 1 (66')",
-      "rawMinute": 66,
+      "time": "1 - 1 (67')",
+      "rawMinute": 67,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -415,8 +415,8 @@
       "matchEn": "Dynamo Moscow v Krasnodar",
       "matchAr": "دينامو موسكو × كراسنودار",
       "rawIsoTime": "2026-11-22T11:00:00+00:00",
-      "time": "1 - 1 (77')",
-      "rawMinute": 77,
+      "time": "1 - 1 (78')",
+      "rawMinute": 78,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -429,8 +429,8 @@
       "matchEn": "Dynamo Kyiv v Obolon Kyiv",
       "matchAr": "دينامو كييف × أوبولون كييف",
       "rawIsoTime": "2026-11-22T11:00:00+00:00",
-      "time": "3 - 1 (Halftime)",
-      "rawMinute": 45,
+      "time": "3 - 1 (46')",
+      "rawMinute": 46,
       "homeGoals": 3,
       "awayGoals": 1,
       "isLive": true
@@ -444,7 +444,7 @@
       "matchAr": "فيريس ريفنه × بوكوفينا",
       "rawIsoTime": "2026-11-22T11:00:00+00:00",
       "time": "1 - 3 (78')",
-      "rawMinute": 78,
+      "rawMinute": 79,
       "homeGoals": 1,
       "awayGoals": 3,
       "isLive": true
@@ -457,8 +457,8 @@
       "matchEn": "Sanjoanense v Academica",
       "matchAr": "سانجوانينسي × أكاديميكا",
       "rawIsoTime": "2026-11-22T11:00:00+00:00",
-      "time": "1 - 2 (82')",
-      "rawMinute": 82,
+      "time": "1 - 2 (83')",
+      "rawMinute": 83,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -471,8 +471,8 @@
       "matchEn": "Rakow Czestochowa v Widzew Lodz",
       "matchAr": "راكوف تشنستوشوفا × فيدزيف وودج",
       "rawIsoTime": "2026-11-22T11:15:00+00:00",
-      "time": "1 - 1 (68')",
-      "rawMinute": 68,
+      "time": "1 - 1 (69')",
+      "rawMinute": 69,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -485,8 +485,8 @@
       "matchEn": "Pardubice v Zbrojovka Brno",
       "matchAr": "باردوبيتسه × زِبرويُوكا برنو",
       "rawIsoTime": "2026-11-22T12:00:00+00:00",
-      "time": "0 - 1 (41')",
-      "rawMinute": 41,
+      "time": "0 - 1 (42')",
+      "rawMinute": 42,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -500,7 +500,7 @@
       "matchAr": "اليونان × بنما",
       "rawIsoTime": "2026-11-22T12:30:00+00:00",
       "time": "0 - 0 (11')",
-      "rawMinute": 11,
+      "rawMinute": 12,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -513,8 +513,8 @@
       "matchEn": "Denmark v Australia",
       "matchAr": "الدنمارك × أستراليا",
       "rawIsoTime": "2026-11-22T12:30:00+00:00",
-      "time": "0 - 0 (11')",
-      "rawMinute": 11,
+      "time": "0 - 0 (12')",
+      "rawMinute": 12,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -527,8 +527,8 @@
       "matchEn": "SK Beveren v KAA Gent",
       "matchAr": "إس كي بيفيرين × جنت",
       "rawIsoTime": "2026-11-22T12:30:00+00:00",
-      "time": "0 - 0 (11')",
-      "rawMinute": 11,
+      "time": "0 - 0 (12')",
+      "rawMinute": 12,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -541,8 +541,8 @@
       "matchEn": "Sur v Sohar",
       "matchAr": "صور × صحار",
       "rawIsoTime": "2026-11-22T12:35:00+00:00",
-      "time": "0 - 0 (7')",
-      "rawMinute": 7,
+      "time": "0 - 0 (8')",
+      "rawMinute": 8,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
