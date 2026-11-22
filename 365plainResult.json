@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795379471634,
+  "timestamp": 1795379534544,
   "matches": [
     {
       "matchId": 4741996,
@@ -79,8 +79,8 @@
       "matchEn": "Getafe v Atletico Madrid",
       "matchAr": "خيتافي × أتلتيكو مدريد",
       "rawIsoTime": "2026-11-22T20:00:00+00:00",
-      "time": "0 - 2 (31')",
-      "rawMinute": 31,
+      "time": "0 - 2 (32')",
+      "rawMinute": 32,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -149,8 +149,8 @@
       "matchEn": "Olympique de Marseille v Le Mans",
       "matchAr": "أولمبيك مرسيليا × لو مان",
       "rawIsoTime": "2026-11-22T19:45:00+00:00",
-      "time": "2 - 0 (45')",
-      "rawMinute": 46,
+      "time": "2 - 0 (45+2')",
+      "rawMinute": 47,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -219,8 +219,8 @@
       "matchEn": "Atalanta v Inter Milan",
       "matchAr": "أتلانتا × إنتر ميلان",
       "rawIsoTime": "2026-11-22T19:45:00+00:00",
-      "time": "1 - 2 (45+1')",
-      "rawMinute": 47,
+      "time": "1 - 2 (Halftime)",
+      "rawMinute": 45,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -303,9 +303,9 @@
       "matchEn": "Athletico Paranaense v Remo",
       "matchAr": "أتلتيكو باراناينسي × ريمو",
       "rawIsoTime": "2026-11-22T19:00:00+00:00",
-      "time": "2 - 1 (67')",
-      "rawMinute": 67,
-      "homeGoals": 2,
+      "time": "3 - 1 (68')",
+      "rawMinute": 68,
+      "homeGoals": 3,
       "awayGoals": 1,
       "isLive": true
     },
@@ -1325,8 +1325,8 @@
       "matchEn": "Rosario Central v Gimnasia Mendoza",
       "matchAr": "روزاريو سنترال × خيمناسيا ميندوزا",
       "rawIsoTime": "2026-11-22T19:00:00+00:00",
-      "time": "3 - 0 (71')",
-      "rawMinute": 71,
+      "time": "3 - 0 (72')",
+      "rawMinute": 72,
       "homeGoals": 3,
       "awayGoals": 0,
       "isLive": true
