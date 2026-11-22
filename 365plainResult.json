@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795346295207,
+  "timestamp": 1795346356226,
   "matches": [
     {
       "matchId": 4741996,
@@ -233,8 +233,8 @@
       "matchEn": "Twente v Willem II",
       "matchAr": "تفنتي × فيلم الثاني",
       "rawIsoTime": "2026-11-22T11:15:00+00:00",
-      "time": "0 - 0 (1')",
-      "rawMinute": 1,
+      "time": "0 - 0 (2')",
+      "rawMinute": 2,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -401,8 +401,8 @@
       "matchEn": "Erzurumspor v Goztepe",
       "matchAr": "أرضروم سبور × غوزتيبه",
       "rawIsoTime": "2026-11-22T10:30:00+00:00",
-      "time": "0 - 1 (45+3')",
-      "rawMinute": 48,
+      "time": "0 - 1 (45+4')",
+      "rawMinute": 49,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -415,8 +415,8 @@
       "matchEn": "Dynamo Moscow v Krasnodar",
       "matchAr": "دينامو موسكو × كراسنودار",
       "rawIsoTime": "2026-11-22T11:00:00+00:00",
-      "time": "0 - 1 (18')",
-      "rawMinute": 18,
+      "time": "0 - 1 (19')",
+      "rawMinute": 19,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -443,8 +443,8 @@
       "matchEn": "Veres Rivne v Bukovyna",
       "matchAr": "فيريس ريفنه × بوكوفينا",
       "rawIsoTime": "2026-11-22T11:00:00+00:00",
-      "time": "0 - 0 (18')",
-      "rawMinute": 18,
+      "time": "0 - 0 (19')",
+      "rawMinute": 19,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -457,8 +457,8 @@
       "matchEn": "Sanjoanense v Academica",
       "matchAr": "سانجوانينسي × أكاديميكا",
       "rawIsoTime": "2026-11-22T11:00:00+00:00",
-      "time": "1 - 0 (18')",
-      "rawMinute": 18,
+      "time": "1 - 0 (19')",
+      "rawMinute": 19,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -471,8 +471,8 @@
       "matchEn": "Rakow Czestochowa v Widzew Lodz",
       "matchAr": "راكوف تشنستوشوفا × فيدزيف وودج",
       "rawIsoTime": "2026-11-22T11:15:00+00:00",
-      "time": "0 - 0 (2')",
-      "rawMinute": 2,
+      "time": "0 - 0 (3')",
+      "rawMinute": 3,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -526,6 +526,20 @@
       "tournamentAr": "🇧🇪 الدوري البلجيكي للمحترفين",
       "matchEn": "SK Beveren v KAA Gent",
       "matchAr": "إس كي بيفيرين × جنت",
+      "rawIsoTime": "2026-11-22T12:30:00+00:00",
+      "time": "12:30",
+      "rawMinute": 1,
+      "homeGoals": -1,
+      "awayGoals": -1,
+      "isLive": false
+    },
+    {
+      "matchId": 4898525,
+      "competitionId": "131",
+      "tournamentEn": "🇳🇴 Norwegian Eliteserien",
+      "tournamentAr": "🇳🇴 الدوري النرويجي",
+      "matchEn": "Odd BK v Bryne",
+      "matchAr": "أود بي كيه × برينه",
       "rawIsoTime": "2026-11-22T12:30:00+00:00",
       "time": "12:30",
       "rawMinute": 1,
