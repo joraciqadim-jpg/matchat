@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795348151772,
+  "timestamp": 1795348234886,
   "matches": [
     {
       "matchId": 4741996,
@@ -163,8 +163,8 @@
       "matchEn": "Juventus v Venezia",
       "matchAr": "يوفنتوس × فينيزيا",
       "rawIsoTime": "2026-11-22T11:30:00+00:00",
-      "time": "0 - 0 (18')",
-      "rawMinute": 18,
+      "time": "0 - 0 (19')",
+      "rawMinute": 19,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -233,8 +233,8 @@
       "matchEn": "Twente v Willem II",
       "matchAr": "تفنتي × فيلم الثاني",
       "rawIsoTime": "2026-11-22T11:15:00+00:00",
-      "time": "0 - 0 (31')",
-      "rawMinute": 32,
+      "time": "0 - 0 (33')",
+      "rawMinute": 33,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -401,8 +401,8 @@
       "matchEn": "Erzurumspor v Goztepe",
       "matchAr": "أرضروم سبور × غوزتيبه",
       "rawIsoTime": "2026-11-22T10:30:00+00:00",
-      "time": "0 - 1 (57')",
-      "rawMinute": 57,
+      "time": "0 - 1 (58')",
+      "rawMinute": 58,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -415,8 +415,8 @@
       "matchEn": "Dynamo Moscow v Krasnodar",
       "matchAr": "دينامو موسكو × كراسنودار",
       "rawIsoTime": "2026-11-22T11:00:00+00:00",
-      "time": "1 - 1 (45+4')",
-      "rawMinute": 49,
+      "time": "1 - 1 (45+5')",
+      "rawMinute": 51,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -429,8 +429,8 @@
       "matchEn": "Dynamo Kyiv v Obolon Kyiv",
       "matchAr": "دينامو كييف × أوبولون كييف",
       "rawIsoTime": "2026-11-22T11:00:00+00:00",
-      "time": "1 - 0 (16')",
-      "rawMinute": 16,
+      "time": "1 - 0 (17')",
+      "rawMinute": 17,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -443,8 +443,8 @@
       "matchEn": "Veres Rivne v Bukovyna",
       "matchAr": "فيريس ريفنه × بوكوفينا",
       "rawIsoTime": "2026-11-22T11:00:00+00:00",
-      "time": "1 - 0 (45+4')",
-      "rawMinute": 49,
+      "time": "1 - 0 (45+5')",
+      "rawMinute": 50,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -471,8 +471,8 @@
       "matchEn": "Rakow Czestochowa v Widzew Lodz",
       "matchAr": "راكوف تشنستوشوفا × فيدزيف وودج",
       "rawIsoTime": "2026-11-22T11:15:00+00:00",
-      "time": "1 - 0 (33')",
-      "rawMinute": 33,
+      "time": "1 - 0 (34')",
+      "rawMinute": 35,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
