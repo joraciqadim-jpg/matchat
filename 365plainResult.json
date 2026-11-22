@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795372253450,
+  "timestamp": 1795372271526,
   "matches": [
     {
       "matchId": 4741996,
@@ -205,8 +205,8 @@
       "matchEn": "Milan v Frosinone",
       "matchAr": "ميلان × فروزينوني",
       "rawIsoTime": "2026-11-22T17:00:00+00:00",
-      "time": "5 - 1 (71')",
-      "rawMinute": 71,
+      "time": "5 - 1 (72')",
+      "rawMinute": 72,
       "homeGoals": 5,
       "awayGoals": 1,
       "isLive": true
@@ -1227,8 +1227,8 @@
       "matchEn": "Nordsjælland v Copenhagen",
       "matchAr": "نوردشيلاند × كوبنهاغن",
       "rawIsoTime": "2026-11-22T17:00:00+00:00",
-      "time": "3 - 0 (72')",
-      "rawMinute": 72,
+      "time": "3 - 0 (73')",
+      "rawMinute": 73,
       "homeGoals": 3,
       "awayGoals": 0,
       "isLive": true
@@ -1284,7 +1284,7 @@
       "matchAr": "إستريلا أمادورا × بورتيمونينسي",
       "rawIsoTime": "2026-11-22T18:00:00+00:00",
       "time": "0 - 0 (30')",
-      "rawMinute": 30,
+      "rawMinute": 31,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1298,7 +1298,7 @@
       "matchAr": "ساربسبورغ 08 × ليلستروم",
       "rawIsoTime": "2026-11-22T18:15:00+00:00",
       "time": "0 - 0 (16')",
-      "rawMinute": 16,
+      "rawMinute": 17,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
