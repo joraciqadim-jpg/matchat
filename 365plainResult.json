@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795369835179,
+  "timestamp": 1795369871553,
   "matches": [
     {
       "matchId": 4741996,
@@ -23,8 +23,8 @@
       "matchEn": "Liverpool v Manchester United",
       "matchAr": "ليفربول × مانشستر يونايتد",
       "rawIsoTime": "2026-11-22T16:30:00+00:00",
-      "time": "2 - 0 (61')",
-      "rawMinute": 61,
+      "time": "2 - 0 (62')",
+      "rawMinute": 62,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -66,7 +66,7 @@
       "matchAr": "أوساسونا × مالقا",
       "rawIsoTime": "2026-11-22T17:30:00+00:00",
       "time": "1 - 0 (21')",
-      "rawMinute": 21,
+      "rawMinute": 22,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -108,7 +108,7 @@
       "matchAr": "فيردر بريمن × هامبورغ",
       "rawIsoTime": "2026-11-22T16:30:00+00:00",
       "time": "1 - 0 (55')",
-      "rawMinute": 55,
+      "rawMinute": 56,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -135,8 +135,8 @@
       "matchEn": "Lorient v Rennes",
       "matchAr": "لوريان × رين",
       "rawIsoTime": "2026-11-22T16:15:00+00:00",
-      "time": "1 - 1 (77')",
-      "rawMinute": 77,
+      "time": "1 - 1 (78')",
+      "rawMinute": 78,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -1094,6 +1094,34 @@
       "isLive": false
     },
     {
+      "matchId": 4747929,
+      "competitionId": "111",
+      "tournamentEn": "🇦🇹 Austrian Bundesliga",
+      "tournamentAr": "🇦🇹 الدوري النمساوي",
+      "matchEn": "Austria Vienna v Red Bull Salzburg",
+      "matchAr": "أوستريا فيينا × ريد بول سالزبورغ",
+      "rawIsoTime": "2026-11-22T16:00:00+00:00",
+      "time": "1 - 0 (done)",
+      "rawMinute": 90,
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "isLive": false
+    },
+    {
+      "matchId": 4764330,
+      "competitionId": "78",
+      "tournamentEn": "🇹🇷 Turkish Super Lig",
+      "tournamentAr": "🇹🇷 الدوري التركي الممتاز",
+      "matchEn": "Trabzonspor v Eyupspor",
+      "matchAr": "طرابزون سبور × أيوب سبور",
+      "rawIsoTime": "2026-11-22T16:00:00+00:00",
+      "time": "1 - 0 (done)",
+      "rawMinute": 90,
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "isLive": false
+    },
+    {
       "matchId": 4888850,
       "competitionId": "559",
       "tournamentEn": "🇱🇾 Libyan Premier League",
@@ -1130,7 +1158,7 @@
       "matchAr": "أليسوند × روزنبورغ",
       "rawIsoTime": "2026-11-22T16:00:00+00:00",
       "time": "1 - 2 (88')",
-      "rawMinute": 88,
+      "rawMinute": 89,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -1143,38 +1171,10 @@
       "matchEn": "Rodina Moscow v Lokomotiv Moscow",
       "matchAr": "رودينا موسكو × لوكوموتيف موسكو",
       "rawIsoTime": "2026-11-22T16:00:00+00:00",
-      "time": "0 - 1 (90')",
+      "time": "0 - 1 (90+1')",
       "rawMinute": 91,
       "homeGoals": 0,
       "awayGoals": 1,
-      "isLive": true
-    },
-    {
-      "matchId": 4747929,
-      "competitionId": "111",
-      "tournamentEn": "🇦🇹 Austrian Bundesliga",
-      "tournamentAr": "🇦🇹 الدوري النمساوي",
-      "matchEn": "Austria Vienna v Red Bull Salzburg",
-      "matchAr": "أوستريا فيينا × ريد بول سالزبورغ",
-      "rawIsoTime": "2026-11-22T16:00:00+00:00",
-      "time": "1 - 0 (90+3')",
-      "rawMinute": 93,
-      "homeGoals": 1,
-      "awayGoals": 0,
-      "isLive": true
-    },
-    {
-      "matchId": 4764330,
-      "competitionId": "78",
-      "tournamentEn": "🇹🇷 Turkish Super Lig",
-      "tournamentAr": "🇹🇷 الدوري التركي الممتاز",
-      "matchEn": "Trabzonspor v Eyupspor",
-      "matchAr": "طرابزون سبور × أيوب سبور",
-      "rawIsoTime": "2026-11-22T16:00:00+00:00",
-      "time": "1 - 0 (90+2')",
-      "rawMinute": 92,
-      "homeGoals": 1,
-      "awayGoals": 0,
       "isLive": true
     },
     {
@@ -1186,7 +1186,7 @@
       "matchAr": "فيسلا بلوك × ليغيا وارسو",
       "rawIsoTime": "2026-11-22T16:30:00+00:00",
       "time": "0 - 1 (63')",
-      "rawMinute": 63,
+      "rawMinute": 64,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -1270,7 +1270,7 @@
       "matchAr": "أندرلخت × أود هيفرلي لوفين",
       "rawIsoTime": "2026-11-22T17:30:00+00:00",
       "time": "0 - 0 (19')",
-      "rawMinute": 19,
+      "rawMinute": 20,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
