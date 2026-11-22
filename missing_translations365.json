@@ -1,4 +1,180 @@
 {
+  "obolon kyiv": {
+    "en": "Obolon Kyiv",
+    "ar": "أوبولون كييف"
+  },
+  "veres rivne": {
+    "en": "Veres Rivne",
+    "ar": "فيريس ريفني"
+  },
+  "sanjoanense": {
+    "en": "Sanjoanense",
+    "ar": "سانجوانينسي"
+  },
+  "academica": {
+    "en": "Academica",
+    "ar": "أكاديميكا"
+  },
+  "willem ii": {
+    "en": "Willem II",
+    "ar": "فيلم تو"
+  },
+  "venezia": {
+    "en": "Venezia",
+    "ar": "فينيتسيا"
+  },
+  "sk beveren": {
+    "en": "SK Beveren",
+    "ar": "إس كيه بيفيرين"
+  },
+  "sur": {
+    "en": "Sur",
+    "ar": "صور"
+  },
+  "sohar club": {
+    "en": "Sohar",
+    "ar": "صحار"
+  },
+  "if elfsborg": {
+    "en": "IF Elfsborg",
+    "ar": "إلفسبورغ"
+  },
+  "silkeborg": {
+    "en": "Silkeborg",
+    "ar": "سيلكيبورغ"
+  },
+  "kasimpasa": {
+    "en": "Kasimpasa",
+    "ar": "قاسم باشا"
+  },
+  "al taawun": {
+    "en": "Al Taawun",
+    "ar": "التعاون"
+  },
+  "al ahli benghazi": {
+    "en": "Al Ahli Benghazi",
+    "ar": "الأهلي بنغازي"
+  },
+  "wolfsberger ac": {
+    "en": "Wolfsberger",
+    "ar": "فولفسبيرغر"
+  },
+  "al sharara": {
+    "en": "Al Sharara",
+    "ar": "الشرارة"
+  },
+  "tahaddy benghazi": {
+    "en": "Tahaddy Benghazi",
+    "ar": "التحدي بنغازي"
+  },
+  "udinese": {
+    "en": "Udinese",
+    "ar": "أودينيزي"
+  },
+  "churchill brothers": {
+    "en": "Churchill Brothers",
+    "ar": "تشيرشل براذرز"
+  },
+  "mohun bagan": {
+    "en": "Mohun Bagan",
+    "ar": "موهون باغان"
+  },
+  "vitória sernache": {
+    "en": "Vitória Sernache",
+    "ar": "فيتوريا سيرناش"
+  },
+  "lusitania de lourosa fc": {
+    "en": "Lusitania De Lourosa",
+    "ar": "لوسيتانيا دي لوروزا"
+  },
+  "vianense": {
+    "en": "Vianense",
+    "ar": "فيانينسي"
+  },
+  "olhanense": {
+    "en": "Olhanense",
+    "ar": "أولهانينسي"
+  },
+  "al shabab": {
+    "en": "Al Shabab",
+    "ar": "الشباب"
+  },
+  "sc farense": {
+    "en": "Farense",
+    "ar": "فارنسي"
+  },
+  "fatima": {
+    "en": "Fatima",
+    "ar": "فاطيما"
+  },
+  "ittihad al ramtha": {
+    "en": "Ittihad Al Ramtha",
+    "ar": "اتحاد الرمثا"
+  },
+  "mussanah club": {
+    "en": "Mussanah",
+    "ar": "المصنعة"
+  },
+  "dhofar salalah": {
+    "en": "Dhofar Salalah",
+    "ar": "ظفار صلالة"
+  },
+  "lokomotiv moscow": {
+    "en": "Lokomotiv Moscow",
+    "ar": "لوكوموتيف موسكو"
+  },
+  "wisla plock": {
+    "en": "Wisla Plock",
+    "ar": "فيشلا بلوك"
+  },
+  "hamburger sv": {
+    "en": "Hamburger SV",
+    "ar": "هامبورغ"
+  },
+  "al nasr benghazi": {
+    "en": "Al Nasr Benghazi",
+    "ar": "النصر بنغازي"
+  },
+  "hilal benghazi": {
+    "en": "Hilal Benghazi",
+    "ar": "الهلال بنغازي"
+  },
+  "yarmouk": {
+    "en": "Yarmouk",
+    "ar": "اليرموك"
+  },
+  "al-magd": {
+    "en": "Al-Magd",
+    "ar": "المجد"
+  },
+  "olympic zawiya": {
+    "en": "Olympic Zawiya",
+    "ar": "الأولمبي الزاوية"
+  },
+  "portimonense": {
+    "en": "Portimonense",
+    "ar": "بورتيمونينسي"
+  },
+  "standard de liège": {
+    "en": "Standard de Liège",
+    "ar": "ستاندار دو لييج"
+  },
+  "leiria": {
+    "en": "Leiria",
+    "ar": "ليريا"
+  },
+  "leca": {
+    "en": "Leca",
+    "ar": "ليشا"
+  },
+  "torreense": {
+    "en": "Torreense",
+    "ar": "تورينسي"
+  },
+  "river plate": {
+    "en": "River Plate",
+    "ar": "ريفر بليت"
+  },
   "östersunds fk": {
     "en": "Östersunds",
     "ar": "أوسترسوندس"
