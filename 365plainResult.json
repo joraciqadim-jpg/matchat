@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795360751512,
+  "timestamp": 1795360834989,
   "matches": [
     {
       "matchId": 4741996,
@@ -9,8 +9,8 @@
       "matchEn": "Hull City v Brighton",
       "matchAr": "هال سيتي × برايتون",
       "rawIsoTime": "2026-11-22T14:00:00+00:00",
-      "time": "0 - 0 (57')",
-      "rawMinute": 58,
+      "time": "0 - 0 (58')",
+      "rawMinute": 59,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -52,7 +52,7 @@
       "matchAr": "راسينغ سانتاندير × ريال سوسيداد",
       "rawIsoTime": "2026-11-22T15:15:00+00:00",
       "time": "0 - 0 (4')",
-      "rawMinute": 4,
+      "rawMinute": 6,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -93,8 +93,8 @@
       "matchEn": "Augsburg v Mainz 05",
       "matchAr": "أوغسبورغ × ماينتس 05",
       "rawIsoTime": "2026-11-22T14:30:00+00:00",
-      "time": "2 - 0 (45+4')",
-      "rawMinute": 50,
+      "time": "2 - 0 (45+5')",
+      "rawMinute": 51,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -122,7 +122,7 @@
       "matchAr": "باريس × أنجيه",
       "rawIsoTime": "2026-11-22T14:00:00+00:00",
       "time": "2 - 0 (62')",
-      "rawMinute": 62,
+      "rawMinute": 63,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -177,8 +177,8 @@
       "matchEn": "Sassuolo v Genoa",
       "matchAr": "ساسولو × جنوى",
       "rawIsoTime": "2026-11-22T14:00:00+00:00",
-      "time": "0 - 2 (59')",
-      "rawMinute": 59,
+      "time": "0 - 2 (60')",
+      "rawMinute": 61,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -191,8 +191,8 @@
       "matchEn": "Bologna v Udinese",
       "matchAr": "بولونيا × أودينيزي",
       "rawIsoTime": "2026-11-22T14:00:00+00:00",
-      "time": "1 - 0 (59')",
-      "rawMinute": 60,
+      "time": "1 - 0 (61')",
+      "rawMinute": 61,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -247,8 +247,8 @@
       "matchEn": "Sparta Rotterdam v AZ Alkmaar",
       "matchAr": "سبارتا روتردام × ألكمار",
       "rawIsoTime": "2026-11-22T13:30:00+00:00",
-      "time": "1 - 5 (90')",
-      "rawMinute": 90,
+      "time": "1 - 5 (90+1')",
+      "rawMinute": 92,
       "homeGoals": 1,
       "awayGoals": 5,
       "isLive": true
@@ -696,7 +696,7 @@
       "matchAr": "فرنسا × السعودية",
       "rawIsoTime": "2026-11-22T13:30:00+00:00",
       "time": "0 - 1 (90')",
-      "rawMinute": 90,
+      "rawMinute": 92,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -710,7 +710,7 @@
       "matchAr": "دينامو مخاشكالا × سبارتاك موسكو",
       "rawIsoTime": "2026-11-22T13:30:00+00:00",
       "time": "1 - 1 (90')",
-      "rawMinute": 90,
+      "rawMinute": 91,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -724,7 +724,7 @@
       "matchAr": "ألتاش × شتورم غراتس",
       "rawIsoTime": "2026-11-22T13:30:00+00:00",
       "time": "1 - 0 (90+1')",
-      "rawMinute": 91,
+      "rawMinute": 92,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -738,7 +738,7 @@
       "matchAr": "فولفسبيرغر × ريد",
       "rawIsoTime": "2026-11-22T13:30:00+00:00",
       "time": "1 - 1 (90+2')",
-      "rawMinute": 92,
+      "rawMinute": 93,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -752,7 +752,7 @@
       "matchAr": "النادي الإفريقي × الترجي الرياضي",
       "rawIsoTime": "2026-11-22T13:30:00+00:00",
       "time": "0 - 0 (80')",
-      "rawMinute": 80,
+      "rawMinute": 81,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -766,7 +766,7 @@
       "matchAr": "الترجي الجرجيسي × بن قردان",
       "rawIsoTime": "2026-11-22T13:30:00+00:00",
       "time": "1 - 0 (84')",
-      "rawMinute": 84,
+      "rawMinute": 85,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -779,8 +779,8 @@
       "matchEn": "Al Sharara v Tahaddy Benghazi",
       "matchAr": "الشرارة × التحدي بنغازي",
       "rawIsoTime": "2026-11-22T13:30:00+00:00",
-      "time": "0 - 0 (74')",
-      "rawMinute": 75,
+      "time": "0 - 0 (75')",
+      "rawMinute": 76,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -793,8 +793,8 @@
       "matchEn": "GKS Katowice v Lech Poznan",
       "matchAr": "جي كي إس كاتوفيتسه × ليخ بوزنان",
       "rawIsoTime": "2026-11-22T13:45:00+00:00",
-      "time": "0 - 1 (74')",
-      "rawMinute": 75,
+      "time": "0 - 1 (75')",
+      "rawMinute": 76,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -807,8 +807,8 @@
       "matchEn": "Slovacko v Hradec Kralove",
       "matchAr": "سلوفاكو × هرادتس كرالوفه",
       "rawIsoTime": "2026-11-22T14:00:00+00:00",
-      "time": "3 - 2 (58')",
-      "rawMinute": 58,
+      "time": "3 - 2 (59')",
+      "rawMinute": 60,
       "homeGoals": 3,
       "awayGoals": 2,
       "isLive": true
@@ -822,7 +822,7 @@
       "matchAr": "تشيرتشيل براذرز × موهون باغان",
       "rawIsoTime": "2026-11-22T14:00:00+00:00",
       "time": "0 - 1 (59')",
-      "rawMinute": 59,
+      "rawMinute": 60,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -836,7 +836,7 @@
       "matchAr": "فيتوريا سيرناشي × لوسيتانيا دي لوروسا",
       "rawIsoTime": "2026-11-22T14:00:00+00:00",
       "time": "0 - 1 (58')",
-      "rawMinute": 58,
+      "rawMinute": 59,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -850,7 +850,7 @@
       "matchAr": "فيانينسي × ريو آفي",
       "rawIsoTime": "2026-11-22T14:00:00+00:00",
       "time": "1 - 0 (56')",
-      "rawMinute": 56,
+      "rawMinute": 58,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -864,7 +864,7 @@
       "matchAr": "جيل فيسنتي × أولهانينسي",
       "rawIsoTime": "2026-11-22T14:00:00+00:00",
       "time": "3 - 1 (60')",
-      "rawMinute": 60,
+      "rawMinute": 62,
       "homeGoals": 3,
       "awayGoals": 1,
       "isLive": true
@@ -878,7 +878,7 @@
       "matchAr": "اتحاد وجدة × شباب المسيرة العيون",
       "rawIsoTime": "2026-11-22T14:00:00+00:00",
       "time": "1 - 0 (59')",
-      "rawMinute": 59,
+      "rawMinute": 60,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -920,7 +920,7 @@
       "matchAr": "قطر × مصر",
       "rawIsoTime": "2026-11-22T15:00:00+00:00",
       "time": "0 - 1 (19')",
-      "rawMinute": 19,
+      "rawMinute": 21,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -933,8 +933,8 @@
       "matchEn": "Sonderjyske v Odense",
       "matchAr": "سوندر يوسكه × أودنسه",
       "rawIsoTime": "2026-11-22T15:00:00+00:00",
-      "time": "0 - 0 (19')",
-      "rawMinute": 19,
+      "time": "0 - 0 (20')",
+      "rawMinute": 21,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -948,7 +948,7 @@
       "matchAr": "كورتريك × يونيون سان جيلواز",
       "rawIsoTime": "2026-11-22T15:00:00+00:00",
       "time": "0 - 0 (19')",
-      "rawMinute": 19,
+      "rawMinute": 20,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -962,7 +962,7 @@
       "matchAr": "فارينسي × فاطيما",
       "rawIsoTime": "2026-11-22T15:00:00+00:00",
       "time": "0 - 0 (20')",
-      "rawMinute": 20,
+      "rawMinute": 21,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -976,7 +976,7 @@
       "matchAr": "شباب الأردن × اتحاد الرمثا",
       "rawIsoTime": "2026-11-22T15:00:00+00:00",
       "time": "0 - 1 (19')",
-      "rawMinute": 19,
+      "rawMinute": 20,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -989,8 +989,8 @@
       "matchEn": "Chabab Ben Guerir v Union Yacoub El Mansour",
       "matchAr": "شباب بن جرير × اتحاد يعقوب المنصور",
       "rawIsoTime": "2026-11-22T15:00:00+00:00",
-      "time": "1 - 0 (19')",
-      "rawMinute": 19,
+      "time": "1 - 0 (20')",
+      "rawMinute": 21,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -1003,8 +1003,8 @@
       "matchEn": "Mussanah v Dhofar Salalah",
       "matchAr": "المصنعة × ظفار صلالة",
       "rawIsoTime": "2026-11-22T15:00:00+00:00",
-      "time": "0 - 0 (19')",
-      "rawMinute": 19,
+      "time": "0 - 0 (20')",
+      "rawMinute": 21,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
