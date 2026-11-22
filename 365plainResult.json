@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795377975620,
+  "timestamp": 1795378032900,
   "matches": [
     {
       "matchId": 4741996,
@@ -79,8 +79,8 @@
       "matchEn": "Getafe v Atletico Madrid",
       "matchAr": "خيتافي × أتلتيكو مدريد",
       "rawIsoTime": "2026-11-22T20:00:00+00:00",
-      "time": "0 - 0 (6')",
-      "rawMinute": 6,
+      "time": "0 - 0 (7')",
+      "rawMinute": 7,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -149,8 +149,8 @@
       "matchEn": "Olympique de Marseille v Le Mans",
       "matchAr": "أولمبيك مرسيليا × لو مان",
       "rawIsoTime": "2026-11-22T19:45:00+00:00",
-      "time": "0 - 0 (21')",
-      "rawMinute": 21,
+      "time": "0 - 0 (22')",
+      "rawMinute": 22,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -219,8 +219,8 @@
       "matchEn": "Atalanta v Inter Milan",
       "matchAr": "أتلانتا × إنتر ميلان",
       "rawIsoTime": "2026-11-22T19:45:00+00:00",
-      "time": "0 - 1 (21')",
-      "rawMinute": 22,
+      "time": "0 - 1 (23')",
+      "rawMinute": 23,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -1297,8 +1297,8 @@
       "matchEn": "Sarpsborg 08 v Lillestrom",
       "matchAr": "ساربسبورغ 08 × ليلستروم",
       "rawIsoTime": "2026-11-22T18:15:00+00:00",
-      "time": "0 - 2 (88')",
-      "rawMinute": 88,
+      "time": "0 - 2 (89')",
+      "rawMinute": 89,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -1311,8 +1311,8 @@
       "matchEn": "Lommel United v Standard de Liège",
       "matchAr": "لوميل يونايتد × ستاندار دو لييج",
       "rawIsoTime": "2026-11-22T18:15:00+00:00",
-      "time": "1 - 2 (90+4')",
-      "rawMinute": 94,
+      "time": "1 - 2 (90+5')",
+      "rawMinute": 95,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -1325,8 +1325,8 @@
       "matchEn": "Rosario Central v Gimnasia Mendoza",
       "matchAr": "روزاريو سنترال × خيمناسيا ميندوزا",
       "rawIsoTime": "2026-11-22T19:00:00+00:00",
-      "time": "3 - 0 (46')",
-      "rawMinute": 46,
+      "time": "3 - 0 (47')",
+      "rawMinute": 47,
       "homeGoals": 3,
       "awayGoals": 0,
       "isLive": true
@@ -1340,7 +1340,7 @@
       "matchAr": "ليريا × ليشا",
       "rawIsoTime": "2026-11-22T19:30:00+00:00",
       "time": "0 - 1 (34')",
-      "rawMinute": 34,
+      "rawMinute": 35,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
