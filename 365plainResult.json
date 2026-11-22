@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795384030689,
+  "timestamp": 1795384095930,
   "matches": [
     {
       "matchId": 4741996,
@@ -79,8 +79,8 @@
       "matchEn": "Getafe v Atletico Madrid",
       "matchAr": "خيتافي × أتلتيكو مدريد",
       "rawIsoTime": "2026-11-22T20:00:00+00:00",
-      "time": "0 - 2 (87')",
-      "rawMinute": 87,
+      "time": "0 - 2 (88')",
+      "rawMinute": 88,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -317,8 +317,8 @@
       "matchEn": "Fluminense v Mirassol",
       "matchAr": "فلومينينسي × ميراسول",
       "rawIsoTime": "2026-11-22T21:30:00+00:00",
-      "time": "0 - 0 (16')",
-      "rawMinute": 16,
+      "time": "0 - 0 (17')",
+      "rawMinute": 17,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1339,7 +1339,7 @@
       "matchEn": "Leiria v Leca",
       "matchAr": "ليريا × ليشا",
       "rawIsoTime": "2026-11-22T19:30:00+00:00",
-      "time": "3 - 2 (104')",
+      "time": "3 - 2 (105')",
       "rawMinute": 105,
       "homeGoals": 3,
       "awayGoals": 2,
