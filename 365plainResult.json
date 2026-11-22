@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795372334822,
+  "timestamp": 1795372391789,
   "matches": [
     {
       "matchId": 4741996,
@@ -206,7 +206,7 @@
       "matchAr": "ميلان × فروزينوني",
       "rawIsoTime": "2026-11-22T17:00:00+00:00",
       "time": "5 - 1 (73')",
-      "rawMinute": 73,
+      "rawMinute": 74,
       "homeGoals": 5,
       "awayGoals": 1,
       "isLive": true
@@ -1227,9 +1227,9 @@
       "matchEn": "Nordsjælland v Copenhagen",
       "matchAr": "نوردشيلاند × كوبنهاغن",
       "rawIsoTime": "2026-11-22T17:00:00+00:00",
-      "time": "3 - 0 (74')",
-      "rawMinute": 74,
-      "homeGoals": 3,
+      "time": "4 - 0 (75')",
+      "rawMinute": 75,
+      "homeGoals": 4,
       "awayGoals": 0,
       "isLive": true
     },
@@ -1241,10 +1241,10 @@
       "matchEn": "Sparta Praha v Slovan Liberec",
       "matchAr": "سبارتا براغ × سلوفان ليبيريتس",
       "rawIsoTime": "2026-11-22T17:00:00+00:00",
-      "time": "1 - 2 (72')",
-      "rawMinute": 72,
+      "time": "1 - 3 (73')",
+      "rawMinute": 73,
       "homeGoals": 1,
-      "awayGoals": 2,
+      "awayGoals": 3,
       "isLive": true
     },
     {
@@ -1255,8 +1255,8 @@
       "matchEn": "Ittihad Khemisset v US Boujaad",
       "matchAr": "اتحاد الخميسات × اتحاد أبي الجعد",
       "rawIsoTime": "2026-11-22T17:00:00+00:00",
-      "time": "2 - 1 (71')",
-      "rawMinute": 71,
+      "time": "2 - 1 (72')",
+      "rawMinute": 72,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -1283,8 +1283,8 @@
       "matchEn": "Estrela da Amadora v Portimonense",
       "matchAr": "إستريلا أمادورا × بورتيمونينسي",
       "rawIsoTime": "2026-11-22T18:00:00+00:00",
-      "time": "0 - 0 (32')",
-      "rawMinute": 32,
+      "time": "0 - 0 (33')",
+      "rawMinute": 33,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1298,7 +1298,7 @@
       "matchAr": "ساربسبورغ 08 × ليلستروم",
       "rawIsoTime": "2026-11-22T18:15:00+00:00",
       "time": "0 - 0 (18')",
-      "rawMinute": 18,
+      "rawMinute": 19,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1311,8 +1311,8 @@
       "matchEn": "Lommel United v Standard de Liège",
       "matchAr": "لوميل يونايتد × ستاندار دو لييج",
       "rawIsoTime": "2026-11-22T18:15:00+00:00",
-      "time": "0 - 1 (17')",
-      "rawMinute": 17,
+      "time": "0 - 1 (18')",
+      "rawMinute": 18,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
