@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795308494526,
+  "timestamp": 1795308550540,
   "matches": [
     {
       "matchId": 4741996,
@@ -345,11 +345,11 @@
       "matchEn": "Pachuca v Toluca",
       "matchAr": "باتشوكا × تولوكا",
       "rawIsoTime": "2026-11-21T22:50:00+00:00",
-      "time": "2 - 0 (90+5')",
-      "rawMinute": 95,
+      "time": "2 - 0 (done)",
+      "rawMinute": 90,
       "homeGoals": 2,
       "awayGoals": 0,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4735616,
@@ -359,8 +359,8 @@
       "matchEn": "Santos Laguna v Leon",
       "matchAr": "سانتوس لاغونا × ليون",
       "rawIsoTime": "2026-11-21T23:00:00+00:00",
-      "time": "1 - 1 (87')",
-      "rawMinute": 87,
+      "time": "1 - 1 (88')",
+      "rawMinute": 88,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
