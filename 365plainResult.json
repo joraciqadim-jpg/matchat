@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795345575021,
+  "timestamp": 1795345632707,
   "matches": [
     {
       "matchId": 4741996,
@@ -401,8 +401,8 @@
       "matchEn": "Erzurumspor v Goztepe",
       "matchAr": "أرضروم سبور × غوزتيبه",
       "rawIsoTime": "2026-11-22T10:30:00+00:00",
-      "time": "0 - 0 (36')",
-      "rawMinute": 36,
+      "time": "0 - 0 (37')",
+      "rawMinute": 37,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -415,8 +415,8 @@
       "matchEn": "Dynamo Moscow v Krasnodar",
       "matchAr": "دينامو موسكو × كراسنودار",
       "rawIsoTime": "2026-11-22T11:00:00+00:00",
-      "time": "0 - 0 (6')",
-      "rawMinute": 6,
+      "time": "0 - 0 (7')",
+      "rawMinute": 7,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -429,9 +429,9 @@
       "matchEn": "Dynamo Kyiv v Obolon Kyiv",
       "matchAr": "دينامو كييف × أوبولون كييف",
       "rawIsoTime": "2026-11-22T11:00:00+00:00",
-      "time": "0 - 0 (2')",
-      "rawMinute": 2,
-      "homeGoals": 0,
+      "time": "1 - 0 (3')",
+      "rawMinute": 3,
+      "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
     },
@@ -443,8 +443,8 @@
       "matchEn": "Veres Rivne v Bukovyna",
       "matchAr": "فيريس ريفنه × بوكوفينا",
       "rawIsoTime": "2026-11-22T11:00:00+00:00",
-      "time": "0 - 0 (6')",
-      "rawMinute": 6,
+      "time": "0 - 0 (7')",
+      "rawMinute": 7,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -457,8 +457,8 @@
       "matchEn": "Sanjoanense v Academica",
       "matchAr": "سانجوانينسي × أكاديميكا",
       "rawIsoTime": "2026-11-22T11:00:00+00:00",
-      "time": "0 - 0 (5')",
-      "rawMinute": 6,
+      "time": "0 - 0 (7')",
+      "rawMinute": 7,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
