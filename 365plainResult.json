@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795310831161,
+  "timestamp": 1795310894275,
   "matches": [
     {
       "matchId": 4741996,
@@ -289,8 +289,8 @@
       "matchEn": "Chapecoense v Cruzeiro",
       "matchAr": "شابيكوينسي × كروزيرو",
       "rawIsoTime": "2026-11-22T00:00:00+00:00",
-      "time": "0 - 1 (69')",
-      "rawMinute": 69,
+      "time": "0 - 1 (70')",
+      "rawMinute": 70,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -346,7 +346,7 @@
       "matchAr": "بوماس أونام × مونتيري",
       "rawIsoTime": "2026-11-22T01:00:00+00:00",
       "time": "0 - 0 (26')",
-      "rawMinute": 26,
+      "rawMinute": 27,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
