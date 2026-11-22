@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795307654277,
+  "timestamp": 1795307722627,
   "matches": [
     {
       "matchId": 4741996,
@@ -289,8 +289,8 @@
       "matchEn": "Chapecoense v Cruzeiro",
       "matchAr": "شابيكوينسي × كروزيرو",
       "rawIsoTime": "2026-11-22T00:00:00+00:00",
-      "time": "0 - 0 (34')",
-      "rawMinute": 34,
+      "time": "0 - 0 (35')",
+      "rawMinute": 35,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -345,8 +345,8 @@
       "matchEn": "Pachuca v Toluca",
       "matchAr": "باتشوكا × تولوكا",
       "rawIsoTime": "2026-11-21T22:50:00+00:00",
-      "time": "1 - 0 (81')",
-      "rawMinute": 81,
+      "time": "1 - 0 (82')",
+      "rawMinute": 83,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -359,8 +359,8 @@
       "matchEn": "Santos Laguna v Leon",
       "matchAr": "سانتوس لاغونا × ليون",
       "rawIsoTime": "2026-11-21T23:00:00+00:00",
-      "time": "1 - 1 (73')",
-      "rawMinute": 73,
+      "time": "1 - 1 (74')",
+      "rawMinute": 74,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -556,20 +556,6 @@
       "matchAr": "إس كي بيفيرين × جنت",
       "rawIsoTime": "2026-11-22T12:30:00+00:00",
       "time": "12:30",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
-    },
-    {
-      "matchId": 4894688,
-      "competitionId": "5480",
-      "tournamentEn": "🇴🇲 Omani Professional League",
-      "tournamentAr": "🇴🇲 الدوري العُماني للمحترفين",
-      "matchEn": "Sur v Sohar",
-      "matchAr": "صور × صحار",
-      "rawIsoTime": "2026-11-22T12:35:00+00:00",
-      "time": "12:35",
       "rawMinute": 1,
       "homeGoals": -1,
       "awayGoals": -1,
@@ -906,6 +892,20 @@
       "matchAr": "كوريا الجنوبية × كاليدونيا الجديدة",
       "rawIsoTime": "2026-11-22T14:30:00+00:00",
       "time": "14:30",
+      "rawMinute": 1,
+      "homeGoals": -1,
+      "awayGoals": -1,
+      "isLive": false
+    },
+    {
+      "matchId": 4894688,
+      "competitionId": "5480",
+      "tournamentEn": "🇴🇲 Omani Professional League",
+      "tournamentAr": "🇴🇲 الدوري العُماني للمحترفين",
+      "matchEn": "Sur v Sohar",
+      "matchAr": "صور × صحار",
+      "rawIsoTime": "2026-11-22T14:35:00+00:00",
+      "time": "14:35",
       "rawMinute": 1,
       "homeGoals": -1,
       "awayGoals": -1,
