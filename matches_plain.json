@@ -46,41 +46,6 @@
     {
       "tournamentEn": "🇪🇸 Spanish La Liga 1",
       "tournamentAr": "🇪🇸 الدوري الإسباني الممتاز",
-      "matchEn": "Racing Club v Real Sociedad",
-      "matchAr": "راسينغ كلوب × ريال سوسيداد",
-      "time": "15:15",
-      "channels": [
-        "📺 DAZN 1 POR [Hispasat 30W 12399 H 27500]",
-        "📺 DAZN 3 POR [Hispasat 30W 12399 H 27500]",
-        "📺 Bein Sport 2 [Nilesat 7.0W 11013 H 27500]",
-        "📺 5 Sport [Amos 4.0W 11259 V 30000]",
-        "📺 Digi Sport 4 [Thor 0.8W 12687 H 27500]",
-        "📺 Nova Sport 4 CZ [Thor 0.8W 11977 H 30000]",
-        "📺 Spiler TV 2 [Thor 0.8W 11727 V 28000]",
-        "📺 TV 2 Sport Premium [Thor 0.8W 10747 H 25000]",
-        "📺 Max Sport 4 [BulgariaSat 1.9E 12303 H 30000]",
-        "📺 Canal+ Sport [Hotbird 13.0E 11278 V 27500]",
-        "📺 Magenta Sport 4 League [Hotbird 13.0E 11823 H 27500]",
-        "📺 Arena Premium 3 BIH [Eutelsat 16.0E 11231 V 42000]",
-        "📺 Arena Premium 3 SRB [Eutelsat 16.0E 10721 H 30000]",
-        "📺 NW Sport 3 [Eutelsat 16.0E 12604 H 30000]",
-        "📺 Sport Klub 3 SLO [Eutelsat 16.0E 11231 V 42000]",
-        "📺 Super Sport 2 [Eutelsat 16.0E 10845 H 30000]",
-        "📺 M+ LaLiga [Astra 19.2E 10818 V 22000]",
-        "📺 Nova Sport 4 CZ [Eutelsat 23.5E 11934 V 29900]",
-        "📺 Ziggo Sport 2 [Eutelsat 23.5E 12129 V 29900]",
-        "📺 Bein Sport 2 [Badrsat 26.0E 10810 H 27500]",
-        "📺 Premier Sports 1 [Astra 28.2E 12188 H 27500]",
-        "📺 Premier Sports 1 UK [Astra 28.2E 11671 H 23000]",
-        "📺 SuperSport LaLiga [Eutelsat 36.0E 12169 H 27500]",
-        "📺 SuperSport Máximo 3 [Eutelsat 36.0E 12169 H 27500]",
-        "📺 S Sport [Turksat 42.0E 11853 H 25000]",
-        "📺 Match! Futbol 2 [Eutelsat 80.0E 11044 V 45000]"
-      ]
-    },
-    {
-      "tournamentEn": "🇪🇸 Spanish La Liga 1",
-      "tournamentAr": "🇪🇸 الدوري الإسباني الممتاز",
       "matchEn": "Getafe v Atlético Madrid",
       "matchAr": "خيتافي × أتلتيكو مدريد",
       "time": "20:00",
@@ -124,27 +89,6 @@
     {
       "tournamentEn": "🇩🇪 German Bundesliga",
       "tournamentAr": "🇩🇪 الدوري الألماني الممتاز",
-      "matchEn": "Augsburg v Mainz 05",
-      "matchAr": "أوغسبورغ × ماينتس 05",
-      "time": "14:30",
-      "channels": [
-        "📺 DAZN 1 POR [Hispasat 30W 12399 H 27500]",
-        "📺 Sport 6 [Amos 4.0W 11259 V 30000]",
-        "📺 Match 4 [Thor 0.8W 12188 V 28000]",
-        "📺 V Sport 1 [Thor 0.8W 10809 H 25000]",
-        "📺 Diema Sport 3 [Hotbird 13.0E 12673 V 30000]",
-        "📺 Eleven Sports 2 [Hotbird 13.0E 10796 V 27500]",
-        "📺 Nova Sports Start [Hotbird 13.0E 11804 V 30000]",
-        "📺 Sky Sport Max [Hotbird 13.0E 12073 V 29900]",
-        "📺 Arena Premium 4 BIH [Eutelsat 16.0E 11471 H 30000]",
-        "📺 Arena Premium 4 SRB [Eutelsat 16.0E 11366 V 30000]",
-        "📺 Tring Sport 4 [Eutelsat 16.0E 10887 H 30000]",
-        "📺 DAZN 1 GER [Astra 19.2E 12382 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🇩🇪 German Bundesliga",
-      "tournamentAr": "🇩🇪 الدوري الألماني الممتاز",
       "matchEn": "Bremen v Hamburger SV",
       "matchAr": "بريمن × هامبورغ",
       "time": "16:30",
@@ -165,7 +109,7 @@
         "📺 Arena Premium 4 SRB [Eutelsat 16.0E 11366 V 30000]",
         "📺 Tring Sport 3 [Eutelsat 16.0E 10804 H 29950]",
         "📺 DAZN 2 GER [Astra 19.2E 12382 H 27500]",
-        "📺 Nova Sport 3 CZ [Astra 23.5E 11934 V 29900]",
+        "📺 Nova Sport 3 CZ [Eutelsat 23.5E 11934 V 29900]",
         "📺 MBC Action [Badrsat 26.0E 11270 V 27500]"
       ]
     },
@@ -302,69 +246,6 @@
       ]
     },
     {
-      "tournamentEn": "🏁 U-17 World Championship",
-      "tournamentAr": "🏁 بطولة العالم تحت 17 سنة",
-      "matchEn": "South Korea v New Caledonia",
-      "matchAr": "كوريا الجنوبية × كاليدونيا الجديدة",
-      "time": "14:30",
-      "channels": [
-        "📺 Al Kass Nine [Nilesat 7.0W 10834 V 27500]",
-        "📺 Al Kass Nine [Badrsat 26.0E 10770 V 27500]",
-        "📺 Al Kass Nine [Badrsat 26.0E 12169 V 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🏁 U-17 World Championship",
-      "tournamentAr": "🏁 بطولة العالم تحت 17 سنة",
-      "matchEn": "Qatar v Egypt",
-      "matchAr": "قطر × مصر",
-      "time": "15:00",
-      "channels": [
-        "📺 Al Kass One [Nilesat 7.0W 11919 H 27500]",
-        "📺 Al Kass One [Badrsat 26.0E 12245 V 27500]",
-        "📺 Al Kass One [Badrsat 26.0E 10770 V 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🏁 U-17 World Championship",
-      "tournamentAr": "🏁 بطولة العالم تحت 17 سنة",
-      "matchEn": "Argentina v Mozambique",
-      "matchAr": "الأرجنتين × موزمبيق",
-      "time": "15:30",
-      "channels": [
-        "📺 Al Kass Seven [Badrsat 26.0E 10770 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🏁 U-17 World Championship",
-      "tournamentAr": "🏁 بطولة العالم تحت 17 سنة",
-      "matchEn": "Uruguay v Haiti",
-      "matchAr": "أوروغواي × هايتي",
-      "time": "15:30",
-      "channels": [
-        "📺 Al Kass Three [Nilesat 7.0W 11919 H 27500]",
-        "📺 Al Kass Three [Badrsat 26.0E 12245 V 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🏁 Turkish Super Lig",
-      "tournamentAr": "🏁 الدوري التركي",
-      "matchEn": "Trabzonspor v Eyüpspor",
-      "matchAr": "طرابزون سبور × أيوب سبور",
-      "time": "16:00",
-      "channels": [
-        "📺 Sport TV 6 [Hispasat 30W 12360 H 27500]",
-        "📺 Bein Sport 3 [Nilesat 7.0W 12245 V 27500]",
-        "📺 Arena Sport 1x2 [Eutelsat 16.0E 11366 V 30000]",
-        "📺 Sport Klub 4 [Eutelsat 16.0E 11595 V 30000]",
-        "📺 Super Sport 1 [Eutelsat 16.0E 10845 H 30000]",
-        "📺 Arena Sport 1x2 [Eutelsat 23.5E 12402 V 30000]",
-        "📺 Bein Sport 3 [Badrsat 26.0E 10810 H 27500]",
-        "📺 ESPN 2 South Africa [Eutelsat 36.0E 12092 H 27500]",
-        "📺 Match! Futbol 3 [Eutelsat 80.0E 11044 V 45000]"
-      ]
-    },
-    {
       "tournamentEn": "🇦🇷 Argentinean Primera Division - Clausura",
       "tournamentAr": "🇦🇷 الدوري الأرجنتيني الممتاز",
       "matchEn": "River Plate v Lanús",
@@ -399,6 +280,32 @@
         "📺 Sport Klub 3 HRV [Eutelsat 16.0E 11387 H 32000]",
         "📺 Tring Sport 3 [Eutelsat 16.0E 10804 H 29950]",
         "📺 Nova Sport 1 CZ [Eutelsat 23.5E 12266 H 29900]"
+      ]
+    },
+    {
+      "tournamentEn": "🇺🇸 USA NBA",
+      "tournamentAr": "🇺🇸 الدوري الأميركي لكرة السلة",
+      "matchEn": "Miami Heat v Thunder",
+      "matchAr": "ميامي هيت × ثاندر",
+      "time": "23:00",
+      "channels": [
+        "📺 Sport TV 2 [Hispasat 30W 12360 H 27500]",
+        "📺 Bein Sport 1 [Nilesat 7.0W 11013 H 27500]",
+        "📺 5 Sport [Amos 4.0W 11259 V 30000]",
+        "📺 Nova Sport 6 CZ [Thor 0.8W 12527 H 28800]",
+        "📺 Sport 2 HD HUN [Thor 0.8W 12111 V 30000]",
+        "📺 Go 3 Sport 1 [Astra 4.8E 11938 V 27500]",
+        "📺 Diema Sport 3 [Hotbird 13.0E 12673 V 30000]",
+        "📺 Magenta Sport 5 [Hotbird 13.0E 11938 H 30000]",
+        "📺 Arena Premium 1 BIH [Eutelsat 16.0E 11595 V 30000]",
+        "📺 Arena Premium 1 SRB [Eutelsat 16.0E 11366 V 30000]",
+        "📺 Tring Sport 1 [Eutelsat 16.0E 10804 H 29950]",
+        "📺 BeIn Sports 1 France [Astra 19.2E 12168 V 29700]",
+        "📺 Nova Sport 6 CZ [Eutelsat 23.5E 12090 V 29900]",
+        "📺 Bein Sport 1 [Badrsat 26.0E 10810 H 27500]",
+        "📺 BeIn Sports English 1 [Badrsat 26.0E 10850 V 27500]",
+        "📺 BeIn Sports French 1 [Badrsat 26.0E 11390 V 27500]",
+        "📺 S Sport [Turksat 42.0E 11853 H 25000]"
       ]
     }
   ]
