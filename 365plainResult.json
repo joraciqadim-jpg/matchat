@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795362856088,
+  "timestamp": 1795362925126,
   "matches": [
     {
       "matchId": 4741996,
@@ -9,8 +9,8 @@
       "matchEn": "Hull City v Brighton",
       "matchAr": "هال سيتي × برايتون",
       "rawIsoTime": "2026-11-22T14:00:00+00:00",
-      "time": "1 - 0 (90+3')",
-      "rawMinute": 93,
+      "time": "1 - 0 (90+4')",
+      "rawMinute": 94,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -51,8 +51,8 @@
       "matchEn": "Racing Santander v Real Sociedad",
       "matchAr": "راسينغ سانتاندير × ريال سوسيداد",
       "rawIsoTime": "2026-11-22T15:15:00+00:00",
-      "time": "2 - 0 (39')",
-      "rawMinute": 39,
+      "time": "2 - 0 (40')",
+      "rawMinute": 40,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -93,8 +93,8 @@
       "matchEn": "Augsburg v Mainz 05",
       "matchAr": "أوغسبورغ × ماينتس 05",
       "rawIsoTime": "2026-11-22T14:30:00+00:00",
-      "time": "3 - 1 (63')",
-      "rawMinute": 63,
+      "time": "3 - 1 (64')",
+      "rawMinute": 64,
       "homeGoals": 3,
       "awayGoals": 1,
       "isLive": true
@@ -121,11 +121,11 @@
       "matchEn": "Paris v Angers",
       "matchAr": "باريس × أنجيه",
       "rawIsoTime": "2026-11-22T14:00:00+00:00",
-      "time": "4 - 0 (90+7')",
-      "rawMinute": 97,
+      "time": "4 - 0 (done)",
+      "rawMinute": 90,
       "homeGoals": 4,
       "awayGoals": 0,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4735206,
@@ -170,6 +170,20 @@
       "isLive": false
     },
     {
+      "matchId": 4732621,
+      "competitionId": "17",
+      "tournamentEn": "🇮🇹 Italian Serie A",
+      "tournamentAr": "🇮🇹 الدوري الإيطالي",
+      "matchEn": "Sassuolo v Genoa",
+      "matchAr": "ساسولو × جنوى",
+      "rawIsoTime": "2026-11-22T14:00:00+00:00",
+      "time": "0 - 2 (done)",
+      "rawMinute": 90,
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "isLive": false
+    },
+    {
       "matchId": 4732629,
       "competitionId": "17",
       "tournamentEn": "🇮🇹 Italian Serie A",
@@ -182,20 +196,6 @@
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": false
-    },
-    {
-      "matchId": 4732621,
-      "competitionId": "17",
-      "tournamentEn": "🇮🇹 Italian Serie A",
-      "tournamentAr": "🇮🇹 الدوري الإيطالي",
-      "matchEn": "Sassuolo v Genoa",
-      "matchAr": "ساسولو × جنوى",
-      "rawIsoTime": "2026-11-22T14:00:00+00:00",
-      "time": "0 - 2 (90+4')",
-      "rawMinute": 95,
-      "homeGoals": 0,
-      "awayGoals": 2,
-      "isLive": true
     },
     {
       "matchId": 4732625,
@@ -275,8 +275,8 @@
       "matchEn": "Go Ahead Eagles v Fortuna Sittard",
       "matchAr": "غو أهد إيغلز × فورتونا سيتارد",
       "rawIsoTime": "2026-11-22T15:45:00+00:00",
-      "time": "0 - 0 (10')",
-      "rawMinute": 10,
+      "time": "0 - 0 (11')",
+      "rawMinute": 11,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -821,8 +821,8 @@
       "matchEn": "Slovacko v Hradec Kralove",
       "matchAr": "سلوفاكو × هرادتس كرالوفه",
       "rawIsoTime": "2026-11-22T14:00:00+00:00",
-      "time": "4 - 2 (90+3')",
-      "rawMinute": 94,
+      "time": "4 - 2 (90+4')",
+      "rawMinute": 95,
       "homeGoals": 4,
       "awayGoals": 2,
       "isLive": true
@@ -835,8 +835,8 @@
       "matchEn": "Churchill Brothers v Mohun Bagan",
       "matchAr": "تشيرتشيل براذرز × موهون باغان",
       "rawIsoTime": "2026-11-22T14:00:00+00:00",
-      "time": "1 - 2 (90+4')",
-      "rawMinute": 94,
+      "time": "1 - 2 (90+5')",
+      "rawMinute": 95,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -849,8 +849,8 @@
       "matchEn": "Vitória Sernache v Lusitania De Lourosa",
       "matchAr": "فيتوريا سيرناشي × لوسيتانيا دي لوروسا",
       "rawIsoTime": "2026-11-22T14:00:00+00:00",
-      "time": "0 - 1 (90+3')",
-      "rawMinute": 93,
+      "time": "0 - 1 (90+4')",
+      "rawMinute": 94,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -863,8 +863,8 @@
       "matchEn": "Vianense v Rio Ave",
       "matchAr": "فيانينسي × ريو آفي",
       "rawIsoTime": "2026-11-22T14:00:00+00:00",
-      "time": "1 - 0 (90+1')",
-      "rawMinute": 91,
+      "time": "1 - 0 (90+2')",
+      "rawMinute": 92,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -891,8 +891,8 @@
       "matchEn": "Al Shabab v Sahel",
       "matchAr": "الشباب × الساحل",
       "rawIsoTime": "2026-11-22T14:20:00+00:00",
-      "time": "1 - 2 (73')",
-      "rawMinute": 73,
+      "time": "1 - 2 (74')",
+      "rawMinute": 74,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -905,8 +905,8 @@
       "matchEn": "South Korea v New Caledonia",
       "matchAr": "كوريا الجنوبية × كاليدونيا الجديدة",
       "rawIsoTime": "2026-11-22T14:30:00+00:00",
-      "time": "6 - 0 (66')",
-      "rawMinute": 66,
+      "time": "6 - 0 (67')",
+      "rawMinute": 67,
       "homeGoals": 6,
       "awayGoals": 0,
       "isLive": true
@@ -1017,8 +1017,8 @@
       "matchEn": "IF Brommapojkarna v Halmstad",
       "matchAr": "برومابويكارنا × هالمستاد",
       "rawIsoTime": "2026-11-22T15:30:00+00:00",
-      "time": "0 - 2 (24')",
-      "rawMinute": 25,
+      "time": "0 - 2 (26')",
+      "rawMinute": 26,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -1031,8 +1031,8 @@
       "matchEn": "Uruguay v Haiti",
       "matchAr": "الأوروغواي × هايتي",
       "rawIsoTime": "2026-11-22T15:30:00+00:00",
-      "time": "0 - 1 (24')",
-      "rawMinute": 24,
+      "time": "0 - 1 (25')",
+      "rawMinute": 25,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -1045,8 +1045,8 @@
       "matchEn": "Lausanne-Sport v Vaduz",
       "matchAr": "لوزان سبورت × فادوز",
       "rawIsoTime": "2026-11-22T15:30:00+00:00",
-      "time": "0 - 0 (24')",
-      "rawMinute": 24,
+      "time": "0 - 0 (26')",
+      "rawMinute": 26,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1059,8 +1059,8 @@
       "matchEn": "Basel v Luzern",
       "matchAr": "بازل × لوزيرن",
       "rawIsoTime": "2026-11-22T15:30:00+00:00",
-      "time": "0 - 0 (23')",
-      "rawMinute": 23,
+      "time": "0 - 0 (25')",
+      "rawMinute": 25,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1073,8 +1073,8 @@
       "matchEn": "Argentina v Mozambique",
       "matchAr": "الأرجنتين × موزمبيق",
       "rawIsoTime": "2026-11-22T15:30:00+00:00",
-      "time": "1 - 0 (24')",
-      "rawMinute": 24,
+      "time": "1 - 0 (25')",
+      "rawMinute": 25,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
