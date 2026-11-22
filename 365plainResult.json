@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795363271112,
+  "timestamp": 1795363334983,
   "matches": [
     {
       "matchId": 4741996,
@@ -51,10 +51,10 @@
       "matchEn": "Racing Santander v Real Sociedad",
       "matchAr": "راسينغ سانتاندير × ريال سوسيداد",
       "rawIsoTime": "2026-11-22T15:15:00+00:00",
-      "time": "2 - 0 (45+1')",
-      "rawMinute": 46,
+      "time": "2 - 1 (45+2')",
+      "rawMinute": 47,
       "homeGoals": 2,
-      "awayGoals": 0,
+      "awayGoals": 1,
       "isLive": true
     },
     {
@@ -93,8 +93,8 @@
       "matchEn": "Augsburg v Mainz 05",
       "matchAr": "أوغسبورغ × ماينتس 05",
       "rawIsoTime": "2026-11-22T14:30:00+00:00",
-      "time": "3 - 1 (70')",
-      "rawMinute": 70,
+      "time": "3 - 1 (71')",
+      "rawMinute": 71,
       "homeGoals": 3,
       "awayGoals": 1,
       "isLive": true
@@ -275,8 +275,8 @@
       "matchEn": "Go Ahead Eagles v Fortuna Sittard",
       "matchAr": "غو أهد إيغلز × فورتونا سيتارد",
       "rawIsoTime": "2026-11-22T15:45:00+00:00",
-      "time": "0 - 0 (16')",
-      "rawMinute": 16,
+      "time": "0 - 0 (17')",
+      "rawMinute": 17,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -891,8 +891,8 @@
       "matchEn": "Al Shabab v Sahel",
       "matchAr": "الشباب × الساحل",
       "rawIsoTime": "2026-11-22T14:20:00+00:00",
-      "time": "1 - 2 (79')",
-      "rawMinute": 79,
+      "time": "1 - 2 (80')",
+      "rawMinute": 81,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -905,8 +905,8 @@
       "matchEn": "South Korea v New Caledonia",
       "matchAr": "كوريا الجنوبية × كاليدونيا الجديدة",
       "rawIsoTime": "2026-11-22T14:30:00+00:00",
-      "time": "6 - 0 (72')",
-      "rawMinute": 73,
+      "time": "6 - 0 (74')",
+      "rawMinute": 74,
       "homeGoals": 6,
       "awayGoals": 0,
       "isLive": true
@@ -1017,8 +1017,8 @@
       "matchEn": "IF Brommapojkarna v Halmstad",
       "matchAr": "برومابويكارنا × هالمستاد",
       "rawIsoTime": "2026-11-22T15:30:00+00:00",
-      "time": "0 - 2 (31')",
-      "rawMinute": 31,
+      "time": "0 - 2 (32')",
+      "rawMinute": 33,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -1031,8 +1031,8 @@
       "matchEn": "Uruguay v Haiti",
       "matchAr": "الأوروغواي × هايتي",
       "rawIsoTime": "2026-11-22T15:30:00+00:00",
-      "time": "0 - 1 (31')",
-      "rawMinute": 31,
+      "time": "0 - 1 (32')",
+      "rawMinute": 32,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -1045,8 +1045,8 @@
       "matchEn": "Lausanne-Sport v Vaduz",
       "matchAr": "لوزان سبورت × فادوز",
       "rawIsoTime": "2026-11-22T15:30:00+00:00",
-      "time": "0 - 0 (31')",
-      "rawMinute": 31,
+      "time": "0 - 0 (32')",
+      "rawMinute": 32,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1059,8 +1059,8 @@
       "matchEn": "Basel v Luzern",
       "matchAr": "بازل × لوزيرن",
       "rawIsoTime": "2026-11-22T15:30:00+00:00",
-      "time": "0 - 0 (30')",
-      "rawMinute": 30,
+      "time": "0 - 0 (31')",
+      "rawMinute": 31,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1073,8 +1073,8 @@
       "matchEn": "Argentina v Mozambique",
       "matchAr": "الأرجنتين × موزمبيق",
       "rawIsoTime": "2026-11-22T15:30:00+00:00",
-      "time": "1 - 0 (31')",
-      "rawMinute": 31,
+      "time": "1 - 0 (32')",
+      "rawMinute": 32,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -1101,8 +1101,8 @@
       "matchEn": "Kristiansund v Sandefjord",
       "matchAr": "كريستيانسوند × ساندفيورد",
       "rawIsoTime": "2026-11-22T16:00:00+00:00",
-      "time": "0 - 0 (1')",
-      "rawMinute": 1,
+      "time": "0 - 0 (2')",
+      "rawMinute": 2,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1115,8 +1115,8 @@
       "matchEn": "Aalesund v Rosenborg",
       "matchAr": "أليسوند × روزنبورغ",
       "rawIsoTime": "2026-11-22T16:00:00+00:00",
-      "time": "0 - 0 (1')",
-      "rawMinute": 1,
+      "time": "0 - 0 (2')",
+      "rawMinute": 2,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1129,8 +1129,8 @@
       "matchEn": "Rodina Moscow v Lokomotiv Moscow",
       "matchAr": "رودينا موسكو × لوكوموتيف موسكو",
       "rawIsoTime": "2026-11-22T16:00:00+00:00",
-      "time": "0 - 0 (1')",
-      "rawMinute": 1,
+      "time": "0 - 0 (2')",
+      "rawMinute": 2,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1143,8 +1143,8 @@
       "matchEn": "Austria Vienna v Red Bull Salzburg",
       "matchAr": "أوستريا فيينا × ريد بول سالزبورغ",
       "rawIsoTime": "2026-11-22T16:00:00+00:00",
-      "time": "0 - 0 (1')",
-      "rawMinute": 1,
+      "time": "0 - 0 (2')",
+      "rawMinute": 2,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1157,8 +1157,8 @@
       "matchEn": "Trabzonspor v Eyupspor",
       "matchAr": "طرابزون سبور × أيوب سبور",
       "rawIsoTime": "2026-11-22T16:00:00+00:00",
-      "time": "0 - 0 (1')",
-      "rawMinute": 1,
+      "time": "0 - 0 (2')",
+      "rawMinute": 2,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
