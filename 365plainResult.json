@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795378032900,
+  "timestamp": 1795378095571,
   "matches": [
     {
       "matchId": 4741996,
@@ -79,8 +79,8 @@
       "matchEn": "Getafe v Atletico Madrid",
       "matchAr": "خيتافي × أتلتيكو مدريد",
       "rawIsoTime": "2026-11-22T20:00:00+00:00",
-      "time": "0 - 0 (7')",
-      "rawMinute": 7,
+      "time": "0 - 0 (8')",
+      "rawMinute": 8,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -149,8 +149,8 @@
       "matchEn": "Olympique de Marseille v Le Mans",
       "matchAr": "أولمبيك مرسيليا × لو مان",
       "rawIsoTime": "2026-11-22T19:45:00+00:00",
-      "time": "0 - 0 (22')",
-      "rawMinute": 22,
+      "time": "0 - 0 (23')",
+      "rawMinute": 23,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -220,7 +220,7 @@
       "matchAr": "أتلانتا × إنتر ميلان",
       "rawIsoTime": "2026-11-22T19:45:00+00:00",
       "time": "0 - 1 (23')",
-      "rawMinute": 23,
+      "rawMinute": 24,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -1290,20 +1290,6 @@
       "isLive": false
     },
     {
-      "matchId": 4638371,
-      "competitionId": "131",
-      "tournamentEn": "🇳🇴 Norwegian Eliteserien",
-      "tournamentAr": "🇳🇴 الدوري النرويجي",
-      "matchEn": "Sarpsborg 08 v Lillestrom",
-      "matchAr": "ساربسبورغ 08 × ليلستروم",
-      "rawIsoTime": "2026-11-22T18:15:00+00:00",
-      "time": "0 - 2 (89')",
-      "rawMinute": 89,
-      "homeGoals": 0,
-      "awayGoals": 2,
-      "isLive": true
-    },
-    {
       "matchId": 4740681,
       "competitionId": "98",
       "tournamentEn": "🇧🇪 Belgian Jupiler Pro League",
@@ -1311,9 +1297,23 @@
       "matchEn": "Lommel United v Standard de Liège",
       "matchAr": "لوميل يونايتد × ستاندار دو لييج",
       "rawIsoTime": "2026-11-22T18:15:00+00:00",
-      "time": "1 - 2 (90+5')",
-      "rawMinute": 95,
+      "time": "1 - 2 (done)",
+      "rawMinute": 90,
       "homeGoals": 1,
+      "awayGoals": 2,
+      "isLive": false
+    },
+    {
+      "matchId": 4638371,
+      "competitionId": "131",
+      "tournamentEn": "🇳🇴 Norwegian Eliteserien",
+      "tournamentAr": "🇳🇴 الدوري النرويجي",
+      "matchEn": "Sarpsborg 08 v Lillestrom",
+      "matchAr": "ساربسبورغ 08 × ليلستروم",
+      "rawIsoTime": "2026-11-22T18:15:00+00:00",
+      "time": "0 - 2 (90')",
+      "rawMinute": 91,
+      "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
     },
@@ -1325,8 +1325,8 @@
       "matchEn": "Rosario Central v Gimnasia Mendoza",
       "matchAr": "روزاريو سنترال × خيمناسيا ميندوزا",
       "rawIsoTime": "2026-11-22T19:00:00+00:00",
-      "time": "3 - 0 (47')",
-      "rawMinute": 47,
+      "time": "3 - 0 (48')",
+      "rawMinute": 48,
       "homeGoals": 3,
       "awayGoals": 0,
       "isLive": true
@@ -1339,8 +1339,8 @@
       "matchEn": "Leiria v Leca",
       "matchAr": "ليريا × ليشا",
       "rawIsoTime": "2026-11-22T19:30:00+00:00",
-      "time": "0 - 1 (34')",
-      "rawMinute": 35,
+      "time": "0 - 1 (36')",
+      "rawMinute": 36,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
