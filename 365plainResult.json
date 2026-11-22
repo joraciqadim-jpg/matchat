@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795365052377,
+  "timestamp": 1795365071981,
   "matches": [
     {
       "matchId": 4741996,
@@ -23,8 +23,8 @@
       "matchEn": "Liverpool v Manchester United",
       "matchAr": "ليفربول × مانشستر يونايتد",
       "rawIsoTime": "2026-11-22T16:30:00+00:00",
-      "time": "0 - 0 (1')",
-      "rawMinute": 1,
+      "time": "0 - 0 (2')",
+      "rawMinute": 2,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -920,7 +920,7 @@
       "matchAr": "قطر × مصر",
       "rawIsoTime": "2026-11-22T15:00:00+00:00",
       "time": "0 - 2 (71')",
-      "rawMinute": 71,
+      "rawMinute": 72,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -948,7 +948,7 @@
       "matchAr": "كورتريك × يونيون سان جيلواز",
       "rawIsoTime": "2026-11-22T15:00:00+00:00",
       "time": "0 - 0 (69')",
-      "rawMinute": 69,
+      "rawMinute": 70,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -962,7 +962,7 @@
       "matchAr": "فارينسي × فاطيما",
       "rawIsoTime": "2026-11-22T15:00:00+00:00",
       "time": "1 - 0 (70')",
-      "rawMinute": 70,
+      "rawMinute": 71,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -976,7 +976,7 @@
       "matchAr": "شباب الأردن × اتحاد الرمثا",
       "rawIsoTime": "2026-11-22T15:00:00+00:00",
       "time": "2 - 1 (72')",
-      "rawMinute": 72,
+      "rawMinute": 73,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -989,8 +989,8 @@
       "matchEn": "Chabab Ben Guerir v Union Yacoub El Mansour",
       "matchAr": "شباب بن جرير × اتحاد يعقوب المنصور",
       "rawIsoTime": "2026-11-22T15:00:00+00:00",
-      "time": "2 - 0 (69')",
-      "rawMinute": 69,
+      "time": "2 - 0 (70')",
+      "rawMinute": 70,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -1101,8 +1101,8 @@
       "matchEn": "Kristiansund v Sandefjord",
       "matchAr": "كريستيانسوند × ساندفيورد",
       "rawIsoTime": "2026-11-22T16:00:00+00:00",
-      "time": "0 - 1 (30')",
-      "rawMinute": 30,
+      "time": "0 - 1 (31')",
+      "rawMinute": 31,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -1199,8 +1199,8 @@
       "matchEn": "Jahra v Yarmouk",
       "matchAr": "الجهراء × اليرموك",
       "rawIsoTime": "2026-11-22T16:30:00+00:00",
-      "time": "0 - 0 (1')",
-      "rawMinute": 1,
+      "time": "0 - 0 (2')",
+      "rawMinute": 2,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
