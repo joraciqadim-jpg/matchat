@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795386671496,
+  "timestamp": 1795386734936,
   "matches": [
     {
       "matchId": 4741996,
@@ -331,11 +331,11 @@
       "matchEn": "RB Bragantino v Vasco da Gama",
       "matchAr": "براغانتينو × فاسكو دي غاما",
       "rawIsoTime": "2026-11-22T22:30:00+00:00",
-      "time": "22:30",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4735612,
@@ -1353,10 +1353,10 @@
       "matchEn": "Torreense v Benfica",
       "matchAr": "تورينسي × بنفيكا",
       "rawIsoTime": "2026-11-22T20:45:00+00:00",
-      "time": "1 - 2 (85')",
-      "rawMinute": 85,
+      "time": "1 - 3 (86')",
+      "rawMinute": 86,
       "homeGoals": 1,
-      "awayGoals": 2,
+      "awayGoals": 3,
       "isLive": true
     },
     {
@@ -1367,10 +1367,10 @@
       "matchEn": "River Plate v Lanus",
       "matchAr": "ريفر بليت × لانوس",
       "rawIsoTime": "2026-11-22T22:00:00+00:00",
-      "time": "1 - 0 (31')",
-      "rawMinute": 31,
+      "time": "1 - 1 (32')",
+      "rawMinute": 32,
       "homeGoals": 1,
-      "awayGoals": 0,
+      "awayGoals": 1,
       "isLive": true
     },
     {
