@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795378236475,
+  "timestamp": 1795378272333,
   "matches": [
     {
       "matchId": 4741996,
@@ -79,8 +79,8 @@
       "matchEn": "Getafe v Atletico Madrid",
       "matchAr": "خيتافي × أتلتيكو مدريد",
       "rawIsoTime": "2026-11-22T20:00:00+00:00",
-      "time": "0 - 1 (10')",
-      "rawMinute": 10,
+      "time": "0 - 1 (11')",
+      "rawMinute": 11,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -149,8 +149,8 @@
       "matchEn": "Olympique de Marseille v Le Mans",
       "matchAr": "أولمبيك مرسيليا × لو مان",
       "rawIsoTime": "2026-11-22T19:45:00+00:00",
-      "time": "0 - 0 (25')",
-      "rawMinute": 25,
+      "time": "0 - 0 (26')",
+      "rawMinute": 26,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -220,7 +220,7 @@
       "matchAr": "أتلانتا × إنتر ميلان",
       "rawIsoTime": "2026-11-22T19:45:00+00:00",
       "time": "0 - 1 (26')",
-      "rawMinute": 26,
+      "rawMinute": 27,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -1325,8 +1325,8 @@
       "matchEn": "Rosario Central v Gimnasia Mendoza",
       "matchAr": "روزاريو سنترال × خيمناسيا ميندوزا",
       "rawIsoTime": "2026-11-22T19:00:00+00:00",
-      "time": "3 - 0 (50')",
-      "rawMinute": 50,
+      "time": "3 - 0 (51')",
+      "rawMinute": 51,
       "homeGoals": 3,
       "awayGoals": 0,
       "isLive": true
@@ -1339,8 +1339,8 @@
       "matchEn": "Leiria v Leca",
       "matchAr": "ليريا × ليشا",
       "rawIsoTime": "2026-11-22T19:30:00+00:00",
-      "time": "0 - 1 (38')",
-      "rawMinute": 38,
+      "time": "0 - 1 (39')",
+      "rawMinute": 39,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
