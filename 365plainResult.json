@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795382435148,
+  "timestamp": 1795382471654,
   "matches": [
     {
       "matchId": 4741996,
@@ -149,7 +149,7 @@
       "matchEn": "Olympique de Marseille v Le Mans",
       "matchAr": "أولمبيك مرسيليا × لو مان",
       "rawIsoTime": "2026-11-22T19:45:00+00:00",
-      "time": "2 - 1 (75')",
+      "time": "2 - 1 (76')",
       "rawMinute": 76,
       "homeGoals": 2,
       "awayGoals": 1,
@@ -219,8 +219,8 @@
       "matchEn": "Atalanta v Inter Milan",
       "matchAr": "أتلانتا × إنتر ميلان",
       "rawIsoTime": "2026-11-22T19:45:00+00:00",
-      "time": "2 - 4 (76')",
-      "rawMinute": 77,
+      "time": "2 - 4 (77')",
+      "rawMinute": 78,
       "homeGoals": 2,
       "awayGoals": 4,
       "isLive": true
@@ -1339,8 +1339,8 @@
       "matchEn": "Leiria v Leca",
       "matchAr": "ليريا × ليشا",
       "rawIsoTime": "2026-11-22T19:30:00+00:00",
-      "time": "2 - 1 (87')",
-      "rawMinute": 87,
+      "time": "2 - 1 (88')",
+      "rawMinute": 88,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
