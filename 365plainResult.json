@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795357851074,
+  "timestamp": 1795357871281,
   "matches": [
     {
       "matchId": 4741996,
@@ -9,7 +9,7 @@
       "matchEn": "Hull City v Brighton",
       "matchAr": "هال سيتي × برايتون",
       "rawIsoTime": "2026-11-22T14:00:00+00:00",
-      "time": "0 - 0 (29')",
+      "time": "0 - 0 (30')",
       "rawMinute": 30,
       "homeGoals": 0,
       "awayGoals": 0,
@@ -37,9 +37,9 @@
       "matchEn": "Barcelona v Villarreal",
       "matchAr": "برشلونة × فياريال",
       "rawIsoTime": "2026-11-22T13:00:00+00:00",
-      "time": "2 - 2 (66')",
-      "rawMinute": 66,
-      "homeGoals": 2,
+      "time": "3 - 2 (67')",
+      "rawMinute": 67,
+      "homeGoals": 3,
       "awayGoals": 2,
       "isLive": true
     },
@@ -93,8 +93,8 @@
       "matchEn": "Augsburg v Mainz 05",
       "matchAr": "أوغسبورغ × ماينتس 05",
       "rawIsoTime": "2026-11-22T14:30:00+00:00",
-      "time": "0 - 0 (1')",
-      "rawMinute": 1,
+      "time": "0 - 0 (2')",
+      "rawMinute": 2,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -178,7 +178,7 @@
       "matchAr": "ساسولو × جنوى",
       "rawIsoTime": "2026-11-22T14:00:00+00:00",
       "time": "0 - 1 (29')",
-      "rawMinute": 29,
+      "rawMinute": 30,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -556,7 +556,7 @@
       "matchAr": "سيريوس × يورغوردين",
       "rawIsoTime": "2026-11-22T13:00:00+00:00",
       "time": "1 - 0 (74')",
-      "rawMinute": 74,
+      "rawMinute": 75,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -598,7 +598,7 @@
       "matchAr": "فيبورغ × رانديرز",
       "rawIsoTime": "2026-11-22T13:00:00+00:00",
       "time": "0 - 0 (71')",
-      "rawMinute": 71,
+      "rawMinute": 72,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -779,8 +779,8 @@
       "matchEn": "GKS Katowice v Lech Poznan",
       "matchAr": "جي كي إس كاتوفيتسه × ليخ بوزنان",
       "rawIsoTime": "2026-11-22T13:45:00+00:00",
-      "time": "0 - 0 (44')",
-      "rawMinute": 44,
+      "time": "0 - 0 (45')",
+      "rawMinute": 45,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -794,7 +794,7 @@
       "matchAr": "سلوفاكو × هرادتس كرالوفه",
       "rawIsoTime": "2026-11-22T14:00:00+00:00",
       "time": "1 - 1 (31')",
-      "rawMinute": 31,
+      "rawMinute": 32,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -821,8 +821,8 @@
       "matchEn": "Vitória Sernache v Lusitania De Lourosa",
       "matchAr": "فيتوريا سيرناشي × لوسيتانيا دي لوروسا",
       "rawIsoTime": "2026-11-22T14:00:00+00:00",
-      "time": "0 - 1 (29')",
-      "rawMinute": 29,
+      "time": "0 - 1 (30')",
+      "rawMinute": 30,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -835,7 +835,7 @@
       "matchEn": "Vianense v Rio Ave",
       "matchAr": "فيانينسي × ريو آفي",
       "rawIsoTime": "2026-11-22T14:00:00+00:00",
-      "time": "0 - 0 (28')",
+      "time": "0 - 0 (29')",
       "rawMinute": 29,
       "homeGoals": 0,
       "awayGoals": 0,
@@ -849,7 +849,7 @@
       "matchEn": "Gil Vicente v Olhanense",
       "matchAr": "جيل فيسنتي × أولهانينسي",
       "rawIsoTime": "2026-11-22T14:00:00+00:00",
-      "time": "1 - 0 (29')",
+      "time": "1 - 0 (30')",
       "rawMinute": 30,
       "homeGoals": 1,
       "awayGoals": 0,
@@ -891,11 +891,11 @@
       "matchEn": "South Korea v New Caledonia",
       "matchAr": "كوريا الجنوبية × كاليدونيا الجديدة",
       "rawIsoTime": "2026-11-22T14:30:00+00:00",
-      "time": "14:30",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4722854,
