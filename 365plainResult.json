@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795379450629,
+  "timestamp": 1795379471634,
   "matches": [
     {
       "matchId": 4741996,
@@ -150,7 +150,7 @@
       "matchAr": "أولمبيك مرسيليا × لو مان",
       "rawIsoTime": "2026-11-22T19:45:00+00:00",
       "time": "2 - 0 (45')",
-      "rawMinute": 45,
+      "rawMinute": 46,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -220,7 +220,7 @@
       "matchAr": "أتلانتا × إنتر ميلان",
       "rawIsoTime": "2026-11-22T19:45:00+00:00",
       "time": "1 - 2 (45+1')",
-      "rawMinute": 46,
+      "rawMinute": 47,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
