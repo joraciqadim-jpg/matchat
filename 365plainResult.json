@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795382174784,
+  "timestamp": 1795382231705,
   "matches": [
     {
       "matchId": 4741996,
@@ -79,8 +79,8 @@
       "matchEn": "Getafe v Atletico Madrid",
       "matchAr": "خيتافي × أتلتيكو مدريد",
       "rawIsoTime": "2026-11-22T20:00:00+00:00",
-      "time": "0 - 2 (56')",
-      "rawMinute": 56,
+      "time": "0 - 2 (57')",
+      "rawMinute": 57,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -149,8 +149,8 @@
       "matchEn": "Olympique de Marseille v Le Mans",
       "matchAr": "أولمبيك مرسيليا × لو مان",
       "rawIsoTime": "2026-11-22T19:45:00+00:00",
-      "time": "2 - 1 (71')",
-      "rawMinute": 71,
+      "time": "2 - 1 (72')",
+      "rawMinute": 72,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -220,7 +220,7 @@
       "matchAr": "أتلانتا × إنتر ميلان",
       "rawIsoTime": "2026-11-22T19:45:00+00:00",
       "time": "2 - 3 (73')",
-      "rawMinute": 73,
+      "rawMinute": 74,
       "homeGoals": 2,
       "awayGoals": 3,
       "isLive": true
@@ -1339,9 +1339,9 @@
       "matchEn": "Leiria v Leca",
       "matchAr": "ليريا × ليشا",
       "rawIsoTime": "2026-11-22T19:30:00+00:00",
-      "time": "1 - 1 (83')",
-      "rawMinute": 83,
-      "homeGoals": 1,
+      "time": "2 - 1 (84')",
+      "rawMinute": 84,
+      "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
     },
@@ -1353,10 +1353,10 @@
       "matchEn": "Torreense v Benfica",
       "matchAr": "تورينسي × بنفيكا",
       "rawIsoTime": "2026-11-22T20:45:00+00:00",
-      "time": "0 - 0 (30')",
-      "rawMinute": 30,
+      "time": "0 - 1 (31')",
+      "rawMinute": 31,
       "homeGoals": 0,
-      "awayGoals": 0,
+      "awayGoals": 1,
       "isLive": true
     },
     {
