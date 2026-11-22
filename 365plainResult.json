@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795354252228,
+  "timestamp": 1795354272125,
   "matches": [
     {
       "matchId": 4741996,
@@ -38,7 +38,7 @@
       "matchAr": "برشلونة × فياريال",
       "rawIsoTime": "2026-11-22T13:00:00+00:00",
       "time": "0 - 2 (28')",
-      "rawMinute": 28,
+      "rawMinute": 29,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -486,7 +486,7 @@
       "matchAr": "باردوبيتسه × زِبرويُوكا برنو",
       "rawIsoTime": "2026-11-22T12:00:00+00:00",
       "time": "1 - 1 (70')",
-      "rawMinute": 70,
+      "rawMinute": 71,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -556,7 +556,7 @@
       "matchAr": "سيريوس × يورغوردين",
       "rawIsoTime": "2026-11-22T13:00:00+00:00",
       "time": "0 - 0 (31')",
-      "rawMinute": 31,
+      "rawMinute": 32,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -597,8 +597,8 @@
       "matchEn": "Viborg v Randers",
       "matchAr": "فيبورغ × رانديرز",
       "rawIsoTime": "2026-11-22T13:00:00+00:00",
-      "time": "0 - 0 (29')",
-      "rawMinute": 29,
+      "time": "0 - 0 (30')",
+      "rawMinute": 30,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -668,7 +668,7 @@
       "matchAr": "الإكوادور × أوغندا",
       "rawIsoTime": "2026-11-22T13:00:00+00:00",
       "time": "0 - 0 (30')",
-      "rawMinute": 30,
+      "rawMinute": 31,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -709,11 +709,11 @@
       "matchEn": "SCR Altach v Sturm Graz",
       "matchAr": "ألتاش × شتورم غراتس",
       "rawIsoTime": "2026-11-22T13:30:00+00:00",
-      "time": "13:30",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4747930,
