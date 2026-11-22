@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795371855996,
+  "timestamp": 1795371923682,
   "matches": [
     {
       "matchId": 4741996,
@@ -107,8 +107,8 @@
       "matchEn": "Werder Bremen v Hamburger SV",
       "matchAr": "فيردر بريمن × هامبورغ",
       "rawIsoTime": "2026-11-22T16:30:00+00:00",
-      "time": "3 - 0 (88')",
-      "rawMinute": 89,
+      "time": "3 - 0 (90')",
+      "rawMinute": 90,
       "homeGoals": 3,
       "awayGoals": 0,
       "isLive": true
@@ -205,8 +205,8 @@
       "matchEn": "Milan v Frosinone",
       "matchAr": "ميلان × فروزينوني",
       "rawIsoTime": "2026-11-22T17:00:00+00:00",
-      "time": "4 - 1 (65')",
-      "rawMinute": 65,
+      "time": "4 - 1 (66')",
+      "rawMinute": 66,
       "homeGoals": 4,
       "awayGoals": 1,
       "isLive": true
@@ -1164,6 +1164,20 @@
       "isLive": false
     },
     {
+      "matchId": 4736333,
+      "competitionId": "153",
+      "tournamentEn": "🇵🇱 Polish Ekstraklasa",
+      "tournamentAr": "🇵🇱 الدوري البولندي الممتاز",
+      "matchEn": "Wisla Plock v Legia Warszawa",
+      "matchAr": "فيسلا بلوك × ليغيا وارسو",
+      "rawIsoTime": "2026-11-22T16:30:00+00:00",
+      "time": "0 - 1 (done)",
+      "rawMinute": 90,
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "isLive": false
+    },
+    {
       "matchId": 4894577,
       "competitionId": "6005",
       "tournamentEn": "🏆 Kuwaiti Prince Cup",
@@ -1192,20 +1206,6 @@
       "isLive": false
     },
     {
-      "matchId": 4736333,
-      "competitionId": "153",
-      "tournamentEn": "🇵🇱 Polish Ekstraklasa",
-      "tournamentAr": "🇵🇱 الدوري البولندي الممتاز",
-      "matchEn": "Wisla Plock v Legia Warszawa",
-      "matchAr": "فيسلا بلوك × ليغيا وارسو",
-      "rawIsoTime": "2026-11-22T16:30:00+00:00",
-      "time": "0 - 1 (90+7')",
-      "rawMinute": 97,
-      "homeGoals": 0,
-      "awayGoals": 1,
-      "isLive": true
-    },
-    {
       "matchId": 4888857,
       "competitionId": "559",
       "tournamentEn": "🇱🇾 Libyan Premier League",
@@ -1213,8 +1213,8 @@
       "matchEn": "Al Nasr Benghazi v Hilal Benghazi",
       "matchAr": "النصر بنغازي × الهلال بنغازي",
       "rawIsoTime": "2026-11-22T16:30:00+00:00",
-      "time": "0 - 1 (88')",
-      "rawMinute": 88,
+      "time": "0 - 1 (89')",
+      "rawMinute": 90,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -1228,7 +1228,7 @@
       "matchAr": "نوردشيلاند × كوبنهاغن",
       "rawIsoTime": "2026-11-22T17:00:00+00:00",
       "time": "1 - 0 (66')",
-      "rawMinute": 66,
+      "rawMinute": 67,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -1241,8 +1241,8 @@
       "matchEn": "Sparta Praha v Slovan Liberec",
       "matchAr": "سبارتا براغ × سلوفان ليبيريتس",
       "rawIsoTime": "2026-11-22T17:00:00+00:00",
-      "time": "1 - 2 (64')",
-      "rawMinute": 64,
+      "time": "1 - 2 (65')",
+      "rawMinute": 65,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -1255,8 +1255,8 @@
       "matchEn": "Ittihad Khemisset v US Boujaad",
       "matchAr": "اتحاد الخميسات × اتحاد أبي الجعد",
       "rawIsoTime": "2026-11-22T17:00:00+00:00",
-      "time": "1 - 1 (63')",
-      "rawMinute": 63,
+      "time": "1 - 1 (64')",
+      "rawMinute": 64,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -1283,8 +1283,8 @@
       "matchEn": "Estrela da Amadora v Portimonense",
       "matchAr": "إستريلا أمادورا × بورتيمونينسي",
       "rawIsoTime": "2026-11-22T18:00:00+00:00",
-      "time": "0 - 0 (24')",
-      "rawMinute": 24,
+      "time": "0 - 0 (25')",
+      "rawMinute": 25,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1297,8 +1297,8 @@
       "matchEn": "Sarpsborg 08 v Lillestrom",
       "matchAr": "ساربسبورغ 08 × ليلستروم",
       "rawIsoTime": "2026-11-22T18:15:00+00:00",
-      "time": "0 - 0 (10')",
-      "rawMinute": 10,
+      "time": "0 - 0 (11')",
+      "rawMinute": 11,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1311,8 +1311,8 @@
       "matchEn": "Lommel United v Standard de Liège",
       "matchAr": "لوميل يونايتد × ستاندار دو لييج",
       "rawIsoTime": "2026-11-22T18:15:00+00:00",
-      "time": "0 - 1 (9')",
-      "rawMinute": 9,
+      "time": "0 - 1 (10')",
+      "rawMinute": 10,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
