@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795316464808,
+  "timestamp": 1795323663450,
   "matches": [
     {
       "matchId": 4741996,
@@ -359,11 +359,11 @@
       "matchEn": "Tigres UANL v América",
       "matchAr": "تيغريس أونال × أمريكا",
       "rawIsoTime": "2026-11-22T03:00:00+00:00",
-      "time": "03:00",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "time": "0 - 0 (89')",
+      "rawMinute": 89,
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4885465,
@@ -373,11 +373,11 @@
       "matchEn": "Gwangju v Bucheon 1995",
       "matchAr": "غوانغجو × بوتشون 1995",
       "rawIsoTime": "2026-11-22T05:00:00+00:00",
-      "time": "05:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4885467,
