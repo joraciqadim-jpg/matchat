@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795353035103,
+  "timestamp": 1795353071454,
   "matches": [
     {
       "matchId": 4741996,
@@ -163,8 +163,8 @@
       "matchEn": "Juventus v Venezia",
       "matchAr": "يوفنتوس × فينيزيا",
       "rawIsoTime": "2026-11-22T11:30:00+00:00",
-      "time": "4 - 0 (83')",
-      "rawMinute": 83,
+      "time": "4 - 0 (84')",
+      "rawMinute": 84,
       "homeGoals": 4,
       "awayGoals": 0,
       "isLive": true
@@ -471,7 +471,7 @@
       "matchEn": "Dynamo Kyiv v Obolon Kyiv",
       "matchAr": "دينامو كييف × أوبولون كييف",
       "rawIsoTime": "2026-11-22T11:00:00+00:00",
-      "time": "4 - 1 (74')",
+      "time": "4 - 1 (75')",
       "rawMinute": 75,
       "homeGoals": 4,
       "awayGoals": 1,
@@ -486,7 +486,7 @@
       "matchAr": "باردوبيتسه × زِبرويُوكا برنو",
       "rawIsoTime": "2026-11-22T12:00:00+00:00",
       "time": "1 - 1 (50')",
-      "rawMinute": 50,
+      "rawMinute": 51,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -499,8 +499,8 @@
       "matchEn": "Greece v Panama",
       "matchAr": "اليونان × بنما",
       "rawIsoTime": "2026-11-22T12:30:00+00:00",
-      "time": "1 - 0 (40')",
-      "rawMinute": 40,
+      "time": "1 - 0 (41')",
+      "rawMinute": 41,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -513,8 +513,8 @@
       "matchEn": "Denmark v Australia",
       "matchAr": "الدنمارك × أستراليا",
       "rawIsoTime": "2026-11-22T12:30:00+00:00",
-      "time": "0 - 0 (40')",
-      "rawMinute": 40,
+      "time": "0 - 0 (41')",
+      "rawMinute": 41,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -527,8 +527,8 @@
       "matchEn": "SK Beveren v KAA Gent",
       "matchAr": "إس كي بيفيرين × جنت",
       "rawIsoTime": "2026-11-22T12:30:00+00:00",
-      "time": "0 - 0 (40')",
-      "rawMinute": 40,
+      "time": "0 - 0 (41')",
+      "rawMinute": 41,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -541,8 +541,8 @@
       "matchEn": "Sur v Sohar",
       "matchAr": "صور × صحار",
       "rawIsoTime": "2026-11-22T12:35:00+00:00",
-      "time": "0 - 0 (36')",
-      "rawMinute": 36,
+      "time": "0 - 0 (37')",
+      "rawMinute": 37,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -555,8 +555,8 @@
       "matchEn": "Sirius v Djurgårdens IF",
       "matchAr": "سيريوس × يورغوردين",
       "rawIsoTime": "2026-11-22T13:00:00+00:00",
-      "time": "0 - 0 (11')",
-      "rawMinute": 11,
+      "time": "0 - 0 (12')",
+      "rawMinute": 12,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -583,8 +583,8 @@
       "matchEn": "Horsens v Silkeborg",
       "matchAr": "هورسينس × سيلكيبورغ",
       "rawIsoTime": "2026-11-22T13:00:00+00:00",
-      "time": "0 - 0 (10')",
-      "rawMinute": 10,
+      "time": "0 - 0 (11')",
+      "rawMinute": 11,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -597,8 +597,8 @@
       "matchEn": "Viborg v Randers",
       "matchAr": "فيبورغ × رانديرز",
       "rawIsoTime": "2026-11-22T13:00:00+00:00",
-      "time": "0 - 0 (9')",
-      "rawMinute": 9,
+      "time": "0 - 0 (10')",
+      "rawMinute": 10,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -611,7 +611,7 @@
       "matchEn": "Zürich v St. Gallen",
       "matchAr": "زيورخ × سانت غالن",
       "rawIsoTime": "2026-11-22T13:00:00+00:00",
-      "time": "0 - 0 (9')",
+      "time": "0 - 0 (10')",
       "rawMinute": 10,
       "homeGoals": 0,
       "awayGoals": 0,
@@ -625,10 +625,10 @@
       "matchEn": "Konyaspor v Besiktas",
       "matchAr": "قونيا سبور × بشكتاش",
       "rawIsoTime": "2026-11-22T13:00:00+00:00",
-      "time": "0 - 0 (10')",
-      "rawMinute": 10,
+      "time": "0 - 1 (11')",
+      "rawMinute": 11,
       "homeGoals": 0,
-      "awayGoals": 0,
+      "awayGoals": 1,
       "isLive": true
     },
     {
@@ -639,8 +639,8 @@
       "matchEn": "Kasimpasa v Alanyaspor",
       "matchAr": "قاسم باشا × ألانيا سبور",
       "rawIsoTime": "2026-11-22T13:00:00+00:00",
-      "time": "0 - 0 (11')",
-      "rawMinute": 11,
+      "time": "0 - 0 (12')",
+      "rawMinute": 12,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -653,8 +653,8 @@
       "matchEn": "Al Taawun v Al Ahli Benghazi",
       "matchAr": "التعاون × الأهلي بنغازي",
       "rawIsoTime": "2026-11-22T13:00:00+00:00",
-      "time": "0 - 0 (6')",
-      "rawMinute": 6,
+      "time": "0 - 0 (7')",
+      "rawMinute": 7,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -667,8 +667,8 @@
       "matchEn": "Ecuador v Uganda",
       "matchAr": "الإكوادور × أوغندا",
       "rawIsoTime": "2026-11-22T13:00:00+00:00",
-      "time": "0 - 0 (10')",
-      "rawMinute": 10,
+      "time": "0 - 0 (11')",
+      "rawMinute": 11,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
