@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795374134863,
+  "timestamp": 1795374191597,
   "matches": [
     {
       "matchId": 4741996,
@@ -65,7 +65,7 @@
       "matchEn": "Osasuna v Malaga",
       "matchAr": "أوساسونا × مالقا",
       "rawIsoTime": "2026-11-22T17:30:00+00:00",
-      "time": "1 - 0 (75')",
+      "time": "1 - 0 (76')",
       "rawMinute": 76,
       "homeGoals": 1,
       "awayGoals": 0,
@@ -303,8 +303,8 @@
       "matchEn": "Athletico Paranaense v Remo",
       "matchAr": "أتلتيكو باراناينسي × ريمو",
       "rawIsoTime": "2026-11-22T19:00:00+00:00",
-      "time": "0 - 0 (2')",
-      "rawMinute": 2,
+      "time": "0 - 0 (3')",
+      "rawMinute": 3,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1269,8 +1269,8 @@
       "matchEn": "Anderlecht v Oud-Heverlee Leuven",
       "matchAr": "أندرلخت × أود هيفرلي لوفين",
       "rawIsoTime": "2026-11-22T17:30:00+00:00",
-      "time": "0 - 0 (72')",
-      "rawMinute": 72,
+      "time": "0 - 0 (73')",
+      "rawMinute": 73,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1283,8 +1283,8 @@
       "matchEn": "Estrela da Amadora v Portimonense",
       "matchAr": "إستريلا أمادورا × بورتيمونينسي",
       "rawIsoTime": "2026-11-22T18:00:00+00:00",
-      "time": "0 - 0 (Halftime)",
-      "rawMinute": 45,
+      "time": "0 - 0 (45')",
+      "rawMinute": 46,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1297,8 +1297,8 @@
       "matchEn": "Sarpsborg 08 v Lillestrom",
       "matchAr": "ساربسبورغ 08 × ليلستروم",
       "rawIsoTime": "2026-11-22T18:15:00+00:00",
-      "time": "0 - 0 (45+3')",
-      "rawMinute": 48,
+      "time": "0 - 0 (45+4')",
+      "rawMinute": 49,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1325,8 +1325,8 @@
       "matchEn": "Rosario Central v Gimnasia Mendoza",
       "matchAr": "روزاريو سنترال × خيمناسيا ميندوزا",
       "rawIsoTime": "2026-11-22T19:00:00+00:00",
-      "time": "0 - 0 (2')",
-      "rawMinute": 2,
+      "time": "0 - 0 (3')",
+      "rawMinute": 3,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
