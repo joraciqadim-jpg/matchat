@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795391774953,
+  "timestamp": 1795391830844,
   "matches": [
     {
       "matchId": 4741996,
@@ -331,9 +331,9 @@
       "matchEn": "RB Bragantino v Vasco da Gama",
       "matchAr": "براغانتينو × فاسكو دي غاما",
       "rawIsoTime": "2026-11-22T22:30:00+00:00",
-      "time": "0 - 0 (65')",
-      "rawMinute": 65,
-      "homeGoals": 0,
+      "time": "1 - 0 (66')",
+      "rawMinute": 66,
+      "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
     },
