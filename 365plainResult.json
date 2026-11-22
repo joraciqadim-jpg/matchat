@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795364294912,
+  "timestamp": 1795364351164,
   "matches": [
     {
       "matchId": 4741996,
@@ -93,8 +93,8 @@
       "matchEn": "Augsburg v Mainz 05",
       "matchAr": "أوغسبورغ × ماينتس 05",
       "rawIsoTime": "2026-11-22T14:30:00+00:00",
-      "time": "3 - 1 (87')",
-      "rawMinute": 87,
+      "time": "3 - 1 (88')",
+      "rawMinute": 88,
       "homeGoals": 3,
       "awayGoals": 1,
       "isLive": true
@@ -135,8 +135,8 @@
       "matchEn": "Lorient v Rennes",
       "matchAr": "لوريان × رين",
       "rawIsoTime": "2026-11-22T16:15:00+00:00",
-      "time": "0 - 0 (3')",
-      "rawMinute": 3,
+      "time": "0 - 0 (4')",
+      "rawMinute": 4,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -275,8 +275,8 @@
       "matchEn": "Go Ahead Eagles v Fortuna Sittard",
       "matchAr": "غو أهد إيغلز × فورتونا سيتارد",
       "rawIsoTime": "2026-11-22T15:45:00+00:00",
-      "time": "0 - 0 (33')",
-      "rawMinute": 33,
+      "time": "0 - 0 (34')",
+      "rawMinute": 34,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -870,6 +870,20 @@
       "isLive": false
     },
     {
+      "matchId": 4894655,
+      "competitionId": "6005",
+      "tournamentEn": "🏆 Kuwaiti Prince Cup",
+      "tournamentAr": "🏆 كأس ولي العهد الكويتي",
+      "matchEn": "Al Shabab v Sahel",
+      "matchAr": "الشباب × الساحل",
+      "rawIsoTime": "2026-11-22T14:20:00+00:00",
+      "time": "2 - 2 (done)",
+      "rawMinute": 90,
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "isLive": false
+    },
+    {
       "matchId": 4892516,
       "competitionId": "5651",
       "tournamentEn": "🇲🇦 Moroccan Botola 2",
@@ -884,20 +898,6 @@
       "isLive": true
     },
     {
-      "matchId": 4894655,
-      "competitionId": "6005",
-      "tournamentEn": "🏆 Kuwaiti Prince Cup",
-      "tournamentAr": "🏆 كأس ولي العهد الكويتي",
-      "matchEn": "Al Shabab v Sahel",
-      "matchAr": "الشباب × الساحل",
-      "rawIsoTime": "2026-11-22T14:20:00+00:00",
-      "time": "2 - 3 (90')",
-      "rawMinute": 90,
-      "homeGoals": 2,
-      "awayGoals": 3,
-      "isLive": true
-    },
-    {
       "matchId": 4722885,
       "competitionId": "5582",
       "tournamentEn": "🛡️ World Cup U17",
@@ -905,8 +905,8 @@
       "matchEn": "South Korea v New Caledonia",
       "matchAr": "كوريا الجنوبية × كاليدونيا الجديدة",
       "rawIsoTime": "2026-11-22T14:30:00+00:00",
-      "time": "6 - 0 (90')",
-      "rawMinute": 90,
+      "time": "6 - 0 (90+1')",
+      "rawMinute": 91,
       "homeGoals": 6,
       "awayGoals": 0,
       "isLive": true
@@ -919,8 +919,8 @@
       "matchEn": "Qatar v Egypt",
       "matchAr": "قطر × مصر",
       "rawIsoTime": "2026-11-22T15:00:00+00:00",
-      "time": "0 - 2 (59')",
-      "rawMinute": 59,
+      "time": "0 - 2 (60')",
+      "rawMinute": 60,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -933,8 +933,8 @@
       "matchEn": "Sonderjyske v Odense",
       "matchAr": "سوندر يوسكه × أودنسه",
       "rawIsoTime": "2026-11-22T15:00:00+00:00",
-      "time": "0 - 0 (61')",
-      "rawMinute": 61,
+      "time": "0 - 0 (62')",
+      "rawMinute": 62,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -947,8 +947,8 @@
       "matchEn": "KV Kortrijk v Union St. Gilloise",
       "matchAr": "كورتريك × يونيون سان جيلواز",
       "rawIsoTime": "2026-11-22T15:00:00+00:00",
-      "time": "0 - 0 (57')",
-      "rawMinute": 57,
+      "time": "0 - 0 (58')",
+      "rawMinute": 58,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -961,7 +961,7 @@
       "matchEn": "Farense v Fatima",
       "matchAr": "فارينسي × فاطيما",
       "rawIsoTime": "2026-11-22T15:00:00+00:00",
-      "time": "1 - 0 (57')",
+      "time": "1 - 0 (58')",
       "rawMinute": 58,
       "homeGoals": 1,
       "awayGoals": 0,
@@ -975,7 +975,7 @@
       "matchEn": "Shabab Al Urdon v Ittihad Al Ramtha",
       "matchAr": "شباب الأردن × اتحاد الرمثا",
       "rawIsoTime": "2026-11-22T15:00:00+00:00",
-      "time": "1 - 1 (59')",
+      "time": "1 - 1 (60')",
       "rawMinute": 60,
       "homeGoals": 1,
       "awayGoals": 1,
@@ -989,8 +989,8 @@
       "matchEn": "Chabab Ben Guerir v Union Yacoub El Mansour",
       "matchAr": "شباب بن جرير × اتحاد يعقوب المنصور",
       "rawIsoTime": "2026-11-22T15:00:00+00:00",
-      "time": "2 - 0 (57')",
-      "rawMinute": 57,
+      "time": "2 - 0 (58')",
+      "rawMinute": 58,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -1003,10 +1003,10 @@
       "matchEn": "Mussanah v Dhofar Salalah",
       "matchAr": "المصنعة × ظفار صلالة",
       "rawIsoTime": "2026-11-22T15:00:00+00:00",
-      "time": "1 - 0 (59')",
-      "rawMinute": 59,
+      "time": "1 - 1 (60')",
+      "rawMinute": 60,
       "homeGoals": 1,
-      "awayGoals": 0,
+      "awayGoals": 1,
       "isLive": true
     },
     {
@@ -1101,8 +1101,8 @@
       "matchEn": "Kristiansund v Sandefjord",
       "matchAr": "كريستيانسوند × ساندفيورد",
       "rawIsoTime": "2026-11-22T16:00:00+00:00",
-      "time": "0 - 1 (18')",
-      "rawMinute": 18,
+      "time": "0 - 1 (19')",
+      "rawMinute": 19,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -1115,8 +1115,8 @@
       "matchEn": "Aalesund v Rosenborg",
       "matchAr": "أليسوند × روزنبورغ",
       "rawIsoTime": "2026-11-22T16:00:00+00:00",
-      "time": "1 - 0 (18')",
-      "rawMinute": 18,
+      "time": "1 - 0 (19')",
+      "rawMinute": 19,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -1129,8 +1129,8 @@
       "matchEn": "Rodina Moscow v Lokomotiv Moscow",
       "matchAr": "رودينا موسكو × لوكوموتيف موسكو",
       "rawIsoTime": "2026-11-22T16:00:00+00:00",
-      "time": "0 - 1 (18')",
-      "rawMinute": 18,
+      "time": "0 - 1 (19')",
+      "rawMinute": 19,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -1143,8 +1143,8 @@
       "matchEn": "Austria Vienna v Red Bull Salzburg",
       "matchAr": "أوستريا فيينا × ريد بول سالزبورغ",
       "rawIsoTime": "2026-11-22T16:00:00+00:00",
-      "time": "0 - 0 (18')",
-      "rawMinute": 18,
+      "time": "0 - 0 (19')",
+      "rawMinute": 19,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -1157,8 +1157,8 @@
       "matchEn": "Trabzonspor v Eyupspor",
       "matchAr": "طرابزون سبور × أيوب سبور",
       "rawIsoTime": "2026-11-22T16:00:00+00:00",
-      "time": "1 - 0 (18')",
-      "rawMinute": 18,
+      "time": "1 - 0 (19')",
+      "rawMinute": 19,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
