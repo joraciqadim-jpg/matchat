@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795306031949,
+  "timestamp": 1795306095084,
   "matches": [
     {
       "matchId": 4741996,
@@ -289,8 +289,8 @@
       "matchEn": "Chapecoense v Cruzeiro",
       "matchAr": "شابيكوينسي × كروزيرو",
       "rawIsoTime": "2026-11-22T00:00:00+00:00",
-      "time": "0 - 0 (7')",
-      "rawMinute": 7,
+      "time": "0 - 0 (8')",
+      "rawMinute": 8,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -345,8 +345,8 @@
       "matchEn": "Atlético Mineiro (Brazil) v Boca Juniors (Argentina)",
       "matchAr": "أتلتيكو مينيرو (البرازيل) × بوكا جونيورز (الأرجنتين)",
       "rawIsoTime": "2026-11-21T22:30:00+00:00",
-      "time": "0 - 2 (76')",
-      "rawMinute": 76,
+      "time": "0 - 2 (77')",
+      "rawMinute": 77,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -359,8 +359,8 @@
       "matchEn": "Pachuca v Toluca",
       "matchAr": "باتشوكا × تولوكا",
       "rawIsoTime": "2026-11-21T22:50:00+00:00",
-      "time": "1 - 0 (54')",
-      "rawMinute": 54,
+      "time": "1 - 0 (55')",
+      "rawMinute": 55,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -373,8 +373,8 @@
       "matchEn": "Santos Laguna v Leon",
       "matchAr": "سانتوس لاغونا × ليون",
       "rawIsoTime": "2026-11-21T23:00:00+00:00",
-      "time": "0 - 1 (46')",
-      "rawMinute": 46,
+      "time": "0 - 1 (47')",
+      "rawMinute": 47,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
