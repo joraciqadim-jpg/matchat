@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795447751860,
+  "timestamp": 1795447855623,
   "matches": [
     {
       "matchId": 4818323,
@@ -9,8 +9,8 @@
       "matchEn": "Neftchi Fargona (Uzbekistan) v Al Hilal (Saudi Arabia)",
       "matchAr": "نيفتشي فرغانة (أوزبكستان) × الهلال (السعودية)",
       "rawIsoTime": "2026-11-23T13:45:00+00:00",
-      "time": "2 - 2 (86')",
-      "rawMinute": 86,
+      "time": "2 - 2 (88')",
+      "rawMinute": 88,
       "homeGoals": 2,
       "awayGoals": 2,
       "isLive": true
@@ -310,6 +310,20 @@
       "isLive": false
     },
     {
+      "matchId": 4888852,
+      "competitionId": "559",
+      "tournamentEn": "🇱🇾 Libyan Premier League",
+      "tournamentAr": "🇱🇾 الدوري الليبي",
+      "matchEn": "Al-Athad Misrata v Al Swehly",
+      "matchAr": "الاتحاد مصراتة × السويحلي",
+      "rawIsoTime": "2026-11-23T15:00:00+00:00",
+      "time": "15:00",
+      "rawMinute": 1,
+      "homeGoals": -1,
+      "awayGoals": -1,
+      "isLive": false
+    },
+    {
       "matchId": 4722873,
       "competitionId": "5582",
       "tournamentEn": "🛡️ World Cup U17",
@@ -345,25 +359,11 @@
       "matchEn": "Morocco v China",
       "matchAr": "المغرب × الصين",
       "rawIsoTime": "2026-11-23T15:00:00+00:00",
-      "time": "0 - 1 (29')",
-      "rawMinute": 29,
+      "time": "0 - 1 (31')",
+      "rawMinute": 31,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
-    },
-    {
-      "matchId": 4888852,
-      "competitionId": "559",
-      "tournamentEn": "🇱🇾 Libyan Premier League",
-      "tournamentAr": "🇱🇾 الدوري الليبي",
-      "matchEn": "Al-Athad Misrata v Al Swehly",
-      "matchAr": "الاتحاد مصراتة × السويحلي",
-      "rawIsoTime": "2026-11-23T15:00:00+00:00",
-      "time": "15:00",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
     },
     {
       "matchId": 4894985,
@@ -373,8 +373,8 @@
       "matchEn": "Bahla v Samail",
       "matchAr": "بهلاء × سمائل",
       "rawIsoTime": "2026-11-23T15:00:00+00:00",
-      "time": "1 - 0 (30')",
-      "rawMinute": 30,
+      "time": "1 - 0 (32')",
+      "rawMinute": 32,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -387,8 +387,8 @@
       "matchEn": "Jeddah v Damac",
       "matchAr": "جدة × ضمك",
       "rawIsoTime": "2026-11-23T15:15:00+00:00",
-      "time": "0 - 0 (14')",
-      "rawMinute": 14,
+      "time": "0 - 0 (16')",
+      "rawMinute": 16,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -415,11 +415,11 @@
       "matchEn": "Vietnam v New Zealand",
       "matchAr": "فيتنام × نيوزيلندا",
       "rawIsoTime": "2026-11-23T15:30:00+00:00",
-      "time": "15:30",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4888858,
