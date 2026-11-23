@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795459695206,
+  "timestamp": 1795459752221,
   "matches": [
     {
       "matchId": 4818323,
@@ -65,8 +65,8 @@
       "matchEn": "Ittihad Jeddah (Saudi Arabia) v Pakhtakor (Uzbekistan)",
       "matchAr": "اتحاد جدة (المملكة العربية السعودية) × باختاكور (أوزبكستان)",
       "rawIsoTime": "2026-11-23T18:15:00+00:00",
-      "time": "1 - 0 (34')",
-      "rawMinute": 34,
+      "time": "1 - 0 (35')",
+      "rawMinute": 35,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -79,8 +79,8 @@
       "matchEn": "Quwa Al Jawiya (Iraq) v Al Gharafa (Qatar)",
       "matchAr": "القوة الجوية (العراق) × الغرافة (قطر)",
       "rawIsoTime": "2026-11-23T18:15:00+00:00",
-      "time": "0 - 0 (34')",
-      "rawMinute": 34,
+      "time": "0 - 0 (35')",
+      "rawMinute": 35,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -471,8 +471,8 @@
       "matchEn": "Başakşehir v Corum",
       "matchAr": "باشاك شهير × تشوروم",
       "rawIsoTime": "2026-11-23T17:00:00+00:00",
-      "time": "3 - 2 (88')",
-      "rawMinute": 88,
+      "time": "3 - 2 (89')",
+      "rawMinute": 89,
       "homeGoals": 3,
       "awayGoals": 2,
       "isLive": true
@@ -513,8 +513,8 @@
       "matchEn": "Brøndby IF v Midtjylland",
       "matchAr": "بروندبي × ميتييلاند",
       "rawIsoTime": "2026-11-23T18:00:00+00:00",
-      "time": "0 - 1 (45+3')",
-      "rawMinute": 48,
+      "time": "0 - 1 (Halftime)",
+      "rawMinute": 45,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
