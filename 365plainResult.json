@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795392197861,
+  "timestamp": 1795392262456,
   "matches": [
     {
       "matchId": 4818323,
@@ -49,7 +49,7 @@
       "tournamentEn": "🛡️ Asia AFC Champions League Elite",
       "tournamentAr": "🛡️ دوري أبطال آسيا للنخبة",
       "matchEn": "Al Shamal (Qatar) v Al Ahli (Saudi Arabia)",
-      "matchAr": "الشمال (قطر) × الأهلي (السعودية)",
+      "matchAr": "الشمال (قطر) × الأهلي (المملكة العربية السعودية)",
       "rawIsoTime": "2026-11-23T16:00:00+00:00",
       "time": "16:00",
       "rawMinute": 1,
@@ -63,7 +63,7 @@
       "tournamentEn": "🛡️ Asia AFC Champions League Elite",
       "tournamentAr": "🛡️ دوري أبطال آسيا للنخبة",
       "matchEn": "Ittihad Jeddah (Saudi Arabia) v Pakhtakor (Uzbekistan)",
-      "matchAr": "اتحاد جدة (السعودية) × باختاكور (أوزبكستان)",
+      "matchAr": "اتحاد جدة (المملكة العربية السعودية) × باختاكور (أوزبكستان)",
       "rawIsoTime": "2026-11-23T18:15:00+00:00",
       "time": "18:15",
       "rawMinute": 1,
@@ -149,8 +149,8 @@
       "matchEn": "RB Bragantino v Vasco da Gama",
       "matchAr": "براغانتينو × فاسكو دي غاما",
       "rawIsoTime": "2026-11-22T22:30:00+00:00",
-      "time": "1 - 0 (72')",
-      "rawMinute": 72,
+      "time": "1 - 0 (73')",
+      "rawMinute": 73,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
