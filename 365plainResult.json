@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795472951611,
+  "timestamp": 1795473050470,
   "matches": [
     {
       "matchId": 4818323,
@@ -149,11 +149,11 @@
       "matchEn": "Internacional v Vitoria",
       "matchAr": "إنترناسيونال × فيتوريا",
       "rawIsoTime": "2026-11-23T22:30:00+00:00",
-      "time": "22:30",
+      "time": "0 - 1 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "isLive": true
     },
     {
       "matchId": 4632595,
@@ -555,8 +555,8 @@
       "matchEn": "Gimnasia La Plata v Newell's Old Boys",
       "matchAr": "جيمناسيا لا بلاتا × نيولز أولد بويز",
       "rawIsoTime": "2026-11-23T20:00:00+00:00",
-      "time": "3 - 2 (109')",
-      "rawMinute": 109,
+      "time": "3 - 2 (110')",
+      "rawMinute": 110,
       "homeGoals": 3,
       "awayGoals": 2,
       "isLive": true
