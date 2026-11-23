@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795400722830,
+  "timestamp": 1795400774633,
   "matches": [
     {
       "matchId": 4818323,
@@ -177,10 +177,10 @@
       "matchEn": "Instituto Cordoba v Huracan",
       "matchAr": "إنستيتوتو كوردوبا × هوريكان",
       "rawIsoTime": "2026-11-23T01:00:00+00:00",
-      "time": "2 - 0 (65')",
-      "rawMinute": 65,
+      "time": "2 - 1 (66')",
+      "rawMinute": 66,
       "homeGoals": 2,
-      "awayGoals": 0,
+      "awayGoals": 1,
       "isLive": true
     },
     {
@@ -191,8 +191,8 @@
       "matchEn": "Queretaro v Necaxa",
       "matchAr": "كيريتارو × نيكاكسا",
       "rawIsoTime": "2026-11-23T01:10:00+00:00",
-      "time": "1 - 1 (56')",
-      "rawMinute": 56,
+      "time": "1 - 1 (57')",
+      "rawMinute": 57,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
