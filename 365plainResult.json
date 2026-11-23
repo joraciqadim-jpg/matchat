@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795437552052,
+  "timestamp": 1795437638848,
   "matches": [
     {
       "matchId": 4818323,
@@ -219,8 +219,8 @@
       "matchEn": "Chornomorets Odesa v Epicentr",
       "matchAr": "تشورنوموريتس أوديسا × إبيسنتر",
       "rawIsoTime": "2026-11-23T11:00:00+00:00",
-      "time": "0 - 1 (52')",
-      "rawMinute": 52,
+      "time": "0 - 1 (54')",
+      "rawMinute": 54,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -234,7 +234,7 @@
       "matchAr": "طاجيكستان × كرواتيا",
       "rawIsoTime": "2026-11-23T12:30:00+00:00",
       "time": "0 - 1 (9')",
-      "rawMinute": 9,
+      "rawMinute": 10,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -247,9 +247,9 @@
       "matchEn": "Spain v Fiji",
       "matchAr": "إسبانيا × فيجي",
       "rawIsoTime": "2026-11-23T12:30:00+00:00",
-      "time": "1 - 0 (9')",
-      "rawMinute": 9,
-      "homeGoals": 1,
+      "time": "2 - 0 (10')",
+      "rawMinute": 10,
+      "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
     },
