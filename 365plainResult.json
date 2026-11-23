@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795459752221,
+  "timestamp": 1795459836337,
   "matches": [
     {
       "matchId": 4818323,
@@ -65,8 +65,8 @@
       "matchEn": "Ittihad Jeddah (Saudi Arabia) v Pakhtakor (Uzbekistan)",
       "matchAr": "اتحاد جدة (المملكة العربية السعودية) × باختاكور (أوزبكستان)",
       "rawIsoTime": "2026-11-23T18:15:00+00:00",
-      "time": "1 - 0 (35')",
-      "rawMinute": 35,
+      "time": "1 - 0 (36')",
+      "rawMinute": 36,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -79,8 +79,8 @@
       "matchEn": "Quwa Al Jawiya (Iraq) v Al Gharafa (Qatar)",
       "matchAr": "القوة الجوية (العراق) × الغرافة (قطر)",
       "rawIsoTime": "2026-11-23T18:15:00+00:00",
-      "time": "0 - 0 (35')",
-      "rawMinute": 35,
+      "time": "0 - 0 (36')",
+      "rawMinute": 36,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -93,8 +93,8 @@
       "matchEn": "Douanes (Senegal) v CR Belouizdad (Algeria)",
       "matchAr": "الجمارك (السنغال) × شباب بلوزداد (الجزائر)",
       "rawIsoTime": "2026-11-23T17:00:00+00:00",
-      "time": "0 - 0 (84')",
-      "rawMinute": 84,
+      "time": "0 - 0 (86')",
+      "rawMinute": 86,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -436,6 +436,20 @@
       "isLive": false
     },
     {
+      "matchId": 4890782,
+      "competitionId": "560",
+      "tournamentEn": "🇩🇿 Algerian Ligue 1",
+      "tournamentAr": "🇩🇿 الدوري الجزائري",
+      "matchEn": "Es Ben Aknoun v USM Alger",
+      "matchAr": "اتحاد بن عكنون × اتحاد الجزائر",
+      "rawIsoTime": "2026-11-23T16:45:00+00:00",
+      "time": "0 - 1 (done)",
+      "rawMinute": 90,
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "isLive": false
+    },
+    {
       "matchId": 4888851,
       "competitionId": "559",
       "tournamentEn": "🇱🇾 Libyan Premier League",
@@ -450,20 +464,6 @@
       "isLive": false
     },
     {
-      "matchId": 4890782,
-      "competitionId": "560",
-      "tournamentEn": "🇩🇿 Algerian Ligue 1",
-      "tournamentAr": "🇩🇿 الدوري الجزائري",
-      "matchEn": "Es Ben Aknoun v USM Alger",
-      "matchAr": "اتحاد بن عكنون × اتحاد الجزائر",
-      "rawIsoTime": "2026-11-23T16:45:00+00:00",
-      "time": "0 - 1 (90+4')",
-      "rawMinute": 94,
-      "homeGoals": 0,
-      "awayGoals": 1,
-      "isLive": true
-    },
-    {
       "matchId": 4764332,
       "competitionId": "78",
       "tournamentEn": "🇹🇷 Turkish Super Lig",
@@ -471,9 +471,9 @@
       "matchEn": "Başakşehir v Corum",
       "matchAr": "باشاك شهير × تشوروم",
       "rawIsoTime": "2026-11-23T17:00:00+00:00",
-      "time": "3 - 2 (89')",
-      "rawMinute": 89,
-      "homeGoals": 3,
+      "time": "4 - 2 (90+1')",
+      "rawMinute": 91,
+      "homeGoals": 4,
       "awayGoals": 2,
       "isLive": true
     },
