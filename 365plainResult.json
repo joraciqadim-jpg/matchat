@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795467791273,
+  "timestamp": 1795467854656,
   "matches": [
     {
       "matchId": 4818323,
@@ -121,8 +121,8 @@
       "matchEn": "Levante v Elche",
       "matchAr": "ليفانتي × إلتشي",
       "rawIsoTime": "2026-11-23T20:00:00+00:00",
-      "time": "0 - 0 (Halftime)",
-      "rawMinute": 45,
+      "time": "0 - 0 (46')",
+      "rawMinute": 46,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -135,9 +135,9 @@
       "matchEn": "Monza v Fiorentina",
       "matchAr": "مونزا × فيورنتينا",
       "rawIsoTime": "2026-11-23T19:45:00+00:00",
-      "time": "2 - 0 (59')",
-      "rawMinute": 59,
-      "homeGoals": 2,
+      "time": "3 - 0 (60')",
+      "rawMinute": 60,
+      "homeGoals": 3,
       "awayGoals": 0,
       "isLive": true
     },
