@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795451295506,
+  "timestamp": 1795451351679,
   "matches": [
     {
       "matchId": 4818323,
@@ -23,8 +23,8 @@
       "matchEn": "Al Ain (United Arab Emirates) v Esteghlal Tehran (Iran)",
       "matchAr": "العين (الإمارات العربية المتحدة) × استقلال طهران (إيران)",
       "rawIsoTime": "2026-11-23T16:00:00+00:00",
-      "time": "0 - 0 (28')",
-      "rawMinute": 28,
+      "time": "0 - 0 (29')",
+      "rawMinute": 29,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -38,7 +38,7 @@
       "matchAr": "تراكتور (إيران) × الوصل (الإمارات العربية المتحدة)",
       "rawIsoTime": "2026-11-23T16:00:00+00:00",
       "time": "0 - 0 (29')",
-      "rawMinute": 29,
+      "rawMinute": 30,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -51,8 +51,8 @@
       "matchEn": "Al Shamal (Qatar) v Al Ahli (Saudi Arabia)",
       "matchAr": "الشمال (قطر) × الأهلي (المملكة العربية السعودية)",
       "rawIsoTime": "2026-11-23T16:00:00+00:00",
-      "time": "0 - 1 (29')",
-      "rawMinute": 29,
+      "time": "0 - 1 (30')",
+      "rawMinute": 30,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -310,6 +310,20 @@
       "isLive": false
     },
     {
+      "matchId": 4722873,
+      "competitionId": "5582",
+      "tournamentEn": "🛡️ World Cup U17",
+      "tournamentAr": "🛡️ كأس العالم تحت 17 سنة",
+      "matchEn": "Italy v Ivory Coast",
+      "matchAr": "إيطاليا × ساحل العاج",
+      "rawIsoTime": "2026-11-23T14:30:00+00:00",
+      "time": "2 - 1 (done)",
+      "rawMinute": 90,
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "isLive": false
+    },
+    {
       "matchId": 4795654,
       "competitionId": "5502",
       "tournamentEn": "🇸🇦 Saudi First Division",
@@ -338,20 +352,6 @@
       "isLive": false
     },
     {
-      "matchId": 4722873,
-      "competitionId": "5582",
-      "tournamentEn": "🛡️ World Cup U17",
-      "tournamentAr": "🛡️ كأس العالم تحت 17 سنة",
-      "matchEn": "Italy v Ivory Coast",
-      "matchAr": "إيطاليا × ساحل العاج",
-      "rawIsoTime": "2026-11-23T14:30:00+00:00",
-      "time": "2 - 1 (90+10')",
-      "rawMinute": 100,
-      "homeGoals": 2,
-      "awayGoals": 1,
-      "isLive": true
-    },
-    {
       "matchId": 4722861,
       "competitionId": "5582",
       "tournamentEn": "🛡️ World Cup U17",
@@ -359,8 +359,8 @@
       "matchEn": "Morocco v China",
       "matchAr": "المغرب × الصين",
       "rawIsoTime": "2026-11-23T15:00:00+00:00",
-      "time": "1 - 2 (69')",
-      "rawMinute": 69,
+      "time": "1 - 2 (70')",
+      "rawMinute": 70,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -373,8 +373,8 @@
       "matchEn": "Bahla v Samail",
       "matchAr": "بهلاء × سمائل",
       "rawIsoTime": "2026-11-23T15:00:00+00:00",
-      "time": "2 - 0 (68')",
-      "rawMinute": 68,
+      "time": "2 - 0 (69')",
+      "rawMinute": 69,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -387,8 +387,8 @@
       "matchEn": "Jeddah v Damac",
       "matchAr": "جدة × ضمك",
       "rawIsoTime": "2026-11-23T15:15:00+00:00",
-      "time": "0 - 0 (56')",
-      "rawMinute": 56,
+      "time": "0 - 0 (57')",
+      "rawMinute": 57,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
