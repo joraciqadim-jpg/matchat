@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795434496033,
+  "timestamp": 1795434552541,
   "matches": [
     {
       "matchId": 4818323,
@@ -219,8 +219,8 @@
       "matchEn": "Chornomorets Odesa v Epicentr",
       "matchAr": "تشورنوموريتس أوديسا × إبيسنتر",
       "rawIsoTime": "2026-11-23T11:00:00+00:00",
-      "time": "0 - 1 (45+3')",
-      "rawMinute": 48,
+      "time": "0 - 1 (Halftime)",
+      "rawMinute": 45,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
