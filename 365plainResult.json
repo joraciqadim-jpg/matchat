@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795434192204,
+  "timestamp": 1795434256023,
   "matches": [
     {
       "matchId": 4818323,
@@ -205,8 +205,8 @@
       "matchEn": "LNZ Cherkasy v Polissya",
       "matchAr": "تشيركاسي × بوليسيا",
       "rawIsoTime": "2026-11-23T11:00:00+00:00",
-      "time": "1 - 0 (45')",
-      "rawMinute": 45,
+      "time": "1 - 0 (45+1')",
+      "rawMinute": 46,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -219,8 +219,8 @@
       "matchEn": "Chornomorets Odesa v Epicentr",
       "matchAr": "تشورنوموريتس أوديسا × إبيسنتر",
       "rawIsoTime": "2026-11-23T11:00:00+00:00",
-      "time": "0 - 1 (43')",
-      "rawMinute": 43,
+      "time": "0 - 1 (44')",
+      "rawMinute": 44,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
