@@ -559,6 +559,11 @@
     "countryEn": "Andorra",
     "countryAr": "أندورا"
   },
+  "6993": {
+    "nameEn": "Al Gharafa",
+    "countryEn": "Qatar",
+    "countryAr": "قطر"
+  },
   "7077": {
     "nameEn": "Al Rayyan",
     "countryEn": "Qatar",
@@ -594,6 +599,11 @@
     "countryEn": "Thailand",
     "countryAr": "تايلاند"
   },
+  "8225": {
+    "nameEn": "CR Belouizdad",
+    "countryEn": "Algeria",
+    "countryAr": "الجزائر"
+  },
   "8246": {
     "nameEn": "Al Shorta Baghdad",
     "countryEn": "Iraq",
@@ -614,6 +624,11 @@
     "countryEn": "United Arab Emirates",
     "countryAr": "الإمارات العربية المتحدة"
   },
+  "8346": {
+    "nameEn": "Al Wasl",
+    "countryEn": "United Arab Emirates",
+    "countryAr": "الإمارات العربية المتحدة"
+  },
   "8347": {
     "nameEn": "Shabab Al Ahly",
     "countryEn": "Emirates",
@@ -621,6 +636,11 @@
   },
   "8350": {
     "nameEn": "Wahda Abu Dhabi",
+    "countryEn": "United Arab Emirates",
+    "countryAr": "الإمارات العربية المتحدة"
+  },
+  "8353": {
+    "nameEn": "Al Ain",
     "countryEn": "United Arab Emirates",
     "countryAr": "الإمارات العربية المتحدة"
   },
@@ -634,6 +654,11 @@
     "countryEn": "South Korea",
     "countryAr": "كوريا الجنوبية"
   },
+  "8593": {
+    "nameEn": "Ittihad Jeddah",
+    "countryEn": "Saudi Arabia",
+    "countryAr": "السعودية"
+  },
   "8596": {
     "nameEn": "Nasaf Qarshi",
     "countryEn": "Uzbekistan",
@@ -641,6 +666,11 @@
   },
   "8941": {
     "nameEn": "Al Taawoun",
+    "countryEn": "Saudi Arabia",
+    "countryAr": "السعودية"
+  },
+  "8946": {
+    "nameEn": "Al Ahli Jeddah",
     "countryEn": "Saudi Arabia",
     "countryAr": "السعودية"
   },
@@ -653,6 +683,11 @@
     "nameEn": "Machida Zelvia",
     "countryEn": "Japan",
     "countryAr": "اليابان"
+  },
+  "9353": {
+    "nameEn": "Tractor FC",
+    "countryEn": "Iran",
+    "countryAr": "إيران"
   },
   "9358": {
     "nameEn": "Esteghlal FC Tehran",
@@ -699,10 +734,20 @@
     "countryEn": "Thailand",
     "countryAr": "تايلاند"
   },
+  "10345": {
+    "nameEn": "Pakhtakor",
+    "countryEn": "Uzbekistan",
+    "countryAr": "أوزبكستان"
+  },
   "10564": {
     "nameEn": "FC Kairat Almaty",
     "countryEn": "Kazakhstan",
     "countryAr": "كازاخستان"
+  },
+  "11283": {
+    "nameEn": "Quwa Al Jawiya",
+    "countryEn": "Iraq",
+    "countryAr": "العراق"
   },
   "12181": {
     "nameEn": "Al Seeb SC",
@@ -718,6 +763,11 @@
     "nameEn": "FC Iberia 1999",
     "countryEn": "Georgia",
     "countryAr": "جورجيا"
+  },
+  "15105": {
+    "nameEn": "Neftchi Fargona",
+    "countryEn": "Uzbekistan",
+    "countryAr": "أوزبكستان"
   },
   "15458": {
     "nameEn": "East Bengal",
@@ -808,5 +858,10 @@
     "nameEn": "Arkadag",
     "countryEn": "Turkmenistan",
     "countryAr": "تركمانستان"
+  },
+  "76766": {
+    "nameEn": "AS Douanes",
+    "countryEn": "Senegal",
+    "countryAr": "السنغال"
   }
 }
