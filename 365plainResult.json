@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795456936459,
+  "timestamp": 1795456991911,
   "matches": [
     {
       "matchId": 4818323,
@@ -30,6 +30,20 @@
       "isLive": false
     },
     {
+      "matchId": 4818325,
+      "competitionId": "623",
+      "tournamentEn": "🛡️ Asia AFC Champions League Elite",
+      "tournamentAr": "🛡️ دوري أبطال آسيا للنخبة",
+      "matchEn": "Tractor (Iran) v Al Wasl (United Arab Emirates)",
+      "matchAr": "تراكتور (إيران) × الوصل (الإمارات العربية المتحدة)",
+      "rawIsoTime": "2026-11-23T16:00:00+00:00",
+      "time": "1 - 5 (done)",
+      "rawMinute": 90,
+      "homeGoals": 1,
+      "awayGoals": 5,
+      "isLive": false
+    },
+    {
       "matchId": 4818326,
       "competitionId": "623",
       "tournamentEn": "🛡️ Asia AFC Champions League Elite",
@@ -42,20 +56,6 @@
       "homeGoals": 3,
       "awayGoals": 2,
       "isLive": false
-    },
-    {
-      "matchId": 4818325,
-      "competitionId": "623",
-      "tournamentEn": "🛡️ Asia AFC Champions League Elite",
-      "tournamentAr": "🛡️ دوري أبطال آسيا للنخبة",
-      "matchEn": "Tractor (Iran) v Al Wasl (United Arab Emirates)",
-      "matchAr": "تراكتور (إيران) × الوصل (الإمارات العربية المتحدة)",
-      "rawIsoTime": "2026-11-23T16:00:00+00:00",
-      "time": "1 - 5 (90+10')",
-      "rawMinute": 100,
-      "homeGoals": 1,
-      "awayGoals": 5,
-      "isLive": true
     },
     {
       "matchId": 4818327,
@@ -443,9 +443,9 @@
       "matchEn": "Military Union v Khaleej Sirte",
       "matchAr": "الاتحاد العسكري × خليج سرت",
       "rawIsoTime": "2026-11-23T16:30:00+00:00",
-      "time": "0 - 0 (65')",
-      "rawMinute": 65,
-      "homeGoals": 0,
+      "time": "1 - 0 (66')",
+      "rawMinute": 66,
+      "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
     },
@@ -457,7 +457,7 @@
       "matchEn": "Es Ben Aknoun v USM Alger",
       "matchAr": "اتحاد بن عكنون × اتحاد الجزائر",
       "rawIsoTime": "2026-11-23T16:45:00+00:00",
-      "time": "0 - 1 (47')",
+      "time": "0 - 1 (48')",
       "rawMinute": 48,
       "homeGoals": 0,
       "awayGoals": 1,
@@ -485,8 +485,8 @@
       "matchEn": "Örgryte IS v Kalmar FF",
       "matchAr": "أوريبرو × كالمار",
       "rawIsoTime": "2026-11-23T18:00:00+00:00",
-      "time": "0 - 1 (2')",
-      "rawMinute": 2,
+      "time": "0 - 1 (3')",
+      "rawMinute": 3,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -513,8 +513,8 @@
       "matchEn": "Brøndby IF v Midtjylland",
       "matchAr": "بروندبي × ميتييلاند",
       "rawIsoTime": "2026-11-23T18:00:00+00:00",
-      "time": "0 - 0 (2')",
-      "rawMinute": 2,
+      "time": "0 - 0 (3')",
+      "rawMinute": 3,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -527,8 +527,8 @@
       "matchEn": "Wieczysta Krakow v Motor Lublin",
       "matchAr": "فييتشستا كراكوف × موتور لوبلين",
       "rawIsoTime": "2026-11-23T18:00:00+00:00",
-      "time": "1 - 0 (2')",
-      "rawMinute": 2,
+      "time": "1 - 0 (3')",
+      "rawMinute": 3,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -541,8 +541,8 @@
       "matchEn": "JS Kabylie v MC Alger",
       "matchAr": "شبيبة القبائل × مولودية الجزائر",
       "rawIsoTime": "2026-11-23T18:00:00+00:00",
-      "time": "0 - 0 (2')",
-      "rawMinute": 2,
+      "time": "0 - 0 (3')",
+      "rawMinute": 3,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
