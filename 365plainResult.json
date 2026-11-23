@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795456235399,
+  "timestamp": 1795456271552,
   "matches": [
     {
       "matchId": 4818323,
@@ -37,8 +37,8 @@
       "matchEn": "Tractor (Iran) v Al Wasl (United Arab Emirates)",
       "matchAr": "تراكتور (إيران) × الوصل (الإمارات العربية المتحدة)",
       "rawIsoTime": "2026-11-23T16:00:00+00:00",
-      "time": "1 - 4 (88')",
-      "rawMinute": 88,
+      "time": "1 - 4 (89')",
+      "rawMinute": 89,
       "homeGoals": 1,
       "awayGoals": 4,
       "isLive": true
@@ -51,9 +51,9 @@
       "matchEn": "Al Shamal (Qatar) v Al Ahli (Saudi Arabia)",
       "matchAr": "الشمال (قطر) × الأهلي (المملكة العربية السعودية)",
       "rawIsoTime": "2026-11-23T16:00:00+00:00",
-      "time": "2 - 2 (90+1')",
+      "time": "3 - 2 (90+1')",
       "rawMinute": 91,
-      "homeGoals": 2,
+      "homeGoals": 3,
       "awayGoals": 2,
       "isLive": true
     },
@@ -443,8 +443,8 @@
       "matchEn": "Military Union v Khaleej Sirte",
       "matchAr": "الاتحاد العسكري × خليج سرت",
       "rawIsoTime": "2026-11-23T16:30:00+00:00",
-      "time": "0 - 0 (53')",
-      "rawMinute": 53,
+      "time": "0 - 0 (54')",
+      "rawMinute": 54,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
