@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795396233377,
+  "timestamp": 1795396271151,
   "matches": [
     {
       "matchId": 4818323,
@@ -170,6 +170,20 @@
       "isLive": false
     },
     {
+      "matchId": 4735615,
+      "competitionId": "141",
+      "tournamentEn": "🇲🇽 Mexican League",
+      "tournamentAr": "🇲🇽 الدوري المكسيكي",
+      "matchEn": "Chivas v Cruz Azul",
+      "matchAr": "تشيفاس × كروز أزول",
+      "rawIsoTime": "2026-11-22T23:07:00+00:00",
+      "time": "1 - 0 (done)",
+      "rawMinute": 90,
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "isLive": false
+    },
+    {
       "matchId": 4891702,
       "competitionId": "72",
       "tournamentEn": "🇦🇷 Argentinean Liga Profesional",
@@ -191,8 +205,8 @@
       "matchEn": "Queretaro v Necaxa",
       "matchAr": "كيريتارو × نيكاكسا",
       "rawIsoTime": "2026-11-23T01:10:00+00:00",
-      "time": "0 - 0 (1')",
-      "rawMinute": 1,
+      "time": "0 - 0 (2')",
+      "rawMinute": 2,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
