@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795447237112,
+  "timestamp": 1795447271817,
   "matches": [
     {
       "matchId": 4818323,
@@ -303,7 +303,7 @@
       "matchEn": "Senegal v Cuba",
       "matchAr": "السنغال × كوبا",
       "rawIsoTime": "2026-11-23T13:30:00+00:00",
-      "time": "9 - 0 (90+1')",
+      "time": "9 - 0 (90+2')",
       "rawMinute": 92,
       "homeGoals": 9,
       "awayGoals": 0,
@@ -331,7 +331,7 @@
       "matchEn": "Al Jeel v Al-Saqer",
       "matchAr": "الجيل × الصقر",
       "rawIsoTime": "2026-11-23T14:30:00+00:00",
-      "time": "2 - 1 (45')",
+      "time": "2 - 1 (Halftime)",
       "rawMinute": 45,
       "homeGoals": 2,
       "awayGoals": 1,
@@ -387,8 +387,8 @@
       "matchEn": "Jeddah v Damac",
       "matchAr": "جدة × ضمك",
       "rawIsoTime": "2026-11-23T15:15:00+00:00",
-      "time": "0 - 0 (5')",
-      "rawMinute": 5,
+      "time": "0 - 0 (6')",
+      "rawMinute": 6,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
