@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795464191918,
+  "timestamp": 1795464255214,
   "matches": [
     {
       "matchId": 4818323,
@@ -65,8 +65,8 @@
       "matchEn": "Ittihad Jeddah (Saudi Arabia) v Pakhtakor (Uzbekistan)",
       "matchAr": "اتحاد جدة (المملكة العربية السعودية) × باختاكور (أوزبكستان)",
       "rawIsoTime": "2026-11-23T18:15:00+00:00",
-      "time": "2 - 0 (90')",
-      "rawMinute": 90,
+      "time": "2 - 0 (90+1')",
+      "rawMinute": 92,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -79,8 +79,8 @@
       "matchEn": "Quwa Al Jawiya (Iraq) v Al Gharafa (Qatar)",
       "matchAr": "القوة الجوية (العراق) × الغرافة (قطر)",
       "rawIsoTime": "2026-11-23T18:15:00+00:00",
-      "time": "2 - 1 (90+2')",
-      "rawMinute": 92,
+      "time": "2 - 1 (90+3')",
+      "rawMinute": 94,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -107,8 +107,8 @@
       "matchEn": "Brentford v Everton",
       "matchAr": "برينتفورد × إيفرتون",
       "rawIsoTime": "2026-11-23T20:00:00+00:00",
-      "time": "0 - 0 (3')",
-      "rawMinute": 3,
+      "time": "0 - 0 (5')",
+      "rawMinute": 5,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -121,8 +121,8 @@
       "matchEn": "Levante v Elche",
       "matchAr": "ليفانتي × إلتشي",
       "rawIsoTime": "2026-11-23T20:00:00+00:00",
-      "time": "0 - 0 (2')",
-      "rawMinute": 2,
+      "time": "0 - 0 (3')",
+      "rawMinute": 3,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -135,8 +135,8 @@
       "matchEn": "Monza v Fiorentina",
       "matchAr": "مونزا × فيورنتينا",
       "rawIsoTime": "2026-11-23T19:45:00+00:00",
-      "time": "0 - 0 (18')",
-      "rawMinute": 18,
+      "time": "0 - 0 (19')",
+      "rawMinute": 19,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -555,8 +555,8 @@
       "matchEn": "Gimnasia La Plata v Newell's Old Boys",
       "matchAr": "جيمناسيا لا بلاتا × نيولز أولد بويز",
       "rawIsoTime": "2026-11-23T20:00:00+00:00",
-      "time": "0 - 0 (2')",
-      "rawMinute": 3,
+      "time": "0 - 0 (4')",
+      "rawMinute": 4,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
