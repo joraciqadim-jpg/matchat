@@ -351,6 +351,16 @@
         "📺 On Sport 1 [Nilesat 7.0W 11862 V 27500]",
         "📺 On Sport MAX [Nilesat 7.0W 11977 V 27500]"
       ]
+    },
+    {
+      "tournamentEn": "🇧🇷 Brazilian Serie A",
+      "tournamentAr": "🇧🇷 الدوري البرازيلي الممتاز",
+      "matchEn": "Internacional v Vitória",
+      "matchAr": "إنترناسيونال × فيتوريا",
+      "time": "22:30",
+      "channels": [
+        "📺 Canal 11 [Hispasat 30W 12437 H 27500]"
+      ]
     }
   ]
 }
