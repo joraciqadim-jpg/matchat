@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795473323167,
+  "timestamp": 1795473374725,
   "matches": [
     {
       "matchId": 4818323,
@@ -149,8 +149,8 @@
       "matchEn": "Internacional v Vitoria",
       "matchAr": "إنترناسيونال × فيتوريا",
       "rawIsoTime": "2026-11-23T22:30:00+00:00",
-      "time": "0 - 1 (5')",
-      "rawMinute": 5,
+      "time": "0 - 1 (6')",
+      "rawMinute": 6,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -556,7 +556,7 @@
       "matchAr": "جيمناسيا لا بلاتا × نيولز أولد بويز",
       "rawIsoTime": "2026-11-23T20:00:00+00:00",
       "time": "4 - 2 (115')",
-      "rawMinute": 115,
+      "rawMinute": 116,
       "homeGoals": 4,
       "awayGoals": 2,
       "isLive": true
