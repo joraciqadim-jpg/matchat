@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795451724249,
+  "timestamp": 1795451776045,
   "matches": [
     {
       "matchId": 4818323,
@@ -37,8 +37,8 @@
       "matchEn": "Tractor (Iran) v Al Wasl (United Arab Emirates)",
       "matchAr": "تراكتور (إيران) × الوصل (الإمارات العربية المتحدة)",
       "rawIsoTime": "2026-11-23T16:00:00+00:00",
-      "time": "0 - 0 (36')",
-      "rawMinute": 36,
+      "time": "0 - 0 (37')",
+      "rawMinute": 37,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -51,8 +51,8 @@
       "matchEn": "Al Shamal (Qatar) v Al Ahli (Saudi Arabia)",
       "matchAr": "الشمال (قطر) × الأهلي (المملكة العربية السعودية)",
       "rawIsoTime": "2026-11-23T16:00:00+00:00",
-      "time": "0 - 1 (36')",
-      "rawMinute": 36,
+      "time": "0 - 1 (37')",
+      "rawMinute": 37,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -359,8 +359,8 @@
       "matchEn": "Morocco v China",
       "matchAr": "المغرب × الصين",
       "rawIsoTime": "2026-11-23T15:00:00+00:00",
-      "time": "1 - 2 (76')",
-      "rawMinute": 76,
+      "time": "1 - 2 (77')",
+      "rawMinute": 77,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -373,8 +373,8 @@
       "matchEn": "Bahla v Samail",
       "matchAr": "بهلاء × سمائل",
       "rawIsoTime": "2026-11-23T15:00:00+00:00",
-      "time": "2 - 0 (75')",
-      "rawMinute": 75,
+      "time": "2 - 0 (76')",
+      "rawMinute": 76,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -387,8 +387,8 @@
       "matchEn": "Jeddah v Damac",
       "matchAr": "جدة × ضمك",
       "rawIsoTime": "2026-11-23T15:15:00+00:00",
-      "time": "0 - 1 (63')",
-      "rawMinute": 63,
+      "time": "0 - 1 (64')",
+      "rawMinute": 64,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -401,8 +401,8 @@
       "matchEn": "Mali v Belgium",
       "matchAr": "مالي × بلجيكا",
       "rawIsoTime": "2026-11-23T15:30:00+00:00",
-      "time": "1 - 1 (48')",
-      "rawMinute": 48,
+      "time": "1 - 1 (49')",
+      "rawMinute": 49,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -415,9 +415,9 @@
       "matchEn": "Vietnam v New Zealand",
       "matchAr": "فيتنام × نيوزيلندا",
       "rawIsoTime": "2026-11-23T15:30:00+00:00",
-      "time": "0 - 1 (49')",
-      "rawMinute": 49,
-      "homeGoals": 0,
+      "time": "1 - 1 (50')",
+      "rawMinute": 50,
+      "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
     },
@@ -429,8 +429,8 @@
       "matchEn": "Military Union v Khaleej Sirte",
       "matchAr": "الاتحاد العسكري × خليج سرت",
       "rawIsoTime": "2026-11-23T16:30:00+00:00",
-      "time": "0 - 0 (1')",
-      "rawMinute": 1,
+      "time": "0 - 0 (2')",
+      "rawMinute": 2,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
