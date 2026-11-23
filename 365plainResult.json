@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795445894444,
+  "timestamp": 1795445952020,
   "matches": [
     {
       "matchId": 4818323,
@@ -9,8 +9,8 @@
       "matchEn": "Neftchi Fargona (Uzbekistan) v Al Hilal (Saudi Arabia)",
       "matchAr": "نيفتشي فرغانة (أوزبكستان) × الهلال (السعودية)",
       "rawIsoTime": "2026-11-23T13:45:00+00:00",
-      "time": "1 - 2 (55')",
-      "rawMinute": 55,
+      "time": "1 - 2 (56')",
+      "rawMinute": 56,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -303,8 +303,8 @@
       "matchEn": "Senegal v Cuba",
       "matchAr": "السنغال × كوبا",
       "rawIsoTime": "2026-11-23T13:30:00+00:00",
-      "time": "8 - 0 (69')",
-      "rawMinute": 69,
+      "time": "8 - 0 (70')",
+      "rawMinute": 70,
       "homeGoals": 8,
       "awayGoals": 0,
       "isLive": true
@@ -317,9 +317,9 @@
       "matchEn": "Italy v Ivory Coast",
       "matchAr": "إيطاليا × ساحل العاج",
       "rawIsoTime": "2026-11-23T14:30:00+00:00",
-      "time": "0 - 0 (28')",
-      "rawMinute": 28,
-      "homeGoals": 0,
+      "time": "1 - 0 (29')",
+      "rawMinute": 29,
+      "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
     },
@@ -331,7 +331,7 @@
       "matchEn": "Al Jeel v Al-Saqer",
       "matchAr": "الجيل × الصقر",
       "rawIsoTime": "2026-11-23T14:30:00+00:00",
-      "time": "0 - 0 (28')",
+      "time": "0 - 0 (29')",
       "rawMinute": 29,
       "homeGoals": 0,
       "awayGoals": 0,
