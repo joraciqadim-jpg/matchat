@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795466775523,
+  "timestamp": 1795466831793,
   "matches": [
     {
       "matchId": 4818323,
@@ -121,8 +121,8 @@
       "matchEn": "Levante v Elche",
       "matchAr": "ليفانتي × إلتشي",
       "rawIsoTime": "2026-11-23T20:00:00+00:00",
-      "time": "0 - 0 (45')",
-      "rawMinute": 45,
+      "time": "0 - 0 (45+1')",
+      "rawMinute": 46,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -555,8 +555,8 @@
       "matchEn": "Gimnasia La Plata v Newell's Old Boys",
       "matchAr": "جيمناسيا لا بلاتا × نيولز أولد بويز",
       "rawIsoTime": "2026-11-23T20:00:00+00:00",
-      "time": "1 - 0 (45+1')",
-      "rawMinute": 46,
+      "time": "1 - 0 (45+2')",
+      "rawMinute": 47,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
