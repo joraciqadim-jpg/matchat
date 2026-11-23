@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795395735173,
+  "timestamp": 1795395791817,
   "matches": [
     {
       "matchId": 4818323,
@@ -177,11 +177,11 @@
       "matchEn": "Chivas v Cruz Azul",
       "matchAr": "تشيفاس × كروز أزول",
       "rawIsoTime": "2026-11-22T23:07:00+00:00",
-      "time": "1 - 0 (90+4')",
-      "rawMinute": 95,
+      "time": "1 - 0 (done)",
+      "rawMinute": 90,
       "homeGoals": 1,
       "awayGoals": 0,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4891702,
