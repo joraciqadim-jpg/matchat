@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795458255968,
+  "timestamp": 1795458325185,
   "matches": [
     {
       "matchId": 4818323,
@@ -65,8 +65,8 @@
       "matchEn": "Ittihad Jeddah (Saudi Arabia) v Pakhtakor (Uzbekistan)",
       "matchAr": "اتحاد جدة (المملكة العربية السعودية) × باختاكور (أوزبكستان)",
       "rawIsoTime": "2026-11-23T18:15:00+00:00",
-      "time": "1 - 0 (10')",
-      "rawMinute": 10,
+      "time": "1 - 0 (11')",
+      "rawMinute": 11,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -79,8 +79,8 @@
       "matchEn": "Quwa Al Jawiya (Iraq) v Al Gharafa (Qatar)",
       "matchAr": "القوة الجوية (العراق) × الغرافة (قطر)",
       "rawIsoTime": "2026-11-23T18:15:00+00:00",
-      "time": "0 - 0 (10')",
-      "rawMinute": 10,
+      "time": "0 - 0 (11')",
+      "rawMinute": 11,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -93,8 +93,8 @@
       "matchEn": "Douanes (Senegal) v CR Belouizdad (Algeria)",
       "matchAr": "الجمارك (السنغال) × شباب بلوزداد (الجزائر)",
       "rawIsoTime": "2026-11-23T17:00:00+00:00",
-      "time": "0 - 0 (60')",
-      "rawMinute": 60,
+      "time": "0 - 0 (61')",
+      "rawMinute": 61,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -443,8 +443,8 @@
       "matchEn": "Military Union v Khaleej Sirte",
       "matchAr": "الاتحاد العسكري × خليج سرت",
       "rawIsoTime": "2026-11-23T16:30:00+00:00",
-      "time": "1 - 0 (87')",
-      "rawMinute": 87,
+      "time": "1 - 0 (88')",
+      "rawMinute": 88,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -457,8 +457,8 @@
       "matchEn": "Es Ben Aknoun v USM Alger",
       "matchAr": "اتحاد بن عكنون × اتحاد الجزائر",
       "rawIsoTime": "2026-11-23T16:45:00+00:00",
-      "time": "0 - 1 (70')",
-      "rawMinute": 70,
+      "time": "0 - 1 (71')",
+      "rawMinute": 71,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -471,8 +471,8 @@
       "matchEn": "Başakşehir v Corum",
       "matchAr": "باشاك شهير × تشوروم",
       "rawIsoTime": "2026-11-23T17:00:00+00:00",
-      "time": "0 - 1 (64')",
-      "rawMinute": 65,
+      "time": "0 - 1 (66')",
+      "rawMinute": 66,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -485,8 +485,8 @@
       "matchEn": "Örgryte IS v Kalmar FF",
       "matchAr": "أوريبرو × كالمار",
       "rawIsoTime": "2026-11-23T18:00:00+00:00",
-      "time": "0 - 1 (24')",
-      "rawMinute": 24,
+      "time": "0 - 1 (25')",
+      "rawMinute": 25,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -499,8 +499,8 @@
       "matchEn": "Hammarby v IFK Göteborg",
       "matchAr": "هاماربي × إف كيه غوتنبرغ",
       "rawIsoTime": "2026-11-23T18:00:00+00:00",
-      "time": "0 - 0 (25')",
-      "rawMinute": 25,
+      "time": "0 - 0 (26')",
+      "rawMinute": 26,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -513,8 +513,8 @@
       "matchEn": "Brøndby IF v Midtjylland",
       "matchAr": "بروندبي × ميتييلاند",
       "rawIsoTime": "2026-11-23T18:00:00+00:00",
-      "time": "0 - 0 (24')",
-      "rawMinute": 24,
+      "time": "0 - 0 (25')",
+      "rawMinute": 25,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -527,10 +527,10 @@
       "matchEn": "Wieczysta Krakow v Motor Lublin",
       "matchAr": "فييتشستا كراكوف × موتور لوبلين",
       "rawIsoTime": "2026-11-23T18:00:00+00:00",
-      "time": "0 - 0 (24')",
-      "rawMinute": 24,
+      "time": "0 - 1 (25')",
+      "rawMinute": 25,
       "homeGoals": 0,
-      "awayGoals": 0,
+      "awayGoals": 1,
       "isLive": true
     },
     {
@@ -541,8 +541,8 @@
       "matchEn": "JS Kabylie v MC Alger",
       "matchAr": "شبيبة القبائل × مولودية الجزائر",
       "rawIsoTime": "2026-11-23T18:00:00+00:00",
-      "time": "0 - 0 (24')",
-      "rawMinute": 24,
+      "time": "0 - 0 (25')",
+      "rawMinute": 25,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
