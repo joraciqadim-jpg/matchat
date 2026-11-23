@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795450834724,
+  "timestamp": 1795450871964,
   "matches": [
     {
       "matchId": 4818323,
@@ -38,7 +38,7 @@
       "matchAr": "تراكتور (إيران) × الوصل (الإمارات العربية المتحدة)",
       "rawIsoTime": "2026-11-23T16:00:00+00:00",
       "time": "0 - 0 (21')",
-      "rawMinute": 21,
+      "rawMinute": 22,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -51,8 +51,8 @@
       "matchEn": "Al Shamal (Qatar) v Al Ahli (Saudi Arabia)",
       "matchAr": "الشمال (قطر) × الأهلي (المملكة العربية السعودية)",
       "rawIsoTime": "2026-11-23T16:00:00+00:00",
-      "time": "0 - 1 (21')",
-      "rawMinute": 21,
+      "time": "0 - 1 (22')",
+      "rawMinute": 22,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -359,7 +359,7 @@
       "matchEn": "Morocco v China",
       "matchAr": "المغرب × الصين",
       "rawIsoTime": "2026-11-23T15:00:00+00:00",
-      "time": "0 - 2 (61')",
+      "time": "0 - 2 (62')",
       "rawMinute": 62,
       "homeGoals": 0,
       "awayGoals": 2,
@@ -373,8 +373,8 @@
       "matchEn": "Bahla v Samail",
       "matchAr": "بهلاء × سمائل",
       "rawIsoTime": "2026-11-23T15:00:00+00:00",
-      "time": "2 - 0 (60')",
-      "rawMinute": 60,
+      "time": "2 - 0 (61')",
+      "rawMinute": 61,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -387,8 +387,8 @@
       "matchEn": "Jeddah v Damac",
       "matchAr": "جدة × ضمك",
       "rawIsoTime": "2026-11-23T15:15:00+00:00",
-      "time": "0 - 0 (48')",
-      "rawMinute": 48,
+      "time": "0 - 0 (49')",
+      "rawMinute": 49,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
