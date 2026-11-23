@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795453633278,
+  "timestamp": 1795453695995,
   "matches": [
     {
       "matchId": 4818323,
@@ -23,8 +23,8 @@
       "matchEn": "Al Ain (United Arab Emirates) v Esteghlal Tehran (Iran)",
       "matchAr": "العين (الإمارات العربية المتحدة) × استقلال طهران (إيران)",
       "rawIsoTime": "2026-11-23T16:00:00+00:00",
-      "time": "0 - 0 (47')",
-      "rawMinute": 47,
+      "time": "0 - 0 (48')",
+      "rawMinute": 48,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -37,8 +37,8 @@
       "matchEn": "Tractor (Iran) v Al Wasl (United Arab Emirates)",
       "matchAr": "تراكتور (إيران) × الوصل (الإمارات العربية المتحدة)",
       "rawIsoTime": "2026-11-23T16:00:00+00:00",
-      "time": "0 - 1 (Halftime)",
-      "rawMinute": 45,
+      "time": "0 - 1 (46')",
+      "rawMinute": 46,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -51,8 +51,8 @@
       "matchEn": "Al Shamal (Qatar) v Al Ahli (Saudi Arabia)",
       "matchAr": "الشمال (قطر) × الأهلي (المملكة العربية السعودية)",
       "rawIsoTime": "2026-11-23T16:00:00+00:00",
-      "time": "0 - 1 (47')",
-      "rawMinute": 47,
+      "time": "0 - 1 (48')",
+      "rawMinute": 48,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -93,8 +93,8 @@
       "matchEn": "Douanes (Senegal) v CR Belouizdad (Algeria)",
       "matchAr": "الجمارك (السنغال) × شباب بلوزداد (الجزائر)",
       "rawIsoTime": "2026-11-23T17:00:00+00:00",
-      "time": "0 - 0 (5')",
-      "rawMinute": 5,
+      "time": "0 - 0 (6')",
+      "rawMinute": 6,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -415,8 +415,8 @@
       "matchEn": "Mali v Belgium",
       "matchAr": "مالي × بلجيكا",
       "rawIsoTime": "2026-11-23T15:30:00+00:00",
-      "time": "2 - 1 (80')",
-      "rawMinute": 80,
+      "time": "2 - 1 (81')",
+      "rawMinute": 81,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -429,8 +429,8 @@
       "matchEn": "Vietnam v New Zealand",
       "matchAr": "فيتنام × نيوزيلندا",
       "rawIsoTime": "2026-11-23T15:30:00+00:00",
-      "time": "2 - 3 (81')",
-      "rawMinute": 81,
+      "time": "2 - 3 (82')",
+      "rawMinute": 82,
       "homeGoals": 2,
       "awayGoals": 3,
       "isLive": true
@@ -443,8 +443,8 @@
       "matchEn": "Military Union v Khaleej Sirte",
       "matchAr": "الاتحاد العسكري × خليج سرت",
       "rawIsoTime": "2026-11-23T16:30:00+00:00",
-      "time": "0 - 0 (33')",
-      "rawMinute": 33,
+      "time": "0 - 0 (34')",
+      "rawMinute": 34,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -457,8 +457,8 @@
       "matchEn": "Es Ben Aknoun v USM Alger",
       "matchAr": "اتحاد بن عكنون × اتحاد الجزائر",
       "rawIsoTime": "2026-11-23T16:45:00+00:00",
-      "time": "0 - 0 (20')",
-      "rawMinute": 20,
+      "time": "0 - 0 (22')",
+      "rawMinute": 22,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -471,8 +471,8 @@
       "matchEn": "Başakşehir v Corum",
       "matchAr": "باشاك شهير × تشوروم",
       "rawIsoTime": "2026-11-23T17:00:00+00:00",
-      "time": "0 - 0 (8')",
-      "rawMinute": 8,
+      "time": "0 - 0 (9')",
+      "rawMinute": 9,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
