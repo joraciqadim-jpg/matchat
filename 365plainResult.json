@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795466952060,
+  "timestamp": 1795467035465,
   "matches": [
     {
       "matchId": 4818323,
@@ -107,8 +107,8 @@
       "matchEn": "Brentford v Everton",
       "matchAr": "برينتفورد × إيفرتون",
       "rawIsoTime": "2026-11-23T20:00:00+00:00",
-      "time": "2 - 0 (45+4')",
-      "rawMinute": 49,
+      "time": "2 - 0 (45+6')",
+      "rawMinute": 51,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -135,8 +135,8 @@
       "matchEn": "Monza v Fiorentina",
       "matchAr": "مونزا × فيورنتينا",
       "rawIsoTime": "2026-11-23T19:45:00+00:00",
-      "time": "1 - 0 (Halftime)",
-      "rawMinute": 45,
+      "time": "1 - 0 (46')",
+      "rawMinute": 46,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
