@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795463895324,
+  "timestamp": 1795463951986,
   "matches": [
     {
       "matchId": 4818323,
@@ -65,7 +65,7 @@
       "matchEn": "Ittihad Jeddah (Saudi Arabia) v Pakhtakor (Uzbekistan)",
       "matchAr": "اتحاد جدة (المملكة العربية السعودية) × باختاكور (أوزبكستان)",
       "rawIsoTime": "2026-11-23T18:15:00+00:00",
-      "time": "2 - 0 (85')",
+      "time": "2 - 0 (86')",
       "rawMinute": 86,
       "homeGoals": 2,
       "awayGoals": 0,
@@ -79,7 +79,7 @@
       "matchEn": "Quwa Al Jawiya (Iraq) v Al Gharafa (Qatar)",
       "matchAr": "القوة الجوية (العراق) × الغرافة (قطر)",
       "rawIsoTime": "2026-11-23T18:15:00+00:00",
-      "time": "2 - 1 (87')",
+      "time": "2 - 1 (88')",
       "rawMinute": 88,
       "homeGoals": 2,
       "awayGoals": 1,
@@ -135,8 +135,8 @@
       "matchEn": "Monza v Fiorentina",
       "matchAr": "مونزا × فيورنتينا",
       "rawIsoTime": "2026-11-23T19:45:00+00:00",
-      "time": "0 - 0 (13')",
-      "rawMinute": 13,
+      "time": "0 - 0 (14')",
+      "rawMinute": 14,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
