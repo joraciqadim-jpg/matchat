@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795447335541,
+  "timestamp": 1795447392282,
   "matches": [
     {
       "matchId": 4818323,
@@ -9,8 +9,8 @@
       "matchEn": "Neftchi Fargona (Uzbekistan) v Al Hilal (Saudi Arabia)",
       "matchAr": "نيفتشي فرغانة (أوزبكستان) × الهلال (السعودية)",
       "rawIsoTime": "2026-11-23T13:45:00+00:00",
-      "time": "2 - 2 (79')",
-      "rawMinute": 79,
+      "time": "2 - 2 (80')",
+      "rawMinute": 80,
       "homeGoals": 2,
       "awayGoals": 2,
       "isLive": true
@@ -303,11 +303,11 @@
       "matchEn": "Senegal v Cuba",
       "matchAr": "السنغال × كوبا",
       "rawIsoTime": "2026-11-23T13:30:00+00:00",
-      "time": "9 - 0 (90+3')",
-      "rawMinute": 93,
+      "time": "9 - 0 (done)",
+      "rawMinute": 90,
       "homeGoals": 9,
       "awayGoals": 0,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4722873,
@@ -345,8 +345,8 @@
       "matchEn": "Morocco v China",
       "matchAr": "المغرب × الصين",
       "rawIsoTime": "2026-11-23T15:00:00+00:00",
-      "time": "0 - 1 (22')",
-      "rawMinute": 22,
+      "time": "0 - 1 (23')",
+      "rawMinute": 23,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -373,9 +373,9 @@
       "matchEn": "Bahla v Samail",
       "matchAr": "بهلاء × سمائل",
       "rawIsoTime": "2026-11-23T15:00:00+00:00",
-      "time": "0 - 0 (23')",
-      "rawMinute": 23,
-      "homeGoals": 0,
+      "time": "1 - 0 (24')",
+      "rawMinute": 24,
+      "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
     },
@@ -387,8 +387,8 @@
       "matchEn": "Jeddah v Damac",
       "matchAr": "جدة × ضمك",
       "rawIsoTime": "2026-11-23T15:15:00+00:00",
-      "time": "0 - 0 (7')",
-      "rawMinute": 7,
+      "time": "0 - 0 (8')",
+      "rawMinute": 8,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
