@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795441534953,
+  "timestamp": 1795441576017,
   "matches": [
     {
       "matchId": 4818323,
@@ -247,8 +247,8 @@
       "matchEn": "LNZ Cherkasy v Polissya",
       "matchAr": "تشيركاسي × بوليسيا",
       "rawIsoTime": "2026-11-23T11:00:00+00:00",
-      "time": "1 - 1 (77')",
-      "rawMinute": 77,
+      "time": "1 - 1 (78')",
+      "rawMinute": 78,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -275,8 +275,8 @@
       "matchEn": "Spain v Fiji",
       "matchAr": "إسبانيا × فيجي",
       "rawIsoTime": "2026-11-23T12:30:00+00:00",
-      "time": "12 - 0 (60')",
-      "rawMinute": 60,
+      "time": "12 - 0 (61')",
+      "rawMinute": 61,
       "homeGoals": 12,
       "awayGoals": 0,
       "isLive": true
@@ -290,7 +290,7 @@
       "matchAr": "أوزبكستان × جامايكا",
       "rawIsoTime": "2026-11-23T13:00:00+00:00",
       "time": "2 - 2 (45')",
-      "rawMinute": 45,
+      "rawMinute": 46,
       "homeGoals": 2,
       "awayGoals": 2,
       "isLive": true
@@ -303,9 +303,9 @@
       "matchEn": "Senegal v Cuba",
       "matchAr": "السنغال × كوبا",
       "rawIsoTime": "2026-11-23T13:30:00+00:00",
-      "time": "1 - 0 (14')",
-      "rawMinute": 14,
-      "homeGoals": 1,
+      "time": "2 - 0 (15')",
+      "rawMinute": 15,
+      "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
     },
