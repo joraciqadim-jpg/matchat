@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795447855623,
+  "timestamp": 1795447872368,
   "matches": [
     {
       "matchId": 4818323,
@@ -401,11 +401,11 @@
       "matchEn": "Mali v Belgium",
       "matchAr": "مالي × بلجيكا",
       "rawIsoTime": "2026-11-23T15:30:00+00:00",
-      "time": "15:30",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4722898,
