@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795449734976,
+  "timestamp": 1795449791767,
   "matches": [
     {
       "matchId": 4818323,
@@ -23,8 +23,8 @@
       "matchEn": "Al Ain (United Arab Emirates) v Esteghlal Tehran (Iran)",
       "matchAr": "العين (الإمارات العربية المتحدة) × استقلال طهران (إيران)",
       "rawIsoTime": "2026-11-23T16:00:00+00:00",
-      "time": "0 - 0 (2')",
-      "rawMinute": 2,
+      "time": "0 - 0 (3')",
+      "rawMinute": 3,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -38,7 +38,7 @@
       "matchAr": "تراكتور (إيران) × الوصل (الإمارات العربية المتحدة)",
       "rawIsoTime": "2026-11-23T16:00:00+00:00",
       "time": "0 - 0 (3')",
-      "rawMinute": 3,
+      "rawMinute": 4,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -51,8 +51,8 @@
       "matchEn": "Al Shamal (Qatar) v Al Ahli (Saudi Arabia)",
       "matchAr": "الشمال (قطر) × الأهلي (المملكة العربية السعودية)",
       "rawIsoTime": "2026-11-23T16:00:00+00:00",
-      "time": "0 - 0 (3')",
-      "rawMinute": 3,
+      "time": "0 - 0 (4')",
+      "rawMinute": 4,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -331,8 +331,8 @@
       "matchEn": "Italy v Ivory Coast",
       "matchAr": "إيطاليا × ساحل العاج",
       "rawIsoTime": "2026-11-23T14:30:00+00:00",
-      "time": "2 - 0 (74')",
-      "rawMinute": 74,
+      "time": "2 - 0 (75')",
+      "rawMinute": 75,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -345,8 +345,8 @@
       "matchEn": "Al Jeel v Al-Saqer",
       "matchAr": "الجيل × الصقر",
       "rawIsoTime": "2026-11-23T14:30:00+00:00",
-      "time": "2 - 2 (72')",
-      "rawMinute": 72,
+      "time": "2 - 2 (73')",
+      "rawMinute": 73,
       "homeGoals": 2,
       "awayGoals": 2,
       "isLive": true
@@ -401,8 +401,8 @@
       "matchEn": "Mali v Belgium",
       "matchAr": "مالي × بلجيكا",
       "rawIsoTime": "2026-11-23T15:30:00+00:00",
-      "time": "1 - 1 (32')",
-      "rawMinute": 32,
+      "time": "1 - 1 (33')",
+      "rawMinute": 33,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -415,8 +415,8 @@
       "matchEn": "Vietnam v New Zealand",
       "matchAr": "فيتنام × نيوزيلندا",
       "rawIsoTime": "2026-11-23T15:30:00+00:00",
-      "time": "0 - 1 (32')",
-      "rawMinute": 32,
+      "time": "0 - 1 (33')",
+      "rawMinute": 33,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
