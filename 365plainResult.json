@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795526351050,
+  "timestamp": 1795526435050,
   "matches": [
     {
       "matchId": 4818592,
@@ -51,8 +51,8 @@
       "matchEn": "Ratchaburi (Thailand) v Johor Darul Ta’zim (Malaysia)",
       "matchAr": "راتشابوري (تايلاند) × جوهور دار التعظيم (ماليزيا)",
       "rawIsoTime": "2026-11-24T12:15:00+00:00",
-      "time": "0 - 1 (Halftime)",
-      "rawMinute": 45,
+      "time": "0 - 1 (47')",
+      "rawMinute": 47,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -65,8 +65,8 @@
       "matchEn": "Shanghai Port (China) v Buriram United (Thailand)",
       "matchAr": "شنغهاي بورت (الصين) × بوريرام يونايتد (تايلاند)",
       "rawIsoTime": "2026-11-24T12:15:00+00:00",
-      "time": "1 - 1 (47')",
-      "rawMinute": 47,
+      "time": "1 - 1 (49')",
+      "rawMinute": 49,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -79,8 +79,8 @@
       "matchEn": "Công An Hà Nội (Vietnam) v Vissel Kobe (Japan)",
       "matchAr": "شرطة هانوي (فيتنام) × فيسيل كوبي (اليابان)",
       "rawIsoTime": "2026-11-24T12:15:00+00:00",
-      "time": "1 - 0 (Halftime)",
-      "rawMinute": 45,
+      "time": "1 - 0 (46')",
+      "rawMinute": 46,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -373,8 +373,8 @@
       "matchEn": "Japan v Serbia",
       "matchAr": "اليابان × صربيا",
       "rawIsoTime": "2026-11-24T13:00:00+00:00",
-      "time": "0 - 1 (19')",
-      "rawMinute": 19,
+      "time": "0 - 1 (20')",
+      "rawMinute": 21,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
