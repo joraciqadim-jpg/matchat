@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795526135141,
+  "timestamp": 1795526174384,
   "matches": [
     {
       "matchId": 4818592,
@@ -345,8 +345,8 @@
       "matchEn": "Costa Rica v Ireland",
       "matchAr": "كوستاريكا × أيرلندا",
       "rawIsoTime": "2026-11-24T12:30:00+00:00",
-      "time": "0 - 0 (45')",
-      "rawMinute": 45,
+      "time": "0 - 0 (45+1')",
+      "rawMinute": 46,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -359,7 +359,7 @@
       "matchEn": "Venezuela v Romania",
       "matchAr": "فنزويلا × رومانيا",
       "rawIsoTime": "2026-11-24T12:30:00+00:00",
-      "time": "0 - 0 (45')",
+      "time": "0 - 0 (45+1')",
       "rawMinute": 46,
       "homeGoals": 0,
       "awayGoals": 0,
@@ -373,7 +373,7 @@
       "matchEn": "Japan v Serbia",
       "matchAr": "اليابان × صربيا",
       "rawIsoTime": "2026-11-24T13:00:00+00:00",
-      "time": "0 - 1 (15')",
+      "time": "0 - 1 (16')",
       "rawMinute": 16,
       "homeGoals": 0,
       "awayGoals": 1,
