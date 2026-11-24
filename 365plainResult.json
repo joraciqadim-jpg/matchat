@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795557134995,
+  "timestamp": 1795557191361,
   "matches": [
     {
       "matchId": 4818592,
@@ -261,8 +261,8 @@
       "matchEn": "Feyenoord (Netherlands) v Porto (Portugal)",
       "matchAr": "فاينورد (هولندا) × بورتو (البرتغال)",
       "rawIsoTime": "2026-11-24T20:00:00+00:00",
-      "time": "0 - 1 (90+3')",
-      "rawMinute": 93,
+      "time": "0 - 1 (90+4')",
+      "rawMinute": 94,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -499,8 +499,8 @@
       "matchEn": "Rangers v Aberdeen",
       "matchAr": "رينجرز × أبردين",
       "rawIsoTime": "2026-11-24T20:00:00+00:00",
-      "time": "3 - 2 (90+2')",
-      "rawMinute": 92,
+      "time": "3 - 2 (90+3')",
+      "rawMinute": 93,
       "homeGoals": 3,
       "awayGoals": 2,
       "isLive": true
