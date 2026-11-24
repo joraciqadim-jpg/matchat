@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795482255288,
+  "timestamp": 1795482323704,
   "matches": [
     {
       "matchId": 4818592,
@@ -275,11 +275,11 @@
       "matchEn": "Botafogo v São Paulo",
       "matchAr": "بوتافوغو × ساو باولو",
       "rawIsoTime": "2026-11-23T23:00:00+00:00",
-      "time": "1 - 1 (90+11')",
-      "rawMinute": 101,
+      "time": "1 - 1 (done)",
+      "rawMinute": 90,
       "homeGoals": 1,
       "awayGoals": 1,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4632594,
