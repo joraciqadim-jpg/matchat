@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795557034125,
+  "timestamp": 1795557072061,
   "matches": [
     {
       "matchId": 4818592,
@@ -247,8 +247,8 @@
       "matchEn": "Feyenoord (Netherlands) v Porto (Portugal)",
       "matchAr": "فاينورد (هولندا) × بورتو (البرتغال)",
       "rawIsoTime": "2026-11-24T20:00:00+00:00",
-      "time": "0 - 1 (90+1')",
-      "rawMinute": 91,
+      "time": "0 - 1 (90+2')",
+      "rawMinute": 92,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -261,8 +261,8 @@
       "matchEn": "Real Madrid (Spain) v PSV Eindhoven (Netherlands)",
       "matchAr": "ريال مدريد (إسبانيا) × أيندهوفن (هولندا)",
       "rawIsoTime": "2026-11-24T20:00:00+00:00",
-      "time": "5 - 1 (90+2')",
-      "rawMinute": 92,
+      "time": "5 - 1 (90+3')",
+      "rawMinute": 93,
       "homeGoals": 5,
       "awayGoals": 1,
       "isLive": true
@@ -499,8 +499,8 @@
       "matchEn": "Rangers v Aberdeen",
       "matchAr": "رينجرز × أبردين",
       "rawIsoTime": "2026-11-24T20:00:00+00:00",
-      "time": "3 - 2 (90')",
-      "rawMinute": 90,
+      "time": "3 - 2 (90+1')",
+      "rawMinute": 91,
       "homeGoals": 3,
       "awayGoals": 2,
       "isLive": true
