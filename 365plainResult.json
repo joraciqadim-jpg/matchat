@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795541175331,
+  "timestamp": 1795541231684,
   "matches": [
     {
       "matchId": 4818592,
@@ -107,8 +107,8 @@
       "matchEn": "Shabab Al Ahly (Emirates) v Qadisiya (Saudi Arabia)",
       "matchAr": "شباب الأهلي (الإمارات) × القادسية (السعودية)",
       "rawIsoTime": "2026-11-24T16:00:00+00:00",
-      "time": "0 - 3 (67')",
-      "rawMinute": 67,
+      "time": "0 - 3 (68')",
+      "rawMinute": 68,
       "homeGoals": 0,
       "awayGoals": 3,
       "isLive": true
@@ -471,8 +471,8 @@
       "matchEn": "Algeria v Montenegro",
       "matchAr": "الجزائر × الجبل الأسود",
       "rawIsoTime": "2026-11-24T15:30:00+00:00",
-      "time": "2 - 1 (90+8')",
-      "rawMinute": 98,
+      "time": "2 - 1 (90+9')",
+      "rawMinute": 99,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
