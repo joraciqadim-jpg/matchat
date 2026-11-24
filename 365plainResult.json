@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795552251705,
+  "timestamp": 1795552272307,
   "matches": [
     {
       "matchId": 4818592,
@@ -178,7 +178,7 @@
       "matchAr": "كومو (إيطاليا) × أيك أثينا (اليونان)",
       "rawIsoTime": "2026-11-24T20:00:00+00:00",
       "time": "0 - 0 (28')",
-      "rawMinute": 28,
+      "rawMinute": 29,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -191,7 +191,7 @@
       "matchEn": "Feyenoord (Netherlands) v Porto (Portugal)",
       "matchAr": "فاينورد (هولندا) × بورتو (البرتغال)",
       "rawIsoTime": "2026-11-24T20:00:00+00:00",
-      "time": "0 - 1 (29')",
+      "time": "0 - 1 (30')",
       "rawMinute": 30,
       "homeGoals": 0,
       "awayGoals": 1,
@@ -248,7 +248,7 @@
       "matchAr": "ريال مدريد (إسبانيا) × أيندهوفن (هولندا)",
       "rawIsoTime": "2026-11-24T20:00:00+00:00",
       "time": "0 - 0 (31')",
-      "rawMinute": 31,
+      "rawMinute": 32,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -485,8 +485,8 @@
       "matchEn": "Hibernian v Dundee",
       "matchAr": "هيبرنيان × دندي",
       "rawIsoTime": "2026-11-24T19:45:00+00:00",
-      "time": "2 - 0 (43')",
-      "rawMinute": 43,
+      "time": "2 - 0 (Halftime)",
+      "rawMinute": 45,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -500,7 +500,7 @@
       "matchAr": "رينجرز × أبردين",
       "rawIsoTime": "2026-11-24T20:00:00+00:00",
       "time": "0 - 0 (28')",
-      "rawMinute": 28,
+      "rawMinute": 29,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
