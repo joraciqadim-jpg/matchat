@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795538124460,
+  "timestamp": 1795538175338,
   "matches": [
     {
       "matchId": 4818592,
@@ -107,8 +107,8 @@
       "matchEn": "Shabab Al Ahly (Emirates) v Qadisiya (Saudi Arabia)",
       "matchAr": "شباب الأهلي (الإمارات) × القادسية (السعودية)",
       "rawIsoTime": "2026-11-24T16:00:00+00:00",
-      "time": "0 - 2 (36')",
-      "rawMinute": 36,
+      "time": "0 - 2 (37')",
+      "rawMinute": 37,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -121,9 +121,9 @@
       "matchEn": "Al Seeb (Oman) v Al Shorta (Iraq)",
       "matchAr": "السيب (عُمان) × الشرطة (العراق)",
       "rawIsoTime": "2026-11-24T16:00:00+00:00",
-      "time": "0 - 0 (35')",
-      "rawMinute": 35,
-      "homeGoals": 0,
+      "time": "1 - 0 (36')",
+      "rawMinute": 36,
+      "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
     },
@@ -443,8 +443,8 @@
       "matchEn": "Brazil v Tanzania",
       "matchAr": "البرازيل × تنزانيا",
       "rawIsoTime": "2026-11-24T15:00:00+00:00",
-      "time": "1 - 0 (75')",
-      "rawMinute": 75,
+      "time": "1 - 0 (76')",
+      "rawMinute": 76,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -457,8 +457,8 @@
       "matchEn": "Honduras v Colombia",
       "matchAr": "هندوراس × كولومبيا",
       "rawIsoTime": "2026-11-24T15:30:00+00:00",
-      "time": "0 - 0 (48')",
-      "rawMinute": 48,
+      "time": "0 - 0 (49')",
+      "rawMinute": 49,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -471,8 +471,8 @@
       "matchEn": "Algeria v Montenegro",
       "matchAr": "الجزائر × الجبل الأسود",
       "rawIsoTime": "2026-11-24T15:30:00+00:00",
-      "time": "0 - 1 (47')",
-      "rawMinute": 47,
+      "time": "0 - 1 (48')",
+      "rawMinute": 48,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
