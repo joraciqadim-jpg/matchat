@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795482495454,
+  "timestamp": 1795482551380,
   "matches": [
     {
       "matchId": 4818592,
@@ -265,20 +265,6 @@
       "rawMinute": 1,
       "homeGoals": -1,
       "awayGoals": -1,
-      "isLive": false
-    },
-    {
-      "matchId": 4632595,
-      "competitionId": "113",
-      "tournamentEn": "🇧🇷 Brazilian Série A",
-      "tournamentAr": "🇧🇷 الدوري البرازيلي",
-      "matchEn": "Botafogo v São Paulo",
-      "matchAr": "بوتافوغو × ساو باولو",
-      "rawIsoTime": "2026-11-23T23:00:00+00:00",
-      "time": "1 - 1 (done)",
-      "rawMinute": 90,
-      "homeGoals": 1,
-      "awayGoals": 1,
       "isLive": false
     },
     {
