@@ -508,14 +508,52 @@
       ]
     },
     {
-      "tournamentEn": "🇺🇸 USA NBA",
-      "tournamentAr": "🇺🇸 الدوري الأميركي لكرة السلة",
-      "matchEn": "Lakers v Jazz",
-      "matchAr": "ليكرز × جاز",
-      "time": "03:00",
+      "tournamentEn": "🇸🇦 Saudi Arabia Division 1",
+      "tournamentAr": "🇸🇦 الدوري السعودي - الدرجة 1",
+      "matchEn": "Al-Jabalain v Al Zulfi",
+      "matchAr": "الجبلين × الزلفي",
+      "time": "12:20",
       "channels": [
-        "📺 5 Sport [Amos 4.0W 11259 V 30000]",
-        "📺 Persiana Sports 1 [Al-Yah 52.5E 11343 H 27500]"
+        "📺 Thmanyah 2 [Badrsat 26.0E 11919 H 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "🇸🇦 Saudi Arabia Division 1",
+      "tournamentAr": "🇸🇦 الدوري السعودي - الدرجة 1",
+      "matchEn": "Al Orobah v Al-Najma",
+      "matchAr": "العروبة × النجمة",
+      "time": "12:20",
+      "channels": [
+        "📺 Thmanyah 3 [Badrsat 26.0E 11919 H 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "🇸🇦 Saudi Arabia Division 1",
+      "tournamentAr": "🇸🇦 الدوري السعودي - الدرجة 1",
+      "matchEn": "Hajer v Al Tai",
+      "matchAr": "هجر × الطائي",
+      "time": "14:30",
+      "channels": [
+        "📺 Thmanyah 1 [Badrsat 26.0E 11919 H 27500]"
+      ]
+    },
+    {
+      "tournamentEn": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scottish Premiership",
+      "tournamentAr": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 الدوري الاسكتلندي الممتاز",
+      "matchEn": "Rangers v Aberdeen",
+      "matchAr": "رينجرز × أبردين",
+      "time": "20:00",
+      "channels": [
+        "📺 Sport TV 2 [Hispasat 30W 12360 H 27500]",
+        "📺 Sport TV 4 [Hispasat 30W 12360 H 27500]",
+        "📺 Sharjah Sports [Nilesat 7.0W 11013 V 27500]",
+        "📺 Magenta Sport 9 [Hotbird 13.0E 12130 H 30000]",
+        "📺 Polsat Sport 3 [Hotbird 13.0E 12284 H 27500]",
+        "📺 Arena Sport 8 SRB [Eutelsat 16.0E 11429 V 28330]",
+        "📺 Sport Klub 3 HRV [Eutelsat 16.0E 11387 H 32000]",
+        "📺 Sportdigital Fussball [Astra 19.2E 11186 V 22000]",
+        "📺 Sky Sports Football [Astra 28.2E 12012 V 27500]",
+        "📺 ESPN 2 South Africa [Eutelsat 36.0E 12092 H 27500]"
       ]
     }
   ]
