@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795530735146,
+  "timestamp": 1795530791508,
   "matches": [
     {
       "matchId": 4818592,
@@ -387,8 +387,8 @@
       "matchEn": "Mexico v Cameroon",
       "matchAr": "المكسيك × الكاميرون",
       "rawIsoTime": "2026-11-24T13:30:00+00:00",
-      "time": "0 - 0 (Halftime)",
-      "rawMinute": 45,
+      "time": "0 - 0 (46')",
+      "rawMinute": 46,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -401,8 +401,8 @@
       "matchEn": "Northeast United v Delhi",
       "matchAr": "نورث إيست يونايتد × دلهي",
       "rawIsoTime": "2026-11-24T14:00:00+00:00",
-      "time": "1 - 1 (32')",
-      "rawMinute": 32,
+      "time": "1 - 1 (33')",
+      "rawMinute": 33,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -415,8 +415,8 @@
       "matchEn": "Hajer v Al Ta'i",
       "matchAr": "هجر × الطائي",
       "rawIsoTime": "2026-11-24T14:30:00+00:00",
-      "time": "0 - 0 (2')",
-      "rawMinute": 3,
+      "time": "0 - 0 (4')",
+      "rawMinute": 4,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -429,8 +429,8 @@
       "matchEn": "Dominican Republic v Chile",
       "matchAr": "جمهورية الدومينيكان × تشيلي",
       "rawIsoTime": "2026-11-24T14:30:00+00:00",
-      "time": "0 - 0 (2')",
-      "rawMinute": 2,
+      "time": "0 - 0 (3')",
+      "rawMinute": 3,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
