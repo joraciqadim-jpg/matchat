@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795537574645,
+  "timestamp": 1795537631763,
   "matches": [
     {
       "matchId": 4818592,
@@ -108,7 +108,7 @@
       "matchAr": "شباب الأهلي (الإمارات) × القادسية (السعودية)",
       "rawIsoTime": "2026-11-24T16:00:00+00:00",
       "time": "0 - 2 (27')",
-      "rawMinute": 27,
+      "rawMinute": 28,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -121,8 +121,8 @@
       "matchEn": "Al Seeb (Oman) v Al Shorta (Iraq)",
       "matchAr": "السيب (عُمان) × الشرطة (العراق)",
       "rawIsoTime": "2026-11-24T16:00:00+00:00",
-      "time": "0 - 0 (26')",
-      "rawMinute": 26,
+      "time": "0 - 0 (27')",
+      "rawMinute": 27,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -443,8 +443,8 @@
       "matchEn": "Brazil v Tanzania",
       "matchAr": "البرازيل × تنزانيا",
       "rawIsoTime": "2026-11-24T15:00:00+00:00",
-      "time": "1 - 0 (66')",
-      "rawMinute": 66,
+      "time": "1 - 0 (67')",
+      "rawMinute": 67,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
