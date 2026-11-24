@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795527933624,
+  "timestamp": 1795527973955,
   "matches": [
     {
       "matchId": 4818592,
@@ -80,7 +80,7 @@
       "matchAr": "شرطة هانوي (فيتنام) × فيسيل كوبي (اليابان)",
       "rawIsoTime": "2026-11-24T12:15:00+00:00",
       "time": "3 - 1 (71')",
-      "rawMinute": 71,
+      "rawMinute": 72,
       "homeGoals": 3,
       "awayGoals": 1,
       "isLive": true
@@ -93,8 +93,8 @@
       "matchEn": "East Bengal (India) v Al Hussein (Jordan)",
       "matchAr": "إيست بنغال (الهند) × الحسين (الأردن)",
       "rawIsoTime": "2026-11-24T13:45:00+00:00",
-      "time": "0 - 0 (1')",
-      "rawMinute": 1,
+      "time": "0 - 0 (2')",
+      "rawMinute": 2,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -303,8 +303,8 @@
       "matchEn": "Al Raed v Al-Akhdoud",
       "matchAr": "الرائد × الأخدود",
       "rawIsoTime": "2026-11-24T12:15:00+00:00",
-      "time": "2 - 1 (70')",
-      "rawMinute": 70,
+      "time": "2 - 1 (71')",
+      "rawMinute": 71,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -317,8 +317,8 @@
       "matchEn": "Al Oruba v Al-Najma",
       "matchAr": "العروبة × النجمة",
       "rawIsoTime": "2026-11-24T12:20:00+00:00",
-      "time": "0 - 0 (65')",
-      "rawMinute": 65,
+      "time": "0 - 0 (66')",
+      "rawMinute": 66,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -359,8 +359,8 @@
       "matchEn": "Venezuela v Romania",
       "matchAr": "فنزويلا × رومانيا",
       "rawIsoTime": "2026-11-24T12:30:00+00:00",
-      "time": "0 - 0 (58')",
-      "rawMinute": 58,
+      "time": "0 - 0 (59')",
+      "rawMinute": 59,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -373,7 +373,7 @@
       "matchEn": "Japan v Serbia",
       "matchAr": "اليابان × صربيا",
       "rawIsoTime": "2026-11-24T13:00:00+00:00",
-      "time": "0 - 1 (45')",
+      "time": "0 - 1 (45+1')",
       "rawMinute": 46,
       "homeGoals": 0,
       "awayGoals": 1,
