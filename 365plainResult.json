@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795531834021,
+  "timestamp": 1795531871563,
   "matches": [
     {
       "matchId": 4818592,
@@ -388,7 +388,7 @@
       "matchAr": "المكسيك × الكاميرون",
       "rawIsoTime": "2026-11-24T13:30:00+00:00",
       "time": "2 - 0 (63')",
-      "rawMinute": 63,
+      "rawMinute": 64,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -415,8 +415,8 @@
       "matchEn": "Hajer v Al Ta'i",
       "matchAr": "هجر × الطائي",
       "rawIsoTime": "2026-11-24T14:30:00+00:00",
-      "time": "0 - 1 (21')",
-      "rawMinute": 21,
+      "time": "0 - 1 (22')",
+      "rawMinute": 22,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -429,7 +429,7 @@
       "matchEn": "Dominican Republic v Chile",
       "matchAr": "جمهورية الدومينيكان × تشيلي",
       "rawIsoTime": "2026-11-24T14:30:00+00:00",
-      "time": "0 - 0 (20')",
+      "time": "0 - 0 (21')",
       "rawMinute": 21,
       "homeGoals": 0,
       "awayGoals": 0,
