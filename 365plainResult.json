@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795526231677,
+  "timestamp": 1795526294856,
   "matches": [
     {
       "matchId": 4818592,
@@ -65,8 +65,8 @@
       "matchEn": "Shanghai Port (China) v Buriram United (Thailand)",
       "matchAr": "شنغهاي بورت (الصين) × بوريرام يونايتد (تايلاند)",
       "rawIsoTime": "2026-11-24T12:15:00+00:00",
-      "time": "1 - 1 (Halftime)",
-      "rawMinute": 45,
+      "time": "1 - 1 (46')",
+      "rawMinute": 46,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -345,8 +345,8 @@
       "matchEn": "Costa Rica v Ireland",
       "matchAr": "كوستاريكا × أيرلندا",
       "rawIsoTime": "2026-11-24T12:30:00+00:00",
-      "time": "0 - 0 (45+2')",
-      "rawMinute": 47,
+      "time": "0 - 0 (Halftime)",
+      "rawMinute": 45,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -359,8 +359,8 @@
       "matchEn": "Venezuela v Romania",
       "matchAr": "فنزويلا × رومانيا",
       "rawIsoTime": "2026-11-24T12:30:00+00:00",
-      "time": "0 - 0 (45+2')",
-      "rawMinute": 47,
+      "time": "0 - 0 (Halftime)",
+      "rawMinute": 45,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -373,8 +373,8 @@
       "matchEn": "Japan v Serbia",
       "matchAr": "اليابان × صربيا",
       "rawIsoTime": "2026-11-24T13:00:00+00:00",
-      "time": "0 - 1 (17')",
-      "rawMinute": 17,
+      "time": "0 - 1 (18')",
+      "rawMinute": 18,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
