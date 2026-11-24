@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795550351583,
+  "timestamp": 1795550462444,
   "matches": [
     {
       "matchId": 4818592,
@@ -163,8 +163,8 @@
       "matchEn": "Al Nassr (Saudi Arabia) v Al Sadd (Qatar)",
       "matchAr": "النصر (السعودية) × السد (قطر)",
       "rawIsoTime": "2026-11-24T18:15:00+00:00",
-      "time": "2 - 1 (83')",
-      "rawMinute": 84,
+      "time": "2 - 1 (86')",
+      "rawMinute": 86,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -205,11 +205,11 @@
       "matchEn": "Arsenal (England) v Borussia Dortmund (Germany)",
       "matchAr": "أرسنال (إنجلترا) × بوروسيا دورتموند (ألمانيا)",
       "rawIsoTime": "2026-11-24T20:00:00+00:00",
-      "time": "20:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4828425,
@@ -219,11 +219,11 @@
       "matchEn": "Slovan Bratislava (Slovakia) v Real Betis (Spain)",
       "matchAr": "سلوفان براتيسلافا (سلوفاكيا) × ريال بيتيس (إسبانيا)",
       "rawIsoTime": "2026-11-24T20:00:00+00:00",
-      "time": "20:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4828426,
@@ -247,11 +247,11 @@
       "matchEn": "Real Madrid (Spain) v PSV Eindhoven (Netherlands)",
       "matchAr": "ريال مدريد (إسبانيا) × أيندهوفن (هولندا)",
       "rawIsoTime": "2026-11-24T20:00:00+00:00",
-      "time": "20:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4828428,
@@ -261,11 +261,11 @@
       "matchEn": "RB Leipzig (Germany) v Lens (France)",
       "matchAr": "لايبزيغ (ألمانيا) × لانس (فرنسا)",
       "rawIsoTime": "2026-11-24T20:00:00+00:00",
-      "time": "20:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4632594,
@@ -485,8 +485,8 @@
       "matchEn": "Hibernian v Dundee",
       "matchAr": "هيبرنيان × دندي",
       "rawIsoTime": "2026-11-24T19:45:00+00:00",
-      "time": "0 - 0 (12')",
-      "rawMinute": 12,
+      "time": "0 - 0 (14')",
+      "rawMinute": 14,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
