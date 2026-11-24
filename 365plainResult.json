@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795480251909,
+  "timestamp": 1795480271789,
   "matches": [
     {
       "matchId": 4818592,
@@ -514,6 +514,20 @@
       "matchAr": "هيبرنيان × دندي",
       "rawIsoTime": "2026-11-24T19:45:00+00:00",
       "time": "19:45",
+      "rawMinute": 1,
+      "homeGoals": -1,
+      "awayGoals": -1,
+      "isLive": false
+    },
+    {
+      "matchId": 4741620,
+      "competitionId": "61",
+      "tournamentEn": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland Scottish Premiership",
+      "tournamentAr": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 الدوري الإسكتلندي الممتاز",
+      "matchEn": "Rangers v Aberdeen",
+      "matchAr": "رينجرز × أبردين",
+      "rawIsoTime": "2026-11-24T20:00:00+00:00",
+      "time": "20:00",
       "rawMinute": 1,
       "homeGoals": -1,
       "awayGoals": -1,
