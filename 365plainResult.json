@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795527495279,
+  "timestamp": 1795527551765,
   "matches": [
     {
       "matchId": 4818592,
@@ -51,7 +51,7 @@
       "matchEn": "Ratchaburi (Thailand) v Johor Darul Ta’zim (Malaysia)",
       "matchAr": "راتشابوري (تايلاند) × جوهور دار التعظيم (ماليزيا)",
       "rawIsoTime": "2026-11-24T12:15:00+00:00",
-      "time": "1 - 1 (64')",
+      "time": "1 - 1 (65')",
       "rawMinute": 65,
       "homeGoals": 1,
       "awayGoals": 1,
@@ -65,8 +65,8 @@
       "matchEn": "Shanghai Port (China) v Buriram United (Thailand)",
       "matchAr": "شنغهاي بورت (الصين) × بوريرام يونايتد (تايلاند)",
       "rawIsoTime": "2026-11-24T12:15:00+00:00",
-      "time": "2 - 1 (66')",
-      "rawMinute": 66,
+      "time": "2 - 1 (67')",
+      "rawMinute": 67,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -80,7 +80,7 @@
       "matchAr": "شرطة هانوي (فيتنام) × فيسيل كوبي (اليابان)",
       "rawIsoTime": "2026-11-24T12:15:00+00:00",
       "time": "3 - 1 (64')",
-      "rawMinute": 64,
+      "rawMinute": 65,
       "homeGoals": 3,
       "awayGoals": 1,
       "isLive": true
@@ -303,8 +303,8 @@
       "matchEn": "Al Raed v Al-Akhdoud",
       "matchAr": "الرائد × الأخدود",
       "rawIsoTime": "2026-11-24T12:15:00+00:00",
-      "time": "1 - 1 (63')",
-      "rawMinute": 63,
+      "time": "1 - 1 (64')",
+      "rawMinute": 64,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -317,8 +317,8 @@
       "matchEn": "Al Oruba v Al-Najma",
       "matchAr": "العروبة × النجمة",
       "rawIsoTime": "2026-11-24T12:20:00+00:00",
-      "time": "0 - 0 (58')",
-      "rawMinute": 58,
+      "time": "0 - 0 (59')",
+      "rawMinute": 59,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -331,8 +331,8 @@
       "matchEn": "Al Jabalain v Zulfi",
       "matchAr": "الجبلين × الزلفي",
       "rawIsoTime": "2026-11-24T12:20:00+00:00",
-      "time": "0 - 1 (55')",
-      "rawMinute": 55,
+      "time": "0 - 1 (56')",
+      "rawMinute": 56,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -345,8 +345,8 @@
       "matchEn": "Costa Rica v Ireland",
       "matchAr": "كوستاريكا × أيرلندا",
       "rawIsoTime": "2026-11-24T12:30:00+00:00",
-      "time": "0 - 1 (51')",
-      "rawMinute": 51,
+      "time": "0 - 1 (52')",
+      "rawMinute": 52,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -359,8 +359,8 @@
       "matchEn": "Venezuela v Romania",
       "matchAr": "فنزويلا × رومانيا",
       "rawIsoTime": "2026-11-24T12:30:00+00:00",
-      "time": "0 - 0 (51')",
-      "rawMinute": 51,
+      "time": "0 - 0 (52')",
+      "rawMinute": 52,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -373,8 +373,8 @@
       "matchEn": "Japan v Serbia",
       "matchAr": "اليابان × صربيا",
       "rawIsoTime": "2026-11-24T13:00:00+00:00",
-      "time": "0 - 1 (38')",
-      "rawMinute": 38,
+      "time": "0 - 1 (39')",
+      "rawMinute": 39,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -387,8 +387,8 @@
       "matchEn": "Mexico v Cameroon",
       "matchAr": "المكسيك × الكاميرون",
       "rawIsoTime": "2026-11-24T13:30:00+00:00",
-      "time": "0 - 0 (7')",
-      "rawMinute": 7,
+      "time": "0 - 0 (8')",
+      "rawMinute": 8,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
