@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795485923287,
+  "timestamp": 1795485974848,
   "matches": [
     {
       "matchId": 4818592,
@@ -275,11 +275,11 @@
       "matchEn": "Santos v Gremio",
       "matchAr": "سانتوس × غريميو",
       "rawIsoTime": "2026-11-24T00:00:00+00:00",
-      "time": "0 - 2 (90+8')",
-      "rawMinute": 98,
+      "time": "0 - 2 (done)",
+      "rawMinute": 90,
       "homeGoals": 0,
       "awayGoals": 2,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4632577,
