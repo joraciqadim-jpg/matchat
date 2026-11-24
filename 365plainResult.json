@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795557072061,
+  "timestamp": 1795557134995,
   "matches": [
     {
       "matchId": 4818592,
@@ -212,6 +212,20 @@
       "isLive": false
     },
     {
+      "matchId": 4828427,
+      "competitionId": "572",
+      "tournamentEn": "🛡️ Europe UEFA Champions League",
+      "tournamentAr": "🛡️ دوري أبطال أوروبا",
+      "matchEn": "Real Madrid (Spain) v PSV Eindhoven (Netherlands)",
+      "matchAr": "ريال مدريد (إسبانيا) × أيندهوفن (هولندا)",
+      "rawIsoTime": "2026-11-24T20:00:00+00:00",
+      "time": "5 - 1 (done)",
+      "rawMinute": 90,
+      "homeGoals": 5,
+      "awayGoals": 1,
+      "isLive": false
+    },
+    {
       "matchId": 4828428,
       "competitionId": "572",
       "tournamentEn": "🛡️ Europe UEFA Champions League",
@@ -233,8 +247,8 @@
       "matchEn": "Como (Italy) v AEK Athens (Greece)",
       "matchAr": "كومو (إيطاليا) × أيك أثينا (اليونان)",
       "rawIsoTime": "2026-11-24T20:00:00+00:00",
-      "time": "1 - 0 (90')",
-      "rawMinute": 90,
+      "time": "1 - 0 (90+2')",
+      "rawMinute": 92,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -247,23 +261,9 @@
       "matchEn": "Feyenoord (Netherlands) v Porto (Portugal)",
       "matchAr": "فاينورد (هولندا) × بورتو (البرتغال)",
       "rawIsoTime": "2026-11-24T20:00:00+00:00",
-      "time": "0 - 1 (90+2')",
-      "rawMinute": 92,
-      "homeGoals": 0,
-      "awayGoals": 1,
-      "isLive": true
-    },
-    {
-      "matchId": 4828427,
-      "competitionId": "572",
-      "tournamentEn": "🛡️ Europe UEFA Champions League",
-      "tournamentAr": "🛡️ دوري أبطال أوروبا",
-      "matchEn": "Real Madrid (Spain) v PSV Eindhoven (Netherlands)",
-      "matchAr": "ريال مدريد (إسبانيا) × أيندهوفن (هولندا)",
-      "rawIsoTime": "2026-11-24T20:00:00+00:00",
-      "time": "5 - 1 (90+3')",
+      "time": "0 - 1 (90+3')",
       "rawMinute": 93,
-      "homeGoals": 5,
+      "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
     },
@@ -499,8 +499,8 @@
       "matchEn": "Rangers v Aberdeen",
       "matchAr": "رينجرز × أبردين",
       "rawIsoTime": "2026-11-24T20:00:00+00:00",
-      "time": "3 - 2 (90+1')",
-      "rawMinute": 91,
+      "time": "3 - 2 (90+2')",
+      "rawMinute": 92,
       "homeGoals": 3,
       "awayGoals": 2,
       "isLive": true
