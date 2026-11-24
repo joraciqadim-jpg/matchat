@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795523054899,
+  "timestamp": 1795523122963,
   "matches": [
     {
       "matchId": 4818592,
@@ -51,10 +51,10 @@
       "matchEn": "Ratchaburi (Thailand) v Johor Darul Ta’zim (Malaysia)",
       "matchAr": "راتشابوري (تايلاند) × جوهور دار التعظيم (ماليزيا)",
       "rawIsoTime": "2026-11-24T12:15:00+00:00",
-      "time": "0 - 1 (9')",
-      "rawMinute": 9,
+      "time": "0 - 0 (10')",
+      "rawMinute": 10,
       "homeGoals": 0,
-      "awayGoals": 1,
+      "awayGoals": 0,
       "isLive": true
     },
     {
@@ -65,8 +65,8 @@
       "matchEn": "Shanghai Port (China) v Buriram United (Thailand)",
       "matchAr": "شنغهاي بورت (الصين) × بوريرام يونايتد (تايلاند)",
       "rawIsoTime": "2026-11-24T12:15:00+00:00",
-      "time": "0 - 0 (9')",
-      "rawMinute": 9,
+      "time": "0 - 0 (10')",
+      "rawMinute": 10,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -79,8 +79,8 @@
       "matchEn": "Công An Hà Nội (Vietnam) v Vissel Kobe (Japan)",
       "matchAr": "شرطة هانوي (فيتنام) × فيسيل كوبي (اليابان)",
       "rawIsoTime": "2026-11-24T12:15:00+00:00",
-      "time": "0 - 0 (10')",
-      "rawMinute": 10,
+      "time": "0 - 0 (11')",
+      "rawMinute": 11,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -304,7 +304,7 @@
       "matchAr": "الرائد × الأخدود",
       "rawIsoTime": "2026-11-24T12:15:00+00:00",
       "time": "0 - 0 (10')",
-      "rawMinute": 10,
+      "rawMinute": 11,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -317,8 +317,8 @@
       "matchEn": "Al Oruba v Al-Najma",
       "matchAr": "العروبة × النجمة",
       "rawIsoTime": "2026-11-24T12:20:00+00:00",
-      "time": "0 - 0 (4')",
-      "rawMinute": 4,
+      "time": "0 - 0 (5')",
+      "rawMinute": 5,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -331,8 +331,8 @@
       "matchEn": "Al Jabalain v Zulfi",
       "matchAr": "الجبلين × الزلفي",
       "rawIsoTime": "2026-11-24T12:20:00+00:00",
-      "time": "0 - 0 (4')",
-      "rawMinute": 4,
+      "time": "0 - 0 (5')",
+      "rawMinute": 5,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
