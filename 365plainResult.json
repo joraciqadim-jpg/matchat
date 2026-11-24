@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795560633572,
+  "timestamp": 1795560671284,
   "matches": [
     {
       "matchId": 4818592,
@@ -289,9 +289,9 @@
       "matchEn": "Chapecoense v Palmeiras",
       "matchAr": "شابيكوينسي × بالميراس",
       "rawIsoTime": "2026-11-24T21:00:00+00:00",
-      "time": "2 - 0 (90')",
-      "rawMinute": 90,
-      "homeGoals": 2,
+      "time": "3 - 0 (90+1')",
+      "rawMinute": 91,
+      "homeGoals": 3,
       "awayGoals": 0,
       "isLive": true
     },
