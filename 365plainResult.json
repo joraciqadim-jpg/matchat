@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795512974566,
+  "timestamp": 1795513032743,
   "matches": [
     {
       "matchId": 4818592,
@@ -9,11 +9,11 @@
       "matchEn": "Newcastle Jets (Australia) v Kashiwa Reysol (Japan)",
       "matchAr": "نيوكاسل جيتس (أستراليا) × كاشيوا ريسول (اليابان)",
       "rawIsoTime": "2026-11-24T07:45:00+00:00",
-      "time": "1 - 2 (90+5')",
-      "rawMinute": 95,
+      "time": "1 - 2 (done)",
+      "rawMinute": 90,
       "homeGoals": 1,
       "awayGoals": 2,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4818590,
