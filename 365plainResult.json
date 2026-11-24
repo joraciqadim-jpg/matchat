@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795553295709,
+  "timestamp": 1795553351700,
   "matches": [
     {
       "matchId": 4818592,
@@ -178,7 +178,7 @@
       "matchAr": "كومو (إيطاليا) × أيك أثينا (اليونان)",
       "rawIsoTime": "2026-11-24T20:00:00+00:00",
       "time": "0 - 0 (45+1')",
-      "rawMinute": 46,
+      "rawMinute": 47,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -247,8 +247,8 @@
       "matchEn": "Real Madrid (Spain) v PSV Eindhoven (Netherlands)",
       "matchAr": "ريال مدريد (إسبانيا) × أيندهوفن (هولندا)",
       "rawIsoTime": "2026-11-24T20:00:00+00:00",
-      "time": "0 - 1 (45+4')",
-      "rawMinute": 49,
+      "time": "0 - 1 (Halftime)",
+      "rawMinute": 45,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -485,8 +485,8 @@
       "matchEn": "Hibernian v Dundee",
       "matchAr": "هيبرنيان × دندي",
       "rawIsoTime": "2026-11-24T19:45:00+00:00",
-      "time": "2 - 0 (47')",
-      "rawMinute": 47,
+      "time": "2 - 0 (48')",
+      "rawMinute": 48,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -499,8 +499,8 @@
       "matchEn": "Rangers v Aberdeen",
       "matchAr": "رينجرز × أبردين",
       "rawIsoTime": "2026-11-24T20:00:00+00:00",
-      "time": "0 - 1 (45')",
-      "rawMinute": 45,
+      "time": "0 - 1 (45+1')",
+      "rawMinute": 47,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
