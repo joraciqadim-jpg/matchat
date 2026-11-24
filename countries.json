@@ -1,4 +1,22 @@
 {
+  "fiorentina": {
+    "en": "Fiorentina",
+    "ar": "Fiorentina",
+    "countryen": "Italy",
+    "countryar": "إيطاليا"
+  },
+  "rakw": {
+    "en": "Raków",
+    "ar": "Raków",
+    "countryen": "Poland",
+    "countryar": "بولندا"
+  },
+  "aek larnaca": {
+    "en": "AEK Larnaca",
+    "ar": "AEK Larnaca",
+    "countryen": "Cyprus",
+    "countryar": "قبرص"
+  },
   "ferencvros": {
     "en": "Ferencváros",
     "ar": "فيرينتسفاروش",
