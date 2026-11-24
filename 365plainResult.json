@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795525871503,
+  "timestamp": 1795525934942,
   "matches": [
     {
       "matchId": 4818592,
@@ -331,7 +331,7 @@
       "matchEn": "Al Jabalain v Zulfi",
       "matchAr": "الجبلين × الزلفي",
       "rawIsoTime": "2026-11-24T12:20:00+00:00",
-      "time": "0 - 1 (45')",
+      "time": "0 - 1 (Halftime)",
       "rawMinute": 45,
       "homeGoals": 0,
       "awayGoals": 1,
@@ -345,8 +345,8 @@
       "matchEn": "Costa Rica v Ireland",
       "matchAr": "كوستاريكا × أيرلندا",
       "rawIsoTime": "2026-11-24T12:30:00+00:00",
-      "time": "0 - 0 (41')",
-      "rawMinute": 41,
+      "time": "0 - 0 (42')",
+      "rawMinute": 42,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -359,8 +359,8 @@
       "matchEn": "Venezuela v Romania",
       "matchAr": "فنزويلا × رومانيا",
       "rawIsoTime": "2026-11-24T12:30:00+00:00",
-      "time": "0 - 0 (41')",
-      "rawMinute": 41,
+      "time": "0 - 0 (42')",
+      "rawMinute": 42,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -373,10 +373,10 @@
       "matchEn": "Japan v Serbia",
       "matchAr": "اليابان × صربيا",
       "rawIsoTime": "2026-11-24T13:00:00+00:00",
-      "time": "0 - 0 (11')",
-      "rawMinute": 11,
+      "time": "0 - 1 (12')",
+      "rawMinute": 12,
       "homeGoals": 0,
-      "awayGoals": 0,
+      "awayGoals": 1,
       "isLive": true
     },
     {
