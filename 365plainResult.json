@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795532591837,
+  "timestamp": 1795532656098,
   "matches": [
     {
       "matchId": 4818592,
@@ -93,8 +93,8 @@
       "matchEn": "East Bengal (India) v Al Hussein (Jordan)",
       "matchAr": "إيست بنغال (الهند) × الحسين (الأردن)",
       "rawIsoTime": "2026-11-24T13:45:00+00:00",
-      "time": "0 - 0 (60')",
-      "rawMinute": 60,
+      "time": "0 - 0 (61')",
+      "rawMinute": 61,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -387,8 +387,8 @@
       "matchEn": "Mexico v Cameroon",
       "matchAr": "المكسيك × الكاميرون",
       "rawIsoTime": "2026-11-24T13:30:00+00:00",
-      "time": "3 - 0 (75')",
-      "rawMinute": 76,
+      "time": "3 - 0 (76')",
+      "rawMinute": 77,
       "homeGoals": 3,
       "awayGoals": 0,
       "isLive": true
@@ -401,8 +401,8 @@
       "matchEn": "Northeast United v Delhi",
       "matchAr": "نورث إيست يونايتد × دلهي",
       "rawIsoTime": "2026-11-24T14:00:00+00:00",
-      "time": "1 - 1 (46')",
-      "rawMinute": 46,
+      "time": "1 - 1 (47')",
+      "rawMinute": 47,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -416,7 +416,7 @@
       "matchAr": "هجر × الطائي",
       "rawIsoTime": "2026-11-24T14:30:00+00:00",
       "time": "0 - 1 (34')",
-      "rawMinute": 34,
+      "rawMinute": 35,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -429,8 +429,8 @@
       "matchEn": "Dominican Republic v Chile",
       "matchAr": "جمهورية الدومينيكان × تشيلي",
       "rawIsoTime": "2026-11-24T14:30:00+00:00",
-      "time": "0 - 0 (33')",
-      "rawMinute": 33,
+      "time": "0 - 0 (34')",
+      "rawMinute": 34,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -443,8 +443,8 @@
       "matchEn": "Brazil v Tanzania",
       "matchAr": "البرازيل × تنزانيا",
       "rawIsoTime": "2026-11-24T15:00:00+00:00",
-      "time": "0 - 0 (3')",
-      "rawMinute": 3,
+      "time": "0 - 0 (4')",
+      "rawMinute": 4,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
