@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795530551454,
+  "timestamp": 1795530653139,
   "matches": [
     {
       "matchId": 4818592,
@@ -93,8 +93,8 @@
       "matchEn": "East Bengal (India) v Al Hussein (Jordan)",
       "matchAr": "إيست بنغال (الهند) × الحسين (الأردن)",
       "rawIsoTime": "2026-11-24T13:45:00+00:00",
-      "time": "0 - 0 (45')",
-      "rawMinute": 45,
+      "time": "0 - 0 (45+1')",
+      "rawMinute": 46,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -373,8 +373,8 @@
       "matchEn": "Japan v Serbia",
       "matchAr": "اليابان × صربيا",
       "rawIsoTime": "2026-11-24T13:00:00+00:00",
-      "time": "0 - 1 (69')",
-      "rawMinute": 69,
+      "time": "0 - 1 (71')",
+      "rawMinute": 71,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -401,8 +401,8 @@
       "matchEn": "Northeast United v Delhi",
       "matchAr": "نورث إيست يونايتد × دلهي",
       "rawIsoTime": "2026-11-24T14:00:00+00:00",
-      "time": "1 - 1 (29')",
-      "rawMinute": 29,
+      "time": "1 - 1 (31')",
+      "rawMinute": 31,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -415,11 +415,11 @@
       "matchEn": "Hajer v Al Ta'i",
       "matchAr": "هجر × الطائي",
       "rawIsoTime": "2026-11-24T14:30:00+00:00",
-      "time": "14:30",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4895312,
@@ -429,11 +429,11 @@
       "matchEn": "Dominican Republic v Chile",
       "matchAr": "جمهورية الدومينيكان × تشيلي",
       "rawIsoTime": "2026-11-24T14:30:00+00:00",
-      "time": "14:30",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4726389,
