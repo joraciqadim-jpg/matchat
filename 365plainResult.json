@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795542854170,
+  "timestamp": 1795542923483,
   "matches": [
     {
       "matchId": 4818592,
@@ -121,8 +121,8 @@
       "matchEn": "Al Seeb (Oman) v Al Shorta (Iraq)",
       "matchAr": "السيب (عُمان) × الشرطة (العراق)",
       "rawIsoTime": "2026-11-24T16:00:00+00:00",
-      "time": "2 - 0 (90+4')",
-      "rawMinute": 95,
+      "time": "2 - 0 (90+6')",
+      "rawMinute": 96,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -135,8 +135,8 @@
       "matchEn": "Galatasaray (Turkey) v Aston Villa (England)",
       "matchAr": "غلطة سراي (تركيا) × أستون فيلا (إنجلترا)",
       "rawIsoTime": "2026-11-24T17:45:00+00:00",
-      "time": "0 - 0 (9')",
-      "rawMinute": 9,
+      "time": "0 - 0 (10')",
+      "rawMinute": 10,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -150,7 +150,7 @@
       "matchAr": "بودو/غليمت (النرويج) × لاسْك لينتس (النمسا)",
       "rawIsoTime": "2026-11-24T17:45:00+00:00",
       "time": "0 - 0 (9')",
-      "rawMinute": 9,
+      "rawMinute": 10,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
