@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795535231310,
+  "timestamp": 1795535294475,
   "matches": [
     {
       "matchId": 4818592,
@@ -401,8 +401,8 @@
       "matchEn": "Northeast United v Delhi",
       "matchAr": "نورث إيست يونايتد × دلهي",
       "rawIsoTime": "2026-11-24T14:00:00+00:00",
-      "time": "1 - 1 (90')",
-      "rawMinute": 90,
+      "time": "1 - 1 (90+1')",
+      "rawMinute": 91,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -415,8 +415,8 @@
       "matchEn": "Hajer v Al Ta'i",
       "matchAr": "هجر × الطائي",
       "rawIsoTime": "2026-11-24T14:30:00+00:00",
-      "time": "1 - 1 (53')",
-      "rawMinute": 53,
+      "time": "1 - 1 (54')",
+      "rawMinute": 54,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -429,8 +429,8 @@
       "matchEn": "Dominican Republic v Chile",
       "matchAr": "جمهورية الدومينيكان × تشيلي",
       "rawIsoTime": "2026-11-24T14:30:00+00:00",
-      "time": "2 - 0 (60')",
-      "rawMinute": 60,
+      "time": "2 - 0 (61')",
+      "rawMinute": 61,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -443,8 +443,8 @@
       "matchEn": "Brazil v Tanzania",
       "matchAr": "البرازيل × تنزانيا",
       "rawIsoTime": "2026-11-24T15:00:00+00:00",
-      "time": "1 - 0 (45+2')",
-      "rawMinute": 47,
+      "time": "1 - 0 (45+3')",
+      "rawMinute": 48,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -457,8 +457,8 @@
       "matchEn": "Honduras v Colombia",
       "matchAr": "هندوراس × كولومبيا",
       "rawIsoTime": "2026-11-24T15:30:00+00:00",
-      "time": "0 - 0 (17')",
-      "rawMinute": 17,
+      "time": "0 - 0 (18')",
+      "rawMinute": 18,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -471,8 +471,8 @@
       "matchEn": "Algeria v Montenegro",
       "matchAr": "الجزائر × الجبل الأسود",
       "rawIsoTime": "2026-11-24T15:30:00+00:00",
-      "time": "0 - 0 (17')",
-      "rawMinute": 17,
+      "time": "0 - 0 (18')",
+      "rawMinute": 18,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
