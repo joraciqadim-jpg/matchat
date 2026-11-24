@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795479254380,
+  "timestamp": 1795479333718,
   "matches": [
     {
       "matchId": 4818592,
@@ -275,8 +275,8 @@
       "matchEn": "Internacional v Vitoria",
       "matchAr": "إنترناسيونال × فيتوريا",
       "rawIsoTime": "2026-11-23T22:30:00+00:00",
-      "time": "2 - 3 (80')",
-      "rawMinute": 80,
+      "time": "2 - 3 (81')",
+      "rawMinute": 81,
       "homeGoals": 2,
       "awayGoals": 3,
       "isLive": true
@@ -289,8 +289,8 @@
       "matchEn": "Botafogo v São Paulo",
       "matchAr": "بوتافوغو × ساو باولو",
       "rawIsoTime": "2026-11-23T23:00:00+00:00",
-      "time": "0 - 1 (51')",
-      "rawMinute": 51,
+      "time": "0 - 1 (52')",
+      "rawMinute": 52,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -303,8 +303,8 @@
       "matchEn": "Santos v Gremio",
       "matchAr": "سانتوس × غريميو",
       "rawIsoTime": "2026-11-24T00:00:00+00:00",
-      "time": "0 - 0 (11')",
-      "rawMinute": 11,
+      "time": "0 - 0 (12')",
+      "rawMinute": 12,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
