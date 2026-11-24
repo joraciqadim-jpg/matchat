@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795517351520,
+  "timestamp": 1795517436450,
   "matches": [
     {
       "matchId": 4818592,
@@ -23,8 +23,8 @@
       "matchEn": "Kyoto (Japan) v Pohang Steelers (South Korea)",
       "matchAr": "كيوتو (اليابان) × بوهانغ ستيلرز (كوريا الجنوبية)",
       "rawIsoTime": "2026-11-24T10:00:00+00:00",
-      "time": "0 - 0 (45+5')",
-      "rawMinute": 50,
+      "time": "0 - 0 (Halftime)",
+      "rawMinute": 45,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
