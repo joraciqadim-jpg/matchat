@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795508471499,
+  "timestamp": 1795508533849,
   "matches": [
     {
       "matchId": 4818592,
@@ -9,8 +9,8 @@
       "matchEn": "Newcastle Jets (Australia) v Kashiwa Reysol (Japan)",
       "matchAr": "نيوكاسل جيتس (أستراليا) × كاشيوا ريسول (اليابان)",
       "rawIsoTime": "2026-11-24T07:45:00+00:00",
-      "time": "1 - 1 (36')",
-      "rawMinute": 37,
+      "time": "1 - 1 (38')",
+      "rawMinute": 38,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -486,20 +486,6 @@
       "matchAr": "هيبرنيان × دندي",
       "rawIsoTime": "2026-11-24T19:45:00+00:00",
       "time": "19:45",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
-    },
-    {
-      "matchId": 4741620,
-      "competitionId": "61",
-      "tournamentEn": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland Scottish Premiership",
-      "tournamentAr": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 الدوري الإسكتلندي الممتاز",
-      "matchEn": "Rangers v Aberdeen",
-      "matchAr": "رينجرز × أبردين",
-      "rawIsoTime": "2026-11-24T20:00:00+00:00",
-      "time": "20:00",
       "rawMinute": 1,
       "homeGoals": -1,
       "awayGoals": -1,
