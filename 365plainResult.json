@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795535134716,
+  "timestamp": 1795535175287,
   "matches": [
     {
       "matchId": 4818592,
@@ -401,8 +401,8 @@
       "matchEn": "Northeast United v Delhi",
       "matchAr": "نورث إيست يونايتد × دلهي",
       "rawIsoTime": "2026-11-24T14:00:00+00:00",
-      "time": "1 - 1 (88')",
-      "rawMinute": 88,
+      "time": "1 - 1 (89')",
+      "rawMinute": 89,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -429,8 +429,8 @@
       "matchEn": "Dominican Republic v Chile",
       "matchAr": "جمهورية الدومينيكان × تشيلي",
       "rawIsoTime": "2026-11-24T14:30:00+00:00",
-      "time": "2 - 0 (58')",
-      "rawMinute": 58,
+      "time": "2 - 0 (59')",
+      "rawMinute": 59,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -443,8 +443,8 @@
       "matchEn": "Brazil v Tanzania",
       "matchAr": "البرازيل × تنزانيا",
       "rawIsoTime": "2026-11-24T15:00:00+00:00",
-      "time": "1 - 0 (45')",
-      "rawMinute": 45,
+      "time": "1 - 0 (45+1')",
+      "rawMinute": 46,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -457,7 +457,7 @@
       "matchEn": "Honduras v Colombia",
       "matchAr": "هندوراس × كولومبيا",
       "rawIsoTime": "2026-11-24T15:30:00+00:00",
-      "time": "0 - 0 (15')",
+      "time": "0 - 0 (16')",
       "rawMinute": 16,
       "homeGoals": 0,
       "awayGoals": 0,
@@ -471,8 +471,8 @@
       "matchEn": "Algeria v Montenegro",
       "matchAr": "الجزائر × الجبل الأسود",
       "rawIsoTime": "2026-11-24T15:30:00+00:00",
-      "time": "0 - 0 (15')",
-      "rawMinute": 15,
+      "time": "0 - 0 (16')",
+      "rawMinute": 16,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
