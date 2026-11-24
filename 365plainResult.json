@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795549094751,
+  "timestamp": 1795549152074,
   "matches": [
     {
       "matchId": 4818592,
@@ -128,6 +128,20 @@
       "isLive": false
     },
     {
+      "matchId": 4828429,
+      "competitionId": "572",
+      "tournamentEn": "🛡️ Europe UEFA Champions League",
+      "tournamentAr": "🛡️ دوري أبطال أوروبا",
+      "matchEn": "Galatasaray (Turkey) v Aston Villa (England)",
+      "matchAr": "غلطة سراي (تركيا) × أستون فيلا (إنجلترا)",
+      "rawIsoTime": "2026-11-24T17:45:00+00:00",
+      "time": "1 - 0 (done)",
+      "rawMinute": 90,
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "isLive": false
+    },
+    {
       "matchId": 4828430,
       "competitionId": "572",
       "tournamentEn": "🛡️ Europe UEFA Champions League",
@@ -142,20 +156,6 @@
       "isLive": false
     },
     {
-      "matchId": 4828429,
-      "competitionId": "572",
-      "tournamentEn": "🛡️ Europe UEFA Champions League",
-      "tournamentAr": "🛡️ دوري أبطال أوروبا",
-      "matchEn": "Galatasaray (Turkey) v Aston Villa (England)",
-      "matchAr": "غلطة سراي (تركيا) × أستون فيلا (إنجلترا)",
-      "rawIsoTime": "2026-11-24T17:45:00+00:00",
-      "time": "1 - 0 (90+7')",
-      "rawMinute": 97,
-      "homeGoals": 1,
-      "awayGoals": 0,
-      "isLive": true
-    },
-    {
       "matchId": 4818330,
       "competitionId": "623",
       "tournamentEn": "🛡️ Asia AFC Champions League Elite",
@@ -163,8 +163,8 @@
       "matchEn": "Al Nassr (Saudi Arabia) v Al Sadd (Qatar)",
       "matchAr": "النصر (السعودية) × السد (قطر)",
       "rawIsoTime": "2026-11-24T18:15:00+00:00",
-      "time": "2 - 1 (63')",
-      "rawMinute": 63,
+      "time": "2 - 1 (64')",
+      "rawMinute": 64,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
