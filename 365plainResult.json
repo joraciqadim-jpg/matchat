@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795533494910,
+  "timestamp": 1795533551746,
   "matches": [
     {
       "matchId": 4818592,
@@ -93,8 +93,8 @@
       "matchEn": "East Bengal (India) v Al Hussein (Jordan)",
       "matchAr": "إيست بنغال (الهند) × الحسين (الأردن)",
       "rawIsoTime": "2026-11-24T13:45:00+00:00",
-      "time": "0 - 0 (75')",
-      "rawMinute": 75,
+      "time": "0 - 0 (76')",
+      "rawMinute": 76,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -388,7 +388,7 @@
       "matchAr": "المكسيك × الكاميرون",
       "rawIsoTime": "2026-11-24T13:30:00+00:00",
       "time": "4 - 0 (90+1')",
-      "rawMinute": 91,
+      "rawMinute": 92,
       "homeGoals": 4,
       "awayGoals": 0,
       "isLive": true
@@ -401,8 +401,8 @@
       "matchEn": "Northeast United v Delhi",
       "matchAr": "نورث إيست يونايتد × دلهي",
       "rawIsoTime": "2026-11-24T14:00:00+00:00",
-      "time": "1 - 1 (61')",
-      "rawMinute": 61,
+      "time": "1 - 1 (62')",
+      "rawMinute": 62,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -443,8 +443,8 @@
       "matchEn": "Brazil v Tanzania",
       "matchAr": "البرازيل × تنزانيا",
       "rawIsoTime": "2026-11-24T15:00:00+00:00",
-      "time": "1 - 0 (18')",
-      "rawMinute": 18,
+      "time": "1 - 0 (19')",
+      "rawMinute": 19,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
