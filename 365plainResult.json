@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795480151085,
+  "timestamp": 1795480251909,
   "matches": [
     {
       "matchId": 4818592,
@@ -275,11 +275,11 @@
       "matchEn": "Internacional v Vitoria",
       "matchAr": "إنترناسيونال × فيتوريا",
       "rawIsoTime": "2026-11-23T22:30:00+00:00",
-      "time": "2 - 5 (90+5')",
-      "rawMinute": 95,
+      "time": "2 - 5 (done)",
+      "rawMinute": 90,
       "homeGoals": 2,
       "awayGoals": 5,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4632595,
@@ -289,8 +289,8 @@
       "matchEn": "Botafogo v São Paulo",
       "matchAr": "بوتافوغو × ساو باولو",
       "rawIsoTime": "2026-11-23T23:00:00+00:00",
-      "time": "0 - 1 (66')",
-      "rawMinute": 66,
+      "time": "0 - 1 (68')",
+      "rawMinute": 68,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -303,8 +303,8 @@
       "matchEn": "Santos v Gremio",
       "matchAr": "سانتوس × غريميو",
       "rawIsoTime": "2026-11-24T00:00:00+00:00",
-      "time": "0 - 1 (25')",
-      "rawMinute": 25,
+      "time": "0 - 1 (27')",
+      "rawMinute": 27,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -514,20 +514,6 @@
       "matchAr": "هيبرنيان × دندي",
       "rawIsoTime": "2026-11-24T19:45:00+00:00",
       "time": "19:45",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
-    },
-    {
-      "matchId": 4741620,
-      "competitionId": "61",
-      "tournamentEn": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland Scottish Premiership",
-      "tournamentAr": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 الدوري الإسكتلندي الممتاز",
-      "matchEn": "Rangers v Aberdeen",
-      "matchAr": "رينجرز × أبردين",
-      "rawIsoTime": "2026-11-24T20:00:00+00:00",
-      "time": "20:00",
       "rawMinute": 1,
       "homeGoals": -1,
       "awayGoals": -1,
