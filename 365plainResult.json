@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795556535299,
+  "timestamp": 1795556591207,
   "matches": [
     {
       "matchId": 4818592,
@@ -177,7 +177,7 @@
       "matchEn": "Como (Italy) v AEK Athens (Greece)",
       "matchAr": "كومو (إيطاليا) × أيك أثينا (اليونان)",
       "rawIsoTime": "2026-11-24T20:00:00+00:00",
-      "time": "1 - 0 (81')",
+      "time": "1 - 0 (82')",
       "rawMinute": 82,
       "homeGoals": 1,
       "awayGoals": 0,
@@ -191,8 +191,8 @@
       "matchEn": "Feyenoord (Netherlands) v Porto (Portugal)",
       "matchAr": "فاينورد (هولندا) × بورتو (البرتغال)",
       "rawIsoTime": "2026-11-24T20:00:00+00:00",
-      "time": "0 - 1 (83')",
-      "rawMinute": 83,
+      "time": "0 - 1 (84')",
+      "rawMinute": 84,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -205,8 +205,8 @@
       "matchEn": "Arsenal (England) v Borussia Dortmund (Germany)",
       "matchAr": "أرسنال (إنجلترا) × بوروسيا دورتموند (ألمانيا)",
       "rawIsoTime": "2026-11-24T20:00:00+00:00",
-      "time": "1 - 1 (87')",
-      "rawMinute": 87,
+      "time": "1 - 1 (88')",
+      "rawMinute": 88,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -219,8 +219,8 @@
       "matchEn": "Slovan Bratislava (Slovakia) v Real Betis (Spain)",
       "matchAr": "سلوفان براتيسلافا (سلوفاكيا) × ريال بيتيس (إسبانيا)",
       "rawIsoTime": "2026-11-24T20:00:00+00:00",
-      "time": "0 - 2 (86')",
-      "rawMinute": 86,
+      "time": "0 - 2 (87')",
+      "rawMinute": 87,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -233,8 +233,8 @@
       "matchEn": "Manchester City (England) v Napoli (Italy)",
       "matchAr": "مانشستر سيتي (إنجلترا) × نابولي (إيطاليا)",
       "rawIsoTime": "2026-11-24T20:00:00+00:00",
-      "time": "1 - 2 (85')",
-      "rawMinute": 85,
+      "time": "1 - 2 (86')",
+      "rawMinute": 86,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -247,9 +247,9 @@
       "matchEn": "Real Madrid (Spain) v PSV Eindhoven (Netherlands)",
       "matchAr": "ريال مدريد (إسبانيا) × أيندهوفن (هولندا)",
       "rawIsoTime": "2026-11-24T20:00:00+00:00",
-      "time": "3 - 1 (84')",
-      "rawMinute": 84,
-      "homeGoals": 3,
+      "time": "4 - 1 (85')",
+      "rawMinute": 85,
+      "homeGoals": 4,
       "awayGoals": 1,
       "isLive": true
     },
@@ -261,8 +261,8 @@
       "matchEn": "RB Leipzig (Germany) v Lens (France)",
       "matchAr": "لايبزيغ (ألمانيا) × لانس (فرنسا)",
       "rawIsoTime": "2026-11-24T20:00:00+00:00",
-      "time": "2 - 1 (86')",
-      "rawMinute": 86,
+      "time": "2 - 1 (87')",
+      "rawMinute": 87,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -289,8 +289,8 @@
       "matchEn": "Chapecoense v Palmeiras",
       "matchAr": "شابيكوينسي × بالميراس",
       "rawIsoTime": "2026-11-24T21:00:00+00:00",
-      "time": "2 - 0 (41')",
-      "rawMinute": 41,
+      "time": "2 - 0 (42')",
+      "rawMinute": 42,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -499,8 +499,8 @@
       "matchEn": "Rangers v Aberdeen",
       "matchAr": "رينجرز × أبردين",
       "rawIsoTime": "2026-11-24T20:00:00+00:00",
-      "time": "3 - 2 (82')",
-      "rawMinute": 82,
+      "time": "3 - 2 (83')",
+      "rawMinute": 83,
       "homeGoals": 3,
       "awayGoals": 2,
       "isLive": true
