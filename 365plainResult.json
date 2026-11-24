@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795530134278,
+  "timestamp": 1795530191266,
   "matches": [
     {
       "matchId": 4818592,
@@ -93,8 +93,8 @@
       "matchEn": "East Bengal (India) v Al Hussein (Jordan)",
       "matchAr": "إيست بنغال (الهند) × الحسين (الأردن)",
       "rawIsoTime": "2026-11-24T13:45:00+00:00",
-      "time": "0 - 0 (38')",
-      "rawMinute": 38,
+      "time": "0 - 0 (39')",
+      "rawMinute": 39,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -338,20 +338,6 @@
       "isLive": false
     },
     {
-      "matchId": 4722863,
-      "competitionId": "5582",
-      "tournamentEn": "🛡️ World Cup U17",
-      "tournamentAr": "🛡️ كأس العالم تحت 17 سنة",
-      "matchEn": "Costa Rica v Ireland",
-      "matchAr": "كوستاريكا × أيرلندا",
-      "rawIsoTime": "2026-11-24T12:30:00+00:00",
-      "time": "0 - 2 (90+5')",
-      "rawMinute": 95,
-      "homeGoals": 0,
-      "awayGoals": 2,
-      "isLive": true
-    },
-    {
       "matchId": 4722891,
       "competitionId": "5582",
       "tournamentEn": "🛡️ World Cup U17",
@@ -359,10 +345,24 @@
       "matchEn": "Venezuela v Romania",
       "matchAr": "فنزويلا × رومانيا",
       "rawIsoTime": "2026-11-24T12:30:00+00:00",
-      "time": "1 - 0 (90+5')",
-      "rawMinute": 95,
+      "time": "1 - 0 (done)",
+      "rawMinute": 90,
       "homeGoals": 1,
       "awayGoals": 0,
+      "isLive": false
+    },
+    {
+      "matchId": 4722863,
+      "competitionId": "5582",
+      "tournamentEn": "🛡️ World Cup U17",
+      "tournamentAr": "🛡️ كأس العالم تحت 17 سنة",
+      "matchEn": "Costa Rica v Ireland",
+      "matchAr": "كوستاريكا × أيرلندا",
+      "rawIsoTime": "2026-11-24T12:30:00+00:00",
+      "time": "0 - 2 (90+6')",
+      "rawMinute": 96,
+      "homeGoals": 0,
+      "awayGoals": 2,
       "isLive": true
     },
     {
@@ -373,7 +373,7 @@
       "matchEn": "Japan v Serbia",
       "matchAr": "اليابان × صربيا",
       "rawIsoTime": "2026-11-24T13:00:00+00:00",
-      "time": "0 - 1 (62')",
+      "time": "0 - 1 (63')",
       "rawMinute": 63,
       "homeGoals": 0,
       "awayGoals": 1,
@@ -401,8 +401,8 @@
       "matchEn": "Northeast United v Delhi",
       "matchAr": "نورث إيست يونايتد × دلهي",
       "rawIsoTime": "2026-11-24T14:00:00+00:00",
-      "time": "0 - 1 (22')",
-      "rawMinute": 22,
+      "time": "0 - 1 (23')",
+      "rawMinute": 23,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
