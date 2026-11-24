@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795480574543,
+  "timestamp": 1795480631211,
   "matches": [
     {
       "matchId": 4818592,
@@ -268,20 +268,6 @@
       "isLive": false
     },
     {
-      "matchId": 4632590,
-      "competitionId": "113",
-      "tournamentEn": "🇧🇷 Brazilian Série A",
-      "tournamentAr": "🇧🇷 الدوري البرازيلي",
-      "matchEn": "Internacional v Vitoria",
-      "matchAr": "إنترناسيونال × فيتوريا",
-      "rawIsoTime": "2026-11-23T22:30:00+00:00",
-      "time": "2 - 5 (done)",
-      "rawMinute": 90,
-      "homeGoals": 2,
-      "awayGoals": 5,
-      "isLive": false
-    },
-    {
       "matchId": 4632595,
       "competitionId": "113",
       "tournamentEn": "🇧🇷 Brazilian Série A",
@@ -289,8 +275,8 @@
       "matchEn": "Botafogo v São Paulo",
       "matchAr": "بوتافوغو × ساو باولو",
       "rawIsoTime": "2026-11-23T23:00:00+00:00",
-      "time": "0 - 1 (73')",
-      "rawMinute": 73,
+      "time": "0 - 1 (74')",
+      "rawMinute": 74,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
