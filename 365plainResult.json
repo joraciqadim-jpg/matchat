@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795526655011,
+  "timestamp": 1795526723761,
   "matches": [
     {
       "matchId": 4818592,
@@ -51,8 +51,8 @@
       "matchEn": "Ratchaburi (Thailand) v Johor Darul Ta’zim (Malaysia)",
       "matchAr": "راتشابوري (تايلاند) × جوهور دار التعظيم (ماليزيا)",
       "rawIsoTime": "2026-11-24T12:15:00+00:00",
-      "time": "0 - 1 (50')",
-      "rawMinute": 51,
+      "time": "0 - 1 (51')",
+      "rawMinute": 52,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -65,8 +65,8 @@
       "matchEn": "Shanghai Port (China) v Buriram United (Thailand)",
       "matchAr": "شنغهاي بورت (الصين) × بوريرام يونايتد (تايلاند)",
       "rawIsoTime": "2026-11-24T12:15:00+00:00",
-      "time": "2 - 1 (52')",
-      "rawMinute": 52,
+      "time": "2 - 1 (53')",
+      "rawMinute": 54,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -79,8 +79,8 @@
       "matchEn": "Công An Hà Nội (Vietnam) v Vissel Kobe (Japan)",
       "matchAr": "شرطة هانوي (فيتنام) × فيسيل كوبي (اليابان)",
       "rawIsoTime": "2026-11-24T12:15:00+00:00",
-      "time": "2 - 0 (49')",
-      "rawMinute": 50,
+      "time": "2 - 0 (51')",
+      "rawMinute": 51,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -303,8 +303,8 @@
       "matchEn": "Al Raed v Al-Akhdoud",
       "matchAr": "الرائد × الأخدود",
       "rawIsoTime": "2026-11-24T12:15:00+00:00",
-      "time": "1 - 1 (49')",
-      "rawMinute": 49,
+      "time": "1 - 1 (50')",
+      "rawMinute": 50,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -373,8 +373,8 @@
       "matchEn": "Japan v Serbia",
       "matchAr": "اليابان × صربيا",
       "rawIsoTime": "2026-11-24T13:00:00+00:00",
-      "time": "0 - 1 (24')",
-      "rawMinute": 24,
+      "time": "0 - 1 (25')",
+      "rawMinute": 25,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
