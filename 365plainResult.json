@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795521254310,
+  "timestamp": 1795521322567,
   "matches": [
     {
       "matchId": 4818592,
@@ -16,20 +16,6 @@
       "isLive": false
     },
     {
-      "matchId": 4818590,
-      "competitionId": "623",
-      "tournamentEn": "🛡️ Asia AFC Champions League Elite",
-      "tournamentAr": "🛡️ دوري أبطال آسيا للنخبة",
-      "matchEn": "Kyoto (Japan) v Pohang Steelers (South Korea)",
-      "matchAr": "كيوتو (اليابان) × بوهانغ ستيلرز (كوريا الجنوبية)",
-      "rawIsoTime": "2026-11-24T10:00:00+00:00",
-      "time": "1 - 0 (90+5')",
-      "rawMinute": 95,
-      "homeGoals": 1,
-      "awayGoals": 0,
-      "isLive": true
-    },
-    {
       "matchId": 4818591,
       "competitionId": "623",
       "tournamentEn": "🛡️ Asia AFC Champions League Elite",
@@ -37,10 +23,24 @@
       "matchEn": "Daejeon Hana Citizen (South Korea) v Beijing Guoan (China)",
       "matchAr": "دايجون هانا سيتيزن (كوريا الجنوبية) × بكين غوان (الصين)",
       "rawIsoTime": "2026-11-24T10:00:00+00:00",
-      "time": "3 - 2 (90+5')",
-      "rawMinute": 95,
+      "time": "3 - 2 (done)",
+      "rawMinute": 90,
       "homeGoals": 3,
       "awayGoals": 2,
+      "isLive": false
+    },
+    {
+      "matchId": 4818590,
+      "competitionId": "623",
+      "tournamentEn": "🛡️ Asia AFC Champions League Elite",
+      "tournamentAr": "🛡️ دوري أبطال آسيا للنخبة",
+      "matchEn": "Kyoto (Japan) v Pohang Steelers (South Korea)",
+      "matchAr": "كيوتو (اليابان) × بوهانغ ستيلرز (كوريا الجنوبية)",
+      "rawIsoTime": "2026-11-24T10:00:00+00:00",
+      "time": "1 - 0 (90+6')",
+      "rawMinute": 96,
+      "homeGoals": 1,
+      "awayGoals": 0,
       "isLive": true
     },
     {
