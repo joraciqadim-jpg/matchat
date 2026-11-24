@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795557191361,
+  "timestamp": 1795557254662,
   "matches": [
     {
       "matchId": 4818592,
@@ -170,6 +170,20 @@
       "isLive": false
     },
     {
+      "matchId": 4828422,
+      "competitionId": "572",
+      "tournamentEn": "🛡️ Europe UEFA Champions League",
+      "tournamentAr": "🛡️ دوري أبطال أوروبا",
+      "matchEn": "Como (Italy) v AEK Athens (Greece)",
+      "matchAr": "كومو (إيطاليا) × أيك أثينا (اليونان)",
+      "rawIsoTime": "2026-11-24T20:00:00+00:00",
+      "time": "1 - 0 (done)",
+      "rawMinute": 90,
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "isLive": false
+    },
+    {
       "matchId": 4828424,
       "competitionId": "572",
       "tournamentEn": "🛡️ Europe UEFA Champions League",
@@ -240,20 +254,6 @@
       "isLive": false
     },
     {
-      "matchId": 4828422,
-      "competitionId": "572",
-      "tournamentEn": "🛡️ Europe UEFA Champions League",
-      "tournamentAr": "🛡️ دوري أبطال أوروبا",
-      "matchEn": "Como (Italy) v AEK Athens (Greece)",
-      "matchAr": "كومو (إيطاليا) × أيك أثينا (اليونان)",
-      "rawIsoTime": "2026-11-24T20:00:00+00:00",
-      "time": "1 - 0 (90+2')",
-      "rawMinute": 92,
-      "homeGoals": 1,
-      "awayGoals": 0,
-      "isLive": true
-    },
-    {
       "matchId": 4828423,
       "competitionId": "572",
       "tournamentEn": "🛡️ Europe UEFA Champions League",
@@ -261,8 +261,8 @@
       "matchEn": "Feyenoord (Netherlands) v Porto (Portugal)",
       "matchAr": "فاينورد (هولندا) × بورتو (البرتغال)",
       "rawIsoTime": "2026-11-24T20:00:00+00:00",
-      "time": "0 - 1 (90+4')",
-      "rawMinute": 94,
+      "time": "0 - 1 (90+5')",
+      "rawMinute": 95,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -499,8 +499,8 @@
       "matchEn": "Rangers v Aberdeen",
       "matchAr": "رينجرز × أبردين",
       "rawIsoTime": "2026-11-24T20:00:00+00:00",
-      "time": "3 - 2 (90+3')",
-      "rawMinute": 93,
+      "time": "3 - 2 (90+4')",
+      "rawMinute": 94,
       "homeGoals": 3,
       "awayGoals": 2,
       "isLive": true
