@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795550471350,
+  "timestamp": 1795550536426,
   "matches": [
     {
       "matchId": 4818592,
@@ -163,8 +163,8 @@
       "matchEn": "Al Nassr (Saudi Arabia) v Al Sadd (Qatar)",
       "matchAr": "النصر (السعودية) × السد (قطر)",
       "rawIsoTime": "2026-11-24T18:15:00+00:00",
-      "time": "2 - 1 (86')",
-      "rawMinute": 86,
+      "time": "2 - 1 (87')",
+      "rawMinute": 87,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -191,11 +191,11 @@
       "matchEn": "Feyenoord (Netherlands) v Porto (Portugal)",
       "matchAr": "فاينورد (هولندا) × بورتو (البرتغال)",
       "rawIsoTime": "2026-11-24T20:00:00+00:00",
-      "time": "20:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4828424,
@@ -205,8 +205,8 @@
       "matchEn": "Arsenal (England) v Borussia Dortmund (Germany)",
       "matchAr": "أرسنال (إنجلترا) × بوروسيا دورتموند (ألمانيا)",
       "rawIsoTime": "2026-11-24T20:00:00+00:00",
-      "time": "0 - 0 (1')",
-      "rawMinute": 1,
+      "time": "0 - 0 (2')",
+      "rawMinute": 2,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -219,8 +219,8 @@
       "matchEn": "Slovan Bratislava (Slovakia) v Real Betis (Spain)",
       "matchAr": "سلوفان براتيسلافا (سلوفاكيا) × ريال بيتيس (إسبانيا)",
       "rawIsoTime": "2026-11-24T20:00:00+00:00",
-      "time": "0 - 0 (1')",
-      "rawMinute": 1,
+      "time": "0 - 0 (3')",
+      "rawMinute": 3,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -233,11 +233,11 @@
       "matchEn": "Manchester City (England) v Napoli (Italy)",
       "matchAr": "مانشستر سيتي (إنجلترا) × نابولي (إيطاليا)",
       "rawIsoTime": "2026-11-24T20:00:00+00:00",
-      "time": "20:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4828427,
@@ -247,8 +247,8 @@
       "matchEn": "Real Madrid (Spain) v PSV Eindhoven (Netherlands)",
       "matchAr": "ريال مدريد (إسبانيا) × أيندهوفن (هولندا)",
       "rawIsoTime": "2026-11-24T20:00:00+00:00",
-      "time": "0 - 0 (1')",
-      "rawMinute": 1,
+      "time": "0 - 0 (3')",
+      "rawMinute": 3,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -261,8 +261,8 @@
       "matchEn": "RB Leipzig (Germany) v Lens (France)",
       "matchAr": "لايبزيغ (ألمانيا) × لانس (فرنسا)",
       "rawIsoTime": "2026-11-24T20:00:00+00:00",
-      "time": "0 - 0 (1')",
-      "rawMinute": 1,
+      "time": "0 - 0 (2')",
+      "rawMinute": 2,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -485,8 +485,8 @@
       "matchEn": "Hibernian v Dundee",
       "matchAr": "هيبرنيان × دندي",
       "rawIsoTime": "2026-11-24T19:45:00+00:00",
-      "time": "0 - 0 (14')",
-      "rawMinute": 14,
+      "time": "0 - 0 (15')",
+      "rawMinute": 15,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
