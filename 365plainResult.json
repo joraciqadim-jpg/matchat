@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795635431155,
+  "timestamp": 1795635494885,
   "matches": [
     {
       "matchId": 4818652,
@@ -149,8 +149,8 @@
       "matchEn": "Slavia Praha (Czech Republic) v Villarreal (Spain)",
       "matchAr": "سلافيا براغ (جمهورية التشيك) × فياريال (إسبانيا)",
       "rawIsoTime": "2026-11-25T17:45:00+00:00",
-      "time": "0 - 1 (90+4')",
-      "rawMinute": 94,
+      "time": "0 - 1 (90+5')",
+      "rawMinute": 95,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -163,8 +163,8 @@
       "matchEn": "Al Taawoun (Saudi Arabia) v Al Nahda (Oman)",
       "matchAr": "التعاون (السعودية) × النهضة (عُمان)",
       "rawIsoTime": "2026-11-25T18:15:00+00:00",
-      "time": "0 - 0 (63')",
-      "rawMinute": 64,
+      "time": "0 - 0 (64')",
+      "rawMinute": 65,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
