@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795608855311,
+  "timestamp": 1795608935349,
   "matches": [
     {
       "matchId": 4818652,
@@ -51,11 +51,11 @@
       "matchEn": "Persib Bandung (Indonesia) v Seoul (South Korea)",
       "matchAr": "بيرسيب باندونغ (إندونيسيا) × سيول (كوريا الجنوبية)",
       "rawIsoTime": "2026-11-25T12:15:00+00:00",
-      "time": "12:15",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4818651,
@@ -373,8 +373,8 @@
       "matchEn": "Urawa Red Diamonds v Cerezo Osaka",
       "matchAr": "أوراوا ريد دايموندز × سيريزو أوساكا",
       "rawIsoTime": "2026-11-25T10:30:00+00:00",
-      "time": "2 - 2 (84')",
-      "rawMinute": 84,
+      "time": "2 - 2 (85')",
+      "rawMinute": 85,
       "homeGoals": 2,
       "awayGoals": 2,
       "isLive": true
@@ -401,8 +401,8 @@
       "matchEn": "Al Anwar v Al-Jndal",
       "matchAr": "الأنوار × الجندل",
       "rawIsoTime": "2026-11-25T12:10:00+00:00",
-      "time": "0 - 0 (5')",
-      "rawMinute": 5,
+      "time": "0 - 0 (6')",
+      "rawMinute": 6,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -415,8 +415,8 @@
       "matchEn": "Albukiryah v Al Wehda",
       "matchAr": "البكيرية × الوحدة",
       "rawIsoTime": "2026-11-25T12:10:00+00:00",
-      "time": "0 - 0 (4')",
-      "rawMinute": 5,
+      "time": "0 - 0 (6')",
+      "rawMinute": 6,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
