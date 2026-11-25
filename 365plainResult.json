@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795610054737,
+  "timestamp": 1795610123035,
   "matches": [
     {
       "matchId": 4818652,
@@ -51,8 +51,8 @@
       "matchEn": "Persib Bandung (Indonesia) v Seoul (South Korea)",
       "matchAr": "بيرسيب باندونغ (إندونيسيا) × سيول (كوريا الجنوبية)",
       "rawIsoTime": "2026-11-25T12:15:00+00:00",
-      "time": "1 - 0 (20')",
-      "rawMinute": 20,
+      "time": "1 - 0 (21')",
+      "rawMinute": 21,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -387,8 +387,8 @@
       "matchEn": "Kryvbas v Kharkiv",
       "matchAr": "كريفباس × خاركوف",
       "rawIsoTime": "2026-11-25T11:00:00+00:00",
-      "time": "0 - 2 (15')",
-      "rawMinute": 15,
+      "time": "0 - 2 (16')",
+      "rawMinute": 16,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -401,8 +401,8 @@
       "matchEn": "Al Anwar v Al-Jndal",
       "matchAr": "الأنوار × الجندل",
       "rawIsoTime": "2026-11-25T12:10:00+00:00",
-      "time": "0 - 0 (25')",
-      "rawMinute": 25,
+      "time": "0 - 0 (26')",
+      "rawMinute": 26,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -415,8 +415,8 @@
       "matchEn": "Albukiryah v Al Wehda",
       "matchAr": "البكيرية × الوحدة",
       "rawIsoTime": "2026-11-25T12:10:00+00:00",
-      "time": "1 - 1 (25')",
-      "rawMinute": 25,
+      "time": "1 - 1 (26')",
+      "rawMinute": 26,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -429,8 +429,8 @@
       "matchEn": "Ecuador v South Korea",
       "matchAr": "الإكوادور × كوريا الجنوبية",
       "rawIsoTime": "2026-11-25T12:30:00+00:00",
-      "time": "0 - 0 (4')",
-      "rawMinute": 4,
+      "time": "0 - 0 (5')",
+      "rawMinute": 5,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -444,7 +444,7 @@
       "matchAr": "أوغندا × كاليدونيا الجديدة",
       "rawIsoTime": "2026-11-25T12:30:00+00:00",
       "time": "0 - 0 (4')",
-      "rawMinute": 4,
+      "rawMinute": 5,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
