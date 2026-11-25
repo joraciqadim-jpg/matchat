@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795637654557,
+  "timestamp": 1795637735080,
   "matches": [
     {
       "matchId": 4818652,
@@ -178,7 +178,7 @@
       "matchAr": "سبورتينغ لشبونة (البرتغال) × مانشستر يونايتد (إنجلترا)",
       "rawIsoTime": "2026-11-25T20:00:00+00:00",
       "time": "0 - 0 (15')",
-      "rawMinute": 15,
+      "rawMinute": 16,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -192,7 +192,7 @@
       "matchAr": "أتلتيكو مدريد (إسبانيا) × فايكينغ (النرويج)",
       "rawIsoTime": "2026-11-25T20:00:00+00:00",
       "time": "0 - 0 (14')",
-      "rawMinute": 14,
+      "rawMinute": 15,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -206,7 +206,7 @@
       "matchAr": "بروج (بلجيكا) × ليفربول (إنجلترا)",
       "rawIsoTime": "2026-11-25T20:00:00+00:00",
       "time": "0 - 1 (13')",
-      "rawMinute": 13,
+      "rawMinute": 14,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -220,7 +220,7 @@
       "matchAr": "ليل (فرنسا) × بايرن ميونخ (ألمانيا)",
       "rawIsoTime": "2026-11-25T20:00:00+00:00",
       "time": "0 - 0 (14')",
-      "rawMinute": 14,
+      "rawMinute": 15,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -234,7 +234,7 @@
       "matchAr": "شاختار دونيتسك (أوكرانيا) × فنربخشة (تركيا)",
       "rawIsoTime": "2026-11-25T20:00:00+00:00",
       "time": "0 - 0 (13')",
-      "rawMinute": 13,
+      "rawMinute": 14,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -247,8 +247,8 @@
       "matchEn": "Paris Saint-Germain (France) v Roma (Italy)",
       "matchAr": "باريس سان جيرمان (فرنسا) × روما (إيطاليا)",
       "rawIsoTime": "2026-11-25T20:00:00+00:00",
-      "time": "0 - 1 (13')",
-      "rawMinute": 13,
+      "time": "0 - 1 (14')",
+      "rawMinute": 15,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -261,8 +261,8 @@
       "matchEn": "Inter Milan (Italy) v Stuttgart (Germany)",
       "matchAr": "إنتر ميلان (إيطاليا) × شتوتغارت (ألمانيا)",
       "rawIsoTime": "2026-11-25T20:00:00+00:00",
-      "time": "0 - 0 (14')",
-      "rawMinute": 14,
+      "time": "0 - 0 (15')",
+      "rawMinute": 16,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
