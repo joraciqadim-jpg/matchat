@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795639835697,
+  "timestamp": 1795639872216,
   "matches": [
     {
       "matchId": 4818652,
@@ -205,8 +205,8 @@
       "matchEn": "Brugge (Belgium) v Liverpool (England)",
       "matchAr": "بروج (بلجيكا) × ليفربول (إنجلترا)",
       "rawIsoTime": "2026-11-25T20:00:00+00:00",
-      "time": "0 - 1 (45+4')",
-      "rawMinute": 49,
+      "time": "0 - 1 (Halftime)",
+      "rawMinute": 45,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
