@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795637950882,
+  "timestamp": 1795638035674,
   "matches": [
     {
       "matchId": 4818652,
@@ -146,8 +146,8 @@
       "competitionId": "572",
       "tournamentEn": "🛡️ Europe UEFA Champions League",
       "tournamentAr": "🛡️ دوري أبطال أوروبا",
-      "matchEn": "Sabah (Malaysia) v Barcelona (Spain)",
-      "matchAr": "صباح (ماليزيا) × برشلونة (إسبانيا)",
+      "matchEn": "Sabah (azerbaijan) v Barcelona (Spain)",
+      "matchAr": "صباح (أذربيجان) × برشلونة (إسبانيا)",
       "rawIsoTime": "2026-11-25T17:45:00+00:00",
       "time": "1 - 4 (done)",
       "rawMinute": 90,
@@ -177,8 +177,8 @@
       "matchEn": "Sporting CP (Portugal) v Manchester United (England)",
       "matchAr": "سبورتينغ لشبونة (البرتغال) × مانشستر يونايتد (إنجلترا)",
       "rawIsoTime": "2026-11-25T20:00:00+00:00",
-      "time": "0 - 0 (19')",
-      "rawMinute": 20,
+      "time": "0 - 0 (21')",
+      "rawMinute": 21,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -191,9 +191,9 @@
       "matchEn": "Atletico Madrid (Spain) v Viking (Norway)",
       "matchAr": "أتلتيكو مدريد (إسبانيا) × فايكينغ (النرويج)",
       "rawIsoTime": "2026-11-25T20:00:00+00:00",
-      "time": "0 - 0 (18')",
-      "rawMinute": 19,
-      "homeGoals": 0,
+      "time": "1 - 0 (20')",
+      "rawMinute": 20,
+      "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
     },
@@ -205,8 +205,8 @@
       "matchEn": "Brugge (Belgium) v Liverpool (England)",
       "matchAr": "بروج (بلجيكا) × ليفربول (إنجلترا)",
       "rawIsoTime": "2026-11-25T20:00:00+00:00",
-      "time": "0 - 1 (17')",
-      "rawMinute": 18,
+      "time": "0 - 1 (19')",
+      "rawMinute": 19,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -219,8 +219,8 @@
       "matchEn": "Lille (France) v Bayern Munich (Germany)",
       "matchAr": "ليل (فرنسا) × بايرن ميونخ (ألمانيا)",
       "rawIsoTime": "2026-11-25T20:00:00+00:00",
-      "time": "0 - 1 (19')",
-      "rawMinute": 19,
+      "time": "0 - 1 (20')",
+      "rawMinute": 20,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -233,10 +233,10 @@
       "matchEn": "Shakhtar Donetsk (Ukraine) v Fenerbahçe SK (Turkey)",
       "matchAr": "شاختار دونيتسك (أوكرانيا) × فنربخشة (تركيا)",
       "rawIsoTime": "2026-11-25T20:00:00+00:00",
-      "time": "0 - 1 (17')",
-      "rawMinute": 18,
+      "time": "0 - 0 (19')",
+      "rawMinute": 19,
       "homeGoals": 0,
-      "awayGoals": 1,
+      "awayGoals": 0,
       "isLive": true
     },
     {
@@ -247,8 +247,8 @@
       "matchEn": "Paris Saint-Germain (France) v Roma (Italy)",
       "matchAr": "باريس سان جيرمان (فرنسا) × روما (إيطاليا)",
       "rawIsoTime": "2026-11-25T20:00:00+00:00",
-      "time": "0 - 1 (18')",
-      "rawMinute": 18,
+      "time": "0 - 1 (19')",
+      "rawMinute": 20,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -261,8 +261,8 @@
       "matchEn": "Inter Milan (Italy) v Stuttgart (Germany)",
       "matchAr": "إنتر ميلان (إيطاليا) × شتوتغارت (ألمانيا)",
       "rawIsoTime": "2026-11-25T20:00:00+00:00",
-      "time": "0 - 0 (19')",
-      "rawMinute": 19,
+      "time": "0 - 0 (21')",
+      "rawMinute": 21,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
