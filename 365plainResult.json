@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795616351393,
+  "timestamp": 1795616433861,
   "matches": [
     {
       "matchId": 4818652,
@@ -65,8 +65,8 @@
       "matchEn": "Nasaf Qarshi (Uzbekistan) v Al Khalidiyah (Bahrain)",
       "matchAr": "ناساف قرشي (أوزبكستان) × الخالدية (البحرين)",
       "rawIsoTime": "2026-11-25T13:45:00+00:00",
-      "time": "0 - 0 (34')",
-      "rawMinute": 34,
+      "time": "0 - 0 (35')",
+      "rawMinute": 35,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -415,8 +415,8 @@
       "matchEn": "Kryvbas v Kharkiv",
       "matchAr": "كريفباس × خاركوف",
       "rawIsoTime": "2026-11-25T11:00:00+00:00",
-      "time": "0 - 2 (85')",
-      "rawMinute": 85,
+      "time": "0 - 2 (86')",
+      "rawMinute": 86,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -429,8 +429,8 @@
       "matchEn": "Ecuador v South Korea",
       "matchAr": "الإكوادور × كوريا الجنوبية",
       "rawIsoTime": "2026-11-25T12:30:00+00:00",
-      "time": "2 - 3 (90')",
-      "rawMinute": 90,
+      "time": "2 - 3 (90+1')",
+      "rawMinute": 91,
       "homeGoals": 2,
       "awayGoals": 3,
       "isLive": true
@@ -443,8 +443,8 @@
       "matchEn": "Uganda v New Caledonia",
       "matchAr": "أوغندا × كاليدونيا الجديدة",
       "rawIsoTime": "2026-11-25T12:30:00+00:00",
-      "time": "6 - 0 (88')",
-      "rawMinute": 88,
+      "time": "6 - 0 (89')",
+      "rawMinute": 89,
       "homeGoals": 6,
       "awayGoals": 0,
       "isLive": true
