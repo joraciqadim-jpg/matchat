@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795622294504,
+  "timestamp": 1795622535007,
   "matches": [
     {
       "matchId": 4818652,
@@ -79,11 +79,11 @@
       "matchEn": "Kuwait (Kuwait) v Al-Wahda (United Arab Emirates)",
       "matchAr": "الكويت (الكويت) × الوحدة (الإمارات العربية المتحدة)",
       "rawIsoTime": "2026-11-25T16:00:00+00:00",
-      "time": "16:00",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "time": "0 - 0 (3')",
+      "rawMinute": 3,
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4818648,
@@ -93,11 +93,11 @@
       "matchEn": "Al Faisaly (Saudi Arabia) v Al Rayyan (Qatar)",
       "matchAr": "الفيصلي (السعودية) × الريان (قطر)",
       "rawIsoTime": "2026-11-25T16:00:00+00:00",
-      "time": "16:00",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "time": "0 - 0 (3')",
+      "rawMinute": 3,
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4818649,
@@ -107,11 +107,11 @@
       "matchEn": "Muharraq (Bahrain) v Arkadag (Turkmenistan)",
       "matchAr": "المحرق (البحرين) × أركاداغ (تركمانستان)",
       "rawIsoTime": "2026-11-25T16:00:00+00:00",
-      "time": "16:00",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "time": "0 - 0 (3')",
+      "rawMinute": 3,
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4818650,
@@ -121,11 +121,11 @@
       "matchEn": "Jazira (United Arab Emirates) v Gol Gohar (Iran)",
       "matchAr": "الجزيرة (الإمارات العربية المتحدة) × غول گهر (إيران)",
       "rawIsoTime": "2026-11-25T16:00:00+00:00",
-      "time": "16:00",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "time": "0 - 0 (2')",
+      "rawMinute": 2,
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4828419,
@@ -499,8 +499,8 @@
       "matchEn": "Greece v Qatar",
       "matchAr": "اليونان × قطر",
       "rawIsoTime": "2026-11-25T14:30:00+00:00",
-      "time": "3 - 1 (72')",
-      "rawMinute": 72,
+      "time": "3 - 1 (76')",
+      "rawMinute": 76,
       "homeGoals": 3,
       "awayGoals": 1,
       "isLive": true
@@ -513,8 +513,8 @@
       "matchEn": "Panama v Egypt",
       "matchAr": "بنما × مصر",
       "rawIsoTime": "2026-11-25T14:30:00+00:00",
-      "time": "1 - 3 (69')",
-      "rawMinute": 69,
+      "time": "1 - 3 (73')",
+      "rawMinute": 73,
       "homeGoals": 1,
       "awayGoals": 3,
       "isLive": true
@@ -527,7 +527,7 @@
       "matchEn": "Al Ula v Al-Adalah",
       "matchAr": "العلا × العدالة",
       "rawIsoTime": "2026-11-25T15:10:00+00:00",
-      "time": "1 - 0 (45')",
+      "time": "1 - 0 (Halftime)",
       "rawMinute": 45,
       "homeGoals": 1,
       "awayGoals": 0,
@@ -541,8 +541,8 @@
       "matchEn": "Denmark v Argentina",
       "matchAr": "الدنمارك × الأرجنتين",
       "rawIsoTime": "2026-11-25T15:30:00+00:00",
-      "time": "0 - 0 (28')",
-      "rawMinute": 28,
+      "time": "0 - 0 (32')",
+      "rawMinute": 32,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -555,10 +555,10 @@
       "matchEn": "Australia v Mozambique",
       "matchAr": "أستراليا × موزمبيق",
       "rawIsoTime": "2026-11-25T15:30:00+00:00",
-      "time": "0 - 1 (28')",
-      "rawMinute": 28,
+      "time": "0 - 2 (32')",
+      "rawMinute": 32,
       "homeGoals": 0,
-      "awayGoals": 1,
+      "awayGoals": 2,
       "isLive": true
     },
     {
@@ -569,11 +569,11 @@
       "matchEn": "Qadisiya Kuwait v Fahaheel",
       "matchAr": "القادسية الكويتي × الفحيحيل",
       "rawIsoTime": "2026-11-25T16:00:00+00:00",
-      "time": "16:00",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "time": "0 - 0 (3')",
+      "rawMinute": 3,
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4816630,
