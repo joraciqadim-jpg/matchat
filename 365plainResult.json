@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795601894931,
+  "timestamp": 1795601951234,
   "matches": [
     {
       "matchId": 4818652,
@@ -24,7 +24,7 @@
       "matchAr": "غامبا أوساكا (اليابان) × الميناء التايلاندي (تايلاند)",
       "rawIsoTime": "2026-11-25T10:00:00+00:00",
       "time": "0 - 0 (19')",
-      "rawMinute": 19,
+      "rawMinute": 20,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -37,7 +37,7 @@
       "matchEn": "Kashima Antlers (Japan) v Jeonbuk Hyundai Motors (South Korea)",
       "matchAr": "كاشيما أنتلرز (اليابان) × جيونبوك هيونداي موتورز (كوريا الجنوبية)",
       "rawIsoTime": "2026-11-25T10:00:00+00:00",
-      "time": "1 - 0 (18')",
+      "time": "1 - 0 (19')",
       "rawMinute": 19,
       "homeGoals": 1,
       "awayGoals": 0,
@@ -289,8 +289,8 @@
       "matchEn": "V-Varen Nagasaki v Kawasaki Frontale",
       "matchAr": "في-فارين ناغاساكي × كاواساكي فرونتال",
       "rawIsoTime": "2026-11-25T10:00:00+00:00",
-      "time": "0 - 0 (15')",
-      "rawMinute": 15,
+      "time": "0 - 0 (16')",
+      "rawMinute": 16,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -303,8 +303,8 @@
       "matchEn": "Fukuoka v Yokohama Marinos",
       "matchAr": "فوكوكا × يوكوهاما مارينوس",
       "rawIsoTime": "2026-11-25T10:00:00+00:00",
-      "time": "1 - 0 (15')",
-      "rawMinute": 15,
+      "time": "1 - 0 (16')",
+      "rawMinute": 16,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -317,8 +317,8 @@
       "matchEn": "Okayama v Shimizu S-Pulse",
       "matchAr": "أوكاياما × شيميزو إس-بالس",
       "rawIsoTime": "2026-11-25T10:00:00+00:00",
-      "time": "0 - 0 (15')",
-      "rawMinute": 15,
+      "time": "0 - 0 (16')",
+      "rawMinute": 16,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -331,10 +331,10 @@
       "matchEn": "Tokyo v Hiroshima Sanfrecce",
       "matchAr": "طوكيو × هيروشيما سانفريتشي",
       "rawIsoTime": "2026-11-25T10:00:00+00:00",
-      "time": "0 - 0 (15')",
-      "rawMinute": 15,
+      "time": "0 - 1 (16')",
+      "rawMinute": 16,
       "homeGoals": 0,
-      "awayGoals": 0,
+      "awayGoals": 1,
       "isLive": true
     },
     {
@@ -345,9 +345,9 @@
       "matchEn": "JEF United Chiba v Nagoya Grampus",
       "matchAr": "جيف يونايتد تشيبا × ناغويا غرامبوس",
       "rawIsoTime": "2026-11-25T10:00:00+00:00",
-      "time": "0 - 0 (15')",
-      "rawMinute": 15,
-      "homeGoals": 0,
+      "time": "1 - 0 (16')",
+      "rawMinute": 16,
+      "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
     },
