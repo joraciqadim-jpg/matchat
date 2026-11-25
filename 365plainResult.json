@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795643655728,
+  "timestamp": 1795643724339,
   "matches": [
     {
       "matchId": 4818652,
@@ -170,6 +170,20 @@
       "isLive": false
     },
     {
+      "matchId": 4828413,
+      "competitionId": "572",
+      "tournamentEn": "🛡️ Europe UEFA Champions League",
+      "tournamentAr": "🛡️ دوري أبطال أوروبا",
+      "matchEn": "Sporting CP (Portugal) v Manchester United (England)",
+      "matchAr": "سبورتينغ لشبونة (البرتغال) × مانشستر يونايتد (إنجلترا)",
+      "rawIsoTime": "2026-11-25T20:00:00+00:00",
+      "time": "2 - 2 (done)",
+      "rawMinute": 90,
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "isLive": false
+    },
+    {
       "matchId": 4828414,
       "competitionId": "572",
       "tournamentEn": "🛡️ Europe UEFA Champions League",
@@ -181,6 +195,20 @@
       "rawMinute": 90,
       "homeGoals": 2,
       "awayGoals": 0,
+      "isLive": false
+    },
+    {
+      "matchId": 4828415,
+      "competitionId": "572",
+      "tournamentEn": "🛡️ Europe UEFA Champions League",
+      "tournamentAr": "🛡️ دوري أبطال أوروبا",
+      "matchEn": "Brugge (Belgium) v Liverpool (England)",
+      "matchAr": "بروج (بلجيكا) × ليفربول (إنجلترا)",
+      "rawIsoTime": "2026-11-25T20:00:00+00:00",
+      "time": "0 - 3 (done)",
+      "rawMinute": 90,
+      "homeGoals": 0,
+      "awayGoals": 3,
       "isLive": false
     },
     {
@@ -198,6 +226,34 @@
       "isLive": false
     },
     {
+      "matchId": 4828417,
+      "competitionId": "572",
+      "tournamentEn": "🛡️ Europe UEFA Champions League",
+      "tournamentAr": "🛡️ دوري أبطال أوروبا",
+      "matchEn": "Shakhtar Donetsk (Ukraine) v Fenerbahçe SK (Turkey)",
+      "matchAr": "شاختار دونيتسك (أوكرانيا) × فنربخشة (تركيا)",
+      "rawIsoTime": "2026-11-25T20:00:00+00:00",
+      "time": "0 - 1 (done)",
+      "rawMinute": 90,
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "isLive": false
+    },
+    {
+      "matchId": 4828418,
+      "competitionId": "572",
+      "tournamentEn": "🛡️ Europe UEFA Champions League",
+      "tournamentAr": "🛡️ دوري أبطال أوروبا",
+      "matchEn": "Paris Saint-Germain (France) v Roma (Italy)",
+      "matchAr": "باريس سان جيرمان (فرنسا) × روما (إيطاليا)",
+      "rawIsoTime": "2026-11-25T20:00:00+00:00",
+      "time": "2 - 2 (done)",
+      "rawMinute": 90,
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "isLive": false
+    },
+    {
       "matchId": 4828420,
       "competitionId": "572",
       "tournamentEn": "🛡️ Europe UEFA Champions League",
@@ -210,62 +266,6 @@
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": false
-    },
-    {
-      "matchId": 4828413,
-      "competitionId": "572",
-      "tournamentEn": "🛡️ Europe UEFA Champions League",
-      "tournamentAr": "🛡️ دوري أبطال أوروبا",
-      "matchEn": "Sporting CP (Portugal) v Manchester United (England)",
-      "matchAr": "سبورتينغ لشبونة (البرتغال) × مانشستر يونايتد (إنجلترا)",
-      "rawIsoTime": "2026-11-25T20:00:00+00:00",
-      "time": "2 - 2 (90+6')",
-      "rawMinute": 96,
-      "homeGoals": 2,
-      "awayGoals": 2,
-      "isLive": true
-    },
-    {
-      "matchId": 4828415,
-      "competitionId": "572",
-      "tournamentEn": "🛡️ Europe UEFA Champions League",
-      "tournamentAr": "🛡️ دوري أبطال أوروبا",
-      "matchEn": "Brugge (Belgium) v Liverpool (England)",
-      "matchAr": "بروج (بلجيكا) × ليفربول (إنجلترا)",
-      "rawIsoTime": "2026-11-25T20:00:00+00:00",
-      "time": "0 - 3 (90+3')",
-      "rawMinute": 93,
-      "homeGoals": 0,
-      "awayGoals": 3,
-      "isLive": true
-    },
-    {
-      "matchId": 4828417,
-      "competitionId": "572",
-      "tournamentEn": "🛡️ Europe UEFA Champions League",
-      "tournamentAr": "🛡️ دوري أبطال أوروبا",
-      "matchEn": "Shakhtar Donetsk (Ukraine) v Fenerbahçe SK (Turkey)",
-      "matchAr": "شاختار دونيتسك (أوكرانيا) × فنربخشة (تركيا)",
-      "rawIsoTime": "2026-11-25T20:00:00+00:00",
-      "time": "0 - 1 (90+4')",
-      "rawMinute": 95,
-      "homeGoals": 0,
-      "awayGoals": 1,
-      "isLive": true
-    },
-    {
-      "matchId": 4828418,
-      "competitionId": "572",
-      "tournamentEn": "🛡️ Europe UEFA Champions League",
-      "tournamentAr": "🛡️ دوري أبطال أوروبا",
-      "matchEn": "Paris Saint-Germain (France) v Roma (Italy)",
-      "matchAr": "باريس سان جيرمان (فرنسا) × روما (إيطاليا)",
-      "rawIsoTime": "2026-11-25T20:00:00+00:00",
-      "time": "2 - 2 (90+6')",
-      "rawMinute": 96,
-      "homeGoals": 2,
-      "awayGoals": 2,
-      "isLive": true
     },
     {
       "matchId": 4632591,
