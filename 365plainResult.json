@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795607894793,
+  "timestamp": 1795607951683,
   "matches": [
     {
       "matchId": 4818652,
@@ -387,10 +387,10 @@
       "matchEn": "Kryvbas v Kharkiv",
       "matchAr": "كريفباس × خاركوف",
       "rawIsoTime": "2026-11-25T11:00:00+00:00",
-      "time": "0 - 0 (45+9')",
-      "rawMinute": 60,
-      "homeGoals": 0,
-      "awayGoals": 0,
+      "time": "-1 - -1 (1')",
+      "rawMinute": 1,
+      "homeGoals": -1,
+      "awayGoals": -1,
       "isLive": true
     },
     {
