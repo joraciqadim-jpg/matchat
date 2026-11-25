@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795640535131,
+  "timestamp": 1795640591789,
   "matches": [
     {
       "matchId": 4818652,
@@ -191,8 +191,8 @@
       "matchEn": "Atletico Madrid (Spain) v Viking (Norway)",
       "matchAr": "أتلتيكو مدريد (إسبانيا) × فايكينغ (النرويج)",
       "rawIsoTime": "2026-11-25T20:00:00+00:00",
-      "time": "2 - 0 (Halftime)",
-      "rawMinute": 45,
+      "time": "2 - 0 (46')",
+      "rawMinute": 46,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -219,8 +219,8 @@
       "matchEn": "Lille (France) v Bayern Munich (Germany)",
       "matchAr": "ليل (فرنسا) × بايرن ميونخ (ألمانيا)",
       "rawIsoTime": "2026-11-25T20:00:00+00:00",
-      "time": "0 - 1 (Halftime)",
-      "rawMinute": 45,
+      "time": "0 - 1 (46')",
+      "rawMinute": 46,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
