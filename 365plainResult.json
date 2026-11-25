@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795600750950,
+  "timestamp": 1795600864609,
   "matches": [
     {
       "matchId": 4818652,
@@ -23,11 +23,11 @@
       "matchEn": "Gamba Osaka (Japan) v Thai Port (Thailand)",
       "matchAr": "غامبا أوساكا (اليابان) × الميناء التايلاندي (تايلاند)",
       "rawIsoTime": "2026-11-25T10:00:00+00:00",
-      "time": "10:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4818586,
@@ -37,11 +37,11 @@
       "matchEn": "Kashima Antlers (Japan) v Jeonbuk Hyundai Motors (South Korea)",
       "matchAr": "كاشيما أنتلرز (اليابان) × جيونبوك هيونداي موتورز (كوريا الجنوبية)",
       "rawIsoTime": "2026-11-25T10:00:00+00:00",
-      "time": "10:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4829983,
