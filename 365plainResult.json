@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795611322166,
+  "timestamp": 1795611375296,
   "matches": [
     {
       "matchId": 4818652,
@@ -51,9 +51,9 @@
       "matchEn": "Persib Bandung (Indonesia) v Seoul (South Korea)",
       "matchAr": "بيرسيب باندونغ (إندونيسيا) × سيول (كوريا الجنوبية)",
       "rawIsoTime": "2026-11-25T12:15:00+00:00",
-      "time": "1 - 1 (41')",
-      "rawMinute": 41,
-      "homeGoals": 1,
+      "time": "2 - 1 (42')",
+      "rawMinute": 42,
+      "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
     },
@@ -387,8 +387,8 @@
       "matchEn": "Kryvbas v Kharkiv",
       "matchAr": "كريفباس × خاركوف",
       "rawIsoTime": "2026-11-25T11:00:00+00:00",
-      "time": "0 - 2 (36')",
-      "rawMinute": 36,
+      "time": "0 - 2 (37')",
+      "rawMinute": 37,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -429,8 +429,8 @@
       "matchEn": "Ecuador v South Korea",
       "matchAr": "الإكوادور × كوريا الجنوبية",
       "rawIsoTime": "2026-11-25T12:30:00+00:00",
-      "time": "0 - 2 (25')",
-      "rawMinute": 25,
+      "time": "0 - 2 (26')",
+      "rawMinute": 26,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -443,8 +443,8 @@
       "matchEn": "Uganda v New Caledonia",
       "matchAr": "أوغندا × كاليدونيا الجديدة",
       "rawIsoTime": "2026-11-25T12:30:00+00:00",
-      "time": "1 - 0 (25')",
-      "rawMinute": 25,
+      "time": "1 - 0 (26')",
+      "rawMinute": 26,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
