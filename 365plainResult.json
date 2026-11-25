@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795607294365,
+  "timestamp": 1795607353190,
   "matches": [
     {
       "matchId": 4818652,
@@ -23,8 +23,8 @@
       "matchEn": "Gamba Osaka (Japan) v Thai Port (Thailand)",
       "matchAr": "غامبا أوساكا (اليابان) × الميناء التايلاندي (تايلاند)",
       "rawIsoTime": "2026-11-25T10:00:00+00:00",
-      "time": "1 - 0 (90+2')",
-      "rawMinute": 92,
+      "time": "1 - 0 (90+3')",
+      "rawMinute": 93,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -37,8 +37,8 @@
       "matchEn": "Kashima Antlers (Japan) v Jeonbuk Hyundai Motors (South Korea)",
       "matchAr": "كاشيما أنتلرز (اليابان) × جيونبوك هيونداي موتورز (كوريا الجنوبية)",
       "rawIsoTime": "2026-11-25T10:00:00+00:00",
-      "time": "3 - 0 (90+2')",
-      "rawMinute": 92,
+      "time": "3 - 0 (90+3')",
+      "rawMinute": 93,
       "homeGoals": 3,
       "awayGoals": 0,
       "isLive": true
@@ -289,8 +289,8 @@
       "matchEn": "V-Varen Nagasaki v Kawasaki Frontale",
       "matchAr": "في-فارين ناغاساكي × كاواساكي فرونتال",
       "rawIsoTime": "2026-11-25T10:00:00+00:00",
-      "time": "1 - 2 (86')",
-      "rawMinute": 86,
+      "time": "1 - 2 (87')",
+      "rawMinute": 87,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -303,8 +303,8 @@
       "matchEn": "Fukuoka v Yokohama Marinos",
       "matchAr": "فوكوكا × يوكوهاما مارينوس",
       "rawIsoTime": "2026-11-25T10:00:00+00:00",
-      "time": "1 - 0 (88')",
-      "rawMinute": 88,
+      "time": "1 - 0 (89')",
+      "rawMinute": 89,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -317,8 +317,8 @@
       "matchEn": "Okayama v Shimizu S-Pulse",
       "matchAr": "أوكاياما × شيميزو إس-بالس",
       "rawIsoTime": "2026-11-25T10:00:00+00:00",
-      "time": "2 - 0 (89')",
-      "rawMinute": 89,
+      "time": "2 - 0 (90')",
+      "rawMinute": 90,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -331,10 +331,10 @@
       "matchEn": "Tokyo v Hiroshima Sanfrecce",
       "matchAr": "طوكيو × هيروشيما سانفريتشي",
       "rawIsoTime": "2026-11-25T10:00:00+00:00",
-      "time": "2 - 1 (88')",
-      "rawMinute": 88,
+      "time": "2 - 2 (89')",
+      "rawMinute": 89,
       "homeGoals": 2,
-      "awayGoals": 1,
+      "awayGoals": 2,
       "isLive": true
     },
     {
@@ -345,8 +345,8 @@
       "matchEn": "JEF United Chiba v Nagoya Grampus",
       "matchAr": "جيف يونايتد تشيبا × ناغويا غرامبوس",
       "rawIsoTime": "2026-11-25T10:00:00+00:00",
-      "time": "1 - 2 (89')",
-      "rawMinute": 89,
+      "time": "1 - 2 (90')",
+      "rawMinute": 90,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -359,8 +359,8 @@
       "matchEn": "Mito Hollyhock v Tokyo Verdy",
       "matchAr": "ميتو هوليهوك × طوكيو فيردي",
       "rawIsoTime": "2026-11-25T10:00:00+00:00",
-      "time": "1 - 0 (85')",
-      "rawMinute": 85,
+      "time": "1 - 0 (86')",
+      "rawMinute": 86,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -373,7 +373,7 @@
       "matchEn": "Urawa Red Diamonds v Cerezo Osaka",
       "matchAr": "أوراوا ريد دايموندز × سيريزو أوساكا",
       "rawIsoTime": "2026-11-25T10:30:00+00:00",
-      "time": "2 - 1 (57')",
+      "time": "2 - 1 (58')",
       "rawMinute": 58,
       "homeGoals": 2,
       "awayGoals": 1,
