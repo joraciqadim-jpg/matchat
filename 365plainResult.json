@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795608551892,
+  "timestamp": 1795608636270,
   "matches": [
     {
       "matchId": 4818652,
@@ -373,8 +373,8 @@
       "matchEn": "Urawa Red Diamonds v Cerezo Osaka",
       "matchAr": "أوراوا ريد دايموندز × سيريزو أوساكا",
       "rawIsoTime": "2026-11-25T10:30:00+00:00",
-      "time": "2 - 2 (78')",
-      "rawMinute": 78,
+      "time": "2 - 2 (80')",
+      "rawMinute": 80,
       "homeGoals": 2,
       "awayGoals": 2,
       "isLive": true
@@ -387,10 +387,10 @@
       "matchEn": "Kryvbas v Kharkiv",
       "matchAr": "كريفباس × خاركوف",
       "rawIsoTime": "2026-11-25T11:00:00+00:00",
-      "time": "0 - 0 (45+9')",
-      "rawMinute": 60,
-      "homeGoals": 0,
-      "awayGoals": 0,
+      "time": "-1 - -1 (1')",
+      "rawMinute": 1,
+      "homeGoals": -1,
+      "awayGoals": -1,
       "isLive": true
     },
     {
@@ -401,11 +401,11 @@
       "matchEn": "Al Anwar v Al-Jndal",
       "matchAr": "الأنوار × الجندل",
       "rawIsoTime": "2026-11-25T12:10:00+00:00",
-      "time": "12:10",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4795547,
@@ -415,11 +415,11 @@
       "matchEn": "Albukiryah v Al Wehda",
       "matchAr": "البكيرية × الوحدة",
       "rawIsoTime": "2026-11-25T12:10:00+00:00",
-      "time": "12:10",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4722880,
