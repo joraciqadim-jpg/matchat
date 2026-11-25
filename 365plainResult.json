@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795618031051,
+  "timestamp": 1795618094934,
   "matches": [
     {
       "matchId": 4818652,
@@ -471,8 +471,8 @@
       "matchEn": "Haiti v Saudi Arabia",
       "matchAr": "هايتي × السعودية",
       "rawIsoTime": "2026-11-25T13:30:00+00:00",
-      "time": "1 - 1 (61')",
-      "rawMinute": 61,
+      "time": "1 - 1 (62')",
+      "rawMinute": 62,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -485,8 +485,8 @@
       "matchEn": "Uruguay v France",
       "matchAr": "الأوروغواي × فرنسا",
       "rawIsoTime": "2026-11-25T13:30:00+00:00",
-      "time": "0 - 3 (59')",
-      "rawMinute": 59,
+      "time": "0 - 3 (60')",
+      "rawMinute": 61,
       "homeGoals": 0,
       "awayGoals": 3,
       "isLive": true
@@ -499,8 +499,8 @@
       "matchEn": "Greece v Qatar",
       "matchAr": "اليونان × قطر",
       "rawIsoTime": "2026-11-25T14:30:00+00:00",
-      "time": "0 - 1 (17')",
-      "rawMinute": 17,
+      "time": "0 - 1 (18')",
+      "rawMinute": 18,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -513,8 +513,8 @@
       "matchEn": "Panama v Egypt",
       "matchAr": "بنما × مصر",
       "rawIsoTime": "2026-11-25T14:30:00+00:00",
-      "time": "0 - 0 (17')",
-      "rawMinute": 17,
+      "time": "0 - 0 (18')",
+      "rawMinute": 18,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
