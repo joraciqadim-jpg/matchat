@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795607831123,
+  "timestamp": 1795607894793,
   "matches": [
     {
       "matchId": 4818652,
@@ -282,6 +282,20 @@
       "isLive": false
     },
     {
+      "matchId": 4739554,
+      "competitionId": "147",
+      "tournamentEn": "🇯🇵 Japanese J1 League",
+      "tournamentAr": "🇯🇵 الدوري الياباني",
+      "matchEn": "V-Varen Nagasaki v Kawasaki Frontale",
+      "matchAr": "في-فارين ناغاساكي × كاواساكي فرونتال",
+      "rawIsoTime": "2026-11-25T10:00:00+00:00",
+      "time": "1 - 2 (done)",
+      "rawMinute": 90,
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "isLive": false
+    },
+    {
       "matchId": 4739555,
       "competitionId": "147",
       "tournamentEn": "🇯🇵 Japanese J1 League",
@@ -338,20 +352,6 @@
       "isLive": false
     },
     {
-      "matchId": 4739554,
-      "competitionId": "147",
-      "tournamentEn": "🇯🇵 Japanese J1 League",
-      "tournamentAr": "🇯🇵 الدوري الياباني",
-      "matchEn": "V-Varen Nagasaki v Kawasaki Frontale",
-      "matchAr": "في-فارين ناغاساكي × كاواساكي فرونتال",
-      "rawIsoTime": "2026-11-25T10:00:00+00:00",
-      "time": "1 - 2 (90+5')",
-      "rawMinute": 95,
-      "homeGoals": 1,
-      "awayGoals": 2,
-      "isLive": true
-    },
-    {
       "matchId": 4739560,
       "competitionId": "147",
       "tournamentEn": "🇯🇵 Japanese J1 League",
@@ -359,11 +359,11 @@
       "matchEn": "Mito Hollyhock v Tokyo Verdy",
       "matchAr": "ميتو هوليهوك × طوكيو فيردي",
       "rawIsoTime": "2026-11-25T10:00:00+00:00",
-      "time": "1 - 0 (90+4')",
-      "rawMinute": 94,
+      "time": "1 - 0 (done)",
+      "rawMinute": 90,
       "homeGoals": 1,
       "awayGoals": 0,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4739559,
@@ -373,8 +373,8 @@
       "matchEn": "Urawa Red Diamonds v Cerezo Osaka",
       "matchAr": "أوراوا ريد دايموندز × سيريزو أوساكا",
       "rawIsoTime": "2026-11-25T10:30:00+00:00",
-      "time": "2 - 2 (66')",
-      "rawMinute": 66,
+      "time": "2 - 2 (68')",
+      "rawMinute": 68,
       "homeGoals": 2,
       "awayGoals": 2,
       "isLive": true
