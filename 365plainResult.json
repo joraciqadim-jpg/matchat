@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795629071440,
+  "timestamp": 1795629134242,
   "matches": [
     {
       "matchId": 4818652,
@@ -79,8 +79,8 @@
       "matchEn": "Kuwait (Kuwait) v Al-Wahda (United Arab Emirates)",
       "matchAr": "الكويت (الكويت) × الوحدة (الإمارات العربية المتحدة)",
       "rawIsoTime": "2026-11-25T16:00:00+00:00",
-      "time": "1 - 2 (90+2')",
-      "rawMinute": 92,
+      "time": "1 - 2 (90+3')",
+      "rawMinute": 93,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -93,8 +93,8 @@
       "matchEn": "Al Faisaly (Saudi Arabia) v Al Rayyan (Qatar)",
       "matchAr": "الفيصلي (السعودية) × الريان (قطر)",
       "rawIsoTime": "2026-11-25T16:00:00+00:00",
-      "time": "0 - 1 (90')",
-      "rawMinute": 90,
+      "time": "0 - 1 (90+1')",
+      "rawMinute": 91,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -107,8 +107,8 @@
       "matchEn": "Muharraq (Bahrain) v Arkadag (Turkmenistan)",
       "matchAr": "المحرق (البحرين) × أركاداغ (تركمانستان)",
       "rawIsoTime": "2026-11-25T16:00:00+00:00",
-      "time": "2 - 4 (90+1')",
-      "rawMinute": 91,
+      "time": "2 - 4 (90+2')",
+      "rawMinute": 93,
       "homeGoals": 2,
       "awayGoals": 4,
       "isLive": true
@@ -121,8 +121,8 @@
       "matchEn": "Jazira (United Arab Emirates) v Gol Gohar (Iran)",
       "matchAr": "الجزيرة (الإمارات العربية المتحدة) × غول گهر (إيران)",
       "rawIsoTime": "2026-11-25T16:00:00+00:00",
-      "time": "1 - 0 (87')",
-      "rawMinute": 87,
+      "time": "1 - 0 (88')",
+      "rawMinute": 88,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -135,8 +135,8 @@
       "matchEn": "Slavia Praha (Czech Republic) v Villarreal (Spain)",
       "matchAr": "سلافيا براغ (جمهورية التشيك) × فياريال (إسبانيا)",
       "rawIsoTime": "2026-11-25T17:45:00+00:00",
-      "time": "0 - 0 (6')",
-      "rawMinute": 6,
+      "time": "0 - 0 (7')",
+      "rawMinute": 7,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -149,8 +149,8 @@
       "matchEn": "Sabah (Malaysia) v Barcelona (Spain)",
       "matchAr": "صباح (ماليزيا) × برشلونة (إسبانيا)",
       "rawIsoTime": "2026-11-25T17:45:00+00:00",
-      "time": "0 - 0 (6')",
-      "rawMinute": 6,
+      "time": "0 - 0 (7')",
+      "rawMinute": 7,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -597,8 +597,8 @@
       "matchEn": "Qadisiya Kuwait v Fahaheel",
       "matchAr": "القادسية الكويتي × الفحيحيل",
       "rawIsoTime": "2026-11-25T16:00:00+00:00",
-      "time": "2 - 3 (89')",
-      "rawMinute": 89,
+      "time": "2 - 3 (90')",
+      "rawMinute": 90,
       "homeGoals": 2,
       "awayGoals": 3,
       "isLive": true
