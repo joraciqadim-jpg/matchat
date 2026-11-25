@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795639751929,
+  "timestamp": 1795639835697,
   "matches": [
     {
       "matchId": 4818652,
@@ -205,8 +205,8 @@
       "matchEn": "Brugge (Belgium) v Liverpool (England)",
       "matchAr": "بروج (بلجيكا) × ليفربول (إنجلترا)",
       "rawIsoTime": "2026-11-25T20:00:00+00:00",
-      "time": "0 - 1 (45+2')",
-      "rawMinute": 48,
+      "time": "0 - 1 (45+4')",
+      "rawMinute": 49,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -233,8 +233,8 @@
       "matchEn": "Shakhtar Donetsk (Ukraine) v Fenerbahçe SK (Turkey)",
       "matchAr": "شاختار دونيتسك (أوكرانيا) × فنربخشة (تركيا)",
       "rawIsoTime": "2026-11-25T20:00:00+00:00",
-      "time": "0 - 0 (45+2')",
-      "rawMinute": 48,
+      "time": "0 - 0 (Halftime)",
+      "rawMinute": 45,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
