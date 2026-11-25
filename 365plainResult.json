@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795617935417,
+  "timestamp": 1795617974401,
   "matches": [
     {
       "matchId": 4818652,
@@ -450,34 +450,6 @@
       "isLive": false
     },
     {
-      "matchId": 4722862,
-      "competitionId": "5582",
-      "tournamentEn": "🛡️ World Cup U17",
-      "tournamentAr": "🛡️ كأس العالم تحت 17 سنة",
-      "matchEn": "Haiti v Saudi Arabia",
-      "matchAr": "هايتي × السعودية",
-      "rawIsoTime": "2026-11-25T13:30:00+00:00",
-      "time": "1 - 1 (59')",
-      "rawMinute": 59,
-      "homeGoals": 1,
-      "awayGoals": 1,
-      "isLive": true
-    },
-    {
-      "matchId": 4722892,
-      "competitionId": "5582",
-      "tournamentEn": "🛡️ World Cup U17",
-      "tournamentAr": "🛡️ كأس العالم تحت 17 سنة",
-      "matchEn": "Uruguay v France",
-      "matchAr": "الأوروغواي × فرنسا",
-      "rawIsoTime": "2026-11-25T13:30:00+00:00",
-      "time": "0 - 3 (58')",
-      "rawMinute": 58,
-      "homeGoals": 0,
-      "awayGoals": 3,
-      "isLive": true
-    },
-    {
       "matchId": 4816629,
       "competitionId": "5831",
       "tournamentEn": "🇶🇦 Qatari Q League",
@@ -492,6 +464,34 @@
       "isLive": false
     },
     {
+      "matchId": 4722862,
+      "competitionId": "5582",
+      "tournamentEn": "🛡️ World Cup U17",
+      "tournamentAr": "🛡️ كأس العالم تحت 17 سنة",
+      "matchEn": "Haiti v Saudi Arabia",
+      "matchAr": "هايتي × السعودية",
+      "rawIsoTime": "2026-11-25T13:30:00+00:00",
+      "time": "1 - 1 (60')",
+      "rawMinute": 60,
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "isLive": true
+    },
+    {
+      "matchId": 4722892,
+      "competitionId": "5582",
+      "tournamentEn": "🛡️ World Cup U17",
+      "tournamentAr": "🛡️ كأس العالم تحت 17 سنة",
+      "matchEn": "Uruguay v France",
+      "matchAr": "الأوروغواي × فرنسا",
+      "rawIsoTime": "2026-11-25T13:30:00+00:00",
+      "time": "0 - 3 (58')",
+      "rawMinute": 59,
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "isLive": true
+    },
+    {
       "matchId": 4722865,
       "competitionId": "5582",
       "tournamentEn": "🛡️ World Cup U17",
@@ -499,8 +499,8 @@
       "matchEn": "Greece v Qatar",
       "matchAr": "اليونان × قطر",
       "rawIsoTime": "2026-11-25T14:30:00+00:00",
-      "time": "0 - 1 (15')",
-      "rawMinute": 15,
+      "time": "0 - 1 (16')",
+      "rawMinute": 16,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -513,7 +513,7 @@
       "matchEn": "Panama v Egypt",
       "matchAr": "بنما × مصر",
       "rawIsoTime": "2026-11-25T14:30:00+00:00",
-      "time": "0 - 0 (16')",
+      "time": "0 - 0 (15')",
       "rawMinute": 16,
       "homeGoals": 0,
       "awayGoals": 0,
