@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795627095110,
+  "timestamp": 1795627151568,
   "matches": [
     {
       "matchId": 4818652,
@@ -79,8 +79,8 @@
       "matchEn": "Kuwait (Kuwait) v Al-Wahda (United Arab Emirates)",
       "matchAr": "الكويت (الكويت) × الوحدة (الإمارات العربية المتحدة)",
       "rawIsoTime": "2026-11-25T16:00:00+00:00",
-      "time": "1 - 0 (59')",
-      "rawMinute": 59,
+      "time": "1 - 0 (60')",
+      "rawMinute": 60,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -93,8 +93,8 @@
       "matchEn": "Al Faisaly (Saudi Arabia) v Al Rayyan (Qatar)",
       "matchAr": "الفيصلي (السعودية) × الريان (قطر)",
       "rawIsoTime": "2026-11-25T16:00:00+00:00",
-      "time": "0 - 1 (57')",
-      "rawMinute": 57,
+      "time": "0 - 1 (58')",
+      "rawMinute": 58,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -121,9 +121,9 @@
       "matchEn": "Jazira (United Arab Emirates) v Gol Gohar (Iran)",
       "matchAr": "الجزيرة (الإمارات العربية المتحدة) × غول گهر (إيران)",
       "rawIsoTime": "2026-11-25T16:00:00+00:00",
-      "time": "2 - 0 (54')",
-      "rawMinute": 54,
-      "homeGoals": 2,
+      "time": "1 - 0 (55')",
+      "rawMinute": 55,
+      "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
     },
@@ -569,8 +569,8 @@
       "matchEn": "Denmark v Argentina",
       "matchAr": "الدنمارك × الأرجنتين",
       "rawIsoTime": "2026-11-25T15:30:00+00:00",
-      "time": "3 - 3 (85')",
-      "rawMinute": 85,
+      "time": "3 - 3 (86')",
+      "rawMinute": 86,
       "homeGoals": 3,
       "awayGoals": 3,
       "isLive": true
@@ -583,8 +583,8 @@
       "matchEn": "Australia v Mozambique",
       "matchAr": "أستراليا × موزمبيق",
       "rawIsoTime": "2026-11-25T15:30:00+00:00",
-      "time": "2 - 2 (88')",
-      "rawMinute": 88,
+      "time": "2 - 2 (89')",
+      "rawMinute": 89,
       "homeGoals": 2,
       "awayGoals": 2,
       "isLive": true
@@ -597,8 +597,8 @@
       "matchEn": "Qadisiya Kuwait v Fahaheel",
       "matchAr": "القادسية الكويتي × الفحيحيل",
       "rawIsoTime": "2026-11-25T16:00:00+00:00",
-      "time": "1 - 2 (55')",
-      "rawMinute": 56,
+      "time": "1 - 2 (57')",
+      "rawMinute": 57,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
