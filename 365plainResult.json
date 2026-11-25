@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795617634847,
+  "timestamp": 1795617671095,
   "matches": [
     {
       "matchId": 4818652,
@@ -457,10 +457,10 @@
       "matchEn": "Haiti v Saudi Arabia",
       "matchAr": "هايتي × السعودية",
       "rawIsoTime": "2026-11-25T13:30:00+00:00",
-      "time": "1 - 0 (54')",
-      "rawMinute": 54,
+      "time": "1 - 1 (55')",
+      "rawMinute": 55,
       "homeGoals": 1,
-      "awayGoals": 0,
+      "awayGoals": 1,
       "isLive": true
     },
     {
@@ -499,8 +499,8 @@
       "matchEn": "Greece v Qatar",
       "matchAr": "اليونان × قطر",
       "rawIsoTime": "2026-11-25T14:30:00+00:00",
-      "time": "0 - 1 (10')",
-      "rawMinute": 10,
+      "time": "0 - 1 (11')",
+      "rawMinute": 11,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
