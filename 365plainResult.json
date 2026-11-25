@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795635255243,
+  "timestamp": 1795635323326,
   "matches": [
     {
       "matchId": 4818652,
@@ -128,20 +128,6 @@
       "isLive": false
     },
     {
-      "matchId": 4828419,
-      "competitionId": "572",
-      "tournamentEn": "🛡️ Europe UEFA Champions League",
-      "tournamentAr": "🛡️ دوري أبطال أوروبا",
-      "matchEn": "Slavia Praha (Czech Republic) v Villarreal (Spain)",
-      "matchAr": "سلافيا براغ (جمهورية التشيك) × فياريال (إسبانيا)",
-      "rawIsoTime": "2026-11-25T17:45:00+00:00",
-      "time": "0 - 1 (90+1')",
-      "rawMinute": 91,
-      "homeGoals": 0,
-      "awayGoals": 1,
-      "isLive": true
-    },
-    {
       "matchId": 4828421,
       "competitionId": "572",
       "tournamentEn": "🛡️ Europe UEFA Champions League",
@@ -149,10 +135,24 @@
       "matchEn": "Sabah (Malaysia) v Barcelona (Spain)",
       "matchAr": "صباح (ماليزيا) × برشلونة (إسبانيا)",
       "rawIsoTime": "2026-11-25T17:45:00+00:00",
-      "time": "1 - 4 (90+2')",
-      "rawMinute": 92,
+      "time": "1 - 4 (done)",
+      "rawMinute": 90,
       "homeGoals": 1,
       "awayGoals": 4,
+      "isLive": false
+    },
+    {
+      "matchId": 4828419,
+      "competitionId": "572",
+      "tournamentEn": "🛡️ Europe UEFA Champions League",
+      "tournamentAr": "🛡️ دوري أبطال أوروبا",
+      "matchEn": "Slavia Praha (Czech Republic) v Villarreal (Spain)",
+      "matchAr": "سلافيا براغ (جمهورية التشيك) × فياريال (إسبانيا)",
+      "rawIsoTime": "2026-11-25T17:45:00+00:00",
+      "time": "0 - 1 (90+2')",
+      "rawMinute": 92,
+      "homeGoals": 0,
+      "awayGoals": 1,
       "isLive": true
     },
     {
@@ -163,8 +163,8 @@
       "matchEn": "Al Taawoun (Saudi Arabia) v Al Nahda (Oman)",
       "matchAr": "التعاون (السعودية) × النهضة (عُمان)",
       "rawIsoTime": "2026-11-25T18:15:00+00:00",
-      "time": "0 - 0 (61')",
-      "rawMinute": 61,
+      "time": "0 - 0 (62')",
+      "rawMinute": 62,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
