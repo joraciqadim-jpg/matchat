@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795612390874,
+  "timestamp": 1795612455023,
   "matches": [
     {
       "matchId": 4818652,
@@ -415,8 +415,8 @@
       "matchEn": "Albukiryah v Al Wehda",
       "matchAr": "البكيرية × الوحدة",
       "rawIsoTime": "2026-11-25T12:10:00+00:00",
-      "time": "1 - 2 (Halftime)",
-      "rawMinute": 45,
+      "time": "1 - 2 (46')",
+      "rawMinute": 46,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -429,8 +429,8 @@
       "matchEn": "Ecuador v South Korea",
       "matchAr": "الإكوادور × كوريا الجنوبية",
       "rawIsoTime": "2026-11-25T12:30:00+00:00",
-      "time": "0 - 2 (42')",
-      "rawMinute": 42,
+      "time": "0 - 2 (44')",
+      "rawMinute": 44,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -443,8 +443,8 @@
       "matchEn": "Uganda v New Caledonia",
       "matchAr": "أوغندا × كاليدونيا الجديدة",
       "rawIsoTime": "2026-11-25T12:30:00+00:00",
-      "time": "2 - 0 (43')",
-      "rawMinute": 43,
+      "time": "2 - 0 (44')",
+      "rawMinute": 44,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
