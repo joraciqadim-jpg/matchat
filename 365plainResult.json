@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795702031569,
+  "timestamp": 1795702094734,
   "matches": [
     {
       "matchId": 4818643,
@@ -79,8 +79,8 @@
       "matchEn": "BG Pathum United (Thailand) v Lion City (Singapore)",
       "matchAr": "بي جي باثوم يونايتد (تايلاند) × ليون سيتي (سنغافورة)",
       "rawIsoTime": "2026-11-26T12:15:00+00:00",
-      "time": "0 - 3 (90+3')",
-      "rawMinute": 93,
+      "time": "0 - 3 (90+4')",
+      "rawMinute": 94,
       "homeGoals": 0,
       "awayGoals": 3,
       "isLive": true
@@ -821,10 +821,10 @@
       "matchEn": "New Zealand v Belgium",
       "matchAr": "نيوزيلندا × بلجيكا",
       "rawIsoTime": "2026-11-26T13:00:00+00:00",
-      "time": "0 - 5 (51')",
-      "rawMinute": 51,
+      "time": "0 - 6 (52')",
+      "rawMinute": 52,
       "homeGoals": 0,
-      "awayGoals": 5,
+      "awayGoals": 6,
       "isLive": true
     },
     {
@@ -835,8 +835,8 @@
       "matchEn": "Vietnam v Mali",
       "matchAr": "فيتنام × مالي",
       "rawIsoTime": "2026-11-26T13:00:00+00:00",
-      "time": "0 - 0 (50')",
-      "rawMinute": 50,
+      "time": "0 - 0 (51')",
+      "rawMinute": 51,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -849,10 +849,10 @@
       "matchEn": "Uzbekistan v Italy",
       "matchAr": "أوزبكستان × إيطاليا",
       "rawIsoTime": "2026-11-26T14:00:00+00:00",
-      "time": "0 - 0 (7')",
-      "rawMinute": 7,
+      "time": "0 - 1 (8')",
+      "rawMinute": 8,
       "homeGoals": 0,
-      "awayGoals": 0,
+      "awayGoals": 1,
       "isLive": true
     },
     {
@@ -863,8 +863,8 @@
       "matchEn": "Jamaica v Ivory Coast",
       "matchAr": "جامايكا × ساحل العاج",
       "rawIsoTime": "2026-11-26T14:00:00+00:00",
-      "time": "0 - 0 (7')",
-      "rawMinute": 7,
+      "time": "0 - 0 (8')",
+      "rawMinute": 8,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
