@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795730231238,
+  "timestamp": 1795730293971,
   "matches": [
     {
       "matchId": 4818643,
@@ -492,6 +492,20 @@
       "isLive": false
     },
     {
+      "matchId": 4828872,
+      "competitionId": "7685",
+      "tournamentEn": "🛡️ Europe UEFA Conference League",
+      "tournamentAr": "🛡️ دوري المؤتمر الأوروبي",
+      "matchEn": "CSKA Sofia (Bulgaria) v Trabzonspor (Turkey)",
+      "matchAr": "سسكا صوفيا (بلغاريا) × طرابزون سبور (تركيا)",
+      "rawIsoTime": "2026-11-26T20:00:00+00:00",
+      "time": "1 - 2 (done)",
+      "rawMinute": 90,
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "isLive": false
+    },
+    {
       "matchId": 4828873,
       "competitionId": "7685",
       "tournamentEn": "🛡️ Europe UEFA Conference League",
@@ -560,20 +574,6 @@
       "homeGoals": 3,
       "awayGoals": 2,
       "isLive": false
-    },
-    {
-      "matchId": 4828872,
-      "competitionId": "7685",
-      "tournamentEn": "🛡️ Europe UEFA Conference League",
-      "tournamentAr": "🛡️ دوري المؤتمر الأوروبي",
-      "matchEn": "CSKA Sofia (Bulgaria) v Trabzonspor (Turkey)",
-      "matchAr": "سسكا صوفيا (بلغاريا) × طرابزون سبور (تركيا)",
-      "rawIsoTime": "2026-11-26T20:00:00+00:00",
-      "time": "1 - 2 (90+6')",
-      "rawMinute": 96,
-      "homeGoals": 1,
-      "awayGoals": 2,
-      "isLive": true
     },
     {
       "matchId": 4891970,
