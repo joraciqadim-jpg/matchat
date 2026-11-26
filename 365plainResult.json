@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795722431153,
+  "timestamp": 1795722494870,
   "matches": [
     {
       "matchId": 4818643,
@@ -394,6 +394,20 @@
       "isLive": false
     },
     {
+      "matchId": 4828882,
+      "competitionId": "7685",
+      "tournamentEn": "🛡️ Europe UEFA Conference League",
+      "tournamentAr": "🛡️ دوري المؤتمر الأوروبي",
+      "matchEn": "Kauno Zalgiris (Lithuania) v Riga (Latvia)",
+      "matchAr": "كاوناس زالغريس (ليتوانيا) × ريغا (لاتفيا)",
+      "rawIsoTime": "2026-11-26T17:45:00+00:00",
+      "time": "2 - 0 (done)",
+      "rawMinute": 90,
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "isLive": false
+    },
+    {
       "matchId": 4828883,
       "competitionId": "7685",
       "tournamentEn": "🛡️ Europe UEFA Conference League",
@@ -448,20 +462,6 @@
       "homeGoals": 4,
       "awayGoals": 0,
       "isLive": false
-    },
-    {
-      "matchId": 4828882,
-      "competitionId": "7685",
-      "tournamentEn": "🛡️ Europe UEFA Conference League",
-      "tournamentAr": "🛡️ دوري المؤتمر الأوروبي",
-      "matchEn": "Kauno Zalgiris (Lithuania) v Riga (Latvia)",
-      "matchAr": "كاوناس زالغريس (ليتوانيا) × ريغا (لاتفيا)",
-      "rawIsoTime": "2026-11-26T17:45:00+00:00",
-      "time": "2 - 0 (90+3')",
-      "rawMinute": 93,
-      "homeGoals": 2,
-      "awayGoals": 0,
-      "isLive": true
     },
     {
       "matchId": 4828870,
