@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795702575198,
+  "timestamp": 1795702631457,
   "matches": [
     {
       "matchId": 4818643,
@@ -821,8 +821,8 @@
       "matchEn": "New Zealand v Belgium",
       "matchAr": "نيوزيلندا × بلجيكا",
       "rawIsoTime": "2026-11-26T13:00:00+00:00",
-      "time": "0 - 6 (60')",
-      "rawMinute": 60,
+      "time": "0 - 6 (61')",
+      "rawMinute": 61,
       "homeGoals": 0,
       "awayGoals": 6,
       "isLive": true
@@ -835,8 +835,8 @@
       "matchEn": "Vietnam v Mali",
       "matchAr": "فيتنام × مالي",
       "rawIsoTime": "2026-11-26T13:00:00+00:00",
-      "time": "0 - 1 (59')",
-      "rawMinute": 59,
+      "time": "0 - 1 (60')",
+      "rawMinute": 60,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -849,8 +849,8 @@
       "matchEn": "Uzbekistan v Italy",
       "matchAr": "أوزبكستان × إيطاليا",
       "rawIsoTime": "2026-11-26T14:00:00+00:00",
-      "time": "0 - 1 (16')",
-      "rawMinute": 16,
+      "time": "0 - 1 (17')",
+      "rawMinute": 17,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -863,8 +863,8 @@
       "matchEn": "Jamaica v Ivory Coast",
       "matchAr": "جامايكا × ساحل العاج",
       "rawIsoTime": "2026-11-26T14:00:00+00:00",
-      "time": "0 - 0 (16')",
-      "rawMinute": 16,
+      "time": "0 - 0 (17')",
+      "rawMinute": 17,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
