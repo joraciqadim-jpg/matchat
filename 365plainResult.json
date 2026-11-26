@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795709536145,
+  "timestamp": 1795709591143,
   "matches": [
     {
       "matchId": 4818643,
@@ -331,8 +331,8 @@
       "matchEn": "Kairat Almaty (Kazakhstan) v Mjällby AIF (Sweden)",
       "matchAr": "كايرات ألماتي (كازاخستان) × مييلبي (السويد)",
       "rawIsoTime": "2026-11-26T15:30:00+00:00",
-      "time": "1 - 0 (42')",
-      "rawMinute": 42,
+      "time": "1 - 0 (43')",
+      "rawMinute": 43,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -583,8 +583,8 @@
       "matchEn": "Al Fateh v Al Riyadh",
       "matchAr": "الفتح × الرياض",
       "rawIsoTime": "2026-11-26T14:25:00+00:00",
-      "time": "1 - 0 (89')",
-      "rawMinute": 89,
+      "time": "1 - 0 (90')",
+      "rawMinute": 90,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -597,8 +597,8 @@
       "matchEn": "Abha v Al Shabab Riyadh",
       "matchAr": "أبها × الشباب الرياض",
       "rawIsoTime": "2026-11-26T15:05:00+00:00",
-      "time": "0 - 1 (49')",
-      "rawMinute": 49,
+      "time": "0 - 1 (50')",
+      "rawMinute": 50,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -884,20 +884,6 @@
       "isLive": true
     },
     {
-      "matchId": 4899123,
-      "competitionId": "564",
-      "tournamentEn": "🇸🇾 Syrian Premier League",
-      "tournamentAr": "🇸🇾 الدوري السوري",
-      "matchEn": "Tishreen v Homs Al Fidaa",
-      "matchAr": "تشرين × حمص الفداء",
-      "rawIsoTime": "2026-11-26T15:00:00+00:00",
-      "time": "0 - 0 (50')",
-      "rawMinute": 50,
-      "homeGoals": 0,
-      "awayGoals": 0,
-      "isLive": true
-    },
-    {
       "matchId": 4722868,
       "competitionId": "5582",
       "tournamentEn": "🛡️ World Cup U17",
@@ -905,8 +891,8 @@
       "matchEn": "Morocco v Spain",
       "matchAr": "المغرب × إسبانيا",
       "rawIsoTime": "2026-11-26T15:00:00+00:00",
-      "time": "0 - 1 (53')",
-      "rawMinute": 53,
+      "time": "0 - 1 (54')",
+      "rawMinute": 54,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -933,10 +919,24 @@
       "matchEn": "Al Buqa'a v Al Jazeera",
       "matchAr": "البقعة × الجزيرة",
       "rawIsoTime": "2026-11-26T15:00:00+00:00",
-      "time": "0 - 2 (55')",
-      "rawMinute": 55,
+      "time": "0 - 2 (56')",
+      "rawMinute": 56,
       "homeGoals": 0,
       "awayGoals": 2,
+      "isLive": true
+    },
+    {
+      "matchId": 4899123,
+      "competitionId": "564",
+      "tournamentEn": "🇸🇾 Syrian Premier League",
+      "tournamentAr": "🇸🇾 الدوري السوري",
+      "matchEn": "Tishreen v Homs Al Fidaa",
+      "matchAr": "تشرين × حمص الفداء",
+      "rawIsoTime": "2026-11-26T15:00:00+00:00",
+      "time": "0 - 0 (51')",
+      "rawMinute": 51,
+      "homeGoals": 0,
+      "awayGoals": 0,
       "isLive": true
     },
     {
@@ -948,7 +948,7 @@
       "matchAr": "طاجيكستان × السنغال",
       "rawIsoTime": "2026-11-26T16:00:00+00:00",
       "time": "0 - 0 (12')",
-      "rawMinute": 12,
+      "rawMinute": 13,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -961,8 +961,8 @@
       "matchEn": "Croatia v Cuba",
       "matchAr": "كرواتيا × كوبا",
       "rawIsoTime": "2026-11-26T16:00:00+00:00",
-      "time": "0 - 0 (12')",
-      "rawMinute": 12,
+      "time": "0 - 0 (13')",
+      "rawMinute": 13,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
