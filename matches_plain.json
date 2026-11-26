@@ -53,19 +53,16 @@
       "time": "17:45",
       "channels": [
         "📺 Sport TV 5 [Hispasat 30W 12360 H 27500]",
-        "📺 Bein Sport 6 [Nilesat 7.0W 11054 H 27500]",
         "📺 Bein Sport 8 [Nilesat 7.0W 11054 H 27500]",
         "📺 Nova Sport 5 CZ [Thor 0.8W 11747 H 30000]",
         "📺 Magenta Sport 4 [Hotbird 13.0E 11938 H 30000]",
         "📺 Magenta Sport 6 [Hotbird 13.0E 11938 H 30000]",
         "📺 Polsat Sport Extra 1 [Hotbird 13.0E 12265 V 27500]",
-        "📺 Polsat Sport Extra 3 [Hotbird 13.0E 10911 V 27500]",
         "📺 Arena Premium 4 SRB [Eutelsat 16.0E 11366 V 30000]",
         "📺 Arena Sport 6 HRV [Eutelsat 16.0E 11554 V 30000]",
         "📺 M+ Liga de Campeones 6 [Astra 19.2E 10936 V 22000]",
         "📺 Sky Sport Austria 7 [Astra 19.2E 12304 H 27500]",
         "📺 Nova Sport 5 CZ [Astra 23.5E 11973 V 29900]",
-        "📺 Bein Sport 6 [Badrsat 26.0E 11390 V 27500]",
         "📺 Bein Sport 8 [Badrsat 26.0E 10810 V 27500]",
         "📺 TNT Sports 8 [Astra 28.2E 11597 V 22000]",
         "📺 SuperSport Football Plus [Eutelsat 36.0E 12284 H 27500]",
@@ -291,7 +288,8 @@
         "📺 Persiana Sports 1 [Al-Yah 52.5E 11343 H 27500]",
         "📺 QazSport [KazSat 58.5E 12657 V 45000]",
         "📺 Fast Sports [Eutelsat 70.5E 11050 H 17670]",
-        "📺 IRIB Varzesh [Thaicom 78.5E 11640 H 30000]"
+        "📺 IRIB Varzesh [Thaicom 78.5E 11640 H 30000]",
+        "📺 Sony Sports Ten 2 [SES 108.3E 12711 H 44900]"
       ]
     },
     {
@@ -369,13 +367,11 @@
       "time": "20:00",
       "channels": [
         "📺 BeIn Sports Xtra 4 [Nilesat 7.0W 12188 H 27500]",
-        "📺 Bein Sport 9 [Nilesat 7.0W 12188 H 27500]",
         "📺 Polsat Sport Extra 3 [Hotbird 13.0E 10911 V 27500]",
         "📺 Sky Sport 256 [Hotbird 13.0E 12341 V 29900]",
         "📺 Sky Sport Mix ITA [Hotbird 13.0E 12073 V 29900]",
         "📺 M+ Liga de Campeones 7 [Astra 19.2E 10936 V 22000]",
         "📺 BeIn Sports Xtra 4 [Badrsat 26.0E 10810 V 27500]",
-        "📺 Bein Sport 9 [Badrsat 26.0E 10850 V 27500]",
         "📺 TNT Sports 7 [Astra 28.2E 11597 V 22000]"
       ]
     },
@@ -522,6 +518,21 @@
       ]
     },
     {
+      "tournamentEn": "🇬🇧 English League One",
+      "tournamentAr": "🇬🇧 الدوري الإنجليزي الدرجة 1",
+      "matchEn": "Doncaster v Huddersfield",
+      "matchAr": "دونكاستر × هدرسفيلد",
+      "time": "20:00",
+      "channels": [
+        "📺 Match 4 [Thor 0.8W 12188 V 28000]",
+        "📺 Nova Sport 4 CZ [Thor 0.8W 11977 H 30000]",
+        "📺 Diema Sport 2 [Hotbird 13.0E 12673 V 30000]",
+        "📺 Nova Sport BUL [Hotbird 13.0E 12654 H 30000]",
+        "📺 Nova Sport 4 CZ [Astra 23.5E 11934 V 29900]",
+        "📺 Sky Sports Football [Astra 28.2E 12012 V 27500]"
+      ]
+    },
+    {
       "tournamentEn": "🏁 U-17 World Championship",
       "tournamentAr": "🏁 بطولة العالم تحت 17 سنة",
       "matchEn": "New Zealand v Belgium",
@@ -620,35 +631,27 @@
       ]
     },
     {
-      "tournamentEn": "🇺🇸 USA NBA",
-      "tournamentAr": "🇺🇸 الدوري الأميركي لكرة السلة",
-      "matchEn": "New York Knicks v Cavaliers",
-      "matchAr": "نيويورك نيكس × كافالييرز",
-      "time": "00:30",
+      "tournamentEn": "🏆 Kuwait Emir Cup",
+      "tournamentAr": "🏆 كأس أمير الكويت",
+      "matchEn": "Al Salmiya v Tadhamon",
+      "matchAr": "السالمية × التضامن",
+      "time": "14:20",
       "channels": [
-        "📺 Magenta Sport 5 [Hotbird 13.0E 11938 H 30000]"
+        "📺 الكويت الرياضية 1 [Eutelsat 8W 11054 V 27500]",
+        "📺 الكويت الرياضية 1 [Nilesat 7.0W 12169 V 27500]",
+        "📺 الكويت الرياضية 1 [Badrsat 26.0E 12523 H 27500]"
       ]
     },
     {
-      "tournamentEn": "🇺🇸 USA NBA",
-      "tournamentAr": "🇺🇸 الدوري الأميركي لكرة السلة",
-      "matchEn": "Thunder v Minnesota Timberwolves",
-      "matchAr": "ثاندر × مينيسوتا تمبرولفز",
-      "time": "00:30",
+      "tournamentEn": "🏆 Kuwait Emir Cup",
+      "tournamentAr": "🏆 كأس أمير الكويت",
+      "matchEn": "Al-Arabi v Khaitan",
+      "matchAr": "العربي × خيطان",
+      "time": "17:20",
       "channels": [
-        "📺 Bein Sport 1 [Nilesat 7.0W 11013 H 27500]",
-        "📺 5 Sport [Amos 4.0W 11259 V 30000]",
-        "📺 Go 3 Sport 2 [Astra 4.8E 11958 H 27500]",
-        "📺 Sky Sport Basket [Hotbird 13.0E 11843 V 29900]",
-        "📺 Arena Premium 1 SRB [Eutelsat 16.0E 11366 V 30000]",
-        "📺 Sport Klub 1 HRV [Eutelsat 16.0E 11471 H 30000]",
-        "📺 Sport Klub 1 SLO [Eutelsat 16.0E 11471 H 30000]",
-        "📺 BeIn Sports 1 France [Astra 19.2E 12168 V 29700]",
-        "📺 Bein Sport 1 [Badrsat 26.0E 10810 H 27500]",
-        "📺 BeIn Sports English 1 [Badrsat 26.0E 10850 V 27500]",
-        "📺 BeIn Sports French 1 [Badrsat 26.0E 11390 V 27500]",
-        "📺 ESPN South Africa [Eutelsat 36.0E 12476 H 27500]",
-        "📺 S Sport [Turksat 42.0E 11853 H 25000]"
+        "📺 الكويت الرياضية 1 [Eutelsat 8W 11054 V 27500]",
+        "📺 الكويت الرياضية 1 [Nilesat 7.0W 12169 V 27500]",
+        "📺 الكويت الرياضية 1 [Badrsat 26.0E 12523 H 27500]"
       ]
     },
     {
