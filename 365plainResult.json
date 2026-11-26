@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795722253424,
+  "timestamp": 1795722332816,
   "matches": [
     {
       "matchId": 4818643,
@@ -380,6 +380,20 @@
       "isLive": false
     },
     {
+      "matchId": 4828881,
+      "competitionId": "7685",
+      "tournamentEn": "🛡️ Europe UEFA Conference League",
+      "tournamentAr": "🛡️ دوري المؤتمر الأوروبي",
+      "matchEn": "Hearts (Scotland) v Monaco (France)",
+      "matchAr": "هارتس (اسكتلندا) × موناكو (فرنسا)",
+      "rawIsoTime": "2026-11-26T17:45:00+00:00",
+      "time": "2 - 3 (done)",
+      "rawMinute": 90,
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "isLive": false
+    },
+    {
       "matchId": 4828883,
       "competitionId": "7685",
       "tournamentEn": "🛡️ Europe UEFA Conference League",
@@ -436,20 +450,6 @@
       "isLive": false
     },
     {
-      "matchId": 4828881,
-      "competitionId": "7685",
-      "tournamentEn": "🛡️ Europe UEFA Conference League",
-      "tournamentAr": "🛡️ دوري المؤتمر الأوروبي",
-      "matchEn": "Hearts (Scotland) v Monaco (France)",
-      "matchAr": "هارتس (اسكتلندا) × موناكو (فرنسا)",
-      "rawIsoTime": "2026-11-26T17:45:00+00:00",
-      "time": "2 - 3 (90+6')",
-      "rawMinute": 96,
-      "homeGoals": 2,
-      "awayGoals": 3,
-      "isLive": true
-    },
-    {
       "matchId": 4828882,
       "competitionId": "7685",
       "tournamentEn": "🛡️ Europe UEFA Conference League",
@@ -457,8 +457,8 @@
       "matchEn": "Kauno Zalgiris (Lithuania) v Riga (Latvia)",
       "matchAr": "كاوناس زالغريس (ليتوانيا) × ريغا (لاتفيا)",
       "rawIsoTime": "2026-11-26T17:45:00+00:00",
-      "time": "2 - 0 (90')",
-      "rawMinute": 90,
+      "time": "2 - 0 (90+1')",
+      "rawMinute": 92,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
