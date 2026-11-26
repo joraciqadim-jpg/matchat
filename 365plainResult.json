@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795705454420,
+  "timestamp": 1795705524303,
   "matches": [
     {
       "matchId": 4818643,
@@ -583,8 +583,8 @@
       "matchEn": "Al Fateh v Al Riyadh",
       "matchAr": "الفتح × الرياض",
       "rawIsoTime": "2026-11-26T14:25:00+00:00",
-      "time": "0 - 0 (38')",
-      "rawMinute": 38,
+      "time": "0 - 0 (39')",
+      "rawMinute": 39,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -597,11 +597,11 @@
       "matchEn": "Abha v Al Shabab Riyadh",
       "matchAr": "أبها × الشباب الرياض",
       "rawIsoTime": "2026-11-26T15:05:00+00:00",
-      "time": "15:05",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4891974,
@@ -877,8 +877,8 @@
       "matchEn": "Salmiyah v Tadamon",
       "matchAr": "السالمية × التضامن",
       "rawIsoTime": "2026-11-26T14:20:00+00:00",
-      "time": "1 - 1 (43')",
-      "rawMinute": 43,
+      "time": "1 - 1 (45')",
+      "rawMinute": 45,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -891,8 +891,8 @@
       "matchEn": "Tishreen v Homs Al Fidaa",
       "matchAr": "تشرين × حمص الفداء",
       "rawIsoTime": "2026-11-26T15:00:00+00:00",
-      "time": "0 - 0 (6')",
-      "rawMinute": 7,
+      "time": "0 - 0 (8')",
+      "rawMinute": 8,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -905,8 +905,8 @@
       "matchEn": "Morocco v Spain",
       "matchAr": "المغرب × إسبانيا",
       "rawIsoTime": "2026-11-26T15:00:00+00:00",
-      "time": "0 - 0 (4')",
-      "rawMinute": 4,
+      "time": "0 - 0 (5')",
+      "rawMinute": 5,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -919,8 +919,8 @@
       "matchEn": "China v Fiji",
       "matchAr": "الصين × فيجي",
       "rawIsoTime": "2026-11-26T15:00:00+00:00",
-      "time": "1 - 0 (4')",
-      "rawMinute": 4,
+      "time": "1 - 0 (5')",
+      "rawMinute": 5,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -933,8 +933,8 @@
       "matchEn": "Al Buqa'a v Al Jazeera",
       "matchAr": "البقعة × الجزيرة",
       "rawIsoTime": "2026-11-26T15:00:00+00:00",
-      "time": "0 - 0 (5')",
-      "rawMinute": 5,
+      "time": "0 - 0 (6')",
+      "rawMinute": 6,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
