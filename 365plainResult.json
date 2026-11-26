@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795694471489,
+  "timestamp": 1795695336544,
   "matches": [
     {
       "matchId": 4818643,
@@ -51,11 +51,11 @@
       "matchEn": "Svay Rieng (Cambodia) v Machida Zelvia (Japan)",
       "matchAr": "سفاي رينغ (كمبوديا) × ماتشيدا زيلفيا (اليابان)",
       "rawIsoTime": "2026-11-26T12:15:00+00:00",
-      "time": "12:15",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4818641,
@@ -65,11 +65,11 @@
       "matchEn": "BG Pathum United (Thailand) v Lion City (Singapore)",
       "matchAr": "بي جي باثوم يونايتد (تايلاند) × ليون سيتي (سنغافورة)",
       "rawIsoTime": "2026-11-26T12:15:00+00:00",
-      "time": "12:15",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4818642,
@@ -79,11 +79,11 @@
       "matchEn": "Tai Po (Hong Kong) v Adelaide United (Australia)",
       "matchAr": "تاي بو (هونغ كونغ) × أديلايد يونايتد (أستراليا)",
       "rawIsoTime": "2026-11-26T12:15:00+00:00",
-      "time": "12:15",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4828686,
@@ -674,6 +674,20 @@
       "isLive": false
     },
     {
+      "matchId": 4899123,
+      "competitionId": "564",
+      "tournamentEn": "🇸🇾 Syrian Premier League",
+      "tournamentAr": "🇸🇾 الدوري السوري",
+      "matchEn": "Tishreen v Homs Al Fidaa",
+      "matchAr": "تشرين × حمص الفداء",
+      "rawIsoTime": "2026-11-26T12:00:00+00:00",
+      "time": "12:00",
+      "rawMinute": 1,
+      "homeGoals": -1,
+      "awayGoals": -1,
+      "isLive": false
+    },
+    {
       "matchId": 4892433,
       "competitionId": "559",
       "tournamentEn": "🇱🇾 Libyan Premier League",
@@ -794,20 +808,6 @@
       "matchAr": "النجم المتلوي × بروغريه سكيكيت",
       "rawIsoTime": "2026-11-26T17:00:00+00:00",
       "time": "17:00 (cancelled)",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
-    },
-    {
-      "matchId": 4899123,
-      "competitionId": "564",
-      "tournamentEn": "🇸🇾 Syrian Premier League",
-      "tournamentAr": "🇸🇾 الدوري السوري",
-      "matchEn": "Tishreen v Homs Al Fidaa",
-      "matchAr": "تشرين × حمص الفداء",
-      "rawIsoTime": "2026-11-26T12:00:00+00:00",
-      "time": "12:00",
       "rawMinute": 1,
       "homeGoals": -1,
       "awayGoals": -1,
