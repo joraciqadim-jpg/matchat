@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795721951407,
+  "timestamp": 1795722031817,
   "matches": [
     {
       "matchId": 4818643,
@@ -177,11 +177,11 @@
       "matchEn": "Olympiacos (Greece) v Milan (Italy)",
       "matchAr": "أولمبياكوس (اليونان) × ميلان (إيطاليا)",
       "rawIsoTime": "2026-11-26T17:45:00+00:00",
-      "time": "2 - 4 (90+6')",
-      "rawMinute": 96,
+      "time": "2 - 4 (done)",
+      "rawMinute": 90,
       "homeGoals": 2,
       "awayGoals": 4,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4828675,
@@ -408,6 +408,34 @@
       "isLive": false
     },
     {
+      "matchId": 4828885,
+      "competitionId": "7685",
+      "tournamentEn": "🛡️ Europe UEFA Conference League",
+      "tournamentAr": "🛡️ دوري المؤتمر الأوروبي",
+      "matchEn": "Brighton (England) v CS Universitatea Craiova (Romania)",
+      "matchAr": "برايتون (إنجلترا) × جامعة كرايوفا (رومانيا)",
+      "rawIsoTime": "2026-11-26T17:45:00+00:00",
+      "time": "4 - 0 (done)",
+      "rawMinute": 90,
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "isLive": false
+    },
+    {
+      "matchId": 4828886,
+      "competitionId": "7685",
+      "tournamentEn": "🛡️ Europe UEFA Conference League",
+      "tournamentAr": "🛡️ دوري المؤتمر الأوروبي",
+      "matchEn": "Ajax (Netherlands) v Thun (Switzerland)",
+      "matchAr": "أياكس (هولندا) × تون (سويسرا)",
+      "rawIsoTime": "2026-11-26T17:45:00+00:00",
+      "time": "4 - 0 (done)",
+      "rawMinute": 90,
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "isLive": false
+    },
+    {
       "matchId": 4828881,
       "competitionId": "7685",
       "tournamentEn": "🛡️ Europe UEFA Conference League",
@@ -415,8 +443,8 @@
       "matchEn": "Hearts (Scotland) v Monaco (France)",
       "matchAr": "هارتس (اسكتلندا) × موناكو (فرنسا)",
       "rawIsoTime": "2026-11-26T17:45:00+00:00",
-      "time": "2 - 2 (90+1')",
-      "rawMinute": 91,
+      "time": "2 - 2 (90+2')",
+      "rawMinute": 92,
       "homeGoals": 2,
       "awayGoals": 2,
       "isLive": true
@@ -429,37 +457,9 @@
       "matchEn": "Kauno Zalgiris (Lithuania) v Riga (Latvia)",
       "matchAr": "كاوناس زالغريس (ليتوانيا) × ريغا (لاتفيا)",
       "rawIsoTime": "2026-11-26T17:45:00+00:00",
-      "time": "2 - 0 (85')",
-      "rawMinute": 85,
+      "time": "2 - 0 (86')",
+      "rawMinute": 86,
       "homeGoals": 2,
-      "awayGoals": 0,
-      "isLive": true
-    },
-    {
-      "matchId": 4828885,
-      "competitionId": "7685",
-      "tournamentEn": "🛡️ Europe UEFA Conference League",
-      "tournamentAr": "🛡️ دوري المؤتمر الأوروبي",
-      "matchEn": "Brighton (England) v CS Universitatea Craiova (Romania)",
-      "matchAr": "برايتون (إنجلترا) × جامعة كرايوفا (رومانيا)",
-      "rawIsoTime": "2026-11-26T17:45:00+00:00",
-      "time": "4 - 0 (90+3')",
-      "rawMinute": 93,
-      "homeGoals": 4,
-      "awayGoals": 0,
-      "isLive": true
-    },
-    {
-      "matchId": 4828886,
-      "competitionId": "7685",
-      "tournamentEn": "🛡️ Europe UEFA Conference League",
-      "tournamentAr": "🛡️ دوري المؤتمر الأوروبي",
-      "matchEn": "Ajax (Netherlands) v Thun (Switzerland)",
-      "matchAr": "أياكس (هولندا) × تون (سويسرا)",
-      "rawIsoTime": "2026-11-26T17:45:00+00:00",
-      "time": "4 - 0 (90+4')",
-      "rawMinute": 94,
-      "homeGoals": 4,
       "awayGoals": 0,
       "isLive": true
     },
