@@ -533,66 +533,6 @@
       ]
     },
     {
-      "tournamentEn": "🏁 U-17 World Championship",
-      "tournamentAr": "🏁 بطولة العالم تحت 17 سنة",
-      "matchEn": "China v Fiji",
-      "matchAr": "الصين × فيجي",
-      "time": "15:00",
-      "channels": [
-        "📺 Sport 6 [Amos 4.0W 11259 V 30000]",
-        "📺 Al Kass Seven [Badrsat 26.0E 10770 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🏁 U-17 World Championship",
-      "tournamentAr": "🏁 بطولة العالم تحت 17 سنة",
-      "matchEn": "Morocco v Spain",
-      "matchAr": "المغرب × إسبانيا",
-      "time": "15:00",
-      "channels": [
-        "📺 Al Kass One [Nilesat 7.0W 11919 H 27500]",
-        "📺 Sport 2 [Amos 4.0W 11259 V 30000]",
-        "📺 Al Kass One [Badrsat 26.0E 12245 V 27500]",
-        "📺 Al Kass One [Badrsat 26.0E 10770 V 27500]",
-        "📺 Arryadia TNT [Badrsat 26.0E 11623 V 27500]",
-        "📺 Persiana Sports 2 [Al-Yah 52.5E 11343 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🏁 U-17 World Championship",
-      "tournamentAr": "🏁 بطولة العالم تحت 17 سنة",
-      "matchEn": "Croatia v Cuba",
-      "matchAr": "كرواتيا × كوبا",
-      "time": "16:00",
-      "channels": [
-        "📺 Al Kass Ten [Nilesat 7.0W 10834 V 27500]",
-        "📺 Al Kass Ten [Badrsat 26.0E 10770 V 27500]",
-        "📺 Al Kass Ten [Badrsat 26.0E 12169 V 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🏁 U-17 World Championship",
-      "tournamentAr": "🏁 بطولة العالم تحت 17 سنة",
-      "matchEn": "Tajikistan v Senegal",
-      "matchAr": "طاجيكستان × السنغال",
-      "time": "16:00",
-      "channels": [
-        "📺 Al Kass Six [Badrsat 26.0E 10770 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🏆 Kuwait Emir Cup",
-      "tournamentAr": "🏆 كأس أمير الكويت",
-      "matchEn": "Al Salmiya v Tadhamon",
-      "matchAr": "السالمية × التضامن",
-      "time": "14:20",
-      "channels": [
-        "📺 الكويت الرياضية 1 [Eutelsat 8W 11054 V 27500]",
-        "📺 الكويت الرياضية 1 [Nilesat 7.0W 12169 V 27500]",
-        "📺 الكويت الرياضية 1 [Badrsat 26.0E 12523 H 27500]"
-      ]
-    },
-    {
       "tournamentEn": "🏆 Kuwait Emir Cup",
       "tournamentAr": "🏆 كأس أمير الكويت",
       "matchEn": "Al-Arabi v Khaitan",
