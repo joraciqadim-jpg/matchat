@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795722071153,
+  "timestamp": 1795722134599,
   "matches": [
     {
       "matchId": 4818643,
@@ -443,10 +443,10 @@
       "matchEn": "Hearts (Scotland) v Monaco (France)",
       "matchAr": "هارتس (اسكتلندا) × موناكو (فرنسا)",
       "rawIsoTime": "2026-11-26T17:45:00+00:00",
-      "time": "2 - 2 (90+3')",
-      "rawMinute": 93,
+      "time": "2 - 3 (90+4')",
+      "rawMinute": 94,
       "homeGoals": 2,
-      "awayGoals": 2,
+      "awayGoals": 3,
       "isLive": true
     },
     {
@@ -457,8 +457,8 @@
       "matchEn": "Kauno Zalgiris (Lithuania) v Riga (Latvia)",
       "matchAr": "كاوناس زالغريس (ليتوانيا) × ريغا (لاتفيا)",
       "rawIsoTime": "2026-11-26T17:45:00+00:00",
-      "time": "2 - 0 (87')",
-      "rawMinute": 87,
+      "time": "2 - 0 (88')",
+      "rawMinute": 88,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
