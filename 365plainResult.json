@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795655232402,
+  "timestamp": 1795655294182,
   "matches": [
     {
       "matchId": 4818643,
@@ -779,8 +779,8 @@
       "matchEn": "Boca Juniors v Independiente Rivadavia",
       "matchAr": "بوكا جونيورز × إنديبندينتي ريفادافيا",
       "rawIsoTime": "2026-11-26T00:00:00+00:00",
-      "time": "1 - 0 (Halftime)",
-      "rawMinute": 45,
+      "time": "1 - 0 (46')",
+      "rawMinute": 46,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -793,8 +793,8 @@
       "matchEn": "Toluca v Atlas Guadalajara",
       "matchAr": "تولوكا × أطلس غوادالاخارا",
       "rawIsoTime": "2026-11-26T01:00:00+00:00",
-      "time": "0 - 0 (7')",
-      "rawMinute": 7,
+      "time": "0 - 0 (8')",
+      "rawMinute": 8,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
