@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795654574143,
+  "timestamp": 1795654631476,
   "matches": [
     {
       "matchId": 4818643,
@@ -625,8 +625,8 @@
       "matchEn": "Atlético Mineiro v Corinthians",
       "matchAr": "أتلتيكو مينيرو × كورينثيانز",
       "rawIsoTime": "2026-11-25T23:00:00+00:00",
-      "time": "0 - 1 (90')",
-      "rawMinute": 90,
+      "time": "0 - 1 (90+1')",
+      "rawMinute": 91,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
