@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795734066585,
+  "timestamp": 1795735574718,
   "matches": [
     {
       "matchId": 4818643,
@@ -625,11 +625,11 @@
       "matchEn": "São Paulo v Remo",
       "matchAr": "ساو باولو × ريمو",
       "rawIsoTime": "2026-11-26T23:00:00+00:00",
-      "time": "23:00",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "time": "0 - 0 (26')",
+      "rawMinute": 26,
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4891698,
