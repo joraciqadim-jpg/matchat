@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795730123089,
+  "timestamp": 1795730174420,
   "matches": [
     {
       "matchId": 4818643,
@@ -317,8 +317,8 @@
       "matchEn": "Torreense (Portugal) v Celtic (Scotland)",
       "matchAr": "تورينسي (البرتغال) × سلتيك (اسكتلندا)",
       "rawIsoTime": "2026-11-26T20:00:00+00:00",
-      "time": "1 - 2 (90+3')",
-      "rawMinute": 93,
+      "time": "1 - 2 (90+4')",
+      "rawMinute": 94,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -506,6 +506,20 @@
       "isLive": false
     },
     {
+      "matchId": 4828875,
+      "competitionId": "7685",
+      "tournamentEn": "🛡️ Europe UEFA Conference League",
+      "tournamentAr": "🛡️ دوري المؤتمر الأوروبي",
+      "matchEn": "HNK Hajduk Split (Croatia) v STVV (Belgium)",
+      "matchAr": "هايدوك سبليت (كرواتيا) × سينت ترويدن (بلجيكا)",
+      "rawIsoTime": "2026-11-26T20:00:00+00:00",
+      "time": "0 - 2 (done)",
+      "rawMinute": 90,
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "isLive": false
+    },
+    {
       "matchId": 4828876,
       "competitionId": "7685",
       "tournamentEn": "🛡️ Europe UEFA Conference League",
@@ -542,7 +556,7 @@
       "matchAr": "فرايبورغ (ألمانيا) × تفنتي (هولندا)",
       "rawIsoTime": "2026-11-26T20:00:00+00:00",
       "time": "2 - 1 (90+8')",
-      "rawMinute": 98,
+      "rawMinute": 99,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -555,23 +569,9 @@
       "matchEn": "CSKA Sofia (Bulgaria) v Trabzonspor (Turkey)",
       "matchAr": "سسكا صوفيا (بلغاريا) × طرابزون سبور (تركيا)",
       "rawIsoTime": "2026-11-26T20:00:00+00:00",
-      "time": "1 - 2 (90+4')",
-      "rawMinute": 94,
+      "time": "1 - 2 (90+5')",
+      "rawMinute": 95,
       "homeGoals": 1,
-      "awayGoals": 2,
-      "isLive": true
-    },
-    {
-      "matchId": 4828875,
-      "competitionId": "7685",
-      "tournamentEn": "🛡️ Europe UEFA Conference League",
-      "tournamentAr": "🛡️ دوري المؤتمر الأوروبي",
-      "matchEn": "HNK Hajduk Split (Croatia) v STVV (Belgium)",
-      "matchAr": "هايدوك سبليت (كرواتيا) × سينت ترويدن (بلجيكا)",
-      "rawIsoTime": "2026-11-26T20:00:00+00:00",
-      "time": "0 - 2 (90+4')",
-      "rawMinute": 94,
-      "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
     },
