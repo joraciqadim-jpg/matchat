@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795698934499,
+  "timestamp": 1795698974385,
   "matches": [
     {
       "matchId": 4818643,
@@ -821,7 +821,7 @@
       "matchEn": "New Zealand v Belgium",
       "matchAr": "نيوزيلندا × بلجيكا",
       "rawIsoTime": "2026-11-26T13:00:00+00:00",
-      "time": "0 - 2 (15')",
+      "time": "0 - 2 (16')",
       "rawMinute": 16,
       "homeGoals": 0,
       "awayGoals": 2,
@@ -835,8 +835,8 @@
       "matchEn": "Vietnam v Mali",
       "matchAr": "فيتنام × مالي",
       "rawIsoTime": "2026-11-26T13:00:00+00:00",
-      "time": "0 - 0 (15')",
-      "rawMinute": 15,
+      "time": "0 - 0 (16')",
+      "rawMinute": 16,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
