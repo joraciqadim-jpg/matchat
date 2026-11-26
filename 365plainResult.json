@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795729991322,
+  "timestamp": 1795730054746,
   "matches": [
     {
       "matchId": 4818643,
@@ -184,6 +184,20 @@
       "isLive": false
     },
     {
+      "matchId": 4828675,
+      "competitionId": "573",
+      "tournamentEn": "🛡️ Europe UEFA Europa League",
+      "tournamentAr": "🛡️ الدوري الأوروبي",
+      "matchEn": "Lyon (France) v Lillestrom (Norway)",
+      "matchAr": "ليون (فرنسا) × ليلستروم (النرويج)",
+      "rawIsoTime": "2026-11-26T20:00:00+00:00",
+      "time": "0 - 0 (done)",
+      "rawMinute": 90,
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": false
+    },
+    {
       "matchId": 4828676,
       "competitionId": "573",
       "tournamentEn": "🛡️ Europe UEFA Europa League",
@@ -268,18 +282,18 @@
       "isLive": false
     },
     {
-      "matchId": 4828675,
+      "matchId": 4828684,
       "competitionId": "573",
       "tournamentEn": "🛡️ Europe UEFA Europa League",
       "tournamentAr": "🛡️ الدوري الأوروبي",
-      "matchEn": "Lyon (France) v Lillestrom (Norway)",
-      "matchAr": "ليون (فرنسا) × ليلستروم (النرويج)",
+      "matchEn": "Crystal Palace (England) v Real Sociedad (Spain)",
+      "matchAr": "كريستال بالاس (إنجلترا) × ريال سوسيداد (إسبانيا)",
       "rawIsoTime": "2026-11-26T20:00:00+00:00",
-      "time": "0 - 0 (90+6')",
-      "rawMinute": 96,
-      "homeGoals": 0,
-      "awayGoals": 0,
-      "isLive": true
+      "time": "2 - 1 (done)",
+      "rawMinute": 90,
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "isLive": false
     },
     {
       "matchId": 4828679,
@@ -289,8 +303,8 @@
       "matchEn": "Torreense (Portugal) v Celtic (Scotland)",
       "matchAr": "تورينسي (البرتغال) × سلتيك (اسكتلندا)",
       "rawIsoTime": "2026-11-26T20:00:00+00:00",
-      "time": "1 - 2 (90+1')",
-      "rawMinute": 91,
+      "time": "1 - 2 (90+2')",
+      "rawMinute": 92,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -303,24 +317,10 @@
       "matchEn": "OFI Crete (Greece) v Anderlecht (Belgium)",
       "matchAr": "أوفي كريت (اليونان) × أندرلخت (بلجيكا)",
       "rawIsoTime": "2026-11-26T20:00:00+00:00",
-      "time": "1 - 3 (90+6')",
-      "rawMinute": 96,
+      "time": "1 - 3 (90+7')",
+      "rawMinute": 97,
       "homeGoals": 1,
       "awayGoals": 3,
-      "isLive": true
-    },
-    {
-      "matchId": 4828684,
-      "competitionId": "573",
-      "tournamentEn": "🛡️ Europe UEFA Europa League",
-      "tournamentAr": "🛡️ الدوري الأوروبي",
-      "matchEn": "Crystal Palace (England) v Real Sociedad (Spain)",
-      "matchAr": "كريستال بالاس (إنجلترا) × ريال سوسيداد (إسبانيا)",
-      "rawIsoTime": "2026-11-26T20:00:00+00:00",
-      "time": "2 - 1 (90+7')",
-      "rawMinute": 97,
-      "homeGoals": 2,
-      "awayGoals": 1,
       "isLive": true
     },
     {
@@ -527,8 +527,8 @@
       "matchEn": "Freiburg (Germany) v Twente (Netherlands)",
       "matchAr": "فرايبورغ (ألمانيا) × تفنتي (هولندا)",
       "rawIsoTime": "2026-11-26T20:00:00+00:00",
-      "time": "2 - 1 (90+5')",
-      "rawMinute": 95,
+      "time": "2 - 1 (90+6')",
+      "rawMinute": 97,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -541,10 +541,10 @@
       "matchEn": "CSKA Sofia (Bulgaria) v Trabzonspor (Turkey)",
       "matchAr": "سسكا صوفيا (بلغاريا) × طرابزون سبور (تركيا)",
       "rawIsoTime": "2026-11-26T20:00:00+00:00",
-      "time": "1 - 1 (90+2')",
-      "rawMinute": 92,
+      "time": "1 - 2 (90+3')",
+      "rawMinute": 93,
       "homeGoals": 1,
-      "awayGoals": 1,
+      "awayGoals": 2,
       "isLive": true
     },
     {
@@ -555,8 +555,8 @@
       "matchEn": "HNK Hajduk Split (Croatia) v STVV (Belgium)",
       "matchAr": "هايدوك سبليت (كرواتيا) × سينت ترويدن (بلجيكا)",
       "rawIsoTime": "2026-11-26T20:00:00+00:00",
-      "time": "0 - 2 (90+2')",
-      "rawMinute": 92,
+      "time": "0 - 2 (90+3')",
+      "rawMinute": 93,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -569,8 +569,8 @@
       "matchEn": "Borac Banjaluka (Bosnia and Herzegovina) v Atalanta (Italy)",
       "matchAr": "بوراتس بانيا لوكا (البوسنة والهرسك) × أتلانتا (إيطاليا)",
       "rawIsoTime": "2026-11-26T20:00:00+00:00",
-      "time": "2 - 3 (90+5')",
-      "rawMinute": 95,
+      "time": "2 - 3 (90+6')",
+      "rawMinute": 96,
       "homeGoals": 2,
       "awayGoals": 3,
       "isLive": true
