@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795707552210,
+  "timestamp": 1795707637061,
   "matches": [
     {
       "matchId": 4818643,
@@ -331,8 +331,8 @@
       "matchEn": "Kairat Almaty (Kazakhstan) v Mjällby AIF (Sweden)",
       "matchAr": "كايرات ألماتي (كازاخستان) × مييلبي (السويد)",
       "rawIsoTime": "2026-11-26T15:30:00+00:00",
-      "time": "0 - 0 (9')",
-      "rawMinute": 9,
+      "time": "0 - 0 (10')",
+      "rawMinute": 10,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -583,8 +583,8 @@
       "matchEn": "Al Fateh v Al Riyadh",
       "matchAr": "الفتح × الرياض",
       "rawIsoTime": "2026-11-26T14:25:00+00:00",
-      "time": "0 - 0 (56')",
-      "rawMinute": 56,
+      "time": "0 - 0 (58')",
+      "rawMinute": 58,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -597,8 +597,8 @@
       "matchEn": "Abha v Al Shabab Riyadh",
       "matchAr": "أبها × الشباب الرياض",
       "rawIsoTime": "2026-11-26T15:05:00+00:00",
-      "time": "0 - 0 (35')",
-      "rawMinute": 35,
+      "time": "0 - 0 (36')",
+      "rawMinute": 36,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -835,8 +835,8 @@
       "matchEn": "Uzbekistan v Italy",
       "matchAr": "أوزبكستان × إيطاليا",
       "rawIsoTime": "2026-11-26T14:00:00+00:00",
-      "time": "1 - 3 (79')",
-      "rawMinute": 79,
+      "time": "1 - 3 (80')",
+      "rawMinute": 80,
       "homeGoals": 1,
       "awayGoals": 3,
       "isLive": true
@@ -849,8 +849,8 @@
       "matchEn": "Jamaica v Ivory Coast",
       "matchAr": "جامايكا × ساحل العاج",
       "rawIsoTime": "2026-11-26T14:00:00+00:00",
-      "time": "1 - 3 (77')",
-      "rawMinute": 77,
+      "time": "1 - 3 (78')",
+      "rawMinute": 79,
       "homeGoals": 1,
       "awayGoals": 3,
       "isLive": true
@@ -877,24 +877,10 @@
       "matchEn": "Salmiyah v Tadamon",
       "matchAr": "السالمية × التضامن",
       "rawIsoTime": "2026-11-26T14:20:00+00:00",
-      "time": "1 - 1 (58')",
-      "rawMinute": 58,
+      "time": "1 - 1 (60')",
+      "rawMinute": 60,
       "homeGoals": 1,
       "awayGoals": 1,
-      "isLive": true
-    },
-    {
-      "matchId": 4899123,
-      "competitionId": "564",
-      "tournamentEn": "🇸🇾 Syrian Premier League",
-      "tournamentAr": "🇸🇾 الدوري السوري",
-      "matchEn": "Tishreen v Homs Al Fidaa",
-      "matchAr": "تشرين × حمص الفداء",
-      "rawIsoTime": "2026-11-26T15:00:00+00:00",
-      "time": "0 - 0 (42')",
-      "rawMinute": 42,
-      "homeGoals": 0,
-      "awayGoals": 0,
       "isLive": true
     },
     {
@@ -905,8 +891,8 @@
       "matchEn": "Morocco v Spain",
       "matchAr": "المغرب × إسبانيا",
       "rawIsoTime": "2026-11-26T15:00:00+00:00",
-      "time": "0 - 1 (39')",
-      "rawMinute": 39,
+      "time": "0 - 1 (41')",
+      "rawMinute": 41,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -919,8 +905,8 @@
       "matchEn": "China v Fiji",
       "matchAr": "الصين × فيجي",
       "rawIsoTime": "2026-11-26T15:00:00+00:00",
-      "time": "4 - 0 (39')",
-      "rawMinute": 39,
+      "time": "4 - 0 (41')",
+      "rawMinute": 41,
       "homeGoals": 4,
       "awayGoals": 0,
       "isLive": true
@@ -933,10 +919,24 @@
       "matchEn": "Al Buqa'a v Al Jazeera",
       "matchAr": "البقعة × الجزيرة",
       "rawIsoTime": "2026-11-26T15:00:00+00:00",
-      "time": "0 - 2 (40')",
-      "rawMinute": 40,
+      "time": "0 - 2 (41')",
+      "rawMinute": 41,
       "homeGoals": 0,
       "awayGoals": 2,
+      "isLive": true
+    },
+    {
+      "matchId": 4899123,
+      "competitionId": "564",
+      "tournamentEn": "🇸🇾 Syrian Premier League",
+      "tournamentAr": "🇸🇾 الدوري السوري",
+      "matchEn": "Tishreen v Homs Al Fidaa",
+      "matchAr": "تشرين × حمص الفداء",
+      "rawIsoTime": "2026-11-26T15:00:00+00:00",
+      "time": "0 - 0 (43')",
+      "rawMinute": 43,
+      "homeGoals": 0,
+      "awayGoals": 0,
       "isLive": true
     },
     {
