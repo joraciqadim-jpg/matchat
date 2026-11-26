@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795712723407,
+  "timestamp": 1795712775777,
   "matches": [
     {
       "matchId": 4818643,
@@ -331,8 +331,8 @@
       "matchEn": "Kairat Almaty (Kazakhstan) v Mjällby AIF (Sweden)",
       "matchAr": "كايرات ألماتي (كازاخستان) × مييلبي (السويد)",
       "rawIsoTime": "2026-11-26T15:30:00+00:00",
-      "time": "1 - 0 (79')",
-      "rawMinute": 79,
+      "time": "1 - 0 (80')",
+      "rawMinute": 80,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -800,6 +800,20 @@
       "isLive": false
     },
     {
+      "matchId": 4899123,
+      "competitionId": "564",
+      "tournamentEn": "🇸🇾 Syrian Premier League",
+      "tournamentAr": "🇸🇾 الدوري السوري",
+      "matchEn": "Tishreen v Homs Al Fidaa",
+      "matchAr": "تشرين × حمص الفداء",
+      "rawIsoTime": "2026-11-26T15:00:00+00:00",
+      "time": "0 - 1 (done)",
+      "rawMinute": 90,
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "isLive": false
+    },
+    {
       "matchId": 4800259,
       "competitionId": "554",
       "tournamentEn": "🇹🇳 Tunisian League",
@@ -926,20 +940,6 @@
       "isLive": false
     },
     {
-      "matchId": 4899123,
-      "competitionId": "564",
-      "tournamentEn": "🇸🇾 Syrian Premier League",
-      "tournamentAr": "🇸🇾 الدوري السوري",
-      "matchEn": "Tishreen v Homs Al Fidaa",
-      "matchAr": "تشرين × حمص الفداء",
-      "rawIsoTime": "2026-11-26T15:00:00+00:00",
-      "time": "0 - 1 (90+2')",
-      "rawMinute": 92,
-      "homeGoals": 0,
-      "awayGoals": 1,
-      "isLive": true
-    },
-    {
       "matchId": 4722889,
       "competitionId": "5582",
       "tournamentEn": "🛡️ World Cup U17",
@@ -948,7 +948,7 @@
       "matchAr": "طاجيكستان × السنغال",
       "rawIsoTime": "2026-11-26T16:00:00+00:00",
       "time": "0 - 1 (49')",
-      "rawMinute": 49,
+      "rawMinute": 50,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -961,8 +961,8 @@
       "matchEn": "Croatia v Cuba",
       "matchAr": "كرواتيا × كوبا",
       "rawIsoTime": "2026-11-26T16:00:00+00:00",
-      "time": "4 - 0 (47')",
-      "rawMinute": 47,
+      "time": "4 - 0 (48')",
+      "rawMinute": 48,
       "homeGoals": 4,
       "awayGoals": 0,
       "isLive": true
