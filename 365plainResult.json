@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795708523661,
+  "timestamp": 1795708575086,
   "matches": [
     {
       "matchId": 4818643,
@@ -331,8 +331,8 @@
       "matchEn": "Kairat Almaty (Kazakhstan) v Mjällby AIF (Sweden)",
       "matchAr": "كايرات ألماتي (كازاخستان) × مييلبي (السويد)",
       "rawIsoTime": "2026-11-26T15:30:00+00:00",
-      "time": "1 - 0 (25')",
-      "rawMinute": 25,
+      "time": "1 - 0 (26')",
+      "rawMinute": 26,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -583,7 +583,7 @@
       "matchEn": "Al Fateh v Al Riyadh",
       "matchAr": "الفتح × الرياض",
       "rawIsoTime": "2026-11-26T14:25:00+00:00",
-      "time": "1 - 0 (72')",
+      "time": "1 - 0 (73')",
       "rawMinute": 73,
       "homeGoals": 1,
       "awayGoals": 0,
@@ -835,8 +835,8 @@
       "matchEn": "Uzbekistan v Italy",
       "matchAr": "أوزبكستان × إيطاليا",
       "rawIsoTime": "2026-11-26T14:00:00+00:00",
-      "time": "1 - 3 (90+5')",
-      "rawMinute": 95,
+      "time": "1 - 3 (90+6')",
+      "rawMinute": 96,
       "homeGoals": 1,
       "awayGoals": 3,
       "isLive": true
@@ -849,8 +849,8 @@
       "matchEn": "Jamaica v Ivory Coast",
       "matchAr": "جامايكا × ساحل العاج",
       "rawIsoTime": "2026-11-26T14:00:00+00:00",
-      "time": "1 - 3 (90+3')",
-      "rawMinute": 93,
+      "time": "1 - 3 (90+4')",
+      "rawMinute": 94,
       "homeGoals": 1,
       "awayGoals": 3,
       "isLive": true
