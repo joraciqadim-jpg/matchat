@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795703175406,
+  "timestamp": 1795703231919,
   "matches": [
     {
       "matchId": 4818643,
@@ -583,11 +583,11 @@
       "matchEn": "Al Fateh v Al Riyadh",
       "matchAr": "الفتح × الرياض",
       "rawIsoTime": "2026-11-26T14:25:00+00:00",
-      "time": "14:25",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4891966,
@@ -821,8 +821,8 @@
       "matchEn": "New Zealand v Belgium",
       "matchAr": "نيوزيلندا × بلجيكا",
       "rawIsoTime": "2026-11-26T13:00:00+00:00",
-      "time": "0 - 6 (70')",
-      "rawMinute": 70,
+      "time": "0 - 6 (71')",
+      "rawMinute": 71,
       "homeGoals": 0,
       "awayGoals": 6,
       "isLive": true
@@ -835,8 +835,8 @@
       "matchEn": "Vietnam v Mali",
       "matchAr": "فيتنام × مالي",
       "rawIsoTime": "2026-11-26T13:00:00+00:00",
-      "time": "0 - 1 (69')",
-      "rawMinute": 69,
+      "time": "0 - 1 (70')",
+      "rawMinute": 70,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -849,8 +849,8 @@
       "matchEn": "Uzbekistan v Italy",
       "matchAr": "أوزبكستان × إيطاليا",
       "rawIsoTime": "2026-11-26T14:00:00+00:00",
-      "time": "0 - 1 (26')",
-      "rawMinute": 26,
+      "time": "0 - 1 (27')",
+      "rawMinute": 27,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -863,8 +863,8 @@
       "matchEn": "Jamaica v Ivory Coast",
       "matchAr": "جامايكا × ساحل العاج",
       "rawIsoTime": "2026-11-26T14:00:00+00:00",
-      "time": "0 - 0 (26')",
-      "rawMinute": 26,
+      "time": "0 - 0 (27')",
+      "rawMinute": 27,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -891,10 +891,10 @@
       "matchEn": "Salmiyah v Tadamon",
       "matchAr": "السالمية × التضامن",
       "rawIsoTime": "2026-11-26T14:20:00+00:00",
-      "time": "0 - 0 (5')",
-      "rawMinute": 5,
+      "time": "0 - 1 (6')",
+      "rawMinute": 6,
       "homeGoals": 0,
-      "awayGoals": 0,
+      "awayGoals": 1,
       "isLive": true
     },
     {
