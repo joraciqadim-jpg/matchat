@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795710656035,
+  "timestamp": 1795710672195,
   "matches": [
     {
       "matchId": 4818643,
@@ -597,8 +597,8 @@
       "matchEn": "Abha v Al Shabab Riyadh",
       "matchAr": "أبها × الشباب الرياض",
       "rawIsoTime": "2026-11-26T15:05:00+00:00",
-      "time": "0 - 1 (67')",
-      "rawMinute": 67,
+      "time": "0 - 1 (68')",
+      "rawMinute": 68,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -884,6 +884,20 @@
       "isLive": false
     },
     {
+      "matchId": 4899123,
+      "competitionId": "564",
+      "tournamentEn": "🇸🇾 Syrian Premier League",
+      "tournamentAr": "🇸🇾 الدوري السوري",
+      "matchEn": "Tishreen v Homs Al Fidaa",
+      "matchAr": "تشرين × حمص الفداء",
+      "rawIsoTime": "2026-11-26T15:00:00+00:00",
+      "time": "0 - 0 (69')",
+      "rawMinute": 69,
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
+    },
+    {
       "matchId": 4722868,
       "competitionId": "5582",
       "tournamentEn": "🛡️ World Cup U17",
@@ -905,9 +919,9 @@
       "matchEn": "China v Fiji",
       "matchAr": "الصين × فيجي",
       "rawIsoTime": "2026-11-26T15:00:00+00:00",
-      "time": "6 - 0 (72')",
+      "time": "7 - 0 (72')",
       "rawMinute": 72,
-      "homeGoals": 6,
+      "homeGoals": 7,
       "awayGoals": 0,
       "isLive": true
     },
@@ -926,20 +940,6 @@
       "isLive": true
     },
     {
-      "matchId": 4899123,
-      "competitionId": "564",
-      "tournamentEn": "🇸🇾 Syrian Premier League",
-      "tournamentAr": "🇸🇾 الدوري السوري",
-      "matchEn": "Tishreen v Homs Al Fidaa",
-      "matchAr": "تشرين × حمص الفداء",
-      "rawIsoTime": "2026-11-26T15:00:00+00:00",
-      "time": "0 - 0 (69')",
-      "rawMinute": 69,
-      "homeGoals": 0,
-      "awayGoals": 0,
-      "isLive": true
-    },
-    {
       "matchId": 4722889,
       "competitionId": "5582",
       "tournamentEn": "🛡️ World Cup U17",
@@ -947,8 +947,8 @@
       "matchEn": "Tajikistan v Senegal",
       "matchAr": "طاجيكستان × السنغال",
       "rawIsoTime": "2026-11-26T16:00:00+00:00",
-      "time": "0 - 0 (30')",
-      "rawMinute": 30,
+      "time": "0 - 0 (31')",
+      "rawMinute": 31,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
