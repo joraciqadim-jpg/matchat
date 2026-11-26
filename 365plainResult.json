@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795693871452,
+  "timestamp": 1795693934220,
   "matches": [
     {
       "matchId": 4818643,
@@ -23,11 +23,11 @@
       "matchEn": "Gangwon (South Korea) v Kitchee (Hong Kong)",
       "matchAr": "غانغوون (كوريا الجنوبية) × كيتشي (هونغ كونغ)",
       "rawIsoTime": "2026-11-26T10:00:00+00:00",
-      "time": "3 - 2 (90+4')",
-      "rawMinute": 94,
+      "time": "3 - 2 (done)",
+      "rawMinute": 90,
       "homeGoals": 3,
       "awayGoals": 2,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4818645,
@@ -37,8 +37,8 @@
       "matchEn": "Tampines Rovers (Singapore) v Shanghai Shenhua (China)",
       "matchAr": "تامبينيس روفرز (سنغافورة) × شنغهاي شينهوا (الصين)",
       "rawIsoTime": "2026-11-26T10:00:00+00:00",
-      "time": "1 - 7 (90+2')",
-      "rawMinute": 92,
+      "time": "1 - 7 (90+3')",
+      "rawMinute": 93,
       "homeGoals": 1,
       "awayGoals": 7,
       "isLive": true
