@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795705151317,
+  "timestamp": 1795705270592,
   "matches": [
     {
       "matchId": 4818643,
@@ -583,8 +583,8 @@
       "matchEn": "Al Fateh v Al Riyadh",
       "matchAr": "الفتح × الرياض",
       "rawIsoTime": "2026-11-26T14:25:00+00:00",
-      "time": "0 - 0 (33')",
-      "rawMinute": 33,
+      "time": "0 - 0 (35')",
+      "rawMinute": 35,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -877,8 +877,8 @@
       "matchEn": "Salmiyah v Tadamon",
       "matchAr": "السالمية × التضامن",
       "rawIsoTime": "2026-11-26T14:20:00+00:00",
-      "time": "1 - 1 (38')",
-      "rawMinute": 38,
+      "time": "1 - 1 (40')",
+      "rawMinute": 40,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -891,8 +891,8 @@
       "matchEn": "Tishreen v Homs Al Fidaa",
       "matchAr": "تشرين × حمص الفداء",
       "rawIsoTime": "2026-11-26T15:00:00+00:00",
-      "time": "0 - 0 (2')",
-      "rawMinute": 2,
+      "time": "0 - 0 (4')",
+      "rawMinute": 4,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -905,11 +905,11 @@
       "matchEn": "Morocco v Spain",
       "matchAr": "المغرب × إسبانيا",
       "rawIsoTime": "2026-11-26T15:00:00+00:00",
-      "time": "15:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4722884,
@@ -919,11 +919,11 @@
       "matchEn": "China v Fiji",
       "matchAr": "الصين × فيجي",
       "rawIsoTime": "2026-11-26T15:00:00+00:00",
-      "time": "15:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4896602,
@@ -933,11 +933,11 @@
       "matchEn": "Al Buqa'a v Al Jazeera",
       "matchAr": "البقعة × الجزيرة",
       "rawIsoTime": "2026-11-26T15:00:00+00:00",
-      "time": "15:00",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "time": "0 - 0 (2')",
+      "rawMinute": 2,
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4722889,
