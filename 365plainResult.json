@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795729833427,
+  "timestamp": 1795729871802,
   "matches": [
     {
       "matchId": 4818643,
@@ -184,6 +184,20 @@
       "isLive": false
     },
     {
+      "matchId": 4828678,
+      "competitionId": "573",
+      "tournamentEn": "🛡️ Europe UEFA Europa League",
+      "tournamentAr": "🛡️ الدوري الأوروبي",
+      "matchEn": "Sparta Praha (Czech Republic) v AZ Alkmaar (Netherlands)",
+      "matchAr": "سبارتا براغ (جمهورية التشيك) × ألكمار (هولندا)",
+      "rawIsoTime": "2026-11-26T20:00:00+00:00",
+      "time": "2 - 4 (done)",
+      "rawMinute": 90,
+      "homeGoals": 2,
+      "awayGoals": 4,
+      "isLive": false
+    },
+    {
       "matchId": 4828675,
       "competitionId": "573",
       "tournamentEn": "🛡️ Europe UEFA Europa League",
@@ -191,8 +205,8 @@
       "matchEn": "Lyon (France) v Lillestrom (Norway)",
       "matchAr": "ليون (فرنسا) × ليلستروم (النرويج)",
       "rawIsoTime": "2026-11-26T20:00:00+00:00",
-      "time": "0 - 0 (90+3')",
-      "rawMinute": 93,
+      "time": "0 - 0 (90+4')",
+      "rawMinute": 94,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -205,8 +219,8 @@
       "matchEn": "Sunderland (England) v Jagiellonia (Poland)",
       "matchAr": "سندرلاند (إنجلترا) × ياغيلونيا (بولندا)",
       "rawIsoTime": "2026-11-26T20:00:00+00:00",
-      "time": "1 - 1 (90+2')",
-      "rawMinute": 92,
+      "time": "1 - 1 (90+3')",
+      "rawMinute": 93,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -226,20 +240,6 @@
       "isLive": true
     },
     {
-      "matchId": 4828678,
-      "competitionId": "573",
-      "tournamentEn": "🛡️ Europe UEFA Europa League",
-      "tournamentAr": "🛡️ الدوري الأوروبي",
-      "matchEn": "Sparta Praha (Czech Republic) v AZ Alkmaar (Netherlands)",
-      "matchAr": "سبارتا براغ (جمهورية التشيك) × ألكمار (هولندا)",
-      "rawIsoTime": "2026-11-26T20:00:00+00:00",
-      "time": "2 - 4 (90+3')",
-      "rawMinute": 93,
-      "homeGoals": 2,
-      "awayGoals": 4,
-      "isLive": true
-    },
-    {
       "matchId": 4828679,
       "competitionId": "573",
       "tournamentEn": "🛡️ Europe UEFA Europa League",
@@ -247,8 +247,8 @@
       "matchEn": "Torreense (Portugal) v Celtic (Scotland)",
       "matchAr": "تورينسي (البرتغال) × سلتيك (اسكتلندا)",
       "rawIsoTime": "2026-11-26T20:00:00+00:00",
-      "time": "1 - 2 (88')",
-      "rawMinute": 88,
+      "time": "1 - 2 (89')",
+      "rawMinute": 89,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -261,8 +261,8 @@
       "matchEn": "Hoffenheim (Germany) v Sturm Graz (Austria)",
       "matchAr": "هوفنهايم (ألمانيا) × شتورم غراتس (النمسا)",
       "rawIsoTime": "2026-11-26T20:00:00+00:00",
-      "time": "3 - 1 (90+1')",
-      "rawMinute": 91,
+      "time": "3 - 1 (90+2')",
+      "rawMinute": 92,
       "homeGoals": 3,
       "awayGoals": 1,
       "isLive": true
@@ -289,8 +289,8 @@
       "matchEn": "OFI Crete (Greece) v Anderlecht (Belgium)",
       "matchAr": "أوفي كريت (اليونان) × أندرلخت (بلجيكا)",
       "rawIsoTime": "2026-11-26T20:00:00+00:00",
-      "time": "1 - 2 (90+3')",
-      "rawMinute": 93,
+      "time": "1 - 2 (90+4')",
+      "rawMinute": 94,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -303,8 +303,8 @@
       "matchEn": "Nijmegen (Netherlands) v Rennes (France)",
       "matchAr": "نيميخن (هولندا) × رين (فرنسا)",
       "rawIsoTime": "2026-11-26T20:00:00+00:00",
-      "time": "3 - 1 (90+2')",
-      "rawMinute": 92,
+      "time": "3 - 1 (90+3')",
+      "rawMinute": 93,
       "homeGoals": 3,
       "awayGoals": 1,
       "isLive": true
@@ -317,8 +317,8 @@
       "matchEn": "Crystal Palace (England) v Real Sociedad (Spain)",
       "matchAr": "كريستال بالاس (إنجلترا) × ريال سوسيداد (إسبانيا)",
       "rawIsoTime": "2026-11-26T20:00:00+00:00",
-      "time": "2 - 1 (90+4')",
-      "rawMinute": 94,
+      "time": "2 - 1 (90+5')",
+      "rawMinute": 95,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -492,6 +492,20 @@
       "isLive": false
     },
     {
+      "matchId": 4828877,
+      "competitionId": "7685",
+      "tournamentEn": "🛡️ Europe UEFA Conference League",
+      "tournamentAr": "🛡️ دوري المؤتمر الأوروبي",
+      "matchEn": "Nordsjælland (Denmark) v Panathinaikos (Greece)",
+      "matchAr": "نوردشيلاند (الدنمارك) × باناثينايكوس (اليونان)",
+      "rawIsoTime": "2026-11-26T20:00:00+00:00",
+      "time": "3 - 2 (done)",
+      "rawMinute": 90,
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "isLive": false
+    },
+    {
       "matchId": 4828870,
       "competitionId": "7685",
       "tournamentEn": "🛡️ Europe UEFA Conference League",
@@ -527,8 +541,8 @@
       "matchEn": "KAA Gent (Belgium) v Crvena zvezda (Serbia)",
       "matchAr": "جنت (بلجيكا) × النجم الأحمر (صربيا)",
       "rawIsoTime": "2026-11-26T20:00:00+00:00",
-      "time": "1 - 1 (90+2')",
-      "rawMinute": 92,
+      "time": "1 - 1 (90+3')",
+      "rawMinute": 93,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -541,8 +555,8 @@
       "matchEn": "HNK Hajduk Split (Croatia) v STVV (Belgium)",
       "matchAr": "هايدوك سبليت (كرواتيا) × سينت ترويدن (بلجيكا)",
       "rawIsoTime": "2026-11-26T20:00:00+00:00",
-      "time": "0 - 2 (89')",
-      "rawMinute": 89,
+      "time": "0 - 2 (90')",
+      "rawMinute": 90,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -558,20 +572,6 @@
       "time": "2 - 2 (90+3')",
       "rawMinute": 93,
       "homeGoals": 2,
-      "awayGoals": 2,
-      "isLive": true
-    },
-    {
-      "matchId": 4828877,
-      "competitionId": "7685",
-      "tournamentEn": "🛡️ Europe UEFA Conference League",
-      "tournamentAr": "🛡️ دوري المؤتمر الأوروبي",
-      "matchEn": "Nordsjælland (Denmark) v Panathinaikos (Greece)",
-      "matchAr": "نوردشيلاند (الدنمارك) × باناثينايكوس (اليونان)",
-      "rawIsoTime": "2026-11-26T20:00:00+00:00",
-      "time": "3 - 2 (90+4')",
-      "rawMinute": 94,
-      "homeGoals": 3,
       "awayGoals": 2,
       "isLive": true
     },
