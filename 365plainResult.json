@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795691775062,
+  "timestamp": 1795691831792,
   "matches": [
     {
       "matchId": 4818643,
@@ -9,8 +9,8 @@
       "matchEn": "Kuching City (Malaysia) v Phnom Penh Crown (Cambodia)",
       "matchAr": "كوتشينغ سيتي (ماليزيا) × بنوم بنه كراون (كمبوديا)",
       "rawIsoTime": "2026-11-26T10:00:00+00:00",
-      "time": "1 - 0 (59')",
-      "rawMinute": 59,
+      "time": "1 - 0 (60')",
+      "rawMinute": 60,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -23,7 +23,7 @@
       "matchEn": "Gangwon (South Korea) v Kitchee (Hong Kong)",
       "matchAr": "غانغوون (كوريا الجنوبية) × كيتشي (هونغ كونغ)",
       "rawIsoTime": "2026-11-26T10:00:00+00:00",
-      "time": "2 - 2 (59')",
+      "time": "2 - 2 (60')",
       "rawMinute": 60,
       "homeGoals": 2,
       "awayGoals": 2,
@@ -38,7 +38,7 @@
       "matchAr": "تامبينيس روفرز (سنغافورة) × شنغهاي شينهوا (الصين)",
       "rawIsoTime": "2026-11-26T10:00:00+00:00",
       "time": "1 - 4 (57')",
-      "rawMinute": 57,
+      "rawMinute": 58,
       "homeGoals": 1,
       "awayGoals": 4,
       "isLive": true
