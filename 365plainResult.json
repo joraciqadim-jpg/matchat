@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795702336786,
+  "timestamp": 1795702391516,
   "matches": [
     {
       "matchId": 4818643,
@@ -674,20 +674,6 @@
       "isLive": false
     },
     {
-      "matchId": 4899123,
-      "competitionId": "564",
-      "tournamentEn": "🇸🇾 Syrian Premier League",
-      "tournamentAr": "🇸🇾 الدوري السوري",
-      "matchEn": "Tishreen v Homs Al Fidaa",
-      "matchAr": "تشرين × حمص الفداء",
-      "rawIsoTime": "2026-11-26T12:00:00+00:00",
-      "time": "12:00",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
-    },
-    {
       "matchId": 4892433,
       "competitionId": "559",
       "tournamentEn": "🇱🇾 Libyan Premier League",
@@ -696,6 +682,20 @@
       "matchAr": "الصباح × الأهلي طرابلس",
       "rawIsoTime": "2026-11-26T14:00:00+00:00",
       "time": "14:00 (cancelled)",
+      "rawMinute": 1,
+      "homeGoals": -1,
+      "awayGoals": -1,
+      "isLive": false
+    },
+    {
+      "matchId": 4899123,
+      "competitionId": "564",
+      "tournamentEn": "🇸🇾 Syrian Premier League",
+      "tournamentAr": "🇸🇾 الدوري السوري",
+      "matchEn": "Tishreen v Homs Al Fidaa",
+      "matchAr": "تشرين × حمص الفداء",
+      "rawIsoTime": "2026-11-26T15:00:00+00:00",
+      "time": "15:00",
       "rawMinute": 1,
       "homeGoals": -1,
       "awayGoals": -1,
@@ -821,8 +821,8 @@
       "matchEn": "New Zealand v Belgium",
       "matchAr": "نيوزيلندا × بلجيكا",
       "rawIsoTime": "2026-11-26T13:00:00+00:00",
-      "time": "0 - 6 (56')",
-      "rawMinute": 56,
+      "time": "0 - 6 (57')",
+      "rawMinute": 57,
       "homeGoals": 0,
       "awayGoals": 6,
       "isLive": true
@@ -835,8 +835,8 @@
       "matchEn": "Vietnam v Mali",
       "matchAr": "فيتنام × مالي",
       "rawIsoTime": "2026-11-26T13:00:00+00:00",
-      "time": "0 - 0 (55')",
-      "rawMinute": 55,
+      "time": "0 - 0 (56')",
+      "rawMinute": 56,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -849,8 +849,8 @@
       "matchEn": "Uzbekistan v Italy",
       "matchAr": "أوزبكستان × إيطاليا",
       "rawIsoTime": "2026-11-26T14:00:00+00:00",
-      "time": "0 - 1 (12')",
-      "rawMinute": 12,
+      "time": "0 - 1 (13')",
+      "rawMinute": 13,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -863,8 +863,8 @@
       "matchEn": "Jamaica v Ivory Coast",
       "matchAr": "جامايكا × ساحل العاج",
       "rawIsoTime": "2026-11-26T14:00:00+00:00",
-      "time": "0 - 0 (12')",
-      "rawMinute": 12,
+      "time": "0 - 0 (13')",
+      "rawMinute": 13,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
