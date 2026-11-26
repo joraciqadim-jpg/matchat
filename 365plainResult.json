@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795653374255,
+  "timestamp": 1795653431284,
   "matches": [
     {
       "matchId": 4818643,
@@ -625,10 +625,10 @@
       "matchEn": "Atlético Mineiro v Corinthians",
       "matchAr": "أتلتيكو مينيرو × كورينثيانز",
       "rawIsoTime": "2026-11-25T23:00:00+00:00",
-      "time": "0 - 0 (70')",
-      "rawMinute": 70,
+      "time": "0 - 1 (71')",
+      "rawMinute": 71,
       "homeGoals": 0,
-      "awayGoals": 0,
+      "awayGoals": 1,
       "isLive": true
     },
     {
@@ -779,8 +779,8 @@
       "matchEn": "Boca Juniors v Independiente Rivadavia",
       "matchAr": "بوكا جونيورز × إنديبندينتي ريفادافيا",
       "rawIsoTime": "2026-11-26T00:00:00+00:00",
-      "time": "1 - 0 (36')",
-      "rawMinute": 36,
+      "time": "1 - 0 (37')",
+      "rawMinute": 37,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
