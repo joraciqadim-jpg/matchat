@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795700654038,
+  "timestamp": 1795700734854,
   "matches": [
     {
       "matchId": 4818643,
@@ -51,9 +51,9 @@
       "matchEn": "Svay Rieng (Cambodia) v Machida Zelvia (Japan)",
       "matchAr": "سفاي رينغ (كمبوديا) × ماتشيدا زيلفيا (اليابان)",
       "rawIsoTime": "2026-11-26T12:15:00+00:00",
-      "time": "1 - 0 (72')",
-      "rawMinute": 72,
-      "homeGoals": 1,
+      "time": "2 - 0 (73')",
+      "rawMinute": 73,
+      "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
     },
@@ -65,8 +65,8 @@
       "matchEn": "BG Pathum United (Thailand) v Lion City (Singapore)",
       "matchAr": "بي جي باثوم يونايتد (تايلاند) × ليون سيتي (سنغافورة)",
       "rawIsoTime": "2026-11-26T12:15:00+00:00",
-      "time": "0 - 1 (70')",
-      "rawMinute": 70,
+      "time": "0 - 1 (71')",
+      "rawMinute": 71,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -79,8 +79,8 @@
       "matchEn": "Tai Po (Hong Kong) v Adelaide United (Australia)",
       "matchAr": "تاي بو (هونغ كونغ) × أديلايد يونايتد (أستراليا)",
       "rawIsoTime": "2026-11-26T12:15:00+00:00",
-      "time": "1 - 5 (72')",
-      "rawMinute": 72,
+      "time": "1 - 5 (73')",
+      "rawMinute": 73,
       "homeGoals": 1,
       "awayGoals": 5,
       "isLive": true
@@ -821,8 +821,8 @@
       "matchEn": "New Zealand v Belgium",
       "matchAr": "نيوزيلندا × بلجيكا",
       "rawIsoTime": "2026-11-26T13:00:00+00:00",
-      "time": "0 - 5 (44')",
-      "rawMinute": 44,
+      "time": "0 - 5 (45+1')",
+      "rawMinute": 46,
       "homeGoals": 0,
       "awayGoals": 5,
       "isLive": true
@@ -835,8 +835,8 @@
       "matchEn": "Vietnam v Mali",
       "matchAr": "فيتنام × مالي",
       "rawIsoTime": "2026-11-26T13:00:00+00:00",
-      "time": "0 - 0 (44')",
-      "rawMinute": 44,
+      "time": "0 - 0 (45')",
+      "rawMinute": 45,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
