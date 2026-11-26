@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795695734287,
+  "timestamp": 1795695791269,
   "matches": [
     {
       "matchId": 4818643,
@@ -65,8 +65,8 @@
       "matchEn": "BG Pathum United (Thailand) v Lion City (Singapore)",
       "matchAr": "بي جي باثوم يونايتد (تايلاند) × ليون سيتي (سنغافورة)",
       "rawIsoTime": "2026-11-26T12:15:00+00:00",
-      "time": "0 - 1 (7')",
-      "rawMinute": 7,
+      "time": "0 - 1 (8')",
+      "rawMinute": 8,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -80,7 +80,7 @@
       "matchAr": "تاي بو (هونغ كونغ) × أديلايد يونايتد (أستراليا)",
       "rawIsoTime": "2026-11-26T12:15:00+00:00",
       "time": "0 - 2 (8')",
-      "rawMinute": 8,
+      "rawMinute": 9,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
