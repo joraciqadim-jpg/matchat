@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795704550905,
+  "timestamp": 1795704635312,
   "matches": [
     {
       "matchId": 4818643,
@@ -583,8 +583,8 @@
       "matchEn": "Al Fateh v Al Riyadh",
       "matchAr": "الفتح × الرياض",
       "rawIsoTime": "2026-11-26T14:25:00+00:00",
-      "time": "0 - 0 (23')",
-      "rawMinute": 23,
+      "time": "0 - 0 (24')",
+      "rawMinute": 24,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -685,6 +685,20 @@
       "rawMinute": 90,
       "homeGoals": 0,
       "awayGoals": 6,
+      "isLive": false
+    },
+    {
+      "matchId": 4722886,
+      "competitionId": "5582",
+      "tournamentEn": "🛡️ World Cup U17",
+      "tournamentAr": "🛡️ كأس العالم تحت 17 سنة",
+      "matchEn": "Vietnam v Mali",
+      "matchAr": "فيتنام × مالي",
+      "rawIsoTime": "2026-11-26T13:00:00+00:00",
+      "time": "0 - 2 (done)",
+      "rawMinute": 90,
+      "homeGoals": 0,
+      "awayGoals": 2,
       "isLive": false
     },
     {
@@ -828,20 +842,6 @@
       "isLive": false
     },
     {
-      "matchId": 4722886,
-      "competitionId": "5582",
-      "tournamentEn": "🛡️ World Cup U17",
-      "tournamentAr": "🛡️ كأس العالم تحت 17 سنة",
-      "matchEn": "Vietnam v Mali",
-      "matchAr": "فيتنام × مالي",
-      "rawIsoTime": "2026-11-26T13:00:00+00:00",
-      "time": "0 - 2 (90+2')",
-      "rawMinute": 92,
-      "homeGoals": 0,
-      "awayGoals": 2,
-      "isLive": true
-    },
-    {
       "matchId": 4722871,
       "competitionId": "5582",
       "tournamentEn": "🛡️ World Cup U17",
@@ -849,8 +849,8 @@
       "matchEn": "Uzbekistan v Italy",
       "matchAr": "أوزبكستان × إيطاليا",
       "rawIsoTime": "2026-11-26T14:00:00+00:00",
-      "time": "0 - 3 (45+4')",
-      "rawMinute": 49,
+      "time": "0 - 3 (45+5')",
+      "rawMinute": 50,
       "homeGoals": 0,
       "awayGoals": 3,
       "isLive": true
@@ -863,8 +863,8 @@
       "matchEn": "Jamaica v Ivory Coast",
       "matchAr": "جامايكا × ساحل العاج",
       "rawIsoTime": "2026-11-26T14:00:00+00:00",
-      "time": "0 - 2 (45+4')",
-      "rawMinute": 49,
+      "time": "0 - 2 (45+5')",
+      "rawMinute": 50,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -891,8 +891,8 @@
       "matchEn": "Salmiyah v Tadamon",
       "matchAr": "السالمية × التضامن",
       "rawIsoTime": "2026-11-26T14:20:00+00:00",
-      "time": "1 - 1 (28')",
-      "rawMinute": 28,
+      "time": "1 - 1 (30')",
+      "rawMinute": 30,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
