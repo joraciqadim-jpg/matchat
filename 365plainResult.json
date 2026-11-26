@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795662633871,
+  "timestamp": 1795687272310,
   "matches": [
     {
       "matchId": 4818643,
@@ -9,11 +9,11 @@
       "matchEn": "Kuching City (Malaysia) v Phnom Penh Crown (Cambodia)",
       "matchAr": "كوتشينغ سيتي (ماليزيا) × بنوم بنه كراون (كمبوديا)",
       "rawIsoTime": "2026-11-26T10:00:00+00:00",
-      "time": "10:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4818644,
@@ -23,11 +23,11 @@
       "matchEn": "Gangwon (South Korea) v Kitchee (Hong Kong)",
       "matchAr": "غانغوون (كوريا الجنوبية) × كيتشي (هونغ كونغ)",
       "rawIsoTime": "2026-11-26T10:00:00+00:00",
-      "time": "10:00",
+      "time": "0 - 1 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "isLive": true
     },
     {
       "matchId": 4818645,
@@ -37,11 +37,11 @@
       "matchEn": "Tampines Rovers (Singapore) v Shanghai Shenhua (China)",
       "matchAr": "تامبينيس روفرز (سنغافورة) × شنغهاي شينهوا (الصين)",
       "rawIsoTime": "2026-11-26T10:00:00+00:00",
-      "time": "10:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4818640,
@@ -660,6 +660,20 @@
       "isLive": false
     },
     {
+      "matchId": 4898894,
+      "competitionId": "141",
+      "tournamentEn": "🇲🇽 Mexican League",
+      "tournamentAr": "🇲🇽 الدوري المكسيكي",
+      "matchEn": "Monterrey v América",
+      "matchAr": "مونتيري × أمريكا",
+      "rawIsoTime": "2026-11-26T03:10:00+00:00",
+      "time": "0 - 0 (done)",
+      "rawMinute": 90,
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": false
+    },
+    {
       "matchId": 4892433,
       "competitionId": "559",
       "tournamentEn": "🇱🇾 Libyan Premier League",
@@ -780,20 +794,6 @@
       "matchAr": "النجم المتلوي × بروغريه سكيكيت",
       "rawIsoTime": "2026-11-26T17:00:00+00:00",
       "time": "17:00 (cancelled)",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
-    },
-    {
-      "matchId": 4898894,
-      "competitionId": "141",
-      "tournamentEn": "🇲🇽 Mexican League",
-      "tournamentAr": "🇲🇽 الدوري المكسيكي",
-      "matchEn": "Monterrey v América",
-      "matchAr": "مونتيري × أمريكا",
-      "rawIsoTime": "2026-11-26T03:10:00+00:00",
-      "time": "03:10",
       "rawMinute": 1,
       "homeGoals": -1,
       "awayGoals": -1,
