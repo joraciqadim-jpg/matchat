@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795805774863,
+  "timestamp": 1795805831882,
   "matches": [
     {
       "matchId": 4886732,
@@ -163,8 +163,8 @@
       "matchEn": "Ittihad Jeddah v NEOM",
       "matchAr": "اتحاد جدة × نيوم",
       "rawIsoTime": "2026-11-27T17:30:00+00:00",
-      "time": "0 - 0 (63')",
-      "rawMinute": 63,
+      "time": "0 - 0 (64')",
+      "rawMinute": 64,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -709,9 +709,9 @@
       "matchEn": "Artis Brno v Slovacko",
       "matchAr": "أرتيس برنو × سلوفاكو",
       "rawIsoTime": "2026-11-27T17:00:00+00:00",
-      "time": "3 - 1 (90+8')",
-      "rawMinute": 98,
-      "homeGoals": 3,
+      "time": "4 - 1 (90+9')",
+      "rawMinute": 99,
+      "homeGoals": 4,
       "awayGoals": 1,
       "isLive": true
     },
@@ -793,10 +793,10 @@
       "matchEn": "Grazer AK v SCR Altach",
       "matchAr": "غراتسر × ألتاش",
       "rawIsoTime": "2026-11-27T18:30:00+00:00",
-      "time": "0 - 0 (27')",
-      "rawMinute": 27,
+      "time": "0 - 1 (28')",
+      "rawMinute": 28,
       "homeGoals": 0,
-      "awayGoals": 0,
+      "awayGoals": 1,
       "isLive": true
     },
     {
