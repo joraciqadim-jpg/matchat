@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795809735963,
+  "timestamp": 1795809792868,
   "matches": [
     {
       "matchId": 4886732,
@@ -37,8 +37,8 @@
       "matchEn": "Nottingham Forest v Chelsea",
       "matchAr": "نوتنغهام فورست × تشيلسي",
       "rawIsoTime": "2026-11-27T20:00:00+00:00",
-      "time": "0 - 0 (2')",
-      "rawMinute": 2,
+      "time": "0 - 0 (3')",
+      "rawMinute": 3,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -51,8 +51,8 @@
       "matchEn": "Levante v Racing Santander",
       "matchAr": "ليفانتي × راسينغ سانتاندير",
       "rawIsoTime": "2026-11-27T20:00:00+00:00",
-      "time": "0 - 0 (1')",
-      "rawMinute": 1,
+      "time": "0 - 0 (2')",
+      "rawMinute": 2,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -65,8 +65,8 @@
       "matchEn": "Werder Bremen v Borussia Mönchengladbach",
       "matchAr": "فيردر بريمن × بوروسيا مونشنغلادباخ",
       "rawIsoTime": "2026-11-27T19:30:00+00:00",
-      "time": "0 - 1 (32')",
-      "rawMinute": 32,
+      "time": "0 - 1 (33')",
+      "rawMinute": 33,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -79,8 +79,8 @@
       "matchEn": "Brest v Paris",
       "matchAr": "بريست × باريس",
       "rawIsoTime": "2026-11-27T19:45:00+00:00",
-      "time": "0 - 0 (18')",
-      "rawMinute": 18,
+      "time": "0 - 0 (19')",
+      "rawMinute": 19,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -93,8 +93,8 @@
       "matchEn": "Venezia v Bologna",
       "matchAr": "فينيزيا × بولونيا",
       "rawIsoTime": "2026-11-27T19:45:00+00:00",
-      "time": "1 - 0 (17')",
-      "rawMinute": 17,
+      "time": "1 - 0 (18')",
+      "rawMinute": 18,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -758,6 +758,20 @@
       "isLive": false
     },
     {
+      "matchId": 4894667,
+      "competitionId": "37",
+      "tournamentEn": "🏆 French Cup",
+      "tournamentAr": "🏆 كأس فرنسا",
+      "matchEn": "Cannes v Le Puy",
+      "matchAr": "كان × لو بوي",
+      "rawIsoTime": "2026-11-27T18:00:00+00:00",
+      "time": "1 - 1 (done)",
+      "rawMinute": 120,
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "isLive": false
+    },
+    {
       "matchId": 4899730,
       "competitionId": "557",
       "tournamentEn": "🇲🇦 Moroccan Botola Pro",
@@ -772,20 +786,6 @@
       "isLive": false
     },
     {
-      "matchId": 4894667,
-      "competitionId": "37",
-      "tournamentEn": "🏆 French Cup",
-      "tournamentAr": "🏆 كأس فرنسا",
-      "matchEn": "Cannes v Le Puy",
-      "matchAr": "كان × لو بوي",
-      "rawIsoTime": "2026-11-27T18:00:00+00:00",
-      "time": "4 - 4 (120')",
-      "rawMinute": 120,
-      "homeGoals": 4,
-      "awayGoals": 4,
-      "isLive": true
-    },
-    {
       "matchId": 4747921,
       "competitionId": "111",
       "tournamentEn": "🇦🇹 Austrian Bundesliga",
@@ -793,8 +793,8 @@
       "matchEn": "Grazer AK v SCR Altach",
       "matchAr": "غراتسر × ألتاش",
       "rawIsoTime": "2026-11-27T18:30:00+00:00",
-      "time": "1 - 2 (77')",
-      "rawMinute": 77,
+      "time": "1 - 2 (78')",
+      "rawMinute": 78,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -835,8 +835,8 @@
       "matchEn": "Gornik Zabrze v Wisla Plock",
       "matchAr": "غورنيك زابرجه × فيسلا بلوك",
       "rawIsoTime": "2026-11-27T19:30:00+00:00",
-      "time": "2 - 0 (32')",
-      "rawMinute": 32,
+      "time": "2 - 0 (33')",
+      "rawMinute": 33,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -849,8 +849,8 @@
       "matchEn": "Oud-Heverlee Leuven v KV Kortrijk",
       "matchAr": "أود هيفرلي لوفين × كورتريك",
       "rawIsoTime": "2026-11-27T19:45:00+00:00",
-      "time": "1 - 0 (16')",
-      "rawMinute": 16,
+      "time": "1 - 0 (17')",
+      "rawMinute": 17,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
