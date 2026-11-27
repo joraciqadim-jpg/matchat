@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795809256564,
+  "timestamp": 1795809323112,
   "matches": [
     {
       "matchId": 4886732,
@@ -25,8 +25,8 @@
       "rawIsoTime": "2026-11-27T19:00:00+00:00",
       "time": "19:00 (cancelled)",
       "rawMinute": 1,
-      "homeGoals": 0,
-      "awayGoals": 0,
+      "homeGoals": -1,
+      "awayGoals": -1,
       "isLive": false
     },
     {
@@ -65,8 +65,8 @@
       "matchEn": "Werder Bremen v Borussia Mönchengladbach",
       "matchAr": "فيردر بريمن × بوروسيا مونشنغلادباخ",
       "rawIsoTime": "2026-11-27T19:30:00+00:00",
-      "time": "0 - 0 (24')",
-      "rawMinute": 24,
+      "time": "0 - 0 (25')",
+      "rawMinute": 25,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -79,8 +79,8 @@
       "matchEn": "Brest v Paris",
       "matchAr": "بريست × باريس",
       "rawIsoTime": "2026-11-27T19:45:00+00:00",
-      "time": "0 - 0 (10')",
-      "rawMinute": 10,
+      "time": "0 - 0 (11')",
+      "rawMinute": 11,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -93,8 +93,8 @@
       "matchEn": "Venezia v Bologna",
       "matchAr": "فينيزيا × بولونيا",
       "rawIsoTime": "2026-11-27T19:45:00+00:00",
-      "time": "0 - 0 (9')",
-      "rawMinute": 9,
+      "time": "0 - 0 (10')",
+      "rawMinute": 10,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -779,8 +779,8 @@
       "matchEn": "Cannes v Le Puy",
       "matchAr": "كان × لو بوي",
       "rawIsoTime": "2026-11-27T18:00:00+00:00",
-      "time": "1 - 1 (90+8')",
-      "rawMinute": 98,
+      "time": "1 - 1 (120')",
+      "rawMinute": 120,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -793,8 +793,8 @@
       "matchEn": "Grazer AK v SCR Altach",
       "matchAr": "غراتسر × ألتاش",
       "rawIsoTime": "2026-11-27T18:30:00+00:00",
-      "time": "1 - 2 (69')",
-      "rawMinute": 69,
+      "time": "1 - 2 (70')",
+      "rawMinute": 70,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -835,8 +835,8 @@
       "matchEn": "Gornik Zabrze v Wisla Plock",
       "matchAr": "غورنيك زابرجه × فيسلا بلوك",
       "rawIsoTime": "2026-11-27T19:30:00+00:00",
-      "time": "2 - 0 (24')",
-      "rawMinute": 24,
+      "time": "2 - 0 (25')",
+      "rawMinute": 25,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -849,9 +849,9 @@
       "matchEn": "Oud-Heverlee Leuven v KV Kortrijk",
       "matchAr": "أود هيفرلي لوفين × كورتريك",
       "rawIsoTime": "2026-11-27T19:45:00+00:00",
-      "time": "1 - 0 (8')",
-      "rawMinute": 8,
-      "homeGoals": 1,
+      "time": "0 - 0 (9')",
+      "rawMinute": 9,
+      "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
     }
