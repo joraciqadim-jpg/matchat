@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795799895554,
+  "timestamp": 1795799951658,
   "matches": [
     {
       "matchId": 4886732,
@@ -569,8 +569,8 @@
       "matchEn": "Lusail Sports v Al Arabi Doha",
       "matchAr": "لوسيل سبورتس × العربي الدوحة",
       "rawIsoTime": "2026-11-27T15:30:00+00:00",
-      "time": "2 - 0 (88')",
-      "rawMinute": 88,
+      "time": "2 - 0 (89')",
+      "rawMinute": 89,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -583,8 +583,8 @@
       "matchEn": "Gas Alshimal v Al Karma",
       "matchAr": "غاز الشمال × الكرمة",
       "rawIsoTime": "2026-11-27T15:30:00+00:00",
-      "time": "0 - 1 (88')",
-      "rawMinute": 88,
+      "time": "0 - 1 (89')",
+      "rawMinute": 89,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -597,8 +597,8 @@
       "matchEn": "Dhofar Salalah v Fanja",
       "matchAr": "ظفار صلالة × فنجاء",
       "rawIsoTime": "2026-11-27T15:40:00+00:00",
-      "time": "1 - 0 (74')",
-      "rawMinute": 74,
+      "time": "1 - 0 (75')",
+      "rawMinute": 75,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -611,8 +611,8 @@
       "matchEn": "Venezuela v Mexico",
       "matchAr": "فنزويلا × المكسيك",
       "rawIsoTime": "2026-11-27T16:00:00+00:00",
-      "time": "0 - 0 (56')",
-      "rawMinute": 56,
+      "time": "0 - 0 (57')",
+      "rawMinute": 57,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -625,8 +625,8 @@
       "matchEn": "Romania v Cameroon",
       "matchAr": "رومانيا × الكاميرون",
       "rawIsoTime": "2026-11-27T16:00:00+00:00",
-      "time": "2 - 0 (59')",
-      "rawMinute": 59,
+      "time": "2 - 0 (60')",
+      "rawMinute": 60,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -639,8 +639,8 @@
       "matchEn": "Al Garaf v Al Mosoul",
       "matchAr": "الغراف × الموصل",
       "rawIsoTime": "2026-11-27T16:00:00+00:00",
-      "time": "0 - 1 (57')",
-      "rawMinute": 57,
+      "time": "0 - 1 (58')",
+      "rawMinute": 58,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -653,7 +653,7 @@
       "matchEn": "Al Wehdat v Doqarah",
       "matchAr": "الوحدات × ذوقرة",
       "rawIsoTime": "2026-11-27T16:30:00+00:00",
-      "time": "1 - 0 (45')",
+      "time": "1 - 0 (Halftime)",
       "rawMinute": 45,
       "homeGoals": 1,
       "awayGoals": 0,
@@ -667,8 +667,8 @@
       "matchEn": "Rakow Czestochowa v Piast Gliwice",
       "matchAr": "راكوف تشنستوشوفا × بياست غليفيتسه",
       "rawIsoTime": "2026-11-27T17:00:00+00:00",
-      "time": "0 - 0 (17')",
-      "rawMinute": 17,
+      "time": "0 - 0 (18')",
+      "rawMinute": 18,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -695,8 +695,8 @@
       "matchEn": "Alanyaspor v Konyaspor",
       "matchAr": "ألانيا سبور × قونيا سبور",
       "rawIsoTime": "2026-11-27T17:00:00+00:00",
-      "time": "1 - 0 (19')",
-      "rawMinute": 19,
+      "time": "1 - 0 (20')",
+      "rawMinute": 20,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -709,8 +709,8 @@
       "matchEn": "Artis Brno v Slovacko",
       "matchAr": "أرتيس برنو × سلوفاكو",
       "rawIsoTime": "2026-11-27T17:00:00+00:00",
-      "time": "0 - 0 (17')",
-      "rawMinute": 17,
+      "time": "0 - 0 (18')",
+      "rawMinute": 18,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -723,8 +723,8 @@
       "matchEn": "Al Madina v Al Shomooa",
       "matchAr": "المدينة × الشموع",
       "rawIsoTime": "2026-11-27T17:00:00+00:00",
-      "time": "0 - 0 (15')",
-      "rawMinute": 15,
+      "time": "0 - 0 (16')",
+      "rawMinute": 16,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -737,10 +737,10 @@
       "matchEn": "Tahaddy Benghazi v Darnes",
       "matchAr": "التحدي بنغازي × دارنس",
       "rawIsoTime": "2026-11-27T17:00:00+00:00",
-      "time": "0 - 0 (15')",
+      "time": "0 - 1 (15')",
       "rawMinute": 15,
       "homeGoals": 0,
-      "awayGoals": 0,
+      "awayGoals": 1,
       "isLive": true
     },
     {
