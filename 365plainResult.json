@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795810751354,
+  "timestamp": 1795810834570,
   "matches": [
     {
       "matchId": 4886732,
@@ -25,8 +25,8 @@
       "rawIsoTime": "2026-11-27T19:00:00+00:00",
       "time": "19:00 (cancelled)",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
+      "homeGoals": 0,
+      "awayGoals": 0,
       "isLive": false
     },
     {
@@ -37,8 +37,8 @@
       "matchEn": "Nottingham Forest v Chelsea",
       "matchAr": "نوتنغهام فورست × تشيلسي",
       "rawIsoTime": "2026-11-27T20:00:00+00:00",
-      "time": "1 - 0 (19')",
-      "rawMinute": 19,
+      "time": "1 - 0 (21')",
+      "rawMinute": 21,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -51,8 +51,8 @@
       "matchEn": "Levante v Racing Santander",
       "matchAr": "ليفانتي × راسينغ سانتاندير",
       "rawIsoTime": "2026-11-27T20:00:00+00:00",
-      "time": "0 - 0 (18')",
-      "rawMinute": 18,
+      "time": "0 - 0 (19')",
+      "rawMinute": 19,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -65,8 +65,8 @@
       "matchEn": "Werder Bremen v Borussia Mönchengladbach",
       "matchAr": "فيردر بريمن × بوروسيا مونشنغلادباخ",
       "rawIsoTime": "2026-11-27T19:30:00+00:00",
-      "time": "1 - 1 (45+4')",
-      "rawMinute": 49,
+      "time": "1 - 1 (Halftime)",
+      "rawMinute": 45,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -79,8 +79,8 @@
       "matchEn": "Brest v Paris",
       "matchAr": "بريست × باريس",
       "rawIsoTime": "2026-11-27T19:45:00+00:00",
-      "time": "1 - 0 (34')",
-      "rawMinute": 35,
+      "time": "1 - 0 (36')",
+      "rawMinute": 36,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -93,8 +93,8 @@
       "matchEn": "Venezia v Bologna",
       "matchAr": "فينيزيا × بولونيا",
       "rawIsoTime": "2026-11-27T19:45:00+00:00",
-      "time": "0 - 0 (34')",
-      "rawMinute": 34,
+      "time": "0 - 0 (35')",
+      "rawMinute": 35,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -107,8 +107,8 @@
       "matchEn": "Maritimo v Nacional Madeira",
       "matchAr": "ماريتيمو × ناسيونال ماديرا",
       "rawIsoTime": "2026-11-27T20:15:00+00:00",
-      "time": "0 - 0 (3')",
-      "rawMinute": 4,
+      "time": "0 - 0 (5')",
+      "rawMinute": 5,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -121,8 +121,8 @@
       "matchEn": "Groningen v Willem II",
       "matchAr": "غرونينغن × فيلم الثاني",
       "rawIsoTime": "2026-11-27T19:00:00+00:00",
-      "time": "0 - 1 (55')",
-      "rawMinute": 55,
+      "time": "0 - 1 (57')",
+      "rawMinute": 57,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -793,8 +793,8 @@
       "matchEn": "Grazer AK v SCR Altach",
       "matchAr": "غراتسر × ألتاش",
       "rawIsoTime": "2026-11-27T18:30:00+00:00",
-      "time": "2 - 3 (90+3')",
-      "rawMinute": 94,
+      "time": "2 - 3 (90+5')",
+      "rawMinute": 95,
       "homeGoals": 2,
       "awayGoals": 3,
       "isLive": true
@@ -807,8 +807,8 @@
       "matchEn": "Le Pays du Valois v Valenciennes",
       "matchAr": "بلد فالوا × فالنسيان",
       "rawIsoTime": "2026-11-27T19:00:00+00:00",
-      "time": "1 - 0 (57')",
-      "rawMinute": 58,
+      "time": "1 - 0 (59')",
+      "rawMinute": 59,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -821,8 +821,8 @@
       "matchEn": "Saint Omer v Caen",
       "matchAr": "سان أومير × كاين",
       "rawIsoTime": "2026-11-27T19:00:00+00:00",
-      "time": "0 - 0 (61')",
-      "rawMinute": 61,
+      "time": "0 - 0 (62')",
+      "rawMinute": 62,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -849,8 +849,8 @@
       "matchEn": "Oud-Heverlee Leuven v KV Kortrijk",
       "matchAr": "أود هيفرلي لوفين × كورتريك",
       "rawIsoTime": "2026-11-27T19:45:00+00:00",
-      "time": "1 - 0 (33')",
-      "rawMinute": 33,
+      "time": "1 - 0 (34')",
+      "rawMinute": 34,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
