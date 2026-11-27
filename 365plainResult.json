@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795777271812,
+  "timestamp": 1795780867311,
   "matches": [
     {
       "matchId": 4886732,
@@ -275,11 +275,11 @@
       "matchEn": "Livyi Bereh v Kolos Kovalivka",
       "matchAr": "ليفي بيريه × كولوس كوفاليفكا",
       "rawIsoTime": "2026-11-27T11:00:00+00:00",
-      "time": "11:00",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "time": "0 - 0 (Halftime)",
+      "rawMinute": 45,
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4899124,
@@ -289,11 +289,11 @@
       "matchEn": "Al Karamah v Al Ittihad Aleppo",
       "matchAr": "الكرامة × الاتحاد حلب",
       "rawIsoTime": "2026-11-27T12:00:00+00:00",
-      "time": "12:00",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "time": "0 - 0 (3')",
+      "rawMinute": 4,
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4899125,
@@ -303,11 +303,11 @@
       "matchEn": "Horriya v Foutoua",
       "matchAr": "الحرية × الفتوة",
       "rawIsoTime": "2026-11-27T12:00:00+00:00",
-      "time": "12:00",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "time": "0 - 0 (3')",
+      "rawMinute": 4,
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4899126,
@@ -317,11 +317,11 @@
       "matchEn": "Jaish v Hottin",
       "matchAr": "الجيش × حطين",
       "rawIsoTime": "2026-11-27T12:00:00+00:00",
-      "time": "12:00",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "time": "0 - 0 (3')",
+      "rawMinute": 3,
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4899127,
