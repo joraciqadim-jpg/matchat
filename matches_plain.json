@@ -3,17 +3,6 @@
     {
       "tournamentEn": "🛡️ CAF Confederation Cup",
       "tournamentAr": "🛡️ كأس الكونفدرالية الأفريقية",
-      "matchEn": "Azam (Tanzania) v Al-Ahli Tripoli (Libya)",
-      "matchAr": "أزام (تنزانيا) × أهلي طرابلس (ليبيا)",
-      "time": "13:00",
-      "channels": [
-        "📺 Bein Sport 1 [Nilesat 7.0W 11013 H 27500]",
-        "📺 Bein Sport 1 [Badrsat 26.0E 10810 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🛡️ CAF Confederation Cup",
-      "tournamentAr": "🛡️ كأس الكونفدرالية الأفريقية",
       "matchEn": "Belouizdad (Algeria) v Customs (Niger)",
       "matchAr": "بلوزداد (الجزائر) × الجمارك (النيجر)",
       "time": "20:00",
@@ -182,16 +171,6 @@
     {
       "tournamentEn": "🇸🇦 Saudi Pro League",
       "tournamentAr": "🇸🇦 الدوري السعودي للمحترفين",
-      "matchEn": "Al-Kholood v Al-Khaleej",
-      "matchAr": "الخلود × الخليج",
-      "time": "12:15",
-      "channels": [
-        "📺 Thmanyah 2 [Badrsat 26.0E 11919 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🇸🇦 Saudi Pro League",
-      "tournamentAr": "🇸🇦 الدوري السعودي للمحترفين",
       "matchEn": "Al-Qadsiah v Al-Fayha",
       "matchAr": "القادسية × الفيحاء",
       "time": "14:20",
@@ -237,54 +216,6 @@
         "📺 Sky Sports Football [Astra 28.2E 12012 V 27500]",
         "📺 ESPN South Africa [Eutelsat 36.0E 12476 H 27500]",
         "📺 Persiana Sports 3 [Al-Yah 52.5E 11343 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🏁 U-17 World Championship",
-      "tournamentAr": "🏁 بطولة العالم تحت 17 سنة",
-      "matchEn": "Colombia v Serbia",
-      "matchAr": "كولومبيا × صربيا",
-      "time": "13:00",
-      "channels": [
-        "📺 Sport 3 [Amos 4.0W 11259 V 30000]",
-        "📺 Al Kass Seven [Badrsat 26.0E 10770 H 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🏁 U-17 World Championship",
-      "tournamentAr": "🏁 بطولة العالم تحت 17 سنة",
-      "matchEn": "Honduras v Japan",
-      "matchAr": "هندوراس × اليابان",
-      "time": "13:00",
-      "channels": [
-        "📺 Al Kass Nine [Nilesat 7.0W 10834 V 27500]",
-        "📺 Sport 2 [Amos 4.0W 11259 V 30000]",
-        "📺 Al Kass Nine [Badrsat 26.0E 10770 V 27500]",
-        "📺 Al Kass Nine [Badrsat 26.0E 12169 V 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🏁 U-17 World Championship",
-      "tournamentAr": "🏁 بطولة العالم تحت 17 سنة",
-      "matchEn": "Costa Rica v Brazil",
-      "matchAr": "كوستاريكا × البرازيل",
-      "time": "14:00",
-      "channels": [
-        "📺 Al Kass Ten [Nilesat 7.0W 10834 V 27500]",
-        "📺 Sport 4 [Amos 4.0W 11259 V 30000]",
-        "📺 Al Kass Ten [Badrsat 26.0E 10770 V 27500]",
-        "📺 Al Kass Ten [Badrsat 26.0E 12169 V 27500]"
-      ]
-    },
-    {
-      "tournamentEn": "🏁 U-17 World Championship",
-      "tournamentAr": "🏁 بطولة العالم تحت 17 سنة",
-      "matchEn": "Ireland v Tanzania",
-      "matchAr": "أيرلندا × تنزانيا",
-      "time": "14:00",
-      "channels": [
-        "📺 Sport 6 [Amos 4.0W 11259 V 30000]",
-        "📺 RTÉ 2 [Astra 28.2E 12363 V 27500]"
       ]
     },
     {
