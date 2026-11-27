@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795798752445,
+  "timestamp": 1795798868574,
   "matches": [
     {
       "matchId": 4886732,
@@ -555,8 +555,8 @@
       "matchEn": "Malkiya v Manama",
       "matchAr": "المالكية × المنامة",
       "rawIsoTime": "2026-11-27T15:00:00+00:00",
-      "time": "2 - 4 (90+7')",
-      "rawMinute": 97,
+      "time": "2 - 4 (90+9')",
+      "rawMinute": 99,
       "homeGoals": 2,
       "awayGoals": 4,
       "isLive": true
@@ -569,8 +569,8 @@
       "matchEn": "Lusail Sports v Al Arabi Doha",
       "matchAr": "لوسيل سبورتس × العربي الدوحة",
       "rawIsoTime": "2026-11-27T15:30:00+00:00",
-      "time": "0 - 0 (69')",
-      "rawMinute": 69,
+      "time": "0 - 0 (71')",
+      "rawMinute": 71,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -583,8 +583,8 @@
       "matchEn": "Gas Alshimal v Al Karma",
       "matchAr": "غاز الشمال × الكرمة",
       "rawIsoTime": "2026-11-27T15:30:00+00:00",
-      "time": "0 - 1 (69')",
-      "rawMinute": 69,
+      "time": "0 - 1 (71')",
+      "rawMinute": 71,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -597,8 +597,8 @@
       "matchEn": "Dhofar Salalah v Fanja",
       "matchAr": "ظفار صلالة × فنجاء",
       "rawIsoTime": "2026-11-27T15:40:00+00:00",
-      "time": "1 - 0 (55')",
-      "rawMinute": 55,
+      "time": "1 - 0 (57')",
+      "rawMinute": 57,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -653,8 +653,8 @@
       "matchEn": "Al Wehdat v Doqarah",
       "matchAr": "الوحدات × ذوقرة",
       "rawIsoTime": "2026-11-27T16:30:00+00:00",
-      "time": "1 - 0 (30')",
-      "rawMinute": 30,
+      "time": "1 - 0 (32')",
+      "rawMinute": 32,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -681,11 +681,11 @@
       "matchEn": "Rizespor v Kasimpasa",
       "matchAr": "ريزه سبور × قاسم باشا",
       "rawIsoTime": "2026-11-27T17:00:00+00:00",
-      "time": "17:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4763738,
@@ -695,11 +695,11 @@
       "matchEn": "Alanyaspor v Konyaspor",
       "matchAr": "ألانيا سبور × قونيا سبور",
       "rawIsoTime": "2026-11-27T17:00:00+00:00",
-      "time": "17:00",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "time": "0 - 0 (2')",
+      "rawMinute": 2,
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4845518,
