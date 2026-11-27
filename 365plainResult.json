@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795785333852,
+  "timestamp": 1795785374636,
   "matches": [
     {
       "matchId": 4886732,
@@ -9,8 +9,8 @@
       "matchEn": "Azam (Tanzania) v Al Ahli Tripoli (Libya)",
       "matchAr": "عزام (تنزانيا) × الأهلي طرابلس (ليبيا)",
       "rawIsoTime": "2026-11-27T13:00:00+00:00",
-      "time": "0 - 1 (16')",
-      "rawMinute": 16,
+      "time": "0 - 1 (17')",
+      "rawMinute": 17,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -332,7 +332,7 @@
       "matchAr": "الحرية × الفتوة",
       "rawIsoTime": "2026-11-27T12:00:00+00:00",
       "time": "0 - 0 (51')",
-      "rawMinute": 51,
+      "rawMinute": 52,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -345,8 +345,8 @@
       "matchEn": "Jaish v Hottin",
       "matchAr": "الجيش × حطين",
       "rawIsoTime": "2026-11-27T12:00:00+00:00",
-      "time": "3 - 0 (55')",
-      "rawMinute": 55,
+      "time": "3 - 0 (56')",
+      "rawMinute": 56,
       "homeGoals": 3,
       "awayGoals": 0,
       "isLive": true
@@ -373,7 +373,7 @@
       "matchEn": "Colombia v Serbia",
       "matchAr": "كولومبيا × صربيا",
       "rawIsoTime": "2026-11-27T13:00:00+00:00",
-      "time": "0 - 0 (15')",
+      "time": "0 - 0 (16')",
       "rawMinute": 16,
       "homeGoals": 0,
       "awayGoals": 0,
@@ -387,8 +387,8 @@
       "matchEn": "Honduras v Japan",
       "matchAr": "هندوراس × اليابان",
       "rawIsoTime": "2026-11-27T13:00:00+00:00",
-      "time": "0 - 0 (15')",
-      "rawMinute": 15,
+      "time": "0 - 0 (16')",
+      "rawMinute": 16,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -401,8 +401,8 @@
       "matchEn": "Al Sailiya v Al Gharafa",
       "matchAr": "السيلية × الغرافة",
       "rawIsoTime": "2026-11-27T13:00:00+00:00",
-      "time": "0 - 0 (14')",
-      "rawMinute": 14,
+      "time": "0 - 0 (15')",
+      "rawMinute": 15,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
