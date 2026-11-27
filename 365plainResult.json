@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795785671491,
+  "timestamp": 1795785735639,
   "matches": [
     {
       "matchId": 4886732,
@@ -9,8 +9,8 @@
       "matchEn": "Azam (Tanzania) v Al Ahli Tripoli (Libya)",
       "matchAr": "عزام (تنزانيا) × الأهلي طرابلس (ليبيا)",
       "rawIsoTime": "2026-11-27T13:00:00+00:00",
-      "time": "0 - 1 (21')",
-      "rawMinute": 22,
+      "time": "0 - 1 (22')",
+      "rawMinute": 23,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -135,8 +135,8 @@
       "matchEn": "Al-Kholood v Al Khaleej",
       "matchAr": "الخلود × الخليج",
       "rawIsoTime": "2026-11-27T12:15:00+00:00",
-      "time": "1 - 1 (Halftime)",
-      "rawMinute": 45,
+      "time": "1 - 1 (47')",
+      "rawMinute": 47,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -317,8 +317,8 @@
       "matchEn": "Al Karamah v Al Ittihad Aleppo",
       "matchAr": "الكرامة × الاتحاد حلب",
       "rawIsoTime": "2026-11-27T12:00:00+00:00",
-      "time": "2 - 0 (61')",
-      "rawMinute": 61,
+      "time": "2 - 0 (62')",
+      "rawMinute": 62,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -332,7 +332,7 @@
       "matchAr": "الحرية × الفتوة",
       "rawIsoTime": "2026-11-27T12:00:00+00:00",
       "time": "0 - 0 (57')",
-      "rawMinute": 57,
+      "rawMinute": 58,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -345,8 +345,8 @@
       "matchEn": "Jaish v Hottin",
       "matchAr": "الجيش × حطين",
       "rawIsoTime": "2026-11-27T12:00:00+00:00",
-      "time": "3 - 0 (58')",
-      "rawMinute": 61,
+      "time": "3 - 0 (62')",
+      "rawMinute": 62,
       "homeGoals": 3,
       "awayGoals": 0,
       "isLive": true
@@ -359,8 +359,8 @@
       "matchEn": "Al Nawaeir v Al Shorta",
       "matchAr": "النواعير × الشرطة",
       "rawIsoTime": "2026-11-27T12:00:00+00:00",
-      "time": "1 - 0 (58')",
-      "rawMinute": 58,
+      "time": "1 - 0 (59')",
+      "rawMinute": 59,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -373,8 +373,8 @@
       "matchEn": "Colombia v Serbia",
       "matchAr": "كولومبيا × صربيا",
       "rawIsoTime": "2026-11-27T13:00:00+00:00",
-      "time": "0 - 0 (21')",
-      "rawMinute": 21,
+      "time": "0 - 0 (22')",
+      "rawMinute": 22,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -387,8 +387,8 @@
       "matchEn": "Honduras v Japan",
       "matchAr": "هندوراس × اليابان",
       "rawIsoTime": "2026-11-27T13:00:00+00:00",
-      "time": "0 - 0 (20')",
-      "rawMinute": 21,
+      "time": "0 - 0 (22')",
+      "rawMinute": 22,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -401,8 +401,8 @@
       "matchEn": "Al Sailiya v Al Gharafa",
       "matchAr": "السيلية × الغرافة",
       "rawIsoTime": "2026-11-27T13:00:00+00:00",
-      "time": "0 - 0 (18')",
-      "rawMinute": 20,
+      "time": "0 - 0 (21')",
+      "rawMinute": 21,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
