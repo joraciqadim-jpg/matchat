@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795784123207,
+  "timestamp": 1795784174950,
   "matches": [
     {
       "matchId": 4886732,
@@ -135,8 +135,8 @@
       "matchEn": "Al-Kholood v Al Khaleej",
       "matchAr": "الخلود × الخليج",
       "rawIsoTime": "2026-11-27T12:15:00+00:00",
-      "time": "1 - 1 (40')",
-      "rawMinute": 40,
+      "time": "1 - 1 (41')",
+      "rawMinute": 41,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -234,6 +234,20 @@
       "matchAr": "قامشلو سبورت × أهلي دمشق",
       "rawIsoTime": "2026-11-27T12:00:00+00:00",
       "time": "12:00",
+      "rawMinute": 1,
+      "homeGoals": -1,
+      "awayGoals": -1,
+      "isLive": false
+    },
+    {
+      "matchId": 4892352,
+      "competitionId": "5836",
+      "tournamentEn": "🏆 Omani Sultan Cup",
+      "tournamentAr": "🏆 كأس السلطان العماني",
+      "matchEn": "Sohar v Al Mudhaibhi",
+      "matchAr": "صحار × المضيبي",
+      "rawIsoTime": "2026-11-27T12:40:00+00:00",
+      "time": "12:40",
       "rawMinute": 1,
       "homeGoals": -1,
       "awayGoals": -1,
@@ -350,20 +364,6 @@
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
-    },
-    {
-      "matchId": 4892352,
-      "competitionId": "5836",
-      "tournamentEn": "🏆 Omani Sultan Cup",
-      "tournamentAr": "🏆 كأس السلطان العماني",
-      "matchEn": "Sohar v Al Mudhaibhi",
-      "matchAr": "صحار × المضيبي",
-      "rawIsoTime": "2026-11-27T12:40:00+00:00",
-      "time": "12:40",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
     },
     {
       "matchId": 4722872,
