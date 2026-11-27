@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795781055094,
+  "timestamp": 1795781123842,
   "matches": [
     {
       "matchId": 4886732,
@@ -290,7 +290,7 @@
       "matchAr": "الكرامة × الاتحاد حلب",
       "rawIsoTime": "2026-11-27T12:00:00+00:00",
       "time": "0 - 0 (7')",
-      "rawMinute": 7,
+      "rawMinute": 8,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -304,7 +304,7 @@
       "matchAr": "الحرية × الفتوة",
       "rawIsoTime": "2026-11-27T12:00:00+00:00",
       "time": "0 - 0 (7')",
-      "rawMinute": 7,
+      "rawMinute": 8,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -317,8 +317,8 @@
       "matchEn": "Jaish v Hottin",
       "matchAr": "الجيش × حطين",
       "rawIsoTime": "2026-11-27T12:00:00+00:00",
-      "time": "0 - 0 (7')",
-      "rawMinute": 7,
+      "time": "0 - 0 (8')",
+      "rawMinute": 8,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -331,11 +331,11 @@
       "matchEn": "Al Nawaeir v Al Shorta",
       "matchAr": "النواعير × الشرطة",
       "rawIsoTime": "2026-11-27T12:00:00+00:00",
-      "time": "12:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4900543,
