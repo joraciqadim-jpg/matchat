@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795790592367,
+  "timestamp": 1795790655252,
   "matches": [
     {
       "matchId": 4886732,
@@ -9,8 +9,8 @@
       "matchEn": "Azam (Tanzania) v Al Ahli Tripoli (Libya)",
       "matchAr": "عزام (تنزانيا) × الأهلي طرابلس (ليبيا)",
       "rawIsoTime": "2026-11-27T13:00:00+00:00",
-      "time": "1 - 2 (83')",
-      "rawMinute": 83,
+      "time": "1 - 2 (84')",
+      "rawMinute": 84,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -149,8 +149,8 @@
       "matchEn": "Qadisiya v Al Feiha",
       "matchAr": "القادسية × الفيحاء",
       "rawIsoTime": "2026-11-27T14:20:00+00:00",
-      "time": "0 - 0 (23')",
-      "rawMinute": 23,
+      "time": "0 - 0 (24')",
+      "rawMinute": 24,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -296,6 +296,20 @@
       "isLive": false
     },
     {
+      "matchId": 4892352,
+      "competitionId": "5836",
+      "tournamentEn": "🏆 Omani Sultan Cup",
+      "tournamentAr": "🏆 كأس السلطان العماني",
+      "matchEn": "Sohar v Al Mudhaibhi",
+      "matchAr": "صحار × المضيبي",
+      "rawIsoTime": "2026-11-27T12:40:00+00:00",
+      "time": "2 - 0 (done)",
+      "rawMinute": 90,
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "isLive": false
+    },
+    {
       "matchId": 4806878,
       "competitionId": "6822",
       "tournamentEn": "🇮🇶 Iraqi League",
@@ -318,6 +332,20 @@
       "matchAr": "الهلال بنغازي × البطنان",
       "rawIsoTime": "2026-11-27T13:30:00+00:00",
       "time": "13:30",
+      "rawMinute": 1,
+      "homeGoals": -1,
+      "awayGoals": -1,
+      "isLive": false
+    },
+    {
+      "matchId": 4779199,
+      "competitionId": "408",
+      "tournamentEn": "🇶🇦 Qatari Stars League",
+      "tournamentAr": "🇶🇦 دوري نجوم قطر",
+      "matchEn": "Lusail Sports v Al Arabi Doha",
+      "matchAr": "لوسيل سبورتس × العربي الدوحة",
+      "rawIsoTime": "2026-11-27T15:30:00+00:00",
+      "time": "15:30 (cancelled)",
       "rawMinute": 1,
       "homeGoals": -1,
       "awayGoals": -1,
@@ -380,20 +408,6 @@
       "isLive": false
     },
     {
-      "matchId": 4892352,
-      "competitionId": "5836",
-      "tournamentEn": "🏆 Omani Sultan Cup",
-      "tournamentAr": "🏆 كأس السلطان العماني",
-      "matchEn": "Sohar v Al Mudhaibhi",
-      "matchAr": "صحار × المضيبي",
-      "rawIsoTime": "2026-11-27T12:40:00+00:00",
-      "time": "2 - 0 (90+7')",
-      "rawMinute": 97,
-      "homeGoals": 2,
-      "awayGoals": 0,
-      "isLive": true
-    },
-    {
       "matchId": 4722872,
       "competitionId": "5582",
       "tournamentEn": "🛡️ World Cup U17",
@@ -401,8 +415,8 @@
       "matchEn": "Colombia v Serbia",
       "matchAr": "كولومبيا × صربيا",
       "rawIsoTime": "2026-11-27T13:00:00+00:00",
-      "time": "0 - 1 (87')",
-      "rawMinute": 87,
+      "time": "0 - 1 (88')",
+      "rawMinute": 88,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -415,8 +429,8 @@
       "matchEn": "Honduras v Japan",
       "matchAr": "هندوراس × اليابان",
       "rawIsoTime": "2026-11-27T13:00:00+00:00",
-      "time": "0 - 7 (85')",
-      "rawMinute": 86,
+      "time": "0 - 7 (87')",
+      "rawMinute": 87,
       "homeGoals": 0,
       "awayGoals": 7,
       "isLive": true
@@ -429,8 +443,8 @@
       "matchEn": "Al Sailiya v Al Gharafa",
       "matchAr": "السيلية × الغرافة",
       "rawIsoTime": "2026-11-27T13:00:00+00:00",
-      "time": "0 - 2 (75')",
-      "rawMinute": 75,
+      "time": "0 - 2 (76')",
+      "rawMinute": 76,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -457,8 +471,8 @@
       "matchEn": "Costa Rica v Brazil",
       "matchAr": "كوستاريكا × البرازيل",
       "rawIsoTime": "2026-11-27T14:00:00+00:00",
-      "time": "0 - 0 (43')",
-      "rawMinute": 43,
+      "time": "0 - 0 (44')",
+      "rawMinute": 44,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -471,8 +485,8 @@
       "matchEn": "Ireland v Tanzania",
       "matchAr": "أيرلندا × تنزانيا",
       "rawIsoTime": "2026-11-27T14:00:00+00:00",
-      "time": "3 - 1 (43')",
-      "rawMinute": 43,
+      "time": "3 - 1 (44')",
+      "rawMinute": 44,
       "homeGoals": 3,
       "awayGoals": 1,
       "isLive": true
@@ -485,8 +499,8 @@
       "matchEn": "Inter Kashi v Churchill Brothers",
       "matchAr": "إنتر كاشي × تشيرتشيل براذرز",
       "rawIsoTime": "2026-11-27T14:00:00+00:00",
-      "time": "0 - 0 (43')",
-      "rawMinute": 44,
+      "time": "0 - 0 (45')",
+      "rawMinute": 45,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -499,8 +513,8 @@
       "matchEn": "Shabab Al Urdon v Al Salt",
       "matchAr": "شباب الأردن × السلط",
       "rawIsoTime": "2026-11-27T14:00:00+00:00",
-      "time": "0 - 0 (44')",
-      "rawMinute": 44,
+      "time": "0 - 0 (45')",
+      "rawMinute": 45,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -556,20 +570,6 @@
       "matchAr": "الجزائر × جمهورية الدومينيكان",
       "rawIsoTime": "2026-11-27T15:00:00+00:00",
       "time": "15:00",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
-    },
-    {
-      "matchId": 4779199,
-      "competitionId": "408",
-      "tournamentEn": "🇶🇦 Qatari Stars League",
-      "tournamentAr": "🇶🇦 دوري نجوم قطر",
-      "matchEn": "Lusail Sports v Al Arabi Doha",
-      "matchAr": "لوسيل سبورتس × العربي الدوحة",
-      "rawIsoTime": "2026-11-27T15:30:00+00:00",
-      "time": "15:30",
       "rawMinute": 1,
       "homeGoals": -1,
       "awayGoals": -1,
