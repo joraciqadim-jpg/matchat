@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795808055662,
+  "timestamp": 1795808124012,
   "matches": [
     {
       "matchId": 4886732,
@@ -65,8 +65,8 @@
       "matchEn": "Werder Bremen v Borussia Mönchengladbach",
       "matchAr": "فيردر بريمن × بوروسيا مونشنغلادباخ",
       "rawIsoTime": "2026-11-27T19:30:00+00:00",
-      "time": "0 - 0 (3')",
-      "rawMinute": 4,
+      "time": "0 - 0 (5')",
+      "rawMinute": 5,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -121,9 +121,9 @@
       "matchEn": "Groningen v Willem II",
       "matchAr": "غرونينغن × فيلم الثاني",
       "rawIsoTime": "2026-11-27T19:00:00+00:00",
-      "time": "0 - 0 (31')",
-      "rawMinute": 31,
-      "homeGoals": 0,
+      "time": "1 - 0 (32')",
+      "rawMinute": 32,
+      "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
     },
@@ -751,10 +751,10 @@
       "matchEn": "Sonderjyske v Brøndby IF",
       "matchAr": "سوندر يوسكه × بروندبي",
       "rawIsoTime": "2026-11-27T18:00:00+00:00",
-      "time": "1 - 0 (75')",
-      "rawMinute": 75,
+      "time": "1 - 1 (76')",
+      "rawMinute": 76,
       "homeGoals": 1,
-      "awayGoals": 0,
+      "awayGoals": 1,
       "isLive": true
     },
     {
@@ -765,8 +765,8 @@
       "matchEn": "Cannes v Le Puy",
       "matchAr": "كان × لو بوي",
       "rawIsoTime": "2026-11-27T18:00:00+00:00",
-      "time": "1 - 1 (78')",
-      "rawMinute": 78,
+      "time": "1 - 1 (79')",
+      "rawMinute": 79,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -779,8 +779,8 @@
       "matchEn": "Amal Tiznit v Maghreb Tétouan",
       "matchAr": "أمل تزنيت × المغرب التطواني",
       "rawIsoTime": "2026-11-27T18:00:00+00:00",
-      "time": "1 - 1 (77')",
-      "rawMinute": 77,
+      "time": "1 - 1 (78')",
+      "rawMinute": 79,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -793,8 +793,8 @@
       "matchEn": "Grazer AK v SCR Altach",
       "matchAr": "غراتسر × ألتاش",
       "rawIsoTime": "2026-11-27T18:30:00+00:00",
-      "time": "0 - 2 (49')",
-      "rawMinute": 49,
+      "time": "0 - 2 (50')",
+      "rawMinute": 50,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -807,8 +807,8 @@
       "matchEn": "Le Pays du Valois v Valenciennes",
       "matchAr": "بلد فالوا × فالنسيان",
       "rawIsoTime": "2026-11-27T19:00:00+00:00",
-      "time": "0 - 0 (37')",
-      "rawMinute": 37,
+      "time": "0 - 0 (38')",
+      "rawMinute": 38,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -821,8 +821,8 @@
       "matchEn": "Saint Omer v Caen",
       "matchAr": "سان أومير × كاين",
       "rawIsoTime": "2026-11-27T19:00:00+00:00",
-      "time": "0 - 0 (29')",
-      "rawMinute": 29,
+      "time": "0 - 0 (30')",
+      "rawMinute": 30,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -835,8 +835,8 @@
       "matchEn": "Gornik Zabrze v Wisla Plock",
       "matchAr": "غورنيك زابرجه × فيسلا بلوك",
       "rawIsoTime": "2026-11-27T19:30:00+00:00",
-      "time": "1 - 0 (4')",
-      "rawMinute": 4,
+      "time": "1 - 0 (5')",
+      "rawMinute": 5,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
