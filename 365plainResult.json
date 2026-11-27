@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795792535920,
+  "timestamp": 1795792574752,
   "matches": [
     {
       "matchId": 4886732,
@@ -457,8 +457,8 @@
       "matchEn": "Costa Rica v Brazil",
       "matchAr": "كوستاريكا × البرازيل",
       "rawIsoTime": "2026-11-27T14:00:00+00:00",
-      "time": "0 - 1 (59')",
-      "rawMinute": 59,
+      "time": "0 - 1 (60')",
+      "rawMinute": 60,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -472,7 +472,7 @@
       "matchAr": "أيرلندا × تنزانيا",
       "rawIsoTime": "2026-11-27T14:00:00+00:00",
       "time": "3 - 1 (55')",
-      "rawMinute": 55,
+      "rawMinute": 56,
       "homeGoals": 3,
       "awayGoals": 1,
       "isLive": true
@@ -485,10 +485,10 @@
       "matchEn": "Inter Kashi v Churchill Brothers",
       "matchAr": "إنتر كاشي × تشيرتشيل براذرز",
       "rawIsoTime": "2026-11-27T14:00:00+00:00",
-      "time": "0 - 0 (53')",
-      "rawMinute": 53,
+      "time": "0 - 1 (54')",
+      "rawMinute": 54,
       "homeGoals": 0,
-      "awayGoals": 0,
+      "awayGoals": 1,
       "isLive": true
     },
     {
@@ -499,8 +499,8 @@
       "matchEn": "Shabab Al Urdon v Al Salt",
       "matchAr": "شباب الأردن × السلط",
       "rawIsoTime": "2026-11-27T14:00:00+00:00",
-      "time": "0 - 0 (54')",
-      "rawMinute": 54,
+      "time": "0 - 0 (55')",
+      "rawMinute": 55,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -527,7 +527,7 @@
       "matchEn": "Malkiya v Manama",
       "matchAr": "المالكية × المنامة",
       "rawIsoTime": "2026-11-27T15:00:00+00:00",
-      "time": "0 - 1 (14')",
+      "time": "0 - 1 (15')",
       "rawMinute": 15,
       "homeGoals": 0,
       "awayGoals": 1,
@@ -541,8 +541,8 @@
       "matchEn": "East Riffa v Ittifaq Maqaba",
       "matchAr": "الرفاع الشرقي × اتفاق مقابة",
       "rawIsoTime": "2026-11-27T15:00:00+00:00",
-      "time": "0 - 0 (16')",
-      "rawMinute": 16,
+      "time": "0 - 0 (17')",
+      "rawMinute": 17,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
