@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795790536256,
+  "timestamp": 1795790592367,
   "matches": [
     {
       "matchId": 4886732,
@@ -9,8 +9,8 @@
       "matchEn": "Azam (Tanzania) v Al Ahli Tripoli (Libya)",
       "matchAr": "عزام (تنزانيا) × الأهلي طرابلس (ليبيا)",
       "rawIsoTime": "2026-11-27T13:00:00+00:00",
-      "time": "1 - 2 (82')",
-      "rawMinute": 82,
+      "time": "1 - 2 (83')",
+      "rawMinute": 83,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -149,8 +149,8 @@
       "matchEn": "Qadisiya v Al Feiha",
       "matchAr": "القادسية × الفيحاء",
       "rawIsoTime": "2026-11-27T14:20:00+00:00",
-      "time": "0 - 0 (22')",
-      "rawMinute": 22,
+      "time": "0 - 0 (23')",
+      "rawMinute": 23,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -387,9 +387,9 @@
       "matchEn": "Sohar v Al Mudhaibhi",
       "matchAr": "صحار × المضيبي",
       "rawIsoTime": "2026-11-27T12:40:00+00:00",
-      "time": "1 - 0 (90+6')",
-      "rawMinute": 96,
-      "homeGoals": 1,
+      "time": "2 - 0 (90+7')",
+      "rawMinute": 97,
+      "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
     },
@@ -401,8 +401,8 @@
       "matchEn": "Colombia v Serbia",
       "matchAr": "كولومبيا × صربيا",
       "rawIsoTime": "2026-11-27T13:00:00+00:00",
-      "time": "0 - 1 (86')",
-      "rawMinute": 86,
+      "time": "0 - 1 (87')",
+      "rawMinute": 87,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -415,10 +415,10 @@
       "matchEn": "Honduras v Japan",
       "matchAr": "هندوراس × اليابان",
       "rawIsoTime": "2026-11-27T13:00:00+00:00",
-      "time": "0 - 6 (84')",
-      "rawMinute": 85,
+      "time": "0 - 7 (85')",
+      "rawMinute": 86,
       "homeGoals": 0,
-      "awayGoals": 6,
+      "awayGoals": 7,
       "isLive": true
     },
     {
@@ -429,8 +429,8 @@
       "matchEn": "Al Sailiya v Al Gharafa",
       "matchAr": "السيلية × الغرافة",
       "rawIsoTime": "2026-11-27T13:00:00+00:00",
-      "time": "0 - 2 (74')",
-      "rawMinute": 74,
+      "time": "0 - 2 (75')",
+      "rawMinute": 75,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -457,8 +457,8 @@
       "matchEn": "Costa Rica v Brazil",
       "matchAr": "كوستاريكا × البرازيل",
       "rawIsoTime": "2026-11-27T14:00:00+00:00",
-      "time": "0 - 0 (42')",
-      "rawMinute": 42,
+      "time": "0 - 0 (43')",
+      "rawMinute": 43,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -471,8 +471,8 @@
       "matchEn": "Ireland v Tanzania",
       "matchAr": "أيرلندا × تنزانيا",
       "rawIsoTime": "2026-11-27T14:00:00+00:00",
-      "time": "3 - 1 (42')",
-      "rawMinute": 42,
+      "time": "3 - 1 (43')",
+      "rawMinute": 43,
       "homeGoals": 3,
       "awayGoals": 1,
       "isLive": true
@@ -486,7 +486,7 @@
       "matchAr": "إنتر كاشي × تشيرتشيل براذرز",
       "rawIsoTime": "2026-11-27T14:00:00+00:00",
       "time": "0 - 0 (43')",
-      "rawMinute": 43,
+      "rawMinute": 44,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -499,8 +499,8 @@
       "matchEn": "Shabab Al Urdon v Al Salt",
       "matchAr": "شباب الأردن × السلط",
       "rawIsoTime": "2026-11-27T14:00:00+00:00",
-      "time": "0 - 0 (43')",
-      "rawMinute": 43,
+      "time": "0 - 0 (44')",
+      "rawMinute": 44,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
