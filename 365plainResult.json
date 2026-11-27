@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795802124250,
+  "timestamp": 1795802174849,
   "matches": [
     {
       "matchId": 4886732,
@@ -163,8 +163,8 @@
       "matchEn": "Ittihad Jeddah v NEOM",
       "matchAr": "اتحاد جدة × نيوم",
       "rawIsoTime": "2026-11-27T17:30:00+00:00",
-      "time": "0 - 0 (23')",
-      "rawMinute": 23,
+      "time": "0 - 0 (24')",
+      "rawMinute": 24,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -611,8 +611,8 @@
       "matchEn": "Venezuela v Mexico",
       "matchAr": "فنزويلا × المكسيك",
       "rawIsoTime": "2026-11-27T16:00:00+00:00",
-      "time": "0 - 0 (90+3')",
-      "rawMinute": 93,
+      "time": "0 - 0 (90+4')",
+      "rawMinute": 94,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -625,8 +625,8 @@
       "matchEn": "Romania v Cameroon",
       "matchAr": "رومانيا × الكاميرون",
       "rawIsoTime": "2026-11-27T16:00:00+00:00",
-      "time": "3 - 1 (90+6')",
-      "rawMinute": 96,
+      "time": "3 - 1 (90+7')",
+      "rawMinute": 97,
       "homeGoals": 3,
       "awayGoals": 1,
       "isLive": true
@@ -653,8 +653,8 @@
       "matchEn": "Al Wehdat v Doqarah",
       "matchAr": "الوحدات × ذوقرة",
       "rawIsoTime": "2026-11-27T16:30:00+00:00",
-      "time": "2 - 0 (66')",
-      "rawMinute": 66,
+      "time": "2 - 0 (67')",
+      "rawMinute": 67,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
