@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795804254855,
+  "timestamp": 1795804272036,
   "matches": [
     {
       "matchId": 4886732,
@@ -681,8 +681,8 @@
       "matchEn": "Rizespor v Kasimpasa",
       "matchAr": "ريزه سبور × قاسم باشا",
       "rawIsoTime": "2026-11-27T17:00:00+00:00",
-      "time": "1 - 2 (72')",
-      "rawMinute": 72,
+      "time": "1 - 2 (73')",
+      "rawMinute": 73,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -737,7 +737,7 @@
       "matchEn": "Tahaddy Benghazi v Darnes",
       "matchAr": "التحدي بنغازي × دارنس",
       "rawIsoTime": "2026-11-27T17:00:00+00:00",
-      "time": "0 - 1 (65')",
+      "time": "0 - 1 (64')",
       "rawMinute": 65,
       "homeGoals": 0,
       "awayGoals": 1,
@@ -765,8 +765,8 @@
       "matchEn": "Cannes v Le Puy",
       "matchAr": "كان × لو بوي",
       "rawIsoTime": "2026-11-27T18:00:00+00:00",
-      "time": "0 - 0 (33')",
-      "rawMinute": 33,
+      "time": "0 - 0 (34')",
+      "rawMinute": 34,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -793,8 +793,8 @@
       "matchEn": "Grazer AK v SCR Altach",
       "matchAr": "غراتسر × ألتاش",
       "rawIsoTime": "2026-11-27T18:30:00+00:00",
-      "time": "0 - 0 (1')",
-      "rawMinute": 1,
+      "time": "0 - 0 (2')",
+      "rawMinute": 2,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
