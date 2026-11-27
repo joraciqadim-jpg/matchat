@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795803791890,
+  "timestamp": 1795803856900,
   "matches": [
     {
       "matchId": 4886732,
@@ -576,6 +576,20 @@
       "isLive": false
     },
     {
+      "matchId": 4898135,
+      "competitionId": "565",
+      "tournamentEn": "🇯🇴 Jordanian Pro League",
+      "tournamentAr": "🇯🇴 الدوري الأردني للمحترفين",
+      "matchEn": "Al Wehdat v Doqarah",
+      "matchAr": "الوحدات × ذوقرة",
+      "rawIsoTime": "2026-11-27T16:30:00+00:00",
+      "time": "2 - 0 (done)",
+      "rawMinute": 90,
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "isLive": false
+    },
+    {
       "matchId": 4899939,
       "competitionId": "557",
       "tournamentEn": "🇲🇦 Moroccan Botola Pro",
@@ -646,20 +660,6 @@
       "isLive": true
     },
     {
-      "matchId": 4898135,
-      "competitionId": "565",
-      "tournamentEn": "🇯🇴 Jordanian Pro League",
-      "tournamentAr": "🇯🇴 الدوري الأردني للمحترفين",
-      "matchEn": "Al Wehdat v Doqarah",
-      "matchAr": "الوحدات × ذوقرة",
-      "rawIsoTime": "2026-11-27T16:30:00+00:00",
-      "time": "2 - 0 (90')",
-      "rawMinute": 90,
-      "homeGoals": 2,
-      "awayGoals": 0,
-      "isLive": true
-    },
-    {
       "matchId": 4736329,
       "competitionId": "153",
       "tournamentEn": "🇵🇱 Polish Ekstraklasa",
@@ -667,8 +667,8 @@
       "matchEn": "Rakow Czestochowa v Piast Gliwice",
       "matchAr": "راكوف تشنستوشوفا × بياست غليفيتسه",
       "rawIsoTime": "2026-11-27T17:00:00+00:00",
-      "time": "1 - 2 (64')",
-      "rawMinute": 64,
+      "time": "1 - 2 (65')",
+      "rawMinute": 65,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -681,8 +681,8 @@
       "matchEn": "Rizespor v Kasimpasa",
       "matchAr": "ريزه سبور × قاسم باشا",
       "rawIsoTime": "2026-11-27T17:00:00+00:00",
-      "time": "1 - 2 (65')",
-      "rawMinute": 65,
+      "time": "1 - 2 (66')",
+      "rawMinute": 66,
       "homeGoals": 1,
       "awayGoals": 2,
       "isLive": true
@@ -695,8 +695,8 @@
       "matchEn": "Alanyaspor v Konyaspor",
       "matchAr": "ألانيا سبور × قونيا سبور",
       "rawIsoTime": "2026-11-27T17:00:00+00:00",
-      "time": "1 - 1 (66')",
-      "rawMinute": 66,
+      "time": "1 - 1 (67')",
+      "rawMinute": 67,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -709,8 +709,8 @@
       "matchEn": "Artis Brno v Slovacko",
       "matchAr": "أرتيس برنو × سلوفاكو",
       "rawIsoTime": "2026-11-27T17:00:00+00:00",
-      "time": "2 - 1 (65')",
-      "rawMinute": 65,
+      "time": "2 - 1 (66')",
+      "rawMinute": 66,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -724,7 +724,7 @@
       "matchAr": "المدينة × الشموع",
       "rawIsoTime": "2026-11-27T17:00:00+00:00",
       "time": "1 - 1 (60')",
-      "rawMinute": 60,
+      "rawMinute": 61,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -738,7 +738,7 @@
       "matchAr": "التحدي بنغازي × دارنس",
       "rawIsoTime": "2026-11-27T17:00:00+00:00",
       "time": "0 - 1 (57')",
-      "rawMinute": 57,
+      "rawMinute": 58,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -751,8 +751,8 @@
       "matchEn": "Sonderjyske v Brøndby IF",
       "matchAr": "سوندر يوسكه × بروندبي",
       "rawIsoTime": "2026-11-27T18:00:00+00:00",
-      "time": "1 - 0 (21')",
-      "rawMinute": 21,
+      "time": "1 - 0 (22')",
+      "rawMinute": 22,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -765,8 +765,8 @@
       "matchEn": "Cannes v Le Puy",
       "matchAr": "كان × لو بوي",
       "rawIsoTime": "2026-11-27T18:00:00+00:00",
-      "time": "0 - 0 (26')",
-      "rawMinute": 26,
+      "time": "0 - 0 (27')",
+      "rawMinute": 27,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -779,8 +779,8 @@
       "matchEn": "Amal Tiznit v Maghreb Tétouan",
       "matchAr": "أمل تزنيت × المغرب التطواني",
       "rawIsoTime": "2026-11-27T18:00:00+00:00",
-      "time": "0 - 0 (23')",
-      "rawMinute": 23,
+      "time": "0 - 0 (24')",
+      "rawMinute": 24,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
