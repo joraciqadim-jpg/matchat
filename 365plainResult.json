@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795801631929,
+  "timestamp": 1795801695213,
   "matches": [
     {
       "matchId": 4886732,
@@ -163,8 +163,8 @@
       "matchEn": "Ittihad Jeddah v NEOM",
       "matchAr": "اتحاد جدة × نيوم",
       "rawIsoTime": "2026-11-27T17:30:00+00:00",
-      "time": "0 - 0 (15')",
-      "rawMinute": 15,
+      "time": "0 - 0 (16')",
+      "rawMinute": 16,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -611,8 +611,8 @@
       "matchEn": "Venezuela v Mexico",
       "matchAr": "فنزويلا × المكسيك",
       "rawIsoTime": "2026-11-27T16:00:00+00:00",
-      "time": "0 - 0 (84')",
-      "rawMinute": 85,
+      "time": "0 - 0 (85')",
+      "rawMinute": 86,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -625,8 +625,8 @@
       "matchEn": "Romania v Cameroon",
       "matchAr": "رومانيا × الكاميرون",
       "rawIsoTime": "2026-11-27T16:00:00+00:00",
-      "time": "3 - 0 (88')",
-      "rawMinute": 88,
+      "time": "3 - 0 (89')",
+      "rawMinute": 89,
       "homeGoals": 3,
       "awayGoals": 0,
       "isLive": true
@@ -653,8 +653,8 @@
       "matchEn": "Al Wehdat v Doqarah",
       "matchAr": "الوحدات × ذوقرة",
       "rawIsoTime": "2026-11-27T16:30:00+00:00",
-      "time": "1 - 0 (58')",
-      "rawMinute": 58,
+      "time": "1 - 0 (59')",
+      "rawMinute": 59,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -667,8 +667,8 @@
       "matchEn": "Rakow Czestochowa v Piast Gliwice",
       "matchAr": "راكوف تشنستوشوفا × بياست غليفيتسه",
       "rawIsoTime": "2026-11-27T17:00:00+00:00",
-      "time": "0 - 2 (45+1')",
-      "rawMinute": 46,
+      "time": "0 - 2 (Halftime)",
+      "rawMinute": 45,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -681,8 +681,8 @@
       "matchEn": "Rizespor v Kasimpasa",
       "matchAr": "ريزه سبور × قاسم باشا",
       "rawIsoTime": "2026-11-27T17:00:00+00:00",
-      "time": "1 - 1 (45+2')",
-      "rawMinute": 47,
+      "time": "1 - 1 (Halftime)",
+      "rawMinute": 45,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -709,8 +709,8 @@
       "matchEn": "Artis Brno v Slovacko",
       "matchAr": "أرتيس برنو × سلوفاكو",
       "rawIsoTime": "2026-11-27T17:00:00+00:00",
-      "time": "1 - 1 (45+1')",
-      "rawMinute": 46,
+      "time": "1 - 1 (Halftime)",
+      "rawMinute": 45,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -723,8 +723,8 @@
       "matchEn": "Al Madina v Al Shomooa",
       "matchAr": "المدينة × الشموع",
       "rawIsoTime": "2026-11-27T17:00:00+00:00",
-      "time": "1 - 0 (44')",
-      "rawMinute": 44,
+      "time": "1 - 0 (45')",
+      "rawMinute": 45,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -737,8 +737,8 @@
       "matchEn": "Tahaddy Benghazi v Darnes",
       "matchAr": "التحدي بنغازي × دارنس",
       "rawIsoTime": "2026-11-27T17:00:00+00:00",
-      "time": "0 - 1 (43')",
-      "rawMinute": 43,
+      "time": "0 - 1 (44')",
+      "rawMinute": 45,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
