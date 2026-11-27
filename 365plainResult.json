@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795798871240,
+  "timestamp": 1795798935872,
   "matches": [
     {
       "matchId": 4886732,
@@ -464,6 +464,20 @@
       "isLive": false
     },
     {
+      "matchId": 4884282,
+      "competitionId": "5479",
+      "tournamentEn": "🇧🇭 Bahraini Premier League",
+      "tournamentAr": "🇧🇭 الدوري البحريني الممتاز",
+      "matchEn": "Malkiya v Manama",
+      "matchAr": "المالكية × المنامة",
+      "rawIsoTime": "2026-11-27T15:00:00+00:00",
+      "time": "2 - 4 (done)",
+      "rawMinute": 90,
+      "homeGoals": 2,
+      "awayGoals": 4,
+      "isLive": false
+    },
+    {
       "matchId": 4884283,
       "competitionId": "5479",
       "tournamentEn": "🇧🇭 Bahraini Premier League",
@@ -548,20 +562,6 @@
       "isLive": false
     },
     {
-      "matchId": 4884282,
-      "competitionId": "5479",
-      "tournamentEn": "🇧🇭 Bahraini Premier League",
-      "tournamentAr": "🇧🇭 الدوري البحريني الممتاز",
-      "matchEn": "Malkiya v Manama",
-      "matchAr": "المالكية × المنامة",
-      "rawIsoTime": "2026-11-27T15:00:00+00:00",
-      "time": "2 - 4 (90+9')",
-      "rawMinute": 99,
-      "homeGoals": 2,
-      "awayGoals": 4,
-      "isLive": true
-    },
-    {
       "matchId": 4779199,
       "competitionId": "408",
       "tournamentEn": "🇶🇦 Qatari Stars League",
@@ -569,8 +569,8 @@
       "matchEn": "Lusail Sports v Al Arabi Doha",
       "matchAr": "لوسيل سبورتس × العربي الدوحة",
       "rawIsoTime": "2026-11-27T15:30:00+00:00",
-      "time": "0 - 0 (71')",
-      "rawMinute": 71,
+      "time": "0 - 0 (72')",
+      "rawMinute": 72,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -583,8 +583,8 @@
       "matchEn": "Gas Alshimal v Al Karma",
       "matchAr": "غاز الشمال × الكرمة",
       "rawIsoTime": "2026-11-27T15:30:00+00:00",
-      "time": "0 - 1 (71')",
-      "rawMinute": 71,
+      "time": "0 - 1 (72')",
+      "rawMinute": 72,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -597,8 +597,8 @@
       "matchEn": "Dhofar Salalah v Fanja",
       "matchAr": "ظفار صلالة × فنجاء",
       "rawIsoTime": "2026-11-27T15:40:00+00:00",
-      "time": "1 - 0 (57')",
-      "rawMinute": 57,
+      "time": "1 - 0 (58')",
+      "rawMinute": 58,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -653,8 +653,8 @@
       "matchEn": "Al Wehdat v Doqarah",
       "matchAr": "الوحدات × ذوقرة",
       "rawIsoTime": "2026-11-27T16:30:00+00:00",
-      "time": "1 - 0 (32')",
-      "rawMinute": 32,
+      "time": "1 - 0 (33')",
+      "rawMinute": 33,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -667,11 +667,11 @@
       "matchEn": "Rakow Czestochowa v Piast Gliwice",
       "matchAr": "راكوف تشنستوشوفا × بياست غليفيتسه",
       "rawIsoTime": "2026-11-27T17:00:00+00:00",
-      "time": "17:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4763737,
@@ -681,8 +681,8 @@
       "matchEn": "Rizespor v Kasimpasa",
       "matchAr": "ريزه سبور × قاسم باشا",
       "rawIsoTime": "2026-11-27T17:00:00+00:00",
-      "time": "0 - 0 (1')",
-      "rawMinute": 1,
+      "time": "0 - 0 (2')",
+      "rawMinute": 3,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -695,8 +695,8 @@
       "matchEn": "Alanyaspor v Konyaspor",
       "matchAr": "ألانيا سبور × قونيا سبور",
       "rawIsoTime": "2026-11-27T17:00:00+00:00",
-      "time": "0 - 0 (2')",
-      "rawMinute": 2,
+      "time": "0 - 0 (3')",
+      "rawMinute": 3,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -709,11 +709,11 @@
       "matchEn": "Artis Brno v Slovacko",
       "matchAr": "أرتيس برنو × سلوفاكو",
       "rawIsoTime": "2026-11-27T17:00:00+00:00",
-      "time": "17:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4892429,
