@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795741262196,
+  "timestamp": 1795749034718,
   "matches": [
     {
       "matchId": 4886732,
@@ -170,20 +170,6 @@
       "isLive": false
     },
     {
-      "matchId": 4632584,
-      "competitionId": "113",
-      "tournamentEn": "🇧🇷 Brazilian Série A",
-      "tournamentAr": "🇧🇷 الدوري البرازيلي",
-      "matchEn": "São Paulo v Remo",
-      "matchAr": "ساو باولو × ريمو",
-      "rawIsoTime": "2026-11-26T23:00:00+00:00",
-      "time": "3 - 1 (done)",
-      "rawMinute": 90,
-      "homeGoals": 3,
-      "awayGoals": 1,
-      "isLive": false
-    },
-    {
       "matchId": 4632586,
       "competitionId": "113",
       "tournamentEn": "🇧🇷 Brazilian Série A",
@@ -195,6 +181,20 @@
       "rawMinute": 1,
       "homeGoals": -1,
       "awayGoals": -1,
+      "isLive": false
+    },
+    {
+      "matchId": 4898893,
+      "competitionId": "141",
+      "tournamentEn": "🇲🇽 Mexican League",
+      "tournamentAr": "🇲🇽 الدوري المكسيكي",
+      "matchEn": "Pachuca v Chivas",
+      "matchAr": "باتشوكا × تشيفاس",
+      "rawIsoTime": "2026-11-27T01:00:00+00:00",
+      "time": "2 - 1 (done)",
+      "rawMinute": 90,
+      "homeGoals": 2,
+      "awayGoals": 1,
       "isLive": false
     },
     {
@@ -248,20 +248,6 @@
       "matchAr": "الجديدة × المغرب الفاسي",
       "rawIsoTime": "2026-11-27T17:00:00+00:00",
       "time": "17:00 (cancelled)",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
-    },
-    {
-      "matchId": 4898893,
-      "competitionId": "141",
-      "tournamentEn": "🇲🇽 Mexican League",
-      "tournamentAr": "🇲🇽 الدوري المكسيكي",
-      "matchEn": "Pachuca v Chivas",
-      "matchAr": "باتشوكا × تشيفاس",
-      "rawIsoTime": "2026-11-27T01:00:00+00:00",
-      "time": "01:00",
       "rawMinute": 1,
       "homeGoals": -1,
       "awayGoals": -1,
