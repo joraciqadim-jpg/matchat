@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795805894987,
+  "timestamp": 1795805951820,
   "matches": [
     {
       "matchId": 4886732,
@@ -163,8 +163,8 @@
       "matchEn": "Ittihad Jeddah v NEOM",
       "matchAr": "اتحاد جدة × نيوم",
       "rawIsoTime": "2026-11-27T17:30:00+00:00",
-      "time": "0 - 0 (65')",
-      "rawMinute": 65,
+      "time": "0 - 0 (66')",
+      "rawMinute": 66,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -646,6 +646,20 @@
       "isLive": false
     },
     {
+      "matchId": 4892429,
+      "competitionId": "559",
+      "tournamentEn": "🇱🇾 Libyan Premier League",
+      "tournamentAr": "🇱🇾 الدوري الليبي",
+      "matchEn": "Al Madina v Al Shomooa",
+      "matchAr": "المدينة × الشموع",
+      "rawIsoTime": "2026-11-27T17:00:00+00:00",
+      "time": "3 - 1 (done)",
+      "rawMinute": 90,
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "isLive": false
+    },
+    {
       "matchId": 4899939,
       "competitionId": "557",
       "tournamentEn": "🇲🇦 Moroccan Botola Pro",
@@ -709,23 +723,9 @@
       "matchEn": "Artis Brno v Slovacko",
       "matchAr": "أرتيس برنو × سلوفاكو",
       "rawIsoTime": "2026-11-27T17:00:00+00:00",
-      "time": "4 - 1 (90+10')",
-      "rawMinute": 100,
+      "time": "4 - 1 (90+11')",
+      "rawMinute": 101,
       "homeGoals": 4,
-      "awayGoals": 1,
-      "isLive": true
-    },
-    {
-      "matchId": 4892429,
-      "competitionId": "559",
-      "tournamentEn": "🇱🇾 Libyan Premier League",
-      "tournamentAr": "🇱🇾 الدوري الليبي",
-      "matchEn": "Al Madina v Al Shomooa",
-      "matchAr": "المدينة × الشموع",
-      "rawIsoTime": "2026-11-27T17:00:00+00:00",
-      "time": "3 - 1 (90')",
-      "rawMinute": 90,
-      "homeGoals": 3,
       "awayGoals": 1,
       "isLive": true
     },
@@ -793,8 +793,8 @@
       "matchEn": "Grazer AK v SCR Altach",
       "matchAr": "غراتسر × ألتاش",
       "rawIsoTime": "2026-11-27T18:30:00+00:00",
-      "time": "0 - 1 (29')",
-      "rawMinute": 29,
+      "time": "0 - 1 (30')",
+      "rawMinute": 30,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -807,8 +807,8 @@
       "matchEn": "Le Pays du Valois v Valenciennes",
       "matchAr": "بلد فالوا × فالنسيان",
       "rawIsoTime": "2026-11-27T19:00:00+00:00",
-      "time": "0 - 0 (1')",
-      "rawMinute": 1,
+      "time": "0 - 0 (2')",
+      "rawMinute": 2,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
