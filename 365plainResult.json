@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795785551976,
+  "timestamp": 1795785635513,
   "matches": [
     {
       "matchId": 4886732,
@@ -9,8 +9,8 @@
       "matchEn": "Azam (Tanzania) v Al Ahli Tripoli (Libya)",
       "matchAr": "عزام (تنزانيا) × الأهلي طرابلس (ليبيا)",
       "rawIsoTime": "2026-11-27T13:00:00+00:00",
-      "time": "0 - 1 (19')",
-      "rawMinute": 20,
+      "time": "0 - 1 (21')",
+      "rawMinute": 21,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -317,8 +317,8 @@
       "matchEn": "Al Karamah v Al Ittihad Aleppo",
       "matchAr": "الكرامة × الاتحاد حلب",
       "rawIsoTime": "2026-11-27T12:00:00+00:00",
-      "time": "2 - 0 (59')",
-      "rawMinute": 59,
+      "time": "2 - 0 (61')",
+      "rawMinute": 61,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -331,8 +331,8 @@
       "matchEn": "Horriya v Foutoua",
       "matchAr": "الحرية × الفتوة",
       "rawIsoTime": "2026-11-27T12:00:00+00:00",
-      "time": "0 - 0 (54')",
-      "rawMinute": 55,
+      "time": "0 - 0 (56')",
+      "rawMinute": 56,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -346,7 +346,7 @@
       "matchAr": "الجيش × حطين",
       "rawIsoTime": "2026-11-27T12:00:00+00:00",
       "time": "3 - 0 (58')",
-      "rawMinute": 59,
+      "rawMinute": 60,
       "homeGoals": 3,
       "awayGoals": 0,
       "isLive": true
@@ -359,8 +359,8 @@
       "matchEn": "Al Nawaeir v Al Shorta",
       "matchAr": "النواعير × الشرطة",
       "rawIsoTime": "2026-11-27T12:00:00+00:00",
-      "time": "1 - 0 (56')",
-      "rawMinute": 56,
+      "time": "1 - 0 (58')",
+      "rawMinute": 58,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -374,7 +374,7 @@
       "matchAr": "كولومبيا × صربيا",
       "rawIsoTime": "2026-11-27T13:00:00+00:00",
       "time": "0 - 0 (19')",
-      "rawMinute": 19,
+      "rawMinute": 21,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -387,8 +387,8 @@
       "matchEn": "Honduras v Japan",
       "matchAr": "هندوراس × اليابان",
       "rawIsoTime": "2026-11-27T13:00:00+00:00",
-      "time": "0 - 0 (18')",
-      "rawMinute": 19,
+      "time": "0 - 0 (20')",
+      "rawMinute": 20,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -402,7 +402,7 @@
       "matchAr": "السيلية × الغرافة",
       "rawIsoTime": "2026-11-27T13:00:00+00:00",
       "time": "0 - 0 (18')",
-      "rawMinute": 18,
+      "rawMinute": 19,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
