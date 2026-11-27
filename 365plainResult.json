@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795787351578,
+  "timestamp": 1795787436362,
   "matches": [
     {
       "matchId": 4886732,
@@ -135,8 +135,8 @@
       "matchEn": "Al-Kholood v Al Khaleej",
       "matchAr": "الخلود × الخليج",
       "rawIsoTime": "2026-11-27T12:15:00+00:00",
-      "time": "2 - 1 (74')",
-      "rawMinute": 74,
+      "time": "2 - 1 (75')",
+      "rawMinute": 76,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -254,20 +254,6 @@
       "isLive": false
     },
     {
-      "matchId": 4892428,
-      "competitionId": "559",
-      "tournamentEn": "🇱🇾 Libyan Premier League",
-      "tournamentAr": "🇱🇾 الدوري الليبي",
-      "matchEn": "Al Bashaer v Al Watan",
-      "matchAr": "البشائر × الوطن",
-      "rawIsoTime": "2026-11-27T13:30:00+00:00",
-      "time": "13:30",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
-    },
-    {
       "matchId": 4892434,
       "competitionId": "559",
       "tournamentEn": "🇱🇾 Libyan Premier League",
@@ -345,8 +331,8 @@
       "matchEn": "Al Karamah v Al Ittihad Aleppo",
       "matchAr": "الكرامة × الاتحاد حلب",
       "rawIsoTime": "2026-11-27T12:00:00+00:00",
-      "time": "2 - 0 (89')",
-      "rawMinute": 89,
+      "time": "2 - 0 (90+1')",
+      "rawMinute": 91,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -359,8 +345,8 @@
       "matchEn": "Horriya v Foutoua",
       "matchAr": "الحرية × الفتوة",
       "rawIsoTime": "2026-11-27T12:00:00+00:00",
-      "time": "0 - 0 (85')",
-      "rawMinute": 85,
+      "time": "0 - 0 (86')",
+      "rawMinute": 86,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -373,8 +359,8 @@
       "matchEn": "Jaish v Hottin",
       "matchAr": "الجيش × حطين",
       "rawIsoTime": "2026-11-27T12:00:00+00:00",
-      "time": "4 - 0 (89')",
-      "rawMinute": 89,
+      "time": "4 - 0 (90')",
+      "rawMinute": 90,
       "homeGoals": 4,
       "awayGoals": 0,
       "isLive": true
@@ -387,8 +373,8 @@
       "matchEn": "Al Nawaeir v Al Shorta",
       "matchAr": "النواعير × الشرطة",
       "rawIsoTime": "2026-11-27T12:00:00+00:00",
-      "time": "1 - 0 (86')",
-      "rawMinute": 86,
+      "time": "1 - 0 (88')",
+      "rawMinute": 88,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -443,8 +429,22 @@
       "matchEn": "Al Sailiya v Al Gharafa",
       "matchAr": "السيلية × الغرافة",
       "rawIsoTime": "2026-11-27T13:00:00+00:00",
-      "time": "0 - 0 (45+3')",
-      "rawMinute": 48,
+      "time": "0 - 0 (45+4')",
+      "rawMinute": 49,
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
+    },
+    {
+      "matchId": 4892428,
+      "competitionId": "559",
+      "tournamentEn": "🇱🇾 Libyan Premier League",
+      "tournamentAr": "🇱🇾 الدوري الليبي",
+      "matchEn": "Al Bashaer v Al Watan",
+      "matchAr": "البشائر × الوطن",
+      "rawIsoTime": "2026-11-27T13:30:00+00:00",
+      "time": "0 - 0 (1')",
+      "rawMinute": 1,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
