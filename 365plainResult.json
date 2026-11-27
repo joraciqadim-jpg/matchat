@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795740255394,
+  "timestamp": 1795740333353,
   "matches": [
     {
       "matchId": 4886732,
@@ -177,8 +177,8 @@
       "matchEn": "São Paulo v Remo",
       "matchAr": "ساو باولو × ريمو",
       "rawIsoTime": "2026-11-26T23:00:00+00:00",
-      "time": "1 - 1 (81')",
-      "rawMinute": 81,
+      "time": "1 - 1 (82')",
+      "rawMinute": 82,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -344,20 +344,6 @@
       "tournamentAr": "🇸🇾 الدوري السوري",
       "matchEn": "Al Nawaeir v Al Shorta",
       "matchAr": "النواعير × الشرطة",
-      "rawIsoTime": "2026-11-27T12:00:00+00:00",
-      "time": "12:00",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
-    },
-    {
-      "matchId": 4900543,
-      "competitionId": "564",
-      "tournamentEn": "🇸🇾 Syrian Premier League",
-      "tournamentAr": "🇸🇾 الدوري السوري",
-      "matchEn": "Qamislo Sport v Damascus Al Ahli",
-      "matchAr": "قامشلو سبورت × أهلي دمشق",
       "rawIsoTime": "2026-11-27T12:00:00+00:00",
       "time": "12:00",
       "rawMinute": 1,
