@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795816391894,
+  "timestamp": 1795816455774,
   "matches": [
     {
       "matchId": 4886732,
@@ -37,11 +37,11 @@
       "matchEn": "Nottingham Forest v Chelsea",
       "matchAr": "نوتنغهام فورست × تشيلسي",
       "rawIsoTime": "2026-11-27T20:00:00+00:00",
-      "time": "3 - 2 (90+5')",
-      "rawMinute": 95,
+      "time": "3 - 2 (done)",
+      "rawMinute": 90,
       "homeGoals": 3,
       "awayGoals": 2,
-      "isLive": true
+      "isLive": false
     },
     {
       "matchId": 4750776,
@@ -51,10 +51,10 @@
       "matchEn": "Levante v Racing Santander",
       "matchAr": "ليفانتي × راسينغ سانتاندير",
       "rawIsoTime": "2026-11-27T20:00:00+00:00",
-      "time": "1 - 2 (90+5')",
-      "rawMinute": 95,
+      "time": "1 - 3 (90+6')",
+      "rawMinute": 96,
       "homeGoals": 1,
-      "awayGoals": 2,
+      "awayGoals": 3,
       "isLive": true
     },
     {
@@ -107,8 +107,8 @@
       "matchEn": "Maritimo v Nacional Madeira",
       "matchAr": "ماريتيمو × ناسيونال ماديرا",
       "rawIsoTime": "2026-11-27T20:15:00+00:00",
-      "time": "0 - 2 (79')",
-      "rawMinute": 79,
+      "time": "0 - 2 (80')",
+      "rawMinute": 80,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
