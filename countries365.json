@@ -619,6 +619,11 @@
     "countryEn": "Iraq",
     "countryAr": "العراق"
   },
+  "8259": {
+    "nameEn": "Al Ahli Tripoli",
+    "countryEn": "Libya",
+    "countryAr": "ليبيا"
+  },
   "8276": {
     "nameEn": "Al Faisaly",
     "countryEn": "Saudi Arabia",
@@ -753,6 +758,11 @@
     "nameEn": "Pakhtakor",
     "countryEn": "Uzbekistan",
     "countryAr": "أوزبكستان"
+  },
+  "10537": {
+    "nameEn": "Azam FC",
+    "countryEn": "Tanzania",
+    "countryAr": "تنزانيا"
   },
   "10564": {
     "nameEn": "FC Kairat Almaty",
