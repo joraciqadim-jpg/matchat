@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795798524338,
+  "timestamp": 1795798576031,
   "matches": [
     {
       "matchId": 4886732,
@@ -555,8 +555,8 @@
       "matchEn": "Malkiya v Manama",
       "matchAr": "المالكية × المنامة",
       "rawIsoTime": "2026-11-27T15:00:00+00:00",
-      "time": "2 - 4 (90+3')",
-      "rawMinute": 93,
+      "time": "2 - 4 (90+4')",
+      "rawMinute": 94,
       "homeGoals": 2,
       "awayGoals": 4,
       "isLive": true
@@ -569,7 +569,7 @@
       "matchEn": "Lusail Sports v Al Arabi Doha",
       "matchAr": "لوسيل سبورتس × العربي الدوحة",
       "rawIsoTime": "2026-11-27T15:30:00+00:00",
-      "time": "0 - 0 (65')",
+      "time": "0 - 0 (66')",
       "rawMinute": 66,
       "homeGoals": 0,
       "awayGoals": 0,
@@ -583,8 +583,8 @@
       "matchEn": "Gas Alshimal v Al Karma",
       "matchAr": "غاز الشمال × الكرمة",
       "rawIsoTime": "2026-11-27T15:30:00+00:00",
-      "time": "0 - 1 (65')",
-      "rawMinute": 65,
+      "time": "0 - 1 (66')",
+      "rawMinute": 66,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -653,8 +653,8 @@
       "matchEn": "Al Wehdat v Doqarah",
       "matchAr": "الوحدات × ذوقرة",
       "rawIsoTime": "2026-11-27T16:30:00+00:00",
-      "time": "1 - 0 (26')",
-      "rawMinute": 26,
+      "time": "1 - 0 (27')",
+      "rawMinute": 27,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
