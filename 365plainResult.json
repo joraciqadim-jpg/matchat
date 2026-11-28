@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795849392256,
+  "timestamp": 1795849455221,
   "matches": [
     {
       "matchId": 4886690,
@@ -611,11 +611,11 @@
       "matchEn": "Kashiwa Reysol v Hiroshima Sanfrecce",
       "matchAr": "كاشيوا ريسول × هيروشيما سانفريتشي",
       "rawIsoTime": "2026-11-28T07:00:00+00:00",
-      "time": "07:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4885459,
