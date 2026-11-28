@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795853832502,
+  "timestamp": 1795853895923,
   "matches": [
     {
       "matchId": 4886690,
@@ -611,9 +611,9 @@
       "matchEn": "Kashiwa Reysol v Hiroshima Sanfrecce",
       "matchAr": "كاشيوا ريسول × هيروشيما سانفريتشي",
       "rawIsoTime": "2026-11-28T07:00:00+00:00",
-      "time": "2 - 1 (55')",
-      "rawMinute": 55,
-      "homeGoals": 2,
+      "time": "3 - 1 (56')",
+      "rawMinute": 56,
+      "homeGoals": 3,
       "awayGoals": 1,
       "isLive": true
     },
@@ -625,8 +625,8 @@
       "matchEn": "Pohang Steelers v Gwangju",
       "matchAr": "بوهانغ ستيلرز × غوانغجو",
       "rawIsoTime": "2026-11-28T07:30:00+00:00",
-      "time": "2 - 2 (45+2')",
-      "rawMinute": 47,
+      "time": "2 - 2 (45+3')",
+      "rawMinute": 48,
       "homeGoals": 2,
       "awayGoals": 2,
       "isLive": true
@@ -640,7 +640,7 @@
       "matchAr": "بوتشون 1995 × غيمتشون سانغمو",
       "rawIsoTime": "2026-11-28T07:30:00+00:00",
       "time": "0 - 0 (45+1')",
-      "rawMinute": 46,
+      "rawMinute": 47,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
