@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795866432242,
+  "timestamp": 1795866495728,
   "matches": [
     {
       "matchId": 4886690,
@@ -653,8 +653,8 @@
       "matchEn": "Rubin Kazan v Akron Tolyatti",
       "matchAr": "روبين قازان × أكرون تولياتي",
       "rawIsoTime": "2026-11-28T11:00:00+00:00",
-      "time": "2 - 0 (45+2')",
-      "rawMinute": 47,
+      "time": "2 - 0 (45+3')",
+      "rawMinute": 48,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -667,8 +667,8 @@
       "matchEn": "Obolon Kyiv v Zorya Luhansk",
       "matchAr": "أوبولون كييف × زوريا لوغانسك",
       "rawIsoTime": "2026-11-28T11:00:00+00:00",
-      "time": "0 - 0 (45+4')",
-      "rawMinute": 49,
+      "time": "0 - 0 (Halftime)",
+      "rawMinute": 45,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
