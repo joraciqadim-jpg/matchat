@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795848551307,
+  "timestamp": 1795848634945,
   "matches": [
     {
       "matchId": 4886690,
@@ -527,8 +527,8 @@
       "matchEn": "Kyoto v Cerezo Osaka",
       "matchAr": "كيوتو × سيريزو أوساكا",
       "rawIsoTime": "2026-11-28T05:00:00+00:00",
-      "time": "4 - 1 (86')",
-      "rawMinute": 86,
+      "time": "4 - 1 (88')",
+      "rawMinute": 88,
       "homeGoals": 4,
       "awayGoals": 1,
       "isLive": true
@@ -541,8 +541,8 @@
       "matchEn": "Shimizu S-Pulse v Urawa Red Diamonds",
       "matchAr": "شيميزو إس-بالس × أوراوا ريد دايموندز",
       "rawIsoTime": "2026-11-28T05:00:00+00:00",
-      "time": "1 - 0 (89')",
-      "rawMinute": 89,
+      "time": "1 - 0 (90+1')",
+      "rawMinute": 91,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -555,9 +555,9 @@
       "matchEn": "Seoul v Daejeon Hana Citizen",
       "matchAr": "سيول × دايجون هانا سيتيزن",
       "rawIsoTime": "2026-11-28T05:00:00+00:00",
-      "time": "3 - 1 (88')",
-      "rawMinute": 88,
-      "homeGoals": 3,
+      "time": "4 - 1 (89')",
+      "rawMinute": 89,
+      "homeGoals": 4,
       "awayGoals": 1,
       "isLive": true
     },
@@ -569,8 +569,8 @@
       "matchEn": "Anyang v Jeju SK",
       "matchAr": "أنيانغ × جيجو إس كيه",
       "rawIsoTime": "2026-11-28T05:00:00+00:00",
-      "time": "1 - 0 (90+1')",
-      "rawMinute": 91,
+      "time": "1 - 0 (90+3')",
+      "rawMinute": 93,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -583,8 +583,8 @@
       "matchEn": "Vissel Kobe v JEF United Chiba",
       "matchAr": "فيسيل كوبي × جيف يونايتد تشيبا",
       "rawIsoTime": "2026-11-28T06:00:00+00:00",
-      "time": "1 - 0 (45+1')",
-      "rawMinute": 46,
+      "time": "1 - 0 (Halftime)",
+      "rawMinute": 45,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -597,8 +597,8 @@
       "matchEn": "Kashima Antlers v Okayama",
       "matchAr": "كاشيما أنتلرز × أوكاياما",
       "rawIsoTime": "2026-11-28T06:00:00+00:00",
-      "time": "0 - 0 (45+1')",
-      "rawMinute": 46,
+      "time": "0 - 0 (45+2')",
+      "rawMinute": 47,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
