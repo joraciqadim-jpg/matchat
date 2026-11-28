@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795852151498,
+  "timestamp": 1795852234409,
   "matches": [
     {
       "matchId": 4886690,
@@ -583,8 +583,8 @@
       "matchEn": "Vissel Kobe v JEF United Chiba",
       "matchAr": "فيسيل كوبي × جيف يونايتد تشيبا",
       "rawIsoTime": "2026-11-28T06:00:00+00:00",
-      "time": "2 - 1 (90')",
-      "rawMinute": 90,
+      "time": "2 - 1 (90+1')",
+      "rawMinute": 91,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -597,8 +597,8 @@
       "matchEn": "Kashima Antlers v Okayama",
       "matchAr": "كاشيما أنتلرز × أوكاياما",
       "rawIsoTime": "2026-11-28T06:00:00+00:00",
-      "time": "1 - 0 (88')",
-      "rawMinute": 88,
+      "time": "1 - 0 (89')",
+      "rawMinute": 89,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -611,8 +611,8 @@
       "matchEn": "Kashiwa Reysol v Hiroshima Sanfrecce",
       "matchAr": "كاشيوا ريسول × هيروشيما سانفريتشي",
       "rawIsoTime": "2026-11-28T07:00:00+00:00",
-      "time": "2 - 1 (45+1')",
-      "rawMinute": 46,
+      "time": "2 - 1 (45+2')",
+      "rawMinute": 47,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
@@ -625,8 +625,8 @@
       "matchEn": "Pohang Steelers v Gwangju",
       "matchAr": "بوهانغ ستيلرز × غوانغجو",
       "rawIsoTime": "2026-11-28T07:30:00+00:00",
-      "time": "0 - 0 (19')",
-      "rawMinute": 19,
+      "time": "0 - 0 (20')",
+      "rawMinute": 21,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -639,8 +639,8 @@
       "matchEn": "Bucheon 1995 v Gimcheon Sangmu",
       "matchAr": "بوتشون 1995 × غيمتشون سانغمو",
       "rawIsoTime": "2026-11-28T07:30:00+00:00",
-      "time": "0 - 0 (17')",
-      "rawMinute": 18,
+      "time": "0 - 0 (19')",
+      "rawMinute": 19,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
