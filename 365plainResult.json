@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795870031881,
+  "timestamp": 1795870095866,
   "matches": [
     {
       "matchId": 4886690,
@@ -485,8 +485,8 @@
       "matchEn": "Al Hazm v Al Nassr",
       "matchAr": "الحزم × النصر",
       "rawIsoTime": "2026-11-28T12:15:00+00:00",
-      "time": "0 - 1 (32')",
-      "rawMinute": 32,
+      "time": "0 - 1 (33')",
+      "rawMinute": 33,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -653,8 +653,8 @@
       "matchEn": "Rubin Kazan v Akron Tolyatti",
       "matchAr": "روبين قازان × أكرون تولياتي",
       "rawIsoTime": "2026-11-28T11:00:00+00:00",
-      "time": "3 - 0 (87')",
-      "rawMinute": 87,
+      "time": "3 - 0 (88')",
+      "rawMinute": 88,
       "homeGoals": 3,
       "awayGoals": 0,
       "isLive": true
@@ -667,8 +667,8 @@
       "matchEn": "Obolon Kyiv v Zorya Luhansk",
       "matchAr": "أوبولون كييف × زوريا لوغانسك",
       "rawIsoTime": "2026-11-28T11:00:00+00:00",
-      "time": "0 - 0 (89')",
-      "rawMinute": 89,
+      "time": "0 - 0 (90')",
+      "rawMinute": 90,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -681,8 +681,8 @@
       "matchEn": "Dynamo Kyiv v Chornomorets Odesa",
       "matchAr": "دينامو كييف × تشورنوموريتس أوديسا",
       "rawIsoTime": "2026-11-28T11:00:00+00:00",
-      "time": "0 - 0 (64')",
-      "rawMinute": 64,
+      "time": "0 - 0 (65')",
+      "rawMinute": 65,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -695,8 +695,8 @@
       "matchEn": "Progres Sakiet v Stade Tunisien",
       "matchAr": "بروغريه سكيكيت × الملعب التونسي",
       "rawIsoTime": "2026-11-28T12:00:00+00:00",
-      "time": "0 - 0 (45+2')",
-      "rawMinute": 47,
+      "time": "0 - 0 (Halftime)",
+      "rawMinute": 45,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -709,8 +709,8 @@
       "matchEn": "OCPAM v Reims",
       "matchAr": "أو سي بام × ريمس",
       "rawIsoTime": "2026-11-28T12:30:00+00:00",
-      "time": "0 - 1 (20')",
-      "rawMinute": 20,
+      "time": "0 - 1 (21')",
+      "rawMinute": 21,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -723,8 +723,8 @@
       "matchEn": "Rives 82 v Versailles 78",
       "matchAr": "ريف 82 × فرساي 78",
       "rawIsoTime": "2026-11-28T12:30:00+00:00",
-      "time": "0 - 0 (16')",
-      "rawMinute": 16,
+      "time": "0 - 0 (17')",
+      "rawMinute": 17,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -737,8 +737,8 @@
       "matchEn": "Bahla v Mjees",
       "matchAr": "بهلاء × مجيس",
       "rawIsoTime": "2026-11-28T12:40:00+00:00",
-      "time": "0 - 0 (8')",
-      "rawMinute": 8,
+      "time": "0 - 0 (9')",
+      "rawMinute": 9,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -2166,6 +2166,20 @@
       "matchAr": "فيليز سارسفيلد × إنديبندينتي",
       "rawIsoTime": "2026-11-28T23:00:00+00:00",
       "time": "23:00",
+      "rawMinute": 1,
+      "homeGoals": -1,
+      "awayGoals": -1,
+      "isLive": false
+    },
+    {
+      "matchId": 4898445,
+      "competitionId": "37",
+      "tournamentEn": "🏆 French Cup",
+      "tournamentAr": "🏆 كأس فرنسا",
+      "matchEn": "Nueillaubiers v Nantes",
+      "matchAr": "نويي لو أوبييه × نانت",
+      "rawIsoTime": "2026-11-29T15:00:00+00:00",
+      "time": "15:00",
       "rawMinute": 1,
       "homeGoals": -1,
       "awayGoals": -1,
