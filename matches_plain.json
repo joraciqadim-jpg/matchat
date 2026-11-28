@@ -614,27 +614,6 @@
         "📺 ERT 2 [Hellas-Sat 39.0E 12242 H 13381]",
         "📺 TRT Spor [Turksat 42.0E 11054 V 30000]"
       ]
-    },
-    {
-      "tournamentEn": "🇺🇸 USA NBA",
-      "tournamentAr": "🇺🇸 الدوري الأميركي لكرة السلة",
-      "matchEn": "Trail Blazers v Warriors",
-      "matchAr": "ترايل بلايزرز × ووريورز",
-      "time": "02:30",
-      "channels": [
-        "📺 5 Sport [Amos 4.0W 11259 V 30000]"
-      ]
-    },
-    {
-      "tournamentEn": "🇺🇸 USA NBA",
-      "tournamentAr": "🇺🇸 الدوري الأميركي لكرة السلة",
-      "matchEn": "SanAntonio Spurs v Lakers",
-      "matchAr": "سان أنتونيو سبيرز × ليكرز",
-      "time": "02:30",
-      "channels": [
-        "📺 ESPN Netherlands [Astra 23.5E 11739 V 29900]",
-        "📺 Persiana Sports 1 [Al-Yah 52.5E 11343 H 27500]"
-      ]
     }
   ]
 }
