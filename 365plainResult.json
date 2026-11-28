@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795845191117,
+  "timestamp": 1795845255190,
   "matches": [
     {
       "matchId": 4886690,
@@ -527,8 +527,8 @@
       "matchEn": "Kyoto v Cerezo Osaka",
       "matchAr": "كيوتو × سيريزو أوساكا",
       "rawIsoTime": "2026-11-28T05:00:00+00:00",
-      "time": "2 - 1 (45+5')",
-      "rawMinute": 50,
+      "time": "2 - 1 (Halftime)",
+      "rawMinute": 45,
       "homeGoals": 2,
       "awayGoals": 1,
       "isLive": true
