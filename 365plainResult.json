@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795875635534,
+  "timestamp": 1795875671942,
   "matches": [
     {
       "matchId": 4886690,
@@ -9,8 +9,8 @@
       "matchEn": "Young Africans (Tanzania) v MC Alger (Algeria)",
       "matchAr": "يانغ أفريكانز (تنزانيا) × مولودية الجزائر (الجزائر)",
       "rawIsoTime": "2026-11-28T13:00:00+00:00",
-      "time": "0 - 0 (60')",
-      "rawMinute": 60,
+      "time": "0 - 0 (61')",
+      "rawMinute": 61,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -737,8 +737,8 @@
       "matchEn": "OCPAM v Reims",
       "matchAr": "أو سي بام × ريمس",
       "rawIsoTime": "2026-11-28T12:30:00+00:00",
-      "time": "0 - 2 (90+2')",
-      "rawMinute": 92,
+      "time": "0 - 2 (90+3')",
+      "rawMinute": 93,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -765,8 +765,8 @@
       "matchEn": "Bahla v Mjees",
       "matchAr": "بهلاء × مجيس",
       "rawIsoTime": "2026-11-28T12:40:00+00:00",
-      "time": "1 - 1 (81')",
-      "rawMinute": 81,
+      "time": "1 - 1 (82')",
+      "rawMinute": 82,
       "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
@@ -793,8 +793,8 @@
       "matchEn": "Al Wakrah v Al Sadd",
       "matchAr": "الوكرة × السد",
       "rawIsoTime": "2026-11-28T13:00:00+00:00",
-      "time": "1 - 0 (58')",
-      "rawMinute": 59,
+      "time": "1 - 0 (60')",
+      "rawMinute": 60,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -821,8 +821,8 @@
       "matchEn": "ES Metlaoui v Ben Guerdane",
       "matchAr": "النجم المتلوي × بن قردان",
       "rawIsoTime": "2026-11-28T13:00:00+00:00",
-      "time": "0 - 2 (62')",
-      "rawMinute": 62,
+      "time": "0 - 2 (63')",
+      "rawMinute": 63,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -835,8 +835,8 @@
       "matchEn": "Al Naft v Quwa Al Jawiya",
       "matchAr": "النفط × القوة الجوية",
       "rawIsoTime": "2026-11-28T13:00:00+00:00",
-      "time": "0 - 1 (62')",
-      "rawMinute": 62,
+      "time": "0 - 1 (63')",
+      "rawMinute": 63,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -891,8 +891,8 @@
       "matchEn": "Widzew Lodz v Zaglebie Lubin",
       "matchAr": "فيدزيف وودج × زاغليبي لوبين",
       "rawIsoTime": "2026-11-28T13:45:00+00:00",
-      "time": "2 - 0 (36')",
-      "rawMinute": 36,
+      "time": "2 - 0 (37')",
+      "rawMinute": 37,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
@@ -905,8 +905,8 @@
       "matchEn": "Al Talaba v Mina'a Basra",
       "matchAr": "الطلبة × ميناء البصرة",
       "rawIsoTime": "2026-11-28T13:45:00+00:00",
-      "time": "0 - 0 (37')",
-      "rawMinute": 37,
+      "time": "0 - 0 (38')",
+      "rawMinute": 38,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -919,8 +919,8 @@
       "matchEn": "Oman v Sur",
       "matchAr": "عُمان × صور",
       "rawIsoTime": "2026-11-28T13:50:00+00:00",
-      "time": "0 - 0 (27')",
-      "rawMinute": 27,
+      "time": "0 - 0 (28')",
+      "rawMinute": 28,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -934,7 +934,7 @@
       "matchAr": "ملادا بوليسلاف × سيغما أولوموتس",
       "rawIsoTime": "2026-11-28T14:00:00+00:00",
       "time": "1 - 0 (20')",
-      "rawMinute": 20,
+      "rawMinute": 21,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -961,8 +961,8 @@
       "matchEn": "Al Arabi v Al Faisaly",
       "matchAr": "العربي × الفيصلي",
       "rawIsoTime": "2026-11-28T14:00:00+00:00",
-      "time": "0 - 0 (21')",
-      "rawMinute": 21,
+      "time": "0 - 0 (22')",
+      "rawMinute": 22,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -975,7 +975,7 @@
       "matchEn": "Epinal v Amiens",
       "matchAr": "إبينال × أميان",
       "rawIsoTime": "2026-11-28T14:00:00+00:00",
-      "time": "0 - 0 (4')",
+      "time": "0 - 0 (5')",
       "rawMinute": 5,
       "homeGoals": 0,
       "awayGoals": 0,
@@ -1003,8 +1003,8 @@
       "matchEn": "Chennaiyin v Mumbai City",
       "matchAr": "تشينايين × مومباي سيتي",
       "rawIsoTime": "2026-11-28T14:00:00+00:00",
-      "time": "1 - 0 (21')",
-      "rawMinute": 21,
+      "time": "1 - 0 (22')",
+      "rawMinute": 22,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
