@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795845033687,
+  "timestamp": 1795845072173,
   "matches": [
     {
       "matchId": 4886690,
@@ -555,8 +555,8 @@
       "matchEn": "Seoul v Daejeon Hana Citizen",
       "matchAr": "سيول × دايجون هانا سيتيزن",
       "rawIsoTime": "2026-11-28T05:00:00+00:00",
-      "time": "2 - 0 (45+6')",
-      "rawMinute": 51,
+      "time": "2 - 0 (Halftime)",
+      "rawMinute": 45,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
