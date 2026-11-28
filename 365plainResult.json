@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795857036173,
+  "timestamp": 1795857072011,
   "matches": [
     {
       "matchId": 4886690,
@@ -639,9 +639,9 @@
       "matchEn": "Bucheon 1995 v Gimcheon Sangmu",
       "matchAr": "بوتشون 1995 × غيمتشون سانغمو",
       "rawIsoTime": "2026-11-28T07:30:00+00:00",
-      "time": "0 - 1 (79')",
-      "rawMinute": 79,
-      "homeGoals": 0,
+      "time": "1 - 1 (79')",
+      "rawMinute": 80,
+      "homeGoals": 1,
       "awayGoals": 1,
       "isLive": true
     },
