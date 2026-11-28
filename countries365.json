@@ -229,6 +229,11 @@
     "countryEn": "Argentina",
     "countryAr": "الأرجنتين"
   },
+  "867": {
+    "nameEn": "Estudiantes de La Plata",
+    "countryEn": "Argentina",
+    "countryAr": "الأرجنتين"
+  },
   "887": {
     "nameEn": "FC Porto",
     "countryEn": "Portugal",
@@ -331,6 +336,11 @@
   },
   "1209": {
     "nameEn": "Atlético Mineiro",
+    "countryEn": "Brazil",
+    "countryAr": "البرازيل"
+  },
+  "1222": {
+    "nameEn": "Palmeiras",
     "countryEn": "Brazil",
     "countryAr": "البرازيل"
   },
@@ -534,6 +544,11 @@
     "countryEn": "Singapore",
     "countryAr": "سنغافورة"
   },
+  "5455": {
+    "nameEn": "AS Far Rabat",
+    "countryEn": "Morocco",
+    "countryAr": "المغرب"
+  },
   "5457": {
     "nameEn": "Al Hilal Riyadh",
     "countryEn": "Saudi Arabia",
@@ -609,10 +624,35 @@
     "countryEn": "Thailand",
     "countryAr": "تايلاند"
   },
+  "8201": {
+    "nameEn": "Zamalek SC",
+    "countryEn": "Egypt",
+    "countryAr": "مصر"
+  },
+  "8204": {
+    "nameEn": "Raja Casablanca",
+    "countryEn": "Morocco",
+    "countryAr": "المغرب"
+  },
+  "8218": {
+    "nameEn": "MC Alger",
+    "countryEn": "Algeria",
+    "countryAr": "الجزائر"
+  },
   "8225": {
     "nameEn": "CR Belouizdad",
     "countryEn": "Algeria",
     "countryAr": "الجزائر"
+  },
+  "8235": {
+    "nameEn": "Esperance ST",
+    "countryEn": "Tunisia",
+    "countryAr": "تونس"
+  },
+  "8239": {
+    "nameEn": "Club Africain Tunis",
+    "countryEn": "Tunisia",
+    "countryAr": "تونس"
   },
   "8246": {
     "nameEn": "Al Shorta Baghdad",
@@ -633,6 +673,11 @@
     "nameEn": "Al Hussein",
     "countryEn": "Jordan",
     "countryAr": "الأردن"
+  },
+  "8321": {
+    "nameEn": "Maghreb Fès",
+    "countryEn": "Morocco",
+    "countryAr": "المغرب"
   },
   "8344": {
     "nameEn": "Jazira Abu Dhabi",
@@ -734,6 +779,11 @@
     "countryEn": "South Korea",
     "countryAr": "كوريا الجنوبية"
   },
+  "9974": {
+    "nameEn": "RSB Berkane",
+    "countryEn": "Morocco",
+    "countryAr": "المغرب"
+  },
   "10080": {
     "nameEn": "Johor Darul Ta’zim",
     "countryEn": "Malaysia",
@@ -768,6 +818,11 @@
     "nameEn": "FC Kairat Almaty",
     "countryEn": "Kazakhstan",
     "countryAr": "كازاخستان"
+  },
+  "10778": {
+    "nameEn": "ASKO Kara",
+    "countryEn": "Togo",
+    "countryAr": "توغو"
   },
   "11283": {
     "nameEn": "Quwa Al Jawiya",
@@ -819,10 +874,20 @@
     "countryEn": "Hong Kong",
     "countryAr": "هونغ كونغ"
   },
+  "18957": {
+    "nameEn": "Young Africans",
+    "countryEn": "Tanzania",
+    "countryAr": "تنزانيا"
+  },
   "20457": {
     "nameEn": "Svay Rieng",
     "countryEn": "Cambodia",
     "countryAr": "كمبوديا"
+  },
+  "22143": {
+    "nameEn": "Pyramids",
+    "countryEn": "Egypt",
+    "countryAr": "مصر"
   },
   "29362": {
     "nameEn": "Riga",
@@ -844,6 +909,11 @@
     "countryEn": "Cambodia",
     "countryAr": "كمبوديا"
   },
+  "46995": {
+    "nameEn": "Colombe",
+    "countryEn": "Cameroon",
+    "countryAr": "الكاميرون"
+  },
   "48879": {
     "nameEn": "FC Ararat-Armenia",
     "countryEn": "Armenia",
@@ -863,6 +933,11 @@
     "nameEn": "Kuching City FC",
     "countryEn": "Malaysia",
     "countryAr": "ماليزيا"
+  },
+  "57656": {
+    "nameEn": "Wiliete Sc",
+    "countryEn": "Angola",
+    "countryAr": "أنغولا"
   },
   "67508": {
     "nameEn": "Lion City",
@@ -888,5 +963,10 @@
     "nameEn": "AS Douanes",
     "countryEn": "Senegal",
     "countryAr": "السنغال"
+  },
+  "82528": {
+    "nameEn": "Durban City",
+    "countryEn": "South Africa",
+    "countryAr": "جنوب أفريقيا"
   }
 }
