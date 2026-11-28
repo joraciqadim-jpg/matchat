@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795858252888,
+  "timestamp": 1795863668421,
   "matches": [
     {
       "matchId": 4886690,
@@ -653,11 +653,11 @@
       "matchEn": "Rubin Kazan v Akron Tolyatti",
       "matchAr": "روبين قازان × أكرون تولياتي",
       "rawIsoTime": "2026-11-28T11:00:00+00:00",
-      "time": "11:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4748644,
@@ -667,11 +667,11 @@
       "matchEn": "Obolon Kyiv v Zorya Luhansk",
       "matchAr": "أوبولون كييف × زوريا لوغانسك",
       "rawIsoTime": "2026-11-28T11:00:00+00:00",
-      "time": "11:00",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "time": "0 - 0 (3')",
+      "rawMinute": 3,
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4748650,
@@ -681,11 +681,11 @@
       "matchEn": "Dynamo Kyiv v Chornomorets Odesa",
       "matchAr": "دينامو كييف × تشورنوموريتس أوديسا",
       "rawIsoTime": "2026-11-28T11:00:00+00:00",
-      "time": "11:00",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "time": "0 - 0 (3')",
+      "rawMinute": 3,
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4798240,
