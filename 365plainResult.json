@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795866495728,
+  "timestamp": 1795866552847,
   "matches": [
     {
       "matchId": 4886690,
@@ -653,8 +653,8 @@
       "matchEn": "Rubin Kazan v Akron Tolyatti",
       "matchAr": "روبين قازان × أكرون تولياتي",
       "rawIsoTime": "2026-11-28T11:00:00+00:00",
-      "time": "2 - 0 (45+3')",
-      "rawMinute": 48,
+      "time": "2 - 0 (Halftime)",
+      "rawMinute": 45,
       "homeGoals": 2,
       "awayGoals": 0,
       "isLive": true
