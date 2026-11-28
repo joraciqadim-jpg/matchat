@@ -1,41 +1,57 @@
 {
-  "Luckenwalde": {
+  "mas": {
+    "en": "MAS Fes",
+    "ar": "المغرب الفاسي"
+  },
+  "colombe fc": {
+    "en": "Colombe Sportive",
+    "ar": "كولومب سبورتيف"
+  },
+  "asko": {
+    "en": "ASKO Kara",
+    "ar": "أسكو كارا"
+  },
+  "as far": {
+    "en": "AS FAR Rabat",
+    "ar": "الجيش الملكي"
+  },
+  "luckenwalde": {
     "en": "Luckenwalde",
     "ar": "لوكنفالده"
   },
-  "Young Africans": {
+  "young africans": {
     "en": "Young Africans",
     "ar": "يانغ أفريكانز"
   },
-  "Maghreb Fès": {
+  "maghreb fs": {
     "en": "Maghreb Fès",
     "ar": "المغرب الفاسي"
   },
-  "Espérance ST": {
+  "esprance st": {
     "en": "Espérance Tunis",
     "ar": "الترجي التونسي"
   },
-  "Krasava FC": {
+  "krasava fc": {
     "en": "Krasava FC",
     "ar": "كراسافا"
   },
-  "Nahdat Berkane": {
+  "nahdat berkane": {
     "en": "RS Berkane",
     "ar": "نهضة بركان"
   },
-  "Colombe": {
+  "colombe": {
     "en": "Colombe",
     "ar": "كولومب"
   },
-  "CAF African Confederation Cup": {
+  "caf african confederation cup": {
     "en": "CAF Confederation Cup",
     "ar": "كأس الكونفدرالية الأفريقية"
   },
-  "Raja Casablanca": {
+  "raja casablanca": {
     "en": "Raja Casablanca",
     "ar": "الرجاء الرياضي"
   },
-  "ASKO de Kara": {
+  "asko de kara": {
     "en": "ASKO Kara",
     "ar": "أسكو كارا"
   },
