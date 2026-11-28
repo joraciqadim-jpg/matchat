@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795867152936,
+  "timestamp": 1795867265840,
   "matches": [
     {
       "matchId": 4886690,
@@ -695,11 +695,11 @@
       "matchEn": "Progres Sakiet v Stade Tunisien",
       "matchAr": "بروغريه سكيكيت × الملعب التونسي",
       "rawIsoTime": "2026-11-28T12:00:00+00:00",
-      "time": "12:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4894626,
