@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795856724692,
+  "timestamp": 1795856775511,
   "matches": [
     {
       "matchId": 4886690,
@@ -625,8 +625,8 @@
       "matchEn": "Pohang Steelers v Gwangju",
       "matchAr": "بوهانغ ستيلرز × غوانغجو",
       "rawIsoTime": "2026-11-28T07:30:00+00:00",
-      "time": "2 - 3 (75')",
-      "rawMinute": 76,
+      "time": "2 - 3 (76')",
+      "rawMinute": 77,
       "homeGoals": 2,
       "awayGoals": 3,
       "isLive": true
@@ -639,8 +639,8 @@
       "matchEn": "Bucheon 1995 v Gimcheon Sangmu",
       "matchAr": "بوتشون 1995 × غيمتشون سانغمو",
       "rawIsoTime": "2026-11-28T07:30:00+00:00",
-      "time": "0 - 1 (74')",
-      "rawMinute": 74,
+      "time": "0 - 1 (75')",
+      "rawMinute": 75,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
