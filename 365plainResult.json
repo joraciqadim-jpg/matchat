@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795873991693,
+  "timestamp": 1795874055873,
   "matches": [
     {
       "matchId": 4886690,
@@ -485,8 +485,8 @@
       "matchEn": "Al Hazm v Al Nassr",
       "matchAr": "الحزم × النصر",
       "rawIsoTime": "2026-11-28T12:15:00+00:00",
-      "time": "0 - 1 (78')",
-      "rawMinute": 79,
+      "time": "0 - 1 (79')",
+      "rawMinute": 80,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -695,8 +695,8 @@
       "matchEn": "Progres Sakiet v Stade Tunisien",
       "matchAr": "بروغريه سكيكيت × الملعب التونسي",
       "rawIsoTime": "2026-11-28T12:00:00+00:00",
-      "time": "0 - 0 (90+2')",
-      "rawMinute": 92,
+      "time": "0 - 0 (90+3')",
+      "rawMinute": 93,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -709,8 +709,8 @@
       "matchEn": "OCPAM v Reims",
       "matchAr": "أو سي بام × ريمس",
       "rawIsoTime": "2026-11-28T12:30:00+00:00",
-      "time": "0 - 2 (65')",
-      "rawMinute": 65,
+      "time": "0 - 2 (66')",
+      "rawMinute": 66,
       "homeGoals": 0,
       "awayGoals": 2,
       "isLive": true
@@ -723,8 +723,8 @@
       "matchEn": "Rives 82 v Versailles 78",
       "matchAr": "ريف 82 × فرساي 78",
       "rawIsoTime": "2026-11-28T12:30:00+00:00",
-      "time": "0 - 0 (62')",
-      "rawMinute": 62,
+      "time": "0 - 0 (64')",
+      "rawMinute": 64,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -737,8 +737,8 @@
       "matchEn": "Bahla v Mjees",
       "matchAr": "بهلاء × مجيس",
       "rawIsoTime": "2026-11-28T12:40:00+00:00",
-      "time": "0 - 1 (54')",
-      "rawMinute": 54,
+      "time": "0 - 1 (55')",
+      "rawMinute": 55,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -835,8 +835,8 @@
       "matchEn": "CSKA Moscow v Zenit",
       "matchAr": "سيسكا موسكو × زينيت",
       "rawIsoTime": "2026-11-28T13:30:00+00:00",
-      "time": "0 - 1 (23')",
-      "rawMinute": 23,
+      "time": "0 - 1 (24')",
+      "rawMinute": 24,
       "homeGoals": 0,
       "awayGoals": 1,
       "isLive": true
@@ -877,8 +877,8 @@
       "matchEn": "Al Sharara v Military Union",
       "matchAr": "الشرارة × الاتحاد العسكري",
       "rawIsoTime": "2026-11-28T13:30:00+00:00",
-      "time": "0 - 0 (21')",
-      "rawMinute": 22,
+      "time": "0 - 0 (23')",
+      "rawMinute": 23,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -891,8 +891,8 @@
       "matchEn": "Widzew Lodz v Zaglebie Lubin",
       "matchAr": "فيدزيف وودج × زاغليبي لوبين",
       "rawIsoTime": "2026-11-28T13:45:00+00:00",
-      "time": "1 - 0 (9')",
-      "rawMinute": 9,
+      "time": "1 - 0 (10')",
+      "rawMinute": 10,
       "homeGoals": 1,
       "awayGoals": 0,
       "isLive": true
@@ -905,8 +905,8 @@
       "matchEn": "Al Talaba v Mina'a Basra",
       "matchAr": "الطلبة × ميناء البصرة",
       "rawIsoTime": "2026-11-28T13:45:00+00:00",
-      "time": "0 - 0 (10')",
-      "rawMinute": 10,
+      "time": "0 - 0 (11')",
+      "rawMinute": 11,
       "homeGoals": 0,
       "awayGoals": 0,
       "isLive": true
@@ -919,11 +919,11 @@
       "matchEn": "Oman v Sur",
       "matchAr": "عُمان × صور",
       "rawIsoTime": "2026-11-28T13:50:00+00:00",
-      "time": "13:50",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4743838,
