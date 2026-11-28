@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795827431456,
+  "timestamp": 1795842064955,
   "matches": [
     {
       "matchId": 4886690,
@@ -520,20 +520,6 @@
       "isLive": false
     },
     {
-      "matchId": 4632586,
-      "competitionId": "113",
-      "tournamentEn": "🇧🇷 Brazilian Série A",
-      "tournamentAr": "🇧🇷 الدوري البرازيلي",
-      "matchEn": "Fluminense v Cruzeiro",
-      "matchAr": "فلومينينسي × كروزيرو",
-      "rawIsoTime": "2026-11-27T23:00:00+00:00",
-      "time": "0 - 1 (done)",
-      "rawMinute": 90,
-      "homeGoals": 0,
-      "awayGoals": 1,
-      "isLive": false
-    },
-    {
       "matchId": 4739545,
       "competitionId": "147",
       "tournamentEn": "🇯🇵 Japanese J1 League",
@@ -569,11 +555,11 @@
       "matchEn": "Seoul v Daejeon Hana Citizen",
       "matchAr": "سيول × دايجون هانا سيتيزن",
       "rawIsoTime": "2026-11-28T05:00:00+00:00",
-      "time": "05:00",
-      "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "time": "0 - 0 (2')",
+      "rawMinute": 2,
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4885464,
@@ -583,11 +569,11 @@
       "matchEn": "Anyang v Jeju SK",
       "matchAr": "أنيانغ × جيجو إس كيه",
       "rawIsoTime": "2026-11-28T05:00:00+00:00",
-      "time": "05:00",
+      "time": "0 - 0 (1')",
       "rawMinute": 1,
-      "homeGoals": -1,
-      "awayGoals": -1,
-      "isLive": false
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "isLive": true
     },
     {
       "matchId": 4739544,
